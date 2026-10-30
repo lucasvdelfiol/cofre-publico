@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4322608",
+  "city_name": "Venâncio Aires",
+  "uf": "RS",
+  "population": 68763,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 308459230.01,
+    "total_expense": 308753819.26,
+    "own_revenue_percentage": 37.8,
+    "transfers_revenue_percentage": 62.2,
+    "personnel_expense_percentage_rcl": 52.1
+  },
+  "per_capita_breakdown": {
+    "health": 1060.5,
+    "education": 1282.2,
+    "urbanism": 399.4,
+    "administration": 531.1,
+    "legislative": 152.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3637.0,
+      "health_per_capita": 827.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3906.4,
+      "health_per_capita": 890.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4175.8,
+      "health_per_capita": 954.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4400.3,
+      "health_per_capita": 1018.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4490.1,
+      "health_per_capita": 1060.5
+    }
+  ]
+}

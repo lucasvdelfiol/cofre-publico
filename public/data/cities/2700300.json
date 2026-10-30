@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2700300",
+  "city_name": "Arapiraca",
+  "uf": "AL",
+  "population": 234696,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 1200659306.19,
+    "total_expense": 1169918928.48,
+    "own_revenue_percentage": 50.9,
+    "transfers_revenue_percentage": 49.1,
+    "personnel_expense_percentage_rcl": 50.8
+  },
+  "per_capita_breakdown": {
+    "health": 1015.2,
+    "education": 1384.3,
+    "urbanism": 460.0,
+    "administration": 395.4,
+    "legislative": 137.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4037.7,
+      "health_per_capita": 791.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4336.8,
+      "health_per_capita": 852.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4635.9,
+      "health_per_capita": 913.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4885.1,
+      "health_per_capita": 974.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4984.8,
+      "health_per_capita": 1015.2
+    }
+  ]
+}

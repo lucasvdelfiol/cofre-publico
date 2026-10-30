@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3133105",
+  "city_name": "Itanhandu",
+  "uf": "MG",
+  "population": 15236,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 65855991.11,
+    "total_expense": 66196888.68,
+    "own_revenue_percentage": 17.1,
+    "transfers_revenue_percentage": 82.9,
+    "personnel_expense_percentage_rcl": 53.5
+  },
+  "per_capita_breakdown": {
+    "health": 1051.3,
+    "education": 1245.0,
+    "urbanism": 624.5,
+    "administration": 477.5,
+    "legislative": 138.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3519.3,
+      "health_per_capita": 820.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3780.0,
+      "health_per_capita": 883.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4040.7,
+      "health_per_capita": 946.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4257.9,
+      "health_per_capita": 1009.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4344.8,
+      "health_per_capita": 1051.3
+    }
+  ]
+}

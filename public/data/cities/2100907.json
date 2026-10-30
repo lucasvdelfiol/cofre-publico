@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2100907",
+  "city_name": "Araioses",
+  "uf": "MA",
+  "population": 39052,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 185574352.47,
+    "total_expense": 181121629.28,
+    "own_revenue_percentage": 31.9,
+    "transfers_revenue_percentage": 68.1,
+    "personnel_expense_percentage_rcl": 46.8
+  },
+  "per_capita_breakdown": {
+    "health": 1264.1,
+    "education": 1320.0,
+    "urbanism": 551.9,
+    "administration": 425.6,
+    "legislative": 149.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3756.8,
+      "health_per_capita": 986.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4035.1,
+      "health_per_capita": 1061.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4313.3,
+      "health_per_capita": 1137.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4545.2,
+      "health_per_capita": 1213.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4638.0,
+      "health_per_capita": 1264.1
+    }
+  ]
+}

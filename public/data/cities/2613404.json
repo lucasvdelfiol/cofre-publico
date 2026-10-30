@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2613404",
+  "city_name": "São José da Coroa Grande",
+  "uf": "PE",
+  "population": 18825,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 85923934.64,
+    "total_expense": 84166091.25,
+    "own_revenue_percentage": 10.7,
+    "transfers_revenue_percentage": 89.3,
+    "personnel_expense_percentage_rcl": 53.0
+  },
+  "per_capita_breakdown": {
+    "health": 1017.6,
+    "education": 1302.0,
+    "urbanism": 437.4,
+    "administration": 287.8,
+    "legislative": 108.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3621.5,
+      "health_per_capita": 793.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3889.8,
+      "health_per_capita": 854.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4158.0,
+      "health_per_capita": 915.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4381.6,
+      "health_per_capita": 976.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4471.0,
+      "health_per_capita": 1017.6
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2305001",
+  "city_name": "Guaraciaba do Norte",
+  "uf": "CE",
+  "population": 42053,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 176227338.69,
+    "total_expense": 174494561.09,
+    "own_revenue_percentage": 31.4,
+    "transfers_revenue_percentage": 68.6,
+    "personnel_expense_percentage_rcl": 49.9
+  },
+  "per_capita_breakdown": {
+    "health": 990.2,
+    "education": 1082.2,
+    "urbanism": 339.7,
+    "administration": 402.2,
+    "legislative": 106.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3361.0,
+      "health_per_capita": 772.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3610.0,
+      "health_per_capita": 831.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3858.9,
+      "health_per_capita": 891.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4066.4,
+      "health_per_capita": 950.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4149.4,
+      "health_per_capita": 990.2
+    }
+  ]
+}

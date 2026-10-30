@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2508604",
+  "city_name": "Lucena",
+  "uf": "PB",
+  "population": 12560,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 64242515.85,
+    "total_expense": 62088687.51,
+    "own_revenue_percentage": 10.5,
+    "transfers_revenue_percentage": 89.5,
+    "personnel_expense_percentage_rcl": 51.5
+  },
+  "per_capita_breakdown": {
+    "health": 1009.0,
+    "education": 1286.5,
+    "urbanism": 609.0,
+    "administration": 472.0,
+    "legislative": 105.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4004.2,
+      "health_per_capita": 787.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4300.8,
+      "health_per_capita": 847.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4597.4,
+      "health_per_capita": 908.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4844.5,
+      "health_per_capita": 968.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4943.4,
+      "health_per_capita": 1009.0
+    }
+  ]
+}

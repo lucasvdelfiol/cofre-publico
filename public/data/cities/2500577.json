@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2500577",
+  "city_name": "Algodão de Jandaíra",
+  "uf": "PB",
+  "population": 2953,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 16330748.06,
+    "total_expense": 16000610.34,
+    "own_revenue_percentage": 8.2,
+    "transfers_revenue_percentage": 91.8,
+    "personnel_expense_percentage_rcl": 48.0
+  },
+  "per_capita_breakdown": {
+    "health": 1199.1,
+    "education": 1490.8,
+    "urbanism": 528.0,
+    "administration": 571.7,
+    "legislative": 176.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4388.9,
+      "health_per_capita": 935.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4714.0,
+      "health_per_capita": 1007.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5039.1,
+      "health_per_capita": 1079.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5310.0,
+      "health_per_capita": 1151.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5418.4,
+      "health_per_capita": 1199.1
+    }
+  ]
+}

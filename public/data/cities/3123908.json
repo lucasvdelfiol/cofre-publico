@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3123908",
+  "city_name": "Entre Rios de Minas",
+  "uf": "MG",
+  "population": 14746,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 68653392.56,
+    "total_expense": 68309155.16,
+    "own_revenue_percentage": 8.2,
+    "transfers_revenue_percentage": 91.8,
+    "personnel_expense_percentage_rcl": 53.6
+  },
+  "per_capita_breakdown": {
+    "health": 1064.3,
+    "education": 1245.6,
+    "urbanism": 380.8,
+    "administration": 292.5,
+    "legislative": 99.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3752.2,
+      "health_per_capita": 830.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4030.2,
+      "health_per_capita": 894.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4308.1,
+      "health_per_capita": 957.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4539.8,
+      "health_per_capita": 1021.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4632.4,
+      "health_per_capita": 1064.3
+    }
+  ]
+}

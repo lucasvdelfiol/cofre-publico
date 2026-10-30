@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4100707",
+  "city_name": "Alto Piquiri",
+  "uf": "PR",
+  "population": 9727,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 46285482.52,
+    "total_expense": 45068955.8,
+    "own_revenue_percentage": 19.8,
+    "transfers_revenue_percentage": 80.2,
+    "personnel_expense_percentage_rcl": 48.0
+  },
+  "per_capita_breakdown": {
+    "health": 1163.2,
+    "education": 1370.7,
+    "urbanism": 708.3,
+    "administration": 394.6,
+    "legislative": 94.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3753.1,
+      "health_per_capita": 907.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4031.1,
+      "health_per_capita": 977.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4309.1,
+      "health_per_capita": 1046.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4540.7,
+      "health_per_capita": 1116.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4633.4,
+      "health_per_capita": 1163.2
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4104659",
+  "city_name": "Carambeí",
+  "uf": "PR",
+  "population": 23283,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 109709854.33,
+    "total_expense": 109232979.81,
+    "own_revenue_percentage": 23.0,
+    "transfers_revenue_percentage": 77.0,
+    "personnel_expense_percentage_rcl": 52.5
+  },
+  "per_capita_breakdown": {
+    "health": 1213.7,
+    "education": 1459.1,
+    "urbanism": 598.8,
+    "administration": 325.6,
+    "legislative": 103.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3800.1,
+      "health_per_capita": 946.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4081.6,
+      "health_per_capita": 1019.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4363.1,
+      "health_per_capita": 1092.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4597.7,
+      "health_per_capita": 1165.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4691.5,
+      "health_per_capita": 1213.7
+    }
+  ]
+}

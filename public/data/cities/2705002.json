@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2705002",
+  "city_name": "Mata Grande",
+  "uf": "AL",
+  "population": 21844,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 99518243.14,
+    "total_expense": 99478435.4,
+    "own_revenue_percentage": 25.7,
+    "transfers_revenue_percentage": 74.3,
+    "personnel_expense_percentage_rcl": 53.2
+  },
+  "per_capita_breakdown": {
+    "health": 1046.5,
+    "education": 1373.4,
+    "urbanism": 504.5,
+    "administration": 472.3,
+    "legislative": 154.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3688.7,
+      "health_per_capita": 816.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3962.0,
+      "health_per_capita": 879.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4235.2,
+      "health_per_capita": 941.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4462.9,
+      "health_per_capita": 1004.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4554.0,
+      "health_per_capita": 1046.5
+    }
+  ]
+}

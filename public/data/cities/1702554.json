@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1702554",
+  "city_name": "Augustinópolis",
+  "uf": "TO",
+  "population": 17484,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 78076601.53,
+    "total_expense": 76681442.43,
+    "own_revenue_percentage": 11.7,
+    "transfers_revenue_percentage": 88.3,
+    "personnel_expense_percentage_rcl": 45.6
+  },
+  "per_capita_breakdown": {
+    "health": 1048.9,
+    "education": 1284.7,
+    "urbanism": 612.5,
+    "administration": 468.4,
+    "legislative": 149.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3552.5,
+      "health_per_capita": 818.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3815.6,
+      "health_per_capita": 881.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4078.8,
+      "health_per_capita": 944.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4298.1,
+      "health_per_capita": 1006.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4385.8,
+      "health_per_capita": 1048.9
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3507605",
+  "city_name": "Bragança Paulista",
+  "uf": "SP",
+  "population": 176811,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 914740223.51,
+    "total_expense": 896675717.92,
+    "own_revenue_percentage": 47.5,
+    "transfers_revenue_percentage": 52.5,
+    "personnel_expense_percentage_rcl": 49.7
+  },
+  "per_capita_breakdown": {
+    "health": 1296.0,
+    "education": 1238.4,
+    "urbanism": 739.7,
+    "administration": 313.6,
+    "legislative": 122.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4107.8,
+      "health_per_capita": 1010.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4412.1,
+      "health_per_capita": 1088.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4716.4,
+      "health_per_capita": 1166.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4970.0,
+      "health_per_capita": 1244.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5071.4,
+      "health_per_capita": 1296.0
+    }
+  ]
+}

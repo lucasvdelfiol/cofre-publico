@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3110905",
+  "city_name": "Campanha",
+  "uf": "MG",
+  "population": 15935,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 84708594.85,
+    "total_expense": 84725385.02,
+    "own_revenue_percentage": 19.1,
+    "transfers_revenue_percentage": 80.9,
+    "personnel_expense_percentage_rcl": 52.6
+  },
+  "per_capita_breakdown": {
+    "health": 1287.1,
+    "education": 1351.9,
+    "urbanism": 465.1,
+    "administration": 518.5,
+    "legislative": 141.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4306.7,
+      "health_per_capita": 1003.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4625.7,
+      "health_per_capita": 1081.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4944.7,
+      "health_per_capita": 1158.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5210.6,
+      "health_per_capita": 1235.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5316.9,
+      "health_per_capita": 1287.1
+    }
+  ]
+}

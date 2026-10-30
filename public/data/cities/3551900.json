@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3551900",
+  "city_name": "Severínia",
+  "uf": "SP",
+  "population": 14576,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 74967672.59,
+    "total_expense": 72314679.34,
+    "own_revenue_percentage": 8.0,
+    "transfers_revenue_percentage": 92.0,
+    "personnel_expense_percentage_rcl": 52.6
+  },
+  "per_capita_breakdown": {
+    "health": 1162.7,
+    "education": 1262.4,
+    "urbanism": 742.6,
+    "administration": 568.4,
+    "legislative": 101.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4018.6,
+      "health_per_capita": 906.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4316.2,
+      "health_per_capita": 976.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4613.9,
+      "health_per_capita": 1046.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4862.0,
+      "health_per_capita": 1116.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4961.2,
+      "health_per_capita": 1162.7
+    }
+  ]
+}

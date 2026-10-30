@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3511607",
+  "city_name": "Cesário Lange",
+  "uf": "SP",
+  "population": 19048,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 85691262.51,
+    "total_expense": 82458617.45,
+    "own_revenue_percentage": 19.2,
+    "transfers_revenue_percentage": 80.8,
+    "personnel_expense_percentage_rcl": 47.3
+  },
+  "per_capita_breakdown": {
+    "health": 907.2,
+    "education": 1359.7,
+    "urbanism": 362.5,
+    "administration": 457.0,
+    "legislative": 117.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3506.5,
+      "health_per_capita": 707.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3766.2,
+      "health_per_capita": 762.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4026.0,
+      "health_per_capita": 816.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4242.4,
+      "health_per_capita": 870.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4329.0,
+      "health_per_capita": 907.2
+    }
+  ]
+}

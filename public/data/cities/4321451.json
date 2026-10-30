@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4321451",
+  "city_name": "Teutônia",
+  "uf": "RS",
+  "population": 32797,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 149193033.05,
+    "total_expense": 147825674.12,
+    "own_revenue_percentage": 26.9,
+    "transfers_revenue_percentage": 73.1,
+    "personnel_expense_percentage_rcl": 49.3
+  },
+  "per_capita_breakdown": {
+    "health": 1211.9,
+    "education": 1199.0,
+    "urbanism": 505.0,
+    "administration": 532.6,
+    "legislative": 124.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3650.9,
+      "health_per_capita": 945.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3921.4,
+      "health_per_capita": 1018.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4191.8,
+      "health_per_capita": 1090.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4417.2,
+      "health_per_capita": 1163.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4507.3,
+      "health_per_capita": 1211.9
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2304277",
+  "city_name": "Ereré",
+  "uf": "CE",
+  "population": 6474,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 31618442.37,
+    "total_expense": 31035570.78,
+    "own_revenue_percentage": 9.3,
+    "transfers_revenue_percentage": 90.7,
+    "personnel_expense_percentage_rcl": 52.4
+  },
+  "per_capita_breakdown": {
+    "health": 1340.8,
+    "education": 1177.5,
+    "urbanism": 628.4,
+    "administration": 570.8,
+    "legislative": 84.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3883.1,
+      "health_per_capita": 1045.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4170.7,
+      "health_per_capita": 1126.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4458.3,
+      "health_per_capita": 1206.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4698.0,
+      "health_per_capita": 1287.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4793.9,
+      "health_per_capita": 1340.8
+    }
+  ]
+}

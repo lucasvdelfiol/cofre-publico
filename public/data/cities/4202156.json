@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4202156",
+  "city_name": "Belmonte",
+  "uf": "SC",
+  "population": 2658,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 13024879.98,
+    "total_expense": 12897696.84,
+    "own_revenue_percentage": 12.7,
+    "transfers_revenue_percentage": 87.3,
+    "personnel_expense_percentage_rcl": 49.8
+  },
+  "per_capita_breakdown": {
+    "health": 1225.8,
+    "education": 1326.5,
+    "urbanism": 568.5,
+    "administration": 359.2,
+    "legislative": 80.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3930.4,
+      "health_per_capita": 956.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4221.6,
+      "health_per_capita": 1029.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4512.7,
+      "health_per_capita": 1103.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4755.4,
+      "health_per_capita": 1176.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4852.4,
+      "health_per_capita": 1225.8
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3121407",
+  "city_name": "Desterro de Entre Rios",
+  "uf": "MG",
+  "population": 7653,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 36241248.4,
+    "total_expense": 35419891.1,
+    "own_revenue_percentage": 21.0,
+    "transfers_revenue_percentage": 79.0,
+    "personnel_expense_percentage_rcl": 46.5
+  },
+  "per_capita_breakdown": {
+    "health": 1056.2,
+    "education": 1238.3,
+    "urbanism": 400.5,
+    "administration": 414.8,
+    "legislative": 157.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3748.8,
+      "health_per_capita": 823.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4026.5,
+      "health_per_capita": 887.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4304.2,
+      "health_per_capita": 950.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4535.6,
+      "health_per_capita": 1014.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4628.2,
+      "health_per_capita": 1056.2
+    }
+  ]
+}

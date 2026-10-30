@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1720200",
+  "city_name": "São Miguel do Tocantins",
+  "uf": "TO",
+  "population": 13241,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 72116758.43,
+    "total_expense": 69690242.25,
+    "own_revenue_percentage": 9.1,
+    "transfers_revenue_percentage": 90.9,
+    "personnel_expense_percentage_rcl": 49.8
+  },
+  "per_capita_breakdown": {
+    "health": 1385.4,
+    "education": 1498.0,
+    "urbanism": 796.2,
+    "administration": 626.7,
+    "legislative": 117.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4263.2,
+      "health_per_capita": 1080.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4579.0,
+      "health_per_capita": 1163.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4894.8,
+      "health_per_capita": 1246.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5157.9,
+      "health_per_capita": 1330.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5263.2,
+      "health_per_capita": 1385.4
+    }
+  ]
+}

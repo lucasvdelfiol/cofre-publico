@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3519600",
+  "city_name": "Ibitinga",
+  "uf": "SP",
+  "population": 60033,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 304823628.84,
+    "total_expense": 294478096.21,
+    "own_revenue_percentage": 40.7,
+    "transfers_revenue_percentage": 59.3,
+    "personnel_expense_percentage_rcl": 50.8
+  },
+  "per_capita_breakdown": {
+    "health": 1308.5,
+    "education": 1478.8,
+    "urbanism": 751.8,
+    "administration": 508.1,
+    "legislative": 165.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3973.3,
+      "health_per_capita": 1020.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4267.6,
+      "health_per_capita": 1099.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4561.9,
+      "health_per_capita": 1177.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4807.2,
+      "health_per_capita": 1256.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4905.3,
+      "health_per_capita": 1308.5
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3525706",
+  "city_name": "José Bonifácio",
+  "uf": "SP",
+  "population": 36633,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 153910644.53,
+    "total_expense": 153246551.87,
+    "own_revenue_percentage": 19.0,
+    "transfers_revenue_percentage": 81.0,
+    "personnel_expense_percentage_rcl": 46.3
+  },
+  "per_capita_breakdown": {
+    "health": 952.8,
+    "education": 1256.9,
+    "urbanism": 484.6,
+    "administration": 457.9,
+    "legislative": 67.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3388.5,
+      "health_per_capita": 743.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3639.5,
+      "health_per_capita": 800.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3890.5,
+      "health_per_capita": 857.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4099.6,
+      "health_per_capita": 914.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4183.3,
+      "health_per_capita": 952.8
+    }
+  ]
+}

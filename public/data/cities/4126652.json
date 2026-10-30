@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4126652",
+  "city_name": "Sulina",
+  "uf": "PR",
+  "population": 3440,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 16044429.8,
+    "total_expense": 15746733.83,
+    "own_revenue_percentage": 8.7,
+    "transfers_revenue_percentage": 91.3,
+    "personnel_expense_percentage_rcl": 48.4
+  },
+  "per_capita_breakdown": {
+    "health": 1049.0,
+    "education": 1221.2,
+    "urbanism": 454.5,
+    "administration": 453.3,
+    "legislative": 158.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3707.8,
+      "health_per_capita": 818.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3982.4,
+      "health_per_capita": 881.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4257.1,
+      "health_per_capita": 944.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4485.9,
+      "health_per_capita": 1007.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4577.5,
+      "health_per_capita": 1049.0
+    }
+  ]
+}

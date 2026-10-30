@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4318465",
+  "city_name": "São José do Herval",
+  "uf": "RS",
+  "population": 1902,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 10425619.64,
+    "total_expense": 10231807.14,
+    "own_revenue_percentage": 19.0,
+    "transfers_revenue_percentage": 81.0,
+    "personnel_expense_percentage_rcl": 48.8
+  },
+  "per_capita_breakdown": {
+    "health": 1137.0,
+    "education": 1568.5,
+    "urbanism": 695.7,
+    "administration": 393.6,
+    "legislative": 177.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4357.4,
+      "health_per_capita": 886.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4680.2,
+      "health_per_capita": 955.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5002.9,
+      "health_per_capita": 1023.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5271.9,
+      "health_per_capita": 1091.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5379.5,
+      "health_per_capita": 1137.0
+    }
+  ]
+}

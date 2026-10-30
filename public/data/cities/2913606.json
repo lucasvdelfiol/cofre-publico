@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2913606",
+  "city_name": "Ilhéus",
+  "uf": "BA",
+  "population": 178649,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 863932424.11,
+    "total_expense": 870815891.01,
+    "own_revenue_percentage": 50.8,
+    "transfers_revenue_percentage": 49.2,
+    "personnel_expense_percentage_rcl": 48.9
+  },
+  "per_capita_breakdown": {
+    "health": 1064.8,
+    "education": 1203.6,
+    "urbanism": 455.2,
+    "administration": 371.0,
+    "legislative": 131.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3948.3,
+      "health_per_capita": 830.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4240.8,
+      "health_per_capita": 894.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4533.3,
+      "health_per_capita": 958.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4777.0,
+      "health_per_capita": 1022.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4874.5,
+      "health_per_capita": 1064.8
+    }
+  ]
+}

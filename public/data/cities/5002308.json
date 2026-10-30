@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5002308",
+  "city_name": "Brasilândia",
+  "uf": "MS",
+  "population": 11579,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 64415652.01,
+    "total_expense": 62290500.96,
+    "own_revenue_percentage": 16.1,
+    "transfers_revenue_percentage": 83.9,
+    "personnel_expense_percentage_rcl": 51.7
+  },
+  "per_capita_breakdown": {
+    "health": 1494.0,
+    "education": 1683.9,
+    "urbanism": 651.8,
+    "administration": 481.1,
+    "legislative": 154.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4357.5,
+      "health_per_capita": 1165.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4680.3,
+      "health_per_capita": 1255.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5003.0,
+      "health_per_capita": 1344.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5272.0,
+      "health_per_capita": 1434.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5379.6,
+      "health_per_capita": 1494.0
+    }
+  ]
+}

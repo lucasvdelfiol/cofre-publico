@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2507705",
+  "city_name": "Juazeirinho",
+  "uf": "PB",
+  "population": 17007,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 80368011.7,
+    "total_expense": 77901288.06,
+    "own_revenue_percentage": 10.8,
+    "transfers_revenue_percentage": 89.2,
+    "personnel_expense_percentage_rcl": 48.9
+  },
+  "per_capita_breakdown": {
+    "health": 1269.4,
+    "education": 1209.0,
+    "urbanism": 396.5,
+    "administration": 500.1,
+    "legislative": 114.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3710.2,
+      "health_per_capita": 990.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3985.0,
+      "health_per_capita": 1066.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4259.9,
+      "health_per_capita": 1142.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4488.9,
+      "health_per_capita": 1218.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4580.5,
+      "health_per_capita": 1269.4
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3122801",
+  "city_name": "Dom Viçoso",
+  "uf": "MG",
+  "population": 3095,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 14065139.2,
+    "total_expense": 13962344.63,
+    "own_revenue_percentage": 21.2,
+    "transfers_revenue_percentage": 78.8,
+    "personnel_expense_percentage_rcl": 48.3
+  },
+  "per_capita_breakdown": {
+    "health": 997.2,
+    "education": 1361.6,
+    "urbanism": 701.7,
+    "administration": 284.1,
+    "legislative": 77.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3654.2,
+      "health_per_capita": 777.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3924.8,
+      "health_per_capita": 837.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4195.5,
+      "health_per_capita": 897.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4421.1,
+      "health_per_capita": 957.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4511.3,
+      "health_per_capita": 997.2
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3522158",
+  "city_name": "Itaoca",
+  "uf": "SP",
+  "population": 3422,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 18107053.83,
+    "total_expense": 18205716.51,
+    "own_revenue_percentage": 19.6,
+    "transfers_revenue_percentage": 80.4,
+    "personnel_expense_percentage_rcl": 47.8
+  },
+  "per_capita_breakdown": {
+    "health": 1118.2,
+    "education": 1473.5,
+    "urbanism": 475.4,
+    "administration": 549.5,
+    "legislative": 167.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4309.4,
+      "health_per_capita": 872.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4628.6,
+      "health_per_capita": 939.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4947.8,
+      "health_per_capita": 1006.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5213.8,
+      "health_per_capita": 1073.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5320.2,
+      "health_per_capita": 1118.2
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3515350",
+  "city_name": "Euclides da Cunha Paulista",
+  "uf": "SP",
+  "population": 7924,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 42983049.72,
+    "total_expense": 41493062.27,
+    "own_revenue_percentage": 21.9,
+    "transfers_revenue_percentage": 78.1,
+    "personnel_expense_percentage_rcl": 53.1
+  },
+  "per_capita_breakdown": {
+    "health": 1370.0,
+    "education": 1318.5,
+    "urbanism": 753.0,
+    "administration": 365.2,
+    "legislative": 86.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4241.5,
+      "health_per_capita": 1068.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4555.7,
+      "health_per_capita": 1150.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4869.9,
+      "health_per_capita": 1233.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5131.7,
+      "health_per_capita": 1315.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5236.4,
+      "health_per_capita": 1370.0
+    }
+  ]
+}

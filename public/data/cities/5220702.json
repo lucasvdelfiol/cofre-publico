@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5220702",
+  "city_name": "Sítio d'Abadia",
+  "uf": "GO",
+  "population": 2927,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 14931931.25,
+    "total_expense": 14913323.81,
+    "own_revenue_percentage": 15.4,
+    "transfers_revenue_percentage": 84.6,
+    "personnel_expense_percentage_rcl": 47.7
+  },
+  "per_capita_breakdown": {
+    "health": 1175.9,
+    "education": 1285.9,
+    "urbanism": 717.2,
+    "administration": 555.0,
+    "legislative": 94.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4127.0,
+      "health_per_capita": 917.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4432.7,
+      "health_per_capita": 987.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4738.4,
+      "health_per_capita": 1058.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4993.2,
+      "health_per_capita": 1128.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5095.1,
+      "health_per_capita": 1175.9
+    }
+  ]
+}

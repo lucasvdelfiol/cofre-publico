@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3112901",
+  "city_name": "Caputira",
+  "uf": "MG",
+  "population": 8936,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 40289270.57,
+    "total_expense": 39934706.38,
+    "own_revenue_percentage": 19.8,
+    "transfers_revenue_percentage": 80.2,
+    "personnel_expense_percentage_rcl": 50.8
+  },
+  "per_capita_breakdown": {
+    "health": 1142.2,
+    "education": 1304.1,
+    "urbanism": 636.2,
+    "administration": 287.8,
+    "legislative": 85.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3619.9,
+      "health_per_capita": 890.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3888.0,
+      "health_per_capita": 959.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4156.2,
+      "health_per_capita": 1028.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4379.6,
+      "health_per_capita": 1096.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4469.0,
+      "health_per_capita": 1142.2
+    }
+  ]
+}

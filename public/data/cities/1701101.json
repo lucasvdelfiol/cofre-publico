@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1701101",
+  "city_name": "Aparecida do Rio Negro",
+  "uf": "TO",
+  "population": 4856,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 25543291.23,
+    "total_expense": 25695695.2,
+    "own_revenue_percentage": 14.3,
+    "transfers_revenue_percentage": 85.7,
+    "personnel_expense_percentage_rcl": 48.6
+  },
+  "per_capita_breakdown": {
+    "health": 1308.6,
+    "education": 1319.0,
+    "urbanism": 792.9,
+    "administration": 430.4,
+    "legislative": 175.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4286.1,
+      "health_per_capita": 1020.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4603.6,
+      "health_per_capita": 1099.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4921.1,
+      "health_per_capita": 1177.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5185.7,
+      "health_per_capita": 1256.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5291.5,
+      "health_per_capita": 1308.6
+    }
+  ]
+}

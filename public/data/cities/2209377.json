@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2209377",
+  "city_name": "Santa Rosa do Piauí",
+  "uf": "PI",
+  "population": 4650,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 24328366.0,
+    "total_expense": 23486889.38,
+    "own_revenue_percentage": 10.5,
+    "transfers_revenue_percentage": 89.5,
+    "personnel_expense_percentage_rcl": 48.5
+  },
+  "per_capita_breakdown": {
+    "health": 1317.0,
+    "education": 1547.2,
+    "urbanism": 595.2,
+    "administration": 435.1,
+    "legislative": 145.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4091.2,
+      "health_per_capita": 1027.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4394.3,
+      "health_per_capita": 1106.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4697.3,
+      "health_per_capita": 1185.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4949.9,
+      "health_per_capita": 1264.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5050.9,
+      "health_per_capita": 1317.0
+    }
+  ]
+}

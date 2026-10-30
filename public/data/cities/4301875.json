@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4301875",
+  "city_name": "Barra do Quaraí",
+  "uf": "RS",
+  "population": 4241,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 22834013.01,
+    "total_expense": 22734815.06,
+    "own_revenue_percentage": 18.5,
+    "transfers_revenue_percentage": 81.5,
+    "personnel_expense_percentage_rcl": 46.4
+  },
+  "per_capita_breakdown": {
+    "health": 1086.4,
+    "education": 1587.8,
+    "urbanism": 836.4,
+    "administration": 436.6,
+    "legislative": 83.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4342.2,
+      "health_per_capita": 847.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4663.8,
+      "health_per_capita": 912.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4985.5,
+      "health_per_capita": 977.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5253.5,
+      "health_per_capita": 1042.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5360.7,
+      "health_per_capita": 1086.4
+    }
+  ]
+}

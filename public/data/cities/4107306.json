@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4107306",
+  "city_name": "Doutor Camargo",
+  "uf": "PR",
+  "population": 6327,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 32028885.7,
+    "total_expense": 31804372.5,
+    "own_revenue_percentage": 9.0,
+    "transfers_revenue_percentage": 91.0,
+    "personnel_expense_percentage_rcl": 53.2
+  },
+  "per_capita_breakdown": {
+    "health": 1218.6,
+    "education": 1313.1,
+    "urbanism": 416.5,
+    "administration": 349.7,
+    "legislative": 146.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4071.7,
+      "health_per_capita": 950.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4373.3,
+      "health_per_capita": 1023.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4674.9,
+      "health_per_capita": 1096.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4926.3,
+      "health_per_capita": 1169.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5026.8,
+      "health_per_capita": 1218.6
+    }
+  ]
+}

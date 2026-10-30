@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2305357",
+  "city_name": "Icapuí",
+  "uf": "CE",
+  "population": 21433,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 105161503.25,
+    "total_expense": 104904262.94,
+    "own_revenue_percentage": 30.9,
+    "transfers_revenue_percentage": 69.1,
+    "personnel_expense_percentage_rcl": 50.1
+  },
+  "per_capita_breakdown": {
+    "health": 1290.2,
+    "education": 1265.3,
+    "urbanism": 681.0,
+    "administration": 332.3,
+    "legislative": 155.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3964.5,
+      "health_per_capita": 1006.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4258.2,
+      "health_per_capita": 1083.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4551.9,
+      "health_per_capita": 1161.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4796.6,
+      "health_per_capita": 1238.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4894.5,
+      "health_per_capita": 1290.2
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2803302",
+  "city_name": "Japaratuba",
+  "uf": "SE",
+  "population": 16209,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 85827300.38,
+    "total_expense": 86459525.85,
+    "own_revenue_percentage": 10.2,
+    "transfers_revenue_percentage": 89.8,
+    "personnel_expense_percentage_rcl": 52.6
+  },
+  "per_capita_breakdown": {
+    "health": 1378.3,
+    "education": 1524.5,
+    "urbanism": 496.2,
+    "administration": 480.1,
+    "legislative": 178.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4320.5,
+      "health_per_capita": 1075.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4640.6,
+      "health_per_capita": 1157.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4960.6,
+      "health_per_capita": 1240.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5227.3,
+      "health_per_capita": 1323.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5334.0,
+      "health_per_capita": 1378.3
+    }
+  ]
+}

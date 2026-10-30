@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4106209",
+  "city_name": "Contenda",
+  "uf": "PR",
+  "population": 19128,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 101635326.69,
+    "total_expense": 101133330.06,
+    "own_revenue_percentage": 20.4,
+    "transfers_revenue_percentage": 79.6,
+    "personnel_expense_percentage_rcl": 48.1
+  },
+  "per_capita_breakdown": {
+    "health": 1151.8,
+    "education": 1532.7,
+    "urbanism": 469.6,
+    "administration": 405.4,
+    "legislative": 163.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4282.6,
+      "health_per_capita": 898.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4599.9,
+      "health_per_capita": 967.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4917.1,
+      "health_per_capita": 1036.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5181.5,
+      "health_per_capita": 1105.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5287.2,
+      "health_per_capita": 1151.8
+    }
+  ]
+}

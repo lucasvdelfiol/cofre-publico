@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2307205",
+  "city_name": "Jati",
+  "uf": "CE",
+  "population": 7861,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 39875818.52,
+    "total_expense": 39052181.42,
+    "own_revenue_percentage": 10.7,
+    "transfers_revenue_percentage": 89.3,
+    "personnel_expense_percentage_rcl": 50.2
+  },
+  "per_capita_breakdown": {
+    "health": 1045.3,
+    "education": 1397.1,
+    "urbanism": 632.3,
+    "administration": 435.8,
+    "legislative": 139.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4023.9,
+      "health_per_capita": 815.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4322.0,
+      "health_per_capita": 878.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4620.1,
+      "health_per_capita": 940.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4868.4,
+      "health_per_capita": 1003.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4967.8,
+      "health_per_capita": 1045.3
+    }
+  ]
+}

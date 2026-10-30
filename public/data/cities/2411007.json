@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2411007",
+  "city_name": "Rodolfo Fernandes",
+  "uf": "RN",
+  "population": 4242,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 20958784.44,
+    "total_expense": 20490431.17,
+    "own_revenue_percentage": 20.9,
+    "transfers_revenue_percentage": 79.1,
+    "personnel_expense_percentage_rcl": 46.4
+  },
+  "per_capita_breakdown": {
+    "health": 1330.3,
+    "education": 1285.7,
+    "urbanism": 425.0,
+    "administration": 517.9,
+    "legislative": 147.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3912.6,
+      "health_per_capita": 1037.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4202.4,
+      "health_per_capita": 1117.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4492.3,
+      "health_per_capita": 1197.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4733.8,
+      "health_per_capita": 1277.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4830.4,
+      "health_per_capita": 1330.3
+    }
+  ]
+}

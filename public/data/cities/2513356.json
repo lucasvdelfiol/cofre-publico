@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2513356",
+  "city_name": "Santa Inês",
+  "uf": "PB",
+  "population": 3227,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 16792487.28,
+    "total_expense": 16224616.33,
+    "own_revenue_percentage": 18.1,
+    "transfers_revenue_percentage": 81.9,
+    "personnel_expense_percentage_rcl": 45.7
+  },
+  "per_capita_breakdown": {
+    "health": 1106.0,
+    "education": 1356.4,
+    "urbanism": 769.7,
+    "administration": 561.7,
+    "legislative": 157.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4072.5,
+      "health_per_capita": 862.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4374.2,
+      "health_per_capita": 929.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4675.9,
+      "health_per_capita": 995.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4927.2,
+      "health_per_capita": 1061.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5027.8,
+      "health_per_capita": 1106.0
+    }
+  ]
+}

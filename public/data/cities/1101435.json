@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1101435",
+  "city_name": "Nova União",
+  "uf": "RO",
+  "population": 6200,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 33714282.28,
+    "total_expense": 33393568.32,
+    "own_revenue_percentage": 10.4,
+    "transfers_revenue_percentage": 89.6,
+    "personnel_expense_percentage_rcl": 51.7
+  },
+  "per_capita_breakdown": {
+    "health": 1128.3,
+    "education": 1445.1,
+    "urbanism": 838.7,
+    "administration": 563.7,
+    "legislative": 100.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4362.7,
+      "health_per_capita": 880.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4685.9,
+      "health_per_capita": 947.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5009.1,
+      "health_per_capita": 1015.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5278.4,
+      "health_per_capita": 1083.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5386.1,
+      "health_per_capita": 1128.3
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2903409",
+  "city_name": "Belmonte",
+  "uf": "BA",
+  "population": 20121,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 98327613.76,
+    "total_expense": 97644919.26,
+    "own_revenue_percentage": 21.8,
+    "transfers_revenue_percentage": 78.2,
+    "personnel_expense_percentage_rcl": 49.3
+  },
+  "per_capita_breakdown": {
+    "health": 1247.7,
+    "education": 1325.0,
+    "urbanism": 726.3,
+    "administration": 543.3,
+    "legislative": 78.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3930.8,
+      "health_per_capita": 973.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4222.0,
+      "health_per_capita": 1048.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4513.2,
+      "health_per_capita": 1122.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4755.8,
+      "health_per_capita": 1197.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4852.9,
+      "health_per_capita": 1247.7
+    }
+  ]
+}

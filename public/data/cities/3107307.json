@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3107307",
+  "city_name": "Bocaiúva",
+  "uf": "MG",
+  "population": 48032,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 201244956.41,
+    "total_expense": 201297832.84,
+    "own_revenue_percentage": 18.2,
+    "transfers_revenue_percentage": 81.8,
+    "personnel_expense_percentage_rcl": 49.8
+  },
+  "per_capita_breakdown": {
+    "health": 1055.5,
+    "education": 1312.6,
+    "urbanism": 369.9,
+    "administration": 488.1,
+    "legislative": 113.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3394.6,
+      "health_per_capita": 823.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3646.1,
+      "health_per_capita": 886.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3897.5,
+      "health_per_capita": 950.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4107.1,
+      "health_per_capita": 1013.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4190.9,
+      "health_per_capita": 1055.5
+    }
+  ]
+}

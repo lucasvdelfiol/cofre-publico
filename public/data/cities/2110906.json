@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2110906",
+  "city_name": "São Francisco do Maranhão",
+  "uf": "MA",
+  "population": 12064,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 56949246.78,
+    "total_expense": 55128344.54,
+    "own_revenue_percentage": 12.1,
+    "transfers_revenue_percentage": 87.9,
+    "personnel_expense_percentage_rcl": 53.3
+  },
+  "per_capita_breakdown": {
+    "health": 1155.4,
+    "education": 1348.4,
+    "urbanism": 489.5,
+    "administration": 470.3,
+    "legislative": 144.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3701.5,
+      "health_per_capita": 901.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3975.6,
+      "health_per_capita": 970.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4249.8,
+      "health_per_capita": 1039.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4478.3,
+      "health_per_capita": 1109.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4569.7,
+      "health_per_capita": 1155.4
+    }
+  ]
+}

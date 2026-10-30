@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3121258",
+  "city_name": "Delta",
+  "uf": "MG",
+  "population": 10494,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 53382037.48,
+    "total_expense": 51776264.35,
+    "own_revenue_percentage": 15.9,
+    "transfers_revenue_percentage": 84.1,
+    "personnel_expense_percentage_rcl": 46.9
+  },
+  "per_capita_breakdown": {
+    "health": 1128.4,
+    "education": 1238.0,
+    "urbanism": 491.1,
+    "administration": 555.4,
+    "legislative": 140.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3996.5,
+      "health_per_capita": 880.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4292.5,
+      "health_per_capita": 947.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4588.5,
+      "health_per_capita": 1015.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4835.2,
+      "health_per_capita": 1083.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4933.9,
+      "health_per_capita": 1128.4
+    }
+  ]
+}

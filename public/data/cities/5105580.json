@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5105580",
+  "city_name": "Marcelândia",
+  "uf": "MT",
+  "population": 11396,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 57589603.02,
+    "total_expense": 55594120.99,
+    "own_revenue_percentage": 13.8,
+    "transfers_revenue_percentage": 86.2,
+    "personnel_expense_percentage_rcl": 50.7
+  },
+  "per_capita_breakdown": {
+    "health": 1143.5,
+    "education": 1445.9,
+    "urbanism": 664.4,
+    "administration": 559.2,
+    "legislative": 152.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3951.5,
+      "health_per_capita": 891.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4244.2,
+      "health_per_capita": 960.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4536.9,
+      "health_per_capita": 1029.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4780.8,
+      "health_per_capita": 1097.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4878.4,
+      "health_per_capita": 1143.5
+    }
+  ]
+}

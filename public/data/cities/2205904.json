@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2205904",
+  "city_name": "Manoel Emídio",
+  "uf": "PI",
+  "population": 5209,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 29036397.55,
+    "total_expense": 28168943.8,
+    "own_revenue_percentage": 8.8,
+    "transfers_revenue_percentage": 91.2,
+    "personnel_expense_percentage_rcl": 47.8
+  },
+  "per_capita_breakdown": {
+    "health": 1299.9,
+    "education": 1349.2,
+    "urbanism": 770.7,
+    "administration": 504.5,
+    "legislative": 133.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4380.2,
+      "health_per_capita": 1013.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4704.7,
+      "health_per_capita": 1091.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5029.2,
+      "health_per_capita": 1169.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5299.5,
+      "health_per_capita": 1247.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5407.7,
+      "health_per_capita": 1299.9
+    }
+  ]
+}

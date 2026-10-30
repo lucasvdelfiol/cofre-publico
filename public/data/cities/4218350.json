@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4218350",
+  "city_name": "Treviso",
+  "uf": "SC",
+  "population": 3782,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 19949697.36,
+    "total_expense": 19511080.63,
+    "own_revenue_percentage": 13.1,
+    "transfers_revenue_percentage": 86.9,
+    "personnel_expense_percentage_rcl": 46.3
+  },
+  "per_capita_breakdown": {
+    "health": 1379.6,
+    "education": 1495.4,
+    "urbanism": 742.0,
+    "administration": 599.9,
+    "legislative": 108.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4178.7,
+      "health_per_capita": 1076.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4488.2,
+      "health_per_capita": 1158.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4797.8,
+      "health_per_capita": 1241.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5055.7,
+      "health_per_capita": 1324.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5158.9,
+      "health_per_capita": 1379.6
+    }
+  ]
+}

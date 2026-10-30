@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1508001",
+  "city_name": "Tomé-Açu",
+  "uf": "PA",
+  "population": 67585,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 355122115.05,
+    "total_expense": 349078077.69,
+    "own_revenue_percentage": 31.4,
+    "transfers_revenue_percentage": 68.6,
+    "personnel_expense_percentage_rcl": 51.4
+  },
+  "per_capita_breakdown": {
+    "health": 1221.0,
+    "education": 1251.7,
+    "urbanism": 459.7,
+    "administration": 427.9,
+    "legislative": 152.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4183.7,
+      "health_per_capita": 952.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4493.6,
+      "health_per_capita": 1025.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4803.4,
+      "health_per_capita": 1098.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5061.7,
+      "health_per_capita": 1172.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5165.0,
+      "health_per_capita": 1221.0
+    }
+  ]
+}

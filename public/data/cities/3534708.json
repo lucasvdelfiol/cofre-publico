@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3534708",
+  "city_name": "Ourinhos",
+  "uf": "SP",
+  "population": 103970,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 527981630.33,
+    "total_expense": 515790809.65,
+    "own_revenue_percentage": 51.1,
+    "transfers_revenue_percentage": 48.9,
+    "personnel_expense_percentage_rcl": 47.7
+  },
+  "per_capita_breakdown": {
+    "health": 1374.4,
+    "education": 1190.9,
+    "urbanism": 763.3,
+    "administration": 500.3,
+    "legislative": 87.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4018.4,
+      "health_per_capita": 1072.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4316.1,
+      "health_per_capita": 1154.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4613.7,
+      "health_per_capita": 1237.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4861.8,
+      "health_per_capita": 1319.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4961.0,
+      "health_per_capita": 1374.4
+    }
+  ]
+}

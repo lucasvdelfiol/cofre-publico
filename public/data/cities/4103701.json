@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4103701",
+  "city_name": "Cambé",
+  "uf": "PR",
+  "population": 107208,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 607608465.2,
+    "total_expense": 611301906.09,
+    "own_revenue_percentage": 42.4,
+    "transfers_revenue_percentage": 57.6,
+    "personnel_expense_percentage_rcl": 45.3
+  },
+  "per_capita_breakdown": {
+    "health": 1407.0,
+    "education": 1469.2,
+    "urbanism": 633.7,
+    "administration": 380.1,
+    "legislative": 183.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4618.6,
+      "health_per_capita": 1097.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4960.7,
+      "health_per_capita": 1181.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5302.9,
+      "health_per_capita": 1266.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5588.0,
+      "health_per_capita": 1350.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5702.0,
+      "health_per_capita": 1407.0
+    }
+  ]
+}

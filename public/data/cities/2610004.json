@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2610004",
+  "city_name": "Palmares",
+  "uf": "PE",
+  "population": 54584,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 234969296.56,
+    "total_expense": 230787007.04,
+    "own_revenue_percentage": 36.2,
+    "transfers_revenue_percentage": 63.8,
+    "personnel_expense_percentage_rcl": 49.4
+  },
+  "per_capita_breakdown": {
+    "health": 1098.6,
+    "education": 1258.1,
+    "urbanism": 559.7,
+    "administration": 469.5,
+    "legislative": 120.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3424.8,
+      "health_per_capita": 856.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3678.4,
+      "health_per_capita": 922.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3932.1,
+      "health_per_capita": 988.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4143.5,
+      "health_per_capita": 1054.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4228.1,
+      "health_per_capita": 1098.6
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5204557",
+  "city_name": "Caldazinha",
+  "uf": "GO",
+  "population": 4507,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 25159141.84,
+    "total_expense": 24601588.51,
+    "own_revenue_percentage": 21.3,
+    "transfers_revenue_percentage": 78.7,
+    "personnel_expense_percentage_rcl": 46.0
+  },
+  "per_capita_breakdown": {
+    "health": 1470.0,
+    "education": 1606.3,
+    "urbanism": 842.8,
+    "administration": 626.4,
+    "legislative": 83.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4421.4,
+      "health_per_capita": 1146.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4748.9,
+      "health_per_capita": 1234.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5076.4,
+      "health_per_capita": 1323.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5349.3,
+      "health_per_capita": 1411.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5458.5,
+      "health_per_capita": 1470.0
+    }
+  ]
+}

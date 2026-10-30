@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3302270",
+  "city_name": "Japeri",
+  "uf": "RJ",
+  "population": 96289,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 501932861.58,
+    "total_expense": 489498818.56,
+    "own_revenue_percentage": 40.9,
+    "transfers_revenue_percentage": 59.1,
+    "personnel_expense_percentage_rcl": 51.7
+  },
+  "per_capita_breakdown": {
+    "health": 1272.8,
+    "education": 1397.0,
+    "urbanism": 659.8,
+    "administration": 501.2,
+    "legislative": 174.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4117.7,
+      "health_per_capita": 992.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4422.7,
+      "health_per_capita": 1069.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4727.7,
+      "health_per_capita": 1145.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4981.9,
+      "health_per_capita": 1221.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5083.6,
+      "health_per_capita": 1272.8
+    }
+  ]
+}

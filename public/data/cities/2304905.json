@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2304905",
+  "city_name": "Groaíras",
+  "uf": "CE",
+  "population": 10910,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 62381380.27,
+    "total_expense": 60070650.89,
+    "own_revenue_percentage": 19.9,
+    "transfers_revenue_percentage": 80.1,
+    "personnel_expense_percentage_rcl": 49.2
+  },
+  "per_capita_breakdown": {
+    "health": 1237.2,
+    "education": 1748.0,
+    "urbanism": 476.9,
+    "administration": 443.1,
+    "legislative": 83.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4459.9,
+      "health_per_capita": 965.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4790.2,
+      "health_per_capita": 1039.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5120.6,
+      "health_per_capita": 1113.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5395.9,
+      "health_per_capita": 1187.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5506.0,
+      "health_per_capita": 1237.2
+    }
+  ]
+}

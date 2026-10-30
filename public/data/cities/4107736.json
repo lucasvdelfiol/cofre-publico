@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4107736",
+  "city_name": "Fernandes Pinheiro",
+  "uf": "PR",
+  "population": 6255,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 34397824.39,
+    "total_expense": 34511717.94,
+    "own_revenue_percentage": 10.8,
+    "transfers_revenue_percentage": 89.2,
+    "personnel_expense_percentage_rcl": 45.7
+  },
+  "per_capita_breakdown": {
+    "health": 1319.9,
+    "education": 1764.8,
+    "urbanism": 815.0,
+    "administration": 383.3,
+    "legislative": 91.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4469.2,
+      "health_per_capita": 1029.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4800.2,
+      "health_per_capita": 1108.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5131.3,
+      "health_per_capita": 1187.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5407.1,
+      "health_per_capita": 1267.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5517.5,
+      "health_per_capita": 1319.9
+    }
+  ]
+}

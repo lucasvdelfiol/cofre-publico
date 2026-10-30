@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3529500",
+  "city_name": "Mendonça",
+  "uf": "SP",
+  "population": 6159,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 31570768.52,
+    "total_expense": 30532552.4,
+    "own_revenue_percentage": 8.8,
+    "transfers_revenue_percentage": 91.2,
+    "personnel_expense_percentage_rcl": 52.4
+  },
+  "per_capita_breakdown": {
+    "health": 1303.4,
+    "education": 1235.2,
+    "urbanism": 506.2,
+    "administration": 576.0,
+    "legislative": 122.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4015.5,
+      "health_per_capita": 1016.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4312.9,
+      "health_per_capita": 1094.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4610.4,
+      "health_per_capita": 1173.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4858.3,
+      "health_per_capita": 1251.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4957.4,
+      "health_per_capita": 1303.4
+    }
+  ]
+}

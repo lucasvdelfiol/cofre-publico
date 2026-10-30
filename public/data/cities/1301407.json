@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1301407",
+  "city_name": "Eirunepé",
+  "uf": "AM",
+  "population": 33170,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 148970270.07,
+    "total_expense": 144878830.56,
+    "own_revenue_percentage": 23.0,
+    "transfers_revenue_percentage": 77.0,
+    "personnel_expense_percentage_rcl": 49.0
+  },
+  "per_capita_breakdown": {
+    "health": 908.4,
+    "education": 1268.5,
+    "urbanism": 468.1,
+    "administration": 421.5,
+    "legislative": 131.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3537.9,
+      "health_per_capita": 708.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3800.0,
+      "health_per_capita": 763.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4062.1,
+      "health_per_capita": 817.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4280.4,
+      "health_per_capita": 872.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4367.8,
+      "health_per_capita": 908.4
+    }
+  ]
+}

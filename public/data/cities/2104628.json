@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2104628",
+  "city_name": "Governador Luiz Rocha",
+  "uf": "MA",
+  "population": 7063,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 32186572.56,
+    "total_expense": 31653755.74,
+    "own_revenue_percentage": 18.9,
+    "transfers_revenue_percentage": 81.1,
+    "personnel_expense_percentage_rcl": 48.9
+  },
+  "per_capita_breakdown": {
+    "health": 933.1,
+    "education": 1096.3,
+    "urbanism": 535.5,
+    "administration": 294.9,
+    "legislative": 145.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3630.1,
+      "health_per_capita": 727.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3899.0,
+      "health_per_capita": 783.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4167.9,
+      "health_per_capita": 839.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4392.0,
+      "health_per_capita": 895.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4481.6,
+      "health_per_capita": 933.1
+    }
+  ]
+}

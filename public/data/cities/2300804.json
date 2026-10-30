@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2300804",
+  "city_name": "Antonina do Norte",
+  "uf": "CE",
+  "population": 7245,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 33914636.25,
+    "total_expense": 32749150.64,
+    "own_revenue_percentage": 13.2,
+    "transfers_revenue_percentage": 86.8,
+    "personnel_expense_percentage_rcl": 50.2
+  },
+  "per_capita_breakdown": {
+    "health": 1106.0,
+    "education": 1388.9,
+    "urbanism": 607.1,
+    "administration": 334.6,
+    "legislative": 124.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3661.4,
+      "health_per_capita": 862.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3932.6,
+      "health_per_capita": 929.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4203.8,
+      "health_per_capita": 995.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4429.8,
+      "health_per_capita": 1061.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4520.2,
+      "health_per_capita": 1106.0
+    }
+  ]
+}

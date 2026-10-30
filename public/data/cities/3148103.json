@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3148103",
+  "city_name": "Patrocínio",
+  "uf": "MG",
+  "population": 89826,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 395442541.54,
+    "total_expense": 380355325.97,
+    "own_revenue_percentage": 28.9,
+    "transfers_revenue_percentage": 71.1,
+    "personnel_expense_percentage_rcl": 48.4
+  },
+  "per_capita_breakdown": {
+    "health": 983.1,
+    "education": 1281.9,
+    "urbanism": 553.2,
+    "administration": 504.9,
+    "legislative": 84.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3429.9,
+      "health_per_capita": 766.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3683.9,
+      "health_per_capita": 825.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3938.0,
+      "health_per_capita": 884.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4149.7,
+      "health_per_capita": 943.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4234.4,
+      "health_per_capita": 983.1
+    }
+  ]
+}

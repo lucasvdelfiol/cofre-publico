@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2201929",
+  "city_name": "Bonfim do Piauí",
+  "uf": "PI",
+  "population": 5913,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 29502558.16,
+    "total_expense": 29758080.07,
+    "own_revenue_percentage": 9.5,
+    "transfers_revenue_percentage": 90.5,
+    "personnel_expense_percentage_rcl": 51.0
+  },
+  "per_capita_breakdown": {
+    "health": 1208.1,
+    "education": 1334.4,
+    "urbanism": 410.9,
+    "administration": 501.1,
+    "legislative": 110.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4076.5,
+      "health_per_capita": 942.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4378.4,
+      "health_per_capita": 1014.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4680.4,
+      "health_per_capita": 1087.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4932.0,
+      "health_per_capita": 1159.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5032.7,
+      "health_per_capita": 1208.1
+    }
+  ]
+}

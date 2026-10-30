@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2916005",
+  "city_name": "Itanhém",
+  "uf": "BA",
+  "population": 17813,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 101008264.77,
+    "total_expense": 97504726.75,
+    "own_revenue_percentage": 16.3,
+    "transfers_revenue_percentage": 83.7,
+    "personnel_expense_percentage_rcl": 45.9
+  },
+  "per_capita_breakdown": {
+    "health": 1368.4,
+    "education": 1412.5,
+    "urbanism": 475.7,
+    "administration": 495.7,
+    "legislative": 104.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4433.8,
+      "health_per_capita": 1067.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4762.2,
+      "health_per_capita": 1149.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5090.6,
+      "health_per_capita": 1231.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5364.3,
+      "health_per_capita": 1313.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5473.8,
+      "health_per_capita": 1368.4
+    }
+  ]
+}

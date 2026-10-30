@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2102408",
+  "city_name": "Cajapió",
+  "uf": "MA",
+  "population": 10121,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 53437051.58,
+    "total_expense": 53550706.28,
+    "own_revenue_percentage": 13.3,
+    "transfers_revenue_percentage": 86.7,
+    "personnel_expense_percentage_rcl": 52.0
+  },
+  "per_capita_breakdown": {
+    "health": 1366.4,
+    "education": 1503.0,
+    "urbanism": 490.5,
+    "administration": 523.4,
+    "legislative": 91.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4285.7,
+      "health_per_capita": 1065.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4603.2,
+      "health_per_capita": 1147.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4920.6,
+      "health_per_capita": 1229.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5185.2,
+      "health_per_capita": 1311.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5291.0,
+      "health_per_capita": 1366.4
+    }
+  ]
+}

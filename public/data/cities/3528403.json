@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3528403",
+  "city_name": "Mairinque",
+  "uf": "SP",
+  "population": 50027,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 251425916.6,
+    "total_expense": 241776123.39,
+    "own_revenue_percentage": 35.5,
+    "transfers_revenue_percentage": 64.5,
+    "personnel_expense_percentage_rcl": 47.0
+  },
+  "per_capita_breakdown": {
+    "health": 1223.1,
+    "education": 1323.6,
+    "urbanism": 575.5,
+    "administration": 548.7,
+    "legislative": 161.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3914.6,
+      "health_per_capita": 954.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4204.6,
+      "health_per_capita": 1027.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4494.6,
+      "health_per_capita": 1100.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4736.2,
+      "health_per_capita": 1174.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4832.9,
+      "health_per_capita": 1223.1
+    }
+  ]
+}

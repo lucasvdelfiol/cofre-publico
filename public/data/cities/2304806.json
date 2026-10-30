@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2304806",
+  "city_name": "Granjeiro",
+  "uf": "CE",
+  "population": 4841,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 24422486.22,
+    "total_expense": 23788711.91,
+    "own_revenue_percentage": 21.9,
+    "transfers_revenue_percentage": 78.1,
+    "personnel_expense_percentage_rcl": 48.1
+  },
+  "per_capita_breakdown": {
+    "health": 1284.1,
+    "education": 1487.0,
+    "urbanism": 660.4,
+    "administration": 473.1,
+    "legislative": 140.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3980.3,
+      "health_per_capita": 1001.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4275.2,
+      "health_per_capita": 1078.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4570.0,
+      "health_per_capita": 1155.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4815.7,
+      "health_per_capita": 1232.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4914.0,
+      "health_per_capita": 1284.1
+    }
+  ]
+}

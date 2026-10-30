@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3128105",
+  "city_name": "Guapé",
+  "uf": "MG",
+  "population": 13772,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 61302020.28,
+    "total_expense": 61893209.34,
+    "own_revenue_percentage": 17.8,
+    "transfers_revenue_percentage": 82.2,
+    "personnel_expense_percentage_rcl": 50.0
+  },
+  "per_capita_breakdown": {
+    "health": 908.9,
+    "education": 1258.8,
+    "urbanism": 474.5,
+    "administration": 401.1,
+    "legislative": 99.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3640.2,
+      "health_per_capita": 708.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3909.9,
+      "health_per_capita": 763.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4179.5,
+      "health_per_capita": 818.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4404.2,
+      "health_per_capita": 872.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4494.1,
+      "health_per_capita": 908.9
+    }
+  ]
+}

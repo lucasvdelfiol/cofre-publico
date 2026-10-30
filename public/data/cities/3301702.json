@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3301702",
+  "city_name": "Duque de Caxias",
+  "uf": "RJ",
+  "population": 808161,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 4440573834.09,
+    "total_expense": 4304534162.48,
+    "own_revenue_percentage": 46.1,
+    "transfers_revenue_percentage": 53.9,
+    "personnel_expense_percentage_rcl": 51.2
+  },
+  "per_capita_breakdown": {
+    "health": 1274.7,
+    "education": 1580.5,
+    "urbanism": 666.0,
+    "administration": 446.1,
+    "legislative": 144.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4314.3,
+      "health_per_capita": 994.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4633.9,
+      "health_per_capita": 1070.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4953.5,
+      "health_per_capita": 1147.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5219.8,
+      "health_per_capita": 1223.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5326.3,
+      "health_per_capita": 1274.7
+    }
+  ]
+}

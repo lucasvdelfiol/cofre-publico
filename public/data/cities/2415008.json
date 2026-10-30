@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2415008",
+  "city_name": "Vila Flor",
+  "uf": "RN",
+  "population": 3174,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 17211127.1,
+    "total_expense": 16620301.56,
+    "own_revenue_percentage": 13.6,
+    "transfers_revenue_percentage": 86.4,
+    "personnel_expense_percentage_rcl": 48.1
+  },
+  "per_capita_breakdown": {
+    "health": 1177.3,
+    "education": 1570.6,
+    "urbanism": 788.9,
+    "administration": 530.3,
+    "legislative": 88.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4241.5,
+      "health_per_capita": 918.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4555.7,
+      "health_per_capita": 988.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4869.9,
+      "health_per_capita": 1059.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5131.7,
+      "health_per_capita": 1130.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5236.4,
+      "health_per_capita": 1177.3
+    }
+  ]
+}

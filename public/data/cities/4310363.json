@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4310363",
+  "city_name": "Imigrante",
+  "uf": "RS",
+  "population": 3080,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 16828495.56,
+    "total_expense": 16310552.36,
+    "own_revenue_percentage": 16.5,
+    "transfers_revenue_percentage": 83.5,
+    "personnel_expense_percentage_rcl": 53.8
+  },
+  "per_capita_breakdown": {
+    "health": 1173.8,
+    "education": 1281.5,
+    "urbanism": 452.5,
+    "administration": 341.0,
+    "legislative": 166.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4289.4,
+      "health_per_capita": 915.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4607.2,
+      "health_per_capita": 986.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4924.9,
+      "health_per_capita": 1056.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5189.7,
+      "health_per_capita": 1126.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5295.6,
+      "health_per_capita": 1173.8
+    }
+  ]
+}

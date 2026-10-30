@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5106273",
+  "city_name": "Novo Horizonte do Norte",
+  "uf": "MT",
+  "population": 3349,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 17265120.69,
+    "total_expense": 17008095.27,
+    "own_revenue_percentage": 8.6,
+    "transfers_revenue_percentage": 91.4,
+    "personnel_expense_percentage_rcl": 49.6
+  },
+  "per_capita_breakdown": {
+    "health": 1056.2,
+    "education": 1309.1,
+    "urbanism": 640.4,
+    "administration": 379.9,
+    "legislative": 107.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4113.7,
+      "health_per_capita": 823.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4418.4,
+      "health_per_capita": 887.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4723.1,
+      "health_per_capita": 950.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4977.0,
+      "health_per_capita": 1014.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5078.6,
+      "health_per_capita": 1056.2
+    }
+  ]
+}

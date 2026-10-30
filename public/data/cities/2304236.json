@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2304236",
+  "city_name": "Croatá",
+  "uf": "CE",
+  "population": 17481,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 93820658.93,
+    "total_expense": 93166902.58,
+    "own_revenue_percentage": 17.9,
+    "transfers_revenue_percentage": 82.1,
+    "personnel_expense_percentage_rcl": 46.0
+  },
+  "per_capita_breakdown": {
+    "health": 1285.7,
+    "education": 1441.6,
+    "urbanism": 765.3,
+    "administration": 567.0,
+    "legislative": 125.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4317.0,
+      "health_per_capita": 1002.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4636.8,
+      "health_per_capita": 1080.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4956.5,
+      "health_per_capita": 1157.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5223.0,
+      "health_per_capita": 1234.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5329.6,
+      "health_per_capita": 1285.7
+    }
+  ]
+}

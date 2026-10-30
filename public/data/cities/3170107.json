@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3170107",
+  "city_name": "Uberaba",
+  "uf": "MG",
+  "population": 337836,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 1957292159.52,
+    "total_expense": 1895752808.8,
+    "own_revenue_percentage": 50.0,
+    "transfers_revenue_percentage": 50.0,
+    "personnel_expense_percentage_rcl": 50.1
+  },
+  "per_capita_breakdown": {
+    "health": 1490.9,
+    "education": 1543.0,
+    "urbanism": 621.7,
+    "administration": 578.7,
+    "legislative": 123.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4545.3,
+      "health_per_capita": 1162.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4882.0,
+      "health_per_capita": 1252.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5218.7,
+      "health_per_capita": 1341.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5499.3,
+      "health_per_capita": 1431.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5611.5,
+      "health_per_capita": 1490.9
+    }
+  ]
+}

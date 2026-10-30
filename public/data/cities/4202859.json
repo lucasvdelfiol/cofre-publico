@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4202859",
+  "city_name": "Braço do Trombudo",
+  "uf": "SC",
+  "population": 4026,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 21431077.29,
+    "total_expense": 21281170.5,
+    "own_revenue_percentage": 19.5,
+    "transfers_revenue_percentage": 80.5,
+    "personnel_expense_percentage_rcl": 49.3
+  },
+  "per_capita_breakdown": {
+    "health": 1393.6,
+    "education": 1487.7,
+    "urbanism": 619.1,
+    "administration": 529.8,
+    "legislative": 84.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4281.6,
+      "health_per_capita": 1087.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4598.7,
+      "health_per_capita": 1170.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4915.9,
+      "health_per_capita": 1254.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5180.2,
+      "health_per_capita": 1337.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5285.9,
+      "health_per_capita": 1393.6
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2300606",
+  "city_name": "Altaneira",
+  "uf": "CE",
+  "population": 6782,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 34991152.46,
+    "total_expense": 35167198.04,
+    "own_revenue_percentage": 19.6,
+    "transfers_revenue_percentage": 80.4,
+    "personnel_expense_percentage_rcl": 53.7
+  },
+  "per_capita_breakdown": {
+    "health": 1143.3,
+    "education": 1643.8,
+    "urbanism": 622.8,
+    "administration": 319.4,
+    "legislative": 139.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4200.2,
+      "health_per_capita": 891.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4511.3,
+      "health_per_capita": 960.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4822.4,
+      "health_per_capita": 1029.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5081.7,
+      "health_per_capita": 1097.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5185.4,
+      "health_per_capita": 1143.3
+    }
+  ]
+}

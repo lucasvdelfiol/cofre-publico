@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4101507",
+  "city_name": "Arapongas",
+  "uf": "PR",
+  "population": 119138,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 633165615.8,
+    "total_expense": 622164606.83,
+    "own_revenue_percentage": 46.2,
+    "transfers_revenue_percentage": 53.8,
+    "personnel_expense_percentage_rcl": 52.2
+  },
+  "per_capita_breakdown": {
+    "health": 1050.5,
+    "education": 1388.2,
+    "urbanism": 475.8,
+    "administration": 468.8,
+    "legislative": 143.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4230.0,
+      "health_per_capita": 819.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4543.3,
+      "health_per_capita": 882.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4856.6,
+      "health_per_capita": 945.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5117.8,
+      "health_per_capita": 1008.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5222.2,
+      "health_per_capita": 1050.5
+    }
+  ]
+}

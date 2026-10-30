@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2909109",
+  "city_name": "Coribe",
+  "uf": "BA",
+  "population": 13990,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 63207543.75,
+    "total_expense": 63621133.76,
+    "own_revenue_percentage": 21.8,
+    "transfers_revenue_percentage": 78.2,
+    "personnel_expense_percentage_rcl": 52.4
+  },
+  "per_capita_breakdown": {
+    "health": 1270.1,
+    "education": 1319.6,
+    "urbanism": 391.7,
+    "administration": 408.3,
+    "legislative": 83.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3683.6,
+      "health_per_capita": 990.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3956.4,
+      "health_per_capita": 1066.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4229.3,
+      "health_per_capita": 1143.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4456.6,
+      "health_per_capita": 1219.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4547.6,
+      "health_per_capita": 1270.1
+    }
+  ]
+}

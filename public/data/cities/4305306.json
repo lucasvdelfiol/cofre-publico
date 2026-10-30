@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4305306",
+  "city_name": "Chapada",
+  "uf": "RS",
+  "population": 9540,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 54719260.15,
+    "total_expense": 52980454.6,
+    "own_revenue_percentage": 19.9,
+    "transfers_revenue_percentage": 80.1,
+    "personnel_expense_percentage_rcl": 48.1
+  },
+  "per_capita_breakdown": {
+    "health": 1471.8,
+    "education": 1349.8,
+    "urbanism": 773.0,
+    "administration": 636.9,
+    "legislative": 112.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4498.3,
+      "health_per_capita": 1148.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4831.5,
+      "health_per_capita": 1236.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5164.8,
+      "health_per_capita": 1324.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5442.4,
+      "health_per_capita": 1412.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5553.5,
+      "health_per_capita": 1471.8
+    }
+  ]
+}

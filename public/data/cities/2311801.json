@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2311801",
+  "city_name": "Russas",
+  "uf": "CE",
+  "population": 72928,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 341984194.18,
+    "total_expense": 332727359.43,
+    "own_revenue_percentage": 29.2,
+    "transfers_revenue_percentage": 70.8,
+    "personnel_expense_percentage_rcl": 45.4
+  },
+  "per_capita_breakdown": {
+    "health": 1227.2,
+    "education": 1431.7,
+    "urbanism": 552.7,
+    "administration": 391.6,
+    "legislative": 96.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3695.5,
+      "health_per_capita": 957.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3969.3,
+      "health_per_capita": 1030.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4243.0,
+      "health_per_capita": 1104.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4471.2,
+      "health_per_capita": 1178.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4562.4,
+      "health_per_capita": 1227.2
+    }
+  ]
+}

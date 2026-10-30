@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2406304",
+  "city_name": "Lagoa de Pedras",
+  "uf": "RN",
+  "population": 7338,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 40708827.54,
+    "total_expense": 39420290.42,
+    "own_revenue_percentage": 13.0,
+    "transfers_revenue_percentage": 87.0,
+    "personnel_expense_percentage_rcl": 50.1
+  },
+  "per_capita_breakdown": {
+    "health": 1181.8,
+    "education": 1595.8,
+    "urbanism": 802.7,
+    "administration": 539.2,
+    "legislative": 81.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4351.4,
+      "health_per_capita": 921.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4673.7,
+      "health_per_capita": 992.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4996.1,
+      "health_per_capita": 1063.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5264.7,
+      "health_per_capita": 1134.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5372.1,
+      "health_per_capita": 1181.8
+    }
+  ]
+}

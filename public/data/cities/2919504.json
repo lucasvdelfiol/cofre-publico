@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2919504",
+  "city_name": "Livramento de Nossa Senhora",
+  "uf": "BA",
+  "population": 43903,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 207263349.19,
+    "total_expense": 208247295.84,
+    "own_revenue_percentage": 31.4,
+    "transfers_revenue_percentage": 68.6,
+    "personnel_expense_percentage_rcl": 51.2
+  },
+  "per_capita_breakdown": {
+    "health": 1056.8,
+    "education": 1193.7,
+    "urbanism": 454.8,
+    "administration": 334.3,
+    "legislative": 74.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3842.2,
+      "health_per_capita": 824.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4126.8,
+      "health_per_capita": 887.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4411.4,
+      "health_per_capita": 951.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4648.5,
+      "health_per_capita": 1014.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4743.4,
+      "health_per_capita": 1056.8
+    }
+  ]
+}

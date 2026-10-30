@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3107505",
+  "city_name": "Bom Jardim de Minas",
+  "uf": "MG",
+  "population": 6783,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 38190596.57,
+    "total_expense": 37885362.79,
+    "own_revenue_percentage": 20.4,
+    "transfers_revenue_percentage": 79.6,
+    "personnel_expense_percentage_rcl": 49.9
+  },
+  "per_capita_breakdown": {
+    "health": 1390.3,
+    "education": 1469.9,
+    "urbanism": 591.4,
+    "administration": 520.9,
+    "legislative": 131.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4524.1,
+      "health_per_capita": 1084.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4859.2,
+      "health_per_capita": 1167.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5194.3,
+      "health_per_capita": 1251.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5473.6,
+      "health_per_capita": 1334.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5585.3,
+      "health_per_capita": 1390.3
+    }
+  ]
+}

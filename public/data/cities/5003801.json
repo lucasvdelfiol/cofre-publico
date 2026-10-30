@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5003801",
+  "city_name": "Fátima do Sul",
+  "uf": "MS",
+  "population": 20609,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 96061233.25,
+    "total_expense": 96759725.98,
+    "own_revenue_percentage": 26.9,
+    "transfers_revenue_percentage": 73.1,
+    "personnel_expense_percentage_rcl": 53.3
+  },
+  "per_capita_breakdown": {
+    "health": 1246.5,
+    "education": 1241.7,
+    "urbanism": 647.4,
+    "administration": 519.6,
+    "legislative": 159.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3803.0,
+      "health_per_capita": 972.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4084.7,
+      "health_per_capita": 1047.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4366.4,
+      "health_per_capita": 1121.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4601.1,
+      "health_per_capita": 1196.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4695.0,
+      "health_per_capita": 1246.5
+    }
+  ]
+}

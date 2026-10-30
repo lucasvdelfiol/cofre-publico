@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5216007",
+  "city_name": "Panamá",
+  "uf": "GO",
+  "population": 2455,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 13180910.96,
+    "total_expense": 12910551.81,
+    "own_revenue_percentage": 14.1,
+    "transfers_revenue_percentage": 85.9,
+    "personnel_expense_percentage_rcl": 53.2
+  },
+  "per_capita_breakdown": {
+    "health": 1287.8,
+    "education": 1620.4,
+    "urbanism": 545.8,
+    "administration": 555.9,
+    "legislative": 183.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4259.7,
+      "health_per_capita": 1004.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4575.2,
+      "health_per_capita": 1081.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4890.8,
+      "health_per_capita": 1159.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5153.7,
+      "health_per_capita": 1236.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5258.9,
+      "health_per_capita": 1287.8
+    }
+  ]
+}

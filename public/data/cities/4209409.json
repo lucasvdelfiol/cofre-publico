@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4209409",
+  "city_name": "Laguna",
+  "uf": "SC",
+  "population": 42785,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 192999114.81,
+    "total_expense": 191442787.02,
+    "own_revenue_percentage": 31.6,
+    "transfers_revenue_percentage": 68.4,
+    "personnel_expense_percentage_rcl": 48.1
+  },
+  "per_capita_breakdown": {
+    "health": 1115.5,
+    "education": 1169.1,
+    "urbanism": 665.3,
+    "administration": 533.2,
+    "legislative": 90.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3624.3,
+      "health_per_capita": 870.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3892.8,
+      "health_per_capita": 937.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4161.3,
+      "health_per_capita": 1004.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4385.0,
+      "health_per_capita": 1070.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4474.5,
+      "health_per_capita": 1115.5
+    }
+  ]
+}

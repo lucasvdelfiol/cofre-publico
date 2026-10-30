@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2305902",
+  "city_name": "Ipueiras",
+  "uf": "CE",
+  "population": 36798,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 155261508.2,
+    "total_expense": 155380812.92,
+    "own_revenue_percentage": 23.5,
+    "transfers_revenue_percentage": 76.5,
+    "personnel_expense_percentage_rcl": 47.9
+  },
+  "per_capita_breakdown": {
+    "health": 1173.0,
+    "education": 1083.4,
+    "urbanism": 565.7,
+    "administration": 291.9,
+    "legislative": 76.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3420.2,
+      "health_per_capita": 914.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3673.6,
+      "health_per_capita": 985.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3926.9,
+      "health_per_capita": 1055.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4138.1,
+      "health_per_capita": 1126.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4222.5,
+      "health_per_capita": 1173.0
+    }
+  ]
+}

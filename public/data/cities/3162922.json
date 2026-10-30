@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3162922",
+  "city_name": "São Joaquim de Bicas",
+  "uf": "MG",
+  "population": 34348,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 147272431.28,
+    "total_expense": 144884437.9,
+    "own_revenue_percentage": 31.1,
+    "transfers_revenue_percentage": 68.9,
+    "personnel_expense_percentage_rcl": 52.4
+  },
+  "per_capita_breakdown": {
+    "health": 870.4,
+    "education": 1281.6,
+    "urbanism": 539.3,
+    "administration": 292.6,
+    "legislative": 114.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3416.7,
+      "health_per_capita": 678.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3669.7,
+      "health_per_capita": 731.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3922.8,
+      "health_per_capita": 783.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4133.7,
+      "health_per_capita": 835.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4218.1,
+      "health_per_capita": 870.4
+    }
+  ]
+}

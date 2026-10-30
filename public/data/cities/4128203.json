@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4128203",
+  "city_name": "União da Vitória",
+  "uf": "PR",
+  "population": 55033,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 241193608.76,
+    "total_expense": 243340756.94,
+    "own_revenue_percentage": 32.5,
+    "transfers_revenue_percentage": 67.5,
+    "personnel_expense_percentage_rcl": 48.7
+  },
+  "per_capita_breakdown": {
+    "health": 1193.7,
+    "education": 1209.7,
+    "urbanism": 377.6,
+    "administration": 383.1,
+    "legislative": 68.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3581.6,
+      "health_per_capita": 931.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3846.9,
+      "health_per_capita": 1002.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4112.2,
+      "health_per_capita": 1074.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4333.3,
+      "health_per_capita": 1146.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4421.7,
+      "health_per_capita": 1193.7
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4124020",
+  "city_name": "Santa Tereza do Oeste",
+  "uf": "PR",
+  "population": 13174,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 69034056.85,
+    "total_expense": 66697996.89,
+    "own_revenue_percentage": 10.6,
+    "transfers_revenue_percentage": 89.4,
+    "personnel_expense_percentage_rcl": 50.2
+  },
+  "per_capita_breakdown": {
+    "health": 1104.7,
+    "education": 1571.0,
+    "urbanism": 762.9,
+    "administration": 505.1,
+    "legislative": 159.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4100.9,
+      "health_per_capita": 861.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4404.7,
+      "health_per_capita": 927.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4708.5,
+      "health_per_capita": 994.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4961.6,
+      "health_per_capita": 1060.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5062.9,
+      "health_per_capita": 1104.7
+    }
+  ]
+}

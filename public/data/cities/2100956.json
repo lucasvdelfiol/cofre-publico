@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2100956",
+  "city_name": "Arame",
+  "uf": "MA",
+  "population": 25517,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 116705345.47,
+    "total_expense": 113426933.91,
+    "own_revenue_percentage": 31.1,
+    "transfers_revenue_percentage": 68.9,
+    "personnel_expense_percentage_rcl": 47.4
+  },
+  "per_capita_breakdown": {
+    "health": 1043.7,
+    "education": 1175.9,
+    "urbanism": 572.4,
+    "administration": 370.9,
+    "legislative": 150.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3600.6,
+      "health_per_capita": 814.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3867.3,
+      "health_per_capita": 876.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4134.0,
+      "health_per_capita": 939.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4356.3,
+      "health_per_capita": 1002.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4445.2,
+      "health_per_capita": 1043.7
+    }
+  ]
+}

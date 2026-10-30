@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4108809",
+  "city_name": "Guaíra",
+  "uf": "PR",
+  "population": 32097,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 149474668.53,
+    "total_expense": 149360610.68,
+    "own_revenue_percentage": 25.9,
+    "transfers_revenue_percentage": 74.1,
+    "personnel_expense_percentage_rcl": 52.3
+  },
+  "per_capita_breakdown": {
+    "health": 975.6,
+    "education": 1205.2,
+    "urbanism": 434.1,
+    "administration": 312.7,
+    "legislative": 146.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3769.3,
+      "health_per_capita": 761.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4048.5,
+      "health_per_capita": 819.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4327.7,
+      "health_per_capita": 878.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4560.3,
+      "health_per_capita": 936.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4653.4,
+      "health_per_capita": 975.6
+    }
+  ]
+}

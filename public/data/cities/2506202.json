@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2506202",
+  "city_name": "Frei Martinho",
+  "uf": "PB",
+  "population": 2846,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 13227580.3,
+    "total_expense": 13038781.45,
+    "own_revenue_percentage": 10.5,
+    "transfers_revenue_percentage": 89.5,
+    "personnel_expense_percentage_rcl": 50.3
+  },
+  "per_capita_breakdown": {
+    "health": 1093.4,
+    "education": 1464.2,
+    "urbanism": 499.1,
+    "administration": 446.2,
+    "legislative": 126.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3710.9,
+      "health_per_capita": 852.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3985.8,
+      "health_per_capita": 918.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4260.7,
+      "health_per_capita": 984.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4489.8,
+      "health_per_capita": 1049.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4581.4,
+      "health_per_capita": 1093.4
+    }
+  ]
+}

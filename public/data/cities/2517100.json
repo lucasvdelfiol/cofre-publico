@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2517100",
+  "city_name": "Várzea",
+  "uf": "PB",
+  "population": 2668,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 14049371.07,
+    "total_expense": 13929824.06,
+    "own_revenue_percentage": 17.2,
+    "transfers_revenue_percentage": 82.8,
+    "personnel_expense_percentage_rcl": 50.9
+  },
+  "per_capita_breakdown": {
+    "health": 1322.8,
+    "education": 1304.0,
+    "urbanism": 461.8,
+    "administration": 336.0,
+    "legislative": 161.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4229.1,
+      "health_per_capita": 1031.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4542.4,
+      "health_per_capita": 1111.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4855.6,
+      "health_per_capita": 1190.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5116.7,
+      "health_per_capita": 1269.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5221.1,
+      "health_per_capita": 1322.8
+    }
+  ]
+}

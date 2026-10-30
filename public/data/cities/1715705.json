@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1715705",
+  "city_name": "Palmeirante",
+  "uf": "TO",
+  "population": 4798,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 23746726.8,
+    "total_expense": 23260000.15,
+    "own_revenue_percentage": 10.6,
+    "transfers_revenue_percentage": 89.4,
+    "personnel_expense_percentage_rcl": 50.6
+  },
+  "per_capita_breakdown": {
+    "health": 1026.9,
+    "education": 1426.9,
+    "urbanism": 482.3,
+    "administration": 327.9,
+    "legislative": 136.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3926.8,
+      "health_per_capita": 801.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4217.7,
+      "health_per_capita": 862.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4508.5,
+      "health_per_capita": 924.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4750.9,
+      "health_per_capita": 985.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4847.9,
+      "health_per_capita": 1026.9
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5106232",
+  "city_name": "Nova Olímpia",
+  "uf": "MT",
+  "population": 16352,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 76146377.54,
+    "total_expense": 74782012.07,
+    "own_revenue_percentage": 19.5,
+    "transfers_revenue_percentage": 80.5,
+    "personnel_expense_percentage_rcl": 53.0
+  },
+  "per_capita_breakdown": {
+    "health": 1183.6,
+    "education": 1277.0,
+    "urbanism": 703.3,
+    "administration": 502.1,
+    "legislative": 99.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3704.4,
+      "health_per_capita": 923.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3978.8,
+      "health_per_capita": 994.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4253.2,
+      "health_per_capita": 1065.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4481.8,
+      "health_per_capita": 1136.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4573.3,
+      "health_per_capita": 1183.6
+    }
+  ]
+}

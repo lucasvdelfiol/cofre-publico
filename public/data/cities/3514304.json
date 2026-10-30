@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3514304",
+  "city_name": "Dourado",
+  "uf": "SP",
+  "population": 8096,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 43099277.41,
+    "total_expense": 42440246.24,
+    "own_revenue_percentage": 17.3,
+    "transfers_revenue_percentage": 82.7,
+    "personnel_expense_percentage_rcl": 52.7
+  },
+  "per_capita_breakdown": {
+    "health": 1280.0,
+    "education": 1533.5,
+    "urbanism": 624.9,
+    "administration": 620.3,
+    "legislative": 92.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4246.1,
+      "health_per_capita": 998.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4560.6,
+      "health_per_capita": 1075.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4875.2,
+      "health_per_capita": 1152.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5137.3,
+      "health_per_capita": 1228.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5242.1,
+      "health_per_capita": 1280.0
+    }
+  ]
+}

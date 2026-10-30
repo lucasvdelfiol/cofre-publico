@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2511509",
+  "city_name": "Pilar",
+  "uf": "PB",
+  "population": 12311,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 68076572.29,
+    "total_expense": 67999667.21,
+    "own_revenue_percentage": 15.9,
+    "transfers_revenue_percentage": 84.1,
+    "personnel_expense_percentage_rcl": 47.1
+  },
+  "per_capita_breakdown": {
+    "health": 1403.9,
+    "education": 1700.1,
+    "urbanism": 626.2,
+    "administration": 431.0,
+    "legislative": 143.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4474.0,
+      "health_per_capita": 1095.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4805.4,
+      "health_per_capita": 1179.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5136.9,
+      "health_per_capita": 1263.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5413.0,
+      "health_per_capita": 1347.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5523.5,
+      "health_per_capita": 1403.9
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2903953",
+  "city_name": "Bom Jesus da Serra",
+  "uf": "BA",
+  "population": 9730,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 49966318.11,
+    "total_expense": 48631676.07,
+    "own_revenue_percentage": 14.7,
+    "transfers_revenue_percentage": 85.3,
+    "personnel_expense_percentage_rcl": 48.8
+  },
+  "per_capita_breakdown": {
+    "health": 1129.7,
+    "education": 1462.3,
+    "urbanism": 645.4,
+    "administration": 565.2,
+    "legislative": 123.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4048.5,
+      "health_per_capita": 881.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4348.3,
+      "health_per_capita": 948.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4648.2,
+      "health_per_capita": 1016.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4898.1,
+      "health_per_capita": 1084.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4998.1,
+      "health_per_capita": 1129.7
+    }
+  ]
+}

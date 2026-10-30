@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2923308",
+  "city_name": "Ouriçangas",
+  "uf": "BA",
+  "population": 7716,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 40740719.41,
+    "total_expense": 41085349.38,
+    "own_revenue_percentage": 15.0,
+    "transfers_revenue_percentage": 85.0,
+    "personnel_expense_percentage_rcl": 45.8
+  },
+  "per_capita_breakdown": {
+    "health": 1355.2,
+    "education": 1633.2,
+    "urbanism": 836.3,
+    "administration": 379.5,
+    "legislative": 107.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4313.0,
+      "health_per_capita": 1057.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4632.5,
+      "health_per_capita": 1138.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4952.0,
+      "health_per_capita": 1219.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5218.2,
+      "health_per_capita": 1301.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5324.7,
+      "health_per_capita": 1355.2
+    }
+  ]
+}

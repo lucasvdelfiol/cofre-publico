@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2605707",
+  "city_name": "Floresta",
+  "uf": "PE",
+  "population": 30137,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 151866520.8,
+    "total_expense": 146139418.78,
+    "own_revenue_percentage": 25.0,
+    "transfers_revenue_percentage": 75.0,
+    "personnel_expense_percentage_rcl": 47.6
+  },
+  "per_capita_breakdown": {
+    "health": 987.6,
+    "education": 1369.4,
+    "urbanism": 560.4,
+    "administration": 514.5,
+    "legislative": 159.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3927.9,
+      "health_per_capita": 770.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4218.8,
+      "health_per_capita": 829.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4509.8,
+      "health_per_capita": 888.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4752.2,
+      "health_per_capita": 948.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4849.2,
+      "health_per_capita": 987.6
+    }
+  ]
+}

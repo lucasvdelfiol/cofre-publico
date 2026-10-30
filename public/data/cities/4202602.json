@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4202602",
+  "city_name": "Bom Retiro",
+  "uf": "SC",
+  "population": 8418,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 38191081.5,
+    "total_expense": 37057112.45,
+    "own_revenue_percentage": 21.8,
+    "transfers_revenue_percentage": 78.2,
+    "personnel_expense_percentage_rcl": 50.0
+  },
+  "per_capita_breakdown": {
+    "health": 938.3,
+    "education": 1075.0,
+    "urbanism": 619.9,
+    "administration": 403.4,
+    "legislative": 80.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3565.7,
+      "health_per_capita": 731.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3829.8,
+      "health_per_capita": 788.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4094.0,
+      "health_per_capita": 844.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4314.1,
+      "health_per_capita": 900.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4402.1,
+      "health_per_capita": 938.3
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3130556",
+  "city_name": "Imbé de Minas",
+  "uf": "MG",
+  "population": 6986,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 38472513.5,
+    "total_expense": 37535800.09,
+    "own_revenue_percentage": 12.2,
+    "transfers_revenue_percentage": 87.8,
+    "personnel_expense_percentage_rcl": 52.4
+  },
+  "per_capita_breakdown": {
+    "health": 1298.3,
+    "education": 1618.7,
+    "urbanism": 721.7,
+    "administration": 397.4,
+    "legislative": 99.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4352.1,
+      "health_per_capita": 1012.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4674.5,
+      "health_per_capita": 1090.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4996.9,
+      "health_per_capita": 1168.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5265.5,
+      "health_per_capita": 1246.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5373.0,
+      "health_per_capita": 1298.3
+    }
+  ]
+}

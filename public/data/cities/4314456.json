@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4314456",
+  "city_name": "Pinhal",
+  "uf": "RS",
+  "population": 2959,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 16050389.19,
+    "total_expense": 16083777.65,
+    "own_revenue_percentage": 14.4,
+    "transfers_revenue_percentage": 85.6,
+    "personnel_expense_percentage_rcl": 51.3
+  },
+  "per_capita_breakdown": {
+    "health": 1502.5,
+    "education": 1373.8,
+    "urbanism": 486.2,
+    "administration": 576.6,
+    "legislative": 118.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4402.8,
+      "health_per_capita": 1172.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4728.9,
+      "health_per_capita": 1262.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5055.0,
+      "health_per_capita": 1352.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5326.8,
+      "health_per_capita": 1442.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5435.5,
+      "health_per_capita": 1502.5
+    }
+  ]
+}

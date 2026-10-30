@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2512002",
+  "city_name": "Pocinhos",
+  "uf": "PB",
+  "population": 17469,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 89242500.78,
+    "total_expense": 87038458.63,
+    "own_revenue_percentage": 14.9,
+    "transfers_revenue_percentage": 85.1,
+    "personnel_expense_percentage_rcl": 48.6
+  },
+  "per_capita_breakdown": {
+    "health": 1315.8,
+    "education": 1525.5,
+    "urbanism": 455.0,
+    "administration": 398.1,
+    "legislative": 80.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4035.8,
+      "health_per_capita": 1026.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4334.8,
+      "health_per_capita": 1105.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4633.7,
+      "health_per_capita": 1184.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4882.9,
+      "health_per_capita": 1263.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4982.5,
+      "health_per_capita": 1315.8
+    }
+  ]
+}

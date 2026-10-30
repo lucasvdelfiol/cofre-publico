@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4304697",
+  "city_name": "Capitão",
+  "uf": "RS",
+  "population": 2921,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 15732095.62,
+    "total_expense": 15207990.28,
+    "own_revenue_percentage": 13.4,
+    "transfers_revenue_percentage": 86.6,
+    "personnel_expense_percentage_rcl": 51.8
+  },
+  "per_capita_breakdown": {
+    "health": 1094.8,
+    "education": 1310.5,
+    "urbanism": 484.6,
+    "administration": 569.5,
+    "legislative": 113.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4217.2,
+      "health_per_capita": 853.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4529.6,
+      "health_per_capita": 919.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4842.0,
+      "health_per_capita": 985.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5102.3,
+      "health_per_capita": 1051.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5206.4,
+      "health_per_capita": 1094.8
+    }
+  ]
+}

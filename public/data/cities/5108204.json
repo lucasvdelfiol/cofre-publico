@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5108204",
+  "city_name": "Torixoréu",
+  "uf": "MT",
+  "population": 4164,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 20638242.11,
+    "total_expense": 20540614.28,
+    "own_revenue_percentage": 19.1,
+    "transfers_revenue_percentage": 80.9,
+    "personnel_expense_percentage_rcl": 48.7
+  },
+  "per_capita_breakdown": {
+    "health": 1154.0,
+    "education": 1563.9,
+    "urbanism": 505.9,
+    "administration": 514.4,
+    "legislative": 77.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3995.6,
+      "health_per_capita": 900.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4291.6,
+      "health_per_capita": 969.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4587.6,
+      "health_per_capita": 1038.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4834.2,
+      "health_per_capita": 1107.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4932.9,
+      "health_per_capita": 1154.0
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4317806",
+  "city_name": "Santo Augusto",
+  "uf": "RS",
+  "population": 13902,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 75383138.89,
+    "total_expense": 74474440.53,
+    "own_revenue_percentage": 21.2,
+    "transfers_revenue_percentage": 78.8,
+    "personnel_expense_percentage_rcl": 53.5
+  },
+  "per_capita_breakdown": {
+    "health": 1294.5,
+    "education": 1337.2,
+    "urbanism": 459.2,
+    "administration": 496.9,
+    "legislative": 145.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4339.3,
+      "health_per_capita": 1009.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4660.7,
+      "health_per_capita": 1087.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4982.1,
+      "health_per_capita": 1165.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5250.0,
+      "health_per_capita": 1242.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5357.1,
+      "health_per_capita": 1294.5
+    }
+  ]
+}

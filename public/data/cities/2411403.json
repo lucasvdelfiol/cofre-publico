@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2411403",
+  "city_name": "Santana do Matos",
+  "uf": "RN",
+  "population": 12456,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 62257972.69,
+    "total_expense": 60354727.09,
+    "own_revenue_percentage": 16.5,
+    "transfers_revenue_percentage": 83.5,
+    "personnel_expense_percentage_rcl": 47.3
+  },
+  "per_capita_breakdown": {
+    "health": 1115.2,
+    "education": 1230.7,
+    "urbanism": 701.0,
+    "administration": 293.2,
+    "legislative": 74.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3924.8,
+      "health_per_capita": 869.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4215.5,
+      "health_per_capita": 936.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4506.2,
+      "health_per_capita": 1003.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4748.5,
+      "health_per_capita": 1070.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4845.4,
+      "health_per_capita": 1115.2
+    }
+  ]
+}

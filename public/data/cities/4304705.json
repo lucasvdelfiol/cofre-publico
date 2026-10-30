@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4304705",
+  "city_name": "Carazinho",
+  "uf": "RS",
+  "population": 61804,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 291429014.01,
+    "total_expense": 293972217.14,
+    "own_revenue_percentage": 39.7,
+    "transfers_revenue_percentage": 60.3,
+    "personnel_expense_percentage_rcl": 45.3
+  },
+  "per_capita_breakdown": {
+    "health": 1261.4,
+    "education": 1521.5,
+    "urbanism": 546.5,
+    "administration": 328.1,
+    "legislative": 124.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3852.8,
+      "health_per_capita": 983.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4138.2,
+      "health_per_capita": 1059.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4423.5,
+      "health_per_capita": 1135.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4661.4,
+      "health_per_capita": 1210.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4756.5,
+      "health_per_capita": 1261.4
+    }
+  ]
+}

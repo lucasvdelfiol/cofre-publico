@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4201802",
+  "city_name": "Atalanta",
+  "uf": "SC",
+  "population": 3227,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 15675526.73,
+    "total_expense": 15477252.11,
+    "own_revenue_percentage": 17.6,
+    "transfers_revenue_percentage": 82.4,
+    "personnel_expense_percentage_rcl": 46.9
+  },
+  "per_capita_breakdown": {
+    "health": 1075.5,
+    "education": 1154.4,
+    "urbanism": 760.5,
+    "administration": 292.7,
+    "legislative": 137.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3884.9,
+      "health_per_capita": 838.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4172.7,
+      "health_per_capita": 903.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4460.5,
+      "health_per_capita": 968.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4700.3,
+      "health_per_capita": 1032.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4796.2,
+      "health_per_capita": 1075.5
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4111902",
+  "city_name": "Jaguapitã",
+  "uf": "PR",
+  "population": 15122,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 66351365.34,
+    "total_expense": 65144289.63,
+    "own_revenue_percentage": 19.7,
+    "transfers_revenue_percentage": 80.3,
+    "personnel_expense_percentage_rcl": 47.2
+  },
+  "per_capita_breakdown": {
+    "health": 1128.3,
+    "education": 1256.2,
+    "urbanism": 575.0,
+    "administration": 363.2,
+    "legislative": 99.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3489.4,
+      "health_per_capita": 880.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3747.9,
+      "health_per_capita": 947.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4006.3,
+      "health_per_capita": 1015.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4221.7,
+      "health_per_capita": 1083.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4307.9,
+      "health_per_capita": 1128.3
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4219176",
+  "city_name": "Vargem Bonita",
+  "uf": "SC",
+  "population": 4576,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 22166066.56,
+    "total_expense": 21716909.01,
+    "own_revenue_percentage": 17.4,
+    "transfers_revenue_percentage": 82.6,
+    "personnel_expense_percentage_rcl": 47.5
+  },
+  "per_capita_breakdown": {
+    "health": 1162.4,
+    "education": 1503.0,
+    "urbanism": 568.4,
+    "administration": 410.5,
+    "legislative": 111.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3844.1,
+      "health_per_capita": 906.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4128.8,
+      "health_per_capita": 976.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4413.6,
+      "health_per_capita": 1046.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4650.9,
+      "health_per_capita": 1115.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4745.8,
+      "health_per_capita": 1162.4
+    }
+  ]
+}

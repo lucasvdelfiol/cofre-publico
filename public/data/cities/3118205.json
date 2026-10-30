@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3118205",
+  "city_name": "Conquista",
+  "uf": "MG",
+  "population": 6694,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 37598949.5,
+    "total_expense": 36894385.02,
+    "own_revenue_percentage": 18.9,
+    "transfers_revenue_percentage": 81.1,
+    "personnel_expense_percentage_rcl": 48.6
+  },
+  "per_capita_breakdown": {
+    "health": 1424.7,
+    "education": 1705.8,
+    "urbanism": 552.4,
+    "administration": 348.2,
+    "legislative": 119.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4464.4,
+      "health_per_capita": 1111.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4795.1,
+      "health_per_capita": 1196.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5125.8,
+      "health_per_capita": 1282.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5401.4,
+      "health_per_capita": 1367.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5511.6,
+      "health_per_capita": 1424.7
+    }
+  ]
+}

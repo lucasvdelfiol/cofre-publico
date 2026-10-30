@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3534500",
+  "city_name": "Oscar Bressane",
+  "uf": "SP",
+  "population": 2470,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 11349317.55,
+    "total_expense": 11290728.04,
+    "own_revenue_percentage": 13.6,
+    "transfers_revenue_percentage": 86.4,
+    "personnel_expense_percentage_rcl": 50.8
+  },
+  "per_capita_breakdown": {
+    "health": 1231.8,
+    "education": 1426.9,
+    "urbanism": 369.7,
+    "administration": 311.5,
+    "legislative": 99.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3702.6,
+      "health_per_capita": 960.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3976.9,
+      "health_per_capita": 1034.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4251.1,
+      "health_per_capita": 1108.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4479.7,
+      "health_per_capita": 1182.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4571.1,
+      "health_per_capita": 1231.8
+    }
+  ]
+}

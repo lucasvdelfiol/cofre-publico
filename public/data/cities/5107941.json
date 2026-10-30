@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5107941",
+  "city_name": "Tabaporã",
+  "uf": "MT",
+  "population": 9818,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 52714197.16,
+    "total_expense": 51411585.22,
+    "own_revenue_percentage": 20.2,
+    "transfers_revenue_percentage": 79.8,
+    "personnel_expense_percentage_rcl": 50.6
+  },
+  "per_capita_breakdown": {
+    "health": 1369.8,
+    "education": 1504.4,
+    "urbanism": 419.0,
+    "administration": 453.8,
+    "legislative": 140.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4241.6,
+      "health_per_capita": 1068.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4555.8,
+      "health_per_capita": 1150.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4869.9,
+      "health_per_capita": 1232.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5131.8,
+      "health_per_capita": 1315.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5236.5,
+      "health_per_capita": 1369.8
+    }
+  ]
+}

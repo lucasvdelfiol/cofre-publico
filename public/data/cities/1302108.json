@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1302108",
+  "city_name": "Japurá",
+  "uf": "AM",
+  "population": 8858,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 39765511.97,
+    "total_expense": 38859530.77,
+    "own_revenue_percentage": 21.2,
+    "transfers_revenue_percentage": 78.8,
+    "personnel_expense_percentage_rcl": 48.5
+  },
+  "per_capita_breakdown": {
+    "health": 905.1,
+    "education": 1068.8,
+    "urbanism": 685.9,
+    "administration": 389.0,
+    "legislative": 92.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3553.4,
+      "health_per_capita": 706.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3816.6,
+      "health_per_capita": 760.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4079.8,
+      "health_per_capita": 814.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4299.2,
+      "health_per_capita": 868.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4386.9,
+      "health_per_capita": 905.1
+    }
+  ]
+}

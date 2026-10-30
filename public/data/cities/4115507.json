@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4115507",
+  "city_name": "Marumbi",
+  "uf": "PR",
+  "population": 4699,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 21016764.02,
+    "total_expense": 20705279.81,
+    "own_revenue_percentage": 18.2,
+    "transfers_revenue_percentage": 81.8,
+    "personnel_expense_percentage_rcl": 48.1
+  },
+  "per_capita_breakdown": {
+    "health": 919.5,
+    "education": 1125.5,
+    "urbanism": 557.8,
+    "administration": 455.3,
+    "legislative": 70.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3569.1,
+      "health_per_capita": 717.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3833.5,
+      "health_per_capita": 772.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4097.9,
+      "health_per_capita": 827.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4318.2,
+      "health_per_capita": 882.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4406.3,
+      "health_per_capita": 919.5
+    }
+  ]
+}

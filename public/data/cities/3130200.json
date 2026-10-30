@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3130200",
+  "city_name": "Igaratinga",
+  "uf": "MG",
+  "population": 10830,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 57445655.01,
+    "total_expense": 57395092.59,
+    "own_revenue_percentage": 16.9,
+    "transfers_revenue_percentage": 83.1,
+    "personnel_expense_percentage_rcl": 48.7
+  },
+  "per_capita_breakdown": {
+    "health": 1282.5,
+    "education": 1413.6,
+    "urbanism": 630.0,
+    "administration": 352.0,
+    "legislative": 133.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4292.7,
+      "health_per_capita": 1000.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4610.7,
+      "health_per_capita": 1077.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4928.6,
+      "health_per_capita": 1154.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5193.6,
+      "health_per_capita": 1231.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5299.6,
+      "health_per_capita": 1282.5
+    }
+  ]
+}

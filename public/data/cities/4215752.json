@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4215752",
+  "city_name": "São Bernardino",
+  "uf": "SC",
+  "population": 2684,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 13348939.09,
+    "total_expense": 13483066.82,
+    "own_revenue_percentage": 11.7,
+    "transfers_revenue_percentage": 88.3,
+    "personnel_expense_percentage_rcl": 49.2
+  },
+  "per_capita_breakdown": {
+    "health": 1342.3,
+    "education": 1206.0,
+    "urbanism": 525.9,
+    "administration": 586.7,
+    "legislative": 97.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4069.0,
+      "health_per_capita": 1047.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4370.4,
+      "health_per_capita": 1127.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4671.9,
+      "health_per_capita": 1208.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4923.0,
+      "health_per_capita": 1288.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5023.5,
+      "health_per_capita": 1342.3
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2917706",
+  "city_name": "Jaguarari",
+  "uf": "BA",
+  "population": 32703,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 150692528.21,
+    "total_expense": 147413064.61,
+    "own_revenue_percentage": 26.9,
+    "transfers_revenue_percentage": 73.1,
+    "personnel_expense_percentage_rcl": 50.1
+  },
+  "per_capita_breakdown": {
+    "health": 1258.9,
+    "education": 1268.1,
+    "urbanism": 705.9,
+    "administration": 531.1,
+    "legislative": 131.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3651.2,
+      "health_per_capita": 981.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3921.6,
+      "health_per_capita": 1057.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4192.1,
+      "health_per_capita": 1133.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4417.4,
+      "health_per_capita": 1208.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4507.6,
+      "health_per_capita": 1258.9
+    }
+  ]
+}

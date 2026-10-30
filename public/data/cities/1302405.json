@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1302405",
+  "city_name": "Lábrea",
+  "uf": "AM",
+  "population": 45448,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 220918925.98,
+    "total_expense": 221004479.52,
+    "own_revenue_percentage": 24.1,
+    "transfers_revenue_percentage": 75.9,
+    "personnel_expense_percentage_rcl": 48.1
+  },
+  "per_capita_breakdown": {
+    "health": 1157.7,
+    "education": 1255.6,
+    "urbanism": 441.4,
+    "administration": 454.2,
+    "legislative": 82.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3938.9,
+      "health_per_capita": 903.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4230.6,
+      "health_per_capita": 972.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4522.4,
+      "health_per_capita": 1041.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4765.5,
+      "health_per_capita": 1111.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4862.8,
+      "health_per_capita": 1157.7
+    }
+  ]
+}

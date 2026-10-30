@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4204301",
+  "city_name": "Concórdia",
+  "uf": "SC",
+  "population": 81646,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 383837099.4,
+    "total_expense": 382655610.95,
+    "own_revenue_percentage": 31.1,
+    "transfers_revenue_percentage": 68.9,
+    "personnel_expense_percentage_rcl": 45.2
+  },
+  "per_capita_breakdown": {
+    "health": 1200.8,
+    "education": 1470.7,
+    "urbanism": 494.9,
+    "administration": 431.2,
+    "legislative": 106.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3796.3,
+      "health_per_capita": 936.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4077.5,
+      "health_per_capita": 1008.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4358.7,
+      "health_per_capita": 1080.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4593.1,
+      "health_per_capita": 1152.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4686.8,
+      "health_per_capita": 1200.8
+    }
+  ]
+}

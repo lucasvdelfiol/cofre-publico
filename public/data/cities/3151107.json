@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3151107",
+  "city_name": "Pirapetinga",
+  "uf": "MG",
+  "population": 11077,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 61962543.78,
+    "total_expense": 60415641.4,
+    "own_revenue_percentage": 11.5,
+    "transfers_revenue_percentage": 88.5,
+    "personnel_expense_percentage_rcl": 52.4
+  },
+  "per_capita_breakdown": {
+    "health": 1222.1,
+    "education": 1326.9,
+    "urbanism": 448.2,
+    "administration": 528.3,
+    "legislative": 171.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4417.9,
+      "health_per_capita": 953.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4745.2,
+      "health_per_capita": 1026.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5072.4,
+      "health_per_capita": 1099.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5345.1,
+      "health_per_capita": 1173.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5454.2,
+      "health_per_capita": 1222.1
+    }
+  ]
+}

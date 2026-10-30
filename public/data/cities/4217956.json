@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4217956",
+  "city_name": "Tigrinhos",
+  "uf": "SC",
+  "population": 2329,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 10508374.08,
+    "total_expense": 10106962.48,
+    "own_revenue_percentage": 8.8,
+    "transfers_revenue_percentage": 91.2,
+    "personnel_expense_percentage_rcl": 50.6
+  },
+  "per_capita_breakdown": {
+    "health": 1029.6,
+    "education": 1355.5,
+    "urbanism": 490.9,
+    "administration": 457.5,
+    "legislative": 98.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3515.1,
+      "health_per_capita": 803.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3775.5,
+      "health_per_capita": 864.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4035.8,
+      "health_per_capita": 926.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4252.8,
+      "health_per_capita": 988.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4339.6,
+      "health_per_capita": 1029.6
+    }
+  ]
+}

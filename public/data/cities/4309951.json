@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4309951",
+  "city_name": "Ibirapuitã",
+  "uf": "RS",
+  "population": 3723,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 19214819.4,
+    "total_expense": 18950947.13,
+    "own_revenue_percentage": 12.2,
+    "transfers_revenue_percentage": 87.8,
+    "personnel_expense_percentage_rcl": 52.2
+  },
+  "per_capita_breakdown": {
+    "health": 1349.3,
+    "education": 1435.7,
+    "urbanism": 609.5,
+    "administration": 489.5,
+    "legislative": 79.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4123.1,
+      "health_per_capita": 1052.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4428.5,
+      "health_per_capita": 1133.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4733.9,
+      "health_per_capita": 1214.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4988.4,
+      "health_per_capita": 1295.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5090.2,
+      "health_per_capita": 1349.3
+    }
+  ]
+}

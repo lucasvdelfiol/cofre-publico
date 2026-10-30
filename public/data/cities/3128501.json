@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3128501",
+  "city_name": "Guarará",
+  "uf": "MG",
+  "population": 3149,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 14160879.26,
+    "total_expense": 14044253.9,
+    "own_revenue_percentage": 17.6,
+    "transfers_revenue_percentage": 82.4,
+    "personnel_expense_percentage_rcl": 49.8
+  },
+  "per_capita_breakdown": {
+    "health": 1184.3,
+    "education": 1378.7,
+    "urbanism": 665.4,
+    "administration": 301.6,
+    "legislative": 136.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3612.5,
+      "health_per_capita": 923.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3880.1,
+      "health_per_capita": 994.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4147.7,
+      "health_per_capita": 1065.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4370.7,
+      "health_per_capita": 1136.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4459.9,
+      "health_per_capita": 1184.3
+    }
+  ]
+}

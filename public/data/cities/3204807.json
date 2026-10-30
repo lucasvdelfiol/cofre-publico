@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3204807",
+  "city_name": "São José do Calçado",
+  "uf": "ES",
+  "population": 10878,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 57034586.7,
+    "total_expense": 55948623.93,
+    "own_revenue_percentage": 15.0,
+    "transfers_revenue_percentage": 85.0,
+    "personnel_expense_percentage_rcl": 50.4
+  },
+  "per_capita_breakdown": {
+    "health": 1033.1,
+    "education": 1399.9,
+    "urbanism": 760.1,
+    "administration": 553.7,
+    "legislative": 150.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4166.1,
+      "health_per_capita": 805.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4474.7,
+      "health_per_capita": 867.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4783.3,
+      "health_per_capita": 929.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5040.4,
+      "health_per_capita": 991.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5143.3,
+      "health_per_capita": 1033.1
+    }
+  ]
+}

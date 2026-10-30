@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5107792",
+  "city_name": "Santo Antônio do Leste",
+  "uf": "MT",
+  "population": 4099,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 17969819.76,
+    "total_expense": 17660114.82,
+    "own_revenue_percentage": 11.8,
+    "transfers_revenue_percentage": 88.2,
+    "personnel_expense_percentage_rcl": 46.8
+  },
+  "per_capita_breakdown": {
+    "health": 1102.5,
+    "education": 1307.2,
+    "urbanism": 484.6,
+    "administration": 436.9,
+    "legislative": 111.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3489.8,
+      "health_per_capita": 860.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3748.3,
+      "health_per_capita": 926.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4006.8,
+      "health_per_capita": 992.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4222.2,
+      "health_per_capita": 1058.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4308.4,
+      "health_per_capita": 1102.5
+    }
+  ]
+}

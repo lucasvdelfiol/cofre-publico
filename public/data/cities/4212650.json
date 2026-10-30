@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4212650",
+  "city_name": "Pescaria Brava",
+  "uf": "SC",
+  "population": 10190,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 51481906.31,
+    "total_expense": 51436448.55,
+    "own_revenue_percentage": 20.8,
+    "transfers_revenue_percentage": 79.2,
+    "personnel_expense_percentage_rcl": 46.6
+  },
+  "per_capita_breakdown": {
+    "health": 1410.1,
+    "education": 1534.5,
+    "urbanism": 729.0,
+    "administration": 588.8,
+    "legislative": 154.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4088.6,
+      "health_per_capita": 1099.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4391.5,
+      "health_per_capita": 1184.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4694.4,
+      "health_per_capita": 1269.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4946.7,
+      "health_per_capita": 1353.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5047.7,
+      "health_per_capita": 1410.1
+    }
+  ]
+}

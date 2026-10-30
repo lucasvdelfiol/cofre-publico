@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3505005",
+  "city_name": "Barão de Antonina",
+  "uf": "SP",
+  "population": 3531,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 16061266.79,
+    "total_expense": 15775673.3,
+    "own_revenue_percentage": 13.3,
+    "transfers_revenue_percentage": 86.7,
+    "personnel_expense_percentage_rcl": 48.1
+  },
+  "per_capita_breakdown": {
+    "health": 960.3,
+    "education": 1265.4,
+    "urbanism": 701.8,
+    "administration": 477.9,
+    "legislative": 104.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3618.9,
+      "health_per_capita": 749.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3887.0,
+      "health_per_capita": 806.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4155.1,
+      "health_per_capita": 864.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4378.4,
+      "health_per_capita": 921.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4467.8,
+      "health_per_capita": 960.3
+    }
+  ]
+}

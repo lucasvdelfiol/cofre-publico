@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2205854",
+  "city_name": "Madeiro",
+  "uf": "PI",
+  "population": 8032,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 40593951.14,
+    "total_expense": 40738291.17,
+    "own_revenue_percentage": 13.9,
+    "transfers_revenue_percentage": 86.1,
+    "personnel_expense_percentage_rcl": 45.7
+  },
+  "per_capita_breakdown": {
+    "health": 1274.3,
+    "education": 1322.7,
+    "urbanism": 776.4,
+    "administration": 351.1,
+    "legislative": 174.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4108.3,
+      "health_per_capita": 994.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4412.6,
+      "health_per_capita": 1070.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4717.0,
+      "health_per_capita": 1146.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4970.6,
+      "health_per_capita": 1223.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5072.0,
+      "health_per_capita": 1274.3
+    }
+  ]
+}

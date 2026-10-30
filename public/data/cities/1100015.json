@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1100015",
+  "city_name": "Alta Floresta D'Oeste",
+  "uf": "RO",
+  "population": 21494,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 91278095.4,
+    "total_expense": 89181372.72,
+    "own_revenue_percentage": 27.9,
+    "transfers_revenue_percentage": 72.1,
+    "personnel_expense_percentage_rcl": 51.5
+  },
+  "per_capita_breakdown": {
+    "health": 972.6,
+    "education": 1016.9,
+    "urbanism": 523.3,
+    "administration": 267.6,
+    "legislative": 112.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3360.8,
+      "health_per_capita": 758.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3609.7,
+      "health_per_capita": 817.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3858.7,
+      "health_per_capita": 875.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4066.1,
+      "health_per_capita": 933.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4149.1,
+      "health_per_capita": 972.6
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4215109",
+  "city_name": "Rodeio",
+  "uf": "SC",
+  "population": 12757,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 64211271.61,
+    "total_expense": 63614106.83,
+    "own_revenue_percentage": 17.7,
+    "transfers_revenue_percentage": 82.3,
+    "personnel_expense_percentage_rcl": 48.6
+  },
+  "per_capita_breakdown": {
+    "health": 1015.8,
+    "education": 1197.0,
+    "urbanism": 611.1,
+    "administration": 410.7,
+    "legislative": 170.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4039.1,
+      "health_per_capita": 792.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4338.3,
+      "health_per_capita": 853.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4637.5,
+      "health_per_capita": 914.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4886.9,
+      "health_per_capita": 975.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4986.6,
+      "health_per_capita": 1015.8
+    }
+  ]
+}

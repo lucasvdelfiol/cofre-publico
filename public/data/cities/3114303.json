@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3114303",
+  "city_name": "Carmo do Paranaíba",
+  "uf": "MG",
+  "population": 29011,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 137486965.88,
+    "total_expense": 133759413.36,
+    "own_revenue_percentage": 30.2,
+    "transfers_revenue_percentage": 69.8,
+    "personnel_expense_percentage_rcl": 48.7
+  },
+  "per_capita_breakdown": {
+    "health": 1234.3,
+    "education": 1254.2,
+    "urbanism": 396.9,
+    "administration": 383.9,
+    "legislative": 134.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3734.6,
+      "health_per_capita": 962.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4011.2,
+      "health_per_capita": 1036.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4287.9,
+      "health_per_capita": 1110.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4518.4,
+      "health_per_capita": 1184.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4610.6,
+      "health_per_capita": 1234.3
+    }
+  ]
+}

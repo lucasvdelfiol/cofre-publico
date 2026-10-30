@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3160702",
+  "city_name": "Santos Dumont",
+  "uf": "MG",
+  "population": 42406,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 184982976.62,
+    "total_expense": 185786158.2,
+    "own_revenue_percentage": 30.6,
+    "transfers_revenue_percentage": 69.4,
+    "personnel_expense_percentage_rcl": 48.2
+  },
+  "per_capita_breakdown": {
+    "health": 989.9,
+    "education": 1374.6,
+    "urbanism": 669.1,
+    "administration": 355.2,
+    "legislative": 134.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3548.7,
+      "health_per_capita": 772.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3811.6,
+      "health_per_capita": 831.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4074.4,
+      "health_per_capita": 890.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4293.5,
+      "health_per_capita": 950.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4381.1,
+      "health_per_capita": 989.9
+    }
+  ]
+}

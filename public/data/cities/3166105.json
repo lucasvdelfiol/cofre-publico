@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3166105",
+  "city_name": "Senhora do Porto",
+  "uf": "MG",
+  "population": 3067,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 15522310.0,
+    "total_expense": 15040778.81,
+    "own_revenue_percentage": 17.1,
+    "transfers_revenue_percentage": 82.9,
+    "personnel_expense_percentage_rcl": 47.9
+  },
+  "per_capita_breakdown": {
+    "health": 1031.3,
+    "education": 1506.7,
+    "urbanism": 483.5,
+    "administration": 486.7,
+    "legislative": 157.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3972.3,
+      "health_per_capita": 804.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4266.6,
+      "health_per_capita": 866.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4560.8,
+      "health_per_capita": 928.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4806.0,
+      "health_per_capita": 990.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4904.1,
+      "health_per_capita": 1031.3
+    }
+  ]
+}

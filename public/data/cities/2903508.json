@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2903508",
+  "city_name": "Belo Campo",
+  "uf": "BA",
+  "population": 18412,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 82138350.36,
+    "total_expense": 80799652.48,
+    "own_revenue_percentage": 9.5,
+    "transfers_revenue_percentage": 90.5,
+    "personnel_expense_percentage_rcl": 50.5
+  },
+  "per_capita_breakdown": {
+    "health": 961.5,
+    "education": 1214.6,
+    "urbanism": 664.6,
+    "administration": 268.0,
+    "legislative": 107.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3554.6,
+      "health_per_capita": 750.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3817.9,
+      "health_per_capita": 807.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4081.2,
+      "health_per_capita": 865.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4300.6,
+      "health_per_capita": 923.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4388.4,
+      "health_per_capita": 961.5
+    }
+  ]
+}

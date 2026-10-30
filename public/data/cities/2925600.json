@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2925600",
+  "city_name": "Presidente Dutra",
+  "uf": "BA",
+  "population": 15130,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 73357669.86,
+    "total_expense": 73707825.48,
+    "own_revenue_percentage": 8.5,
+    "transfers_revenue_percentage": 91.5,
+    "personnel_expense_percentage_rcl": 50.9
+  },
+  "per_capita_breakdown": {
+    "health": 1189.3,
+    "education": 1529.3,
+    "urbanism": 723.0,
+    "administration": 450.6,
+    "legislative": 81.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3946.0,
+      "health_per_capita": 927.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4238.3,
+      "health_per_capita": 999.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4530.6,
+      "health_per_capita": 1070.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4774.2,
+      "health_per_capita": 1141.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4871.6,
+      "health_per_capita": 1189.3
+    }
+  ]
+}

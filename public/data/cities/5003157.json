@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5003157",
+  "city_name": "Coronel Sapucaia",
+  "uf": "MS",
+  "population": 14289,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 67325645.36,
+    "total_expense": 66257965.27,
+    "own_revenue_percentage": 21.8,
+    "transfers_revenue_percentage": 78.2,
+    "personnel_expense_percentage_rcl": 48.8
+  },
+  "per_capita_breakdown": {
+    "health": 1195.7,
+    "education": 1337.1,
+    "urbanism": 682.3,
+    "administration": 492.1,
+    "legislative": 97.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3756.0,
+      "health_per_capita": 932.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4034.2,
+      "health_per_capita": 1004.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4312.4,
+      "health_per_capita": 1076.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4544.3,
+      "health_per_capita": 1147.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4637.0,
+      "health_per_capita": 1195.7
+    }
+  ]
+}

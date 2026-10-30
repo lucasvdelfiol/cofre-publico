@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4315305",
+  "city_name": "Quaraí",
+  "uf": "RS",
+  "population": 23500,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 106268110.23,
+    "total_expense": 105114257.96,
+    "own_revenue_percentage": 25.3,
+    "transfers_revenue_percentage": 74.7,
+    "personnel_expense_percentage_rcl": 47.9
+  },
+  "per_capita_breakdown": {
+    "health": 977.7,
+    "education": 1271.2,
+    "urbanism": 484.0,
+    "administration": 347.3,
+    "legislative": 128.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3623.0,
+      "health_per_capita": 762.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3891.4,
+      "health_per_capita": 821.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4159.8,
+      "health_per_capita": 879.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4383.4,
+      "health_per_capita": 938.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4472.9,
+      "health_per_capita": 977.7
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1700350",
+  "city_name": "Aliança do Tocantins",
+  "uf": "TO",
+  "population": 5147,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 27671532.57,
+    "total_expense": 27558022.44,
+    "own_revenue_percentage": 8.8,
+    "transfers_revenue_percentage": 91.2,
+    "personnel_expense_percentage_rcl": 49.0
+  },
+  "per_capita_breakdown": {
+    "health": 1232.6,
+    "education": 1627.2,
+    "urbanism": 747.9,
+    "administration": 531.5,
+    "legislative": 184.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4336.9,
+      "health_per_capita": 961.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4658.2,
+      "health_per_capita": 1035.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4979.4,
+      "health_per_capita": 1109.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5247.1,
+      "health_per_capita": 1183.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5354.2,
+      "health_per_capita": 1232.6
+    }
+  ]
+}

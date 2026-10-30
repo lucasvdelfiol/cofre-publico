@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2413706",
+  "city_name": "Sítio Novo",
+  "uf": "RN",
+  "population": 4654,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 26486105.03,
+    "total_expense": 25826840.37,
+    "own_revenue_percentage": 21.7,
+    "transfers_revenue_percentage": 78.3,
+    "personnel_expense_percentage_rcl": 53.5
+  },
+  "per_capita_breakdown": {
+    "health": 1493.5,
+    "education": 1712.6,
+    "urbanism": 765.2,
+    "administration": 389.3,
+    "legislative": 95.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4495.0,
+      "health_per_capita": 1164.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4828.0,
+      "health_per_capita": 1254.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5160.9,
+      "health_per_capita": 1344.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5438.4,
+      "health_per_capita": 1433.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5549.4,
+      "health_per_capita": 1493.5
+    }
+  ]
+}

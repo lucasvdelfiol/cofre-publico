@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1300144",
+  "city_name": "Apuí",
+  "uf": "AM",
+  "population": 20647,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 90894049.09,
+    "total_expense": 88885110.81,
+    "own_revenue_percentage": 25.7,
+    "transfers_revenue_percentage": 74.3,
+    "personnel_expense_percentage_rcl": 47.0
+  },
+  "per_capita_breakdown": {
+    "health": 1117.1,
+    "education": 1268.3,
+    "urbanism": 437.0,
+    "administration": 501.3,
+    "legislative": 119.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3487.1,
+      "health_per_capita": 871.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3745.3,
+      "health_per_capita": 938.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4003.7,
+      "health_per_capita": 1005.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4218.9,
+      "health_per_capita": 1072.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4305.0,
+      "health_per_capita": 1117.1
+    }
+  ]
+}

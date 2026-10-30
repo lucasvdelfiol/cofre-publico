@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3531100",
+  "city_name": "Mongaguá",
+  "uf": "SP",
+  "population": 61951,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 268609692.77,
+    "total_expense": 269222334.83,
+    "own_revenue_percentage": 32.0,
+    "transfers_revenue_percentage": 68.0,
+    "personnel_expense_percentage_rcl": 48.5
+  },
+  "per_capita_breakdown": {
+    "health": 907.9,
+    "education": 1352.2,
+    "urbanism": 437.4,
+    "administration": 309.0,
+    "legislative": 67.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3520.0,
+      "health_per_capita": 708.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3780.8,
+      "health_per_capita": 762.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4041.5,
+      "health_per_capita": 817.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4258.8,
+      "health_per_capita": 871.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4345.7,
+      "health_per_capita": 907.9
+    }
+  ]
+}

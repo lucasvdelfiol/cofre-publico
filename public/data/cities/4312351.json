@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4312351",
+  "city_name": "Montauri",
+  "uf": "RS",
+  "population": 1500,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 7832982.6,
+    "total_expense": 7699095.18,
+    "own_revenue_percentage": 12.0,
+    "transfers_revenue_percentage": 88.0,
+    "personnel_expense_percentage_rcl": 48.9
+  },
+  "per_capita_breakdown": {
+    "health": 1205.3,
+    "education": 1356.1,
+    "urbanism": 774.0,
+    "administration": 308.8,
+    "legislative": 90.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4157.5,
+      "health_per_capita": 940.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4465.4,
+      "health_per_capita": 1012.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4773.4,
+      "health_per_capita": 1084.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5030.0,
+      "health_per_capita": 1157.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5132.7,
+      "health_per_capita": 1205.3
+    }
+  ]
+}

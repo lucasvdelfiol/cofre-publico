@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5107297",
+  "city_name": "São José do Povo",
+  "uf": "MT",
+  "population": 2875,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 12743658.71,
+    "total_expense": 12440675.29,
+    "own_revenue_percentage": 11.3,
+    "transfers_revenue_percentage": 88.7,
+    "personnel_expense_percentage_rcl": 50.2
+  },
+  "per_capita_breakdown": {
+    "health": 1187.5,
+    "education": 1105.6,
+    "urbanism": 453.8,
+    "administration": 266.3,
+    "legislative": 116.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3505.0,
+      "health_per_capita": 926.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3764.7,
+      "health_per_capita": 997.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4024.3,
+      "health_per_capita": 1068.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4240.7,
+      "health_per_capita": 1140.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4327.2,
+      "health_per_capita": 1187.5
+    }
+  ]
+}

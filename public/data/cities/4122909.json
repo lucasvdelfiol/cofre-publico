@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4122909",
+  "city_name": "Salto do Itararé",
+  "uf": "PR",
+  "population": 5192,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 29251251.64,
+    "total_expense": 29008292.87,
+    "own_revenue_percentage": 19.4,
+    "transfers_revenue_percentage": 80.6,
+    "personnel_expense_percentage_rcl": 48.8
+  },
+  "per_capita_breakdown": {
+    "health": 1305.9,
+    "education": 1379.4,
+    "urbanism": 463.5,
+    "administration": 395.7,
+    "legislative": 105.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4525.6,
+      "health_per_capita": 1018.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4860.8,
+      "health_per_capita": 1097.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5196.0,
+      "health_per_capita": 1175.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5475.4,
+      "health_per_capita": 1253.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5587.1,
+      "health_per_capita": 1305.9
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3102209",
+  "city_name": "Alvarenga",
+  "uf": "MG",
+  "population": 3975,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 17718050.14,
+    "total_expense": 17457084.58,
+    "own_revenue_percentage": 11.9,
+    "transfers_revenue_percentage": 88.1,
+    "personnel_expense_percentage_rcl": 49.4
+  },
+  "per_capita_breakdown": {
+    "health": 961.0,
+    "education": 1174.9,
+    "urbanism": 525.4,
+    "administration": 491.8,
+    "legislative": 136.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3557.3,
+      "health_per_capita": 749.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3820.8,
+      "health_per_capita": 807.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4084.3,
+      "health_per_capita": 864.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4303.9,
+      "health_per_capita": 922.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4391.7,
+      "health_per_capita": 961.0
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2510204",
+  "city_name": "Nova Olinda",
+  "uf": "PB",
+  "population": 5787,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 31551029.32,
+    "total_expense": 30366290.7,
+    "own_revenue_percentage": 14.0,
+    "transfers_revenue_percentage": 86.0,
+    "personnel_expense_percentage_rcl": 49.5
+  },
+  "per_capita_breakdown": {
+    "health": 1336.7,
+    "education": 1551.3,
+    "urbanism": 716.3,
+    "administration": 434.4,
+    "legislative": 178.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4250.3,
+      "health_per_capita": 1042.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4565.2,
+      "health_per_capita": 1122.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4880.0,
+      "health_per_capita": 1203.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5142.4,
+      "health_per_capita": 1283.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5247.3,
+      "health_per_capita": 1336.7
+    }
+  ]
+}

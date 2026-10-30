@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2509370",
+  "city_name": "Mato Grosso",
+  "uf": "PB",
+  "population": 2543,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 14000987.36,
+    "total_expense": 13867232.09,
+    "own_revenue_percentage": 16.0,
+    "transfers_revenue_percentage": 84.0,
+    "personnel_expense_percentage_rcl": 51.7
+  },
+  "per_capita_breakdown": {
+    "health": 1170.5,
+    "education": 1589.7,
+    "urbanism": 545.6,
+    "administration": 566.8,
+    "legislative": 162.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4417.0,
+      "health_per_capita": 913.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4744.2,
+      "health_per_capita": 983.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5071.4,
+      "health_per_capita": 1053.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5344.0,
+      "health_per_capita": 1123.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5453.1,
+      "health_per_capita": 1170.5
+    }
+  ]
+}

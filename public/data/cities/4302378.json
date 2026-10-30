@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4302378",
+  "city_name": "Bom Progresso",
+  "uf": "RS",
+  "population": 2096,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 11967924.94,
+    "total_expense": 11714452.01,
+    "own_revenue_percentage": 13.6,
+    "transfers_revenue_percentage": 86.4,
+    "personnel_expense_percentage_rcl": 46.6
+  },
+  "per_capita_breakdown": {
+    "health": 1183.4,
+    "education": 1751.3,
+    "urbanism": 821.9,
+    "administration": 547.5,
+    "legislative": 158.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4527.1,
+      "health_per_capita": 923.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4862.4,
+      "health_per_capita": 994.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5197.8,
+      "health_per_capita": 1065.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5477.2,
+      "health_per_capita": 1136.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5589.0,
+      "health_per_capita": 1183.4
+    }
+  ]
+}

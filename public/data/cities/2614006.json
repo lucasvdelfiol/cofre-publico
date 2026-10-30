@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2614006",
+  "city_name": "Serrita",
+  "uf": "PE",
+  "population": 18207,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 85557475.57,
+    "total_expense": 84245060.48,
+    "own_revenue_percentage": 21.4,
+    "transfers_revenue_percentage": 78.6,
+    "personnel_expense_percentage_rcl": 51.3
+  },
+  "per_capita_breakdown": {
+    "health": 960.9,
+    "education": 1395.6,
+    "urbanism": 607.2,
+    "administration": 554.7,
+    "legislative": 159.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3748.0,
+      "health_per_capita": 749.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4025.6,
+      "health_per_capita": 807.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4303.2,
+      "health_per_capita": 864.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4534.6,
+      "health_per_capita": 922.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4627.1,
+      "health_per_capita": 960.9
+    }
+  ]
+}

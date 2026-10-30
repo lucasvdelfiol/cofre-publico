@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3168705",
+  "city_name": "Timóteo",
+  "uf": "MG",
+  "population": 81579,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 401342632.63,
+    "total_expense": 389206657.42,
+    "own_revenue_percentage": 36.2,
+    "transfers_revenue_percentage": 63.8,
+    "personnel_expense_percentage_rcl": 53.0
+  },
+  "per_capita_breakdown": {
+    "health": 1013.2,
+    "education": 1483.5,
+    "urbanism": 648.6,
+    "administration": 452.8,
+    "legislative": 136.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3864.4,
+      "health_per_capita": 790.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4150.7,
+      "health_per_capita": 851.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4436.9,
+      "health_per_capita": 911.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4675.5,
+      "health_per_capita": 972.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4770.9,
+      "health_per_capita": 1013.2
+    }
+  ]
+}

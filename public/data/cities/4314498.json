@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4314498",
+  "city_name": "Pinheirinho do Vale",
+  "uf": "RS",
+  "population": 4540,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 23295619.36,
+    "total_expense": 23423719.39,
+    "own_revenue_percentage": 15.2,
+    "transfers_revenue_percentage": 84.8,
+    "personnel_expense_percentage_rcl": 48.5
+  },
+  "per_capita_breakdown": {
+    "health": 1198.3,
+    "education": 1485.3,
+    "urbanism": 449.2,
+    "administration": 399.0,
+    "legislative": 164.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4179.1,
+      "health_per_capita": 934.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4488.7,
+      "health_per_capita": 1006.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4798.2,
+      "health_per_capita": 1078.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5056.2,
+      "health_per_capita": 1150.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5159.4,
+      "health_per_capita": 1198.3
+    }
+  ]
+}

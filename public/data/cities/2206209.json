@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2206209",
+  "city_name": "Miguel Alves",
+  "uf": "PI",
+  "population": 32150,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 145286424.17,
+    "total_expense": 143798201.62,
+    "own_revenue_percentage": 24.8,
+    "transfers_revenue_percentage": 75.2,
+    "personnel_expense_percentage_rcl": 51.6
+  },
+  "per_capita_breakdown": {
+    "health": 1116.0,
+    "education": 1337.2,
+    "urbanism": 390.5,
+    "administration": 304.7,
+    "legislative": 97.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3622.9,
+      "health_per_capita": 870.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3891.2,
+      "health_per_capita": 937.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4159.6,
+      "health_per_capita": 1004.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4383.2,
+      "health_per_capita": 1071.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4472.7,
+      "health_per_capita": 1116.0
+    }
+  ]
+}

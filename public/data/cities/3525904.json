@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3525904",
+  "city_name": "Jundiaí",
+  "uf": "SP",
+  "population": 443221,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 2099978276.21,
+    "total_expense": 2111608246.53,
+    "own_revenue_percentage": 41.0,
+    "transfers_revenue_percentage": 59.0,
+    "personnel_expense_percentage_rcl": 50.8
+  },
+  "per_capita_breakdown": {
+    "health": 982.6,
+    "education": 1206.0,
+    "urbanism": 723.8,
+    "administration": 515.5,
+    "legislative": 71.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3859.0,
+      "health_per_capita": 766.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4144.9,
+      "health_per_capita": 825.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4430.7,
+      "health_per_capita": 884.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4668.9,
+      "health_per_capita": 943.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4764.2,
+      "health_per_capita": 982.6
+    }
+  ]
+}

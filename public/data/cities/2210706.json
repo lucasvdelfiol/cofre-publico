@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2210706",
+  "city_name": "Simões",
+  "uf": "PI",
+  "population": 14350,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 79984891.74,
+    "total_expense": 79005574.21,
+    "own_revenue_percentage": 20.3,
+    "transfers_revenue_percentage": 79.7,
+    "personnel_expense_percentage_rcl": 46.9
+  },
+  "per_capita_breakdown": {
+    "health": 1431.6,
+    "education": 1516.2,
+    "urbanism": 567.6,
+    "administration": 493.6,
+    "legislative": 191.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4459.5,
+      "health_per_capita": 1116.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4789.9,
+      "health_per_capita": 1202.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5120.2,
+      "health_per_capita": 1288.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5395.5,
+      "health_per_capita": 1374.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5505.6,
+      "health_per_capita": 1431.6
+    }
+  ]
+}

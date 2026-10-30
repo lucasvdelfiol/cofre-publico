@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3119302",
+  "city_name": "Coromandel",
+  "uf": "MG",
+  "population": 28894,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 119865533.74,
+    "total_expense": 120707264.96,
+    "own_revenue_percentage": 24.1,
+    "transfers_revenue_percentage": 75.9,
+    "personnel_expense_percentage_rcl": 49.1
+  },
+  "per_capita_breakdown": {
+    "health": 1137.3,
+    "education": 1147.8,
+    "urbanism": 572.0,
+    "administration": 302.4,
+    "legislative": 119.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3383.9,
+      "health_per_capita": 887.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3634.5,
+      "health_per_capita": 955.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3885.2,
+      "health_per_capita": 1023.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4094.0,
+      "health_per_capita": 1091.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4177.6,
+      "health_per_capita": 1137.3
+    }
+  ]
+}

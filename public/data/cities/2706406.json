@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2706406",
+  "city_name": "Pão de Açúcar",
+  "uf": "AL",
+  "population": 23823,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 108761946.52,
+    "total_expense": 106234041.57,
+    "own_revenue_percentage": 28.4,
+    "transfers_revenue_percentage": 71.6,
+    "personnel_expense_percentage_rcl": 49.8
+  },
+  "per_capita_breakdown": {
+    "health": 1074.8,
+    "education": 1096.0,
+    "urbanism": 407.7,
+    "administration": 533.0,
+    "legislative": 150.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3612.0,
+      "health_per_capita": 838.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3879.6,
+      "health_per_capita": 902.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4147.1,
+      "health_per_capita": 967.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4370.1,
+      "health_per_capita": 1031.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4459.3,
+      "health_per_capita": 1074.8
+    }
+  ]
+}

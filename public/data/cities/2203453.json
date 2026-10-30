@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2203453",
+  "city_name": "Dom Inocêncio",
+  "uf": "PI",
+  "population": 9159,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 41473393.17,
+    "total_expense": 40877794.97,
+    "own_revenue_percentage": 18.8,
+    "transfers_revenue_percentage": 81.2,
+    "personnel_expense_percentage_rcl": 49.4
+  },
+  "per_capita_breakdown": {
+    "health": 957.8,
+    "education": 1263.3,
+    "urbanism": 428.3,
+    "administration": 394.1,
+    "legislative": 138.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3615.1,
+      "health_per_capita": 747.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3882.9,
+      "health_per_capita": 804.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4150.7,
+      "health_per_capita": 862.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4373.8,
+      "health_per_capita": 919.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4463.1,
+      "health_per_capita": 957.8
+    }
+  ]
+}

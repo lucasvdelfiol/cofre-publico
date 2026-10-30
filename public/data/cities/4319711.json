@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4319711",
+  "city_name": "São Valentim do Sul",
+  "uf": "RS",
+  "population": 2207,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 11593453.05,
+    "total_expense": 11626264.73,
+    "own_revenue_percentage": 10.2,
+    "transfers_revenue_percentage": 89.8,
+    "personnel_expense_percentage_rcl": 51.8
+  },
+  "per_capita_breakdown": {
+    "health": 1470.5,
+    "education": 1674.9,
+    "urbanism": 656.9,
+    "administration": 441.2,
+    "legislative": 92.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4267.0,
+      "health_per_capita": 1147.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4583.1,
+      "health_per_capita": 1235.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4899.1,
+      "health_per_capita": 1323.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5162.5,
+      "health_per_capita": 1411.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5267.9,
+      "health_per_capita": 1470.5
+    }
+  ]
+}

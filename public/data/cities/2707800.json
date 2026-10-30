@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2707800",
+  "city_name": "Roteiro",
+  "uf": "AL",
+  "population": 6474,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 34105993.43,
+    "total_expense": 33245907.9,
+    "own_revenue_percentage": 10.8,
+    "transfers_revenue_percentage": 89.2,
+    "personnel_expense_percentage_rcl": 47.6
+  },
+  "per_capita_breakdown": {
+    "health": 1325.1,
+    "education": 1520.6,
+    "urbanism": 812.1,
+    "administration": 395.9,
+    "legislative": 88.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4159.6,
+      "health_per_capita": 1033.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4467.7,
+      "health_per_capita": 1113.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4775.8,
+      "health_per_capita": 1192.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5032.6,
+      "health_per_capita": 1272.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5135.3,
+      "health_per_capita": 1325.1
+    }
+  ]
+}

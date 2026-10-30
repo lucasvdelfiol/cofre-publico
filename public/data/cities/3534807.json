@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3534807",
+  "city_name": "Ouro Verde",
+  "uf": "SP",
+  "population": 7779,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 33730560.51,
+    "total_expense": 33699520.63,
+    "own_revenue_percentage": 14.6,
+    "transfers_revenue_percentage": 85.4,
+    "personnel_expense_percentage_rcl": 51.9
+  },
+  "per_capita_breakdown": {
+    "health": 928.7,
+    "education": 1087.0,
+    "urbanism": 460.8,
+    "administration": 457.3,
+    "legislative": 82.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3509.0,
+      "health_per_capita": 724.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3768.9,
+      "health_per_capita": 780.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4028.9,
+      "health_per_capita": 835.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4245.5,
+      "health_per_capita": 891.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4332.1,
+      "health_per_capita": 928.7
+    }
+  ]
+}

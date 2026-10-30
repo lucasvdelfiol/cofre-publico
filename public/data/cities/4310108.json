@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4310108",
+  "city_name": "Igrejinha",
+  "uf": "RS",
+  "population": 32808,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 156463171.3,
+    "total_expense": 157971035.97,
+    "own_revenue_percentage": 27.7,
+    "transfers_revenue_percentage": 72.3,
+    "personnel_expense_percentage_rcl": 49.8
+  },
+  "per_capita_breakdown": {
+    "health": 1019.5,
+    "education": 1272.7,
+    "urbanism": 661.3,
+    "administration": 370.7,
+    "legislative": 154.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3900.2,
+      "health_per_capita": 795.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4189.1,
+      "health_per_capita": 856.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4477.9,
+      "health_per_capita": 917.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4718.7,
+      "health_per_capita": 978.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4815.0,
+      "health_per_capita": 1019.5
+    }
+  ]
+}

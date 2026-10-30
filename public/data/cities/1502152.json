@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1502152",
+  "city_name": "Canaã dos Carajás",
+  "uf": "PA",
+  "population": 77079,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 362152230.21,
+    "total_expense": 365475495.28,
+    "own_revenue_percentage": 33.6,
+    "transfers_revenue_percentage": 66.4,
+    "personnel_expense_percentage_rcl": 47.4
+  },
+  "per_capita_breakdown": {
+    "health": 975.5,
+    "education": 1361.9,
+    "urbanism": 496.4,
+    "administration": 501.2,
+    "legislative": 148.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3840.7,
+      "health_per_capita": 760.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4125.2,
+      "health_per_capita": 819.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4409.7,
+      "health_per_capita": 878.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4646.8,
+      "health_per_capita": 936.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4741.6,
+      "health_per_capita": 975.5
+    }
+  ]
+}

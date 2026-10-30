@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4212106",
+  "city_name": "Palmitos",
+  "uf": "SC",
+  "population": 15626,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 89873287.47,
+    "total_expense": 87076845.42,
+    "own_revenue_percentage": 9.4,
+    "transfers_revenue_percentage": 90.6,
+    "personnel_expense_percentage_rcl": 52.6
+  },
+  "per_capita_breakdown": {
+    "health": 1513.5,
+    "education": 1337.5,
+    "urbanism": 638.8,
+    "administration": 518.2,
+    "legislative": 107.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4513.8,
+      "health_per_capita": 1180.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4848.2,
+      "health_per_capita": 1271.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5182.5,
+      "health_per_capita": 1362.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5461.1,
+      "health_per_capita": 1453.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5572.6,
+      "health_per_capita": 1513.5
+    }
+  ]
+}

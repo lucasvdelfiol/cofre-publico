@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3158102",
+  "city_name": "Santa Maria do Salto",
+  "uf": "MG",
+  "population": 4755,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 23491768.48,
+    "total_expense": 23421817.06,
+    "own_revenue_percentage": 11.2,
+    "transfers_revenue_percentage": 88.8,
+    "personnel_expense_percentage_rcl": 52.2
+  },
+  "per_capita_breakdown": {
+    "health": 1180.9,
+    "education": 1433.2,
+    "urbanism": 397.6,
+    "administration": 563.7,
+    "legislative": 100.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3989.8,
+      "health_per_capita": 921.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4285.4,
+      "health_per_capita": 992.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4580.9,
+      "health_per_capita": 1062.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4827.2,
+      "health_per_capita": 1133.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4925.7,
+      "health_per_capita": 1180.9
+    }
+  ]
+}

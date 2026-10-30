@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4106456",
+  "city_name": "Coronel Domingos Soares",
+  "uf": "PR",
+  "population": 5649,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 30573182.31,
+    "total_expense": 30670732.57,
+    "own_revenue_percentage": 11.1,
+    "transfers_revenue_percentage": 88.9,
+    "personnel_expense_percentage_rcl": 52.2
+  },
+  "per_capita_breakdown": {
+    "health": 1369.5,
+    "education": 1665.7,
+    "urbanism": 771.1,
+    "administration": 529.9,
+    "legislative": 124.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4397.8,
+      "health_per_capita": 1068.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4723.6,
+      "health_per_capita": 1150.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5049.3,
+      "health_per_capita": 1232.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5320.8,
+      "health_per_capita": 1314.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5429.4,
+      "health_per_capita": 1369.5
+    }
+  ]
+}

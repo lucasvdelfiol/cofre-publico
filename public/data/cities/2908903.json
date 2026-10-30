@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2908903",
+  "city_name": "Coração de Maria",
+  "uf": "BA",
+  "population": 26692,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 122920667.59,
+    "total_expense": 119837151.58,
+    "own_revenue_percentage": 27.1,
+    "transfers_revenue_percentage": 72.9,
+    "personnel_expense_percentage_rcl": 47.8
+  },
+  "per_capita_breakdown": {
+    "health": 931.9,
+    "education": 1362.9,
+    "urbanism": 595.8,
+    "administration": 496.1,
+    "legislative": 73.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3636.6,
+      "health_per_capita": 726.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3906.0,
+      "health_per_capita": 782.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4175.3,
+      "health_per_capita": 838.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4399.8,
+      "health_per_capita": 894.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4489.6,
+      "health_per_capita": 931.9
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2301109",
+  "city_name": "Aracati",
+  "uf": "CE",
+  "population": 75113,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 321858753.63,
+    "total_expense": 319908248.24,
+    "own_revenue_percentage": 29.0,
+    "transfers_revenue_percentage": 71.0,
+    "personnel_expense_percentage_rcl": 52.9
+  },
+  "per_capita_breakdown": {
+    "health": 1089.3,
+    "education": 1045.8,
+    "urbanism": 625.9,
+    "administration": 295.0,
+    "legislative": 130.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3449.8,
+      "health_per_capita": 849.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3705.3,
+      "health_per_capita": 915.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3960.9,
+      "health_per_capita": 980.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4173.8,
+      "health_per_capita": 1045.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4259.0,
+      "health_per_capita": 1089.3
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5204003",
+  "city_name": "Cabeceiras",
+  "uf": "GO",
+  "population": 7560,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 35673814.33,
+    "total_expense": 34439464.89,
+    "own_revenue_percentage": 17.5,
+    "transfers_revenue_percentage": 82.5,
+    "personnel_expense_percentage_rcl": 53.7
+  },
+  "per_capita_breakdown": {
+    "health": 959.0,
+    "education": 1140.2,
+    "urbanism": 510.6,
+    "administration": 464.4,
+    "legislative": 69.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3690.0,
+      "health_per_capita": 748.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3963.3,
+      "health_per_capita": 805.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4236.6,
+      "health_per_capita": 863.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4464.4,
+      "health_per_capita": 920.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4555.5,
+      "health_per_capita": 959.0
+    }
+  ]
+}

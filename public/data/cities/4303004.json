@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4303004",
+  "city_name": "Cachoeira do Sul",
+  "uf": "RS",
+  "population": 80070,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 344096758.08,
+    "total_expense": 345107413.91,
+    "own_revenue_percentage": 37.1,
+    "transfers_revenue_percentage": 62.9,
+    "personnel_expense_percentage_rcl": 52.8
+  },
+  "per_capita_breakdown": {
+    "health": 948.9,
+    "education": 1172.0,
+    "urbanism": 522.2,
+    "administration": 334.0,
+    "legislative": 124.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3491.2,
+      "health_per_capita": 740.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3749.8,
+      "health_per_capita": 797.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4008.4,
+      "health_per_capita": 854.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4223.9,
+      "health_per_capita": 910.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4310.1,
+      "health_per_capita": 948.9
+    }
+  ]
+}

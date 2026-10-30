@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4107009",
+  "city_name": "Curiúva",
+  "uf": "PR",
+  "population": 13647,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 65592311.21,
+    "total_expense": 63547790.12,
+    "own_revenue_percentage": 21.4,
+    "transfers_revenue_percentage": 78.6,
+    "personnel_expense_percentage_rcl": 53.0
+  },
+  "per_capita_breakdown": {
+    "health": 1016.4,
+    "education": 1208.6,
+    "urbanism": 594.8,
+    "administration": 309.3,
+    "legislative": 121.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3771.8,
+      "health_per_capita": 792.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4051.2,
+      "health_per_capita": 853.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4330.5,
+      "health_per_capita": 914.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4563.4,
+      "health_per_capita": 975.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4656.5,
+      "health_per_capita": 1016.4
+    }
+  ]
+}

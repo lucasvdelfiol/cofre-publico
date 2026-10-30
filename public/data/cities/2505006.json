@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2505006",
+  "city_name": "Cubati",
+  "uf": "PB",
+  "population": 7580,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 39490793.53,
+    "total_expense": 39463295.52,
+    "own_revenue_percentage": 12.1,
+    "transfers_revenue_percentage": 87.9,
+    "personnel_expense_percentage_rcl": 48.5
+  },
+  "per_capita_breakdown": {
+    "health": 1113.1,
+    "education": 1429.0,
+    "urbanism": 461.3,
+    "administration": 589.3,
+    "legislative": 172.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4217.0,
+      "health_per_capita": 868.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4529.4,
+      "health_per_capita": 935.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4841.8,
+      "health_per_capita": 1001.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5102.1,
+      "health_per_capita": 1068.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5206.2,
+      "health_per_capita": 1113.1
+    }
+  ]
+}

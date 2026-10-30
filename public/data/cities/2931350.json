@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2931350",
+  "city_name": "Teixeira de Freitas",
+  "uf": "BA",
+  "population": 145216,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 825292063.06,
+    "total_expense": 826493846.87,
+    "own_revenue_percentage": 42.2,
+    "transfers_revenue_percentage": 57.8,
+    "personnel_expense_percentage_rcl": 48.6
+  },
+  "per_capita_breakdown": {
+    "health": 1469.0,
+    "education": 1447.3,
+    "urbanism": 804.8,
+    "administration": 598.4,
+    "legislative": 142.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4610.1,
+      "health_per_capita": 1145.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4951.6,
+      "health_per_capita": 1234.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5293.1,
+      "health_per_capita": 1322.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5577.7,
+      "health_per_capita": 1410.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5691.5,
+      "health_per_capita": 1469.0
+    }
+  ]
+}

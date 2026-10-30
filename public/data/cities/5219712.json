@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5219712",
+  "city_name": "Santo Antônio da Barra",
+  "uf": "GO",
+  "population": 4267,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 18713751.22,
+    "total_expense": 18844868.24,
+    "own_revenue_percentage": 20.2,
+    "transfers_revenue_percentage": 79.8,
+    "personnel_expense_percentage_rcl": 49.1
+  },
+  "per_capita_breakdown": {
+    "health": 1084.4,
+    "education": 1118.2,
+    "urbanism": 506.0,
+    "administration": 455.3,
+    "legislative": 77.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3577.3,
+      "health_per_capita": 845.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3842.3,
+      "health_per_capita": 910.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4107.3,
+      "health_per_capita": 976.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4328.1,
+      "health_per_capita": 1041.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4416.4,
+      "health_per_capita": 1084.4
+    }
+  ]
+}

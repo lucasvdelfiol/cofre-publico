@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2933406",
+  "city_name": "Wagner",
+  "uf": "BA",
+  "population": 9503,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 43071800.26,
+    "total_expense": 41628141.79,
+    "own_revenue_percentage": 12.2,
+    "transfers_revenue_percentage": 87.8,
+    "personnel_expense_percentage_rcl": 48.6
+  },
+  "per_capita_breakdown": {
+    "health": 1089.6,
+    "education": 1314.4,
+    "urbanism": 544.5,
+    "administration": 284.0,
+    "legislative": 119.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3548.2,
+      "health_per_capita": 849.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3811.0,
+      "health_per_capita": 915.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4073.9,
+      "health_per_capita": 980.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4292.9,
+      "health_per_capita": 1046.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4380.5,
+      "health_per_capita": 1089.6
+    }
+  ]
+}

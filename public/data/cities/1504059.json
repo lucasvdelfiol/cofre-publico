@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1504059",
+  "city_name": "Mãe do Rio",
+  "uf": "PA",
+  "population": 34353,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 155924701.81,
+    "total_expense": 153851309.19,
+    "own_revenue_percentage": 21.6,
+    "transfers_revenue_percentage": 78.4,
+    "personnel_expense_percentage_rcl": 52.3
+  },
+  "per_capita_breakdown": {
+    "health": 912.2,
+    "education": 1079.7,
+    "urbanism": 521.7,
+    "administration": 513.4,
+    "legislative": 71.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3627.6,
+      "health_per_capita": 711.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3896.3,
+      "health_per_capita": 766.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4165.0,
+      "health_per_capita": 821.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4388.9,
+      "health_per_capita": 875.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4478.5,
+      "health_per_capita": 912.2
+    }
+  ]
+}

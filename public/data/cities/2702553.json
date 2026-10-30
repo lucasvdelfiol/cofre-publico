@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2702553",
+  "city_name": "Estrela de Alagoas",
+  "uf": "AL",
+  "population": 15429,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 80886534.89,
+    "total_expense": 78905792.91,
+    "own_revenue_percentage": 11.0,
+    "transfers_revenue_percentage": 89.0,
+    "personnel_expense_percentage_rcl": 45.7
+  },
+  "per_capita_breakdown": {
+    "health": 1236.3,
+    "education": 1579.6,
+    "urbanism": 811.0,
+    "administration": 374.1,
+    "legislative": 132.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4142.4,
+      "health_per_capita": 964.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4449.3,
+      "health_per_capita": 1038.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4756.1,
+      "health_per_capita": 1112.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5011.8,
+      "health_per_capita": 1186.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5114.1,
+      "health_per_capita": 1236.3
+    }
+  ]
+}

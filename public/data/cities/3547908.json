@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3547908",
+  "city_name": "Santo Antônio da Alegria",
+  "uf": "SP",
+  "population": 6775,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 38470740.7,
+    "total_expense": 37444406.38,
+    "own_revenue_percentage": 13.9,
+    "transfers_revenue_percentage": 86.1,
+    "personnel_expense_percentage_rcl": 51.1
+  },
+  "per_capita_breakdown": {
+    "health": 1490.3,
+    "education": 1354.5,
+    "urbanism": 754.7,
+    "administration": 517.0,
+    "legislative": 185.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4476.7,
+      "health_per_capita": 1162.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4808.3,
+      "health_per_capita": 1251.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5139.9,
+      "health_per_capita": 1341.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5416.3,
+      "health_per_capita": 1430.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5526.8,
+      "health_per_capita": 1490.3
+    }
+  ]
+}

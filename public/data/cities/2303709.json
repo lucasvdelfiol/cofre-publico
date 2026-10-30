@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2303709",
+  "city_name": "Caucaia",
+  "uf": "CE",
+  "population": 355679,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 2002986850.71,
+    "total_expense": 1985062583.65,
+    "own_revenue_percentage": 50.0,
+    "transfers_revenue_percentage": 50.0,
+    "personnel_expense_percentage_rcl": 49.5
+  },
+  "per_capita_breakdown": {
+    "health": 1166.9,
+    "education": 1595.6,
+    "urbanism": 829.2,
+    "administration": 465.3,
+    "legislative": 136.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4520.7,
+      "health_per_capita": 910.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4855.6,
+      "health_per_capita": 980.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5190.4,
+      "health_per_capita": 1050.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5469.5,
+      "health_per_capita": 1120.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5581.1,
+      "health_per_capita": 1166.9
+    }
+  ]
+}

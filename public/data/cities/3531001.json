@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3531001",
+  "city_name": "Monções",
+  "uf": "SP",
+  "population": 1937,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 8820632.05,
+    "total_expense": 8888173.12,
+    "own_revenue_percentage": 18.3,
+    "transfers_revenue_percentage": 81.7,
+    "personnel_expense_percentage_rcl": 51.4
+  },
+  "per_capita_breakdown": {
+    "health": 1202.1,
+    "education": 1426.3,
+    "urbanism": 408.9,
+    "administration": 448.0,
+    "legislative": 83.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3716.8,
+      "health_per_capita": 937.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3992.1,
+      "health_per_capita": 1009.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4267.4,
+      "health_per_capita": 1081.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4496.8,
+      "health_per_capita": 1154.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4588.6,
+      "health_per_capita": 1202.1
+    }
+  ]
+}

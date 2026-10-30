@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3142908",
+  "city_name": "Monte Azul",
+  "uf": "MG",
+  "population": 20328,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 97460884.26,
+    "total_expense": 95183208.56,
+    "own_revenue_percentage": 30.7,
+    "transfers_revenue_percentage": 69.3,
+    "personnel_expense_percentage_rcl": 51.2
+  },
+  "per_capita_breakdown": {
+    "health": 973.6,
+    "education": 1476.3,
+    "urbanism": 384.5,
+    "administration": 543.9,
+    "legislative": 130.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3792.7,
+      "health_per_capita": 759.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4073.7,
+      "health_per_capita": 817.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4354.6,
+      "health_per_capita": 876.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4588.8,
+      "health_per_capita": 934.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4682.4,
+      "health_per_capita": 973.6
+    }
+  ]
+}

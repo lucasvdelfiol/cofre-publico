@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1502855",
+  "city_name": "Curuá",
+  "uf": "PA",
+  "population": 14117,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 72436656.73,
+    "total_expense": 70547296.59,
+    "own_revenue_percentage": 8.6,
+    "transfers_revenue_percentage": 91.4,
+    "personnel_expense_percentage_rcl": 47.0
+  },
+  "per_capita_breakdown": {
+    "health": 1081.1,
+    "education": 1410.3,
+    "urbanism": 461.2,
+    "administration": 304.6,
+    "legislative": 117.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4047.8,
+      "health_per_capita": 843.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4347.7,
+      "health_per_capita": 908.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4647.5,
+      "health_per_capita": 973.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4897.4,
+      "health_per_capita": 1037.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4997.3,
+      "health_per_capita": 1081.1
+    }
+  ]
+}

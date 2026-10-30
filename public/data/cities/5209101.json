@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5209101",
+  "city_name": "Goiatuba",
+  "uf": "GO",
+  "population": 35664,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 151762850.88,
+    "total_expense": 151518955.04,
+    "own_revenue_percentage": 25.6,
+    "transfers_revenue_percentage": 74.4,
+    "personnel_expense_percentage_rcl": 47.4
+  },
+  "per_capita_breakdown": {
+    "health": 1007.9,
+    "education": 1335.7,
+    "urbanism": 383.1,
+    "administration": 272.6,
+    "legislative": 145.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3441.3,
+      "health_per_capita": 786.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3696.2,
+      "health_per_capita": 846.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3951.1,
+      "health_per_capita": 907.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4163.5,
+      "health_per_capita": 967.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4248.5,
+      "health_per_capita": 1007.9
+    }
+  ]
+}

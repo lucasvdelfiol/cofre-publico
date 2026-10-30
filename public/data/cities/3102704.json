@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3102704",
+  "city_name": "Cachoeira de Pajeú",
+  "uf": "MG",
+  "population": 9110,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 48373762.86,
+    "total_expense": 48774032.46,
+    "own_revenue_percentage": 17.4,
+    "transfers_revenue_percentage": 82.6,
+    "personnel_expense_percentage_rcl": 49.2
+  },
+  "per_capita_breakdown": {
+    "health": 1487.3,
+    "education": 1368.0,
+    "urbanism": 506.0,
+    "administration": 332.4,
+    "legislative": 150.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4336.7,
+      "health_per_capita": 1160.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4657.9,
+      "health_per_capita": 1249.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4979.1,
+      "health_per_capita": 1338.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5246.8,
+      "health_per_capita": 1427.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5353.9,
+      "health_per_capita": 1487.3
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4114906",
+  "city_name": "Marilândia do Sul",
+  "uf": "PR",
+  "population": 8677,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 42643738.31,
+    "total_expense": 41170267.24,
+    "own_revenue_percentage": 15.0,
+    "transfers_revenue_percentage": 85.0,
+    "personnel_expense_percentage_rcl": 50.9
+  },
+  "per_capita_breakdown": {
+    "health": 1299.4,
+    "education": 1193.4,
+    "urbanism": 573.8,
+    "administration": 414.4,
+    "legislative": 81.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3843.3,
+      "health_per_capita": 1013.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4128.0,
+      "health_per_capita": 1091.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4412.7,
+      "health_per_capita": 1169.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4649.9,
+      "health_per_capita": 1247.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4744.8,
+      "health_per_capita": 1299.4
+    }
+  ]
+}

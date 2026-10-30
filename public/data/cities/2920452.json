@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2920452",
+  "city_name": "Mansidão",
+  "uf": "BA",
+  "population": 13919,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 62140680.39,
+    "total_expense": 62641275.47,
+    "own_revenue_percentage": 8.3,
+    "transfers_revenue_percentage": 91.7,
+    "personnel_expense_percentage_rcl": 48.0
+  },
+  "per_capita_breakdown": {
+    "health": 912.5,
+    "education": 1407.2,
+    "urbanism": 563.4,
+    "administration": 440.1,
+    "legislative": 104.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3645.3,
+      "health_per_capita": 711.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3915.3,
+      "health_per_capita": 766.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4185.4,
+      "health_per_capita": 821.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4410.4,
+      "health_per_capita": 876.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4500.4,
+      "health_per_capita": 912.5
+    }
+  ]
+}

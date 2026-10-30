@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3108107",
+  "city_name": "Bonfim",
+  "uf": "MG",
+  "population": 7434,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 36601305.05,
+    "total_expense": 35620572.4,
+    "own_revenue_percentage": 18.9,
+    "transfers_revenue_percentage": 81.1,
+    "personnel_expense_percentage_rcl": 51.9
+  },
+  "per_capita_breakdown": {
+    "health": 1010.8,
+    "education": 1217.3,
+    "urbanism": 574.9,
+    "administration": 415.5,
+    "legislative": 87.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3881.2,
+      "health_per_capita": 788.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4168.7,
+      "health_per_capita": 849.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4456.2,
+      "health_per_capita": 909.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4695.8,
+      "health_per_capita": 970.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4791.6,
+      "health_per_capita": 1010.8
+    }
+  ]
+}

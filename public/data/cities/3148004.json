@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3148004",
+  "city_name": "Patos de Minas",
+  "uf": "MG",
+  "population": 159235,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 855527568.88,
+    "total_expense": 862284997.69,
+    "own_revenue_percentage": 40.1,
+    "transfers_revenue_percentage": 59.9,
+    "personnel_expense_percentage_rcl": 46.7
+  },
+  "per_capita_breakdown": {
+    "health": 1367.5,
+    "education": 1386.5,
+    "urbanism": 672.5,
+    "administration": 620.1,
+    "legislative": 82.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4386.3,
+      "health_per_capita": 1066.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4711.2,
+      "health_per_capita": 1148.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5036.1,
+      "health_per_capita": 1230.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5306.9,
+      "health_per_capita": 1312.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5415.2,
+      "health_per_capita": 1367.5
+    }
+  ]
+}

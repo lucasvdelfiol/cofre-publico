@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1101559",
+  "city_name": "Teixeirópolis",
+  "uf": "RO",
+  "population": 4256,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 19082091.58,
+    "total_expense": 19268160.74,
+    "own_revenue_percentage": 8.8,
+    "transfers_revenue_percentage": 91.2,
+    "personnel_expense_percentage_rcl": 47.4
+  },
+  "per_capita_breakdown": {
+    "health": 1189.1,
+    "education": 1103.9,
+    "urbanism": 402.7,
+    "administration": 530.0,
+    "legislative": 100.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3667.1,
+      "health_per_capita": 927.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3938.8,
+      "health_per_capita": 998.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4210.4,
+      "health_per_capita": 1070.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4436.8,
+      "health_per_capita": 1141.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4527.3,
+      "health_per_capita": 1189.1
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2305209",
+  "city_name": "Hidrolândia",
+  "uf": "CE",
+  "population": 17855,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 98553021.76,
+    "total_expense": 96941702.89,
+    "own_revenue_percentage": 21.7,
+    "transfers_revenue_percentage": 78.3,
+    "personnel_expense_percentage_rcl": 48.4
+  },
+  "per_capita_breakdown": {
+    "health": 1514.2,
+    "education": 1463.1,
+    "urbanism": 513.2,
+    "administration": 331.0,
+    "legislative": 185.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4397.8,
+      "health_per_capita": 1181.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4723.6,
+      "health_per_capita": 1271.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5049.3,
+      "health_per_capita": 1362.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5320.8,
+      "health_per_capita": 1453.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5429.4,
+      "health_per_capita": 1514.2
+    }
+  ]
+}

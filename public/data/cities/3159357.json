@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3159357",
+  "city_name": "Santa Rita de Minas",
+  "uf": "MG",
+  "population": 6773,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 34058621.85,
+    "total_expense": 32752743.36,
+    "own_revenue_percentage": 19.0,
+    "transfers_revenue_percentage": 81.0,
+    "personnel_expense_percentage_rcl": 50.3
+  },
+  "per_capita_breakdown": {
+    "health": 1006.8,
+    "education": 1235.4,
+    "urbanism": 598.0,
+    "administration": 439.6,
+    "legislative": 99.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3917.0,
+      "health_per_capita": 785.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4207.1,
+      "health_per_capita": 845.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4497.3,
+      "health_per_capita": 906.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4739.1,
+      "health_per_capita": 966.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4835.8,
+      "health_per_capita": 1006.8
+    }
+  ]
+}

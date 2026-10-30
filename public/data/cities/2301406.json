@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2301406",
+  "city_name": "Aratuba",
+  "uf": "CE",
+  "population": 11224,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 53953172.74,
+    "total_expense": 53363701.62,
+    "own_revenue_percentage": 14.6,
+    "transfers_revenue_percentage": 85.4,
+    "personnel_expense_percentage_rcl": 51.5
+  },
+  "per_capita_breakdown": {
+    "health": 1070.1,
+    "education": 1431.9,
+    "urbanism": 690.5,
+    "administration": 567.8,
+    "legislative": 113.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3851.1,
+      "health_per_capita": 834.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4136.3,
+      "health_per_capita": 898.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4421.6,
+      "health_per_capita": 963.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4659.3,
+      "health_per_capita": 1027.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4754.4,
+      "health_per_capita": 1070.1
+    }
+  ]
+}

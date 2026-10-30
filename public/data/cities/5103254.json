@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5103254",
+  "city_name": "Colniza",
+  "uf": "MT",
+  "population": 25766,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 112425376.04,
+    "total_expense": 108629014.38,
+    "own_revenue_percentage": 26.4,
+    "transfers_revenue_percentage": 73.6,
+    "personnel_expense_percentage_rcl": 48.9
+  },
+  "per_capita_breakdown": {
+    "health": 973.2,
+    "education": 1164.4,
+    "urbanism": 587.7,
+    "administration": 316.0,
+    "legislative": 100.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3415.0,
+      "health_per_capita": 759.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3667.9,
+      "health_per_capita": 817.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3920.9,
+      "health_per_capita": 875.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4131.7,
+      "health_per_capita": 934.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4216.0,
+      "health_per_capita": 973.2
+    }
+  ]
+}

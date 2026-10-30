@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3164100",
+  "city_name": "São Pedro do Suaçuí",
+  "uf": "MG",
+  "population": 5103,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 26773053.82,
+    "total_expense": 26708634.66,
+    "own_revenue_percentage": 8.9,
+    "transfers_revenue_percentage": 91.1,
+    "personnel_expense_percentage_rcl": 48.0
+  },
+  "per_capita_breakdown": {
+    "health": 1128.2,
+    "education": 1392.2,
+    "urbanism": 541.0,
+    "administration": 569.6,
+    "legislative": 126.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4239.5,
+      "health_per_capita": 880.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4553.5,
+      "health_per_capita": 947.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4867.5,
+      "health_per_capita": 1015.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5129.2,
+      "health_per_capita": 1083.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5233.9,
+      "health_per_capita": 1128.2
+    }
+  ]
+}

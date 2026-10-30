@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4203600",
+  "city_name": "Campos Novos",
+  "uf": "SC",
+  "population": 36932,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 167057141.04,
+    "total_expense": 166854258.9,
+    "own_revenue_percentage": 19.2,
+    "transfers_revenue_percentage": 80.8,
+    "personnel_expense_percentage_rcl": 46.6
+  },
+  "per_capita_breakdown": {
+    "health": 930.6,
+    "education": 1356.6,
+    "urbanism": 476.6,
+    "administration": 276.3,
+    "legislative": 105.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3659.5,
+      "health_per_capita": 725.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3930.6,
+      "health_per_capita": 781.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4201.6,
+      "health_per_capita": 837.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4427.5,
+      "health_per_capita": 893.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4517.9,
+      "health_per_capita": 930.6
+    }
+  ]
+}

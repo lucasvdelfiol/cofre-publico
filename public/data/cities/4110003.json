@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4110003",
+  "city_name": "Iguaraçu",
+  "uf": "PR",
+  "population": 5338,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 24713702.32,
+    "total_expense": 24648748.51,
+    "own_revenue_percentage": 12.4,
+    "transfers_revenue_percentage": 87.6,
+    "personnel_expense_percentage_rcl": 49.0
+  },
+  "per_capita_breakdown": {
+    "health": 959.3,
+    "education": 1351.3,
+    "urbanism": 545.0,
+    "administration": 502.9,
+    "legislative": 150.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3740.3,
+      "health_per_capita": 748.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4017.3,
+      "health_per_capita": 805.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4294.4,
+      "health_per_capita": 863.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4525.2,
+      "health_per_capita": 920.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4617.6,
+      "health_per_capita": 959.3
+    }
+  ]
+}

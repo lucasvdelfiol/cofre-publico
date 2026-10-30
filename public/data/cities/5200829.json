@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5200829",
+  "city_name": "Amaralina",
+  "uf": "GO",
+  "population": 3268,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 16925282.35,
+    "total_expense": 16324032.6,
+    "own_revenue_percentage": 18.4,
+    "transfers_revenue_percentage": 81.6,
+    "personnel_expense_percentage_rcl": 46.4
+  },
+  "per_capita_breakdown": {
+    "health": 1326.0,
+    "education": 1306.2,
+    "urbanism": 626.8,
+    "administration": 482.9,
+    "legislative": 132.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4046.0,
+      "health_per_capita": 1034.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4345.7,
+      "health_per_capita": 1113.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4645.4,
+      "health_per_capita": 1193.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4895.2,
+      "health_per_capita": 1273.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4995.1,
+      "health_per_capita": 1326.0
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2612406",
+  "city_name": "Sanharó",
+  "uf": "PE",
+  "population": 18624,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 101527297.1,
+    "total_expense": 97983277.3,
+    "own_revenue_percentage": 18.8,
+    "transfers_revenue_percentage": 81.2,
+    "personnel_expense_percentage_rcl": 50.4
+  },
+  "per_capita_breakdown": {
+    "health": 1200.4,
+    "education": 1585.4,
+    "urbanism": 834.3,
+    "administration": 516.2,
+    "legislative": 107.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4261.5,
+      "health_per_capita": 936.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4577.2,
+      "health_per_capita": 1008.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4892.8,
+      "health_per_capita": 1080.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5155.9,
+      "health_per_capita": 1152.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5261.1,
+      "health_per_capita": 1200.4
+    }
+  ]
+}

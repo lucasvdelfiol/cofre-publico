@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2930907",
+  "city_name": "Tabocas do Brejo Velho",
+  "uf": "BA",
+  "population": 11979,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 63160261.48,
+    "total_expense": 60762045.4,
+    "own_revenue_percentage": 16.0,
+    "transfers_revenue_percentage": 84.0,
+    "personnel_expense_percentage_rcl": 47.6
+  },
+  "per_capita_breakdown": {
+    "health": 1298.4,
+    "education": 1504.3,
+    "urbanism": 568.2,
+    "administration": 521.6,
+    "legislative": 112.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4108.6,
+      "health_per_capita": 1012.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4413.0,
+      "health_per_capita": 1090.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4717.3,
+      "health_per_capita": 1168.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4971.0,
+      "health_per_capita": 1246.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5072.4,
+      "health_per_capita": 1298.4
+    }
+  ]
+}

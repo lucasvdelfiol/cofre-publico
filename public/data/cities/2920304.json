@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2920304",
+  "city_name": "Malhada de Pedras",
+  "uf": "BA",
+  "population": 8670,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 39179151.51,
+    "total_expense": 37792426.63,
+    "own_revenue_percentage": 11.3,
+    "transfers_revenue_percentage": 88.7,
+    "personnel_expense_percentage_rcl": 53.2
+  },
+  "per_capita_breakdown": {
+    "health": 1020.3,
+    "education": 1182.6,
+    "urbanism": 573.5,
+    "administration": 464.5,
+    "legislative": 97.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3530.8,
+      "health_per_capita": 795.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3792.3,
+      "health_per_capita": 857.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4053.9,
+      "health_per_capita": 918.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4271.8,
+      "health_per_capita": 979.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4359.0,
+      "health_per_capita": 1020.3
+    }
+  ]
+}

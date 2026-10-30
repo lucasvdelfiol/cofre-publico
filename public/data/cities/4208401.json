@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4208401",
+  "city_name": "Itapiranga",
+  "uf": "SC",
+  "population": 16638,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 89967459.68,
+    "total_expense": 87986675.37,
+    "own_revenue_percentage": 21.8,
+    "transfers_revenue_percentage": 78.2,
+    "personnel_expense_percentage_rcl": 50.7
+  },
+  "per_capita_breakdown": {
+    "health": 1324.4,
+    "education": 1273.1,
+    "urbanism": 514.0,
+    "administration": 472.1,
+    "legislative": 167.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4283.5,
+      "health_per_capita": 1033.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4600.8,
+      "health_per_capita": 1112.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4918.1,
+      "health_per_capita": 1192.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5182.5,
+      "health_per_capita": 1271.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5288.3,
+      "health_per_capita": 1324.4
+    }
+  ]
+}

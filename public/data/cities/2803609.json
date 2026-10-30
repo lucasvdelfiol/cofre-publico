@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2803609",
+  "city_name": "Laranjeiras",
+  "uf": "SE",
+  "population": 23975,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 115576579.79,
+    "total_expense": 114929670.84,
+    "own_revenue_percentage": 27.4,
+    "transfers_revenue_percentage": 72.6,
+    "personnel_expense_percentage_rcl": 51.8
+  },
+  "per_capita_breakdown": {
+    "health": 1224.6,
+    "education": 1285.6,
+    "urbanism": 499.3,
+    "administration": 510.0,
+    "legislative": 73.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3882.9,
+      "health_per_capita": 955.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4170.5,
+      "health_per_capita": 1028.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4458.1,
+      "health_per_capita": 1102.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4697.8,
+      "health_per_capita": 1175.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4793.7,
+      "health_per_capita": 1224.6
+    }
+  ]
+}

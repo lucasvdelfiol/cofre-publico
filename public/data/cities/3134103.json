@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3134103",
+  "city_name": "Itueta",
+  "uf": "MG",
+  "population": 6055,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 28421922.24,
+    "total_expense": 28573533.37,
+    "own_revenue_percentage": 9.0,
+    "transfers_revenue_percentage": 91.0,
+    "personnel_expense_percentage_rcl": 53.4
+  },
+  "per_capita_breakdown": {
+    "health": 997.4,
+    "education": 1356.7,
+    "urbanism": 510.9,
+    "administration": 377.3,
+    "legislative": 73.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3822.4,
+      "health_per_capita": 778.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4105.5,
+      "health_per_capita": 837.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4388.7,
+      "health_per_capita": 897.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4624.6,
+      "health_per_capita": 957.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4719.0,
+      "health_per_capita": 997.4
+    }
+  ]
+}

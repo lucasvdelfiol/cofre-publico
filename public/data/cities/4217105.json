@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4217105",
+  "city_name": "São Martinho",
+  "uf": "SC",
+  "population": 3405,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 17888196.15,
+    "total_expense": 17682508.3,
+    "own_revenue_percentage": 12.9,
+    "transfers_revenue_percentage": 87.1,
+    "personnel_expense_percentage_rcl": 45.8
+  },
+  "per_capita_breakdown": {
+    "health": 1405.0,
+    "education": 1321.3,
+    "urbanism": 820.5,
+    "administration": 358.4,
+    "legislative": 118.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4206.4,
+      "health_per_capita": 1095.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4518.0,
+      "health_per_capita": 1180.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4829.6,
+      "health_per_capita": 1264.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5089.2,
+      "health_per_capita": 1348.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5193.1,
+      "health_per_capita": 1405.0
+    }
+  ]
+}

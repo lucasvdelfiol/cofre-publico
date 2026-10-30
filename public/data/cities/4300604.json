@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4300604",
+  "city_name": "Alvorada",
+  "uf": "RS",
+  "population": 187315,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 924987250.67,
+    "total_expense": 898010574.81,
+    "own_revenue_percentage": 43.6,
+    "transfers_revenue_percentage": 56.4,
+    "personnel_expense_percentage_rcl": 51.5
+  },
+  "per_capita_breakdown": {
+    "health": 1010.6,
+    "education": 1515.9,
+    "urbanism": 481.3,
+    "administration": 455.7,
+    "legislative": 131.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3883.2,
+      "health_per_capita": 788.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4170.9,
+      "health_per_capita": 848.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4458.5,
+      "health_per_capita": 909.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4698.2,
+      "health_per_capita": 970.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4794.1,
+      "health_per_capita": 1010.6
+    }
+  ]
+}

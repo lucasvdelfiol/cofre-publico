@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4323358",
+  "city_name": "Vila Lângaro",
+  "uf": "RS",
+  "population": 2079,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 10276472.59,
+    "total_expense": 9975261.6,
+    "own_revenue_percentage": 9.9,
+    "transfers_revenue_percentage": 90.1,
+    "personnel_expense_percentage_rcl": 49.9
+  },
+  "per_capita_breakdown": {
+    "health": 1322.2,
+    "education": 1170.4,
+    "urbanism": 648.9,
+    "administration": 410.2,
+    "legislative": 140.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3886.5,
+      "health_per_capita": 1031.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4174.3,
+      "health_per_capita": 1110.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4462.2,
+      "health_per_capita": 1190.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4702.1,
+      "health_per_capita": 1269.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4798.1,
+      "health_per_capita": 1322.2
+    }
+  ]
+}

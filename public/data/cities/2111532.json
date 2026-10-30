@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2111532",
+  "city_name": "São Pedro da Água Branca",
+  "uf": "MA",
+  "population": 14338,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 64266693.64,
+    "total_expense": 63632605.44,
+    "own_revenue_percentage": 18.9,
+    "transfers_revenue_percentage": 81.1,
+    "personnel_expense_percentage_rcl": 49.7
+  },
+  "per_capita_breakdown": {
+    "health": 909.4,
+    "education": 1409.0,
+    "urbanism": 684.9,
+    "administration": 308.6,
+    "legislative": 151.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3594.8,
+      "health_per_capita": 709.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3861.1,
+      "health_per_capita": 763.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4127.3,
+      "health_per_capita": 818.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4349.2,
+      "health_per_capita": 873.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4438.0,
+      "health_per_capita": 909.4
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2922102",
+  "city_name": "Mundo Novo",
+  "uf": "BA",
+  "population": 17305,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 89648504.87,
+    "total_expense": 89529538.98,
+    "own_revenue_percentage": 20.9,
+    "transfers_revenue_percentage": 79.1,
+    "personnel_expense_percentage_rcl": 46.7
+  },
+  "per_capita_breakdown": {
+    "health": 1091.6,
+    "education": 1475.3,
+    "urbanism": 461.2,
+    "administration": 618.8,
+    "legislative": 168.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4190.6,
+      "health_per_capita": 851.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4501.0,
+      "health_per_capita": 916.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4811.4,
+      "health_per_capita": 982.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5070.1,
+      "health_per_capita": 1047.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5173.6,
+      "health_per_capita": 1091.6
+    }
+  ]
+}

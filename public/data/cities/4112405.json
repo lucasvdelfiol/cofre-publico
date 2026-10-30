@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4112405",
+  "city_name": "Japurá",
+  "uf": "PR",
+  "population": 9144,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 47718954.59,
+    "total_expense": 47890146.03,
+    "own_revenue_percentage": 20.5,
+    "transfers_revenue_percentage": 79.5,
+    "personnel_expense_percentage_rcl": 47.8
+  },
+  "per_capita_breakdown": {
+    "health": 1167.1,
+    "education": 1287.6,
+    "urbanism": 719.5,
+    "administration": 442.5,
+    "legislative": 87.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4242.2,
+      "health_per_capita": 910.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4556.5,
+      "health_per_capita": 980.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4870.7,
+      "health_per_capita": 1050.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5132.6,
+      "health_per_capita": 1120.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5237.3,
+      "health_per_capita": 1167.1
+    }
+  ]
+}

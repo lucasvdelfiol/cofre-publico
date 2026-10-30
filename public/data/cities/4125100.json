@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4125100",
+  "city_name": "São João do Triunfo",
+  "uf": "PR",
+  "population": 13726,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 62731055.97,
+    "total_expense": 61016947.56,
+    "own_revenue_percentage": 10.9,
+    "transfers_revenue_percentage": 89.1,
+    "personnel_expense_percentage_rcl": 46.1
+  },
+  "per_capita_breakdown": {
+    "health": 1120.0,
+    "education": 1315.7,
+    "urbanism": 482.8,
+    "administration": 524.0,
+    "legislative": 87.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3600.8,
+      "health_per_capita": 873.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3867.5,
+      "health_per_capita": 940.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4134.2,
+      "health_per_capita": 1008.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4356.5,
+      "health_per_capita": 1075.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4445.4,
+      "health_per_capita": 1120.0
+    }
+  ]
+}

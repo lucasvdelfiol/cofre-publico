@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2701704",
+  "city_name": "Capela",
+  "uf": "AL",
+  "population": 15032,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 71635786.19,
+    "total_expense": 69561040.44,
+    "own_revenue_percentage": 14.4,
+    "transfers_revenue_percentage": 85.6,
+    "personnel_expense_percentage_rcl": 45.8
+  },
+  "per_capita_breakdown": {
+    "health": 1200.3,
+    "education": 1264.2,
+    "urbanism": 410.5,
+    "administration": 490.7,
+    "legislative": 139.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3748.3,
+      "health_per_capita": 936.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4025.9,
+      "health_per_capita": 1008.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4303.6,
+      "health_per_capita": 1080.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4534.9,
+      "health_per_capita": 1152.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4627.5,
+      "health_per_capita": 1200.3
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3164001",
+  "city_name": "São Pedro dos Ferros",
+  "uf": "MG",
+  "population": 7166,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 38854415.23,
+    "total_expense": 38742415.59,
+    "own_revenue_percentage": 16.5,
+    "transfers_revenue_percentage": 83.5,
+    "personnel_expense_percentage_rcl": 51.1
+  },
+  "per_capita_breakdown": {
+    "health": 1227.5,
+    "education": 1390.7,
+    "urbanism": 532.3,
+    "administration": 437.6,
+    "legislative": 134.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4379.2,
+      "health_per_capita": 957.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4703.6,
+      "health_per_capita": 1031.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5028.0,
+      "health_per_capita": 1104.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5298.3,
+      "health_per_capita": 1178.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5406.4,
+      "health_per_capita": 1227.5
+    }
+  ]
+}

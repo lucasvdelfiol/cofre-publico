@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2913002",
+  "city_name": "Ibitiara",
+  "uf": "BA",
+  "population": 14637,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 71496878.52,
+    "total_expense": 69226901.86,
+    "own_revenue_percentage": 19.9,
+    "transfers_revenue_percentage": 80.1,
+    "personnel_expense_percentage_rcl": 50.2
+  },
+  "per_capita_breakdown": {
+    "health": 1174.2,
+    "education": 1444.7,
+    "urbanism": 624.6,
+    "administration": 451.4,
+    "legislative": 104.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3831.0,
+      "health_per_capita": 915.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4114.8,
+      "health_per_capita": 986.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4398.5,
+      "health_per_capita": 1056.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4635.0,
+      "health_per_capita": 1127.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4729.6,
+      "health_per_capita": 1174.2
+    }
+  ]
+}

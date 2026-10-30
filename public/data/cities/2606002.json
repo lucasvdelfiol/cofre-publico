@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2606002",
+  "city_name": "Garanhuns",
+  "uf": "PE",
+  "population": 142506,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 788948882.44,
+    "total_expense": 762947711.28,
+    "own_revenue_percentage": 45.5,
+    "transfers_revenue_percentage": 54.5,
+    "personnel_expense_percentage_rcl": 47.6
+  },
+  "per_capita_breakdown": {
+    "health": 1402.4,
+    "education": 1453.6,
+    "urbanism": 665.0,
+    "administration": 569.5,
+    "legislative": 95.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4336.6,
+      "health_per_capita": 1093.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4657.8,
+      "health_per_capita": 1178.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4979.0,
+      "health_per_capita": 1262.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5246.7,
+      "health_per_capita": 1346.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5353.8,
+      "health_per_capita": 1402.4
+    }
+  ]
+}

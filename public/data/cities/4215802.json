@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4215802",
+  "city_name": "São Bento do Sul",
+  "uf": "SC",
+  "population": 83277,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 416347462.51,
+    "total_expense": 407355212.41,
+    "own_revenue_percentage": 29.4,
+    "transfers_revenue_percentage": 70.6,
+    "personnel_expense_percentage_rcl": 49.9
+  },
+  "per_capita_breakdown": {
+    "health": 1328.6,
+    "education": 1249.5,
+    "urbanism": 744.1,
+    "administration": 309.0,
+    "legislative": 74.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3962.2,
+      "health_per_capita": 1036.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4255.7,
+      "health_per_capita": 1116.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4549.2,
+      "health_per_capita": 1195.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4793.8,
+      "health_per_capita": 1275.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4891.6,
+      "health_per_capita": 1328.6
+    }
+  ]
+}

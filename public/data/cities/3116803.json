@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3116803",
+  "city_name": "Coluna",
+  "uf": "MG",
+  "population": 8163,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 43127371.46,
+    "total_expense": 42300558.28,
+    "own_revenue_percentage": 13.1,
+    "transfers_revenue_percentage": 86.9,
+    "personnel_expense_percentage_rcl": 51.3
+  },
+  "per_capita_breakdown": {
+    "health": 1122.9,
+    "education": 1388.1,
+    "urbanism": 691.2,
+    "administration": 434.2,
+    "legislative": 158.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4197.4,
+      "health_per_capita": 875.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4508.3,
+      "health_per_capita": 943.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4819.3,
+      "health_per_capita": 1010.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5078.4,
+      "health_per_capita": 1078.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5182.0,
+      "health_per_capita": 1122.9
+    }
+  ]
+}

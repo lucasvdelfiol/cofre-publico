@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4303673",
+  "city_name": "Campestre da Serra",
+  "uf": "RS",
+  "population": 3242,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 16500342.29,
+    "total_expense": 15894792.27,
+    "own_revenue_percentage": 9.5,
+    "transfers_revenue_percentage": 90.5,
+    "personnel_expense_percentage_rcl": 51.3
+  },
+  "per_capita_breakdown": {
+    "health": 1357.9,
+    "education": 1302.9,
+    "urbanism": 495.0,
+    "administration": 347.3,
+    "legislative": 114.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3971.3,
+      "health_per_capita": 1059.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4265.4,
+      "health_per_capita": 1140.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4559.6,
+      "health_per_capita": 1222.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4804.7,
+      "health_per_capita": 1303.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4902.8,
+      "health_per_capita": 1357.9
+    }
+  ]
+}

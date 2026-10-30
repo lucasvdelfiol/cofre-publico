@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5212956",
+  "city_name": "Matrinchã",
+  "uf": "GO",
+  "population": 4042,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 18714811.56,
+    "total_expense": 18442921.26,
+    "own_revenue_percentage": 19.2,
+    "transfers_revenue_percentage": 80.8,
+    "personnel_expense_percentage_rcl": 47.8
+  },
+  "per_capita_breakdown": {
+    "health": 1234.4,
+    "education": 1195.0,
+    "urbanism": 669.2,
+    "administration": 347.3,
+    "legislative": 149.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3695.9,
+      "health_per_capita": 962.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3969.6,
+      "health_per_capita": 1036.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4243.4,
+      "health_per_capita": 1111.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4471.5,
+      "health_per_capita": 1185.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4562.8,
+      "health_per_capita": 1234.4
+    }
+  ]
+}

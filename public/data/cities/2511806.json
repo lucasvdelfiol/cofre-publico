@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2511806",
+  "city_name": "Pirpirituba",
+  "uf": "PB",
+  "population": 9340,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 51547790.36,
+    "total_expense": 50871962.51,
+    "own_revenue_percentage": 14.6,
+    "transfers_revenue_percentage": 85.4,
+    "personnel_expense_percentage_rcl": 53.1
+  },
+  "per_capita_breakdown": {
+    "health": 1229.4,
+    "education": 1610.6,
+    "urbanism": 811.2,
+    "administration": 361.3,
+    "legislative": 136.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4411.8,
+      "health_per_capita": 958.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4738.6,
+      "health_per_capita": 1032.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5065.4,
+      "health_per_capita": 1106.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5337.8,
+      "health_per_capita": 1180.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5446.7,
+      "health_per_capita": 1229.4
+    }
+  ]
+}

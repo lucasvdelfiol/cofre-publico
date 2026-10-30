@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2901353",
+  "city_name": "Andorinha",
+  "uf": "BA",
+  "population": 15012,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 82440717.4,
+    "total_expense": 80269162.17,
+    "own_revenue_percentage": 20.5,
+    "transfers_revenue_percentage": 79.5,
+    "personnel_expense_percentage_rcl": 48.9
+  },
+  "per_capita_breakdown": {
+    "health": 1307.4,
+    "education": 1370.6,
+    "urbanism": 788.0,
+    "administration": 593.3,
+    "legislative": 143.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4331.1,
+      "health_per_capita": 1019.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4651.9,
+      "health_per_capita": 1098.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4972.7,
+      "health_per_capita": 1176.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5240.1,
+      "health_per_capita": 1255.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5347.0,
+      "health_per_capita": 1307.4
+    }
+  ]
+}

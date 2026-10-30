@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4200408",
+  "city_name": "Água Doce",
+  "uf": "SC",
+  "population": 6508,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 35527683.55,
+    "total_expense": 35578672.85,
+    "own_revenue_percentage": 9.6,
+    "transfers_revenue_percentage": 90.4,
+    "personnel_expense_percentage_rcl": 47.7
+  },
+  "per_capita_breakdown": {
+    "health": 1481.2,
+    "education": 1672.7,
+    "urbanism": 765.9,
+    "administration": 434.0,
+    "legislative": 188.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4428.2,
+      "health_per_capita": 1155.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4756.2,
+      "health_per_capita": 1244.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5084.2,
+      "health_per_capita": 1333.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5357.6,
+      "health_per_capita": 1422.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5466.9,
+      "health_per_capita": 1481.2
+    }
+  ]
+}

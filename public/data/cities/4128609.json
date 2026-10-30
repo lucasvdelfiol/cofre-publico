@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4128609",
+  "city_name": "Verê",
+  "uf": "PR",
+  "population": 7932,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 40458135.93,
+    "total_expense": 40747812.71,
+    "own_revenue_percentage": 16.7,
+    "transfers_revenue_percentage": 83.3,
+    "personnel_expense_percentage_rcl": 53.5
+  },
+  "per_capita_breakdown": {
+    "health": 1172.5,
+    "education": 1359.7,
+    "urbanism": 771.4,
+    "administration": 547.0,
+    "legislative": 94.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4161.1,
+      "health_per_capita": 914.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4469.3,
+      "health_per_capita": 984.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4777.5,
+      "health_per_capita": 1055.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5034.4,
+      "health_per_capita": 1125.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5137.1,
+      "health_per_capita": 1172.5
+    }
+  ]
+}

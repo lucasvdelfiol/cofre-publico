@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2111789",
+  "city_name": "Serrano do Maranhão",
+  "uf": "MA",
+  "population": 10202,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 49622298.24,
+    "total_expense": 49551919.55,
+    "own_revenue_percentage": 21.6,
+    "transfers_revenue_percentage": 78.4,
+    "personnel_expense_percentage_rcl": 48.8
+  },
+  "per_capita_breakdown": {
+    "health": 1283.4,
+    "education": 1340.1,
+    "urbanism": 662.8,
+    "administration": 506.4,
+    "legislative": 128.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3934.3,
+      "health_per_capita": 1001.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4225.7,
+      "health_per_capita": 1078.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4517.1,
+      "health_per_capita": 1155.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4760.0,
+      "health_per_capita": 1232.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4857.1,
+      "health_per_capita": 1283.4
+    }
+  ]
+}

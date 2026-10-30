@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2408201",
+  "city_name": "Nísia Floresta",
+  "uf": "RN",
+  "population": 31942,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 144153145.1,
+    "total_expense": 144990907.9,
+    "own_revenue_percentage": 30.7,
+    "transfers_revenue_percentage": 69.3,
+    "personnel_expense_percentage_rcl": 46.4
+  },
+  "per_capita_breakdown": {
+    "health": 942.3,
+    "education": 1126.2,
+    "urbanism": 459.1,
+    "administration": 338.2,
+    "legislative": 137.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3676.8,
+      "health_per_capita": 735.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3949.1,
+      "health_per_capita": 791.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4221.5,
+      "health_per_capita": 848.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4448.4,
+      "health_per_capita": 904.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4539.2,
+      "health_per_capita": 942.3
+    }
+  ]
+}

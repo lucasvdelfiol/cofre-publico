@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5208301",
+  "city_name": "Divinópolis de Goiás",
+  "uf": "GO",
+  "population": 4457,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 21728235.75,
+    "total_expense": 21434238.92,
+    "own_revenue_percentage": 19.2,
+    "transfers_revenue_percentage": 80.8,
+    "personnel_expense_percentage_rcl": 52.3
+  },
+  "per_capita_breakdown": {
+    "health": 1035.3,
+    "education": 1230.8,
+    "urbanism": 411.5,
+    "administration": 330.4,
+    "legislative": 139.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3895.4,
+      "health_per_capita": 807.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4183.9,
+      "health_per_capita": 869.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4472.5,
+      "health_per_capita": 931.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4712.9,
+      "health_per_capita": 993.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4809.1,
+      "health_per_capita": 1035.3
+    }
+  ]
+}

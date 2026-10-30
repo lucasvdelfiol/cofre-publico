@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3532868",
+  "city_name": "Nova Castilho",
+  "uf": "SP",
+  "population": 1500,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 8428094.85,
+    "total_expense": 8195465.8,
+    "own_revenue_percentage": 17.0,
+    "transfers_revenue_percentage": 83.0,
+    "personnel_expense_percentage_rcl": 47.1
+  },
+  "per_capita_breakdown": {
+    "health": 1237.5,
+    "education": 1609.1,
+    "urbanism": 556.4,
+    "administration": 454.3,
+    "legislative": 89.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4425.5,
+      "health_per_capita": 965.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4753.3,
+      "health_per_capita": 1039.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5081.1,
+      "health_per_capita": 1113.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5354.3,
+      "health_per_capita": 1188.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5463.6,
+      "health_per_capita": 1237.5
+    }
+  ]
+}

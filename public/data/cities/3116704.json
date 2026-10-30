@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3116704",
+  "city_name": "Coimbra",
+  "uf": "MG",
+  "population": 7117,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 39478455.66,
+    "total_expense": 38659778.4,
+    "own_revenue_percentage": 17.1,
+    "transfers_revenue_percentage": 82.9,
+    "personnel_expense_percentage_rcl": 48.3
+  },
+  "per_capita_breakdown": {
+    "health": 1109.4,
+    "education": 1484.2,
+    "urbanism": 441.6,
+    "administration": 644.0,
+    "legislative": 174.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4399.9,
+      "health_per_capita": 865.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4725.8,
+      "health_per_capita": 931.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5051.8,
+      "health_per_capita": 998.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5323.4,
+      "health_per_capita": 1065.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5432.0,
+      "health_per_capita": 1109.4
+    }
+  ]
+}

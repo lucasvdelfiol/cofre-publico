@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5107404",
+  "city_name": "São Pedro da Cipa",
+  "uf": "MT",
+  "population": 4191,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 23360734.8,
+    "total_expense": 23269615.85,
+    "own_revenue_percentage": 13.2,
+    "transfers_revenue_percentage": 86.8,
+    "personnel_expense_percentage_rcl": 45.7
+  },
+  "per_capita_breakdown": {
+    "health": 1222.2,
+    "education": 1485.1,
+    "urbanism": 605.1,
+    "administration": 582.0,
+    "legislative": 115.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4497.4,
+      "health_per_capita": 953.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4830.5,
+      "health_per_capita": 1026.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5163.6,
+      "health_per_capita": 1100.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5441.3,
+      "health_per_capita": 1173.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5552.3,
+      "health_per_capita": 1222.2
+    }
+  ]
+}

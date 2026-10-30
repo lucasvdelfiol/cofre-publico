@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2400208",
+  "city_name": "Assú",
+  "uf": "RN",
+  "population": 56496,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 265989436.89,
+    "total_expense": 256967154.38,
+    "own_revenue_percentage": 28.8,
+    "transfers_revenue_percentage": 71.2,
+    "personnel_expense_percentage_rcl": 47.0
+  },
+  "per_capita_breakdown": {
+    "health": 914.8,
+    "education": 1202.6,
+    "urbanism": 410.5,
+    "administration": 345.5,
+    "legislative": 156.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3684.2,
+      "health_per_capita": 713.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3957.1,
+      "health_per_capita": 768.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4230.0,
+      "health_per_capita": 823.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4457.4,
+      "health_per_capita": 878.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4548.4,
+      "health_per_capita": 914.8
+    }
+  ]
+}

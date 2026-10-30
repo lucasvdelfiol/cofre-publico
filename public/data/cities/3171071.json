@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3171071",
+  "city_name": "Veredinha",
+  "uf": "MG",
+  "population": 5181,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 26734803.09,
+    "total_expense": 26044455.21,
+    "own_revenue_percentage": 9.0,
+    "transfers_revenue_percentage": 91.0,
+    "personnel_expense_percentage_rcl": 50.0
+  },
+  "per_capita_breakdown": {
+    "health": 1394.9,
+    "education": 1340.8,
+    "urbanism": 564.6,
+    "administration": 531.3,
+    "legislative": 77.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4071.8,
+      "health_per_capita": 1088.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4373.4,
+      "health_per_capita": 1171.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4675.0,
+      "health_per_capita": 1255.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4926.4,
+      "health_per_capita": 1339.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5026.9,
+      "health_per_capita": 1394.9
+    }
+  ]
+}

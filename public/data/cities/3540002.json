@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3540002",
+  "city_name": "Pompéia",
+  "uf": "SP",
+  "population": 20196,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 94950338.54,
+    "total_expense": 92339992.51,
+    "own_revenue_percentage": 31.3,
+    "transfers_revenue_percentage": 68.7,
+    "personnel_expense_percentage_rcl": 52.1
+  },
+  "per_capita_breakdown": {
+    "health": 1108.1,
+    "education": 1344.8,
+    "urbanism": 631.1,
+    "administration": 275.7,
+    "legislative": 107.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3703.5,
+      "health_per_capita": 864.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3977.8,
+      "health_per_capita": 930.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4252.1,
+      "health_per_capita": 997.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4480.8,
+      "health_per_capita": 1063.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4572.2,
+      "health_per_capita": 1108.1
+    }
+  ]
+}

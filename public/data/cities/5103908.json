@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5103908",
+  "city_name": "General Carneiro",
+  "uf": "MT",
+  "population": 6037,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 27867090.24,
+    "total_expense": 26834592.49,
+    "own_revenue_percentage": 18.5,
+    "transfers_revenue_percentage": 81.5,
+    "personnel_expense_percentage_rcl": 52.5
+  },
+  "per_capita_breakdown": {
+    "health": 1144.9,
+    "education": 1113.6,
+    "urbanism": 453.1,
+    "administration": 529.4,
+    "legislative": 115.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3600.5,
+      "health_per_capita": 893.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3867.2,
+      "health_per_capita": 961.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4133.9,
+      "health_per_capita": 1030.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4356.1,
+      "health_per_capita": 1099.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4445.0,
+      "health_per_capita": 1144.9
+    }
+  ]
+}

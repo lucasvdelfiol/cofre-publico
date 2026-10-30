@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1701903",
+  "city_name": "Araguacema",
+  "uf": "TO",
+  "population": 5927,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 33073414.97,
+    "total_expense": 32182626.36,
+    "own_revenue_percentage": 11.1,
+    "transfers_revenue_percentage": 88.9,
+    "personnel_expense_percentage_rcl": 47.3
+  },
+  "per_capita_breakdown": {
+    "health": 1440.3,
+    "education": 1530.1,
+    "urbanism": 585.8,
+    "administration": 631.9,
+    "legislative": 119.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4398.1,
+      "health_per_capita": 1123.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4723.9,
+      "health_per_capita": 1209.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5049.7,
+      "health_per_capita": 1296.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5321.2,
+      "health_per_capita": 1382.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5429.8,
+      "health_per_capita": 1440.3
+    }
+  ]
+}

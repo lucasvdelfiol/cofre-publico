@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4312252",
+  "city_name": "Minas do Leão",
+  "uf": "RS",
+  "population": 7505,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 37115088.23,
+    "total_expense": 37390796.6,
+    "own_revenue_percentage": 10.5,
+    "transfers_revenue_percentage": 89.5,
+    "personnel_expense_percentage_rcl": 53.4
+  },
+  "per_capita_breakdown": {
+    "health": 1249.5,
+    "education": 1502.2,
+    "urbanism": 779.2,
+    "administration": 554.8,
+    "legislative": 120.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4035.5,
+      "health_per_capita": 974.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4334.4,
+      "health_per_capita": 1049.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4633.4,
+      "health_per_capita": 1124.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4882.5,
+      "health_per_capita": 1199.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4982.1,
+      "health_per_capita": 1249.5
+    }
+  ]
+}

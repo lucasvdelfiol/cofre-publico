@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3555901",
+  "city_name": "Uru",
+  "uf": "SP",
+  "population": 1500,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 7558651.34,
+    "total_expense": 7461665.99,
+    "own_revenue_percentage": 14.4,
+    "transfers_revenue_percentage": 85.6,
+    "personnel_expense_percentage_rcl": 50.6
+  },
+  "per_capita_breakdown": {
+    "health": 1123.4,
+    "education": 1317.6,
+    "urbanism": 788.6,
+    "administration": 549.7,
+    "legislative": 117.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4029.3,
+      "health_per_capita": 876.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4327.7,
+      "health_per_capita": 943.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4626.2,
+      "health_per_capita": 1011.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4874.9,
+      "health_per_capita": 1078.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4974.4,
+      "health_per_capita": 1123.4
+    }
+  ]
+}

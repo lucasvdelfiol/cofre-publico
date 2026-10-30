@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4207650",
+  "city_name": "Iporã do Oeste",
+  "uf": "SC",
+  "population": 9335,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 43499077.81,
+    "total_expense": 42104943.67,
+    "own_revenue_percentage": 8.2,
+    "transfers_revenue_percentage": 91.8,
+    "personnel_expense_percentage_rcl": 51.2
+  },
+  "per_capita_breakdown": {
+    "health": 1233.6,
+    "education": 1429.0,
+    "urbanism": 396.9,
+    "administration": 333.7,
+    "legislative": 96.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3653.4,
+      "health_per_capita": 962.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3924.0,
+      "health_per_capita": 1036.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4194.7,
+      "health_per_capita": 1110.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4420.2,
+      "health_per_capita": 1184.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4510.4,
+      "health_per_capita": 1233.6
+    }
+  ]
+}

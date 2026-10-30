@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3161502",
+  "city_name": "São Geraldo",
+  "uf": "MG",
+  "population": 10282,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 54399979.28,
+    "total_expense": 53949047.1,
+    "own_revenue_percentage": 21.4,
+    "transfers_revenue_percentage": 78.6,
+    "personnel_expense_percentage_rcl": 51.8
+  },
+  "per_capita_breakdown": {
+    "health": 1242.1,
+    "education": 1523.1,
+    "urbanism": 678.8,
+    "administration": 479.1,
+    "legislative": 114.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4250.0,
+      "health_per_capita": 968.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4564.8,
+      "health_per_capita": 1043.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4879.6,
+      "health_per_capita": 1117.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5142.0,
+      "health_per_capita": 1192.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5246.9,
+      "health_per_capita": 1242.1
+    }
+  ]
+}

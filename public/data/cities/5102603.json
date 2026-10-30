@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5102603",
+  "city_name": "Campinápolis",
+  "uf": "MT",
+  "population": 15347,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 79892789.77,
+    "total_expense": 79803072.13,
+    "own_revenue_percentage": 8.7,
+    "transfers_revenue_percentage": 91.3,
+    "personnel_expense_percentage_rcl": 49.4
+  },
+  "per_capita_breakdown": {
+    "health": 1244.8,
+    "education": 1543.1,
+    "urbanism": 768.3,
+    "administration": 425.3,
+    "legislative": 110.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4211.9,
+      "health_per_capita": 970.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4523.9,
+      "health_per_capita": 1045.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4835.9,
+      "health_per_capita": 1120.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5095.9,
+      "health_per_capita": 1195.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5199.9,
+      "health_per_capita": 1244.8
+    }
+  ]
+}

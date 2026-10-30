@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3170651",
+  "city_name": "Vargem Grande do Rio Pardo",
+  "uf": "MG",
+  "population": 4633,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 22614333.37,
+    "total_expense": 22741746.74,
+    "own_revenue_percentage": 14.7,
+    "transfers_revenue_percentage": 85.3,
+    "personnel_expense_percentage_rcl": 51.0
+  },
+  "per_capita_breakdown": {
+    "health": 1175.2,
+    "education": 1298.0,
+    "urbanism": 437.7,
+    "administration": 295.0,
+    "legislative": 154.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3976.0,
+      "health_per_capita": 916.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4270.5,
+      "health_per_capita": 987.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4565.0,
+      "health_per_capita": 1057.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4810.4,
+      "health_per_capita": 1128.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4908.6,
+      "health_per_capita": 1175.2
+    }
+  ]
+}

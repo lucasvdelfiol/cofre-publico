@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3532603",
+  "city_name": "Nhandeara",
+  "uf": "SP",
+  "population": 9852,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 42195382.29,
+    "total_expense": 42397727.68,
+    "own_revenue_percentage": 14.5,
+    "transfers_revenue_percentage": 85.5,
+    "personnel_expense_percentage_rcl": 51.1
+  },
+  "per_capita_breakdown": {
+    "health": 869.3,
+    "education": 1227.6,
+    "urbanism": 615.7,
+    "administration": 432.4,
+    "legislative": 137.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3485.8,
+      "health_per_capita": 678.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3744.0,
+      "health_per_capita": 730.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4002.3,
+      "health_per_capita": 782.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4217.4,
+      "health_per_capita": 834.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4303.5,
+      "health_per_capita": 869.3
+    }
+  ]
+}

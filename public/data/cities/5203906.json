@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5203906",
+  "city_name": "Buriti Alegre",
+  "uf": "GO",
+  "population": 10495,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 54506830.28,
+    "total_expense": 54192442.61,
+    "own_revenue_percentage": 11.5,
+    "transfers_revenue_percentage": 88.5,
+    "personnel_expense_percentage_rcl": 50.9
+  },
+  "per_capita_breakdown": {
+    "health": 1292.7,
+    "education": 1302.8,
+    "urbanism": 463.3,
+    "administration": 337.5,
+    "legislative": 180.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4182.5,
+      "health_per_capita": 1008.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4492.3,
+      "health_per_capita": 1085.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4802.1,
+      "health_per_capita": 1163.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5060.3,
+      "health_per_capita": 1241.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5163.6,
+      "health_per_capita": 1292.7
+    }
+  ]
+}

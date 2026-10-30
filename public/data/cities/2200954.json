@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2200954",
+  "city_name": "Aroeiras do Itaim",
+  "uf": "PI",
+  "population": 2690,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 12195630.02,
+    "total_expense": 11888746.35,
+    "own_revenue_percentage": 11.5,
+    "transfers_revenue_percentage": 88.5,
+    "personnel_expense_percentage_rcl": 48.8
+  },
+  "per_capita_breakdown": {
+    "health": 1030.6,
+    "education": 1216.3,
+    "urbanism": 445.9,
+    "administration": 312.5,
+    "legislative": 141.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3579.9,
+      "health_per_capita": 803.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3845.1,
+      "health_per_capita": 865.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4110.2,
+      "health_per_capita": 927.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4331.2,
+      "health_per_capita": 989.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4419.6,
+      "health_per_capita": 1030.6
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3534302",
+  "city_name": "Orlândia",
+  "uf": "SP",
+  "population": 38319,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 175923649.31,
+    "total_expense": 173702406.25,
+    "own_revenue_percentage": 31.8,
+    "transfers_revenue_percentage": 68.2,
+    "personnel_expense_percentage_rcl": 50.3
+  },
+  "per_capita_breakdown": {
+    "health": 1033.6,
+    "education": 1377.6,
+    "urbanism": 578.2,
+    "administration": 330.3,
+    "legislative": 80.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3671.8,
+      "health_per_capita": 806.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3943.8,
+      "health_per_capita": 868.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4215.8,
+      "health_per_capita": 930.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4442.4,
+      "health_per_capita": 992.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4533.1,
+      "health_per_capita": 1033.6
+    }
+  ]
+}

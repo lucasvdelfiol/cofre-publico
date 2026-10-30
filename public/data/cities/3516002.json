@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3516002",
+  "city_name": "Flórida Paulista",
+  "uf": "SP",
+  "population": 12958,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 71750053.18,
+    "total_expense": 70567304.17,
+    "own_revenue_percentage": 14.9,
+    "transfers_revenue_percentage": 85.1,
+    "personnel_expense_percentage_rcl": 48.0
+  },
+  "per_capita_breakdown": {
+    "health": 1205.6,
+    "education": 1377.3,
+    "urbanism": 802.6,
+    "administration": 526.1,
+    "legislative": 137.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4411.1,
+      "health_per_capita": 940.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4737.8,
+      "health_per_capita": 1012.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5064.6,
+      "health_per_capita": 1085.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5336.9,
+      "health_per_capita": 1157.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5445.8,
+      "health_per_capita": 1205.6
+    }
+  ]
+}

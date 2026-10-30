@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2509396",
+  "city_name": "Maturéia",
+  "uf": "PB",
+  "population": 6433,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 36227001.14,
+    "total_expense": 35954497.24,
+    "own_revenue_percentage": 15.2,
+    "transfers_revenue_percentage": 84.8,
+    "personnel_expense_percentage_rcl": 51.3
+  },
+  "per_capita_breakdown": {
+    "health": 1246.2,
+    "education": 1367.9,
+    "urbanism": 877.9,
+    "administration": 437.5,
+    "legislative": 186.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4527.2,
+      "health_per_capita": 972.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4862.5,
+      "health_per_capita": 1046.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5197.9,
+      "health_per_capita": 1121.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5477.3,
+      "health_per_capita": 1196.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5589.1,
+      "health_per_capita": 1246.2
+    }
+  ]
+}

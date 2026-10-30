@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4311627",
+  "city_name": "Lindolfo Collor",
+  "uf": "RS",
+  "population": 6248,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 31646681.42,
+    "total_expense": 31077073.82,
+    "own_revenue_percentage": 21.2,
+    "transfers_revenue_percentage": 78.8,
+    "personnel_expense_percentage_rcl": 51.9
+  },
+  "per_capita_breakdown": {
+    "health": 1130.4,
+    "education": 1243.1,
+    "urbanism": 443.8,
+    "administration": 486.7,
+    "legislative": 90.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4028.9,
+      "health_per_capita": 881.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4327.3,
+      "health_per_capita": 949.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4625.7,
+      "health_per_capita": 1017.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4874.4,
+      "health_per_capita": 1085.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4973.9,
+      "health_per_capita": 1130.4
+    }
+  ]
+}

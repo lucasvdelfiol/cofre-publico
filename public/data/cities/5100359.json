@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5100359",
+  "city_name": "Alto Boa Vista",
+  "uf": "MT",
+  "population": 5715,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 31176255.97,
+    "total_expense": 30165302.15,
+    "own_revenue_percentage": 22.0,
+    "transfers_revenue_percentage": 78.0,
+    "personnel_expense_percentage_rcl": 51.5
+  },
+  "per_capita_breakdown": {
+    "health": 1227.6,
+    "education": 1439.1,
+    "urbanism": 812.6,
+    "administration": 582.6,
+    "legislative": 146.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4275.4,
+      "health_per_capita": 957.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4592.1,
+      "health_per_capita": 1031.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4908.8,
+      "health_per_capita": 1104.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5172.7,
+      "health_per_capita": 1178.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5278.3,
+      "health_per_capita": 1227.6
+    }
+  ]
+}

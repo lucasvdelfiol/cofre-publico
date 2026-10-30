@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4103602",
+  "city_name": "Cambará",
+  "uf": "PR",
+  "population": 23212,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 97681016.19,
+    "total_expense": 97335196.66,
+    "own_revenue_percentage": 25.3,
+    "transfers_revenue_percentage": 74.7,
+    "personnel_expense_percentage_rcl": 52.4
+  },
+  "per_capita_breakdown": {
+    "health": 1045.9,
+    "education": 1272.2,
+    "urbanism": 413.9,
+    "administration": 372.7,
+    "legislative": 90.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3396.6,
+      "health_per_capita": 815.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3648.2,
+      "health_per_capita": 878.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3899.8,
+      "health_per_capita": 941.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4109.4,
+      "health_per_capita": 1004.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4193.3,
+      "health_per_capita": 1045.9
+    }
+  ]
+}

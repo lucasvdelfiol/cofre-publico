@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5103957",
+  "city_name": "Glória D'Oeste",
+  "uf": "MT",
+  "population": 2905,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 15241552.9,
+    "total_expense": 15100528.74,
+    "own_revenue_percentage": 14.2,
+    "transfers_revenue_percentage": 85.8,
+    "personnel_expense_percentage_rcl": 53.1
+  },
+  "per_capita_breakdown": {
+    "health": 1439.9,
+    "education": 1612.9,
+    "urbanism": 559.8,
+    "administration": 417.8,
+    "legislative": 80.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4210.5,
+      "health_per_capita": 1123.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4522.3,
+      "health_per_capita": 1209.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4834.2,
+      "health_per_capita": 1295.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5094.1,
+      "health_per_capita": 1382.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5198.1,
+      "health_per_capita": 1439.9
+    }
+  ]
+}

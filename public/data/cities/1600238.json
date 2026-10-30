@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1600238",
+  "city_name": "Ferreira Gomes",
+  "uf": "AP",
+  "population": 6666,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 30694292.76,
+    "total_expense": 30672412.21,
+    "own_revenue_percentage": 17.0,
+    "transfers_revenue_percentage": 83.0,
+    "personnel_expense_percentage_rcl": 50.4
+  },
+  "per_capita_breakdown": {
+    "health": 1061.0,
+    "education": 1295.7,
+    "urbanism": 698.2,
+    "administration": 464.0,
+    "legislative": 138.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3727.1,
+      "health_per_capita": 827.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4003.1,
+      "health_per_capita": 891.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4279.2,
+      "health_per_capita": 954.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4509.3,
+      "health_per_capita": 1018.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4601.3,
+      "health_per_capita": 1061.0
+    }
+  ]
+}

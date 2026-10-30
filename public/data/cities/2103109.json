@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2103109",
+  "city_name": "Cedral",
+  "uf": "MA",
+  "population": 10208,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 48605413.32,
+    "total_expense": 47474975.64,
+    "own_revenue_percentage": 13.5,
+    "transfers_revenue_percentage": 86.5,
+    "personnel_expense_percentage_rcl": 49.9
+  },
+  "per_capita_breakdown": {
+    "health": 1295.6,
+    "education": 1432.7,
+    "urbanism": 437.6,
+    "administration": 378.6,
+    "legislative": 100.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3767.1,
+      "health_per_capita": 1010.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4046.2,
+      "health_per_capita": 1088.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4325.2,
+      "health_per_capita": 1166.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4557.8,
+      "health_per_capita": 1243.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4650.8,
+      "health_per_capita": 1295.6
+    }
+  ]
+}

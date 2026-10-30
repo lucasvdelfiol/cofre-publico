@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3151008",
+  "city_name": "Piranguinho",
+  "uf": "MG",
+  "population": 9120,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 48303597.13,
+    "total_expense": 47481426.42,
+    "own_revenue_percentage": 19.0,
+    "transfers_revenue_percentage": 81.0,
+    "personnel_expense_percentage_rcl": 47.8
+  },
+  "per_capita_breakdown": {
+    "health": 1367.8,
+    "education": 1612.7,
+    "urbanism": 697.1,
+    "administration": 478.4,
+    "legislative": 173.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4217.1,
+      "health_per_capita": 1066.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4529.5,
+      "health_per_capita": 1149.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4841.9,
+      "health_per_capita": 1231.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5102.2,
+      "health_per_capita": 1313.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5206.3,
+      "health_per_capita": 1367.8
+    }
+  ]
+}

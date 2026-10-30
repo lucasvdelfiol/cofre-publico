@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3514924",
+  "city_name": "Elisiário",
+  "uf": "SP",
+  "population": 3138,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 15751659.51,
+    "total_expense": 15746419.32,
+    "own_revenue_percentage": 9.8,
+    "transfers_revenue_percentage": 90.2,
+    "personnel_expense_percentage_rcl": 47.6
+  },
+  "per_capita_breakdown": {
+    "health": 1321.7,
+    "education": 1429.5,
+    "urbanism": 625.1,
+    "administration": 523.2,
+    "legislative": 157.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4064.6,
+      "health_per_capita": 1030.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4365.7,
+      "health_per_capita": 1110.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4666.7,
+      "health_per_capita": 1189.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4917.6,
+      "health_per_capita": 1268.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5018.0,
+      "health_per_capita": 1321.7
+    }
+  ]
+}

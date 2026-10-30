@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4212403",
+  "city_name": "Pedras Grandes",
+  "uf": "SC",
+  "population": 4245,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 19702522.93,
+    "total_expense": 19048231.92,
+    "own_revenue_percentage": 12.9,
+    "transfers_revenue_percentage": 87.1,
+    "personnel_expense_percentage_rcl": 46.5
+  },
+  "per_capita_breakdown": {
+    "health": 1005.1,
+    "education": 1379.0,
+    "urbanism": 361.5,
+    "administration": 424.6,
+    "legislative": 150.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3634.6,
+      "health_per_capita": 784.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3903.9,
+      "health_per_capita": 844.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4173.1,
+      "health_per_capita": 904.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4397.5,
+      "health_per_capita": 964.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4487.2,
+      "health_per_capita": 1005.1
+    }
+  ]
+}

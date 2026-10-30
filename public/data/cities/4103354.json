@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4103354",
+  "city_name": "Braganey",
+  "uf": "PR",
+  "population": 4854,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 23611295.62,
+    "total_expense": 23772882.32,
+    "own_revenue_percentage": 17.2,
+    "transfers_revenue_percentage": 82.8,
+    "personnel_expense_percentage_rcl": 49.6
+  },
+  "per_capita_breakdown": {
+    "health": 1348.3,
+    "education": 1565.4,
+    "urbanism": 503.9,
+    "administration": 469.3,
+    "legislative": 153.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3967.1,
+      "health_per_capita": 1051.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4260.9,
+      "health_per_capita": 1132.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4554.8,
+      "health_per_capita": 1213.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4799.6,
+      "health_per_capita": 1294.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4897.6,
+      "health_per_capita": 1348.3
+    }
+  ]
+}

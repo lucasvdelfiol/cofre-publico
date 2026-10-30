@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2202737",
+  "city_name": "Coivaras",
+  "uf": "PI",
+  "population": 4117,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 20841951.21,
+    "total_expense": 20046575.26,
+    "own_revenue_percentage": 12.8,
+    "transfers_revenue_percentage": 87.2,
+    "personnel_expense_percentage_rcl": 48.7
+  },
+  "per_capita_breakdown": {
+    "health": 1214.0,
+    "education": 1505.6,
+    "urbanism": 635.8,
+    "administration": 484.4,
+    "legislative": 109.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3944.1,
+      "health_per_capita": 946.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4236.2,
+      "health_per_capita": 1019.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4528.4,
+      "health_per_capita": 1092.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4771.8,
+      "health_per_capita": 1165.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4869.2,
+      "health_per_capita": 1214.0
+    }
+  ]
+}

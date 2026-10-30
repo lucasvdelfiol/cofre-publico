@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2701308",
+  "city_name": "Cajueiro",
+  "uf": "AL",
+  "population": 16024,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 86127160.27,
+    "total_expense": 83151913.73,
+    "own_revenue_percentage": 20.8,
+    "transfers_revenue_percentage": 79.2,
+    "personnel_expense_percentage_rcl": 52.0
+  },
+  "per_capita_breakdown": {
+    "health": 1167.7,
+    "education": 1590.0,
+    "urbanism": 640.1,
+    "administration": 406.4,
+    "legislative": 122.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4203.3,
+      "health_per_capita": 910.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4514.6,
+      "health_per_capita": 980.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4826.0,
+      "health_per_capita": 1050.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5085.4,
+      "health_per_capita": 1121.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5189.2,
+      "health_per_capita": 1167.7
+    }
+  ]
+}

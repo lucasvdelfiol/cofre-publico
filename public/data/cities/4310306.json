@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4310306",
+  "city_name": "Ilópolis",
+  "uf": "RS",
+  "population": 4157,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 22453075.55,
+    "total_expense": 22648667.41,
+    "own_revenue_percentage": 8.7,
+    "transfers_revenue_percentage": 91.3,
+    "personnel_expense_percentage_rcl": 49.8
+  },
+  "per_capita_breakdown": {
+    "health": 1349.4,
+    "education": 1619.7,
+    "urbanism": 499.0,
+    "administration": 409.0,
+    "legislative": 129.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4413.1,
+      "health_per_capita": 1052.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4740.0,
+      "health_per_capita": 1133.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5066.9,
+      "health_per_capita": 1214.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5339.3,
+      "health_per_capita": 1295.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5448.3,
+      "health_per_capita": 1349.4
+    }
+  ]
+}

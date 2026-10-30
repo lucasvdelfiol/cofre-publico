@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3533403",
+  "city_name": "Nova Odessa",
+  "uf": "SP",
+  "population": 62019,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 327338702.84,
+    "total_expense": 321885778.35,
+    "own_revenue_percentage": 32.4,
+    "transfers_revenue_percentage": 67.6,
+    "personnel_expense_percentage_rcl": 46.9
+  },
+  "per_capita_breakdown": {
+    "health": 1174.6,
+    "education": 1647.2,
+    "urbanism": 628.2,
+    "administration": 359.7,
+    "legislative": 78.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4204.0,
+      "health_per_capita": 916.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4515.4,
+      "health_per_capita": 986.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4826.8,
+      "health_per_capita": 1057.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5086.3,
+      "health_per_capita": 1127.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5190.1,
+      "health_per_capita": 1174.6
+    }
+  ]
+}

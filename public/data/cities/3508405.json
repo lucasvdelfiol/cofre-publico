@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3508405",
+  "city_name": "Cabreúva",
+  "uf": "SP",
+  "population": 47011,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 192432939.74,
+    "total_expense": 193002309.89,
+    "own_revenue_percentage": 29.7,
+    "transfers_revenue_percentage": 70.3,
+    "personnel_expense_percentage_rcl": 47.7
+  },
+  "per_capita_breakdown": {
+    "health": 946.9,
+    "education": 1289.1,
+    "urbanism": 653.1,
+    "administration": 381.7,
+    "legislative": 126.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3325.5,
+      "health_per_capita": 738.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3571.8,
+      "health_per_capita": 795.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3818.1,
+      "health_per_capita": 852.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4023.4,
+      "health_per_capita": 909.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4105.5,
+      "health_per_capita": 946.9
+    }
+  ]
+}

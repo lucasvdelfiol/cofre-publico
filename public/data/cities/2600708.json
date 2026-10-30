@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2600708",
+  "city_name": "Aliança",
+  "uf": "PE",
+  "population": 35741,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 160834632.07,
+    "total_expense": 155799513.52,
+    "own_revenue_percentage": 29.0,
+    "transfers_revenue_percentage": 71.0,
+    "personnel_expense_percentage_rcl": 51.7
+  },
+  "per_capita_breakdown": {
+    "health": 1089.5,
+    "education": 1346.6,
+    "urbanism": 589.2,
+    "administration": 492.3,
+    "legislative": 110.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3530.9,
+      "health_per_capita": 849.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3792.4,
+      "health_per_capita": 915.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4054.0,
+      "health_per_capita": 980.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4271.9,
+      "health_per_capita": 1045.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4359.1,
+      "health_per_capita": 1089.5
+    }
+  ]
+}

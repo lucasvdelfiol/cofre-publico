@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2510105",
+  "city_name": "Nova Floresta",
+  "uf": "PB",
+  "population": 9724,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 52185061.7,
+    "total_expense": 51746549.67,
+    "own_revenue_percentage": 11.7,
+    "transfers_revenue_percentage": 88.3,
+    "personnel_expense_percentage_rcl": 52.2
+  },
+  "per_capita_breakdown": {
+    "health": 1165.9,
+    "education": 1509.0,
+    "urbanism": 491.7,
+    "administration": 427.8,
+    "legislative": 116.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4310.4,
+      "health_per_capita": 909.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4629.7,
+      "health_per_capita": 979.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4949.0,
+      "health_per_capita": 1049.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5215.1,
+      "health_per_capita": 1119.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5321.5,
+      "health_per_capita": 1165.9
+    }
+  ]
+}

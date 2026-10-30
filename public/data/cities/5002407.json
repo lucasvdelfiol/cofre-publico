@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5002407",
+  "city_name": "Caarapó",
+  "uf": "MS",
+  "population": 30612,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 142141600.63,
+    "total_expense": 140635970.85,
+    "own_revenue_percentage": 30.6,
+    "transfers_revenue_percentage": 69.4,
+    "personnel_expense_percentage_rcl": 49.4
+  },
+  "per_capita_breakdown": {
+    "health": 1214.6,
+    "education": 1314.1,
+    "urbanism": 701.0,
+    "administration": 440.0,
+    "legislative": 101.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3721.2,
+      "health_per_capita": 947.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3996.9,
+      "health_per_capita": 1020.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4272.5,
+      "health_per_capita": 1093.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4502.2,
+      "health_per_capita": 1166.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4594.1,
+      "health_per_capita": 1214.6
+    }
+  ]
+}

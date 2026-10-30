@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3136405",
+  "city_name": "Joaquim Felício",
+  "uf": "MG",
+  "population": 3854,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 20622652.18,
+    "total_expense": 20291495.75,
+    "own_revenue_percentage": 19.7,
+    "transfers_revenue_percentage": 80.3,
+    "personnel_expense_percentage_rcl": 49.1
+  },
+  "per_capita_breakdown": {
+    "health": 1295.3,
+    "education": 1312.2,
+    "urbanism": 487.8,
+    "administration": 497.1,
+    "legislative": 144.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4264.7,
+      "health_per_capita": 1010.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4580.6,
+      "health_per_capita": 1088.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4896.4,
+      "health_per_capita": 1165.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5159.7,
+      "health_per_capita": 1243.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5265.0,
+      "health_per_capita": 1295.3
+    }
+  ]
+}

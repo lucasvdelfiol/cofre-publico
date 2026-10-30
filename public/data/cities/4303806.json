@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4303806",
+  "city_name": "Campinas do Sul",
+  "uf": "RS",
+  "population": 5284,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 28571686.85,
+    "total_expense": 27724874.08,
+    "own_revenue_percentage": 19.5,
+    "transfers_revenue_percentage": 80.5,
+    "personnel_expense_percentage_rcl": 46.2
+  },
+  "per_capita_breakdown": {
+    "health": 1456.3,
+    "education": 1664.8,
+    "urbanism": 810.8,
+    "administration": 465.1,
+    "legislative": 151.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4250.0,
+      "health_per_capita": 1135.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4564.8,
+      "health_per_capita": 1223.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4879.6,
+      "health_per_capita": 1310.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5142.0,
+      "health_per_capita": 1398.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5246.9,
+      "health_per_capita": 1456.3
+    }
+  ]
+}

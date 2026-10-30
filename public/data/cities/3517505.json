@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3517505",
+  "city_name": "Guapiaçu",
+  "uf": "SP",
+  "population": 21711,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 106757616.95,
+    "total_expense": 104615231.23,
+    "own_revenue_percentage": 28.1,
+    "transfers_revenue_percentage": 71.9,
+    "personnel_expense_percentage_rcl": 46.6
+  },
+  "per_capita_breakdown": {
+    "health": 988.0,
+    "education": 1309.8,
+    "urbanism": 633.4,
+    "administration": 374.1,
+    "legislative": 155.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3903.0,
+      "health_per_capita": 770.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4192.1,
+      "health_per_capita": 829.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4481.2,
+      "health_per_capita": 889.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4722.1,
+      "health_per_capita": 948.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4818.5,
+      "health_per_capita": 988.0
+    }
+  ]
+}

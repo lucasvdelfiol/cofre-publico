@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2913457",
+  "city_name": "Igrapiúna",
+  "uf": "BA",
+  "population": 13151,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 64150881.4,
+    "total_expense": 63216073.5,
+    "own_revenue_percentage": 20.2,
+    "transfers_revenue_percentage": 79.8,
+    "personnel_expense_percentage_rcl": 46.1
+  },
+  "per_capita_breakdown": {
+    "health": 1108.4,
+    "education": 1169.6,
+    "urbanism": 477.2,
+    "administration": 323.4,
+    "legislative": 121.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3893.6,
+      "health_per_capita": 864.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4182.0,
+      "health_per_capita": 931.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4470.4,
+      "health_per_capita": 997.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4710.8,
+      "health_per_capita": 1064.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4806.9,
+      "health_per_capita": 1108.4
+    }
+  ]
+}

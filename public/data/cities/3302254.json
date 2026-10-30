@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3302254",
+  "city_name": "Itatiaia",
+  "uf": "RJ",
+  "population": 30908,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 137927832.98,
+    "total_expense": 137583838.04,
+    "own_revenue_percentage": 25.9,
+    "transfers_revenue_percentage": 74.1,
+    "personnel_expense_percentage_rcl": 48.5
+  },
+  "per_capita_breakdown": {
+    "health": 1026.0,
+    "education": 1344.7,
+    "urbanism": 407.6,
+    "administration": 329.9,
+    "legislative": 135.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3605.6,
+      "health_per_capita": 800.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3872.7,
+      "health_per_capita": 861.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4139.8,
+      "health_per_capita": 923.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4362.4,
+      "health_per_capita": 985.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4451.4,
+      "health_per_capita": 1026.0
+    }
+  ]
+}

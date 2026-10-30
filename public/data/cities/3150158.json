@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3150158",
+  "city_name": "Piedade de Caratinga",
+  "uf": "MG",
+  "population": 8529,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 43088290.94,
+    "total_expense": 42128169.09,
+    "own_revenue_percentage": 18.5,
+    "transfers_revenue_percentage": 81.5,
+    "personnel_expense_percentage_rcl": 53.3
+  },
+  "per_capita_breakdown": {
+    "health": 1318.5,
+    "education": 1271.5,
+    "urbanism": 451.5,
+    "administration": 515.9,
+    "legislative": 125.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4000.9,
+      "health_per_capita": 1028.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4297.3,
+      "health_per_capita": 1107.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4593.6,
+      "health_per_capita": 1186.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4840.6,
+      "health_per_capita": 1265.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4939.4,
+      "health_per_capita": 1318.5
+    }
+  ]
+}

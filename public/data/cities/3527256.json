@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3527256",
+  "city_name": "Lourdes",
+  "uf": "SP",
+  "population": 1950,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 8410140.47,
+    "total_expense": 8431398.22,
+    "own_revenue_percentage": 14.1,
+    "transfers_revenue_percentage": 85.9,
+    "personnel_expense_percentage_rcl": 50.1
+  },
+  "per_capita_breakdown": {
+    "health": 1022.5,
+    "education": 1195.2,
+    "urbanism": 680.6,
+    "administration": 343.6,
+    "legislative": 113.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3502.3,
+      "health_per_capita": 797.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3761.7,
+      "health_per_capita": 858.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4021.1,
+      "health_per_capita": 920.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4237.3,
+      "health_per_capita": 981.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4323.8,
+      "health_per_capita": 1022.5
+    }
+  ]
+}

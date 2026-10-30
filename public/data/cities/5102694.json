@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5102694",
+  "city_name": "Canabrava do Norte",
+  "uf": "MT",
+  "population": 4485,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 20749155.56,
+    "total_expense": 20272557.06,
+    "own_revenue_percentage": 19.8,
+    "transfers_revenue_percentage": 80.2,
+    "personnel_expense_percentage_rcl": 47.8
+  },
+  "per_capita_breakdown": {
+    "health": 1074.1,
+    "education": 1152.1,
+    "urbanism": 385.9,
+    "administration": 401.1,
+    "legislative": 117.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3661.3,
+      "health_per_capita": 837.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3932.5,
+      "health_per_capita": 902.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4203.7,
+      "health_per_capita": 966.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4429.7,
+      "health_per_capita": 1031.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4520.1,
+      "health_per_capita": 1074.1
+    }
+  ]
+}

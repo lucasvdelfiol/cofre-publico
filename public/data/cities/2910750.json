@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2910750",
+  "city_name": "Fátima",
+  "uf": "BA",
+  "population": 17895,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 94084954.88,
+    "total_expense": 91017222.14,
+    "own_revenue_percentage": 18.0,
+    "transfers_revenue_percentage": 82.0,
+    "personnel_expense_percentage_rcl": 48.7
+  },
+  "per_capita_breakdown": {
+    "health": 1309.8,
+    "education": 1507.4,
+    "urbanism": 636.9,
+    "administration": 392.8,
+    "legislative": 89.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4119.8,
+      "health_per_capita": 1021.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4425.0,
+      "health_per_capita": 1100.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4730.2,
+      "health_per_capita": 1178.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4984.5,
+      "health_per_capita": 1257.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5086.2,
+      "health_per_capita": 1309.8
+    }
+  ]
+}

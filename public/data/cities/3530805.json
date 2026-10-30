@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3530805",
+  "city_name": "Mogi Mirim",
+  "uf": "SP",
+  "population": 92558,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 400223063.14,
+    "total_expense": 402942206.61,
+    "own_revenue_percentage": 32.1,
+    "transfers_revenue_percentage": 67.9,
+    "personnel_expense_percentage_rcl": 47.9
+  },
+  "per_capita_breakdown": {
+    "health": 1070.1,
+    "education": 1245.6,
+    "urbanism": 523.5,
+    "administration": 388.1,
+    "legislative": 102.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3526.3,
+      "health_per_capita": 834.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3787.5,
+      "health_per_capita": 898.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4048.7,
+      "health_per_capita": 963.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4266.3,
+      "health_per_capita": 1027.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4353.4,
+      "health_per_capita": 1070.1
+    }
+  ]
+}

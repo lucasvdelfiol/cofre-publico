@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2201739",
+  "city_name": "Betânia do Piauí",
+  "uf": "PI",
+  "population": 6220,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 34235215.43,
+    "total_expense": 34357216.89,
+    "own_revenue_percentage": 22.0,
+    "transfers_revenue_percentage": 78.0,
+    "personnel_expense_percentage_rcl": 53.8
+  },
+  "per_capita_breakdown": {
+    "health": 1465.5,
+    "education": 1704.4,
+    "urbanism": 499.0,
+    "administration": 531.5,
+    "legislative": 114.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4474.2,
+      "health_per_capita": 1143.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4805.6,
+      "health_per_capita": 1231.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5137.0,
+      "health_per_capita": 1319.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5413.2,
+      "health_per_capita": 1406.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5523.7,
+      "health_per_capita": 1465.5
+    }
+  ]
+}

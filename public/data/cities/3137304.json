@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3137304",
+  "city_name": "Lagoa dos Patos",
+  "uf": "MG",
+  "population": 3313,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 18364038.39,
+    "total_expense": 18084982.56,
+    "own_revenue_percentage": 18.0,
+    "transfers_revenue_percentage": 82.0,
+    "personnel_expense_percentage_rcl": 50.6
+  },
+  "per_capita_breakdown": {
+    "health": 1482.8,
+    "education": 1507.7,
+    "urbanism": 531.3,
+    "administration": 615.4,
+    "legislative": 108.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4421.6,
+      "health_per_capita": 1156.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4749.2,
+      "health_per_capita": 1245.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5076.7,
+      "health_per_capita": 1334.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5349.6,
+      "health_per_capita": 1423.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5458.8,
+      "health_per_capita": 1482.8
+    }
+  ]
+}

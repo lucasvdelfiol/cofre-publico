@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5105101",
+  "city_name": "Juara",
+  "uf": "MT",
+  "population": 34906,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 155479251.41,
+    "total_expense": 154739255.47,
+    "own_revenue_percentage": 24.5,
+    "transfers_revenue_percentage": 75.5,
+    "personnel_expense_percentage_rcl": 46.6
+  },
+  "per_capita_breakdown": {
+    "health": 1202.1,
+    "education": 1328.8,
+    "urbanism": 474.3,
+    "administration": 481.8,
+    "legislative": 98.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3590.7,
+      "health_per_capita": 937.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3856.7,
+      "health_per_capita": 1009.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4122.7,
+      "health_per_capita": 1081.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4344.3,
+      "health_per_capita": 1154.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4433.0,
+      "health_per_capita": 1202.1
+    }
+  ]
+}

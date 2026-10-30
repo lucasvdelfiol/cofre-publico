@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2921708",
+  "city_name": "Morro do Chapéu",
+  "uf": "BA",
+  "population": 33594,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 146122572.11,
+    "total_expense": 144052535.78,
+    "own_revenue_percentage": 27.3,
+    "transfers_revenue_percentage": 72.7,
+    "personnel_expense_percentage_rcl": 51.3
+  },
+  "per_capita_breakdown": {
+    "health": 938.2,
+    "education": 1280.9,
+    "urbanism": 460.4,
+    "administration": 319.2,
+    "legislative": 72.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3473.3,
+      "health_per_capita": 731.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3730.6,
+      "health_per_capita": 788.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3987.8,
+      "health_per_capita": 844.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4202.2,
+      "health_per_capita": 900.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4288.0,
+      "health_per_capita": 938.2
+    }
+  ]
+}

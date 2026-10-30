@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2406403",
+  "city_name": "Lagoa de Velhos",
+  "uf": "RN",
+  "population": 2567,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 13495492.82,
+    "total_expense": 13006960.57,
+    "own_revenue_percentage": 9.1,
+    "transfers_revenue_percentage": 90.9,
+    "personnel_expense_percentage_rcl": 49.3
+  },
+  "per_capita_breakdown": {
+    "health": 1333.7,
+    "education": 1466.8,
+    "urbanism": 428.5,
+    "administration": 365.3,
+    "legislative": 146.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4104.3,
+      "health_per_capita": 1040.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4408.3,
+      "health_per_capita": 1120.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4712.3,
+      "health_per_capita": 1200.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4965.7,
+      "health_per_capita": 1280.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5067.0,
+      "health_per_capita": 1333.7
+    }
+  ]
+}

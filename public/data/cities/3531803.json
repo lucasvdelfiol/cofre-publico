@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3531803",
+  "city_name": "Monte Mor",
+  "uf": "SP",
+  "population": 64662,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 308689219.05,
+    "total_expense": 306951183.2,
+    "own_revenue_percentage": 28.8,
+    "transfers_revenue_percentage": 71.2,
+    "personnel_expense_percentage_rcl": 45.6
+  },
+  "per_capita_breakdown": {
+    "health": 1084.0,
+    "education": 1145.7,
+    "urbanism": 720.7,
+    "administration": 425.7,
+    "legislative": 158.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3845.1,
+      "health_per_capita": 845.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4129.9,
+      "health_per_capita": 910.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4414.7,
+      "health_per_capita": 975.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4652.1,
+      "health_per_capita": 1040.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4747.0,
+      "health_per_capita": 1084.0
+    }
+  ]
+}

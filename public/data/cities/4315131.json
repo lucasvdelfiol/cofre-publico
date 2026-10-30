@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4315131",
+  "city_name": "Pouso Novo",
+  "uf": "RS",
+  "population": 1739,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 9255050.24,
+    "total_expense": 8906402.65,
+    "own_revenue_percentage": 17.1,
+    "transfers_revenue_percentage": 82.9,
+    "personnel_expense_percentage_rcl": 52.1
+  },
+  "per_capita_breakdown": {
+    "health": 1209.7,
+    "education": 1244.7,
+    "urbanism": 485.3,
+    "administration": 369.8,
+    "legislative": 170.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4148.5,
+      "health_per_capita": 943.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4455.8,
+      "health_per_capita": 1016.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4763.1,
+      "health_per_capita": 1088.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5019.2,
+      "health_per_capita": 1161.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5121.6,
+      "health_per_capita": 1209.7
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2107209",
+  "city_name": "Nina Rodrigues",
+  "uf": "MA",
+  "population": 14176,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 64126418.39,
+    "total_expense": 62701436.33,
+    "own_revenue_percentage": 19.7,
+    "transfers_revenue_percentage": 80.3,
+    "personnel_expense_percentage_rcl": 46.3
+  },
+  "per_capita_breakdown": {
+    "health": 942.1,
+    "education": 1302.7,
+    "urbanism": 626.7,
+    "administration": 345.7,
+    "legislative": 102.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3582.7,
+      "health_per_capita": 734.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3848.1,
+      "health_per_capita": 791.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4113.5,
+      "health_per_capita": 847.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4334.6,
+      "health_per_capita": 904.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4423.1,
+      "health_per_capita": 942.1
+    }
+  ]
+}

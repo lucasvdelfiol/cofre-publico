@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4110805",
+  "city_name": "Iretama",
+  "uf": "PR",
+  "population": 10684,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 51277597.97,
+    "total_expense": 50100427.75,
+    "own_revenue_percentage": 10.1,
+    "transfers_revenue_percentage": 89.9,
+    "personnel_expense_percentage_rcl": 46.8
+  },
+  "per_capita_breakdown": {
+    "health": 1199.6,
+    "education": 1400.9,
+    "urbanism": 531.8,
+    "administration": 387.9,
+    "legislative": 90.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3798.3,
+      "health_per_capita": 935.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4079.7,
+      "health_per_capita": 1007.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4361.0,
+      "health_per_capita": 1079.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4595.5,
+      "health_per_capita": 1151.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4689.3,
+      "health_per_capita": 1199.6
+    }
+  ]
+}

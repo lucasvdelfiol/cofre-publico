@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2607505",
+  "city_name": "Itaíba",
+  "uf": "PE",
+  "population": 32650,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 155601489.64,
+    "total_expense": 153927433.92,
+    "own_revenue_percentage": 25.6,
+    "transfers_revenue_percentage": 74.4,
+    "personnel_expense_percentage_rcl": 49.8
+  },
+  "per_capita_breakdown": {
+    "health": 1224.8,
+    "education": 1346.7,
+    "urbanism": 407.2,
+    "administration": 500.6,
+    "legislative": 99.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3818.7,
+      "health_per_capita": 955.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4101.6,
+      "health_per_capita": 1028.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4384.5,
+      "health_per_capita": 1102.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4620.2,
+      "health_per_capita": 1175.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4714.5,
+      "health_per_capita": 1224.8
+    }
+  ]
+}

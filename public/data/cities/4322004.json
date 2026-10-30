@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4322004",
+  "city_name": "Triunfo",
+  "uf": "RS",
+  "population": 27498,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 130648456.8,
+    "total_expense": 129030846.3,
+    "own_revenue_percentage": 19.1,
+    "transfers_revenue_percentage": 80.9,
+    "personnel_expense_percentage_rcl": 49.9
+  },
+  "per_capita_breakdown": {
+    "health": 1017.0,
+    "education": 1304.8,
+    "urbanism": 522.0,
+    "administration": 478.1,
+    "legislative": 115.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3800.8,
+      "health_per_capita": 793.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4082.4,
+      "health_per_capita": 854.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4363.9,
+      "health_per_capita": 915.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4598.6,
+      "health_per_capita": 976.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4692.4,
+      "health_per_capita": 1017.0
+    }
+  ]
+}

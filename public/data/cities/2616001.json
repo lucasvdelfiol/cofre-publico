@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2616001",
+  "city_name": "Venturosa",
+  "uf": "PE",
+  "population": 17251,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 78633077.64,
+    "total_expense": 77685219.47,
+    "own_revenue_percentage": 8.7,
+    "transfers_revenue_percentage": 91.3,
+    "personnel_expense_percentage_rcl": 47.2
+  },
+  "per_capita_breakdown": {
+    "health": 1168.8,
+    "education": 1381.4,
+    "urbanism": 564.0,
+    "administration": 342.5,
+    "legislative": 147.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3647.6,
+      "health_per_capita": 911.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3917.8,
+      "health_per_capita": 981.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4188.0,
+      "health_per_capita": 1051.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4413.1,
+      "health_per_capita": 1122.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4503.2,
+      "health_per_capita": 1168.8
+    }
+  ]
+}

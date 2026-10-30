@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4218855",
+  "city_name": "União do Oeste",
+  "uf": "SC",
+  "population": 2774,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 14084390.9,
+    "total_expense": 14151338.5,
+    "own_revenue_percentage": 12.4,
+    "transfers_revenue_percentage": 87.6,
+    "personnel_expense_percentage_rcl": 49.6
+  },
+  "per_capita_breakdown": {
+    "health": 1341.4,
+    "education": 1362.1,
+    "urbanism": 757.3,
+    "administration": 581.7,
+    "legislative": 81.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4132.1,
+      "health_per_capita": 1046.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4438.2,
+      "health_per_capita": 1126.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4744.3,
+      "health_per_capita": 1207.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4999.4,
+      "health_per_capita": 1287.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5101.4,
+      "health_per_capita": 1341.4
+    }
+  ]
+}

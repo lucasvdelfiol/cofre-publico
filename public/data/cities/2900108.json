@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2900108",
+  "city_name": "Abaíra",
+  "uf": "BA",
+  "population": 7301,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 35181422.44,
+    "total_expense": 35111839.88,
+    "own_revenue_percentage": 13.4,
+    "transfers_revenue_percentage": 86.6,
+    "personnel_expense_percentage_rcl": 47.5
+  },
+  "per_capita_breakdown": {
+    "health": 1050.8,
+    "education": 1391.2,
+    "urbanism": 730.8,
+    "administration": 394.6,
+    "legislative": 122.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3895.5,
+      "health_per_capita": 819.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4184.0,
+      "health_per_capita": 882.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4472.6,
+      "health_per_capita": 945.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4713.0,
+      "health_per_capita": 1008.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4809.2,
+      "health_per_capita": 1050.8
+    }
+  ]
+}

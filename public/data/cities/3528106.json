@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3528106",
+  "city_name": "Macaubal",
+  "uf": "SP",
+  "population": 7481,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 33780844.9,
+    "total_expense": 32643002.01,
+    "own_revenue_percentage": 8.7,
+    "transfers_revenue_percentage": 91.3,
+    "personnel_expense_percentage_rcl": 49.2
+  },
+  "per_capita_breakdown": {
+    "health": 970.6,
+    "education": 1232.2,
+    "urbanism": 351.9,
+    "administration": 450.8,
+    "legislative": 78.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3534.4,
+      "health_per_capita": 757.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3796.2,
+      "health_per_capita": 815.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4058.1,
+      "health_per_capita": 873.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4276.2,
+      "health_per_capita": 931.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4363.5,
+      "health_per_capita": 970.6
+    }
+  ]
+}

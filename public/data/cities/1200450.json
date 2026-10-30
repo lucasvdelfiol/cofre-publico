@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1200450",
+  "city_name": "Senador Guiomard",
+  "uf": "AC",
+  "population": 21454,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 103676208.52,
+    "total_expense": 101798598.65,
+    "own_revenue_percentage": 22.4,
+    "transfers_revenue_percentage": 77.6,
+    "personnel_expense_percentage_rcl": 46.0
+  },
+  "per_capita_breakdown": {
+    "health": 1090.7,
+    "education": 1216.5,
+    "urbanism": 546.8,
+    "administration": 350.8,
+    "legislative": 88.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3843.5,
+      "health_per_capita": 850.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4128.1,
+      "health_per_capita": 916.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4412.9,
+      "health_per_capita": 981.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4650.1,
+      "health_per_capita": 1047.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4745.0,
+      "health_per_capita": 1090.7
+    }
+  ]
+}

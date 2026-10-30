@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4213708",
+  "city_name": "Pouso Redondo",
+  "uf": "SC",
+  "population": 17123,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 75843936.8,
+    "total_expense": 76231550.72,
+    "own_revenue_percentage": 10.4,
+    "transfers_revenue_percentage": 89.6,
+    "personnel_expense_percentage_rcl": 51.8
+  },
+  "per_capita_breakdown": {
+    "health": 1243.9,
+    "education": 1071.7,
+    "urbanism": 449.5,
+    "administration": 381.9,
+    "legislative": 132.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3606.1,
+      "health_per_capita": 970.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3873.2,
+      "health_per_capita": 1044.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4140.4,
+      "health_per_capita": 1119.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4363.0,
+      "health_per_capita": 1194.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4452.0,
+      "health_per_capita": 1243.9
+    }
+  ]
+}

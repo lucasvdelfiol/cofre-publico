@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5221858",
+  "city_name": "Valparaíso de Goiás",
+  "uf": "GO",
+  "population": 198861,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 943191593.06,
+    "total_expense": 945549138.42,
+    "own_revenue_percentage": 42.8,
+    "transfers_revenue_percentage": 57.2,
+    "personnel_expense_percentage_rcl": 51.1
+  },
+  "per_capita_breakdown": {
+    "health": 1157.3,
+    "education": 1347.8,
+    "urbanism": 530.4,
+    "administration": 377.8,
+    "legislative": 149.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3851.4,
+      "health_per_capita": 902.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4136.7,
+      "health_per_capita": 972.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4422.0,
+      "health_per_capita": 1041.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4659.7,
+      "health_per_capita": 1111.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4754.8,
+      "health_per_capita": 1157.3
+    }
+  ]
+}

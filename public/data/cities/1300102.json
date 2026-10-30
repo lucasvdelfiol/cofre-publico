@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1300102",
+  "city_name": "Anori",
+  "uf": "AM",
+  "population": 17194,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 83289065.74,
+    "total_expense": 81644114.87,
+    "own_revenue_percentage": 17.2,
+    "transfers_revenue_percentage": 82.8,
+    "personnel_expense_percentage_rcl": 48.2
+  },
+  "per_capita_breakdown": {
+    "health": 1127.2,
+    "education": 1309.4,
+    "urbanism": 491.1,
+    "administration": 520.4,
+    "legislative": 163.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3846.2,
+      "health_per_capita": 879.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4131.1,
+      "health_per_capita": 946.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4416.0,
+      "health_per_capita": 1014.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4653.4,
+      "health_per_capita": 1082.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4748.4,
+      "health_per_capita": 1127.2
+    }
+  ]
+}

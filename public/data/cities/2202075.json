@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2202075",
+  "city_name": "Cajazeiras do Piauí",
+  "uf": "PI",
+  "population": 3108,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 15014445.7,
+    "total_expense": 14963346.25,
+    "own_revenue_percentage": 12.0,
+    "transfers_revenue_percentage": 88.0,
+    "personnel_expense_percentage_rcl": 51.6
+  },
+  "per_capita_breakdown": {
+    "health": 1184.0,
+    "education": 1505.3,
+    "urbanism": 578.0,
+    "administration": 446.9,
+    "legislative": 157.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3899.7,
+      "health_per_capita": 923.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4188.6,
+      "health_per_capita": 994.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4477.5,
+      "health_per_capita": 1065.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4718.2,
+      "health_per_capita": 1136.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4814.5,
+      "health_per_capita": 1184.0
+    }
+  ]
+}

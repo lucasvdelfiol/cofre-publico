@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3552809",
+  "city_name": "Taboão da Serra",
+  "uf": "SP",
+  "population": 273542,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 1494573793.22,
+    "total_expense": 1470177693.94,
+    "own_revenue_percentage": 40.4,
+    "transfers_revenue_percentage": 59.6,
+    "personnel_expense_percentage_rcl": 45.9
+  },
+  "per_capita_breakdown": {
+    "health": 1101.2,
+    "education": 1329.7,
+    "urbanism": 459.0,
+    "administration": 453.4,
+    "legislative": 156.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4353.4,
+      "health_per_capita": 858.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4675.9,
+      "health_per_capita": 925.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4998.4,
+      "health_per_capita": 991.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5267.1,
+      "health_per_capita": 1057.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5374.6,
+      "health_per_capita": 1101.2
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3129657",
+  "city_name": "Ibiracatu",
+  "uf": "MG",
+  "population": 5081,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 22774071.63,
+    "total_expense": 22686337.0,
+    "own_revenue_percentage": 12.9,
+    "transfers_revenue_percentage": 87.1,
+    "personnel_expense_percentage_rcl": 49.6
+  },
+  "per_capita_breakdown": {
+    "health": 963.5,
+    "education": 1154.2,
+    "urbanism": 459.0,
+    "administration": 364.8,
+    "legislative": 106.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3616.6,
+      "health_per_capita": 751.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3884.5,
+      "health_per_capita": 809.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4152.4,
+      "health_per_capita": 867.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4375.6,
+      "health_per_capita": 925.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4464.9,
+      "health_per_capita": 963.5
+    }
+  ]
+}

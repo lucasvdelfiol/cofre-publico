@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2922250",
+  "city_name": "Muquém do São Francisco",
+  "uf": "BA",
+  "population": 10443,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 57517364.19,
+    "total_expense": 56034958.76,
+    "own_revenue_percentage": 20.6,
+    "transfers_revenue_percentage": 79.4,
+    "personnel_expense_percentage_rcl": 45.9
+  },
+  "per_capita_breakdown": {
+    "health": 1411.4,
+    "education": 1479.3,
+    "urbanism": 781.2,
+    "administration": 452.7,
+    "legislative": 142.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4346.3,
+      "health_per_capita": 1100.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4668.2,
+      "health_per_capita": 1185.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4990.2,
+      "health_per_capita": 1270.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5258.5,
+      "health_per_capita": 1354.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5365.8,
+      "health_per_capita": 1411.4
+    }
+  ]
+}

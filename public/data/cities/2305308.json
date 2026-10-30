@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2305308",
+  "city_name": "Ibiapina",
+  "uf": "CE",
+  "population": 23965,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 101899967.2,
+    "total_expense": 99839564.15,
+    "own_revenue_percentage": 19.1,
+    "transfers_revenue_percentage": 80.9,
+    "personnel_expense_percentage_rcl": 49.5
+  },
+  "per_capita_breakdown": {
+    "health": 959.5,
+    "education": 1203.5,
+    "urbanism": 652.0,
+    "administration": 272.7,
+    "legislative": 104.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3374.5,
+      "health_per_capita": 748.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3624.5,
+      "health_per_capita": 806.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3874.5,
+      "health_per_capita": 863.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4082.8,
+      "health_per_capita": 921.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4166.1,
+      "health_per_capita": 959.5
+    }
+  ]
+}

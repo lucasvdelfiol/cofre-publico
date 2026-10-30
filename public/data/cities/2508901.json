@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2508901",
+  "city_name": "Mamanguape",
+  "uf": "PB",
+  "population": 44599,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 213807579.43,
+    "total_expense": 213379795.15,
+    "own_revenue_percentage": 25.7,
+    "transfers_revenue_percentage": 74.3,
+    "personnel_expense_percentage_rcl": 51.9
+  },
+  "per_capita_breakdown": {
+    "health": 1235.2,
+    "education": 1400.4,
+    "urbanism": 473.1,
+    "administration": 453.9,
+    "legislative": 85.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3875.4,
+      "health_per_capita": 963.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4162.4,
+      "health_per_capita": 1037.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4449.5,
+      "health_per_capita": 1111.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4688.7,
+      "health_per_capita": 1185.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4784.4,
+      "health_per_capita": 1235.2
+    }
+  ]
+}

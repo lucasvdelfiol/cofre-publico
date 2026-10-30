@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3169604",
+  "city_name": "Tupaciguara",
+  "uf": "MG",
+  "population": 25470,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 127571147.5,
+    "total_expense": 123238787.52,
+    "own_revenue_percentage": 25.5,
+    "transfers_revenue_percentage": 74.5,
+    "personnel_expense_percentage_rcl": 46.3
+  },
+  "per_capita_breakdown": {
+    "health": 1115.9,
+    "education": 1465.7,
+    "urbanism": 746.6,
+    "administration": 373.8,
+    "legislative": 128.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3919.3,
+      "health_per_capita": 870.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4209.6,
+      "health_per_capita": 937.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4499.9,
+      "health_per_capita": 1004.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4741.8,
+      "health_per_capita": 1071.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4838.6,
+      "health_per_capita": 1115.9
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1707207",
+  "city_name": "Dois Irmãos do Tocantins",
+  "uf": "TO",
+  "population": 6327,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 30179209.37,
+    "total_expense": 30136041.23,
+    "own_revenue_percentage": 12.2,
+    "transfers_revenue_percentage": 87.8,
+    "personnel_expense_percentage_rcl": 49.9
+  },
+  "per_capita_breakdown": {
+    "health": 1148.1,
+    "education": 1315.6,
+    "urbanism": 594.4,
+    "administration": 407.3,
+    "legislative": 165.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3858.1,
+      "health_per_capita": 895.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4143.9,
+      "health_per_capita": 964.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4429.7,
+      "health_per_capita": 1033.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4667.8,
+      "health_per_capita": 1102.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4763.1,
+      "health_per_capita": 1148.1
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3120201",
+  "city_name": "Cristais",
+  "uf": "MG",
+  "population": 12197,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 54584820.51,
+    "total_expense": 52534178.74,
+    "own_revenue_percentage": 19.6,
+    "transfers_revenue_percentage": 80.4,
+    "personnel_expense_percentage_rcl": 53.3
+  },
+  "per_capita_breakdown": {
+    "health": 1031.4,
+    "education": 1236.7,
+    "urbanism": 661.1,
+    "administration": 282.9,
+    "legislative": 139.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3488.8,
+      "health_per_capita": 804.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3747.2,
+      "health_per_capita": 866.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4005.6,
+      "health_per_capita": 928.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4221.0,
+      "health_per_capita": 990.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4307.1,
+      "health_per_capita": 1031.4
+    }
+  ]
+}

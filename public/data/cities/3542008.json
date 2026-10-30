@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3542008",
+  "city_name": "Quintana",
+  "uf": "SP",
+  "population": 7038,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 33963795.6,
+    "total_expense": 33691472.95,
+    "own_revenue_percentage": 11.0,
+    "transfers_revenue_percentage": 89.0,
+    "personnel_expense_percentage_rcl": 47.4
+  },
+  "per_capita_breakdown": {
+    "health": 1183.6,
+    "education": 1453.1,
+    "urbanism": 552.6,
+    "administration": 533.4,
+    "legislative": 92.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3877.6,
+      "health_per_capita": 923.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4164.8,
+      "health_per_capita": 994.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4452.0,
+      "health_per_capita": 1065.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4691.4,
+      "health_per_capita": 1136.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4787.1,
+      "health_per_capita": 1183.6
+    }
+  ]
+}

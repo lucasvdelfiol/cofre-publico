@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2509156",
+  "city_name": "Marizópolis",
+  "uf": "PB",
+  "population": 6705,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 33170483.27,
+    "total_expense": 32659775.1,
+    "own_revenue_percentage": 10.4,
+    "transfers_revenue_percentage": 89.6,
+    "personnel_expense_percentage_rcl": 52.6
+  },
+  "per_capita_breakdown": {
+    "health": 1221.3,
+    "education": 1439.5,
+    "urbanism": 403.1,
+    "administration": 390.1,
+    "legislative": 119.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3945.5,
+      "health_per_capita": 952.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4237.8,
+      "health_per_capita": 1025.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4530.0,
+      "health_per_capita": 1099.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4773.6,
+      "health_per_capita": 1172.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4871.0,
+      "health_per_capita": 1221.3
+    }
+  ]
+}

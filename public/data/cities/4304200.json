@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4304200",
+  "city_name": "Candelária",
+  "uf": "RS",
+  "population": 28906,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 121285163.68,
+    "total_expense": 118736312.96,
+    "own_revenue_percentage": 26.0,
+    "transfers_revenue_percentage": 74.0,
+    "personnel_expense_percentage_rcl": 49.4
+  },
+  "per_capita_breakdown": {
+    "health": 842.4,
+    "education": 1285.9,
+    "urbanism": 453.0,
+    "administration": 328.1,
+    "legislative": 137.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3327.2,
+      "health_per_capita": 657.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3573.7,
+      "health_per_capita": 707.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3820.2,
+      "health_per_capita": 758.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4025.5,
+      "health_per_capita": 808.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4107.7,
+      "health_per_capita": 842.4
+    }
+  ]
+}

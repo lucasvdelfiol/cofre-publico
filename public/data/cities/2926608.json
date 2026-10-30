@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2926608",
+  "city_name": "Ribeira do Pombal",
+  "uf": "BA",
+  "population": 54010,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 249446642.82,
+    "total_expense": 249724681.61,
+    "own_revenue_percentage": 38.9,
+    "transfers_revenue_percentage": 61.1,
+    "personnel_expense_percentage_rcl": 51.6
+  },
+  "per_capita_breakdown": {
+    "health": 1286.4,
+    "education": 1379.2,
+    "urbanism": 409.1,
+    "administration": 302.8,
+    "legislative": 119.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3745.2,
+      "health_per_capita": 1003.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4022.6,
+      "health_per_capita": 1080.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4300.0,
+      "health_per_capita": 1157.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4531.2,
+      "health_per_capita": 1234.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4623.7,
+      "health_per_capita": 1286.4
+    }
+  ]
+}

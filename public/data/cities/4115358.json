@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4115358",
+  "city_name": "Maripá",
+  "uf": "PR",
+  "population": 6555,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 29587744.53,
+    "total_expense": 28941186.16,
+    "own_revenue_percentage": 21.5,
+    "transfers_revenue_percentage": 78.5,
+    "personnel_expense_percentage_rcl": 50.1
+  },
+  "per_capita_breakdown": {
+    "health": 987.0,
+    "education": 1244.6,
+    "urbanism": 686.6,
+    "administration": 271.5,
+    "legislative": 142.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3576.2,
+      "health_per_capita": 769.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3841.1,
+      "health_per_capita": 829.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4106.0,
+      "health_per_capita": 888.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4326.8,
+      "health_per_capita": 947.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4415.1,
+      "health_per_capita": 987.0
+    }
+  ]
+}

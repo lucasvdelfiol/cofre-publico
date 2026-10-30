@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2507002",
+  "city_name": "Itaporanga",
+  "uf": "PB",
+  "population": 23940,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 103053865.46,
+    "total_expense": 103290476.53,
+    "own_revenue_percentage": 22.3,
+    "transfers_revenue_percentage": 77.7,
+    "personnel_expense_percentage_rcl": 52.7
+  },
+  "per_capita_breakdown": {
+    "health": 983.7,
+    "education": 1114.6,
+    "urbanism": 372.5,
+    "administration": 457.8,
+    "legislative": 97.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3494.8,
+      "health_per_capita": 767.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3753.7,
+      "health_per_capita": 826.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4012.6,
+      "health_per_capita": 885.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4228.3,
+      "health_per_capita": 944.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4314.6,
+      "health_per_capita": 983.7
+    }
+  ]
+}

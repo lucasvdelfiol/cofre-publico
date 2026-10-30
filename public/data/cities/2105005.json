@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2105005",
+  "city_name": "Humberto de Campos",
+  "uf": "MA",
+  "population": 25680,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 107081494.89,
+    "total_expense": 107649107.91,
+    "own_revenue_percentage": 23.4,
+    "transfers_revenue_percentage": 76.6,
+    "personnel_expense_percentage_rcl": 50.1
+  },
+  "per_capita_breakdown": {
+    "health": 1064.2,
+    "education": 1059.1,
+    "urbanism": 586.7,
+    "administration": 457.6,
+    "legislative": 80.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3395.4,
+      "health_per_capita": 830.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3647.0,
+      "health_per_capita": 893.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3898.5,
+      "health_per_capita": 957.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4108.1,
+      "health_per_capita": 1021.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4191.9,
+      "health_per_capita": 1064.2
+    }
+  ]
+}

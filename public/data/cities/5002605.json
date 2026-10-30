@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5002605",
+  "city_name": "Camapuã",
+  "uf": "MS",
+  "population": 13583,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 66813037.66,
+    "total_expense": 64904087.51,
+    "own_revenue_percentage": 15.1,
+    "transfers_revenue_percentage": 84.9,
+    "personnel_expense_percentage_rcl": 46.7
+  },
+  "per_capita_breakdown": {
+    "health": 987.8,
+    "education": 1235.0,
+    "urbanism": 464.6,
+    "administration": 512.2,
+    "legislative": 108.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3870.4,
+      "health_per_capita": 770.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4157.1,
+      "health_per_capita": 829.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4443.8,
+      "health_per_capita": 889.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4682.7,
+      "health_per_capita": 948.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4778.3,
+      "health_per_capita": 987.8
+    }
+  ]
+}

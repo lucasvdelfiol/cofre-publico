@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3202702",
+  "city_name": "Itaguaçu",
+  "uf": "ES",
+  "population": 13589,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 62639217.06,
+    "total_expense": 60322234.66,
+    "own_revenue_percentage": 21.3,
+    "transfers_revenue_percentage": 78.7,
+    "personnel_expense_percentage_rcl": 49.3
+  },
+  "per_capita_breakdown": {
+    "health": 1173.9,
+    "education": 1194.9,
+    "urbanism": 644.7,
+    "administration": 524.7,
+    "legislative": 117.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3595.6,
+      "health_per_capita": 915.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3861.9,
+      "health_per_capita": 986.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4128.3,
+      "health_per_capita": 1056.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4350.2,
+      "health_per_capita": 1126.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4439.0,
+      "health_per_capita": 1173.9
+    }
+  ]
+}

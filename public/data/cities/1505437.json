@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1505437",
+  "city_name": "Ourilândia do Norte",
+  "uf": "PA",
+  "population": 32467,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 146469612.34,
+    "total_expense": 145976286.72,
+    "own_revenue_percentage": 28.6,
+    "transfers_revenue_percentage": 71.4,
+    "personnel_expense_percentage_rcl": 51.7
+  },
+  "per_capita_breakdown": {
+    "health": 1239.4,
+    "education": 1313.5,
+    "urbanism": 589.1,
+    "administration": 436.7,
+    "legislative": 112.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3641.8,
+      "health_per_capita": 966.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3911.6,
+      "health_per_capita": 1041.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4181.4,
+      "health_per_capita": 1115.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4406.2,
+      "health_per_capita": 1189.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4496.1,
+      "health_per_capita": 1239.4
+    }
+  ]
+}

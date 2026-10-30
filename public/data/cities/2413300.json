@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2413300",
+  "city_name": "Serra de São Bento",
+  "uf": "RN",
+  "population": 5703,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 29169509.38,
+    "total_expense": 29159354.49,
+    "own_revenue_percentage": 14.6,
+    "transfers_revenue_percentage": 85.4,
+    "personnel_expense_percentage_rcl": 52.2
+  },
+  "per_capita_breakdown": {
+    "health": 1351.5,
+    "education": 1591.7,
+    "urbanism": 791.1,
+    "administration": 505.7,
+    "legislative": 156.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4141.5,
+      "health_per_capita": 1054.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4448.3,
+      "health_per_capita": 1135.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4755.1,
+      "health_per_capita": 1216.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5010.7,
+      "health_per_capita": 1297.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5113.0,
+      "health_per_capita": 1351.5
+    }
+  ]
+}

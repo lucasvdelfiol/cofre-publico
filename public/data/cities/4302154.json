@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4302154",
+  "city_name": "Boa Vista das Missões",
+  "uf": "RS",
+  "population": 1933,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 9636352.52,
+    "total_expense": 9598841.03,
+    "own_revenue_percentage": 15.7,
+    "transfers_revenue_percentage": 84.3,
+    "personnel_expense_percentage_rcl": 46.2
+  },
+  "per_capita_breakdown": {
+    "health": 1169.4,
+    "education": 1524.8,
+    "urbanism": 489.7,
+    "administration": 306.0,
+    "legislative": 151.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4022.3,
+      "health_per_capita": 912.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4320.2,
+      "health_per_capita": 982.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4618.2,
+      "health_per_capita": 1052.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4866.5,
+      "health_per_capita": 1122.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4965.8,
+      "health_per_capita": 1169.4
+    }
+  ]
+}

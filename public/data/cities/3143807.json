@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3143807",
+  "city_name": "Munhoz",
+  "uf": "MG",
+  "population": 7451,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 39366256.18,
+    "total_expense": 39707987.01,
+    "own_revenue_percentage": 18.9,
+    "transfers_revenue_percentage": 81.1,
+    "personnel_expense_percentage_rcl": 49.7
+  },
+  "per_capita_breakdown": {
+    "health": 1476.9,
+    "education": 1409.6,
+    "urbanism": 490.6,
+    "administration": 628.4,
+    "legislative": 148.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4316.7,
+      "health_per_capita": 1152.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4636.4,
+      "health_per_capita": 1240.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4956.2,
+      "health_per_capita": 1329.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5222.6,
+      "health_per_capita": 1417.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5329.2,
+      "health_per_capita": 1476.9
+    }
+  ]
+}

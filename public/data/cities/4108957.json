@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4108957",
+  "city_name": "Guamiranga",
+  "uf": "PR",
+  "population": 7856,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 35659191.4,
+    "total_expense": 34328371.75,
+    "own_revenue_percentage": 8.5,
+    "transfers_revenue_percentage": 91.5,
+    "personnel_expense_percentage_rcl": 52.2
+  },
+  "per_capita_breakdown": {
+    "health": 1201.4,
+    "education": 1222.6,
+    "urbanism": 393.3,
+    "administration": 507.8,
+    "legislative": 83.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3539.5,
+      "health_per_capita": 937.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3801.6,
+      "health_per_capita": 1009.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4063.8,
+      "health_per_capita": 1081.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4282.3,
+      "health_per_capita": 1153.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4369.7,
+      "health_per_capita": 1201.4
+    }
+  ]
+}

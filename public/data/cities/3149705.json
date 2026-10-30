@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3149705",
+  "city_name": "Perdigão",
+  "uf": "MG",
+  "population": 12268,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 55727224.64,
+    "total_expense": 54978866.29,
+    "own_revenue_percentage": 15.9,
+    "transfers_revenue_percentage": 84.1,
+    "personnel_expense_percentage_rcl": 53.5
+  },
+  "per_capita_breakdown": {
+    "health": 973.4,
+    "education": 1289.0,
+    "urbanism": 709.6,
+    "administration": 498.9,
+    "legislative": 139.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3630.0,
+      "health_per_capita": 759.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3898.9,
+      "health_per_capita": 817.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4167.8,
+      "health_per_capita": 876.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4391.9,
+      "health_per_capita": 934.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4481.5,
+      "health_per_capita": 973.4
+    }
+  ]
+}

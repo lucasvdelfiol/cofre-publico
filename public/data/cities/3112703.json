@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3112703",
+  "city_name": "Capitão Enéas",
+  "uf": "MG",
+  "population": 14108,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 73447945.51,
+    "total_expense": 71728349.43,
+    "own_revenue_percentage": 20.9,
+    "transfers_revenue_percentage": 79.1,
+    "personnel_expense_percentage_rcl": 47.6
+  },
+  "per_capita_breakdown": {
+    "health": 1414.6,
+    "education": 1414.6,
+    "urbanism": 469.2,
+    "administration": 551.5,
+    "legislative": 139.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4118.2,
+      "health_per_capita": 1103.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4423.3,
+      "health_per_capita": 1188.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4728.3,
+      "health_per_capita": 1273.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4982.5,
+      "health_per_capita": 1358.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5084.2,
+      "health_per_capita": 1414.6
+    }
+  ]
+}

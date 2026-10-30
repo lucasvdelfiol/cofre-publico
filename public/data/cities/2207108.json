@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2207108",
+  "city_name": "Olho D'Água do Piauí",
+  "uf": "PI",
+  "population": 2637,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 14072352.23,
+    "total_expense": 13885698.16,
+    "own_revenue_percentage": 17.3,
+    "transfers_revenue_percentage": 82.7,
+    "personnel_expense_percentage_rcl": 51.1
+  },
+  "per_capita_breakdown": {
+    "health": 1404.5,
+    "education": 1436.2,
+    "urbanism": 500.0,
+    "administration": 539.4,
+    "legislative": 123.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4265.2,
+      "health_per_capita": 1095.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4581.2,
+      "health_per_capita": 1179.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4897.1,
+      "health_per_capita": 1264.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5160.4,
+      "health_per_capita": 1348.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5265.7,
+      "health_per_capita": 1404.5
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4217808",
+  "city_name": "Taió",
+  "uf": "SC",
+  "population": 18310,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 91524520.9,
+    "total_expense": 89380378.75,
+    "own_revenue_percentage": 20.6,
+    "transfers_revenue_percentage": 79.4,
+    "personnel_expense_percentage_rcl": 45.7
+  },
+  "per_capita_breakdown": {
+    "health": 1030.9,
+    "education": 1410.4,
+    "urbanism": 530.6,
+    "administration": 349.3,
+    "legislative": 104.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3954.0,
+      "health_per_capita": 804.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4246.9,
+      "health_per_capita": 866.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4539.8,
+      "health_per_capita": 927.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4783.9,
+      "health_per_capita": 989.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4881.5,
+      "health_per_capita": 1030.9
+    }
+  ]
+}

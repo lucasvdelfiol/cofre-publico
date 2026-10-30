@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2409308",
+  "city_name": "Patu",
+  "uf": "RN",
+  "population": 11007,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 50657342.91,
+    "total_expense": 49067915.36,
+    "own_revenue_percentage": 8.2,
+    "transfers_revenue_percentage": 91.8,
+    "personnel_expense_percentage_rcl": 48.8
+  },
+  "per_capita_breakdown": {
+    "health": 1240.0,
+    "education": 1097.4,
+    "urbanism": 419.2,
+    "administration": 490.7,
+    "legislative": 81.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3610.9,
+      "health_per_capita": 967.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3878.4,
+      "health_per_capita": 1041.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4145.8,
+      "health_per_capita": 1116.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4368.7,
+      "health_per_capita": 1190.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4457.9,
+      "health_per_capita": 1240.0
+    }
+  ]
+}

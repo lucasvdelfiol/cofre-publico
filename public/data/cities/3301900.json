@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3301900",
+  "city_name": "Itaboraí",
+  "uf": "RJ",
+  "population": 224267,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 1258972405.49,
+    "total_expense": 1213460136.68,
+    "own_revenue_percentage": 41.9,
+    "transfers_revenue_percentage": 58.1,
+    "personnel_expense_percentage_rcl": 48.2
+  },
+  "per_capita_breakdown": {
+    "health": 1425.3,
+    "education": 1562.3,
+    "urbanism": 800.1,
+    "administration": 449.8,
+    "legislative": 152.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4382.7,
+      "health_per_capita": 1111.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4707.4,
+      "health_per_capita": 1197.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5032.0,
+      "health_per_capita": 1282.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5302.6,
+      "health_per_capita": 1368.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5410.8,
+      "health_per_capita": 1425.3
+    }
+  ]
+}

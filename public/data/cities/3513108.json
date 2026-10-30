@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3513108",
+  "city_name": "Cravinhos",
+  "uf": "SP",
+  "population": 33281,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 148393815.72,
+    "total_expense": 144692902.8,
+    "own_revenue_percentage": 25.4,
+    "transfers_revenue_percentage": 74.6,
+    "personnel_expense_percentage_rcl": 46.7
+  },
+  "per_capita_breakdown": {
+    "health": 921.7,
+    "education": 1280.9,
+    "urbanism": 400.3,
+    "administration": 497.9,
+    "legislative": 125.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3521.6,
+      "health_per_capita": 718.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3782.4,
+      "health_per_capita": 774.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4043.3,
+      "health_per_capita": 829.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4260.6,
+      "health_per_capita": 884.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4347.6,
+      "health_per_capita": 921.7
+    }
+  ]
+}

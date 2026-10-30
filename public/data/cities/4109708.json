@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4109708",
+  "city_name": "Ibaiti",
+  "uf": "PR",
+  "population": 28830,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 140387962.72,
+    "total_expense": 137774236.01,
+    "own_revenue_percentage": 21.1,
+    "transfers_revenue_percentage": 78.9,
+    "personnel_expense_percentage_rcl": 46.2
+  },
+  "per_capita_breakdown": {
+    "health": 1087.1,
+    "education": 1336.1,
+    "urbanism": 723.4,
+    "administration": 337.4,
+    "legislative": 130.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3870.8,
+      "health_per_capita": 847.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4157.6,
+      "health_per_capita": 913.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4444.3,
+      "health_per_capita": 978.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4683.2,
+      "health_per_capita": 1043.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4778.8,
+      "health_per_capita": 1087.1
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4122651",
+  "city_name": "Rosário do Ivaí",
+  "uf": "PR",
+  "population": 5435,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 26219601.37,
+    "total_expense": 25833566.83,
+    "own_revenue_percentage": 20.8,
+    "transfers_revenue_percentage": 79.2,
+    "personnel_expense_percentage_rcl": 47.1
+  },
+  "per_capita_breakdown": {
+    "health": 1232.5,
+    "education": 1443.9,
+    "urbanism": 400.0,
+    "administration": 454.1,
+    "legislative": 133.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3850.1,
+      "health_per_capita": 961.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4135.3,
+      "health_per_capita": 1035.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4420.5,
+      "health_per_capita": 1109.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4658.1,
+      "health_per_capita": 1183.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4753.2,
+      "health_per_capita": 1232.5
+    }
+  ]
+}

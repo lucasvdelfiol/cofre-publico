@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2311207",
+  "city_name": "Potengi",
+  "uf": "CE",
+  "population": 8833,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 46221194.19,
+    "total_expense": 45425374.05,
+    "own_revenue_percentage": 16.2,
+    "transfers_revenue_percentage": 83.8,
+    "personnel_expense_percentage_rcl": 47.2
+  },
+  "per_capita_breakdown": {
+    "health": 1210.6,
+    "education": 1515.8,
+    "urbanism": 540.4,
+    "administration": 439.8,
+    "legislative": 97.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4165.6,
+      "health_per_capita": 944.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4474.1,
+      "health_per_capita": 1016.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4782.7,
+      "health_per_capita": 1089.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5039.8,
+      "health_per_capita": 1162.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5142.7,
+      "health_per_capita": 1210.6
+    }
+  ]
+}

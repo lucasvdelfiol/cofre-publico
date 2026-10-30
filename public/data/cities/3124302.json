@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3124302",
+  "city_name": "Espinosa",
+  "uf": "MG",
+  "population": 30443,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 143734668.37,
+    "total_expense": 143914578.93,
+    "own_revenue_percentage": 26.9,
+    "transfers_revenue_percentage": 73.1,
+    "personnel_expense_percentage_rcl": 47.8
+  },
+  "per_capita_breakdown": {
+    "health": 1050.0,
+    "education": 1165.4,
+    "urbanism": 519.6,
+    "administration": 331.9,
+    "legislative": 152.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3829.1,
+      "health_per_capita": 819.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4112.8,
+      "health_per_capita": 882.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4396.4,
+      "health_per_capita": 945.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4632.8,
+      "health_per_capita": 1008.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4727.3,
+      "health_per_capita": 1050.0
+    }
+  ]
+}

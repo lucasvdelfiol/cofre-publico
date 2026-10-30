@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4310850",
+  "city_name": "Jaboticaba",
+  "uf": "RS",
+  "population": 3779,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 16897685.08,
+    "total_expense": 16284827.97,
+    "own_revenue_percentage": 16.8,
+    "transfers_revenue_percentage": 83.2,
+    "personnel_expense_percentage_rcl": 47.1
+  },
+  "per_capita_breakdown": {
+    "health": 1016.3,
+    "education": 1110.0,
+    "urbanism": 380.1,
+    "administration": 515.7,
+    "legislative": 148.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3490.5,
+      "health_per_capita": 792.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3749.1,
+      "health_per_capita": 853.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4007.6,
+      "health_per_capita": 914.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4223.1,
+      "health_per_capita": 975.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4309.3,
+      "health_per_capita": 1016.3
+    }
+  ]
+}

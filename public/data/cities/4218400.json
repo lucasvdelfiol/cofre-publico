@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4218400",
+  "city_name": "Treze de Maio",
+  "uf": "SC",
+  "population": 7362,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 32285412.89,
+    "total_expense": 32175281.23,
+    "own_revenue_percentage": 20.8,
+    "transfers_revenue_percentage": 79.2,
+    "personnel_expense_percentage_rcl": 48.3
+  },
+  "per_capita_breakdown": {
+    "health": 888.5,
+    "education": 1053.3,
+    "urbanism": 558.6,
+    "administration": 290.2,
+    "legislative": 72.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3540.1,
+      "health_per_capita": 693.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3802.3,
+      "health_per_capita": 746.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4064.6,
+      "health_per_capita": 799.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4283.1,
+      "health_per_capita": 853.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4370.5,
+      "health_per_capita": 888.5
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3200607",
+  "city_name": "Aracruz",
+  "uf": "ES",
+  "population": 94765,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 468248202.23,
+    "total_expense": 456270170.35,
+    "own_revenue_percentage": 39.0,
+    "transfers_revenue_percentage": 61.0,
+    "personnel_expense_percentage_rcl": 52.7
+  },
+  "per_capita_breakdown": {
+    "health": 1291.7,
+    "education": 1476.6,
+    "urbanism": 483.6,
+    "administration": 452.2,
+    "legislative": 82.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3900.0,
+      "health_per_capita": 1007.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4188.9,
+      "health_per_capita": 1085.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4477.8,
+      "health_per_capita": 1162.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4718.5,
+      "health_per_capita": 1240.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4814.8,
+      "health_per_capita": 1291.7
+    }
+  ]
+}

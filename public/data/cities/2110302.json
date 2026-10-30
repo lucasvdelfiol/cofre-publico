@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2110302",
+  "city_name": "Santo Antônio dos Lopes",
+  "uf": "MA",
+  "population": 14304,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 71539252.59,
+    "total_expense": 70312415.59,
+    "own_revenue_percentage": 17.7,
+    "transfers_revenue_percentage": 82.3,
+    "personnel_expense_percentage_rcl": 49.2
+  },
+  "per_capita_breakdown": {
+    "health": 1233.4,
+    "education": 1329.6,
+    "urbanism": 455.4,
+    "administration": 514.0,
+    "legislative": 89.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3981.6,
+      "health_per_capita": 962.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4276.6,
+      "health_per_capita": 1036.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4571.5,
+      "health_per_capita": 1110.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4817.3,
+      "health_per_capita": 1184.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4915.6,
+      "health_per_capita": 1233.4
+    }
+  ]
+}

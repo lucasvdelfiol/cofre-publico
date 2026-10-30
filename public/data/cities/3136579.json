@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3136579",
+  "city_name": "Josenópolis",
+  "uf": "MG",
+  "population": 3630,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 19441777.62,
+    "total_expense": 19512281.89,
+    "own_revenue_percentage": 16.6,
+    "transfers_revenue_percentage": 83.4,
+    "personnel_expense_percentage_rcl": 48.2
+  },
+  "per_capita_breakdown": {
+    "health": 1100.0,
+    "education": 1300.1,
+    "urbanism": 435.3,
+    "administration": 371.7,
+    "legislative": 129.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4354.0,
+      "health_per_capita": 858.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4676.5,
+      "health_per_capita": 924.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4999.0,
+      "health_per_capita": 990.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5267.8,
+      "health_per_capita": 1056.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5375.3,
+      "health_per_capita": 1100.0
+    }
+  ]
+}

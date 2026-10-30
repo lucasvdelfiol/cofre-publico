@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1400027",
+  "city_name": "Amajari",
+  "uf": "RR",
+  "population": 13927,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 69112663.75,
+    "total_expense": 69619461.06,
+    "own_revenue_percentage": 17.0,
+    "transfers_revenue_percentage": 83.0,
+    "personnel_expense_percentage_rcl": 47.9
+  },
+  "per_capita_breakdown": {
+    "health": 1362.7,
+    "education": 1236.8,
+    "urbanism": 521.4,
+    "administration": 576.9,
+    "legislative": 112.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4049.1,
+      "health_per_capita": 1062.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4349.0,
+      "health_per_capita": 1144.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4649.0,
+      "health_per_capita": 1226.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4898.9,
+      "health_per_capita": 1308.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4998.9,
+      "health_per_capita": 1362.7
+    }
+  ]
+}

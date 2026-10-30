@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3154200",
+  "city_name": "Resende Costa",
+  "uf": "MG",
+  "population": 11230,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 55093199.33,
+    "total_expense": 54015815.57,
+    "own_revenue_percentage": 17.9,
+    "transfers_revenue_percentage": 82.1,
+    "personnel_expense_percentage_rcl": 46.6
+  },
+  "per_capita_breakdown": {
+    "health": 1172.2,
+    "education": 1340.5,
+    "urbanism": 691.5,
+    "administration": 502.2,
+    "legislative": 133.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3896.1,
+      "health_per_capita": 914.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4184.7,
+      "health_per_capita": 984.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4473.3,
+      "health_per_capita": 1055.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4713.8,
+      "health_per_capita": 1125.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4810.0,
+      "health_per_capita": 1172.2
+    }
+  ]
+}

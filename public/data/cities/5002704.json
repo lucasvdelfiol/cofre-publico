@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5002704",
+  "city_name": "Campo Grande",
+  "uf": "MS",
+  "population": 898100,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 4632862435.48,
+    "total_expense": 4598933676.16,
+    "own_revenue_percentage": 50.5,
+    "transfers_revenue_percentage": 49.5,
+    "personnel_expense_percentage_rcl": 52.5
+  },
+  "per_capita_breakdown": {
+    "health": 1244.7,
+    "education": 1390.5,
+    "urbanism": 772.8,
+    "administration": 361.8,
+    "legislative": 163.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4147.8,
+      "health_per_capita": 970.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4455.0,
+      "health_per_capita": 1045.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4762.3,
+      "health_per_capita": 1120.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5018.3,
+      "health_per_capita": 1194.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5120.7,
+      "health_per_capita": 1244.7
+    }
+  ]
+}

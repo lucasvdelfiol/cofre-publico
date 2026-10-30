@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4310702",
+  "city_name": "Itatiba do Sul",
+  "uf": "RS",
+  "population": 3208,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 16155226.85,
+    "total_expense": 15946732.14,
+    "own_revenue_percentage": 9.8,
+    "transfers_revenue_percentage": 90.2,
+    "personnel_expense_percentage_rcl": 53.4
+  },
+  "per_capita_breakdown": {
+    "health": 1078.6,
+    "education": 1463.9,
+    "urbanism": 794.8,
+    "administration": 566.0,
+    "legislative": 170.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4026.4,
+      "health_per_capita": 841.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4324.7,
+      "health_per_capita": 906.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4622.9,
+      "health_per_capita": 970.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4871.5,
+      "health_per_capita": 1035.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4970.9,
+      "health_per_capita": 1078.6
+    }
+  ]
+}

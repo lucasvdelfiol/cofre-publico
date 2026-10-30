@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2913309",
+  "city_name": "Ichu",
+  "uf": "BA",
+  "population": 6190,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 29069463.07,
+    "total_expense": 29145054.08,
+    "own_revenue_percentage": 19.6,
+    "transfers_revenue_percentage": 80.4,
+    "personnel_expense_percentage_rcl": 52.9
+  },
+  "per_capita_breakdown": {
+    "health": 1106.7,
+    "education": 1490.1,
+    "urbanism": 486.0,
+    "administration": 412.6,
+    "legislative": 137.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3813.8,
+      "health_per_capita": 863.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4096.3,
+      "health_per_capita": 929.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4378.8,
+      "health_per_capita": 996.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4614.2,
+      "health_per_capita": 1062.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4708.4,
+      "health_per_capita": 1106.7
+    }
+  ]
+}

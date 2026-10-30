@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4306072",
+  "city_name": "Cristal do Sul",
+  "uf": "RS",
+  "population": 2692,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 13976990.9,
+    "total_expense": 14081951.45,
+    "own_revenue_percentage": 16.9,
+    "transfers_revenue_percentage": 83.1,
+    "personnel_expense_percentage_rcl": 52.1
+  },
+  "per_capita_breakdown": {
+    "health": 1056.4,
+    "education": 1440.7,
+    "urbanism": 542.1,
+    "administration": 586.9,
+    "legislative": 134.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4237.1,
+      "health_per_capita": 824.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4551.0,
+      "health_per_capita": 887.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4864.8,
+      "health_per_capita": 950.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5126.4,
+      "health_per_capita": 1014.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5231.0,
+      "health_per_capita": 1056.4
+    }
+  ]
+}

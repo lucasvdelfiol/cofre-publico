@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1709005",
+  "city_name": "Goiatins",
+  "uf": "TO",
+  "population": 12433,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 64506870.59,
+    "total_expense": 63522701.41,
+    "own_revenue_percentage": 21.9,
+    "transfers_revenue_percentage": 78.1,
+    "personnel_expense_percentage_rcl": 46.2
+  },
+  "per_capita_breakdown": {
+    "health": 1026.0,
+    "education": 1451.5,
+    "urbanism": 743.4,
+    "administration": 424.6,
+    "legislative": 77.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4138.5,
+      "health_per_capita": 800.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4445.0,
+      "health_per_capita": 861.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4751.6,
+      "health_per_capita": 923.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5007.0,
+      "health_per_capita": 985.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5109.2,
+      "health_per_capita": 1026.0
+    }
+  ]
+}

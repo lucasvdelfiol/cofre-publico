@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4319364",
+  "city_name": "São Pedro das Missões",
+  "uf": "RS",
+  "population": 1757,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 9598569.87,
+    "total_expense": 9680359.18,
+    "own_revenue_percentage": 21.2,
+    "transfers_revenue_percentage": 78.8,
+    "personnel_expense_percentage_rcl": 46.5
+  },
+  "per_capita_breakdown": {
+    "health": 1148.3,
+    "education": 1334.2,
+    "urbanism": 810.8,
+    "administration": 459.9,
+    "legislative": 95.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4462.8,
+      "health_per_capita": 895.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4793.4,
+      "health_per_capita": 964.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5123.9,
+      "health_per_capita": 1033.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5399.4,
+      "health_per_capita": 1102.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5509.6,
+      "health_per_capita": 1148.3
+    }
+  ]
+}

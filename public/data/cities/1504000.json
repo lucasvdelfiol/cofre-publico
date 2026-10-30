@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1504000",
+  "city_name": "Limoeiro do Ajuru",
+  "uf": "PA",
+  "population": 29569,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 130459511.1,
+    "total_expense": 127239336.74,
+    "own_revenue_percentage": 22.8,
+    "transfers_revenue_percentage": 77.2,
+    "personnel_expense_percentage_rcl": 46.7
+  },
+  "per_capita_breakdown": {
+    "health": 912.9,
+    "education": 1119.6,
+    "urbanism": 595.7,
+    "administration": 503.5,
+    "legislative": 81.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3485.5,
+      "health_per_capita": 712.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3743.7,
+      "health_per_capita": 766.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4001.9,
+      "health_per_capita": 821.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4217.0,
+      "health_per_capita": 876.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4303.1,
+      "health_per_capita": 912.9
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2924678",
+  "city_name": "Piraí do Norte",
+  "uf": "BA",
+  "population": 10974,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 57788784.55,
+    "total_expense": 58346977.97,
+    "own_revenue_percentage": 9.1,
+    "transfers_revenue_percentage": 90.9,
+    "personnel_expense_percentage_rcl": 46.3
+  },
+  "per_capita_breakdown": {
+    "health": 1208.7,
+    "education": 1407.7,
+    "urbanism": 696.0,
+    "administration": 333.1,
+    "legislative": 143.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4306.6,
+      "health_per_capita": 942.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4625.6,
+      "health_per_capita": 1015.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4944.6,
+      "health_per_capita": 1087.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5210.5,
+      "health_per_capita": 1160.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5316.8,
+      "health_per_capita": 1208.7
+    }
+  ]
+}

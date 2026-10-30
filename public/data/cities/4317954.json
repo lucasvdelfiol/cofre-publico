@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4317954",
+  "city_name": "Santo Expedito do Sul",
+  "uf": "RS",
+  "population": 2349,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 12078491.71,
+    "total_expense": 11938498.02,
+    "own_revenue_percentage": 20.6,
+    "transfers_revenue_percentage": 79.4,
+    "personnel_expense_percentage_rcl": 48.0
+  },
+  "per_capita_breakdown": {
+    "health": 1318.0,
+    "education": 1273.1,
+    "urbanism": 589.1,
+    "administration": 532.4,
+    "legislative": 163.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4116.7,
+      "health_per_capita": 1028.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4421.7,
+      "health_per_capita": 1107.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4726.6,
+      "health_per_capita": 1186.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4980.8,
+      "health_per_capita": 1265.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5082.4,
+      "health_per_capita": 1318.0
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1711902",
+  "city_name": "Lagoa da Confusão",
+  "uf": "TO",
+  "population": 15288,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 72930163.1,
+    "total_expense": 70472314.25,
+    "own_revenue_percentage": 18.3,
+    "transfers_revenue_percentage": 81.7,
+    "personnel_expense_percentage_rcl": 47.1
+  },
+  "per_capita_breakdown": {
+    "health": 1284.0,
+    "education": 1417.2,
+    "urbanism": 723.3,
+    "administration": 414.0,
+    "legislative": 130.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3733.8,
+      "health_per_capita": 1001.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4010.4,
+      "health_per_capita": 1078.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4286.9,
+      "health_per_capita": 1155.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4517.4,
+      "health_per_capita": 1232.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4609.6,
+      "health_per_capita": 1284.0
+    }
+  ]
+}

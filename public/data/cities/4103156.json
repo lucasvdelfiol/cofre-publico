@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4103156",
+  "city_name": "Bom Jesus do Sul",
+  "uf": "PR",
+  "population": 3980,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 19702097.95,
+    "total_expense": 19143647.6,
+    "own_revenue_percentage": 19.1,
+    "transfers_revenue_percentage": 80.9,
+    "personnel_expense_percentage_rcl": 53.6
+  },
+  "per_capita_breakdown": {
+    "health": 1344.3,
+    "education": 1443.4,
+    "urbanism": 592.0,
+    "administration": 474.7,
+    "legislative": 118.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3896.1,
+      "health_per_capita": 1048.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4184.7,
+      "health_per_capita": 1129.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4473.3,
+      "health_per_capita": 1209.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4713.8,
+      "health_per_capita": 1290.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4810.0,
+      "health_per_capita": 1344.3
+    }
+  ]
+}

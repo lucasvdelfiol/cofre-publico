@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3129806",
+  "city_name": "Ibirité",
+  "uf": "MG",
+  "population": 170537,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 941721950.19,
+    "total_expense": 946544567.66,
+    "own_revenue_percentage": 48.2,
+    "transfers_revenue_percentage": 51.8,
+    "personnel_expense_percentage_rcl": 45.1
+  },
+  "per_capita_breakdown": {
+    "health": 1117.2,
+    "education": 1503.0,
+    "urbanism": 774.8,
+    "administration": 498.7,
+    "legislative": 137.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4495.8,
+      "health_per_capita": 871.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4828.8,
+      "health_per_capita": 938.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5161.9,
+      "health_per_capita": 1005.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5439.4,
+      "health_per_capita": 1072.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5550.4,
+      "health_per_capita": 1117.2
+    }
+  ]
+}

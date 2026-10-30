@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4314779",
+  "city_name": "Pontão",
+  "uf": "RS",
+  "population": 3296,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 15315479.3,
+    "total_expense": 14940322.66,
+    "own_revenue_percentage": 17.2,
+    "transfers_revenue_percentage": 82.8,
+    "personnel_expense_percentage_rcl": 46.3
+  },
+  "per_capita_breakdown": {
+    "health": 1221.4,
+    "education": 1130.7,
+    "urbanism": 596.4,
+    "administration": 486.3,
+    "legislative": 108.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3671.6,
+      "health_per_capita": 952.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3943.6,
+      "health_per_capita": 1026.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4215.6,
+      "health_per_capita": 1099.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4442.2,
+      "health_per_capita": 1172.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4532.9,
+      "health_per_capita": 1221.4
+    }
+  ]
+}

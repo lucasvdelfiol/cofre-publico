@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5005681",
+  "city_name": "Mundo Novo",
+  "uf": "MS",
+  "population": 19193,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 88140016.57,
+    "total_expense": 88302761.43,
+    "own_revenue_percentage": 13.5,
+    "transfers_revenue_percentage": 86.5,
+    "personnel_expense_percentage_rcl": 47.2
+  },
+  "per_capita_breakdown": {
+    "health": 1093.7,
+    "education": 1382.4,
+    "urbanism": 551.3,
+    "administration": 379.3,
+    "legislative": 152.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3726.6,
+      "health_per_capita": 853.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4002.7,
+      "health_per_capita": 918.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4278.7,
+      "health_per_capita": 984.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4508.8,
+      "health_per_capita": 1050.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4600.8,
+      "health_per_capita": 1093.7
+    }
+  ]
+}

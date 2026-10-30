@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2611507",
+  "city_name": "Quipapá",
+  "uf": "PE",
+  "population": 17928,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 89275023.9,
+    "total_expense": 87592226.68,
+    "own_revenue_percentage": 8.9,
+    "transfers_revenue_percentage": 91.1,
+    "personnel_expense_percentage_rcl": 52.2
+  },
+  "per_capita_breakdown": {
+    "health": 1198.3,
+    "education": 1455.6,
+    "urbanism": 519.2,
+    "administration": 301.5,
+    "legislative": 129.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3957.5,
+      "health_per_capita": 934.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4250.6,
+      "health_per_capita": 1006.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4543.8,
+      "health_per_capita": 1078.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4788.1,
+      "health_per_capita": 1150.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4885.8,
+      "health_per_capita": 1198.3
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4113429",
+  "city_name": "Lidianópolis",
+  "uf": "PR",
+  "population": 3938,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 21438452.2,
+    "total_expense": 20697343.01,
+    "own_revenue_percentage": 15.9,
+    "transfers_revenue_percentage": 84.1,
+    "personnel_expense_percentage_rcl": 51.0
+  },
+  "per_capita_breakdown": {
+    "health": 1250.2,
+    "education": 1561.0,
+    "urbanism": 507.3,
+    "administration": 414.7,
+    "legislative": 178.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4257.2,
+      "health_per_capita": 975.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4572.5,
+      "health_per_capita": 1050.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4887.9,
+      "health_per_capita": 1125.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5150.7,
+      "health_per_capita": 1200.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5255.8,
+      "health_per_capita": 1250.2
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2931509",
+  "city_name": "Teofilândia",
+  "uf": "BA",
+  "population": 21176,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 92851971.93,
+    "total_expense": 91639929.14,
+    "own_revenue_percentage": 22.5,
+    "transfers_revenue_percentage": 77.5,
+    "personnel_expense_percentage_rcl": 53.4
+  },
+  "per_capita_breakdown": {
+    "health": 908.4,
+    "education": 1098.8,
+    "urbanism": 446.2,
+    "administration": 269.6,
+    "legislative": 97.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3505.3,
+      "health_per_capita": 708.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3764.9,
+      "health_per_capita": 763.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4024.6,
+      "health_per_capita": 817.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4240.9,
+      "health_per_capita": 872.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4327.5,
+      "health_per_capita": 908.4
+    }
+  ]
+}

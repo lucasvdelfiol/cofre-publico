@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5214804",
+  "city_name": "Nova Aurora",
+  "uf": "GO",
+  "population": 2101,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 10993333.13,
+    "total_expense": 10691817.79,
+    "own_revenue_percentage": 16.7,
+    "transfers_revenue_percentage": 83.3,
+    "personnel_expense_percentage_rcl": 53.6
+  },
+  "per_capita_breakdown": {
+    "health": 1269.8,
+    "education": 1494.3,
+    "urbanism": 767.3,
+    "administration": 312.5,
+    "legislative": 162.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4122.0,
+      "health_per_capita": 990.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4427.3,
+      "health_per_capita": 1066.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4732.7,
+      "health_per_capita": 1142.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4987.1,
+      "health_per_capita": 1219.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5088.9,
+      "health_per_capita": 1269.8
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2900702",
+  "city_name": "Alagoinhas",
+  "uf": "BA",
+  "population": 151055,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 796472566.49,
+    "total_expense": 782865068.4,
+    "own_revenue_percentage": 44.1,
+    "transfers_revenue_percentage": 55.9,
+    "personnel_expense_percentage_rcl": 49.9
+  },
+  "per_capita_breakdown": {
+    "health": 1356.0,
+    "education": 1470.6,
+    "urbanism": 479.2,
+    "administration": 500.7,
+    "legislative": 77.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4197.9,
+      "health_per_capita": 1057.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4508.9,
+      "health_per_capita": 1139.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4819.8,
+      "health_per_capita": 1220.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5078.9,
+      "health_per_capita": 1301.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5182.6,
+      "health_per_capita": 1356.0
+    }
+  ]
+}

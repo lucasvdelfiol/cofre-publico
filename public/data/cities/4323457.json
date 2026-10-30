@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4323457",
+  "city_name": "Vila Nova do Sul",
+  "uf": "RS",
+  "population": 3863,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 19825934.67,
+    "total_expense": 19064935.02,
+    "own_revenue_percentage": 10.6,
+    "transfers_revenue_percentage": 89.4,
+    "personnel_expense_percentage_rcl": 50.2
+  },
+  "per_capita_breakdown": {
+    "health": 1253.3,
+    "education": 1393.9,
+    "urbanism": 533.5,
+    "administration": 585.5,
+    "legislative": 95.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3997.6,
+      "health_per_capita": 977.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4293.7,
+      "health_per_capita": 1052.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4589.8,
+      "health_per_capita": 1128.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4836.6,
+      "health_per_capita": 1203.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4935.3,
+      "health_per_capita": 1253.3
+    }
+  ]
+}

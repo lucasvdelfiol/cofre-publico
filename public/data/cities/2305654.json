@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2305654",
+  "city_name": "Ipaporanga",
+  "uf": "CE",
+  "population": 11575,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 65380032.92,
+    "total_expense": 63074709.56,
+    "own_revenue_percentage": 13.1,
+    "transfers_revenue_percentage": 86.9,
+    "personnel_expense_percentage_rcl": 49.3
+  },
+  "per_capita_breakdown": {
+    "health": 1524.5,
+    "education": 1392.9,
+    "urbanism": 782.7,
+    "administration": 473.8,
+    "legislative": 97.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4413.9,
+      "health_per_capita": 1189.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4740.8,
+      "health_per_capita": 1280.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5067.8,
+      "health_per_capita": 1372.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5340.2,
+      "health_per_capita": 1463.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5449.2,
+      "health_per_capita": 1524.5
+    }
+  ]
+}

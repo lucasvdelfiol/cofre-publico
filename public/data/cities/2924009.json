@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2924009",
+  "city_name": "Paulo Afonso",
+  "uf": "BA",
+  "population": 112870,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 551366537.23,
+    "total_expense": 548782789.85,
+    "own_revenue_percentage": 52.6,
+    "transfers_revenue_percentage": 47.4,
+    "personnel_expense_percentage_rcl": 46.6
+  },
+  "per_capita_breakdown": {
+    "health": 1349.2,
+    "education": 1276.8,
+    "urbanism": 618.2,
+    "administration": 434.6,
+    "legislative": 110.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3938.3,
+      "health_per_capita": 1052.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4230.0,
+      "health_per_capita": 1133.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4521.8,
+      "health_per_capita": 1214.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4764.9,
+      "health_per_capita": 1295.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4862.1,
+      "health_per_capita": 1349.2
+    }
+  ]
+}

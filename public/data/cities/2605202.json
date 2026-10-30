@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2605202",
+  "city_name": "Escada",
+  "uf": "PE",
+  "population": 59891,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 310635212.64,
+    "total_expense": 301346927.23,
+    "own_revenue_percentage": 40.6,
+    "transfers_revenue_percentage": 59.4,
+    "personnel_expense_percentage_rcl": 45.3
+  },
+  "per_capita_breakdown": {
+    "health": 1180.9,
+    "education": 1466.6,
+    "urbanism": 570.7,
+    "administration": 426.1,
+    "legislative": 122.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4075.6,
+      "health_per_capita": 921.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4377.5,
+      "health_per_capita": 992.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4679.4,
+      "health_per_capita": 1062.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4931.0,
+      "health_per_capita": 1133.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5031.6,
+      "health_per_capita": 1180.9
+    }
+  ]
+}

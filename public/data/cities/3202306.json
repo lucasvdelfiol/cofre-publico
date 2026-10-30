@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3202306",
+  "city_name": "Guaçuí",
+  "uf": "ES",
+  "population": 29358,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 130875707.73,
+    "total_expense": 130479608.94,
+    "own_revenue_percentage": 22.8,
+    "transfers_revenue_percentage": 77.2,
+    "personnel_expense_percentage_rcl": 50.8
+  },
+  "per_capita_breakdown": {
+    "health": 1230.5,
+    "education": 1260.6,
+    "urbanism": 457.4,
+    "administration": 516.3,
+    "legislative": 150.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3600.0,
+      "health_per_capita": 959.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3866.6,
+      "health_per_capita": 1033.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4133.3,
+      "health_per_capita": 1107.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4355.5,
+      "health_per_capita": 1181.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4444.4,
+      "health_per_capita": 1230.5
+    }
+  ]
+}

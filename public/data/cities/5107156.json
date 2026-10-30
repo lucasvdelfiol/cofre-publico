@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5107156",
+  "city_name": "Reserva do Cabaçal",
+  "uf": "MT",
+  "population": 2122,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 9937794.42,
+    "total_expense": 9930887.65,
+    "own_revenue_percentage": 18.1,
+    "transfers_revenue_percentage": 81.9,
+    "personnel_expense_percentage_rcl": 49.0
+  },
+  "per_capita_breakdown": {
+    "health": 1058.5,
+    "education": 1264.1,
+    "urbanism": 453.5,
+    "administration": 492.6,
+    "legislative": 74.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3790.8,
+      "health_per_capita": 825.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4071.6,
+      "health_per_capita": 889.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4352.4,
+      "health_per_capita": 952.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4586.4,
+      "health_per_capita": 1016.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4680.0,
+      "health_per_capita": 1058.5
+    }
+  ]
+}

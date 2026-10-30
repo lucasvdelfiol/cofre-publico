@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4322186",
+  "city_name": "Tupanci do Sul",
+  "uf": "RS",
+  "population": 1500,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 6818486.12,
+    "total_expense": 6852219.15,
+    "own_revenue_percentage": 11.9,
+    "transfers_revenue_percentage": 88.1,
+    "personnel_expense_percentage_rcl": 53.6
+  },
+  "per_capita_breakdown": {
+    "health": 1126.4,
+    "education": 1197.0,
+    "urbanism": 556.4,
+    "administration": 447.6,
+    "legislative": 125.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3700.2,
+      "health_per_capita": 878.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3974.2,
+      "health_per_capita": 946.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4248.3,
+      "health_per_capita": 1013.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4476.7,
+      "health_per_capita": 1081.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4568.1,
+      "health_per_capita": 1126.4
+    }
+  ]
+}

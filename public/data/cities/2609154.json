@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2609154",
+  "city_name": "Manari",
+  "uf": "PE",
+  "population": 23763,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 107714538.26,
+    "total_expense": 108769030.86,
+    "own_revenue_percentage": 21.5,
+    "transfers_revenue_percentage": 78.5,
+    "personnel_expense_percentage_rcl": 53.1
+  },
+  "per_capita_breakdown": {
+    "health": 1257.8,
+    "education": 1330.5,
+    "urbanism": 492.8,
+    "administration": 487.5,
+    "legislative": 140.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3707.5,
+      "health_per_capita": 981.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3982.2,
+      "health_per_capita": 1056.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4256.8,
+      "health_per_capita": 1132.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4485.7,
+      "health_per_capita": 1207.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4577.2,
+      "health_per_capita": 1257.8
+    }
+  ]
+}

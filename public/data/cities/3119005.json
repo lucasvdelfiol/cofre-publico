@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3119005",
+  "city_name": "Cordislândia",
+  "uf": "MG",
+  "population": 3200,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 16253365.24,
+    "total_expense": 15747307.53,
+    "own_revenue_percentage": 9.1,
+    "transfers_revenue_percentage": 90.9,
+    "personnel_expense_percentage_rcl": 47.7
+  },
+  "per_capita_breakdown": {
+    "health": 1079.7,
+    "education": 1345.7,
+    "urbanism": 455.7,
+    "administration": 299.4,
+    "legislative": 150.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3986.0,
+      "health_per_capita": 842.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4281.3,
+      "health_per_capita": 906.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4576.5,
+      "health_per_capita": 971.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4822.6,
+      "health_per_capita": 1036.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4921.0,
+      "health_per_capita": 1079.7
+    }
+  ]
+}

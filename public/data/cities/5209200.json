@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5209200",
+  "city_name": "Guapó",
+  "uf": "GO",
+  "population": 19545,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 103739419.91,
+    "total_expense": 103928315.5,
+    "own_revenue_percentage": 11.7,
+    "transfers_revenue_percentage": 88.3,
+    "personnel_expense_percentage_rcl": 46.1
+  },
+  "per_capita_breakdown": {
+    "health": 1474.3,
+    "education": 1551.8,
+    "urbanism": 826.1,
+    "administration": 541.2,
+    "legislative": 111.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4307.1,
+      "health_per_capita": 1150.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4626.1,
+      "health_per_capita": 1238.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4945.2,
+      "health_per_capita": 1326.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5211.1,
+      "health_per_capita": 1415.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5317.4,
+      "health_per_capita": 1474.3
+    }
+  ]
+}

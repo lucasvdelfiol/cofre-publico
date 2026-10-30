@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3118403",
+  "city_name": "Conselheiro Pena",
+  "uf": "MG",
+  "population": 20824,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 100572536.5,
+    "total_expense": 98964696.16,
+    "own_revenue_percentage": 19.7,
+    "transfers_revenue_percentage": 80.3,
+    "personnel_expense_percentage_rcl": 49.9
+  },
+  "per_capita_breakdown": {
+    "health": 1008.3,
+    "education": 1505.9,
+    "urbanism": 589.0,
+    "administration": 357.8,
+    "legislative": 88.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3849.4,
+      "health_per_capita": 786.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4134.6,
+      "health_per_capita": 847.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4419.7,
+      "health_per_capita": 907.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4657.4,
+      "health_per_capita": 968.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4752.4,
+      "health_per_capita": 1008.3
+    }
+  ]
+}

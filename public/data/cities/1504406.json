@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1504406",
+  "city_name": "Marapanim",
+  "uf": "PA",
+  "population": 26573,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 111676715.89,
+    "total_expense": 110000070.44,
+    "own_revenue_percentage": 31.0,
+    "transfers_revenue_percentage": 69.0,
+    "personnel_expense_percentage_rcl": 47.4
+  },
+  "per_capita_breakdown": {
+    "health": 1030.7,
+    "education": 1065.0,
+    "urbanism": 372.7,
+    "administration": 295.6,
+    "legislative": 104.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3353.0,
+      "health_per_capita": 803.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3601.4,
+      "health_per_capita": 865.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3849.7,
+      "health_per_capita": 927.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4056.7,
+      "health_per_capita": 989.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4139.5,
+      "health_per_capita": 1030.7
+    }
+  ]
+}

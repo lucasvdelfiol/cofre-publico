@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1708304",
+  "city_name": "Goianorte",
+  "uf": "TO",
+  "population": 4738,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 26091679.34,
+    "total_expense": 25659073.07,
+    "own_revenue_percentage": 12.9,
+    "transfers_revenue_percentage": 87.1,
+    "personnel_expense_percentage_rcl": 52.3
+  },
+  "per_capita_breakdown": {
+    "health": 1253.7,
+    "education": 1717.1,
+    "urbanism": 723.2,
+    "administration": 646.7,
+    "legislative": 95.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4386.6,
+      "health_per_capita": 977.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4711.6,
+      "health_per_capita": 1053.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5036.5,
+      "health_per_capita": 1128.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5307.3,
+      "health_per_capita": 1203.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5415.6,
+      "health_per_capita": 1253.7
+    }
+  ]
+}

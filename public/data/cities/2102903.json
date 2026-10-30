@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2102903",
+  "city_name": "Carutapera",
+  "uf": "MA",
+  "population": 24238,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 103562687.51,
+    "total_expense": 100471652.09,
+    "own_revenue_percentage": 21.8,
+    "transfers_revenue_percentage": 78.2,
+    "personnel_expense_percentage_rcl": 49.5
+  },
+  "per_capita_breakdown": {
+    "health": 1118.9,
+    "education": 1079.5,
+    "urbanism": 447.9,
+    "administration": 453.4,
+    "legislative": 86.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3357.6,
+      "health_per_capita": 872.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3606.3,
+      "health_per_capita": 939.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3855.0,
+      "health_per_capita": 1007.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4062.3,
+      "health_per_capita": 1074.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4145.2,
+      "health_per_capita": 1118.9
+    }
+  ]
+}

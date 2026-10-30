@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2206951",
+  "city_name": "Novo Santo Antônio",
+  "uf": "PI",
+  "population": 2827,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 13738547.97,
+    "total_expense": 13418250.91,
+    "own_revenue_percentage": 19.7,
+    "transfers_revenue_percentage": 80.3,
+    "personnel_expense_percentage_rcl": 52.5
+  },
+  "per_capita_breakdown": {
+    "health": 1110.9,
+    "education": 1331.2,
+    "urbanism": 728.7,
+    "administration": 358.8,
+    "legislative": 133.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3844.7,
+      "health_per_capita": 866.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4129.5,
+      "health_per_capita": 933.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4414.2,
+      "health_per_capita": 999.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4651.6,
+      "health_per_capita": 1066.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4746.5,
+      "health_per_capita": 1110.9
+    }
+  ]
+}

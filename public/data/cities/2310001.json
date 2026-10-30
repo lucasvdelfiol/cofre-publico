@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2310001",
+  "city_name": "Palhano",
+  "uf": "CE",
+  "population": 9346,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 47729941.69,
+    "total_expense": 46283282.41,
+    "own_revenue_percentage": 14.5,
+    "transfers_revenue_percentage": 85.5,
+    "personnel_expense_percentage_rcl": 49.0
+  },
+  "per_capita_breakdown": {
+    "health": 1058.3,
+    "education": 1326.6,
+    "urbanism": 759.3,
+    "administration": 492.0,
+    "legislative": 86.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4011.3,
+      "health_per_capita": 825.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4308.4,
+      "health_per_capita": 889.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4605.5,
+      "health_per_capita": 952.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4853.2,
+      "health_per_capita": 1016.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4952.2,
+      "health_per_capita": 1058.3
+    }
+  ]
+}

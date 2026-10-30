@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3137908",
+  "city_name": "Lamim",
+  "uf": "MG",
+  "population": 3184,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 15360134.53,
+    "total_expense": 15107650.23,
+    "own_revenue_percentage": 13.6,
+    "transfers_revenue_percentage": 86.4,
+    "personnel_expense_percentage_rcl": 53.0
+  },
+  "per_capita_breakdown": {
+    "health": 1103.6,
+    "education": 1194.1,
+    "urbanism": 617.4,
+    "administration": 555.5,
+    "legislative": 72.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3843.4,
+      "health_per_capita": 860.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4128.1,
+      "health_per_capita": 927.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4412.8,
+      "health_per_capita": 993.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4650.0,
+      "health_per_capita": 1059.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4744.9,
+      "health_per_capita": 1103.6
+    }
+  ]
+}

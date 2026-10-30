@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1722107",
+  "city_name": "Xambioá",
+  "uf": "TO",
+  "population": 10517,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 53695923.09,
+    "total_expense": 53215284.89,
+    "own_revenue_percentage": 13.5,
+    "transfers_revenue_percentage": 86.5,
+    "personnel_expense_percentage_rcl": 50.5
+  },
+  "per_capita_breakdown": {
+    "health": 1099.9,
+    "education": 1485.4,
+    "urbanism": 463.9,
+    "administration": 355.4,
+    "legislative": 141.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4098.5,
+      "health_per_capita": 857.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4402.1,
+      "health_per_capita": 923.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4705.7,
+      "health_per_capita": 989.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4958.7,
+      "health_per_capita": 1055.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5059.9,
+      "health_per_capita": 1099.9
+    }
+  ]
+}

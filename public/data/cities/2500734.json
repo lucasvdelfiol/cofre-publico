@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2500734",
+  "city_name": "Amparo",
+  "uf": "PB",
+  "population": 2234,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 10097049.49,
+    "total_expense": 10012685.97,
+    "own_revenue_percentage": 15.7,
+    "transfers_revenue_percentage": 84.3,
+    "personnel_expense_percentage_rcl": 47.2
+  },
+  "per_capita_breakdown": {
+    "health": 1067.8,
+    "education": 1345.1,
+    "urbanism": 381.1,
+    "administration": 323.7,
+    "legislative": 93.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3630.4,
+      "health_per_capita": 832.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3899.3,
+      "health_per_capita": 897.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4168.3,
+      "health_per_capita": 961.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4392.4,
+      "health_per_capita": 1025.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4482.0,
+      "health_per_capita": 1067.8
+    }
+  ]
+}

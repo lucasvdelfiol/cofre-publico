@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3147105",
+  "city_name": "Pará de Minas",
+  "uf": "MG",
+  "population": 97139,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 422319662.17,
+    "total_expense": 421686797.63,
+    "own_revenue_percentage": 34.8,
+    "transfers_revenue_percentage": 65.2,
+    "personnel_expense_percentage_rcl": 50.8
+  },
+  "per_capita_breakdown": {
+    "health": 1085.4,
+    "education": 1202.9,
+    "urbanism": 575.1,
+    "administration": 367.5,
+    "legislative": 66.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3516.3,
+      "health_per_capita": 846.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3776.8,
+      "health_per_capita": 911.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4037.2,
+      "health_per_capita": 976.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4254.3,
+      "health_per_capita": 1042.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4341.1,
+      "health_per_capita": 1085.4
+    }
+  ]
+}

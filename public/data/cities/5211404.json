@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5211404",
+  "city_name": "Itauçu",
+  "uf": "GO",
+  "population": 7736,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 37124993.26,
+    "total_expense": 36325987.79,
+    "own_revenue_percentage": 10.1,
+    "transfers_revenue_percentage": 89.9,
+    "personnel_expense_percentage_rcl": 49.8
+  },
+  "per_capita_breakdown": {
+    "health": 1233.2,
+    "education": 1372.0,
+    "urbanism": 657.4,
+    "administration": 542.6,
+    "legislative": 113.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3803.5,
+      "health_per_capita": 961.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4085.3,
+      "health_per_capita": 1035.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4367.0,
+      "health_per_capita": 1109.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4601.8,
+      "health_per_capita": 1183.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4695.7,
+      "health_per_capita": 1233.2
+    }
+  ]
+}

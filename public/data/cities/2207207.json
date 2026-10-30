@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2207207",
+  "city_name": "Padre Marcos",
+  "uf": "PI",
+  "population": 6382,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 30206906.43,
+    "total_expense": 30380284.86,
+    "own_revenue_percentage": 8.2,
+    "transfers_revenue_percentage": 91.8,
+    "personnel_expense_percentage_rcl": 51.0
+  },
+  "per_capita_breakdown": {
+    "health": 1185.9,
+    "education": 1179.6,
+    "urbanism": 390.4,
+    "administration": 477.8,
+    "legislative": 91.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3855.8,
+      "health_per_capita": 925.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4141.5,
+      "health_per_capita": 996.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4427.1,
+      "health_per_capita": 1067.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4665.1,
+      "health_per_capita": 1138.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4760.3,
+      "health_per_capita": 1185.9
+    }
+  ]
+}

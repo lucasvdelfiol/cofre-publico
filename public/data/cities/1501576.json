@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1501576",
+  "city_name": "Bom Jesus do Tocantins",
+  "uf": "PA",
+  "population": 18005,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 88253207.07,
+    "total_expense": 85907371.14,
+    "own_revenue_percentage": 13.2,
+    "transfers_revenue_percentage": 86.8,
+    "personnel_expense_percentage_rcl": 49.9
+  },
+  "per_capita_breakdown": {
+    "health": 1024.8,
+    "education": 1464.2,
+    "urbanism": 521.4,
+    "administration": 396.0,
+    "legislative": 156.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3864.8,
+      "health_per_capita": 799.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4151.0,
+      "health_per_capita": 860.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4437.3,
+      "health_per_capita": 922.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4675.9,
+      "health_per_capita": 983.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4771.3,
+      "health_per_capita": 1024.8
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2201101",
+  "city_name": "Avelino Lopes",
+  "uf": "PI",
+  "population": 10866,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 49629825.61,
+    "total_expense": 49249863.87,
+    "own_revenue_percentage": 12.5,
+    "transfers_revenue_percentage": 87.5,
+    "personnel_expense_percentage_rcl": 45.7
+  },
+  "per_capita_breakdown": {
+    "health": 1199.9,
+    "education": 1090.9,
+    "urbanism": 553.3,
+    "administration": 481.8,
+    "legislative": 155.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3671.3,
+      "health_per_capita": 935.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3943.3,
+      "health_per_capita": 1007.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4215.2,
+      "health_per_capita": 1079.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4441.9,
+      "health_per_capita": 1151.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4532.5,
+      "health_per_capita": 1199.9
+    }
+  ]
+}

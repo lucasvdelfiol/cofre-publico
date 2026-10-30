@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4125555",
+  "city_name": "São Manoel do Paraná",
+  "uf": "PR",
+  "population": 2138,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 11350716.64,
+    "total_expense": 11323929.02,
+    "own_revenue_percentage": 9.6,
+    "transfers_revenue_percentage": 90.4,
+    "personnel_expense_percentage_rcl": 50.8
+  },
+  "per_capita_breakdown": {
+    "health": 1231.8,
+    "education": 1522.1,
+    "urbanism": 634.3,
+    "administration": 404.9,
+    "legislative": 110.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4290.2,
+      "health_per_capita": 960.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4608.0,
+      "health_per_capita": 1034.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4925.7,
+      "health_per_capita": 1108.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5190.6,
+      "health_per_capita": 1182.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5296.5,
+      "health_per_capita": 1231.8
+    }
+  ]
+}

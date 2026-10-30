@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4313391",
+  "city_name": "Novo Cabrais",
+  "uf": "RS",
+  "population": 3568,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 20548085.74,
+    "total_expense": 19793643.47,
+    "own_revenue_percentage": 19.1,
+    "transfers_revenue_percentage": 80.9,
+    "personnel_expense_percentage_rcl": 45.8
+  },
+  "per_capita_breakdown": {
+    "health": 1546.2,
+    "education": 1718.7,
+    "urbanism": 781.7,
+    "administration": 661.9,
+    "legislative": 121.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4493.5,
+      "health_per_capita": 1206.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4826.3,
+      "health_per_capita": 1298.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5159.2,
+      "health_per_capita": 1391.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5436.6,
+      "health_per_capita": 1484.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5547.5,
+      "health_per_capita": 1546.2
+    }
+  ]
+}

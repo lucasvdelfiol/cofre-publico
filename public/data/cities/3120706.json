@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3120706",
+  "city_name": "Cruzeiro da Fortaleza",
+  "uf": "MG",
+  "population": 3521,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 15929649.36,
+    "total_expense": 15894797.62,
+    "own_revenue_percentage": 17.5,
+    "transfers_revenue_percentage": 82.5,
+    "personnel_expense_percentage_rcl": 45.7
+  },
+  "per_capita_breakdown": {
+    "health": 998.2,
+    "education": 1423.4,
+    "urbanism": 510.8,
+    "administration": 413.2,
+    "legislative": 126.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3656.6,
+      "health_per_capita": 778.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3927.4,
+      "health_per_capita": 838.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4198.3,
+      "health_per_capita": 898.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4424.0,
+      "health_per_capita": 958.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4514.3,
+      "health_per_capita": 998.2
+    }
+  ]
+}

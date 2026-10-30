@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3306156",
+  "city_name": "Varre-Sai",
+  "uf": "RJ",
+  "population": 10207,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 48238516.49,
+    "total_expense": 48455249.35,
+    "own_revenue_percentage": 10.1,
+    "transfers_revenue_percentage": 89.9,
+    "personnel_expense_percentage_rcl": 47.2
+  },
+  "per_capita_breakdown": {
+    "health": 1272.2,
+    "education": 1379.7,
+    "urbanism": 696.9,
+    "administration": 567.6,
+    "legislative": 148.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3845.3,
+      "health_per_capita": 992.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4130.2,
+      "health_per_capita": 1068.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4415.0,
+      "health_per_capita": 1145.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4652.4,
+      "health_per_capita": 1221.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4747.3,
+      "health_per_capita": 1272.2
+    }
+  ]
+}

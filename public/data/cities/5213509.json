@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5213509",
+  "city_name": "Monte Alegre de Goiás",
+  "uf": "GO",
+  "population": 6692,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 32169121.88,
+    "total_expense": 32359983.11,
+    "own_revenue_percentage": 9.1,
+    "transfers_revenue_percentage": 90.9,
+    "personnel_expense_percentage_rcl": 52.3
+  },
+  "per_capita_breakdown": {
+    "health": 1145.9,
+    "education": 1546.0,
+    "urbanism": 387.8,
+    "administration": 477.5,
+    "legislative": 139.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3916.8,
+      "health_per_capita": 893.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4207.0,
+      "health_per_capita": 962.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4497.1,
+      "health_per_capita": 1031.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4738.9,
+      "health_per_capita": 1100.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4835.6,
+      "health_per_capita": 1145.9
+    }
+  ]
+}

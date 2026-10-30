@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3533205",
+  "city_name": "Nova Independência",
+  "uf": "SP",
+  "population": 4609,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 23790139.83,
+    "total_expense": 23325251.08,
+    "own_revenue_percentage": 21.2,
+    "transfers_revenue_percentage": 78.8,
+    "personnel_expense_percentage_rcl": 49.8
+  },
+  "per_capita_breakdown": {
+    "health": 1040.4,
+    "education": 1411.1,
+    "urbanism": 473.1,
+    "administration": 498.1,
+    "legislative": 123.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4099.2,
+      "health_per_capita": 811.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4402.9,
+      "health_per_capita": 873.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4706.5,
+      "health_per_capita": 936.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4959.6,
+      "health_per_capita": 998.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5060.8,
+      "health_per_capita": 1040.4
+    }
+  ]
+}

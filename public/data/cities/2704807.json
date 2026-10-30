@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2704807",
+  "city_name": "Maribondo",
+  "uf": "AL",
+  "population": 13679,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 74131431.25,
+    "total_expense": 71297009.57,
+    "own_revenue_percentage": 11.3,
+    "transfers_revenue_percentage": 88.7,
+    "personnel_expense_percentage_rcl": 53.7
+  },
+  "per_capita_breakdown": {
+    "health": 1094.8,
+    "education": 1345.4,
+    "urbanism": 601.6,
+    "administration": 313.0,
+    "legislative": 181.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4221.9,
+      "health_per_capita": 853.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4534.6,
+      "health_per_capita": 919.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4847.3,
+      "health_per_capita": 985.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5108.0,
+      "health_per_capita": 1051.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5212.2,
+      "health_per_capita": 1094.8
+    }
+  ]
+}

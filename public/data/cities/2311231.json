@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2311231",
+  "city_name": "Potiretama",
+  "uf": "CE",
+  "population": 5974,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 29578002.88,
+    "total_expense": 29659907.9,
+    "own_revenue_percentage": 11.4,
+    "transfers_revenue_percentage": 88.6,
+    "personnel_expense_percentage_rcl": 46.5
+  },
+  "per_capita_breakdown": {
+    "health": 1009.8,
+    "education": 1530.3,
+    "urbanism": 710.6,
+    "administration": 334.9,
+    "legislative": 102.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4021.5,
+      "health_per_capita": 787.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4319.4,
+      "health_per_capita": 848.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4617.3,
+      "health_per_capita": 908.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4865.5,
+      "health_per_capita": 969.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4964.8,
+      "health_per_capita": 1009.8
+    }
+  ]
+}

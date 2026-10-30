@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1501808",
+  "city_name": "Breves",
+  "uf": "PA",
+  "population": 106968,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 503844218.99,
+    "total_expense": 507836984.12,
+    "own_revenue_percentage": 51.0,
+    "transfers_revenue_percentage": 49.0,
+    "personnel_expense_percentage_rcl": 49.4
+  },
+  "per_capita_breakdown": {
+    "health": 1127.1,
+    "education": 1240.4,
+    "urbanism": 527.4,
+    "administration": 324.4,
+    "legislative": 119.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3845.6,
+      "health_per_capita": 879.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4130.4,
+      "health_per_capita": 946.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4415.3,
+      "health_per_capita": 1014.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4652.6,
+      "health_per_capita": 1082.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4747.6,
+      "health_per_capita": 1127.1
+    }
+  ]
+}

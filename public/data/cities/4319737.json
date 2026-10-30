@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4319737",
+  "city_name": "São Valério do Sul",
+  "uf": "RS",
+  "population": 2543,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 11864218.22,
+    "total_expense": 11896456.25,
+    "own_revenue_percentage": 15.0,
+    "transfers_revenue_percentage": 85.0,
+    "personnel_expense_percentage_rcl": 48.3
+  },
+  "per_capita_breakdown": {
+    "health": 961.4,
+    "education": 1172.3,
+    "urbanism": 569.6,
+    "administration": 417.5,
+    "legislative": 160.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3789.3,
+      "health_per_capita": 749.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4069.9,
+      "health_per_capita": 807.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4350.6,
+      "health_per_capita": 865.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4584.5,
+      "health_per_capita": 922.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4678.1,
+      "health_per_capita": 961.4
+    }
+  ]
+}

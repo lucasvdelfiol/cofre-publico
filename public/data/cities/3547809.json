@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3547809",
+  "city_name": "Santo André",
+  "uf": "SP",
+  "population": 748919,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 3528665604.06,
+    "total_expense": 3479528718.56,
+    "own_revenue_percentage": 43.6,
+    "transfers_revenue_percentage": 56.4,
+    "personnel_expense_percentage_rcl": 51.9
+  },
+  "per_capita_breakdown": {
+    "health": 1006.9,
+    "education": 1238.4,
+    "urbanism": 572.2,
+    "administration": 297.9,
+    "legislative": 145.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3763.3,
+      "health_per_capita": 785.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4042.1,
+      "health_per_capita": 845.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4320.9,
+      "health_per_capita": 906.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4553.2,
+      "health_per_capita": 966.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4646.1,
+      "health_per_capita": 1006.9
+    }
+  ]
+}

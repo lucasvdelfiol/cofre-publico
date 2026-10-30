@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3552551",
+  "city_name": "Suzanápolis",
+  "uf": "SP",
+  "population": 3408,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 16625068.03,
+    "total_expense": 16180997.49,
+    "own_revenue_percentage": 17.2,
+    "transfers_revenue_percentage": 82.8,
+    "personnel_expense_percentage_rcl": 47.8
+  },
+  "per_capita_breakdown": {
+    "health": 1281.5,
+    "education": 1354.0,
+    "urbanism": 558.3,
+    "administration": 502.2,
+    "legislative": 101.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3845.8,
+      "health_per_capita": 999.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4130.7,
+      "health_per_capita": 1076.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4415.5,
+      "health_per_capita": 1153.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4652.9,
+      "health_per_capita": 1230.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4747.9,
+      "health_per_capita": 1281.5
+    }
+  ]
+}

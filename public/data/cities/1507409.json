@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1507409",
+  "city_name": "São Francisco do Pará",
+  "uf": "PA",
+  "population": 14894,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 79808551.17,
+    "total_expense": 77009858.3,
+    "own_revenue_percentage": 19.6,
+    "transfers_revenue_percentage": 80.4,
+    "personnel_expense_percentage_rcl": 49.7
+  },
+  "per_capita_breakdown": {
+    "health": 1251.4,
+    "education": 1471.6,
+    "urbanism": 728.0,
+    "administration": 495.6,
+    "legislative": 79.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4188.1,
+      "health_per_capita": 976.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4498.3,
+      "health_per_capita": 1051.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4808.6,
+      "health_per_capita": 1126.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5067.1,
+      "health_per_capita": 1201.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5170.5,
+      "health_per_capita": 1251.4
+    }
+  ]
+}

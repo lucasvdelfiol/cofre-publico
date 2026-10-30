@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3141603",
+  "city_name": "Mercês",
+  "uf": "MG",
+  "population": 10373,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 56513681.69,
+    "total_expense": 54561585.25,
+    "own_revenue_percentage": 8.3,
+    "transfers_revenue_percentage": 91.7,
+    "personnel_expense_percentage_rcl": 50.7
+  },
+  "per_capita_breakdown": {
+    "health": 1054.2,
+    "education": 1463.1,
+    "urbanism": 566.5,
+    "administration": 622.9,
+    "legislative": 144.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4260.6,
+      "health_per_capita": 822.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4576.2,
+      "health_per_capita": 885.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4891.8,
+      "health_per_capita": 948.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5154.8,
+      "health_per_capita": 1012.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5260.0,
+      "health_per_capita": 1054.2
+    }
+  ]
+}

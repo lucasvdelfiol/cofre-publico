@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1715754",
+  "city_name": "Palmeirópolis",
+  "uf": "TO",
+  "population": 6975,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 31264512.4,
+    "total_expense": 30175453.6,
+    "own_revenue_percentage": 8.7,
+    "transfers_revenue_percentage": 91.3,
+    "personnel_expense_percentage_rcl": 47.1
+  },
+  "per_capita_breakdown": {
+    "health": 1004.5,
+    "education": 1140.7,
+    "urbanism": 370.8,
+    "administration": 483.6,
+    "legislative": 79.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3504.2,
+      "health_per_capita": 783.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3763.8,
+      "health_per_capita": 843.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4023.4,
+      "health_per_capita": 904.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4239.7,
+      "health_per_capita": 964.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4326.2,
+      "health_per_capita": 1004.5
+    }
+  ]
+}

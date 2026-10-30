@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3556206",
+  "city_name": "Valinhos",
+  "uf": "SP",
+  "population": 126373,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 683940556.41,
+    "total_expense": 679431925.83,
+    "own_revenue_percentage": 52.1,
+    "transfers_revenue_percentage": 47.9,
+    "personnel_expense_percentage_rcl": 45.8
+  },
+  "per_capita_breakdown": {
+    "health": 1409.5,
+    "education": 1356.1,
+    "urbanism": 495.8,
+    "administration": 490.7,
+    "legislative": 100.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4354.9,
+      "health_per_capita": 1099.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4677.5,
+      "health_per_capita": 1184.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5000.1,
+      "health_per_capita": 1268.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5268.9,
+      "health_per_capita": 1353.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5376.4,
+      "health_per_capita": 1409.5
+    }
+  ]
+}

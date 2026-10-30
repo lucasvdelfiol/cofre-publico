@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2708303",
+  "city_name": "São José da Laje",
+  "uf": "AL",
+  "population": 20813,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 100689212.46,
+    "total_expense": 99353839.77,
+    "own_revenue_percentage": 25.0,
+    "transfers_revenue_percentage": 75.0,
+    "personnel_expense_percentage_rcl": 50.2
+  },
+  "per_capita_breakdown": {
+    "health": 1201.6,
+    "education": 1192.7,
+    "urbanism": 456.1,
+    "administration": 386.5,
+    "legislative": 77.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3866.6,
+      "health_per_capita": 937.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4153.0,
+      "health_per_capita": 1009.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4439.4,
+      "health_per_capita": 1081.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4678.1,
+      "health_per_capita": 1153.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4773.6,
+      "health_per_capita": 1201.6
+    }
+  ]
+}

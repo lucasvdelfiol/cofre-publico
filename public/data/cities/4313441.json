@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4313441",
+  "city_name": "Novo Tiradentes",
+  "uf": "RS",
+  "population": 2146,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 10180789.73,
+    "total_expense": 9818165.5,
+    "own_revenue_percentage": 9.4,
+    "transfers_revenue_percentage": 90.6,
+    "personnel_expense_percentage_rcl": 45.8
+  },
+  "per_capita_breakdown": {
+    "health": 1223.6,
+    "education": 1417.4,
+    "urbanism": 683.8,
+    "administration": 376.2,
+    "legislative": 155.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3705.8,
+      "health_per_capita": 954.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3980.3,
+      "health_per_capita": 1027.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4254.8,
+      "health_per_capita": 1101.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4483.6,
+      "health_per_capita": 1174.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4575.1,
+      "health_per_capita": 1223.6
+    }
+  ]
+}

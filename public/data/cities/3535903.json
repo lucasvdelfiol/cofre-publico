@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3535903",
+  "city_name": "Paranapuã",
+  "uf": "SP",
+  "population": 4031,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 22720068.43,
+    "total_expense": 21875984.7,
+    "own_revenue_percentage": 17.1,
+    "transfers_revenue_percentage": 82.9,
+    "personnel_expense_percentage_rcl": 47.5
+  },
+  "per_capita_breakdown": {
+    "health": 1443.1,
+    "education": 1543.3,
+    "urbanism": 676.0,
+    "administration": 505.8,
+    "legislative": 115.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4395.8,
+      "health_per_capita": 1125.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4721.4,
+      "health_per_capita": 1212.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5047.0,
+      "health_per_capita": 1298.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5318.4,
+      "health_per_capita": 1385.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5426.9,
+      "health_per_capita": 1443.1
+    }
+  ]
+}

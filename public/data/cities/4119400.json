@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4119400",
+  "city_name": "Piraí do Sul",
+  "uf": "PR",
+  "population": 23651,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 98364733.94,
+    "total_expense": 97750226.43,
+    "own_revenue_percentage": 29.4,
+    "transfers_revenue_percentage": 70.6,
+    "personnel_expense_percentage_rcl": 46.5
+  },
+  "per_capita_breakdown": {
+    "health": 891.7,
+    "education": 1039.8,
+    "urbanism": 347.8,
+    "administration": 382.3,
+    "legislative": 108.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3347.7,
+      "health_per_capita": 695.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3595.7,
+      "health_per_capita": 749.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3843.7,
+      "health_per_capita": 802.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4050.3,
+      "health_per_capita": 856.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4133.0,
+      "health_per_capita": 891.7
+    }
+  ]
+}

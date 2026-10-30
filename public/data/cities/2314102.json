@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2314102",
+  "city_name": "Viçosa do Ceará",
+  "uf": "CE",
+  "population": 59712,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 302246698.59,
+    "total_expense": 295534223.23,
+    "own_revenue_percentage": 30.9,
+    "transfers_revenue_percentage": 69.1,
+    "personnel_expense_percentage_rcl": 45.5
+  },
+  "per_capita_breakdown": {
+    "health": 1034.6,
+    "education": 1319.2,
+    "urbanism": 511.1,
+    "administration": 441.5,
+    "legislative": 105.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4008.9,
+      "health_per_capita": 807.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4305.9,
+      "health_per_capita": 869.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4602.8,
+      "health_per_capita": 931.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4850.3,
+      "health_per_capita": 993.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4949.3,
+      "health_per_capita": 1034.6
+    }
+  ]
+}

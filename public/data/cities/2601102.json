@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2601102",
+  "city_name": "Araripina",
+  "uf": "PE",
+  "population": 85088,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 429876769.53,
+    "total_expense": 422803251.1,
+    "own_revenue_percentage": 41.2,
+    "transfers_revenue_percentage": 58.8,
+    "personnel_expense_percentage_rcl": 49.2
+  },
+  "per_capita_breakdown": {
+    "health": 1098.5,
+    "education": 1555.7,
+    "urbanism": 482.5,
+    "administration": 477.7,
+    "legislative": 118.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4024.9,
+      "health_per_capita": 856.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4323.0,
+      "health_per_capita": 922.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4621.2,
+      "health_per_capita": 988.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4869.6,
+      "health_per_capita": 1054.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4969.0,
+      "health_per_capita": 1098.5
+    }
+  ]
+}

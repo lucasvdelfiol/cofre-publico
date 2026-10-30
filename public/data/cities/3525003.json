@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3525003",
+  "city_name": "Jandira",
+  "uf": "SP",
+  "population": 118045,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 561539911.08,
+    "total_expense": 567201828.76,
+    "own_revenue_percentage": 47.3,
+    "transfers_revenue_percentage": 52.7,
+    "personnel_expense_percentage_rcl": 51.3
+  },
+  "per_capita_breakdown": {
+    "health": 1269.6,
+    "education": 1395.5,
+    "urbanism": 538.9,
+    "administration": 423.7,
+    "legislative": 118.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3892.1,
+      "health_per_capita": 990.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4180.4,
+      "health_per_capita": 1066.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4468.7,
+      "health_per_capita": 1142.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4708.9,
+      "health_per_capita": 1218.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4805.0,
+      "health_per_capita": 1269.6
+    }
+  ]
+}

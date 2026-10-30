@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3109402",
+  "city_name": "Buritizeiro",
+  "uf": "MG",
+  "population": 23910,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 116123707.89,
+    "total_expense": 116452191.57,
+    "own_revenue_percentage": 25.8,
+    "transfers_revenue_percentage": 74.2,
+    "personnel_expense_percentage_rcl": 51.5
+  },
+  "per_capita_breakdown": {
+    "health": 1075.2,
+    "education": 1418.2,
+    "urbanism": 426.2,
+    "administration": 361.5,
+    "legislative": 90.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3945.0,
+      "health_per_capita": 838.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4237.2,
+      "health_per_capita": 903.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4529.5,
+      "health_per_capita": 967.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4773.0,
+      "health_per_capita": 1032.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4870.4,
+      "health_per_capita": 1075.2
+    }
+  ]
+}

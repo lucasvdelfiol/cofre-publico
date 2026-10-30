@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2503407",
+  "city_name": "Cacimba de Areia",
+  "uf": "PB",
+  "population": 3291,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 15086484.94,
+    "total_expense": 14969032.12,
+    "own_revenue_percentage": 14.4,
+    "transfers_revenue_percentage": 85.6,
+    "personnel_expense_percentage_rcl": 45.7
+  },
+  "per_capita_breakdown": {
+    "health": 1231.6,
+    "education": 1182.8,
+    "urbanism": 441.1,
+    "administration": 301.0,
+    "legislative": 128.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3684.3,
+      "health_per_capita": 960.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3957.2,
+      "health_per_capita": 1034.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4230.1,
+      "health_per_capita": 1108.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4457.5,
+      "health_per_capita": 1182.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4548.5,
+      "health_per_capita": 1231.6
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3163409",
+  "city_name": "São José do Goiabal",
+  "uf": "MG",
+  "population": 5396,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 29114668.02,
+    "total_expense": 28758346.7,
+    "own_revenue_percentage": 12.5,
+    "transfers_revenue_percentage": 87.5,
+    "personnel_expense_percentage_rcl": 53.8
+  },
+  "per_capita_breakdown": {
+    "health": 1394.3,
+    "education": 1467.5,
+    "urbanism": 569.2,
+    "administration": 327.6,
+    "legislative": 182.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4317.0,
+      "health_per_capita": 1087.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4636.8,
+      "health_per_capita": 1171.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4956.5,
+      "health_per_capita": 1254.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5223.0,
+      "health_per_capita": 1338.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5329.6,
+      "health_per_capita": 1394.3
+    }
+  ]
+}

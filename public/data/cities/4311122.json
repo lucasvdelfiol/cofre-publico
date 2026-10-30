@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4311122",
+  "city_name": "Jaquirana",
+  "uf": "RS",
+  "population": 3690,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 19643004.57,
+    "total_expense": 19057853.11,
+    "own_revenue_percentage": 10.2,
+    "transfers_revenue_percentage": 89.8,
+    "personnel_expense_percentage_rcl": 53.7
+  },
+  "per_capita_breakdown": {
+    "health": 1170.1,
+    "education": 1582.1,
+    "urbanism": 561.9,
+    "administration": 426.9,
+    "legislative": 86.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4183.4,
+      "health_per_capita": 912.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4493.3,
+      "health_per_capita": 982.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4803.2,
+      "health_per_capita": 1053.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5061.4,
+      "health_per_capita": 1123.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5164.7,
+      "health_per_capita": 1170.1
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3538600",
+  "city_name": "Piracaia",
+  "uf": "SP",
+  "population": 26029,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 122512119.16,
+    "total_expense": 120882932.33,
+    "own_revenue_percentage": 25.1,
+    "transfers_revenue_percentage": 74.9,
+    "personnel_expense_percentage_rcl": 47.2
+  },
+  "per_capita_breakdown": {
+    "health": 1277.5,
+    "education": 1479.0,
+    "urbanism": 507.2,
+    "administration": 345.5,
+    "legislative": 158.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3761.8,
+      "health_per_capita": 996.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4040.5,
+      "health_per_capita": 1073.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4319.1,
+      "health_per_capita": 1149.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4551.3,
+      "health_per_capita": 1226.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4644.2,
+      "health_per_capita": 1277.5
+    }
+  ]
+}

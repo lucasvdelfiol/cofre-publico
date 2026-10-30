@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2210383",
+  "city_name": "São Miguel da Baixa Grande",
+  "uf": "PI",
+  "population": 2269,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 9929010.37,
+    "total_expense": 10023164.78,
+    "own_revenue_percentage": 11.7,
+    "transfers_revenue_percentage": 88.3,
+    "personnel_expense_percentage_rcl": 46.2
+  },
+  "per_capita_breakdown": {
+    "health": 1198.4,
+    "education": 1406.0,
+    "urbanism": 572.3,
+    "administration": 329.3,
+    "legislative": 100.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3578.1,
+      "health_per_capita": 934.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3843.1,
+      "health_per_capita": 1006.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4108.2,
+      "health_per_capita": 1078.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4329.1,
+      "health_per_capita": 1150.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4417.4,
+      "health_per_capita": 1198.4
+    }
+  ]
+}

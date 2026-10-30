@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2922201",
+  "city_name": "Muniz Ferreira",
+  "uf": "BA",
+  "population": 7190,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 39069381.61,
+    "total_expense": 39337667.69,
+    "own_revenue_percentage": 9.4,
+    "transfers_revenue_percentage": 90.6,
+    "personnel_expense_percentage_rcl": 53.0
+  },
+  "per_capita_breakdown": {
+    "health": 1424.7,
+    "education": 1546.3,
+    "urbanism": 665.3,
+    "administration": 569.0,
+    "legislative": 150.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4431.7,
+      "health_per_capita": 1111.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4759.9,
+      "health_per_capita": 1196.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5088.2,
+      "health_per_capita": 1282.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5361.8,
+      "health_per_capita": 1367.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5471.2,
+      "health_per_capita": 1424.7
+    }
+  ]
+}

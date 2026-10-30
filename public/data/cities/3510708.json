@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3510708",
+  "city_name": "Cardoso",
+  "uf": "SP",
+  "population": 11345,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 55982996.52,
+    "total_expense": 55266696.96,
+    "own_revenue_percentage": 9.4,
+    "transfers_revenue_percentage": 90.6,
+    "personnel_expense_percentage_rcl": 51.1
+  },
+  "per_capita_breakdown": {
+    "health": 1314.8,
+    "education": 1271.3,
+    "urbanism": 429.2,
+    "administration": 490.0,
+    "legislative": 83.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3945.9,
+      "health_per_capita": 1025.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4238.2,
+      "health_per_capita": 1104.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4530.5,
+      "health_per_capita": 1183.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4774.1,
+      "health_per_capita": 1262.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4871.5,
+      "health_per_capita": 1314.8
+    }
+  ]
+}

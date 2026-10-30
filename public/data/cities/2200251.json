@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2200251",
+  "city_name": "Alagoinha do Piauí",
+  "uf": "PI",
+  "population": 6819,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 29673710.4,
+    "total_expense": 29818190.7,
+    "own_revenue_percentage": 14.0,
+    "transfers_revenue_percentage": 86.0,
+    "personnel_expense_percentage_rcl": 52.3
+  },
+  "per_capita_breakdown": {
+    "health": 899.3,
+    "education": 1311.9,
+    "urbanism": 383.4,
+    "administration": 367.6,
+    "legislative": 77.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3542.0,
+      "health_per_capita": 701.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3804.3,
+      "health_per_capita": 755.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4066.7,
+      "health_per_capita": 809.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4285.3,
+      "health_per_capita": 863.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4372.8,
+      "health_per_capita": 899.3
+    }
+  ]
+}

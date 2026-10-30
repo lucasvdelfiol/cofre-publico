@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5220686",
+  "city_name": "Simolândia",
+  "uf": "GO",
+  "population": 5742,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 31279386.43,
+    "total_expense": 30293872.37,
+    "own_revenue_percentage": 21.0,
+    "transfers_revenue_percentage": 79.0,
+    "personnel_expense_percentage_rcl": 52.5
+  },
+  "per_capita_breakdown": {
+    "health": 1075.4,
+    "education": 1461.0,
+    "urbanism": 554.1,
+    "administration": 550.4,
+    "legislative": 146.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4273.4,
+      "health_per_capita": 838.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4589.9,
+      "health_per_capita": 903.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4906.5,
+      "health_per_capita": 967.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5170.3,
+      "health_per_capita": 1032.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5275.8,
+      "health_per_capita": 1075.4
+    }
+  ]
+}

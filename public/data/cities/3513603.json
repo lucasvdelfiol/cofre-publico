@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3513603",
+  "city_name": "Cunha",
+  "uf": "SP",
+  "population": 22110,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 91606869.99,
+    "total_expense": 90912559.22,
+    "own_revenue_percentage": 31.9,
+    "transfers_revenue_percentage": 68.1,
+    "personnel_expense_percentage_rcl": 50.6
+  },
+  "per_capita_breakdown": {
+    "health": 1124.2,
+    "education": 1073.9,
+    "urbanism": 449.0,
+    "administration": 254.5,
+    "legislative": 135.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3330.6,
+      "health_per_capita": 876.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3577.3,
+      "health_per_capita": 944.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3824.0,
+      "health_per_capita": 1011.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4029.6,
+      "health_per_capita": 1079.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4111.8,
+      "health_per_capita": 1124.2
+    }
+  ]
+}

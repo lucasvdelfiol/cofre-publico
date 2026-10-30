@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1713205",
+  "city_name": "Miracema do Tocantins",
+  "uf": "TO",
+  "population": 18566,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 102188796.97,
+    "total_expense": 98485946.97,
+    "own_revenue_percentage": 11.2,
+    "transfers_revenue_percentage": 88.8,
+    "personnel_expense_percentage_rcl": 48.3
+  },
+  "per_capita_breakdown": {
+    "health": 1311.7,
+    "education": 1468.2,
+    "urbanism": 568.7,
+    "administration": 319.2,
+    "legislative": 152.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4296.7,
+      "health_per_capita": 1023.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4615.0,
+      "health_per_capita": 1101.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4933.3,
+      "health_per_capita": 1180.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5198.5,
+      "health_per_capita": 1259.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5304.6,
+      "health_per_capita": 1311.7
+    }
+  ]
+}

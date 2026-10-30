@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4101804",
+  "city_name": "Araucária",
+  "uf": "PR",
+  "population": 151666,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 789645977.34,
+    "total_expense": 775562392.29,
+    "own_revenue_percentage": 41.4,
+    "transfers_revenue_percentage": 58.6,
+    "personnel_expense_percentage_rcl": 46.0
+  },
+  "per_capita_breakdown": {
+    "health": 1065.1,
+    "education": 1418.2,
+    "urbanism": 412.6,
+    "administration": 613.0,
+    "legislative": 143.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4142.0,
+      "health_per_capita": 830.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4448.8,
+      "health_per_capita": 894.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4755.6,
+      "health_per_capita": 958.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5011.3,
+      "health_per_capita": 1022.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5113.6,
+      "health_per_capita": 1065.1
+    }
+  ]
+}

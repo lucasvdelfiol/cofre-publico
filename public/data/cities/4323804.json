@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4323804",
+  "city_name": "Xangri-lá",
+  "uf": "RS",
+  "population": 16463,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 85438031.94,
+    "total_expense": 86174093.47,
+    "own_revenue_percentage": 16.5,
+    "transfers_revenue_percentage": 83.5,
+    "personnel_expense_percentage_rcl": 50.5
+  },
+  "per_capita_breakdown": {
+    "health": 1416.7,
+    "education": 1345.6,
+    "urbanism": 542.6,
+    "administration": 561.8,
+    "legislative": 94.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4239.9,
+      "health_per_capita": 1105.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4553.9,
+      "health_per_capita": 1190.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4868.0,
+      "health_per_capita": 1275.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5129.7,
+      "health_per_capita": 1360.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5234.4,
+      "health_per_capita": 1416.7
+    }
+  ]
+}

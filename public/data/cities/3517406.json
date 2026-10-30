@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3517406",
+  "city_name": "Guaíra",
+  "uf": "SP",
+  "population": 39279,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 177274304.15,
+    "total_expense": 172053990.99,
+    "own_revenue_percentage": 25.3,
+    "transfers_revenue_percentage": 74.7,
+    "personnel_expense_percentage_rcl": 47.4
+  },
+  "per_capita_breakdown": {
+    "health": 1128.1,
+    "education": 1370.7,
+    "urbanism": 356.1,
+    "administration": 364.0,
+    "legislative": 91.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3548.0,
+      "health_per_capita": 879.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3810.9,
+      "health_per_capita": 947.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4073.7,
+      "health_per_capita": 1015.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4292.7,
+      "health_per_capita": 1083.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4380.3,
+      "health_per_capita": 1128.1
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3108552",
+  "city_name": "Brasilândia de Minas",
+  "uf": "MG",
+  "population": 15020,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 72879077.62,
+    "total_expense": 70892548.22,
+    "own_revenue_percentage": 8.7,
+    "transfers_revenue_percentage": 91.3,
+    "personnel_expense_percentage_rcl": 45.7
+  },
+  "per_capita_breakdown": {
+    "health": 1013.7,
+    "education": 1145.6,
+    "urbanism": 739.2,
+    "administration": 502.2,
+    "legislative": 129.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3823.1,
+      "health_per_capita": 790.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4106.3,
+      "health_per_capita": 851.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4389.5,
+      "health_per_capita": 912.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4625.5,
+      "health_per_capita": 973.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4719.9,
+      "health_per_capita": 1013.7
+    }
+  ]
+}

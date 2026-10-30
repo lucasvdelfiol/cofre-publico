@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3552403",
+  "city_name": "Sumaré",
+  "uf": "SP",
+  "population": 279545,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 1653778011.99,
+    "total_expense": 1595135929.43,
+    "own_revenue_percentage": 48.5,
+    "transfers_revenue_percentage": 51.5,
+    "personnel_expense_percentage_rcl": 45.8
+  },
+  "per_capita_breakdown": {
+    "health": 1583.1,
+    "education": 1763.2,
+    "urbanism": 477.6,
+    "administration": 668.8,
+    "legislative": 185.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4622.0,
+      "health_per_capita": 1234.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4964.4,
+      "health_per_capita": 1329.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5306.8,
+      "health_per_capita": 1424.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5592.1,
+      "health_per_capita": 1519.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5706.2,
+      "health_per_capita": 1583.1
+    }
+  ]
+}

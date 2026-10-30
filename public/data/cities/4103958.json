@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4103958",
+  "city_name": "Campina do Simão",
+  "uf": "PR",
+  "population": 3936,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 21381017.95,
+    "total_expense": 21150034.37,
+    "own_revenue_percentage": 18.8,
+    "transfers_revenue_percentage": 81.2,
+    "personnel_expense_percentage_rcl": 47.5
+  },
+  "per_capita_breakdown": {
+    "health": 1104.1,
+    "education": 1426.4,
+    "urbanism": 604.3,
+    "administration": 533.8,
+    "legislative": 139.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4352.5,
+      "health_per_capita": 861.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4674.9,
+      "health_per_capita": 927.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4997.4,
+      "health_per_capita": 993.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5266.0,
+      "health_per_capita": 1059.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5373.5,
+      "health_per_capita": 1104.1
+    }
+  ]
+}

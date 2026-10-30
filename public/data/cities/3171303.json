@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3171303",
+  "city_name": "Viçosa",
+  "uf": "MG",
+  "population": 76430,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 335746511.32,
+    "total_expense": 332159929.28,
+    "own_revenue_percentage": 29.2,
+    "transfers_revenue_percentage": 70.8,
+    "personnel_expense_percentage_rcl": 45.8
+  },
+  "per_capita_breakdown": {
+    "health": 1026.5,
+    "education": 1227.1,
+    "urbanism": 433.0,
+    "administration": 492.8,
+    "legislative": 99.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3520.2,
+      "health_per_capita": 800.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3780.9,
+      "health_per_capita": 862.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4041.7,
+      "health_per_capita": 923.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4259.0,
+      "health_per_capita": 985.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4345.9,
+      "health_per_capita": 1026.5
+    }
+  ]
+}

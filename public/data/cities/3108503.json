@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3108503",
+  "city_name": "Botumirim",
+  "uf": "MG",
+  "population": 5790,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 29131728.29,
+    "total_expense": 28760663.47,
+    "own_revenue_percentage": 14.4,
+    "transfers_revenue_percentage": 85.6,
+    "personnel_expense_percentage_rcl": 49.3
+  },
+  "per_capita_breakdown": {
+    "health": 1222.3,
+    "education": 1228.6,
+    "urbanism": 467.5,
+    "administration": 387.8,
+    "legislative": 171.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4023.5,
+      "health_per_capita": 953.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4321.6,
+      "health_per_capita": 1026.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4619.6,
+      "health_per_capita": 1100.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4868.0,
+      "health_per_capita": 1173.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4967.3,
+      "health_per_capita": 1222.3
+    }
+  ]
+}

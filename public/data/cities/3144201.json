@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3144201",
+  "city_name": "Nacip Raydan",
+  "uf": "MG",
+  "population": 2459,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 13584060.91,
+    "total_expense": 13610946.34,
+    "own_revenue_percentage": 8.5,
+    "transfers_revenue_percentage": 91.5,
+    "personnel_expense_percentage_rcl": 52.6
+  },
+  "per_capita_breakdown": {
+    "health": 1132.9,
+    "education": 1401.6,
+    "urbanism": 674.3,
+    "administration": 560.4,
+    "legislative": 121.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4483.5,
+      "health_per_capita": 883.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4815.6,
+      "health_per_capita": 951.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5147.7,
+      "health_per_capita": 1019.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5424.5,
+      "health_per_capita": 1087.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5535.2,
+      "health_per_capita": 1132.9
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4305871",
+  "city_name": "Coronel Barros",
+  "uf": "RS",
+  "population": 2822,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 14131747.43,
+    "total_expense": 13756796.86,
+    "own_revenue_percentage": 18.0,
+    "transfers_revenue_percentage": 82.0,
+    "personnel_expense_percentage_rcl": 49.2
+  },
+  "per_capita_breakdown": {
+    "health": 1196.5,
+    "education": 1545.9,
+    "urbanism": 597.3,
+    "administration": 309.1,
+    "legislative": 78.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3948.6,
+      "health_per_capita": 933.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4241.1,
+      "health_per_capita": 1005.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4533.6,
+      "health_per_capita": 1076.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4777.3,
+      "health_per_capita": 1148.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4874.8,
+      "health_per_capita": 1196.5
+    }
+  ]
+}

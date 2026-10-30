@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2103901",
+  "city_name": "Duque Bacelar",
+  "uf": "MA",
+  "population": 10223,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 44599375.18,
+    "total_expense": 44573559.82,
+    "own_revenue_percentage": 20.3,
+    "transfers_revenue_percentage": 79.7,
+    "personnel_expense_percentage_rcl": 47.0
+  },
+  "per_capita_breakdown": {
+    "health": 898.8,
+    "education": 1295.3,
+    "urbanism": 638.2,
+    "administration": 492.0,
+    "legislative": 70.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3531.7,
+      "health_per_capita": 701.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3793.3,
+      "health_per_capita": 755.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4054.9,
+      "health_per_capita": 808.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4272.9,
+      "health_per_capita": 862.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4360.1,
+      "health_per_capita": 898.8
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4317608",
+  "city_name": "Santo Antônio da Patrulha",
+  "uf": "RS",
+  "population": 42947,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 211176164.46,
+    "total_expense": 208597739.16,
+    "own_revenue_percentage": 28.9,
+    "transfers_revenue_percentage": 71.1,
+    "personnel_expense_percentage_rcl": 51.7
+  },
+  "per_capita_breakdown": {
+    "health": 1172.3,
+    "education": 1477.3,
+    "urbanism": 700.0,
+    "administration": 299.2,
+    "legislative": 100.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3934.3,
+      "health_per_capita": 914.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4225.7,
+      "health_per_capita": 984.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4517.1,
+      "health_per_capita": 1055.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4760.0,
+      "health_per_capita": 1125.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4857.1,
+      "health_per_capita": 1172.3
+    }
+  ]
+}

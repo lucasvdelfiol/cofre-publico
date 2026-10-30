@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3519006",
+  "city_name": "Herculândia",
+  "uf": "SP",
+  "population": 9125,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 46297453.35,
+    "total_expense": 45354500.33,
+    "own_revenue_percentage": 14.4,
+    "transfers_revenue_percentage": 85.6,
+    "personnel_expense_percentage_rcl": 46.2
+  },
+  "per_capita_breakdown": {
+    "health": 1007.5,
+    "education": 1313.6,
+    "urbanism": 625.3,
+    "administration": 468.1,
+    "legislative": 155.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4026.0,
+      "health_per_capita": 785.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4324.2,
+      "health_per_capita": 846.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4622.5,
+      "health_per_capita": 906.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4871.0,
+      "health_per_capita": 967.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4970.4,
+      "health_per_capita": 1007.5
+    }
+  ]
+}

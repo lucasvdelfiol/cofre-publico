@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2313005",
+  "city_name": "Solonópole",
+  "uf": "CE",
+  "population": 18179,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 93928279.68,
+    "total_expense": 90474043.05,
+    "own_revenue_percentage": 11.0,
+    "transfers_revenue_percentage": 89.0,
+    "personnel_expense_percentage_rcl": 49.3
+  },
+  "per_capita_breakdown": {
+    "health": 1184.8,
+    "education": 1211.9,
+    "urbanism": 459.9,
+    "administration": 524.2,
+    "legislative": 156.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4031.2,
+      "health_per_capita": 924.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4329.8,
+      "health_per_capita": 995.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4628.4,
+      "health_per_capita": 1066.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4877.3,
+      "health_per_capita": 1137.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4976.8,
+      "health_per_capita": 1184.8
+    }
+  ]
+}

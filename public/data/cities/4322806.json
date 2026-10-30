@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4322806",
+  "city_name": "Veranópolis",
+  "uf": "RS",
+  "population": 24021,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 114711725.0,
+    "total_expense": 110946235.35,
+    "own_revenue_percentage": 27.4,
+    "transfers_revenue_percentage": 72.6,
+    "personnel_expense_percentage_rcl": 49.1
+  },
+  "per_capita_breakdown": {
+    "health": 1181.0,
+    "education": 1139.9,
+    "urbanism": 647.7,
+    "administration": 360.6,
+    "legislative": 87.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3741.1,
+      "health_per_capita": 921.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4018.3,
+      "health_per_capita": 992.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4295.4,
+      "health_per_capita": 1062.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4526.3,
+      "health_per_capita": 1133.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4618.7,
+      "health_per_capita": 1181.0
+    }
+  ]
+}

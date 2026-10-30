@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2507804",
+  "city_name": "Junco do Seridó",
+  "uf": "PB",
+  "population": 6793,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 37372278.35,
+    "total_expense": 37190327.77,
+    "own_revenue_percentage": 18.8,
+    "transfers_revenue_percentage": 81.2,
+    "personnel_expense_percentage_rcl": 48.4
+  },
+  "per_capita_breakdown": {
+    "health": 1354.7,
+    "education": 1704.7,
+    "urbanism": 446.3,
+    "administration": 576.7,
+    "legislative": 114.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4434.6,
+      "health_per_capita": 1056.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4763.1,
+      "health_per_capita": 1137.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5091.6,
+      "health_per_capita": 1219.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5365.3,
+      "health_per_capita": 1300.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5474.8,
+      "health_per_capita": 1354.7
+    }
+  ]
+}

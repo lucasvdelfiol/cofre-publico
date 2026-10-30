@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2918209",
+  "city_name": "Jiquiriçá",
+  "uf": "BA",
+  "population": 13629,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 64486400.56,
+    "total_expense": 63899464.75,
+    "own_revenue_percentage": 12.8,
+    "transfers_revenue_percentage": 87.2,
+    "personnel_expense_percentage_rcl": 53.2
+  },
+  "per_capita_breakdown": {
+    "health": 1178.8,
+    "education": 1217.6,
+    "urbanism": 467.0,
+    "administration": 382.0,
+    "legislative": 150.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3797.7,
+      "health_per_capita": 919.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4079.0,
+      "health_per_capita": 990.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4360.3,
+      "health_per_capita": 1060.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4594.7,
+      "health_per_capita": 1131.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4688.5,
+      "health_per_capita": 1178.8
+    }
+  ]
+}

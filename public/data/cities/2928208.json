@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2928208",
+  "city_name": "Santana",
+  "uf": "BA",
+  "population": 24755,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 111117041.26,
+    "total_expense": 109935450.13,
+    "own_revenue_percentage": 29.6,
+    "transfers_revenue_percentage": 70.4,
+    "personnel_expense_percentage_rcl": 51.4
+  },
+  "per_capita_breakdown": {
+    "health": 1179.4,
+    "education": 1099.5,
+    "urbanism": 597.0,
+    "administration": 386.4,
+    "legislative": 80.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3597.1,
+      "health_per_capita": 919.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3863.6,
+      "health_per_capita": 990.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4130.0,
+      "health_per_capita": 1061.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4352.1,
+      "health_per_capita": 1132.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4440.9,
+      "health_per_capita": 1179.4
+    }
+  ]
+}

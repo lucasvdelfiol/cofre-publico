@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2514305",
+  "city_name": "São José de Caiana",
+  "uf": "PB",
+  "population": 5034,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 27823308.93,
+    "total_expense": 26809147.18,
+    "own_revenue_percentage": 11.6,
+    "transfers_revenue_percentage": 88.4,
+    "personnel_expense_percentage_rcl": 50.8
+  },
+  "per_capita_breakdown": {
+    "health": 1335.3,
+    "education": 1547.5,
+    "urbanism": 816.8,
+    "administration": 599.1,
+    "legislative": 96.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4313.7,
+      "health_per_capita": 1041.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4633.3,
+      "health_per_capita": 1121.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4952.8,
+      "health_per_capita": 1201.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5219.1,
+      "health_per_capita": 1281.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5325.6,
+      "health_per_capita": 1335.3
+    }
+  ]
+}

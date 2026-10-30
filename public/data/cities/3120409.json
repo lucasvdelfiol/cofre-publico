@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3120409",
+  "city_name": "Cristiano Otoni",
+  "uf": "MG",
+  "population": 4667,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 22728337.47,
+    "total_expense": 22952462.09,
+    "own_revenue_percentage": 14.3,
+    "transfers_revenue_percentage": 85.7,
+    "personnel_expense_percentage_rcl": 52.8
+  },
+  "per_capita_breakdown": {
+    "health": 1105.8,
+    "education": 1206.9,
+    "urbanism": 608.4,
+    "administration": 404.3,
+    "legislative": 86.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3983.6,
+      "health_per_capita": 862.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4278.7,
+      "health_per_capita": 928.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4573.7,
+      "health_per_capita": 995.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4819.6,
+      "health_per_capita": 1061.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4918.0,
+      "health_per_capita": 1105.8
+    }
+  ]
+}

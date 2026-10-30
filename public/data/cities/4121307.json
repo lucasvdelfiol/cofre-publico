@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4121307",
+  "city_name": "Rancho Alegre",
+  "uf": "PR",
+  "population": 3512,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 18187922.8,
+    "total_expense": 18233856.77,
+    "own_revenue_percentage": 18.9,
+    "transfers_revenue_percentage": 81.1,
+    "personnel_expense_percentage_rcl": 49.6
+  },
+  "per_capita_breakdown": {
+    "health": 1352.6,
+    "education": 1510.0,
+    "urbanism": 707.6,
+    "administration": 444.9,
+    "legislative": 119.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4205.4,
+      "health_per_capita": 1055.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4517.0,
+      "health_per_capita": 1136.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4828.5,
+      "health_per_capita": 1217.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5088.1,
+      "health_per_capita": 1298.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5191.9,
+      "health_per_capita": 1352.6
+    }
+  ]
+}

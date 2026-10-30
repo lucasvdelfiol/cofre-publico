@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5220207",
+  "city_name": "São Miguel do Araguaia",
+  "uf": "GO",
+  "population": 21900,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 103328396.84,
+    "total_expense": 102223958.78,
+    "own_revenue_percentage": 18.5,
+    "transfers_revenue_percentage": 81.5,
+    "personnel_expense_percentage_rcl": 51.0
+  },
+  "per_capita_breakdown": {
+    "health": 1151.8,
+    "education": 1285.0,
+    "urbanism": 610.8,
+    "administration": 455.3,
+    "legislative": 91.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3780.9,
+      "health_per_capita": 898.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4061.0,
+      "health_per_capita": 967.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4341.1,
+      "health_per_capita": 1036.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4574.4,
+      "health_per_capita": 1105.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4667.8,
+      "health_per_capita": 1151.8
+    }
+  ]
+}

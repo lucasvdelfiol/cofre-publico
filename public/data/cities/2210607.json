@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2210607",
+  "city_name": "São Raimundo Nonato",
+  "uf": "PI",
+  "population": 38934,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 177042062.62,
+    "total_expense": 171261879.03,
+    "own_revenue_percentage": 30.2,
+    "transfers_revenue_percentage": 69.8,
+    "personnel_expense_percentage_rcl": 46.6
+  },
+  "per_capita_breakdown": {
+    "health": 943.5,
+    "education": 1328.7,
+    "urbanism": 397.1,
+    "administration": 504.7,
+    "legislative": 103.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3563.0,
+      "health_per_capita": 735.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3827.0,
+      "health_per_capita": 792.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4090.9,
+      "health_per_capita": 849.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4310.8,
+      "health_per_capita": 905.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4398.8,
+      "health_per_capita": 943.5
+    }
+  ]
+}

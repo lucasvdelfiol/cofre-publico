@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4302402",
+  "city_name": "Bom Retiro do Sul",
+  "uf": "RS",
+  "population": 12294,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 67468648.81,
+    "total_expense": 65950686.02,
+    "own_revenue_percentage": 13.6,
+    "transfers_revenue_percentage": 86.4,
+    "personnel_expense_percentage_rcl": 52.1
+  },
+  "per_capita_breakdown": {
+    "health": 1187.6,
+    "education": 1623.0,
+    "urbanism": 832.6,
+    "administration": 435.8,
+    "legislative": 119.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4345.2,
+      "health_per_capita": 926.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4667.1,
+      "health_per_capita": 997.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4989.0,
+      "health_per_capita": 1068.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5257.2,
+      "health_per_capita": 1140.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5364.5,
+      "health_per_capita": 1187.6
+    }
+  ]
+}

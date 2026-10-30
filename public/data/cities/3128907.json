@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3128907",
+  "city_name": "Guimarânia",
+  "uf": "MG",
+  "population": 8478,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 36909673.86,
+    "total_expense": 36678016.03,
+    "own_revenue_percentage": 11.8,
+    "transfers_revenue_percentage": 88.2,
+    "personnel_expense_percentage_rcl": 48.0
+  },
+  "per_capita_breakdown": {
+    "health": 1073.7,
+    "education": 1191.5,
+    "urbanism": 676.3,
+    "administration": 379.0,
+    "legislative": 112.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3504.3,
+      "health_per_capita": 837.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3763.9,
+      "health_per_capita": 901.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4023.5,
+      "health_per_capita": 966.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4239.8,
+      "health_per_capita": 1030.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4326.3,
+      "health_per_capita": 1073.7
+    }
+  ]
+}

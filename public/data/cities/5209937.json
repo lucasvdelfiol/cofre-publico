@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5209937",
+  "city_name": "Inaciolândia",
+  "uf": "GO",
+  "population": 5954,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 26286118.67,
+    "total_expense": 26396463.33,
+    "own_revenue_percentage": 16.2,
+    "transfers_revenue_percentage": 83.8,
+    "personnel_expense_percentage_rcl": 47.6
+  },
+  "per_capita_breakdown": {
+    "health": 1047.5,
+    "education": 1275.8,
+    "urbanism": 594.5,
+    "administration": 477.6,
+    "legislative": 125.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3591.1,
+      "health_per_capita": 817.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3857.1,
+      "health_per_capita": 879.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4123.1,
+      "health_per_capita": 942.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4344.7,
+      "health_per_capita": 1005.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4433.4,
+      "health_per_capita": 1047.5
+    }
+  ]
+}

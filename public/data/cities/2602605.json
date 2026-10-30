@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2602605",
+  "city_name": "Brejo da Madre de Deus",
+  "uf": "PE",
+  "population": 48648,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 213979485.25,
+    "total_expense": 214980572.25,
+    "own_revenue_percentage": 27.4,
+    "transfers_revenue_percentage": 72.6,
+    "personnel_expense_percentage_rcl": 52.1
+  },
+  "per_capita_breakdown": {
+    "health": 1236.7,
+    "education": 1181.3,
+    "urbanism": 570.3,
+    "administration": 407.1,
+    "legislative": 125.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3579.5,
+      "health_per_capita": 964.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3844.6,
+      "health_per_capita": 1038.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4109.8,
+      "health_per_capita": 1113.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4330.7,
+      "health_per_capita": 1187.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4419.1,
+      "health_per_capita": 1236.7
+    }
+  ]
+}

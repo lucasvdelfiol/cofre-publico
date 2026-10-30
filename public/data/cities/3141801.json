@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3141801",
+  "city_name": "Minas Novas",
+  "uf": "MG",
+  "population": 24405,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 112457613.81,
+    "total_expense": 112126516.75,
+    "own_revenue_percentage": 28.0,
+    "transfers_revenue_percentage": 72.0,
+    "personnel_expense_percentage_rcl": 49.8
+  },
+  "per_capita_breakdown": {
+    "health": 1120.2,
+    "education": 1347.2,
+    "urbanism": 579.7,
+    "administration": 549.3,
+    "legislative": 132.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3721.5,
+      "health_per_capita": 873.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3997.1,
+      "health_per_capita": 941.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4272.8,
+      "health_per_capita": 1008.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4502.5,
+      "health_per_capita": 1075.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4594.4,
+      "health_per_capita": 1120.2
+    }
+  ]
+}

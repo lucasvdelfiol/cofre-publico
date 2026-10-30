@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2902807",
+  "city_name": "Barra da Estiva",
+  "uf": "BA",
+  "population": 26026,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 130587560.58,
+    "total_expense": 126761037.66,
+    "own_revenue_percentage": 25.9,
+    "transfers_revenue_percentage": 74.1,
+    "personnel_expense_percentage_rcl": 49.8
+  },
+  "per_capita_breakdown": {
+    "health": 1227.6,
+    "education": 1518.4,
+    "urbanism": 606.9,
+    "administration": 432.3,
+    "legislative": 127.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3945.2,
+      "health_per_capita": 957.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4237.4,
+      "health_per_capita": 1031.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4529.7,
+      "health_per_capita": 1104.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4773.2,
+      "health_per_capita": 1178.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4870.6,
+      "health_per_capita": 1227.6
+    }
+  ]
+}

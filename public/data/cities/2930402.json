@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2930402",
+  "city_name": "Serra Preta",
+  "uf": "BA",
+  "population": 17996,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 84360150.56,
+    "total_expense": 84656325.73,
+    "own_revenue_percentage": 17.3,
+    "transfers_revenue_percentage": 82.7,
+    "personnel_expense_percentage_rcl": 46.0
+  },
+  "per_capita_breakdown": {
+    "health": 1214.7,
+    "education": 1480.2,
+    "urbanism": 530.7,
+    "administration": 478.5,
+    "legislative": 100.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3810.4,
+      "health_per_capita": 947.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4092.7,
+      "health_per_capita": 1020.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4374.9,
+      "health_per_capita": 1093.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4610.1,
+      "health_per_capita": 1166.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4704.2,
+      "health_per_capita": 1214.7
+    }
+  ]
+}

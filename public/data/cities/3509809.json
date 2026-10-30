@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3509809",
+  "city_name": "Campos Novos Paulista",
+  "uf": "SP",
+  "population": 4888,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 25240305.42,
+    "total_expense": 25424956.78,
+    "own_revenue_percentage": 13.2,
+    "transfers_revenue_percentage": 86.8,
+    "personnel_expense_percentage_rcl": 52.6
+  },
+  "per_capita_breakdown": {
+    "health": 1398.1,
+    "education": 1378.3,
+    "urbanism": 544.1,
+    "administration": 611.5,
+    "legislative": 103.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4213.2,
+      "health_per_capita": 1090.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4525.3,
+      "health_per_capita": 1174.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4837.4,
+      "health_per_capita": 1258.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5097.5,
+      "health_per_capita": 1342.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5201.5,
+      "health_per_capita": 1398.1
+    }
+  ]
+}

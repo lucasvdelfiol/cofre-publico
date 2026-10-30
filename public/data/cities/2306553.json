@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2306553",
+  "city_name": "Itarema",
+  "uf": "CE",
+  "population": 42957,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 180035197.97,
+    "total_expense": 179801496.67,
+    "own_revenue_percentage": 30.0,
+    "transfers_revenue_percentage": 70.0,
+    "personnel_expense_percentage_rcl": 47.9
+  },
+  "per_capita_breakdown": {
+    "health": 1132.8,
+    "education": 1263.6,
+    "urbanism": 468.5,
+    "administration": 254.0,
+    "legislative": 119.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3390.3,
+      "health_per_capita": 883.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3641.5,
+      "health_per_capita": 951.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3892.6,
+      "health_per_capita": 1019.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4101.9,
+      "health_per_capita": 1087.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4185.6,
+      "health_per_capita": 1132.8
+    }
+  ]
+}

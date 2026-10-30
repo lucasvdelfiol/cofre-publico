@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5210406",
+  "city_name": "Itaberaí",
+  "uf": "GO",
+  "population": 44734,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 200827222.42,
+    "total_expense": 202715891.87,
+    "own_revenue_percentage": 22.1,
+    "transfers_revenue_percentage": 77.9,
+    "personnel_expense_percentage_rcl": 48.7
+  },
+  "per_capita_breakdown": {
+    "health": 914.2,
+    "education": 1094.6,
+    "urbanism": 698.4,
+    "administration": 524.5,
+    "legislative": 139.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3670.6,
+      "health_per_capita": 713.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3942.5,
+      "health_per_capita": 767.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4214.4,
+      "health_per_capita": 822.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4441.0,
+      "health_per_capita": 877.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4531.6,
+      "health_per_capita": 914.2
+    }
+  ]
+}

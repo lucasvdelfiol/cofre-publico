@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3554102",
+  "city_name": "Taubaté",
+  "uf": "SP",
+  "population": 310739,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 1742261758.0,
+    "total_expense": 1721944087.57,
+    "own_revenue_percentage": 45.1,
+    "transfers_revenue_percentage": 54.9,
+    "personnel_expense_percentage_rcl": 48.6
+  },
+  "per_capita_breakdown": {
+    "health": 1406.1,
+    "education": 1463.5,
+    "urbanism": 658.7,
+    "administration": 642.5,
+    "legislative": 171.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4488.5,
+      "health_per_capita": 1096.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4821.0,
+      "health_per_capita": 1181.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5153.5,
+      "health_per_capita": 1265.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5430.6,
+      "health_per_capita": 1349.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5541.4,
+      "health_per_capita": 1406.1
+    }
+  ]
+}

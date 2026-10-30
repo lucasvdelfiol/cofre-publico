@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4308052",
+  "city_name": "Faxinalzinho",
+  "uf": "RS",
+  "population": 2520,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 13561730.4,
+    "total_expense": 13301060.65,
+    "own_revenue_percentage": 10.5,
+    "transfers_revenue_percentage": 89.5,
+    "personnel_expense_percentage_rcl": 50.1
+  },
+  "per_capita_breakdown": {
+    "health": 1181.2,
+    "education": 1305.7,
+    "urbanism": 809.4,
+    "administration": 593.8,
+    "legislative": 137.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4275.3,
+      "health_per_capita": 921.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4592.0,
+      "health_per_capita": 992.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4908.7,
+      "health_per_capita": 1063.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5172.6,
+      "health_per_capita": 1134.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5278.2,
+      "health_per_capita": 1181.2
+    }
+  ]
+}

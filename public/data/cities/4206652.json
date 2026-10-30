@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4206652",
+  "city_name": "Guatambú",
+  "uf": "SC",
+  "population": 8425,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 42551005.37,
+    "total_expense": 41190079.47,
+    "own_revenue_percentage": 21.4,
+    "transfers_revenue_percentage": 78.6,
+    "personnel_expense_percentage_rcl": 51.6
+  },
+  "per_capita_breakdown": {
+    "health": 1174.4,
+    "education": 1321.8,
+    "urbanism": 658.2,
+    "administration": 536.2,
+    "legislative": 145.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3960.1,
+      "health_per_capita": 916.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4253.4,
+      "health_per_capita": 986.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4546.8,
+      "health_per_capita": 1057.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4791.2,
+      "health_per_capita": 1127.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4889.0,
+      "health_per_capita": 1174.4
+    }
+  ]
+}

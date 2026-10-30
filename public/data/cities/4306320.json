@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4306320",
+  "city_name": "Derrubadas",
+  "uf": "RS",
+  "population": 2751,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 14250764.45,
+    "total_expense": 13726290.19,
+    "own_revenue_percentage": 21.2,
+    "transfers_revenue_percentage": 78.8,
+    "personnel_expense_percentage_rcl": 48.0
+  },
+  "per_capita_breakdown": {
+    "health": 1007.2,
+    "education": 1443.8,
+    "urbanism": 428.0,
+    "administration": 582.8,
+    "legislative": 152.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4041.6,
+      "health_per_capita": 785.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4341.0,
+      "health_per_capita": 846.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4640.3,
+      "health_per_capita": 906.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4889.8,
+      "health_per_capita": 966.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4989.6,
+      "health_per_capita": 1007.2
+    }
+  ]
+}

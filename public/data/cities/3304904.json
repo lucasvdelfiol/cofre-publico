@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3304904",
+  "city_name": "São Gonçalo",
+  "uf": "RJ",
+  "population": 896744,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 5008354624.54,
+    "total_expense": 5003208717.45,
+    "own_revenue_percentage": 49.0,
+    "transfers_revenue_percentage": 51.0,
+    "personnel_expense_percentage_rcl": 47.9
+  },
+  "per_capita_breakdown": {
+    "health": 1512.7,
+    "education": 1641.7,
+    "urbanism": 534.1,
+    "administration": 538.3,
+    "legislative": 174.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4519.2,
+      "health_per_capita": 1179.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4854.0,
+      "health_per_capita": 1270.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5188.7,
+      "health_per_capita": 1361.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5467.7,
+      "health_per_capita": 1452.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5579.3,
+      "health_per_capita": 1512.7
+    }
+  ]
+}

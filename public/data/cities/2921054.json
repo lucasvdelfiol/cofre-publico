@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2921054",
+  "city_name": "Matina",
+  "uf": "BA",
+  "population": 10330,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 54431496.44,
+    "total_expense": 53316717.63,
+    "own_revenue_percentage": 13.4,
+    "transfers_revenue_percentage": 86.6,
+    "personnel_expense_percentage_rcl": 51.7
+  },
+  "per_capita_breakdown": {
+    "health": 1325.6,
+    "education": 1575.3,
+    "urbanism": 821.7,
+    "administration": 345.3,
+    "legislative": 150.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4180.7,
+      "health_per_capita": 1034.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4490.3,
+      "health_per_capita": 1113.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4800.0,
+      "health_per_capita": 1193.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5058.1,
+      "health_per_capita": 1272.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5161.3,
+      "health_per_capita": 1325.6
+    }
+  ]
+}

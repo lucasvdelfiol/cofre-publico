@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3162252",
+  "city_name": "São João da Lagoa",
+  "uf": "MG",
+  "population": 4822,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 23207285.26,
+    "total_expense": 23097119.64,
+    "own_revenue_percentage": 13.8,
+    "transfers_revenue_percentage": 86.2,
+    "personnel_expense_percentage_rcl": 50.1
+  },
+  "per_capita_breakdown": {
+    "health": 976.9,
+    "education": 1291.9,
+    "urbanism": 685.9,
+    "administration": 378.1,
+    "legislative": 148.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3879.8,
+      "health_per_capita": 762.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4167.2,
+      "health_per_capita": 820.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4454.6,
+      "health_per_capita": 879.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4694.1,
+      "health_per_capita": 937.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4789.9,
+      "health_per_capita": 976.9
+    }
+  ]
+}

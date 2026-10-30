@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5106422",
+  "city_name": "Peixoto de Azevedo",
+  "uf": "MT",
+  "population": 32714,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 151930136.91,
+    "total_expense": 151060654.32,
+    "own_revenue_percentage": 25.9,
+    "transfers_revenue_percentage": 74.1,
+    "personnel_expense_percentage_rcl": 51.1
+  },
+  "per_capita_breakdown": {
+    "health": 1212.8,
+    "education": 1130.4,
+    "urbanism": 582.6,
+    "administration": 470.7,
+    "legislative": 89.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3740.3,
+      "health_per_capita": 946.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4017.3,
+      "health_per_capita": 1018.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4294.4,
+      "health_per_capita": 1091.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4525.2,
+      "health_per_capita": 1164.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4617.6,
+      "health_per_capita": 1212.8
+    }
+  ]
+}

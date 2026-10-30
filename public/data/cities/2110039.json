@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2110039",
+  "city_name": "Santa Luzia do Paruá",
+  "uf": "MA",
+  "population": 24307,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 103354663.89,
+    "total_expense": 100271281.09,
+    "own_revenue_percentage": 24.1,
+    "transfers_revenue_percentage": 75.9,
+    "personnel_expense_percentage_rcl": 52.8
+  },
+  "per_capita_breakdown": {
+    "health": 1115.3,
+    "education": 1199.3,
+    "urbanism": 517.4,
+    "administration": 382.1,
+    "legislative": 78.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3341.4,
+      "health_per_capita": 869.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3588.9,
+      "health_per_capita": 936.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3836.4,
+      "health_per_capita": 1003.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4042.7,
+      "health_per_capita": 1070.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4125.2,
+      "health_per_capita": 1115.3
+    }
+  ]
+}

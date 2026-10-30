@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3100500",
+  "city_name": "Açucena",
+  "uf": "MG",
+  "population": 8943,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 43802765.13,
+    "total_expense": 43252030.44,
+    "own_revenue_percentage": 13.0,
+    "transfers_revenue_percentage": 87.0,
+    "personnel_expense_percentage_rcl": 48.8
+  },
+  "per_capita_breakdown": {
+    "health": 1159.2,
+    "education": 1331.8,
+    "urbanism": 484.1,
+    "administration": 535.3,
+    "legislative": 74.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3917.5,
+      "health_per_capita": 904.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4207.7,
+      "health_per_capita": 973.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4497.9,
+      "health_per_capita": 1043.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4739.7,
+      "health_per_capita": 1112.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4836.4,
+      "health_per_capita": 1159.2
+    }
+  ]
+}

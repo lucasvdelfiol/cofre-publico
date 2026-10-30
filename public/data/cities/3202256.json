@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3202256",
+  "city_name": "Governador Lindenberg",
+  "uf": "ES",
+  "population": 11009,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 51726797.64,
+    "total_expense": 50978112.09,
+    "own_revenue_percentage": 13.8,
+    "transfers_revenue_percentage": 86.2,
+    "personnel_expense_percentage_rcl": 50.5
+  },
+  "per_capita_breakdown": {
+    "health": 1212.0,
+    "education": 1186.4,
+    "urbanism": 370.5,
+    "administration": 394.6,
+    "legislative": 144.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3750.8,
+      "health_per_capita": 945.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4028.6,
+      "health_per_capita": 1018.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4306.5,
+      "health_per_capita": 1090.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4538.0,
+      "health_per_capita": 1163.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4630.6,
+      "health_per_capita": 1212.0
+    }
+  ]
+}

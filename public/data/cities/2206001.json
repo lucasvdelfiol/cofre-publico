@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2206001",
+  "city_name": "Marcos Parente",
+  "uf": "PI",
+  "population": 4724,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 24240885.18,
+    "total_expense": 23504747.09,
+    "own_revenue_percentage": 12.2,
+    "transfers_revenue_percentage": 87.8,
+    "personnel_expense_percentage_rcl": 50.8
+  },
+  "per_capita_breakdown": {
+    "health": 1083.4,
+    "education": 1538.4,
+    "urbanism": 765.6,
+    "administration": 361.6,
+    "legislative": 169.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4030.2,
+      "health_per_capita": 845.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4328.8,
+      "health_per_capita": 910.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4627.3,
+      "health_per_capita": 975.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4876.1,
+      "health_per_capita": 1040.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4975.6,
+      "health_per_capita": 1083.4
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3544004",
+  "city_name": "Rio das Pedras",
+  "uf": "SP",
+  "population": 31328,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 146784524.36,
+    "total_expense": 145250953.07,
+    "own_revenue_percentage": 29.2,
+    "transfers_revenue_percentage": 70.8,
+    "personnel_expense_percentage_rcl": 47.7
+  },
+  "per_capita_breakdown": {
+    "health": 1058.9,
+    "education": 1139.8,
+    "urbanism": 570.7,
+    "administration": 300.4,
+    "legislative": 152.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3755.6,
+      "health_per_capita": 825.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4033.8,
+      "health_per_capita": 889.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4311.9,
+      "health_per_capita": 953.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4543.8,
+      "health_per_capita": 1016.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4636.5,
+      "health_per_capita": 1058.9
+    }
+  ]
+}

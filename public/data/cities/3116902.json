@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3116902",
+  "city_name": "Comendador Gomes",
+  "uf": "MG",
+  "population": 2773,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 12856851.94,
+    "total_expense": 12741807.02,
+    "own_revenue_percentage": 14.8,
+    "transfers_revenue_percentage": 85.2,
+    "personnel_expense_percentage_rcl": 52.2
+  },
+  "per_capita_breakdown": {
+    "health": 1196.6,
+    "education": 1130.4,
+    "urbanism": 670.1,
+    "administration": 483.1,
+    "legislative": 99.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3722.0,
+      "health_per_capita": 933.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3997.7,
+      "health_per_capita": 1005.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4273.4,
+      "health_per_capita": 1076.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4503.1,
+      "health_per_capita": 1148.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4595.0,
+      "health_per_capita": 1196.6
+    }
+  ]
+}

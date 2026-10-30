@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2501153",
+  "city_name": "Areia de Baraúnas",
+  "uf": "PB",
+  "population": 2005,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 9421913.63,
+    "total_expense": 9356024.37,
+    "own_revenue_percentage": 8.6,
+    "transfers_revenue_percentage": 91.4,
+    "personnel_expense_percentage_rcl": 51.6
+  },
+  "per_capita_breakdown": {
+    "health": 1031.7,
+    "education": 1328.0,
+    "urbanism": 414.1,
+    "administration": 517.8,
+    "legislative": 144.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3779.7,
+      "health_per_capita": 804.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4059.7,
+      "health_per_capita": 866.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4339.7,
+      "health_per_capita": 928.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4573.0,
+      "health_per_capita": 990.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4666.3,
+      "health_per_capita": 1031.7
+    }
+  ]
+}

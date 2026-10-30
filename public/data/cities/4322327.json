@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4322327",
+  "city_name": "Turuçu",
+  "uf": "RS",
+  "population": 3419,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 18868283.62,
+    "total_expense": 18189129.43,
+    "own_revenue_percentage": 17.6,
+    "transfers_revenue_percentage": 82.4,
+    "personnel_expense_percentage_rcl": 50.5
+  },
+  "per_capita_breakdown": {
+    "health": 1339.4,
+    "education": 1436.6,
+    "urbanism": 544.1,
+    "administration": 340.3,
+    "legislative": 119.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4309.2,
+      "health_per_capita": 1044.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4628.4,
+      "health_per_capita": 1125.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4947.6,
+      "health_per_capita": 1205.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5213.6,
+      "health_per_capita": 1285.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5320.0,
+      "health_per_capita": 1339.4
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3502101",
+  "city_name": "Andradina",
+  "uf": "SP",
+  "population": 59783,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 263859710.55,
+    "total_expense": 260716351.74,
+    "own_revenue_percentage": 38.0,
+    "transfers_revenue_percentage": 62.0,
+    "personnel_expense_percentage_rcl": 51.5
+  },
+  "per_capita_breakdown": {
+    "health": 1153.5,
+    "education": 1145.5,
+    "urbanism": 382.7,
+    "administration": 306.7,
+    "legislative": 146.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3532.4,
+      "health_per_capita": 899.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3794.1,
+      "health_per_capita": 968.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4055.7,
+      "health_per_capita": 1038.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4273.8,
+      "health_per_capita": 1107.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4361.0,
+      "health_per_capita": 1153.5
+    }
+  ]
+}

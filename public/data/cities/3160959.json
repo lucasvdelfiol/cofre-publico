@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3160959",
+  "city_name": "São Domingos das Dores",
+  "uf": "MG",
+  "population": 5626,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 29480355.73,
+    "total_expense": 28634037.26,
+    "own_revenue_percentage": 14.9,
+    "transfers_revenue_percentage": 85.1,
+    "personnel_expense_percentage_rcl": 51.7
+  },
+  "per_capita_breakdown": {
+    "health": 1050.4,
+    "education": 1293.3,
+    "urbanism": 742.2,
+    "administration": 308.4,
+    "legislative": 84.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4122.6,
+      "health_per_capita": 819.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4428.0,
+      "health_per_capita": 882.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4733.3,
+      "health_per_capita": 945.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4987.8,
+      "health_per_capita": 1008.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5089.6,
+      "health_per_capita": 1050.4
+    }
+  ]
+}

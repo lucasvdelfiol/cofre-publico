@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1717909",
+  "city_name": "Ponte Alta do Tocantins",
+  "uf": "TO",
+  "population": 7586,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 35800618.71,
+    "total_expense": 36062104.1,
+    "own_revenue_percentage": 20.2,
+    "transfers_revenue_percentage": 79.8,
+    "personnel_expense_percentage_rcl": 47.8
+  },
+  "per_capita_breakdown": {
+    "health": 1319.0,
+    "education": 1351.1,
+    "urbanism": 397.9,
+    "administration": 334.4,
+    "legislative": 106.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3850.6,
+      "health_per_capita": 1028.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4135.8,
+      "health_per_capita": 1108.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4421.0,
+      "health_per_capita": 1187.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4658.7,
+      "health_per_capita": 1266.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4753.8,
+      "health_per_capita": 1319.0
+    }
+  ]
+}

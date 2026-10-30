@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1712702",
+  "city_name": "Mateiros",
+  "uf": "TO",
+  "population": 2748,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 13693252.29,
+    "total_expense": 13569726.23,
+    "own_revenue_percentage": 14.0,
+    "transfers_revenue_percentage": 86.0,
+    "personnel_expense_percentage_rcl": 46.3
+  },
+  "per_capita_breakdown": {
+    "health": 1169.8,
+    "education": 1373.3,
+    "urbanism": 566.8,
+    "administration": 335.8,
+    "legislative": 160.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3999.8,
+      "health_per_capita": 912.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4296.1,
+      "health_per_capita": 982.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4592.3,
+      "health_per_capita": 1052.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4839.2,
+      "health_per_capita": 1123.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4938.0,
+      "health_per_capita": 1169.8
+    }
+  ]
+}

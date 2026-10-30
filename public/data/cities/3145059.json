@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3145059",
+  "city_name": "Nova Porteirinha",
+  "uf": "MG",
+  "population": 6706,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 37447278.53,
+    "total_expense": 36072133.52,
+    "own_revenue_percentage": 20.6,
+    "transfers_revenue_percentage": 79.4,
+    "personnel_expense_percentage_rcl": 45.8
+  },
+  "per_capita_breakdown": {
+    "health": 1443.9,
+    "education": 1539.0,
+    "urbanism": 534.3,
+    "administration": 461.5,
+    "legislative": 117.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4357.1,
+      "health_per_capita": 1126.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4679.8,
+      "health_per_capita": 1212.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5002.6,
+      "health_per_capita": 1299.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5271.5,
+      "health_per_capita": 1386.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5379.1,
+      "health_per_capita": 1443.9
+    }
+  ]
+}

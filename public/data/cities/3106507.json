@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3106507",
+  "city_name": "Berilo",
+  "uf": "MG",
+  "population": 9826,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 52434359.78,
+    "total_expense": 51218560.38,
+    "own_revenue_percentage": 19.2,
+    "transfers_revenue_percentage": 80.8,
+    "personnel_expense_percentage_rcl": 49.0
+  },
+  "per_capita_breakdown": {
+    "health": 1316.7,
+    "education": 1266.2,
+    "urbanism": 615.3,
+    "administration": 581.1,
+    "legislative": 110.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4222.2,
+      "health_per_capita": 1027.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4535.0,
+      "health_per_capita": 1106.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4847.7,
+      "health_per_capita": 1185.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5108.3,
+      "health_per_capita": 1264.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5212.6,
+      "health_per_capita": 1316.7
+    }
+  ]
+}

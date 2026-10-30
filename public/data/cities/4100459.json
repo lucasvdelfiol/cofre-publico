@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4100459",
+  "city_name": "Altamira do Paraná",
+  "uf": "PR",
+  "population": 3590,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 17304446.46,
+    "total_expense": 17337245.64,
+    "own_revenue_percentage": 15.9,
+    "transfers_revenue_percentage": 84.1,
+    "personnel_expense_percentage_rcl": 46.4
+  },
+  "per_capita_breakdown": {
+    "health": 1264.7,
+    "education": 1316.0,
+    "urbanism": 667.4,
+    "administration": 540.8,
+    "legislative": 118.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3911.7,
+      "health_per_capita": 986.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4201.5,
+      "health_per_capita": 1062.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4491.2,
+      "health_per_capita": 1138.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4732.7,
+      "health_per_capita": 1214.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4829.3,
+      "health_per_capita": 1264.7
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2101301",
+  "city_name": "Bacuri",
+  "uf": "MA",
+  "population": 16290,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 88502004.3,
+    "total_expense": 87016370.06,
+    "own_revenue_percentage": 16.8,
+    "transfers_revenue_percentage": 83.2,
+    "personnel_expense_percentage_rcl": 52.1
+  },
+  "per_capita_breakdown": {
+    "health": 1136.2,
+    "education": 1595.2,
+    "urbanism": 810.4,
+    "administration": 470.1,
+    "legislative": 186.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4326.8,
+      "health_per_capita": 886.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4647.3,
+      "health_per_capita": 954.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4967.8,
+      "health_per_capita": 1022.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5234.9,
+      "health_per_capita": 1090.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5341.7,
+      "health_per_capita": 1136.2
+    }
+  ]
+}

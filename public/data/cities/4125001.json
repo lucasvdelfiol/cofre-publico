@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4125001",
+  "city_name": "São João do Ivaí",
+  "uf": "PR",
+  "population": 10667,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 56973786.45,
+    "total_expense": 55087074.18,
+    "own_revenue_percentage": 15.1,
+    "transfers_revenue_percentage": 84.9,
+    "personnel_expense_percentage_rcl": 50.5
+  },
+  "per_capita_breakdown": {
+    "health": 1034.5,
+    "education": 1534.1,
+    "urbanism": 462.9,
+    "administration": 333.9,
+    "legislative": 147.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4183.1,
+      "health_per_capita": 806.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4492.9,
+      "health_per_capita": 869.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4802.8,
+      "health_per_capita": 931.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5061.0,
+      "health_per_capita": 993.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5164.3,
+      "health_per_capita": 1034.5
+    }
+  ]
+}

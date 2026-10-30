@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3533601",
+  "city_name": "Nuporanga",
+  "uf": "SP",
+  "population": 7391,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 32378778.8,
+    "total_expense": 32617134.06,
+    "own_revenue_percentage": 13.0,
+    "transfers_revenue_percentage": 87.0,
+    "personnel_expense_percentage_rcl": 49.5
+  },
+  "per_capita_breakdown": {
+    "health": 1081.6,
+    "education": 1233.8,
+    "urbanism": 445.3,
+    "administration": 381.1,
+    "legislative": 106.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3574.6,
+      "health_per_capita": 843.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3839.4,
+      "health_per_capita": 908.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4104.2,
+      "health_per_capita": 973.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4324.8,
+      "health_per_capita": 1038.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4413.1,
+      "health_per_capita": 1081.6
+    }
+  ]
+}

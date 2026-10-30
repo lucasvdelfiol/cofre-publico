@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2803005",
+  "city_name": "Itabaianinha",
+  "uf": "SE",
+  "population": 40678,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 185279005.94,
+    "total_expense": 186841321.69,
+    "own_revenue_percentage": 29.8,
+    "transfers_revenue_percentage": 70.2,
+    "personnel_expense_percentage_rcl": 51.0
+  },
+  "per_capita_breakdown": {
+    "health": 945.4,
+    "education": 1315.3,
+    "urbanism": 635.0,
+    "administration": 286.8,
+    "legislative": 124.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3720.5,
+      "health_per_capita": 737.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3996.1,
+      "health_per_capita": 794.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4271.7,
+      "health_per_capita": 850.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4501.3,
+      "health_per_capita": 907.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4593.2,
+      "health_per_capita": 945.4
+    }
+  ]
+}

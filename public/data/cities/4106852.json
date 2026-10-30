@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4106852",
+  "city_name": "Cruzmaltina",
+  "uf": "PR",
+  "population": 2892,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 12864201.17,
+    "total_expense": 12729234.53,
+    "own_revenue_percentage": 11.7,
+    "transfers_revenue_percentage": 88.3,
+    "personnel_expense_percentage_rcl": 53.1
+  },
+  "per_capita_breakdown": {
+    "health": 1119.7,
+    "education": 1344.5,
+    "urbanism": 429.5,
+    "administration": 493.1,
+    "legislative": 107.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3565.2,
+      "health_per_capita": 873.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3829.3,
+      "health_per_capita": 940.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4093.4,
+      "health_per_capita": 1007.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4313.5,
+      "health_per_capita": 1074.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4401.5,
+      "health_per_capita": 1119.7
+    }
+  ]
+}

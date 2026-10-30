@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4312427",
+  "city_name": "Mormaço",
+  "uf": "RS",
+  "population": 2756,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 15162984.51,
+    "total_expense": 15121792.44,
+    "own_revenue_percentage": 8.1,
+    "transfers_revenue_percentage": 91.9,
+    "personnel_expense_percentage_rcl": 53.5
+  },
+  "per_capita_breakdown": {
+    "health": 1378.5,
+    "education": 1513.8,
+    "urbanism": 739.0,
+    "administration": 562.2,
+    "legislative": 181.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4444.4,
+      "health_per_capita": 1075.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4773.6,
+      "health_per_capita": 1157.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5102.8,
+      "health_per_capita": 1240.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5377.2,
+      "health_per_capita": 1323.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5486.9,
+      "health_per_capita": 1378.5
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3169901",
+  "city_name": "Ubá",
+  "uf": "MG",
+  "population": 103365,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 515948672.42,
+    "total_expense": 513380112.93,
+    "own_revenue_percentage": 48.0,
+    "transfers_revenue_percentage": 52.0,
+    "personnel_expense_percentage_rcl": 48.2
+  },
+  "per_capita_breakdown": {
+    "health": 1304.3,
+    "education": 1225.2,
+    "urbanism": 694.0,
+    "administration": 317.5,
+    "legislative": 164.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4023.0,
+      "health_per_capita": 1017.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4321.0,
+      "health_per_capita": 1095.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4619.0,
+      "health_per_capita": 1173.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4867.4,
+      "health_per_capita": 1252.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4966.7,
+      "health_per_capita": 1304.3
+    }
+  ]
+}

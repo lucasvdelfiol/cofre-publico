@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3144300",
+  "city_name": "Nanuque",
+  "uf": "MG",
+  "population": 35038,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 171264759.35,
+    "total_expense": 165951781.93,
+    "own_revenue_percentage": 20.2,
+    "transfers_revenue_percentage": 79.8,
+    "personnel_expense_percentage_rcl": 53.5
+  },
+  "per_capita_breakdown": {
+    "health": 1303.9,
+    "education": 1315.0,
+    "urbanism": 525.4,
+    "administration": 430.8,
+    "legislative": 165.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3836.4,
+      "health_per_capita": 1017.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4120.6,
+      "health_per_capita": 1095.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4404.8,
+      "health_per_capita": 1173.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4641.6,
+      "health_per_capita": 1251.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4736.3,
+      "health_per_capita": 1303.9
+    }
+  ]
+}

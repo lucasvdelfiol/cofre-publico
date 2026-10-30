@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5210000",
+  "city_name": "Inhumas",
+  "uf": "GO",
+  "population": 52204,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 271498223.0,
+    "total_expense": 269747148.25,
+    "own_revenue_percentage": 40.3,
+    "transfers_revenue_percentage": 59.7,
+    "personnel_expense_percentage_rcl": 51.5
+  },
+  "per_capita_breakdown": {
+    "health": 1167.7,
+    "education": 1376.9,
+    "urbanism": 728.7,
+    "administration": 554.3,
+    "legislative": 161.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4185.4,
+      "health_per_capita": 910.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4495.5,
+      "health_per_capita": 980.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4805.5,
+      "health_per_capita": 1050.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5063.9,
+      "health_per_capita": 1121.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5167.2,
+      "health_per_capita": 1167.7
+    }
+  ]
+}

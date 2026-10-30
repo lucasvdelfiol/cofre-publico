@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1304104",
+  "city_name": "Tapauá",
+  "uf": "AM",
+  "population": 19599,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 87055875.33,
+    "total_expense": 86392003.14,
+    "own_revenue_percentage": 14.2,
+    "transfers_revenue_percentage": 85.8,
+    "personnel_expense_percentage_rcl": 47.0
+  },
+  "per_capita_breakdown": {
+    "health": 1032.5,
+    "education": 1227.6,
+    "urbanism": 704.7,
+    "administration": 362.4,
+    "legislative": 142.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3570.5,
+      "health_per_capita": 805.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3835.0,
+      "health_per_capita": 867.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4099.4,
+      "health_per_capita": 929.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4319.8,
+      "health_per_capita": 991.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4408.0,
+      "health_per_capita": 1032.5
+    }
+  ]
+}

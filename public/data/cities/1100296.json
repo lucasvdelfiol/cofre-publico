@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1100296",
+  "city_name": "Santa Luzia D'Oeste",
+  "uf": "RO",
+  "population": 7419,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 37274519.85,
+    "total_expense": 36112328.23,
+    "own_revenue_percentage": 11.9,
+    "transfers_revenue_percentage": 88.1,
+    "personnel_expense_percentage_rcl": 46.6
+  },
+  "per_capita_breakdown": {
+    "health": 1338.0,
+    "education": 1225.2,
+    "urbanism": 441.5,
+    "administration": 512.2,
+    "legislative": 107.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3942.7,
+      "health_per_capita": 1043.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4234.7,
+      "health_per_capita": 1123.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4526.8,
+      "health_per_capita": 1204.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4770.1,
+      "health_per_capita": 1284.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4867.5,
+      "health_per_capita": 1338.0
+    }
+  ]
+}

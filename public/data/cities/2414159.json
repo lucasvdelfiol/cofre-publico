@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2414159",
+  "city_name": "Tenente Laurentino Cruz",
+  "uf": "RN",
+  "population": 5891,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 29856342.36,
+    "total_expense": 28952389.7,
+    "own_revenue_percentage": 20.4,
+    "transfers_revenue_percentage": 79.6,
+    "personnel_expense_percentage_rcl": 52.5
+  },
+  "per_capita_breakdown": {
+    "health": 1156.5,
+    "education": 1339.5,
+    "urbanism": 536.6,
+    "administration": 580.7,
+    "legislative": 105.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3980.9,
+      "health_per_capita": 902.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4275.8,
+      "health_per_capita": 971.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4570.7,
+      "health_per_capita": 1040.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4816.4,
+      "health_per_capita": 1110.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4914.7,
+      "health_per_capita": 1156.5
+    }
+  ]
+}

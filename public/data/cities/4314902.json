@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4314902",
+  "city_name": "Porto Alegre",
+  "uf": "RS",
+  "population": 1332570,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 10900000000.0,
+    "total_expense": 10600000000.0,
+    "own_revenue_percentage": 57.0,
+    "transfers_revenue_percentage": 43.0,
+    "personnel_expense_percentage_rcl": 46.8
+  },
+  "per_capita_breakdown": {
+    "health": 1710.0,
+    "education": 1490.0,
+    "urbanism": 840.0,
+    "administration": 480.0,
+    "legislative": 84.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 6443.2,
+      "health_per_capita": 1333.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 6920.5,
+      "health_per_capita": 1436.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 7397.8,
+      "health_per_capita": 1539.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 7795.5,
+      "health_per_capita": 1641.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 7954.6,
+      "health_per_capita": 1710.0
+    }
+  ]
+}

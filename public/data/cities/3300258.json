@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3300258",
+  "city_name": "Arraial do Cabo",
+  "uf": "RJ",
+  "population": 30986,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 135199015.94,
+    "total_expense": 131541772.23,
+    "own_revenue_percentage": 22.0,
+    "transfers_revenue_percentage": 78.0,
+    "personnel_expense_percentage_rcl": 53.0
+  },
+  "per_capita_breakdown": {
+    "health": 884.9,
+    "education": 1143.0,
+    "urbanism": 667.0,
+    "administration": 352.2,
+    "legislative": 139.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3438.6,
+      "health_per_capita": 690.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3693.3,
+      "health_per_capita": 743.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3948.0,
+      "health_per_capita": 796.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4160.3,
+      "health_per_capita": 849.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4245.2,
+      "health_per_capita": 884.9
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1301001",
+  "city_name": "Carauari",
+  "uf": "AM",
+  "population": 28742,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 122663951.15,
+    "total_expense": 119027030.79,
+    "own_revenue_percentage": 21.8,
+    "transfers_revenue_percentage": 78.2,
+    "personnel_expense_percentage_rcl": 47.6
+  },
+  "per_capita_breakdown": {
+    "health": 1021.8,
+    "education": 1275.7,
+    "urbanism": 350.7,
+    "administration": 273.0,
+    "legislative": 116.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3354.4,
+      "health_per_capita": 797.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3602.8,
+      "health_per_capita": 858.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3851.3,
+      "health_per_capita": 919.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4058.4,
+      "health_per_capita": 980.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4141.2,
+      "health_per_capita": 1021.8
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4308300",
+  "city_name": "Fontoura Xavier",
+  "uf": "RS",
+  "population": 9550,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 48755945.08,
+    "total_expense": 46971284.84,
+    "own_revenue_percentage": 8.2,
+    "transfers_revenue_percentage": 91.8,
+    "personnel_expense_percentage_rcl": 49.2
+  },
+  "per_capita_breakdown": {
+    "health": 1083.9,
+    "education": 1259.2,
+    "urbanism": 449.5,
+    "administration": 460.4,
+    "legislative": 92.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3984.0,
+      "health_per_capita": 845.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4279.1,
+      "health_per_capita": 910.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4574.2,
+      "health_per_capita": 975.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4820.1,
+      "health_per_capita": 1040.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4918.5,
+      "health_per_capita": 1083.9
+    }
+  ]
+}

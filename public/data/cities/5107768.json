@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5107768",
+  "city_name": "Santa Rita do Trivelato",
+  "uf": "MT",
+  "population": 3276,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 18354883.36,
+    "total_expense": 18231348.09,
+    "own_revenue_percentage": 13.4,
+    "transfers_revenue_percentage": 86.6,
+    "personnel_expense_percentage_rcl": 48.6
+  },
+  "per_capita_breakdown": {
+    "health": 1380.4,
+    "education": 1514.7,
+    "urbanism": 500.3,
+    "administration": 522.0,
+    "legislative": 172.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4507.7,
+      "health_per_capita": 1076.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4841.6,
+      "health_per_capita": 1159.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5175.5,
+      "health_per_capita": 1242.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5453.8,
+      "health_per_capita": 1325.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5565.1,
+      "health_per_capita": 1380.4
+    }
+  ]
+}

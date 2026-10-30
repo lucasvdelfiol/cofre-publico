@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3537156",
+  "city_name": "Pedrinhas Paulista",
+  "uf": "SP",
+  "population": 2804,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 13407591.48,
+    "total_expense": 13171051.75,
+    "own_revenue_percentage": 11.9,
+    "transfers_revenue_percentage": 88.1,
+    "personnel_expense_percentage_rcl": 45.8
+  },
+  "per_capita_breakdown": {
+    "health": 1082.4,
+    "education": 1229.0,
+    "urbanism": 728.3,
+    "administration": 322.1,
+    "legislative": 77.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3804.7,
+      "health_per_capita": 844.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4086.6,
+      "health_per_capita": 909.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4368.4,
+      "health_per_capita": 974.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4603.3,
+      "health_per_capita": 1039.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4697.2,
+      "health_per_capita": 1082.4
+    }
+  ]
+}

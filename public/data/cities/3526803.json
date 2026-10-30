@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3526803",
+  "city_name": "Lençóis Paulista",
+  "uf": "SP",
+  "population": 66505,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 315458238.15,
+    "total_expense": 306033035.1,
+    "own_revenue_percentage": 41.3,
+    "transfers_revenue_percentage": 58.7,
+    "personnel_expense_percentage_rcl": 52.5
+  },
+  "per_capita_breakdown": {
+    "health": 1156.0,
+    "education": 1205.2,
+    "urbanism": 706.6,
+    "administration": 373.7,
+    "legislative": 99.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3727.4,
+      "health_per_capita": 901.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4003.5,
+      "health_per_capita": 971.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4279.6,
+      "health_per_capita": 1040.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4509.7,
+      "health_per_capita": 1109.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4601.7,
+      "health_per_capita": 1156.0
+    }
+  ]
+}

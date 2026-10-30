@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3152907",
+  "city_name": "Pratápolis",
+  "uf": "MG",
+  "population": 8406,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 43681837.19,
+    "total_expense": 43250782.47,
+    "own_revenue_percentage": 10.3,
+    "transfers_revenue_percentage": 89.7,
+    "personnel_expense_percentage_rcl": 46.6
+  },
+  "per_capita_breakdown": {
+    "health": 1113.5,
+    "education": 1385.3,
+    "urbanism": 496.8,
+    "administration": 529.7,
+    "legislative": 158.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4167.6,
+      "health_per_capita": 868.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4476.3,
+      "health_per_capita": 935.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4785.0,
+      "health_per_capita": 1002.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5042.3,
+      "health_per_capita": 1069.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5145.2,
+      "health_per_capita": 1113.5
+    }
+  ]
+}

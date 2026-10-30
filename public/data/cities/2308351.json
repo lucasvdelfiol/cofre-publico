@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2308351",
+  "city_name": "Milhã",
+  "uf": "CE",
+  "population": 14123,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 76935356.56,
+    "total_expense": 75087817.28,
+    "own_revenue_percentage": 10.9,
+    "transfers_revenue_percentage": 89.1,
+    "personnel_expense_percentage_rcl": 52.1
+  },
+  "per_capita_breakdown": {
+    "health": 1463.2,
+    "education": 1544.8,
+    "urbanism": 603.0,
+    "administration": 453.0,
+    "legislative": 110.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4306.5,
+      "health_per_capita": 1141.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4625.5,
+      "health_per_capita": 1229.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4944.5,
+      "health_per_capita": 1316.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5210.4,
+      "health_per_capita": 1404.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5316.7,
+      "health_per_capita": 1463.2
+    }
+  ]
+}

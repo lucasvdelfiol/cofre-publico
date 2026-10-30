@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2804409",
+  "city_name": "Neópolis",
+  "uf": "SE",
+  "population": 16426,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 72921559.23,
+    "total_expense": 73076246.06,
+    "own_revenue_percentage": 13.5,
+    "transfers_revenue_percentage": 86.5,
+    "personnel_expense_percentage_rcl": 49.4
+  },
+  "per_capita_breakdown": {
+    "health": 993.5,
+    "education": 1412.5,
+    "urbanism": 508.9,
+    "administration": 450.4,
+    "legislative": 143.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3603.5,
+      "health_per_capita": 774.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3870.5,
+      "health_per_capita": 834.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4137.4,
+      "health_per_capita": 894.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4359.8,
+      "health_per_capita": 953.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4448.8,
+      "health_per_capita": 993.5
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3512605",
+  "city_name": "Coronel Macedo",
+  "uf": "SP",
+  "population": 4280,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 19639053.51,
+    "total_expense": 19746325.89,
+    "own_revenue_percentage": 18.9,
+    "transfers_revenue_percentage": 81.1,
+    "personnel_expense_percentage_rcl": 51.9
+  },
+  "per_capita_breakdown": {
+    "health": 1238.1,
+    "education": 1347.7,
+    "urbanism": 508.9,
+    "administration": 543.5,
+    "legislative": 152.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3737.0,
+      "health_per_capita": 965.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4013.8,
+      "health_per_capita": 1040.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4290.6,
+      "health_per_capita": 1114.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4521.3,
+      "health_per_capita": 1188.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4613.6,
+      "health_per_capita": 1238.1
+    }
+  ]
+}

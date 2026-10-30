@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4318002",
+  "city_name": "São Borja",
+  "uf": "RS",
+  "population": 59676,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 310868805.32,
+    "total_expense": 301454857.02,
+    "own_revenue_percentage": 30.1,
+    "transfers_revenue_percentage": 69.9,
+    "personnel_expense_percentage_rcl": 48.8
+  },
+  "per_capita_breakdown": {
+    "health": 1078.6,
+    "education": 1221.2,
+    "urbanism": 537.8,
+    "administration": 329.7,
+    "legislative": 171.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4091.7,
+      "health_per_capita": 841.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4394.8,
+      "health_per_capita": 906.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4697.9,
+      "health_per_capita": 970.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4950.5,
+      "health_per_capita": 1035.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5051.5,
+      "health_per_capita": 1078.6
+    }
+  ]
+}

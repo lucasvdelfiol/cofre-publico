@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1506708",
+  "city_name": "Santana do Araguaia",
+  "uf": "PA",
+  "population": 32413,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 152332387.26,
+    "total_expense": 153721389.18,
+    "own_revenue_percentage": 21.6,
+    "transfers_revenue_percentage": 78.4,
+    "personnel_expense_percentage_rcl": 49.3
+  },
+  "per_capita_breakdown": {
+    "health": 1033.5,
+    "education": 1471.7,
+    "urbanism": 472.9,
+    "administration": 496.8,
+    "legislative": 101.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3841.5,
+      "health_per_capita": 806.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4126.1,
+      "health_per_capita": 868.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4410.6,
+      "health_per_capita": 930.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4647.7,
+      "health_per_capita": 992.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4742.6,
+      "health_per_capita": 1033.5
+    }
+  ]
+}

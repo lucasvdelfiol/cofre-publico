@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3548906",
+  "city_name": "São Carlos",
+  "uf": "SP",
+  "population": 254857,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 1456509978.77,
+    "total_expense": 1448115549.81,
+    "own_revenue_percentage": 47.8,
+    "transfers_revenue_percentage": 52.2,
+    "personnel_expense_percentage_rcl": 47.3
+  },
+  "per_capita_breakdown": {
+    "health": 1240.6,
+    "education": 1483.2,
+    "urbanism": 584.8,
+    "administration": 653.3,
+    "legislative": 154.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4602.5,
+      "health_per_capita": 967.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4943.4,
+      "health_per_capita": 1042.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5284.4,
+      "health_per_capita": 1116.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5568.5,
+      "health_per_capita": 1191.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5682.1,
+      "health_per_capita": 1240.6
+    }
+  ]
+}

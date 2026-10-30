@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3155702",
+  "city_name": "Rio Piracicaba",
+  "uf": "MG",
+  "population": 14631,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 82078084.95,
+    "total_expense": 81173407.56,
+    "own_revenue_percentage": 8.2,
+    "transfers_revenue_percentage": 91.8,
+    "personnel_expense_percentage_rcl": 51.7
+  },
+  "per_capita_breakdown": {
+    "health": 1537.4,
+    "education": 1467.7,
+    "urbanism": 784.9,
+    "administration": 458.6,
+    "legislative": 174.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4493.9,
+      "health_per_capita": 1199.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4826.8,
+      "health_per_capita": 1291.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5159.6,
+      "health_per_capita": 1383.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5437.0,
+      "health_per_capita": 1475.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5548.0,
+      "health_per_capita": 1537.4
+    }
+  ]
+}

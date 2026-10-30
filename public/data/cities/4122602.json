@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4122602",
+  "city_name": "Rondon",
+  "uf": "PR",
+  "population": 9097,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 40905769.56,
+    "total_expense": 40773335.05,
+    "own_revenue_percentage": 17.1,
+    "transfers_revenue_percentage": 82.9,
+    "personnel_expense_percentage_rcl": 53.8
+  },
+  "per_capita_breakdown": {
+    "health": 1238.9,
+    "education": 1076.4,
+    "urbanism": 505.9,
+    "administration": 364.2,
+    "legislative": 138.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3630.5,
+      "health_per_capita": 966.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3899.4,
+      "health_per_capita": 1040.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4168.4,
+      "health_per_capita": 1115.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4392.5,
+      "health_per_capita": 1189.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4482.1,
+      "health_per_capita": 1238.9
+    }
+  ]
+}

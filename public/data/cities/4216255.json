@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4216255",
+  "city_name": "São João do Oeste",
+  "uf": "SC",
+  "population": 6295,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 32544874.46,
+    "total_expense": 32097035.44,
+    "own_revenue_percentage": 16.6,
+    "transfers_revenue_percentage": 83.4,
+    "personnel_expense_percentage_rcl": 48.8
+  },
+  "per_capita_breakdown": {
+    "health": 1327.1,
+    "education": 1375.0,
+    "urbanism": 549.7,
+    "administration": 492.5,
+    "legislative": 101.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4130.0,
+      "health_per_capita": 1035.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4436.0,
+      "health_per_capita": 1114.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4741.9,
+      "health_per_capita": 1194.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4996.8,
+      "health_per_capita": 1274.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5098.8,
+      "health_per_capita": 1327.1
+    }
+  ]
+}

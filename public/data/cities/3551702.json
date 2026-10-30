@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3551702",
+  "city_name": "Sertãozinho",
+  "uf": "SP",
+  "population": 126887,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 600821901.0,
+    "total_expense": 606442410.04,
+    "own_revenue_percentage": 41.2,
+    "transfers_revenue_percentage": 58.8,
+    "personnel_expense_percentage_rcl": 48.4
+  },
+  "per_capita_breakdown": {
+    "health": 1218.4,
+    "education": 1343.3,
+    "urbanism": 462.4,
+    "administration": 412.7,
+    "legislative": 124.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3871.3,
+      "health_per_capita": 950.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4158.1,
+      "health_per_capita": 1023.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4444.8,
+      "health_per_capita": 1096.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4683.8,
+      "health_per_capita": 1169.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4779.4,
+      "health_per_capita": 1218.4
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5104609",
+  "city_name": "Itiquira",
+  "uf": "MT",
+  "population": 12236,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 67358472.38,
+    "total_expense": 67273256.28,
+    "own_revenue_percentage": 14.0,
+    "transfers_revenue_percentage": 86.0,
+    "personnel_expense_percentage_rcl": 50.7
+  },
+  "per_capita_breakdown": {
+    "health": 1218.1,
+    "education": 1663.8,
+    "urbanism": 628.0,
+    "administration": 412.5,
+    "legislative": 162.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4453.4,
+      "health_per_capita": 950.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4783.3,
+      "health_per_capita": 1023.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5113.1,
+      "health_per_capita": 1096.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5388.0,
+      "health_per_capita": 1169.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5498.0,
+      "health_per_capita": 1218.1
+    }
+  ]
+}

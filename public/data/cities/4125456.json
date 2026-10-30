@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4125456",
+  "city_name": "São José das Palmeiras",
+  "uf": "PR",
+  "population": 3957,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 19350643.17,
+    "total_expense": 19146896.7,
+    "own_revenue_percentage": 18.0,
+    "transfers_revenue_percentage": 82.0,
+    "personnel_expense_percentage_rcl": 50.2
+  },
+  "per_capita_breakdown": {
+    "health": 1305.2,
+    "education": 1415.2,
+    "urbanism": 504.9,
+    "administration": 359.6,
+    "legislative": 134.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3919.3,
+      "health_per_capita": 1018.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4209.7,
+      "health_per_capita": 1096.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4500.0,
+      "health_per_capita": 1174.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4741.9,
+      "health_per_capita": 1253.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4838.7,
+      "health_per_capita": 1305.2
+    }
+  ]
+}

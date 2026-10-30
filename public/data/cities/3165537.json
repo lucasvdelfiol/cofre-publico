@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3165537",
+  "city_name": "Sarzedo",
+  "uf": "MG",
+  "population": 36844,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 182896639.22,
+    "total_expense": 179633968.01,
+    "own_revenue_percentage": 18.1,
+    "transfers_revenue_percentage": 81.9,
+    "personnel_expense_percentage_rcl": 53.2
+  },
+  "per_capita_breakdown": {
+    "health": 1240.0,
+    "education": 1222.3,
+    "urbanism": 664.2,
+    "administration": 391.7,
+    "legislative": 160.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3949.2,
+      "health_per_capita": 967.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4241.7,
+      "health_per_capita": 1041.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4534.2,
+      "health_per_capita": 1116.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4778.0,
+      "health_per_capita": 1190.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4875.5,
+      "health_per_capita": 1240.0
+    }
+  ]
+}

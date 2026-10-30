@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4314464",
+  "city_name": "Pinhal da Serra",
+  "uf": "RS",
+  "population": 2248,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 12019649.69,
+    "total_expense": 11653128.05,
+    "own_revenue_percentage": 8.1,
+    "transfers_revenue_percentage": 91.9,
+    "personnel_expense_percentage_rcl": 49.2
+  },
+  "per_capita_breakdown": {
+    "health": 1329.6,
+    "education": 1615.8,
+    "urbanism": 728.1,
+    "administration": 584.7,
+    "legislative": 148.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4198.9,
+      "health_per_capita": 1037.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4509.9,
+      "health_per_capita": 1116.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4820.9,
+      "health_per_capita": 1196.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5080.1,
+      "health_per_capita": 1276.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5183.8,
+      "health_per_capita": 1329.6
+    }
+  ]
+}

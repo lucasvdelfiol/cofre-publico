@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3132503",
+  "city_name": "Itamarandiba",
+  "uf": "MG",
+  "population": 32948,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 138284372.57,
+    "total_expense": 138372008.13,
+    "own_revenue_percentage": 27.5,
+    "transfers_revenue_percentage": 72.5,
+    "personnel_expense_percentage_rcl": 51.3
+  },
+  "per_capita_breakdown": {
+    "health": 906.5,
+    "education": 1147.2,
+    "urbanism": 639.0,
+    "administration": 480.0,
+    "legislative": 100.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3401.8,
+      "health_per_capita": 707.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3653.7,
+      "health_per_capita": 761.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3905.7,
+      "health_per_capita": 815.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4115.7,
+      "health_per_capita": 870.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4199.7,
+      "health_per_capita": 906.5
+    }
+  ]
+}

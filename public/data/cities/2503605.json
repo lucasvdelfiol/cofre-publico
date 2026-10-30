@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2503605",
+  "city_name": "Caiçara",
+  "uf": "PB",
+  "population": 6602,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 29305799.42,
+    "total_expense": 29540591.9,
+    "own_revenue_percentage": 8.1,
+    "transfers_revenue_percentage": 91.9,
+    "personnel_expense_percentage_rcl": 53.5
+  },
+  "per_capita_breakdown": {
+    "health": 949.3,
+    "education": 1247.9,
+    "urbanism": 533.9,
+    "administration": 408.5,
+    "legislative": 129.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3624.3,
+      "health_per_capita": 740.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3892.8,
+      "health_per_capita": 797.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4161.3,
+      "health_per_capita": 854.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4385.0,
+      "health_per_capita": 911.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4474.5,
+      "health_per_capita": 949.3
+    }
+  ]
+}

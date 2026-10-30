@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3541208",
+  "city_name": "Presidente Bernardes",
+  "uf": "SP",
+  "population": 14490,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 74570781.6,
+    "total_expense": 74701097.11,
+    "own_revenue_percentage": 10.9,
+    "transfers_revenue_percentage": 89.1,
+    "personnel_expense_percentage_rcl": 49.6
+  },
+  "per_capita_breakdown": {
+    "health": 1035.2,
+    "education": 1260.3,
+    "urbanism": 668.8,
+    "administration": 534.3,
+    "legislative": 82.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4175.9,
+      "health_per_capita": 807.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4485.2,
+      "health_per_capita": 869.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4794.5,
+      "health_per_capita": 931.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5052.3,
+      "health_per_capita": 993.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5155.4,
+      "health_per_capita": 1035.2
+    }
+  ]
+}

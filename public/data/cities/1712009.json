@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1712009",
+  "city_name": "Lajeado",
+  "uf": "TO",
+  "population": 3357,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 18566980.29,
+    "total_expense": 18129411.67,
+    "own_revenue_percentage": 14.8,
+    "transfers_revenue_percentage": 85.2,
+    "personnel_expense_percentage_rcl": 49.7
+  },
+  "per_capita_breakdown": {
+    "health": 1130.8,
+    "education": 1326.8,
+    "urbanism": 568.3,
+    "administration": 393.5,
+    "legislative": 144.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4374.4,
+      "health_per_capita": 882.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4698.4,
+      "health_per_capita": 949.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5022.5,
+      "health_per_capita": 1017.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5292.5,
+      "health_per_capita": 1085.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5400.5,
+      "health_per_capita": 1130.8
+    }
+  ]
+}

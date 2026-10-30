@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3527801",
+  "city_name": "Lupércio",
+  "uf": "SP",
+  "population": 3981,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 17764282.18,
+    "total_expense": 17440407.32,
+    "own_revenue_percentage": 10.2,
+    "transfers_revenue_percentage": 89.8,
+    "personnel_expense_percentage_rcl": 53.0
+  },
+  "per_capita_breakdown": {
+    "health": 1097.9,
+    "education": 1304.9,
+    "urbanism": 516.6,
+    "administration": 444.6,
+    "legislative": 136.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3548.5,
+      "health_per_capita": 856.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3811.4,
+      "health_per_capita": 922.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4074.2,
+      "health_per_capita": 988.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4293.3,
+      "health_per_capita": 1054.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4380.9,
+      "health_per_capita": 1097.9
+    }
+  ]
+}

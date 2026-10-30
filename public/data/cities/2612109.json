@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2612109",
+  "city_name": "Salgadinho",
+  "uf": "PE",
+  "population": 5727,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 30480228.38,
+    "total_expense": 29468373.95,
+    "own_revenue_percentage": 19.8,
+    "transfers_revenue_percentage": 80.2,
+    "personnel_expense_percentage_rcl": 52.6
+  },
+  "per_capita_breakdown": {
+    "health": 1089.6,
+    "education": 1643.4,
+    "urbanism": 753.3,
+    "administration": 346.6,
+    "legislative": 102.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4167.9,
+      "health_per_capita": 849.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4476.6,
+      "health_per_capita": 915.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4785.3,
+      "health_per_capita": 980.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5042.6,
+      "health_per_capita": 1046.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5145.5,
+      "health_per_capita": 1089.6
+    }
+  ]
+}

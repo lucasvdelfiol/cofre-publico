@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3305505",
+  "city_name": "Saquarema",
+  "uf": "RJ",
+  "population": 89559,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 418672633.04,
+    "total_expense": 416117696.14,
+    "own_revenue_percentage": 31.5,
+    "transfers_revenue_percentage": 68.5,
+    "personnel_expense_percentage_rcl": 52.2
+  },
+  "per_capita_breakdown": {
+    "health": 1005.8,
+    "education": 1201.1,
+    "urbanism": 460.3,
+    "administration": 531.2,
+    "legislative": 128.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3763.5,
+      "health_per_capita": 784.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4042.3,
+      "health_per_capita": 844.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4321.1,
+      "health_per_capita": 905.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4553.4,
+      "health_per_capita": 965.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4646.3,
+      "health_per_capita": 1005.8
+    }
+  ]
+}

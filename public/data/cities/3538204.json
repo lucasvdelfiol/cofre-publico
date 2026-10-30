@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3538204",
+  "city_name": "Pinhalzinho",
+  "uf": "SP",
+  "population": 15224,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 81807916.93,
+    "total_expense": 82533577.41,
+    "own_revenue_percentage": 17.5,
+    "transfers_revenue_percentage": 82.5,
+    "personnel_expense_percentage_rcl": 46.2
+  },
+  "per_capita_breakdown": {
+    "health": 1371.1,
+    "education": 1700.2,
+    "urbanism": 652.2,
+    "administration": 375.8,
+    "legislative": 137.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4391.3,
+      "health_per_capita": 1069.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4716.5,
+      "health_per_capita": 1151.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5041.8,
+      "health_per_capita": 1234.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5312.9,
+      "health_per_capita": 1316.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5421.3,
+      "health_per_capita": 1371.1
+    }
+  ]
+}

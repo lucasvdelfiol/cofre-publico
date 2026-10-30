@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2705804",
+  "city_name": "Olho d'Água do Casado",
+  "uf": "AL",
+  "population": 8349,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 39306929.95,
+    "total_expense": 38759760.22,
+    "own_revenue_percentage": 15.0,
+    "transfers_revenue_percentage": 85.0,
+    "personnel_expense_percentage_rcl": 47.3
+  },
+  "per_capita_breakdown": {
+    "health": 1192.5,
+    "education": 1314.9,
+    "urbanism": 565.6,
+    "administration": 298.2,
+    "legislative": 73.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3760.3,
+      "health_per_capita": 930.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4038.9,
+      "health_per_capita": 1001.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4317.4,
+      "health_per_capita": 1073.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4549.6,
+      "health_per_capita": 1144.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4642.4,
+      "health_per_capita": 1192.5
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2204659",
+  "city_name": "Ilha Grande",
+  "uf": "PI",
+  "population": 9274,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 45875512.99,
+    "total_expense": 45462320.63,
+    "own_revenue_percentage": 14.6,
+    "transfers_revenue_percentage": 85.4,
+    "personnel_expense_percentage_rcl": 51.8
+  },
+  "per_capita_breakdown": {
+    "health": 1008.5,
+    "education": 1530.9,
+    "urbanism": 713.5,
+    "administration": 391.2,
+    "legislative": 108.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3970.7,
+      "health_per_capita": 786.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4264.8,
+      "health_per_capita": 847.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4559.0,
+      "health_per_capita": 907.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4804.1,
+      "health_per_capita": 968.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4902.1,
+      "health_per_capita": 1008.5
+    }
+  ]
+}

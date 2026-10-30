@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1716604",
+  "city_name": "Peixe",
+  "uf": "TO",
+  "population": 9317,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 40619246.79,
+    "total_expense": 40810451.02,
+    "own_revenue_percentage": 21.3,
+    "transfers_revenue_percentage": 78.7,
+    "personnel_expense_percentage_rcl": 46.2
+  },
+  "per_capita_breakdown": {
+    "health": 1183.8,
+    "education": 1330.4,
+    "urbanism": 369.1,
+    "administration": 430.9,
+    "legislative": 117.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3548.0,
+      "health_per_capita": 923.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3810.8,
+      "health_per_capita": 994.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4073.6,
+      "health_per_capita": 1065.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4292.6,
+      "health_per_capita": 1136.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4380.2,
+      "health_per_capita": 1183.8
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5103452",
+  "city_name": "Denise",
+  "uf": "MT",
+  "population": 7014,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 35149988.15,
+    "total_expense": 33958199.85,
+    "own_revenue_percentage": 10.8,
+    "transfers_revenue_percentage": 89.2,
+    "personnel_expense_percentage_rcl": 46.2
+  },
+  "per_capita_breakdown": {
+    "health": 1267.7,
+    "education": 1515.5,
+    "urbanism": 515.6,
+    "administration": 487.7,
+    "legislative": 144.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3921.6,
+      "health_per_capita": 988.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4212.1,
+      "health_per_capita": 1064.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4502.6,
+      "health_per_capita": 1140.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4744.7,
+      "health_per_capita": 1217.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4841.5,
+      "health_per_capita": 1267.7
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4114005",
+  "city_name": "Mamborê",
+  "uf": "PR",
+  "population": 13452,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 67937171.97,
+    "total_expense": 67860323.4,
+    "own_revenue_percentage": 8.0,
+    "transfers_revenue_percentage": 92.0,
+    "personnel_expense_percentage_rcl": 52.8
+  },
+  "per_capita_breakdown": {
+    "health": 1132.4,
+    "education": 1261.1,
+    "urbanism": 632.7,
+    "administration": 556.8,
+    "legislative": 167.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4086.1,
+      "health_per_capita": 883.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4388.8,
+      "health_per_capita": 951.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4691.5,
+      "health_per_capita": 1019.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4943.7,
+      "health_per_capita": 1087.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5044.6,
+      "health_per_capita": 1132.4
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4102208",
+  "city_name": "Atalaia",
+  "uf": "PR",
+  "population": 3980,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 22375452.8,
+    "total_expense": 21925341.54,
+    "own_revenue_percentage": 17.3,
+    "transfers_revenue_percentage": 82.7,
+    "personnel_expense_percentage_rcl": 48.2
+  },
+  "per_capita_breakdown": {
+    "health": 1134.8,
+    "education": 1389.2,
+    "urbanism": 546.3,
+    "administration": 477.7,
+    "legislative": 156.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4462.2,
+      "health_per_capita": 885.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4792.7,
+      "health_per_capita": 953.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5123.3,
+      "health_per_capita": 1021.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5398.7,
+      "health_per_capita": 1089.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5508.9,
+      "health_per_capita": 1134.8
+    }
+  ]
+}

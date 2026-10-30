@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2105807",
+  "city_name": "Lago do Junco",
+  "uf": "MA",
+  "population": 9506,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 53440461.69,
+    "total_expense": 51813454.56,
+    "own_revenue_percentage": 16.6,
+    "transfers_revenue_percentage": 83.4,
+    "personnel_expense_percentage_rcl": 53.1
+  },
+  "per_capita_breakdown": {
+    "health": 1415.8,
+    "education": 1439.2,
+    "urbanism": 820.5,
+    "administration": 397.5,
+    "legislative": 101.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4415.0,
+      "health_per_capita": 1104.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4742.0,
+      "health_per_capita": 1189.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5069.1,
+      "health_per_capita": 1274.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5341.6,
+      "health_per_capita": 1359.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5450.6,
+      "health_per_capita": 1415.8
+    }
+  ]
+}

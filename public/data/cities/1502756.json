@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1502756",
+  "city_name": "Concórdia do Pará",
+  "uf": "PA",
+  "population": 26881,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 121786524.51,
+    "total_expense": 120611376.68,
+    "own_revenue_percentage": 24.9,
+    "transfers_revenue_percentage": 75.1,
+    "personnel_expense_percentage_rcl": 51.9
+  },
+  "per_capita_breakdown": {
+    "health": 997.2,
+    "education": 1386.8,
+    "urbanism": 366.9,
+    "administration": 377.0,
+    "legislative": 155.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3634.4,
+      "health_per_capita": 777.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3903.6,
+      "health_per_capita": 837.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4172.8,
+      "health_per_capita": 897.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4397.2,
+      "health_per_capita": 957.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4486.9,
+      "health_per_capita": 997.2
+    }
+  ]
+}

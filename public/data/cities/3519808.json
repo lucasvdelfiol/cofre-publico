@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3519808",
+  "city_name": "Icém",
+  "uf": "SP",
+  "population": 7819,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 34018498.11,
+    "total_expense": 33656395.87,
+    "own_revenue_percentage": 10.8,
+    "transfers_revenue_percentage": 89.2,
+    "personnel_expense_percentage_rcl": 48.5
+  },
+  "per_capita_breakdown": {
+    "health": 1048.9,
+    "education": 1372.3,
+    "urbanism": 519.8,
+    "administration": 500.2,
+    "legislative": 94.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3486.6,
+      "health_per_capita": 818.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3744.8,
+      "health_per_capita": 881.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4003.1,
+      "health_per_capita": 944.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4218.3,
+      "health_per_capita": 1006.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4304.4,
+      "health_per_capita": 1048.9
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4107553",
+  "city_name": "Farol",
+  "uf": "PR",
+  "population": 3039,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 14325501.08,
+    "total_expense": 13843520.74,
+    "own_revenue_percentage": 19.4,
+    "transfers_revenue_percentage": 80.6,
+    "personnel_expense_percentage_rcl": 46.1
+  },
+  "per_capita_breakdown": {
+    "health": 1214.1,
+    "education": 1270.3,
+    "urbanism": 556.5,
+    "administration": 448.6,
+    "legislative": 76.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3689.8,
+      "health_per_capita": 947.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3963.1,
+      "health_per_capita": 1019.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4236.4,
+      "health_per_capita": 1092.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4464.2,
+      "health_per_capita": 1165.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4555.3,
+      "health_per_capita": 1214.1
+    }
+  ]
+}

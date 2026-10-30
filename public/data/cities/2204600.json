@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2204600",
+  "city_name": "Hugo Napoleão",
+  "uf": "PI",
+  "population": 3518,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 16354388.56,
+    "total_expense": 16318723.51,
+    "own_revenue_percentage": 21.7,
+    "transfers_revenue_percentage": 78.3,
+    "personnel_expense_percentage_rcl": 45.6
+  },
+  "per_capita_breakdown": {
+    "health": 1196.5,
+    "education": 1307.5,
+    "urbanism": 465.3,
+    "administration": 411.1,
+    "legislative": 109.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3757.3,
+      "health_per_capita": 933.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4035.6,
+      "health_per_capita": 1005.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4313.9,
+      "health_per_capita": 1076.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4545.8,
+      "health_per_capita": 1148.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4638.6,
+      "health_per_capita": 1196.5
+    }
+  ]
+}

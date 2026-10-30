@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4309605",
+  "city_name": "Horizontina",
+  "uf": "RS",
+  "population": 18851,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 104827144.43,
+    "total_expense": 101501022.11,
+    "own_revenue_percentage": 10.0,
+    "transfers_revenue_percentage": 90.0,
+    "personnel_expense_percentage_rcl": 46.3
+  },
+  "per_capita_breakdown": {
+    "health": 1497.0,
+    "education": 1322.5,
+    "urbanism": 449.7,
+    "administration": 630.3,
+    "legislative": 124.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4361.4,
+      "health_per_capita": 1167.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4684.4,
+      "health_per_capita": 1257.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5007.5,
+      "health_per_capita": 1347.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5276.7,
+      "health_per_capita": 1437.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5384.4,
+      "health_per_capita": 1497.0
+    }
+  ]
+}

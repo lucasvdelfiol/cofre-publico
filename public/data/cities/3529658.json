@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3529658",
+  "city_name": "Mesópolis",
+  "uf": "SP",
+  "population": 1952,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 8858451.31,
+    "total_expense": 8805575.38,
+    "own_revenue_percentage": 10.1,
+    "transfers_revenue_percentage": 89.9,
+    "personnel_expense_percentage_rcl": 50.1
+  },
+  "per_capita_breakdown": {
+    "health": 1068.7,
+    "education": 1322.6,
+    "urbanism": 657.6,
+    "administration": 363.7,
+    "legislative": 107.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3654.0,
+      "health_per_capita": 833.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3924.7,
+      "health_per_capita": 897.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4195.3,
+      "health_per_capita": 961.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4420.9,
+      "health_per_capita": 1026.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4511.1,
+      "health_per_capita": 1068.7
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5006903",
+  "city_name": "Porto Murtinho",
+  "uf": "MS",
+  "population": 12859,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 57620300.84,
+    "total_expense": 57003315.24,
+    "own_revenue_percentage": 20.8,
+    "transfers_revenue_percentage": 79.2,
+    "personnel_expense_percentage_rcl": 53.0
+  },
+  "per_capita_breakdown": {
+    "health": 1207.9,
+    "education": 1396.3,
+    "urbanism": 652.6,
+    "administration": 352.2,
+    "legislative": 67.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3590.7,
+      "health_per_capita": 942.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3856.7,
+      "health_per_capita": 1014.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4122.7,
+      "health_per_capita": 1087.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4344.3,
+      "health_per_capita": 1159.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4433.0,
+      "health_per_capita": 1207.9
+    }
+  ]
+}

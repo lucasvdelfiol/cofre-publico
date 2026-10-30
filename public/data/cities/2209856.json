@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2209856",
+  "city_name": "São João da Canabrava",
+  "uf": "PI",
+  "population": 4242,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 20507968.29,
+    "total_expense": 20315260.33,
+    "own_revenue_percentage": 14.8,
+    "transfers_revenue_percentage": 85.2,
+    "personnel_expense_percentage_rcl": 46.7
+  },
+  "per_capita_breakdown": {
+    "health": 1186.3,
+    "education": 1449.1,
+    "urbanism": 542.6,
+    "administration": 519.4,
+    "legislative": 165.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3879.2,
+      "health_per_capita": 925.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4166.5,
+      "health_per_capita": 996.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4453.9,
+      "health_per_capita": 1067.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4693.3,
+      "health_per_capita": 1138.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4789.1,
+      "health_per_capita": 1186.3
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3556404",
+  "city_name": "Vargem Grande do Sul",
+  "uf": "SP",
+  "population": 40133,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 182016533.49,
+    "total_expense": 175420669.33,
+    "own_revenue_percentage": 20.6,
+    "transfers_revenue_percentage": 79.4,
+    "personnel_expense_percentage_rcl": 50.7
+  },
+  "per_capita_breakdown": {
+    "health": 961.2,
+    "education": 1297.4,
+    "urbanism": 696.6,
+    "administration": 415.2,
+    "legislative": 80.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3540.5,
+      "health_per_capita": 749.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3802.8,
+      "health_per_capita": 807.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4065.0,
+      "health_per_capita": 865.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4283.6,
+      "health_per_capita": 922.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4371.0,
+      "health_per_capita": 961.2
+    }
+  ]
+}

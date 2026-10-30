@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3165701",
+  "city_name": "Senador Firmino",
+  "uf": "MG",
+  "population": 7716,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 43730391.71,
+    "total_expense": 42098195.0,
+    "own_revenue_percentage": 16.6,
+    "transfers_revenue_percentage": 83.4,
+    "personnel_expense_percentage_rcl": 52.6
+  },
+  "per_capita_breakdown": {
+    "health": 1240.3,
+    "education": 1638.9,
+    "urbanism": 695.2,
+    "administration": 380.5,
+    "legislative": 143.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4419.4,
+      "health_per_capita": 967.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4746.7,
+      "health_per_capita": 1041.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5074.1,
+      "health_per_capita": 1116.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5346.9,
+      "health_per_capita": 1190.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5456.0,
+      "health_per_capita": 1240.3
+    }
+  ]
+}

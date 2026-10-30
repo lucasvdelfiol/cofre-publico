@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2915106",
+  "city_name": "Itagi",
+  "uf": "BA",
+  "population": 13803,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 65368604.12,
+    "total_expense": 62947397.61,
+    "own_revenue_percentage": 20.2,
+    "transfers_revenue_percentage": 79.8,
+    "personnel_expense_percentage_rcl": 53.2
+  },
+  "per_capita_breakdown": {
+    "health": 1163.8,
+    "education": 1275.1,
+    "urbanism": 529.2,
+    "administration": 338.1,
+    "legislative": 80.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3693.9,
+      "health_per_capita": 907.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3967.5,
+      "health_per_capita": 977.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4241.2,
+      "health_per_capita": 1047.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4469.2,
+      "health_per_capita": 1117.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4560.4,
+      "health_per_capita": 1163.8
+    }
+  ]
+}

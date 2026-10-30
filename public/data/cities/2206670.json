@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2206670",
+  "city_name": "Morro do Chapéu do Piauí",
+  "uf": "PI",
+  "population": 6425,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 36011638.43,
+    "total_expense": 34674953.61,
+    "own_revenue_percentage": 18.7,
+    "transfers_revenue_percentage": 81.3,
+    "personnel_expense_percentage_rcl": 49.9
+  },
+  "per_capita_breakdown": {
+    "health": 1231.1,
+    "education": 1591.9,
+    "urbanism": 622.7,
+    "administration": 565.7,
+    "legislative": 164.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4371.5,
+      "health_per_capita": 960.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4695.3,
+      "health_per_capita": 1034.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5019.1,
+      "health_per_capita": 1108.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5289.0,
+      "health_per_capita": 1181.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5396.9,
+      "health_per_capita": 1231.1
+    }
+  ]
+}

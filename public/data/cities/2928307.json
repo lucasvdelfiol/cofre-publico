@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2928307",
+  "city_name": "Santanópolis",
+  "uf": "BA",
+  "population": 8716,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 47989955.4,
+    "total_expense": 47280745.71,
+    "own_revenue_percentage": 8.2,
+    "transfers_revenue_percentage": 91.8,
+    "personnel_expense_percentage_rcl": 50.2
+  },
+  "per_capita_breakdown": {
+    "health": 1215.0,
+    "education": 1711.6,
+    "urbanism": 458.2,
+    "administration": 331.3,
+    "legislative": 139.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4393.9,
+      "health_per_capita": 947.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4719.4,
+      "health_per_capita": 1020.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5044.9,
+      "health_per_capita": 1093.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5316.1,
+      "health_per_capita": 1166.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5424.6,
+      "health_per_capita": 1215.0
+    }
+  ]
+}

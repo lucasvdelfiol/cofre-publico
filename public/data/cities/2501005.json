@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2501005",
+  "city_name": "Araruna",
+  "uf": "PB",
+  "population": 17189,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 87174811.27,
+    "total_expense": 83989850.62,
+    "own_revenue_percentage": 10.9,
+    "transfers_revenue_percentage": 89.1,
+    "personnel_expense_percentage_rcl": 47.5
+  },
+  "per_capita_breakdown": {
+    "health": 1090.7,
+    "education": 1482.2,
+    "urbanism": 609.7,
+    "administration": 428.6,
+    "legislative": 116.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3957.9,
+      "health_per_capita": 850.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4251.1,
+      "health_per_capita": 916.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4544.3,
+      "health_per_capita": 981.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4788.6,
+      "health_per_capita": 1047.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4886.3,
+      "health_per_capita": 1090.7
+    }
+  ]
+}

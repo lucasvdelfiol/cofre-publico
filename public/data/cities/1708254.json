@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1708254",
+  "city_name": "Tabocão",
+  "uf": "TO",
+  "population": 3455,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 17945481.3,
+    "total_expense": 17713918.56,
+    "own_revenue_percentage": 21.6,
+    "transfers_revenue_percentage": 78.4,
+    "personnel_expense_percentage_rcl": 50.1
+  },
+  "per_capita_breakdown": {
+    "health": 1381.8,
+    "education": 1369.4,
+    "urbanism": 735.4,
+    "administration": 613.1,
+    "legislative": 100.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4152.9,
+      "health_per_capita": 1077.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4460.5,
+      "health_per_capita": 1160.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4768.1,
+      "health_per_capita": 1243.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5024.5,
+      "health_per_capita": 1326.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5127.0,
+      "health_per_capita": 1381.8
+    }
+  ]
+}

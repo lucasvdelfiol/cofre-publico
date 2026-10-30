@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2608305",
+  "city_name": "Jupi",
+  "uf": "PE",
+  "population": 15329,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 81600994.58,
+    "total_expense": 78556731.34,
+    "own_revenue_percentage": 9.2,
+    "transfers_revenue_percentage": 90.8,
+    "personnel_expense_percentage_rcl": 51.3
+  },
+  "per_capita_breakdown": {
+    "health": 1374.5,
+    "education": 1435.3,
+    "urbanism": 598.8,
+    "administration": 371.7,
+    "legislative": 170.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4151.0,
+      "health_per_capita": 1072.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4458.5,
+      "health_per_capita": 1154.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4766.0,
+      "health_per_capita": 1237.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5022.2,
+      "health_per_capita": 1319.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5124.7,
+      "health_per_capita": 1374.5
+    }
+  ]
+}

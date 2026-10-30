@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3137007",
+  "city_name": "Ladainha",
+  "uf": "MG",
+  "population": 14383,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 69530010.27,
+    "total_expense": 67146445.47,
+    "own_revenue_percentage": 10.0,
+    "transfers_revenue_percentage": 90.0,
+    "personnel_expense_percentage_rcl": 53.4
+  },
+  "per_capita_breakdown": {
+    "health": 990.5,
+    "education": 1230.7,
+    "urbanism": 510.3,
+    "administration": 532.8,
+    "legislative": 115.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3781.5,
+      "health_per_capita": 772.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4061.6,
+      "health_per_capita": 832.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4341.7,
+      "health_per_capita": 891.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4575.1,
+      "health_per_capita": 950.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4668.5,
+      "health_per_capita": 990.5
+    }
+  ]
+}

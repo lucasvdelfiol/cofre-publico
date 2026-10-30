@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4313060",
+  "city_name": "Nova Hartz",
+  "uf": "RS",
+  "population": 20088,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 92707652.84,
+    "total_expense": 93561727.69,
+    "own_revenue_percentage": 19.2,
+    "transfers_revenue_percentage": 80.8,
+    "personnel_expense_percentage_rcl": 48.9
+  },
+  "per_capita_breakdown": {
+    "health": 1090.3,
+    "education": 1402.7,
+    "urbanism": 422.6,
+    "administration": 380.7,
+    "legislative": 160.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3772.7,
+      "health_per_capita": 850.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4052.1,
+      "health_per_capita": 915.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4331.6,
+      "health_per_capita": 981.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4564.4,
+      "health_per_capita": 1046.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4657.6,
+      "health_per_capita": 1090.3
+    }
+  ]
+}

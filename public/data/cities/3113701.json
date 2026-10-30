@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3113701",
+  "city_name": "Carlos Chagas",
+  "uf": "MG",
+  "population": 18615,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 103438969.83,
+    "total_expense": 103966084.33,
+    "own_revenue_percentage": 13.3,
+    "transfers_revenue_percentage": 86.7,
+    "personnel_expense_percentage_rcl": 51.0
+  },
+  "per_capita_breakdown": {
+    "health": 1463.9,
+    "education": 1687.0,
+    "urbanism": 584.1,
+    "administration": 670.1,
+    "legislative": 137.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4523.9,
+      "health_per_capita": 1141.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4859.0,
+      "health_per_capita": 1229.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5194.1,
+      "health_per_capita": 1317.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5473.4,
+      "health_per_capita": 1405.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5585.1,
+      "health_per_capita": 1463.9
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3114709",
+  "city_name": "Carvalhópolis",
+  "uf": "MG",
+  "population": 3341,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 17413742.5,
+    "total_expense": 17053427.12,
+    "own_revenue_percentage": 17.5,
+    "transfers_revenue_percentage": 82.5,
+    "personnel_expense_percentage_rcl": 45.6
+  },
+  "per_capita_breakdown": {
+    "health": 1248.8,
+    "education": 1228.6,
+    "urbanism": 799.3,
+    "administration": 438.0,
+    "legislative": 89.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4134.5,
+      "health_per_capita": 974.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4440.7,
+      "health_per_capita": 1049.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4747.0,
+      "health_per_capita": 1123.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5002.2,
+      "health_per_capita": 1198.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5104.3,
+      "health_per_capita": 1248.8
+    }
+  ]
+}

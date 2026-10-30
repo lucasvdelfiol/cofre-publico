@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4303103",
+  "city_name": "Cachoeirinha",
+  "uf": "RS",
+  "population": 136258,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 790208500.22,
+    "total_expense": 783701785.15,
+    "own_revenue_percentage": 42.1,
+    "transfers_revenue_percentage": 57.9,
+    "personnel_expense_percentage_rcl": 51.1
+  },
+  "per_capita_breakdown": {
+    "health": 1306.6,
+    "education": 1503.4,
+    "urbanism": 682.6,
+    "administration": 572.9,
+    "legislative": 129.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4658.8,
+      "health_per_capita": 1019.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 5003.9,
+      "health_per_capita": 1097.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5349.0,
+      "health_per_capita": 1175.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5636.6,
+      "health_per_capita": 1254.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5751.6,
+      "health_per_capita": 1306.6
+    }
+  ]
+}

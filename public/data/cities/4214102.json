@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4214102",
+  "city_name": "Presidente Nereu",
+  "uf": "SC",
+  "population": 2301,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 11992248.37,
+    "total_expense": 11967410.98,
+    "own_revenue_percentage": 14.2,
+    "transfers_revenue_percentage": 85.8,
+    "personnel_expense_percentage_rcl": 50.3
+  },
+  "per_capita_breakdown": {
+    "health": 1256.9,
+    "education": 1383.5,
+    "urbanism": 672.9,
+    "administration": 361.3,
+    "legislative": 105.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4212.8,
+      "health_per_capita": 980.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4524.9,
+      "health_per_capita": 1055.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4836.9,
+      "health_per_capita": 1131.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5097.0,
+      "health_per_capita": 1206.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5201.0,
+      "health_per_capita": 1256.9
+    }
+  ]
+}

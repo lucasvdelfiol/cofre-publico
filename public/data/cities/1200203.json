@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1200203",
+  "city_name": "Cruzeiro do Sul",
+  "uf": "AC",
+  "population": 91888,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 409708963.23,
+    "total_expense": 396813910.72,
+    "own_revenue_percentage": 31.0,
+    "transfers_revenue_percentage": 69.0,
+    "personnel_expense_percentage_rcl": 51.0
+  },
+  "per_capita_breakdown": {
+    "health": 1208.8,
+    "education": 1374.8,
+    "urbanism": 491.5,
+    "administration": 343.1,
+    "legislative": 147.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3498.0,
+      "health_per_capita": 942.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3757.1,
+      "health_per_capita": 1015.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4016.2,
+      "health_per_capita": 1087.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4232.1,
+      "health_per_capita": 1160.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4318.5,
+      "health_per_capita": 1208.8
+    }
+  ]
+}

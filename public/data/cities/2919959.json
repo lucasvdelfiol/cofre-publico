@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2919959",
+  "city_name": "Maetinga",
+  "uf": "BA",
+  "population": 6973,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 39420045.72,
+    "total_expense": 38064700.26,
+    "own_revenue_percentage": 8.7,
+    "transfers_revenue_percentage": 91.3,
+    "personnel_expense_percentage_rcl": 46.1
+  },
+  "per_capita_breakdown": {
+    "health": 1382.8,
+    "education": 1441.9,
+    "urbanism": 725.7,
+    "administration": 492.4,
+    "legislative": 159.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4421.7,
+      "health_per_capita": 1078.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4749.2,
+      "health_per_capita": 1161.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5076.8,
+      "health_per_capita": 1244.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5349.7,
+      "health_per_capita": 1327.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5458.9,
+      "health_per_capita": 1382.8
+    }
+  ]
+}

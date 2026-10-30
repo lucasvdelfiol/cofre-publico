@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2203420",
+  "city_name": "Domingos Mourão",
+  "uf": "PI",
+  "population": 4075,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 20464777.97,
+    "total_expense": 20611673.57,
+    "own_revenue_percentage": 19.3,
+    "transfers_revenue_percentage": 80.7,
+    "personnel_expense_percentage_rcl": 47.8
+  },
+  "per_capita_breakdown": {
+    "health": 1372.0,
+    "education": 1533.1,
+    "urbanism": 520.3,
+    "administration": 332.0,
+    "legislative": 146.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4097.1,
+      "health_per_capita": 1070.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4400.5,
+      "health_per_capita": 1152.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4704.0,
+      "health_per_capita": 1234.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4956.9,
+      "health_per_capita": 1317.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5058.1,
+      "health_per_capita": 1372.0
+    }
+  ]
+}

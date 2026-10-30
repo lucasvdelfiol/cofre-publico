@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3160108",
+  "city_name": "Santo Antônio do Grama",
+  "uf": "MG",
+  "population": 4229,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 19221208.35,
+    "total_expense": 19365618.82,
+    "own_revenue_percentage": 18.8,
+    "transfers_revenue_percentage": 81.2,
+    "personnel_expense_percentage_rcl": 50.2
+  },
+  "per_capita_breakdown": {
+    "health": 1246.1,
+    "education": 1461.7,
+    "urbanism": 680.5,
+    "administration": 479.0,
+    "legislative": 123.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3709.2,
+      "health_per_capita": 972.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3983.9,
+      "health_per_capita": 1046.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4258.7,
+      "health_per_capita": 1121.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4487.6,
+      "health_per_capita": 1196.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4579.2,
+      "health_per_capita": 1246.1
+    }
+  ]
+}

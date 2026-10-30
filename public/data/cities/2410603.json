@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2410603",
+  "city_name": "Rafael Godeiro",
+  "uf": "RN",
+  "population": 2934,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 14107833.67,
+    "total_expense": 14054429.62,
+    "own_revenue_percentage": 12.6,
+    "transfers_revenue_percentage": 87.4,
+    "personnel_expense_percentage_rcl": 51.8
+  },
+  "per_capita_breakdown": {
+    "health": 1226.6,
+    "education": 1453.0,
+    "urbanism": 440.0,
+    "administration": 341.7,
+    "legislative": 121.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3880.1,
+      "health_per_capita": 956.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4167.5,
+      "health_per_capita": 1030.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4454.9,
+      "health_per_capita": 1103.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4694.4,
+      "health_per_capita": 1177.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4790.2,
+      "health_per_capita": 1226.6
+    }
+  ]
+}

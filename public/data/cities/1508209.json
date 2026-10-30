@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1508209",
+  "city_name": "Vigia",
+  "uf": "PA",
+  "population": 50832,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 224907268.67,
+    "total_expense": 223925259.36,
+    "own_revenue_percentage": 33.6,
+    "transfers_revenue_percentage": 66.4,
+    "personnel_expense_percentage_rcl": 47.1
+  },
+  "per_capita_breakdown": {
+    "health": 1146.2,
+    "education": 1097.8,
+    "urbanism": 359.2,
+    "administration": 277.4,
+    "legislative": 119.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3568.2,
+      "health_per_capita": 894.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3832.5,
+      "health_per_capita": 962.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4096.8,
+      "health_per_capita": 1031.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4317.1,
+      "health_per_capita": 1100.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4405.2,
+      "health_per_capita": 1146.2
+    }
+  ]
+}

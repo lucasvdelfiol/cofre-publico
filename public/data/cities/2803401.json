@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2803401",
+  "city_name": "Japoatã",
+  "uf": "SE",
+  "population": 13407,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 65917687.26,
+    "total_expense": 66035030.17,
+    "own_revenue_percentage": 13.1,
+    "transfers_revenue_percentage": 86.9,
+    "personnel_expense_percentage_rcl": 49.2
+  },
+  "per_capita_breakdown": {
+    "health": 1193.2,
+    "education": 1271.5,
+    "urbanism": 441.3,
+    "administration": 424.2,
+    "legislative": 155.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3989.6,
+      "health_per_capita": 930.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4285.1,
+      "health_per_capita": 1002.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4580.6,
+      "health_per_capita": 1073.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4826.9,
+      "health_per_capita": 1145.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4925.4,
+      "health_per_capita": 1193.2
+    }
+  ]
+}

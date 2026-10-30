@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2708907",
+  "city_name": "Satuba",
+  "uf": "AL",
+  "population": 24278,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 103599803.3,
+    "total_expense": 103058680.13,
+    "own_revenue_percentage": 31.1,
+    "transfers_revenue_percentage": 68.9,
+    "personnel_expense_percentage_rcl": 53.0
+  },
+  "per_capita_breakdown": {
+    "health": 934.3,
+    "education": 1174.4,
+    "urbanism": 459.7,
+    "administration": 354.4,
+    "legislative": 95.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3438.4,
+      "health_per_capita": 728.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3693.1,
+      "health_per_capita": 784.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3947.8,
+      "health_per_capita": 840.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4160.0,
+      "health_per_capita": 896.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4244.9,
+      "health_per_capita": 934.3
+    }
+  ]
+}

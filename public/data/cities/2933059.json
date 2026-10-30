@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2933059",
+  "city_name": "Várzea da Roça",
+  "uf": "BA",
+  "population": 13800,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 73749959.99,
+    "total_expense": 73475731.06,
+    "own_revenue_percentage": 10.1,
+    "transfers_revenue_percentage": 89.9,
+    "personnel_expense_percentage_rcl": 47.8
+  },
+  "per_capita_breakdown": {
+    "health": 1329.3,
+    "education": 1425.3,
+    "urbanism": 620.4,
+    "administration": 379.5,
+    "legislative": 82.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4312.7,
+      "health_per_capita": 1036.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4632.1,
+      "health_per_capita": 1116.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4951.6,
+      "health_per_capita": 1196.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5217.8,
+      "health_per_capita": 1276.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5324.3,
+      "health_per_capita": 1329.3
+    }
+  ]
+}

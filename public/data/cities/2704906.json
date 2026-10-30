@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2704906",
+  "city_name": "Mar Vermelho",
+  "uf": "AL",
+  "population": 3155,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 16865988.37,
+    "total_expense": 16245449.65,
+    "own_revenue_percentage": 14.3,
+    "transfers_revenue_percentage": 85.7,
+    "personnel_expense_percentage_rcl": 46.4
+  },
+  "per_capita_breakdown": {
+    "health": 1037.9,
+    "education": 1625.7,
+    "urbanism": 576.5,
+    "administration": 569.5,
+    "legislative": 137.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4170.8,
+      "health_per_capita": 809.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4479.7,
+      "health_per_capita": 871.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4788.7,
+      "health_per_capita": 934.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5046.1,
+      "health_per_capita": 996.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5149.1,
+      "health_per_capita": 1037.9
+    }
+  ]
+}

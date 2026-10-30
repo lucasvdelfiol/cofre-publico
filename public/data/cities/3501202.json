@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3501202",
+  "city_name": "Álvares Florence",
+  "uf": "SP",
+  "population": 3915,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 20789950.75,
+    "total_expense": 20090941.3,
+    "own_revenue_percentage": 21.4,
+    "transfers_revenue_percentage": 78.6,
+    "personnel_expense_percentage_rcl": 50.4
+  },
+  "per_capita_breakdown": {
+    "health": 1264.1,
+    "education": 1322.2,
+    "urbanism": 586.4,
+    "administration": 494.4,
+    "legislative": 78.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4156.8,
+      "health_per_capita": 986.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4464.7,
+      "health_per_capita": 1061.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4772.6,
+      "health_per_capita": 1137.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5029.2,
+      "health_per_capita": 1213.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5131.8,
+      "health_per_capita": 1264.1
+    }
+  ]
+}

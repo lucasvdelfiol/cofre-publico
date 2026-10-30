@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3550407",
+  "city_name": "São Pedro",
+  "uf": "SP",
+  "population": 38256,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 159908543.8,
+    "total_expense": 157191730.3,
+    "own_revenue_percentage": 21.6,
+    "transfers_revenue_percentage": 78.4,
+    "personnel_expense_percentage_rcl": 53.5
+  },
+  "per_capita_breakdown": {
+    "health": 1120.4,
+    "education": 1210.1,
+    "urbanism": 381.2,
+    "administration": 254.9,
+    "legislative": 88.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3328.2,
+      "health_per_capita": 873.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3574.7,
+      "health_per_capita": 941.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3821.3,
+      "health_per_capita": 1008.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4026.7,
+      "health_per_capita": 1075.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4108.9,
+      "health_per_capita": 1120.4
+    }
+  ]
+}

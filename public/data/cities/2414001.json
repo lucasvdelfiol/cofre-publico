@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2414001",
+  "city_name": "Tangará",
+  "uf": "RN",
+  "population": 13281,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 63288565.81,
+    "total_expense": 63849446.34,
+    "own_revenue_percentage": 17.3,
+    "transfers_revenue_percentage": 82.7,
+    "personnel_expense_percentage_rcl": 48.5
+  },
+  "per_capita_breakdown": {
+    "health": 1139.5,
+    "education": 1485.6,
+    "urbanism": 580.1,
+    "administration": 460.8,
+    "legislative": 148.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3894.2,
+      "health_per_capita": 888.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4182.6,
+      "health_per_capita": 957.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4471.1,
+      "health_per_capita": 1025.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4711.4,
+      "health_per_capita": 1093.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4807.6,
+      "health_per_capita": 1139.5
+    }
+  ]
+}

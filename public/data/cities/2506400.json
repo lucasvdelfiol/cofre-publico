@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2506400",
+  "city_name": "Gurinhém",
+  "uf": "PB",
+  "population": 13766,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 78365635.09,
+    "total_expense": 75792385.56,
+    "own_revenue_percentage": 8.5,
+    "transfers_revenue_percentage": 91.5,
+    "personnel_expense_percentage_rcl": 47.0
+  },
+  "per_capita_breakdown": {
+    "health": 1279.1,
+    "education": 1322.9,
+    "urbanism": 550.3,
+    "administration": 395.6,
+    "legislative": 158.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4459.7,
+      "health_per_capita": 997.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4790.0,
+      "health_per_capita": 1074.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5120.4,
+      "health_per_capita": 1151.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5395.7,
+      "health_per_capita": 1227.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5505.8,
+      "health_per_capita": 1279.1
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2904753",
+  "city_name": "Buritirama",
+  "uf": "BA",
+  "population": 19589,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 106939720.38,
+    "total_expense": 106870994.98,
+    "own_revenue_percentage": 20.6,
+    "transfers_revenue_percentage": 79.4,
+    "personnel_expense_percentage_rcl": 51.7
+  },
+  "per_capita_breakdown": {
+    "health": 1441.2,
+    "education": 1447.1,
+    "urbanism": 606.3,
+    "administration": 612.3,
+    "legislative": 185.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4419.1,
+      "health_per_capita": 1124.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4746.5,
+      "health_per_capita": 1210.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5073.8,
+      "health_per_capita": 1297.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5346.6,
+      "health_per_capita": 1383.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5455.7,
+      "health_per_capita": 1441.2
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1703008",
+  "city_name": "Babaçulândia",
+  "uf": "TO",
+  "population": 7880,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 38355013.99,
+    "total_expense": 38536434.45,
+    "own_revenue_percentage": 9.0,
+    "transfers_revenue_percentage": 91.0,
+    "personnel_expense_percentage_rcl": 46.6
+  },
+  "per_capita_breakdown": {
+    "health": 1186.3,
+    "education": 1464.8,
+    "urbanism": 591.7,
+    "administration": 562.9,
+    "legislative": 121.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3961.2,
+      "health_per_capita": 925.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4254.6,
+      "health_per_capita": 996.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4548.1,
+      "health_per_capita": 1067.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4792.6,
+      "health_per_capita": 1138.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4890.4,
+      "health_per_capita": 1186.3
+    }
+  ]
+}

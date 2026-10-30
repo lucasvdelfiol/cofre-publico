@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1715507",
+  "city_name": "Oliveira de Fátima",
+  "uf": "TO",
+  "population": 1500,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 7789560.31,
+    "total_expense": 7571072.5,
+    "own_revenue_percentage": 15.3,
+    "transfers_revenue_percentage": 84.7,
+    "personnel_expense_percentage_rcl": 47.0
+  },
+  "per_capita_breakdown": {
+    "health": 1369.9,
+    "education": 1514.1,
+    "urbanism": 622.5,
+    "administration": 529.0,
+    "legislative": 90.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4088.4,
+      "health_per_capita": 1068.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4391.2,
+      "health_per_capita": 1150.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4694.1,
+      "health_per_capita": 1232.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4946.5,
+      "health_per_capita": 1315.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5047.4,
+      "health_per_capita": 1369.9
+    }
+  ]
+}

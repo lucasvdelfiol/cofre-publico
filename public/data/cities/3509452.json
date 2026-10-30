@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3509452",
+  "city_name": "Campina do Monte Alegre",
+  "uf": "SP",
+  "population": 5954,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 34194376.13,
+    "total_expense": 32976926.93,
+    "own_revenue_percentage": 18.9,
+    "transfers_revenue_percentage": 81.1,
+    "personnel_expense_percentage_rcl": 49.6
+  },
+  "per_capita_breakdown": {
+    "health": 1125.2,
+    "education": 1563.6,
+    "urbanism": 841.3,
+    "administration": 442.5,
+    "legislative": 87.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4486.3,
+      "health_per_capita": 877.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4818.6,
+      "health_per_capita": 945.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5150.9,
+      "health_per_capita": 1012.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5427.8,
+      "health_per_capita": 1080.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5538.6,
+      "health_per_capita": 1125.2
+    }
+  ]
+}

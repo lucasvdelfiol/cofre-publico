@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4312005",
+  "city_name": "Mariano Moro",
+  "uf": "RS",
+  "population": 1858,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 8338362.74,
+    "total_expense": 8351723.46,
+    "own_revenue_percentage": 18.1,
+    "transfers_revenue_percentage": 81.9,
+    "personnel_expense_percentage_rcl": 46.1
+  },
+  "per_capita_breakdown": {
+    "health": 974.9,
+    "education": 1252.6,
+    "urbanism": 655.6,
+    "administration": 494.8,
+    "legislative": 150.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3641.0,
+      "health_per_capita": 760.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3910.7,
+      "health_per_capita": 818.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4180.4,
+      "health_per_capita": 877.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4405.1,
+      "health_per_capita": 935.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4495.0,
+      "health_per_capita": 974.9
+    }
+  ]
+}

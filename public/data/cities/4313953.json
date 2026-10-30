@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4313953",
+  "city_name": "Pantano Grande",
+  "uf": "RS",
+  "population": 10212,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 53438478.88,
+    "total_expense": 53670470.34,
+    "own_revenue_percentage": 17.6,
+    "transfers_revenue_percentage": 82.4,
+    "personnel_expense_percentage_rcl": 52.5
+  },
+  "per_capita_breakdown": {
+    "health": 1301.9,
+    "education": 1642.7,
+    "urbanism": 445.2,
+    "administration": 497.2,
+    "legislative": 161.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4257.0,
+      "health_per_capita": 1015.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4572.4,
+      "health_per_capita": 1093.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4887.7,
+      "health_per_capita": 1171.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5150.5,
+      "health_per_capita": 1249.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5255.6,
+      "health_per_capita": 1301.9
+    }
+  ]
+}

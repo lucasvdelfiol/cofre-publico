@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2500775",
+  "city_name": "Aparecida",
+  "uf": "PB",
+  "population": 7960,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 37268479.03,
+    "total_expense": 35902719.61,
+    "own_revenue_percentage": 10.9,
+    "transfers_revenue_percentage": 89.1,
+    "personnel_expense_percentage_rcl": 53.4
+  },
+  "per_capita_breakdown": {
+    "health": 1128.0,
+    "education": 1410.6,
+    "urbanism": 701.9,
+    "administration": 462.9,
+    "legislative": 150.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3653.4,
+      "health_per_capita": 879.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3924.0,
+      "health_per_capita": 947.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4194.7,
+      "health_per_capita": 1015.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4420.2,
+      "health_per_capita": 1082.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4510.4,
+      "health_per_capita": 1128.0
+    }
+  ]
+}

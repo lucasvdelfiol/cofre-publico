@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4117255",
+  "city_name": "Nova Prata do Iguaçu",
+  "uf": "PR",
+  "population": 12699,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 70525766.64,
+    "total_expense": 70999772.34,
+    "own_revenue_percentage": 20.0,
+    "transfers_revenue_percentage": 80.0,
+    "personnel_expense_percentage_rcl": 48.8
+  },
+  "per_capita_breakdown": {
+    "health": 1225.1,
+    "education": 1681.8,
+    "urbanism": 700.6,
+    "administration": 656.4,
+    "legislative": 144.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4528.7,
+      "health_per_capita": 955.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4864.2,
+      "health_per_capita": 1029.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5199.6,
+      "health_per_capita": 1102.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5479.2,
+      "health_per_capita": 1176.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5591.0,
+      "health_per_capita": 1225.1
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3112406",
+  "city_name": "Capetinga",
+  "uf": "MG",
+  "population": 6562,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 34667667.08,
+    "total_expense": 34996292.17,
+    "own_revenue_percentage": 19.7,
+    "transfers_revenue_percentage": 80.3,
+    "personnel_expense_percentage_rcl": 51.3
+  },
+  "per_capita_breakdown": {
+    "health": 1109.5,
+    "education": 1283.1,
+    "urbanism": 669.7,
+    "administration": 474.2,
+    "legislative": 115.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4319.9,
+      "health_per_capita": 865.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4639.9,
+      "health_per_capita": 932.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4959.9,
+      "health_per_capita": 998.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5226.5,
+      "health_per_capita": 1065.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5333.2,
+      "health_per_capita": 1109.5
+    }
+  ]
+}

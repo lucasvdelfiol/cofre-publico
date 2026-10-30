@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2920502",
+  "city_name": "Maracás",
+  "uf": "BA",
+  "population": 27620,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 137654842.67,
+    "total_expense": 134752891.66,
+    "own_revenue_percentage": 18.8,
+    "transfers_revenue_percentage": 81.2,
+    "personnel_expense_percentage_rcl": 47.1
+  },
+  "per_capita_breakdown": {
+    "health": 1317.6,
+    "education": 1355.9,
+    "urbanism": 508.7,
+    "administration": 455.5,
+    "legislative": 132.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3951.8,
+      "health_per_capita": 1027.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4244.6,
+      "health_per_capita": 1106.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4537.3,
+      "health_per_capita": 1185.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4781.2,
+      "health_per_capita": 1264.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4878.8,
+      "health_per_capita": 1317.6
+    }
+  ]
+}

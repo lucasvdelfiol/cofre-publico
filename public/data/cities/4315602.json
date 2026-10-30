@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4315602",
+  "city_name": "Rio Grande",
+  "uf": "RS",
+  "population": 191900,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 1057040672.35,
+    "total_expense": 1024023878.96,
+    "own_revenue_percentage": 40.7,
+    "transfers_revenue_percentage": 59.3,
+    "personnel_expense_percentage_rcl": 47.9
+  },
+  "per_capita_breakdown": {
+    "health": 1229.6,
+    "education": 1558.5,
+    "urbanism": 695.5,
+    "administration": 611.0,
+    "legislative": 174.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4322.3,
+      "health_per_capita": 959.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4642.5,
+      "health_per_capita": 1032.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4962.7,
+      "health_per_capita": 1106.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5229.5,
+      "health_per_capita": 1180.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5336.2,
+      "health_per_capita": 1229.6
+    }
+  ]
+}

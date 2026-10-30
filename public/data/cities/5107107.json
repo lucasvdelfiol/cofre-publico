@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5107107",
+  "city_name": "São José dos Quatro Marcos",
+  "uf": "MT",
+  "population": 17849,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 80911192.7,
+    "total_expense": 78837304.26,
+    "own_revenue_percentage": 19.6,
+    "transfers_revenue_percentage": 80.4,
+    "personnel_expense_percentage_rcl": 53.4
+  },
+  "per_capita_breakdown": {
+    "health": 1221.4,
+    "education": 1183.4,
+    "urbanism": 614.3,
+    "administration": 436.0,
+    "legislative": 88.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3577.7,
+      "health_per_capita": 952.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3842.7,
+      "health_per_capita": 1026.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4107.7,
+      "health_per_capita": 1099.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4328.6,
+      "health_per_capita": 1172.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4416.9,
+      "health_per_capita": 1221.4
+    }
+  ]
+}

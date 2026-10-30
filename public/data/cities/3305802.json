@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3305802",
+  "city_name": "Teresópolis",
+  "uf": "RJ",
+  "population": 165123,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 803729277.7,
+    "total_expense": 810563635.05,
+    "own_revenue_percentage": 39.1,
+    "transfers_revenue_percentage": 60.9,
+    "personnel_expense_percentage_rcl": 52.2
+  },
+  "per_capita_breakdown": {
+    "health": 1052.0,
+    "education": 1223.6,
+    "urbanism": 424.8,
+    "administration": 496.3,
+    "legislative": 92.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3976.1,
+      "health_per_capita": 820.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4270.7,
+      "health_per_capita": 883.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4565.2,
+      "health_per_capita": 946.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4810.6,
+      "health_per_capita": 1009.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4908.8,
+      "health_per_capita": 1052.0
+    }
+  ]
+}

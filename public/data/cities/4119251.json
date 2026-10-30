@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4119251",
+  "city_name": "Pinhal de São Bento",
+  "uf": "PR",
+  "population": 2761,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 12964069.99,
+    "total_expense": 12596795.02,
+    "own_revenue_percentage": 14.7,
+    "transfers_revenue_percentage": 85.3,
+    "personnel_expense_percentage_rcl": 48.3
+  },
+  "per_capita_breakdown": {
+    "health": 1213.5,
+    "education": 1339.1,
+    "urbanism": 435.5,
+    "administration": 358.9,
+    "legislative": 110.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3695.5,
+      "health_per_capita": 946.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3969.3,
+      "health_per_capita": 1019.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4243.0,
+      "health_per_capita": 1092.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4471.2,
+      "health_per_capita": 1165.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4562.4,
+      "health_per_capita": 1213.5
+    }
+  ]
+}

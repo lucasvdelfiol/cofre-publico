@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3531902",
+  "city_name": "Morro Agudo",
+  "uf": "SP",
+  "population": 27933,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 139852497.36,
+    "total_expense": 136838451.02,
+    "own_revenue_percentage": 21.4,
+    "transfers_revenue_percentage": 78.6,
+    "personnel_expense_percentage_rcl": 53.3
+  },
+  "per_capita_breakdown": {
+    "health": 1138.6,
+    "education": 1516.7,
+    "urbanism": 738.0,
+    "administration": 387.0,
+    "legislative": 74.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3968.0,
+      "health_per_capita": 888.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4262.0,
+      "health_per_capita": 956.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4555.9,
+      "health_per_capita": 1024.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4800.8,
+      "health_per_capita": 1093.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4898.8,
+      "health_per_capita": 1138.6
+    }
+  ]
+}

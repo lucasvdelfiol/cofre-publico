@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2402600",
+  "city_name": "Ceará-Mirim",
+  "uf": "RN",
+  "population": 79115,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 358039310.0,
+    "total_expense": 355981016.76,
+    "own_revenue_percentage": 34.9,
+    "transfers_revenue_percentage": 65.1,
+    "personnel_expense_percentage_rcl": 51.8
+  },
+  "per_capita_breakdown": {
+    "health": 1253.5,
+    "education": 1171.9,
+    "urbanism": 390.9,
+    "administration": 481.7,
+    "legislative": 139.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3644.6,
+      "health_per_capita": 977.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3914.6,
+      "health_per_capita": 1052.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4184.5,
+      "health_per_capita": 1128.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4409.5,
+      "health_per_capita": 1203.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4499.5,
+      "health_per_capita": 1253.5
+    }
+  ]
+}

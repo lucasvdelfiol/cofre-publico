@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5220264",
+  "city_name": "São Miguel do Passa Quatro",
+  "uf": "GO",
+  "population": 4464,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 23105871.5,
+    "total_expense": 22471003.18,
+    "own_revenue_percentage": 20.9,
+    "transfers_revenue_percentage": 79.1,
+    "personnel_expense_percentage_rcl": 50.6
+  },
+  "per_capita_breakdown": {
+    "health": 1049.9,
+    "education": 1592.5,
+    "urbanism": 646.1,
+    "administration": 488.3,
+    "legislative": 96.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4077.4,
+      "health_per_capita": 818.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4379.4,
+      "health_per_capita": 881.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4681.4,
+      "health_per_capita": 944.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4933.1,
+      "health_per_capita": 1007.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5033.8,
+      "health_per_capita": 1049.9
+    }
+  ]
+}

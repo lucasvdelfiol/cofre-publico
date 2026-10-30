@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3130051",
+  "city_name": "Icaraí de Minas",
+  "uf": "MG",
+  "population": 10677,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 47812323.97,
+    "total_expense": 45977471.91,
+    "own_revenue_percentage": 20.5,
+    "transfers_revenue_percentage": 79.5,
+    "personnel_expense_percentage_rcl": 47.9
+  },
+  "per_capita_breakdown": {
+    "health": 1028.8,
+    "education": 1195.3,
+    "urbanism": 599.9,
+    "administration": 379.1,
+    "legislative": 124.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3488.0,
+      "health_per_capita": 802.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3746.4,
+      "health_per_capita": 864.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4004.8,
+      "health_per_capita": 925.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4220.1,
+      "health_per_capita": 987.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4306.2,
+      "health_per_capita": 1028.8
+    }
+  ]
+}

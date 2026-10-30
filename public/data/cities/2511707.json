@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2511707",
+  "city_name": "Pilõezinhos",
+  "uf": "PB",
+  "population": 5329,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 26344202.97,
+    "total_expense": 25762715.01,
+    "own_revenue_percentage": 14.9,
+    "transfers_revenue_percentage": 85.1,
+    "personnel_expense_percentage_rcl": 52.4
+  },
+  "per_capita_breakdown": {
+    "health": 1226.3,
+    "education": 1487.0,
+    "urbanism": 518.2,
+    "administration": 393.1,
+    "legislative": 165.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3915.9,
+      "health_per_capita": 956.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4205.9,
+      "health_per_capita": 1030.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4496.0,
+      "health_per_capita": 1103.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4737.7,
+      "health_per_capita": 1177.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4834.4,
+      "health_per_capita": 1226.3
+    }
+  ]
+}

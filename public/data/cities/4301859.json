@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4301859",
+  "city_name": "Barra do Guarita",
+  "uf": "RS",
+  "population": 3161,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 17318625.86,
+    "total_expense": 16961134.94,
+    "own_revenue_percentage": 13.1,
+    "transfers_revenue_percentage": 86.9,
+    "personnel_expense_percentage_rcl": 46.8
+  },
+  "per_capita_breakdown": {
+    "health": 1094.2,
+    "education": 1583.0,
+    "urbanism": 674.3,
+    "administration": 385.7,
+    "legislative": 133.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4346.2,
+      "health_per_capita": 853.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4668.2,
+      "health_per_capita": 919.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4990.1,
+      "health_per_capita": 984.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5258.4,
+      "health_per_capita": 1050.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5365.7,
+      "health_per_capita": 1094.2
+    }
+  ]
+}

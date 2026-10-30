@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4210704",
+  "city_name": "Matos Costa",
+  "uf": "SC",
+  "population": 2761,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 15865488.89,
+    "total_expense": 15314827.4,
+    "own_revenue_percentage": 14.2,
+    "transfers_revenue_percentage": 85.8,
+    "personnel_expense_percentage_rcl": 48.6
+  },
+  "per_capita_breakdown": {
+    "health": 1521.0,
+    "education": 1643.0,
+    "urbanism": 605.8,
+    "administration": 531.1,
+    "legislative": 136.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4492.9,
+      "health_per_capita": 1186.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4825.7,
+      "health_per_capita": 1277.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5158.5,
+      "health_per_capita": 1368.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5435.9,
+      "health_per_capita": 1460.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5546.8,
+      "health_per_capita": 1521.0
+    }
+  ]
+}

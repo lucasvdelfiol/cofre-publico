@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1703701",
+  "city_name": "Brejinho de Nazaré",
+  "uf": "TO",
+  "population": 4725,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 25972114.84,
+    "total_expense": 26116489.18,
+    "own_revenue_percentage": 20.8,
+    "transfers_revenue_percentage": 79.2,
+    "personnel_expense_percentage_rcl": 50.7
+  },
+  "per_capita_breakdown": {
+    "health": 1408.1,
+    "education": 1705.5,
+    "urbanism": 524.6,
+    "administration": 583.9,
+    "legislative": 142.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4477.1,
+      "health_per_capita": 1098.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4808.8,
+      "health_per_capita": 1182.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5140.4,
+      "health_per_capita": 1267.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5416.8,
+      "health_per_capita": 1351.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5527.3,
+      "health_per_capita": 1408.1
+    }
+  ]
+}

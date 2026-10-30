@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2910701",
+  "city_name": "Euclides da Cunha",
+  "uf": "BA",
+  "population": 61456,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 295199213.61,
+    "total_expense": 286058524.26,
+    "own_revenue_percentage": 37.4,
+    "transfers_revenue_percentage": 62.6,
+    "personnel_expense_percentage_rcl": 48.2
+  },
+  "per_capita_breakdown": {
+    "health": 1054.1,
+    "education": 1298.0,
+    "urbanism": 659.5,
+    "administration": 508.9,
+    "legislative": 162.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3770.3,
+      "health_per_capita": 822.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4049.6,
+      "health_per_capita": 885.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4328.9,
+      "health_per_capita": 948.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4561.6,
+      "health_per_capita": 1011.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4654.7,
+      "health_per_capita": 1054.1
+    }
+  ]
+}

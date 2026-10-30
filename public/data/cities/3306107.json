@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3306107",
+  "city_name": "Valença",
+  "uf": "RJ",
+  "population": 68088,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 330867897.51,
+    "total_expense": 329342053.71,
+    "own_revenue_percentage": 36.6,
+    "transfers_revenue_percentage": 63.4,
+    "personnel_expense_percentage_rcl": 47.8
+  },
+  "per_capita_breakdown": {
+    "health": 1353.0,
+    "education": 1235.5,
+    "urbanism": 641.9,
+    "administration": 334.6,
+    "legislative": 79.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3918.0,
+      "health_per_capita": 1055.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4208.2,
+      "health_per_capita": 1136.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4498.4,
+      "health_per_capita": 1217.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4740.3,
+      "health_per_capita": 1298.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4837.0,
+      "health_per_capita": 1353.0
+    }
+  ]
+}

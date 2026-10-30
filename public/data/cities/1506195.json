@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1506195",
+  "city_name": "Rurópolis",
+  "uf": "PA",
+  "population": 35769,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 172603465.76,
+    "total_expense": 169496709.88,
+    "own_revenue_percentage": 22.8,
+    "transfers_revenue_percentage": 77.2,
+    "personnel_expense_percentage_rcl": 46.2
+  },
+  "per_capita_breakdown": {
+    "health": 1123.5,
+    "education": 1357.1,
+    "urbanism": 454.7,
+    "administration": 417.5,
+    "legislative": 155.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3838.3,
+      "health_per_capita": 876.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4122.6,
+      "health_per_capita": 943.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4406.9,
+      "health_per_capita": 1011.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4643.8,
+      "health_per_capita": 1078.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4738.6,
+      "health_per_capita": 1123.5
+    }
+  ]
+}

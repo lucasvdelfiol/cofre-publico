@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2200202",
+  "city_name": "Água Branca",
+  "uf": "PI",
+  "population": 17573,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 99005179.39,
+    "total_expense": 96240499.54,
+    "own_revenue_percentage": 20.0,
+    "transfers_revenue_percentage": 80.0,
+    "personnel_expense_percentage_rcl": 49.6
+  },
+  "per_capita_breakdown": {
+    "health": 1478.2,
+    "education": 1418.5,
+    "urbanism": 663.6,
+    "administration": 536.9,
+    "legislative": 173.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4436.0,
+      "health_per_capita": 1153.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4764.6,
+      "health_per_capita": 1241.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5093.2,
+      "health_per_capita": 1330.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5367.1,
+      "health_per_capita": 1419.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5476.6,
+      "health_per_capita": 1478.2
+    }
+  ]
+}

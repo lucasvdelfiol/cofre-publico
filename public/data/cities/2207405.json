@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2207405",
+  "city_name": "Palmeira do Piauí",
+  "uf": "PI",
+  "population": 4952,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 27245617.66,
+    "total_expense": 26546643.76,
+    "own_revenue_percentage": 20.4,
+    "transfers_revenue_percentage": 79.6,
+    "personnel_expense_percentage_rcl": 49.6
+  },
+  "per_capita_breakdown": {
+    "health": 1225.8,
+    "education": 1542.4,
+    "urbanism": 563.6,
+    "administration": 323.0,
+    "legislative": 164.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4342.2,
+      "health_per_capita": 956.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4663.9,
+      "health_per_capita": 1029.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4985.5,
+      "health_per_capita": 1103.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5253.6,
+      "health_per_capita": 1176.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5360.8,
+      "health_per_capita": 1225.8
+    }
+  ]
+}

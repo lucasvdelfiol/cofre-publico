@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1100700",
+  "city_name": "Campo Novo de Rondônia",
+  "uf": "RO",
+  "population": 8844,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 39267442.54,
+    "total_expense": 38039303.8,
+    "own_revenue_percentage": 15.0,
+    "transfers_revenue_percentage": 85.0,
+    "personnel_expense_percentage_rcl": 46.4
+  },
+  "per_capita_breakdown": {
+    "health": 1184.8,
+    "education": 1127.6,
+    "urbanism": 555.2,
+    "administration": 372.6,
+    "legislative": 112.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3483.9,
+      "health_per_capita": 924.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3742.0,
+      "health_per_capita": 995.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4000.0,
+      "health_per_capita": 1066.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4215.1,
+      "health_per_capita": 1137.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4301.1,
+      "health_per_capita": 1184.8
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3532306",
+  "city_name": "Natividade da Serra",
+  "uf": "SP",
+  "population": 6999,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 38018073.88,
+    "total_expense": 37103342.4,
+    "own_revenue_percentage": 20.6,
+    "transfers_revenue_percentage": 79.4,
+    "personnel_expense_percentage_rcl": 51.1
+  },
+  "per_capita_breakdown": {
+    "health": 1274.4,
+    "education": 1626.3,
+    "urbanism": 592.3,
+    "administration": 605.8,
+    "legislative": 108.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4294.0,
+      "health_per_capita": 994.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4612.0,
+      "health_per_capita": 1070.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4930.1,
+      "health_per_capita": 1147.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5195.2,
+      "health_per_capita": 1223.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5301.2,
+      "health_per_capita": 1274.4
+    }
+  ]
+}

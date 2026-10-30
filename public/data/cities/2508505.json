@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2508505",
+  "city_name": "Livramento",
+  "uf": "PB",
+  "population": 6877,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 36216110.7,
+    "total_expense": 36172390.49,
+    "own_revenue_percentage": 9.8,
+    "transfers_revenue_percentage": 90.2,
+    "personnel_expense_percentage_rcl": 51.8
+  },
+  "per_capita_breakdown": {
+    "health": 1272.8,
+    "education": 1370.6,
+    "urbanism": 452.9,
+    "administration": 491.0,
+    "legislative": 81.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4260.5,
+      "health_per_capita": 992.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4576.1,
+      "health_per_capita": 1069.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4891.7,
+      "health_per_capita": 1145.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5154.7,
+      "health_per_capita": 1221.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5259.9,
+      "health_per_capita": 1272.8
+    }
+  ]
+}

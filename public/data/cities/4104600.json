@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4104600",
+  "city_name": "Capitão Leônidas Marques",
+  "uf": "PR",
+  "population": 14648,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 65293698.09,
+    "total_expense": 65029390.91,
+    "own_revenue_percentage": 16.9,
+    "transfers_revenue_percentage": 83.1,
+    "personnel_expense_percentage_rcl": 46.4
+  },
+  "per_capita_breakdown": {
+    "health": 922.0,
+    "education": 1117.4,
+    "urbanism": 682.7,
+    "administration": 510.1,
+    "legislative": 121.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3596.0,
+      "health_per_capita": 719.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3862.4,
+      "health_per_capita": 774.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4128.7,
+      "health_per_capita": 829.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4350.7,
+      "health_per_capita": 885.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4439.5,
+      "health_per_capita": 922.0
+    }
+  ]
+}

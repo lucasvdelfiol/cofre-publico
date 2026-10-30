@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2610707",
+  "city_name": "Paulista",
+  "uf": "PE",
+  "population": 342167,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 1752843428.76,
+    "total_expense": 1765710575.43,
+    "own_revenue_percentage": 48.7,
+    "transfers_revenue_percentage": 51.3,
+    "personnel_expense_percentage_rcl": 50.1
+  },
+  "per_capita_breakdown": {
+    "health": 1256.1,
+    "education": 1472.9,
+    "urbanism": 591.5,
+    "administration": 421.2,
+    "legislative": 149.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4179.9,
+      "health_per_capita": 979.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4489.5,
+      "health_per_capita": 1055.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4799.2,
+      "health_per_capita": 1130.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5057.2,
+      "health_per_capita": 1205.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5160.4,
+      "health_per_capita": 1256.1
+    }
+  ]
+}

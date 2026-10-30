@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2612703",
+  "city_name": "Santa Maria do Cambucá",
+  "uf": "PE",
+  "population": 14013,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 65225913.75,
+    "total_expense": 63062755.44,
+    "own_revenue_percentage": 20.1,
+    "transfers_revenue_percentage": 79.9,
+    "personnel_expense_percentage_rcl": 53.4
+  },
+  "per_capita_breakdown": {
+    "health": 913.6,
+    "education": 1332.2,
+    "urbanism": 378.9,
+    "administration": 278.5,
+    "legislative": 139.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3645.2,
+      "health_per_capita": 712.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3915.3,
+      "health_per_capita": 767.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4185.3,
+      "health_per_capita": 822.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4410.3,
+      "health_per_capita": 877.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4500.3,
+      "health_per_capita": 913.6
+    }
+  ]
+}

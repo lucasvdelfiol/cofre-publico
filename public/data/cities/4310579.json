@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4310579",
+  "city_name": "Itapuca",
+  "uf": "RS",
+  "population": 1937,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 10827930.37,
+    "total_expense": 10689183.32,
+    "own_revenue_percentage": 9.3,
+    "transfers_revenue_percentage": 90.7,
+    "personnel_expense_percentage_rcl": 53.2
+  },
+  "per_capita_breakdown": {
+    "health": 1370.8,
+    "education": 1449.0,
+    "urbanism": 524.7,
+    "administration": 620.1,
+    "legislative": 174.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4469.9,
+      "health_per_capita": 1069.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4801.0,
+      "health_per_capita": 1151.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5132.1,
+      "health_per_capita": 1233.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5408.0,
+      "health_per_capita": 1316.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5518.4,
+      "health_per_capita": 1370.8
+    }
+  ]
+}

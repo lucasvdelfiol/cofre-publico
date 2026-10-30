@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2207751",
+  "city_name": "Passagem Franca do Piauí",
+  "uf": "PI",
+  "population": 4135,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 21628826.58,
+    "total_expense": 20958085.02,
+    "own_revenue_percentage": 13.6,
+    "transfers_revenue_percentage": 86.4,
+    "personnel_expense_percentage_rcl": 51.9
+  },
+  "per_capita_breakdown": {
+    "health": 1283.1,
+    "education": 1365.8,
+    "urbanism": 418.7,
+    "administration": 431.2,
+    "legislative": 164.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4105.5,
+      "health_per_capita": 1000.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4409.6,
+      "health_per_capita": 1077.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4713.7,
+      "health_per_capita": 1154.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4967.1,
+      "health_per_capita": 1231.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5068.5,
+      "health_per_capita": 1283.1
+    }
+  ]
+}

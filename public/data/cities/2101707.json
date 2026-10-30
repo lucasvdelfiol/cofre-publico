@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2101707",
+  "city_name": "Barreirinhas",
+  "uf": "MA",
+  "population": 65589,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 285442162.19,
+    "total_expense": 283794818.89,
+    "own_revenue_percentage": 36.7,
+    "transfers_revenue_percentage": 63.3,
+    "personnel_expense_percentage_rcl": 52.1
+  },
+  "per_capita_breakdown": {
+    "health": 1194.5,
+    "education": 1214.8,
+    "urbanism": 463.0,
+    "administration": 434.4,
+    "legislative": 146.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3504.8,
+      "health_per_capita": 931.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3764.4,
+      "health_per_capita": 1003.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4024.0,
+      "health_per_capita": 1075.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4240.4,
+      "health_per_capita": 1146.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4326.9,
+      "health_per_capita": 1194.5
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4322855",
+  "city_name": "Vespasiano Corrêa",
+  "uf": "RS",
+  "population": 1818,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 8525210.15,
+    "total_expense": 8337364.87,
+    "own_revenue_percentage": 9.0,
+    "transfers_revenue_percentage": 91.0,
+    "personnel_expense_percentage_rcl": 49.3
+  },
+  "per_capita_breakdown": {
+    "health": 955.2,
+    "education": 1353.3,
+    "urbanism": 460.2,
+    "administration": 533.5,
+    "legislative": 149.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3714.7,
+      "health_per_capita": 745.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3989.8,
+      "health_per_capita": 802.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4265.0,
+      "health_per_capita": 859.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4494.3,
+      "health_per_capita": 917.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4586.0,
+      "health_per_capita": 955.2
+    }
+  ]
+}

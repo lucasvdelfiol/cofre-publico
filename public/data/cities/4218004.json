@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4218004",
+  "city_name": "Tijucas",
+  "uf": "SC",
+  "population": 51592,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 230799785.6,
+    "total_expense": 225196723.01,
+    "own_revenue_percentage": 35.1,
+    "transfers_revenue_percentage": 64.9,
+    "personnel_expense_percentage_rcl": 45.5
+  },
+  "per_capita_breakdown": {
+    "health": 1205.8,
+    "education": 1292.5,
+    "urbanism": 479.7,
+    "administration": 382.9,
+    "legislative": 71.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3535.7,
+      "health_per_capita": 940.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3797.6,
+      "health_per_capita": 1012.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4059.5,
+      "health_per_capita": 1085.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4277.7,
+      "health_per_capita": 1157.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4365.0,
+      "health_per_capita": 1205.8
+    }
+  ]
+}

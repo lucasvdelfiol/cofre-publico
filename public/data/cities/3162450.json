@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3162450",
+  "city_name": "São João das Missões",
+  "uf": "MG",
+  "population": 13024,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 58988213.79,
+    "total_expense": 59315829.82,
+    "own_revenue_percentage": 19.6,
+    "transfers_revenue_percentage": 80.4,
+    "personnel_expense_percentage_rcl": 46.4
+  },
+  "per_capita_breakdown": {
+    "health": 1097.0,
+    "education": 1213.2,
+    "urbanism": 571.2,
+    "administration": 379.7,
+    "legislative": 110.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3689.0,
+      "health_per_capita": 855.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3962.2,
+      "health_per_capita": 921.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4235.5,
+      "health_per_capita": 987.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4463.2,
+      "health_per_capita": 1053.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4554.3,
+      "health_per_capita": 1097.0
+    }
+  ]
+}

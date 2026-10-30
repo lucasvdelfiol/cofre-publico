@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3140209",
+  "city_name": "Maripá de Minas",
+  "uf": "MG",
+  "population": 3387,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 18062603.9,
+    "total_expense": 17469367.89,
+    "own_revenue_percentage": 14.6,
+    "transfers_revenue_percentage": 85.4,
+    "personnel_expense_percentage_rcl": 45.8
+  },
+  "per_capita_breakdown": {
+    "health": 1135.3,
+    "education": 1541.9,
+    "urbanism": 486.4,
+    "administration": 315.4,
+    "legislative": 83.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4177.8,
+      "health_per_capita": 885.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4487.3,
+      "health_per_capita": 953.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4796.8,
+      "health_per_capita": 1021.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5054.6,
+      "health_per_capita": 1089.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5157.8,
+      "health_per_capita": 1135.3
+    }
+  ]
+}

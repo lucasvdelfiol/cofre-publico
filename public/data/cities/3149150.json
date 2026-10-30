@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3149150",
+  "city_name": "Pedras de Maria da Cruz",
+  "uf": "MG",
+  "population": 10433,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 53647971.12,
+    "total_expense": 51871852.13,
+    "own_revenue_percentage": 21.1,
+    "transfers_revenue_percentage": 78.9,
+    "personnel_expense_percentage_rcl": 46.6
+  },
+  "per_capita_breakdown": {
+    "health": 1070.4,
+    "education": 1579.2,
+    "urbanism": 621.7,
+    "administration": 300.8,
+    "legislative": 107.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4027.2,
+      "health_per_capita": 834.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4325.6,
+      "health_per_capita": 899.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4623.9,
+      "health_per_capita": 963.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4872.5,
+      "health_per_capita": 1027.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4971.9,
+      "health_per_capita": 1070.4
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3525300",
+  "city_name": "Jaú",
+  "uf": "SP",
+  "population": 133497,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 756281692.67,
+    "total_expense": 755341838.6,
+    "own_revenue_percentage": 48.8,
+    "transfers_revenue_percentage": 51.2,
+    "personnel_expense_percentage_rcl": 49.4
+  },
+  "per_capita_breakdown": {
+    "health": 1365.8,
+    "education": 1382.9,
+    "urbanism": 519.3,
+    "administration": 458.5,
+    "legislative": 117.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4583.1,
+      "health_per_capita": 1065.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4922.5,
+      "health_per_capita": 1147.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5262.0,
+      "health_per_capita": 1229.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5544.9,
+      "health_per_capita": 1311.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5658.1,
+      "health_per_capita": 1365.8
+    }
+  ]
+}

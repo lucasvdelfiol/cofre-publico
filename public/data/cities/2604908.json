@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2604908",
+  "city_name": "Cumaru",
+  "uf": "PE",
+  "population": 15920,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 82783093.39,
+    "total_expense": 81404428.17,
+    "own_revenue_percentage": 17.1,
+    "transfers_revenue_percentage": 82.9,
+    "personnel_expense_percentage_rcl": 48.9
+  },
+  "per_capita_breakdown": {
+    "health": 1289.6,
+    "education": 1617.7,
+    "urbanism": 417.6,
+    "administration": 566.9,
+    "legislative": 133.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4141.8,
+      "health_per_capita": 1005.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4448.6,
+      "health_per_capita": 1083.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4755.4,
+      "health_per_capita": 1160.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5011.0,
+      "health_per_capita": 1238.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5113.3,
+      "health_per_capita": 1289.6
+    }
+  ]
+}

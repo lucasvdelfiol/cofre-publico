@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2402402",
+  "city_name": "Carnaúba dos Dantas",
+  "uf": "RN",
+  "population": 7992,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 39489982.86,
+    "total_expense": 38840286.56,
+    "own_revenue_percentage": 8.6,
+    "transfers_revenue_percentage": 91.4,
+    "personnel_expense_percentage_rcl": 50.3
+  },
+  "per_capita_breakdown": {
+    "health": 973.9,
+    "education": 1349.3,
+    "urbanism": 707.6,
+    "administration": 360.6,
+    "legislative": 86.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3936.5,
+      "health_per_capita": 759.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4228.1,
+      "health_per_capita": 818.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4519.7,
+      "health_per_capita": 876.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4762.7,
+      "health_per_capita": 934.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4859.9,
+      "health_per_capita": 973.9
+    }
+  ]
+}

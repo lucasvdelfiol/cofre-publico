@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2204352",
+  "city_name": "Geminiano",
+  "uf": "PI",
+  "population": 5445,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 29908436.53,
+    "total_expense": 30202607.18,
+    "own_revenue_percentage": 17.7,
+    "transfers_revenue_percentage": 82.3,
+    "personnel_expense_percentage_rcl": 46.5
+  },
+  "per_capita_breakdown": {
+    "health": 1426.8,
+    "education": 1726.2,
+    "urbanism": 483.6,
+    "administration": 576.8,
+    "legislative": 156.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4493.0,
+      "health_per_capita": 1112.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4825.8,
+      "health_per_capita": 1198.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5158.6,
+      "health_per_capita": 1284.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5436.0,
+      "health_per_capita": 1369.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5546.9,
+      "health_per_capita": 1426.8
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3154309",
+  "city_name": "Resplendor",
+  "uf": "MG",
+  "population": 17226,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 95598406.32,
+    "total_expense": 95736504.63,
+    "own_revenue_percentage": 14.4,
+    "transfers_revenue_percentage": 85.6,
+    "personnel_expense_percentage_rcl": 53.2
+  },
+  "per_capita_breakdown": {
+    "health": 1478.2,
+    "education": 1412.0,
+    "urbanism": 536.7,
+    "administration": 458.3,
+    "legislative": 146.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4501.7,
+      "health_per_capita": 1153.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4835.2,
+      "health_per_capita": 1241.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5168.7,
+      "health_per_capita": 1330.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5446.5,
+      "health_per_capita": 1419.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5557.7,
+      "health_per_capita": 1478.2
+    }
+  ]
+}

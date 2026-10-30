@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2904902",
+  "city_name": "Cachoeira",
+  "uf": "BA",
+  "population": 29250,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 122033448.83,
+    "total_expense": 122682103.4,
+    "own_revenue_percentage": 22.4,
+    "transfers_revenue_percentage": 77.6,
+    "personnel_expense_percentage_rcl": 49.8
+  },
+  "per_capita_breakdown": {
+    "health": 1088.8,
+    "education": 1016.7,
+    "urbanism": 365.4,
+    "administration": 345.0,
+    "legislative": 63.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3397.4,
+      "health_per_capita": 849.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3649.0,
+      "health_per_capita": 914.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3900.7,
+      "health_per_capita": 979.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4110.4,
+      "health_per_capita": 1045.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4194.3,
+      "health_per_capita": 1088.8
+    }
+  ]
+}

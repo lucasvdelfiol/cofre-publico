@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2933307",
+  "city_name": "Vitória da Conquista",
+  "uf": "BA",
+  "population": 370879,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 2135534584.5,
+    "total_expense": 2149828643.52,
+    "own_revenue_percentage": 53.4,
+    "transfers_revenue_percentage": 46.6,
+    "personnel_expense_percentage_rcl": 48.0
+  },
+  "per_capita_breakdown": {
+    "health": 1536.7,
+    "education": 1467.8,
+    "urbanism": 876.3,
+    "administration": 475.3,
+    "legislative": 130.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4695.2,
+      "health_per_capita": 1198.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 5043.0,
+      "health_per_capita": 1290.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5390.8,
+      "health_per_capita": 1383.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5680.7,
+      "health_per_capita": 1475.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5796.6,
+      "health_per_capita": 1536.7
+    }
+  ]
+}

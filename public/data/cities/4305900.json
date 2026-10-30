@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4305900",
+  "city_name": "Coronel Bicaco",
+  "uf": "RS",
+  "population": 6144,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 29604576.56,
+    "total_expense": 28475251.56,
+    "own_revenue_percentage": 19.6,
+    "transfers_revenue_percentage": 80.4,
+    "personnel_expense_percentage_rcl": 53.1
+  },
+  "per_capita_breakdown": {
+    "health": 1230.6,
+    "education": 1356.1,
+    "urbanism": 521.6,
+    "administration": 555.3,
+    "legislative": 107.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3754.0,
+      "health_per_capita": 959.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4032.1,
+      "health_per_capita": 1033.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4310.2,
+      "health_per_capita": 1107.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4541.9,
+      "health_per_capita": 1181.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4634.6,
+      "health_per_capita": 1230.6
+    }
+  ]
+}

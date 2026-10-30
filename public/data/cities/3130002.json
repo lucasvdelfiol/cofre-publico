@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3130002",
+  "city_name": "Ibituruna",
+  "uf": "MG",
+  "population": 2698,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 12243196.6,
+    "total_expense": 11992671.45,
+    "own_revenue_percentage": 16.6,
+    "transfers_revenue_percentage": 83.4,
+    "personnel_expense_percentage_rcl": 49.6
+  },
+  "per_capita_breakdown": {
+    "health": 1221.2,
+    "education": 1386.5,
+    "urbanism": 703.5,
+    "administration": 462.7,
+    "legislative": 76.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3600.5,
+      "health_per_capita": 952.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3867.2,
+      "health_per_capita": 1025.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4133.9,
+      "health_per_capita": 1099.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4356.1,
+      "health_per_capita": 1172.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4445.0,
+      "health_per_capita": 1221.2
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3303302",
+  "city_name": "Niterói",
+  "uf": "RJ",
+  "population": 481749,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 2293807414.51,
+    "total_expense": 2242808927.99,
+    "own_revenue_percentage": 52.0,
+    "transfers_revenue_percentage": 48.0,
+    "personnel_expense_percentage_rcl": 48.9
+  },
+  "per_capita_breakdown": {
+    "health": 1209.8,
+    "education": 1223.4,
+    "urbanism": 486.3,
+    "administration": 518.8,
+    "legislative": 117.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3771.0,
+      "health_per_capita": 943.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4050.4,
+      "health_per_capita": 1016.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4329.7,
+      "health_per_capita": 1088.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4562.5,
+      "health_per_capita": 1161.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4655.6,
+      "health_per_capita": 1209.8
+    }
+  ]
+}

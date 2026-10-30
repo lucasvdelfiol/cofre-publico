@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2702900",
+  "city_name": "Girau do Ponciano",
+  "uf": "AL",
+  "population": 36102,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 158775357.4,
+    "total_expense": 154570690.32,
+    "own_revenue_percentage": 26.3,
+    "transfers_revenue_percentage": 73.7,
+    "personnel_expense_percentage_rcl": 52.6
+  },
+  "per_capita_breakdown": {
+    "health": 973.8,
+    "education": 1347.8,
+    "urbanism": 411.7,
+    "administration": 435.4,
+    "legislative": 120.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3468.0,
+      "health_per_capita": 759.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3724.9,
+      "health_per_capita": 818.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3981.8,
+      "health_per_capita": 876.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4195.9,
+      "health_per_capita": 934.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4281.5,
+      "health_per_capita": 973.8
+    }
+  ]
+}

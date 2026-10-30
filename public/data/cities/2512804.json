@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2512804",
+  "city_name": "Riacho dos Cavalos",
+  "uf": "PB",
+  "population": 8493,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 39339454.39,
+    "total_expense": 38359624.14,
+    "own_revenue_percentage": 8.8,
+    "transfers_revenue_percentage": 91.2,
+    "personnel_expense_percentage_rcl": 49.9
+  },
+  "per_capita_breakdown": {
+    "health": 1069.9,
+    "education": 1323.0,
+    "urbanism": 598.9,
+    "administration": 430.5,
+    "legislative": 98.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3658.4,
+      "health_per_capita": 834.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3929.4,
+      "health_per_capita": 898.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4200.4,
+      "health_per_capita": 962.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4426.3,
+      "health_per_capita": 1027.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4516.6,
+      "health_per_capita": 1069.9
+    }
+  ]
+}

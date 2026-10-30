@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2900306",
+  "city_name": "Acajutiba",
+  "uf": "BA",
+  "population": 13795,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 76301923.32,
+    "total_expense": 75440751.0,
+    "own_revenue_percentage": 13.4,
+    "transfers_revenue_percentage": 86.6,
+    "personnel_expense_percentage_rcl": 49.2
+  },
+  "per_capita_breakdown": {
+    "health": 1096.4,
+    "education": 1339.5,
+    "urbanism": 696.3,
+    "administration": 469.7,
+    "legislative": 112.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4429.6,
+      "health_per_capita": 855.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4757.8,
+      "health_per_capita": 921.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5085.9,
+      "health_per_capita": 986.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5359.3,
+      "health_per_capita": 1052.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5468.7,
+      "health_per_capita": 1096.4
+    }
+  ]
+}

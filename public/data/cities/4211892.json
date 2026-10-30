@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4211892",
+  "city_name": "Painel",
+  "uf": "SC",
+  "population": 2215,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 11729039.48,
+    "total_expense": 11693977.44,
+    "own_revenue_percentage": 12.8,
+    "transfers_revenue_percentage": 87.2,
+    "personnel_expense_percentage_rcl": 47.7
+  },
+  "per_capita_breakdown": {
+    "health": 1220.3,
+    "education": 1472.2,
+    "urbanism": 789.4,
+    "administration": 317.7,
+    "legislative": 148.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4276.3,
+      "health_per_capita": 951.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4593.1,
+      "health_per_capita": 1025.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4909.8,
+      "health_per_capita": 1098.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5173.8,
+      "health_per_capita": 1171.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5279.4,
+      "health_per_capita": 1220.3
+    }
+  ]
+}

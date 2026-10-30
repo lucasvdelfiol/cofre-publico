@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2502201",
+  "city_name": "Bom Jesus",
+  "uf": "PB",
+  "population": 2286,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 10294921.96,
+    "total_expense": 10366350.73,
+    "own_revenue_percentage": 11.8,
+    "transfers_revenue_percentage": 88.2,
+    "personnel_expense_percentage_rcl": 52.2
+  },
+  "per_capita_breakdown": {
+    "health": 953.8,
+    "education": 1297.9,
+    "urbanism": 524.6,
+    "administration": 397.9,
+    "legislative": 72.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3673.1,
+      "health_per_capita": 744.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3945.2,
+      "health_per_capita": 801.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4217.3,
+      "health_per_capita": 858.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4444.0,
+      "health_per_capita": 915.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4534.7,
+      "health_per_capita": 953.8
+    }
+  ]
+}

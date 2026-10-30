@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2802106",
+  "city_name": "Estância",
+  "uf": "SE",
+  "population": 65078,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 284715372.5,
+    "total_expense": 274937567.72,
+    "own_revenue_percentage": 31.9,
+    "transfers_revenue_percentage": 68.1,
+    "personnel_expense_percentage_rcl": 52.5
+  },
+  "per_capita_breakdown": {
+    "health": 1179.2,
+    "education": 1187.0,
+    "urbanism": 613.0,
+    "administration": 419.3,
+    "legislative": 127.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3422.0,
+      "health_per_capita": 919.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3675.5,
+      "health_per_capita": 990.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3929.0,
+      "health_per_capita": 1061.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4140.2,
+      "health_per_capita": 1132.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4224.7,
+      "health_per_capita": 1179.2
+    }
+  ]
+}

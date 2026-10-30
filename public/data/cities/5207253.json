@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5207253",
+  "city_name": "Doverlândia",
+  "uf": "GO",
+  "population": 6956,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 35153569.53,
+    "total_expense": 34591977.87,
+    "own_revenue_percentage": 10.8,
+    "transfers_revenue_percentage": 89.2,
+    "personnel_expense_percentage_rcl": 51.0
+  },
+  "per_capita_breakdown": {
+    "health": 1059.9,
+    "education": 1329.2,
+    "urbanism": 523.2,
+    "administration": 357.9,
+    "legislative": 125.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4028.1,
+      "health_per_capita": 826.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4326.5,
+      "health_per_capita": 890.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4624.9,
+      "health_per_capita": 953.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4873.5,
+      "health_per_capita": 1017.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4973.0,
+      "health_per_capita": 1059.9
+    }
+  ]
+}

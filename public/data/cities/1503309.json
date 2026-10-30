@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1503309",
+  "city_name": "Igarapé-Miri",
+  "uf": "PA",
+  "population": 64831,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 291846257.83,
+    "total_expense": 285273038.48,
+    "own_revenue_percentage": 41.0,
+    "transfers_revenue_percentage": 59.0,
+    "personnel_expense_percentage_rcl": 45.7
+  },
+  "per_capita_breakdown": {
+    "health": 938.6,
+    "education": 1356.2,
+    "urbanism": 353.4,
+    "administration": 297.4,
+    "legislative": 107.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3564.2,
+      "health_per_capita": 732.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3828.3,
+      "health_per_capita": 788.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4092.3,
+      "health_per_capita": 844.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4312.3,
+      "health_per_capita": 901.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4400.3,
+      "health_per_capita": 938.6
+    }
+  ]
+}

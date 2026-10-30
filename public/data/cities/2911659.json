@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2911659",
+  "city_name": "Guajeru",
+  "uf": "BA",
+  "population": 8050,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 35577311.37,
+    "total_expense": 35893935.85,
+    "own_revenue_percentage": 9.8,
+    "transfers_revenue_percentage": 90.2,
+    "personnel_expense_percentage_rcl": 49.8
+  },
+  "per_capita_breakdown": {
+    "health": 1003.0,
+    "education": 1194.5,
+    "urbanism": 567.8,
+    "administration": 378.4,
+    "legislative": 154.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3611.7,
+      "health_per_capita": 782.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3879.2,
+      "health_per_capita": 842.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4146.8,
+      "health_per_capita": 902.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4369.7,
+      "health_per_capita": 962.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4458.9,
+      "health_per_capita": 1003.0
+    }
+  ]
+}

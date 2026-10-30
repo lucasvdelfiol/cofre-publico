@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2504850",
+  "city_name": "Coxixola",
+  "uf": "PB",
+  "population": 1824,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 9093590.29,
+    "total_expense": 9095359.99,
+    "own_revenue_percentage": 11.2,
+    "transfers_revenue_percentage": 88.8,
+    "personnel_expense_percentage_rcl": 52.5
+  },
+  "per_capita_breakdown": {
+    "health": 1206.7,
+    "education": 1564.5,
+    "urbanism": 481.7,
+    "administration": 553.0,
+    "legislative": 85.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4039.1,
+      "health_per_capita": 941.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4338.3,
+      "health_per_capita": 1013.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4637.4,
+      "health_per_capita": 1086.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4886.8,
+      "health_per_capita": 1158.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4986.5,
+      "health_per_capita": 1206.7
+    }
+  ]
+}

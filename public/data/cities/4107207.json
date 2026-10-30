@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4107207",
+  "city_name": "Dois Vizinhos",
+  "uf": "PR",
+  "population": 44869,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 205819189.13,
+    "total_expense": 207434089.36,
+    "own_revenue_percentage": 21.9,
+    "transfers_revenue_percentage": 78.1,
+    "personnel_expense_percentage_rcl": 50.7
+  },
+  "per_capita_breakdown": {
+    "health": 1133.2,
+    "education": 1364.2,
+    "urbanism": 557.3,
+    "administration": 459.8,
+    "legislative": 104.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3744.7,
+      "health_per_capita": 883.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4022.1,
+      "health_per_capita": 951.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4299.5,
+      "health_per_capita": 1019.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4530.6,
+      "health_per_capita": 1087.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4623.1,
+      "health_per_capita": 1133.2
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4206108",
+  "city_name": "Grão-Pará",
+  "uf": "SC",
+  "population": 6277,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 29752299.65,
+    "total_expense": 29676291.91,
+    "own_revenue_percentage": 15.3,
+    "transfers_revenue_percentage": 84.7,
+    "personnel_expense_percentage_rcl": 46.4
+  },
+  "per_capita_breakdown": {
+    "health": 1128.6,
+    "education": 1161.5,
+    "urbanism": 734.6,
+    "administration": 554.3,
+    "legislative": 119.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3829.5,
+      "health_per_capita": 880.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4113.2,
+      "health_per_capita": 948.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4396.9,
+      "health_per_capita": 1015.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4633.2,
+      "health_per_capita": 1083.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4727.8,
+      "health_per_capita": 1128.6
+    }
+  ]
+}

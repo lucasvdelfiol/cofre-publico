@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3547007",
+  "city_name": "Santa Maria da Serra",
+  "uf": "SP",
+  "population": 5243,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 24523239.09,
+    "total_expense": 24050599.56,
+    "own_revenue_percentage": 16.3,
+    "transfers_revenue_percentage": 83.7,
+    "personnel_expense_percentage_rcl": 50.1
+  },
+  "per_capita_breakdown": {
+    "health": 1056.1,
+    "education": 1220.1,
+    "urbanism": 564.2,
+    "administration": 447.6,
+    "legislative": 122.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3715.6,
+      "health_per_capita": 823.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3990.9,
+      "health_per_capita": 887.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4266.1,
+      "health_per_capita": 950.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4495.5,
+      "health_per_capita": 1013.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4587.2,
+      "health_per_capita": 1056.1
+    }
+  ]
+}

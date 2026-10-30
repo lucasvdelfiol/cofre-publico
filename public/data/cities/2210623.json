@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2210623",
+  "city_name": "Sebastião Barros",
+  "uf": "PI",
+  "population": 3202,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 16343276.18,
+    "total_expense": 15902702.45,
+    "own_revenue_percentage": 19.7,
+    "transfers_revenue_percentage": 80.3,
+    "personnel_expense_percentage_rcl": 49.9
+  },
+  "per_capita_breakdown": {
+    "health": 1015.9,
+    "education": 1299.6,
+    "urbanism": 456.3,
+    "administration": 472.5,
+    "legislative": 171.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4022.9,
+      "health_per_capita": 792.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4320.9,
+      "health_per_capita": 853.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4618.8,
+      "health_per_capita": 914.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4867.2,
+      "health_per_capita": 975.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4966.5,
+      "health_per_capita": 1015.9
+    }
+  ]
+}

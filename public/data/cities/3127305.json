@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3127305",
+  "city_name": "Galiléia",
+  "uf": "MG",
+  "population": 6222,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 28009884.43,
+    "total_expense": 28290696.16,
+    "own_revenue_percentage": 15.2,
+    "transfers_revenue_percentage": 84.8,
+    "personnel_expense_percentage_rcl": 48.7
+  },
+  "per_capita_breakdown": {
+    "health": 1173.0,
+    "education": 1250.0,
+    "urbanism": 566.0,
+    "administration": 402.8,
+    "legislative": 89.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3683.0,
+      "health_per_capita": 914.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3955.8,
+      "health_per_capita": 985.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4228.6,
+      "health_per_capita": 1055.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4456.0,
+      "health_per_capita": 1126.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4546.9,
+      "health_per_capita": 1173.0
+    }
+  ]
+}

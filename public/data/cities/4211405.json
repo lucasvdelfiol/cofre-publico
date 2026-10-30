@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4211405",
+  "city_name": "Nova Erechim",
+  "uf": "SC",
+  "population": 5155,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 24465839.51,
+    "total_expense": 23814782.51,
+    "own_revenue_percentage": 15.4,
+    "transfers_revenue_percentage": 84.6,
+    "personnel_expense_percentage_rcl": 47.0
+  },
+  "per_capita_breakdown": {
+    "health": 933.6,
+    "education": 1428.8,
+    "urbanism": 656.8,
+    "administration": 496.2,
+    "legislative": 123.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3742.0,
+      "health_per_capita": 728.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4019.1,
+      "health_per_capita": 784.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4296.3,
+      "health_per_capita": 840.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4527.3,
+      "health_per_capita": 896.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4619.7,
+      "health_per_capita": 933.6
+    }
+  ]
+}

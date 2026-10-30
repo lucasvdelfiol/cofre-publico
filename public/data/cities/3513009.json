@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3513009",
+  "city_name": "Cotia",
+  "uf": "SP",
+  "population": 274413,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 1498866484.41,
+    "total_expense": 1498641365.94,
+    "own_revenue_percentage": 40.1,
+    "transfers_revenue_percentage": 59.9,
+    "personnel_expense_percentage_rcl": 51.2
+  },
+  "per_capita_breakdown": {
+    "health": 1364.5,
+    "education": 1593.1,
+    "urbanism": 546.0,
+    "administration": 355.3,
+    "legislative": 118.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4423.7,
+      "health_per_capita": 1064.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4751.3,
+      "health_per_capita": 1146.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5079.0,
+      "health_per_capita": 1228.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5352.1,
+      "health_per_capita": 1309.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5461.3,
+      "health_per_capita": 1364.5
+    }
+  ]
+}

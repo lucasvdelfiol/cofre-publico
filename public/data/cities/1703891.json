@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1703891",
+  "city_name": "Carrasco Bonito",
+  "uf": "TO",
+  "population": 3318,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 17041769.36,
+    "total_expense": 17203356.48,
+    "own_revenue_percentage": 10.2,
+    "transfers_revenue_percentage": 89.8,
+    "personnel_expense_percentage_rcl": 48.2
+  },
+  "per_capita_breakdown": {
+    "health": 1085.1,
+    "education": 1341.0,
+    "urbanism": 793.4,
+    "administration": 312.9,
+    "legislative": 136.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4199.8,
+      "health_per_capita": 846.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4510.9,
+      "health_per_capita": 911.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4822.0,
+      "health_per_capita": 976.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5081.2,
+      "health_per_capita": 1041.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5184.9,
+      "health_per_capita": 1085.1
+    }
+  ]
+}

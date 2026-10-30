@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4320701",
+  "city_name": "Sobradinho",
+  "uf": "RS",
+  "population": 14226,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 76709477.41,
+    "total_expense": 75430850.39,
+    "own_revenue_percentage": 10.8,
+    "transfers_revenue_percentage": 89.2,
+    "personnel_expense_percentage_rcl": 46.0
+  },
+  "per_capita_breakdown": {
+    "health": 1183.9,
+    "education": 1277.4,
+    "urbanism": 710.6,
+    "administration": 434.0,
+    "legislative": 161.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4294.9,
+      "health_per_capita": 923.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4613.0,
+      "health_per_capita": 994.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4931.1,
+      "health_per_capita": 1065.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5196.3,
+      "health_per_capita": 1136.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5302.3,
+      "health_per_capita": 1183.9
+    }
+  ]
+}

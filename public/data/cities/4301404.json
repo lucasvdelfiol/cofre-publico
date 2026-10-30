@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4301404",
+  "city_name": "Arvorezinha",
+  "uf": "RS",
+  "population": 10322,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 47058261.41,
+    "total_expense": 45322724.17,
+    "own_revenue_percentage": 14.0,
+    "transfers_revenue_percentage": 86.0,
+    "personnel_expense_percentage_rcl": 47.6
+  },
+  "per_capita_breakdown": {
+    "health": 1201.4,
+    "education": 1162.8,
+    "urbanism": 363.9,
+    "administration": 380.0,
+    "legislative": 95.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3556.6,
+      "health_per_capita": 937.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3820.1,
+      "health_per_capita": 1009.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4083.5,
+      "health_per_capita": 1081.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4303.1,
+      "health_per_capita": 1153.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4390.9,
+      "health_per_capita": 1201.4
+    }
+  ]
+}

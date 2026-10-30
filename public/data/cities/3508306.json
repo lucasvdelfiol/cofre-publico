@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3508306",
+  "city_name": "Cabrália Paulista",
+  "uf": "SP",
+  "population": 4299,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 19716145.0,
+    "total_expense": 19784765.98,
+    "own_revenue_percentage": 19.7,
+    "transfers_revenue_percentage": 80.3,
+    "personnel_expense_percentage_rcl": 50.7
+  },
+  "per_capita_breakdown": {
+    "health": 1280.5,
+    "education": 1384.2,
+    "urbanism": 520.1,
+    "administration": 501.8,
+    "legislative": 127.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3727.8,
+      "health_per_capita": 998.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4003.9,
+      "health_per_capita": 1075.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4280.0,
+      "health_per_capita": 1152.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4510.2,
+      "health_per_capita": 1229.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4602.2,
+      "health_per_capita": 1280.5
+    }
+  ]
+}

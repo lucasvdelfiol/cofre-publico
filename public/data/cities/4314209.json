@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4314209",
+  "city_name": "Pedro Osório",
+  "uf": "RS",
+  "population": 7484,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 40126741.56,
+    "total_expense": 40511833.35,
+    "own_revenue_percentage": 19.8,
+    "transfers_revenue_percentage": 80.2,
+    "personnel_expense_percentage_rcl": 50.2
+  },
+  "per_capita_breakdown": {
+    "health": 1198.5,
+    "education": 1631.7,
+    "urbanism": 697.1,
+    "administration": 501.3,
+    "legislative": 104.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4384.6,
+      "health_per_capita": 934.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4709.4,
+      "health_per_capita": 1006.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5034.2,
+      "health_per_capita": 1078.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5304.8,
+      "health_per_capita": 1150.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5413.1,
+      "health_per_capita": 1198.5
+    }
+  ]
+}

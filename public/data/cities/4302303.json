@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4302303",
+  "city_name": "Bom Jesus",
+  "uf": "RS",
+  "population": 11202,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 50108659.62,
+    "total_expense": 49543903.97,
+    "own_revenue_percentage": 19.3,
+    "transfers_revenue_percentage": 80.7,
+    "personnel_expense_percentage_rcl": 49.9
+  },
+  "per_capita_breakdown": {
+    "health": 1075.7,
+    "education": 1247.0,
+    "urbanism": 436.1,
+    "administration": 504.0,
+    "legislative": 74.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3582.5,
+      "health_per_capita": 839.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3847.8,
+      "health_per_capita": 903.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4113.2,
+      "health_per_capita": 968.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4334.3,
+      "health_per_capita": 1032.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4422.8,
+      "health_per_capita": 1075.7
+    }
+  ]
+}

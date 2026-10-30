@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3116308",
+  "city_name": "Cipotânea",
+  "uf": "MG",
+  "population": 5581,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 31324954.26,
+    "total_expense": 30244180.4,
+    "own_revenue_percentage": 14.9,
+    "transfers_revenue_percentage": 85.1,
+    "personnel_expense_percentage_rcl": 52.9
+  },
+  "per_capita_breakdown": {
+    "health": 1408.3,
+    "education": 1393.0,
+    "urbanism": 503.7,
+    "administration": 336.2,
+    "legislative": 185.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4389.5,
+      "health_per_capita": 1098.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4714.6,
+      "health_per_capita": 1183.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5039.8,
+      "health_per_capita": 1267.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5310.7,
+      "health_per_capita": 1352.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5419.1,
+      "health_per_capita": 1408.3
+    }
+  ]
+}

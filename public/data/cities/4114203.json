@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4114203",
+  "city_name": "Mandaguari",
+  "uf": "PR",
+  "population": 36716,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 170388861.76,
+    "total_expense": 169979496.09,
+    "own_revenue_percentage": 22.7,
+    "transfers_revenue_percentage": 77.3,
+    "personnel_expense_percentage_rcl": 47.3
+  },
+  "per_capita_breakdown": {
+    "health": 1269.6,
+    "education": 1114.1,
+    "urbanism": 531.3,
+    "administration": 395.3,
+    "legislative": 143.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3750.0,
+      "health_per_capita": 990.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4027.8,
+      "health_per_capita": 1066.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4305.5,
+      "health_per_capita": 1142.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4537.0,
+      "health_per_capita": 1218.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4629.6,
+      "health_per_capita": 1269.6
+    }
+  ]
+}

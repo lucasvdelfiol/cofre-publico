@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4304614",
+  "city_name": "Canudos do Vale",
+  "uf": "RS",
+  "population": 1656,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 7843055.1,
+    "total_expense": 7834414.22,
+    "own_revenue_percentage": 12.9,
+    "transfers_revenue_percentage": 87.1,
+    "personnel_expense_percentage_rcl": 48.0
+  },
+  "per_capita_breakdown": {
+    "health": 1086.8,
+    "education": 1371.0,
+    "urbanism": 563.2,
+    "administration": 324.5,
+    "legislative": 158.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3832.0,
+      "health_per_capita": 847.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4115.9,
+      "health_per_capita": 912.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4399.7,
+      "health_per_capita": 978.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4636.3,
+      "health_per_capita": 1043.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4730.9,
+      "health_per_capita": 1086.8
+    }
+  ]
+}

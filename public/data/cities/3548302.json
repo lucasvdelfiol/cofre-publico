@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3548302",
+  "city_name": "Santo Expedito",
+  "uf": "SP",
+  "population": 3000,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 15025856.78,
+    "total_expense": 14574446.45,
+    "own_revenue_percentage": 15.7,
+    "transfers_revenue_percentage": 84.3,
+    "personnel_expense_percentage_rcl": 50.4
+  },
+  "per_capita_breakdown": {
+    "health": 1151.2,
+    "education": 1547.5,
+    "urbanism": 623.2,
+    "administration": 564.6,
+    "legislative": 139.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3935.1,
+      "health_per_capita": 897.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4226.5,
+      "health_per_capita": 967.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4518.0,
+      "health_per_capita": 1036.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4760.9,
+      "health_per_capita": 1105.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4858.1,
+      "health_per_capita": 1151.2
+    }
+  ]
+}

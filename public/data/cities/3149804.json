@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3149804",
+  "city_name": "Perdizes",
+  "uf": "MG",
+  "population": 17151,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 92882583.88,
+    "total_expense": 90562176.68,
+    "own_revenue_percentage": 21.5,
+    "transfers_revenue_percentage": 78.5,
+    "personnel_expense_percentage_rcl": 53.8
+  },
+  "per_capita_breakdown": {
+    "health": 1422.4,
+    "education": 1281.2,
+    "urbanism": 829.8,
+    "administration": 318.9,
+    "legislative": 88.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4277.0,
+      "health_per_capita": 1109.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4593.9,
+      "health_per_capita": 1194.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4910.7,
+      "health_per_capita": 1280.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5174.7,
+      "health_per_capita": 1365.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5280.3,
+      "health_per_capita": 1422.4
+    }
+  ]
+}

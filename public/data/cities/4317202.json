@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4317202",
+  "city_name": "Santa Rosa",
+  "uf": "RS",
+  "population": 76963,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 338362258.38,
+    "total_expense": 326213617.73,
+    "own_revenue_percentage": 40.8,
+    "transfers_revenue_percentage": 59.2,
+    "personnel_expense_percentage_rcl": 52.3
+  },
+  "per_capita_breakdown": {
+    "health": 1137.5,
+    "education": 1294.9,
+    "urbanism": 374.2,
+    "administration": 355.9,
+    "legislative": 105.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3433.3,
+      "health_per_capita": 887.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3687.6,
+      "health_per_capita": 955.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3941.9,
+      "health_per_capita": 1023.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4153.8,
+      "health_per_capita": 1092.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4238.6,
+      "health_per_capita": 1137.5
+    }
+  ]
+}

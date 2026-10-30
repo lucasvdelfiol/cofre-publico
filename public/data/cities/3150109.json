@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3150109",
+  "city_name": "Piau",
+  "uf": "MG",
+  "population": 2796,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 13000402.7,
+    "total_expense": 13026712.22,
+    "own_revenue_percentage": 8.9,
+    "transfers_revenue_percentage": 91.1,
+    "personnel_expense_percentage_rcl": 53.3
+  },
+  "per_capita_breakdown": {
+    "health": 1280.5,
+    "education": 1304.8,
+    "urbanism": 502.9,
+    "administration": 319.7,
+    "legislative": 87.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3773.9,
+      "health_per_capita": 998.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4053.4,
+      "health_per_capita": 1075.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4333.0,
+      "health_per_capita": 1152.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4565.9,
+      "health_per_capita": 1229.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4659.1,
+      "health_per_capita": 1280.5
+    }
+  ]
+}

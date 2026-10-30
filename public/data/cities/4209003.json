@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4209003",
+  "city_name": "Joaçaba",
+  "uf": "SC",
+  "population": 30146,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 145500141.9,
+    "total_expense": 142490287.17,
+    "own_revenue_percentage": 22.0,
+    "transfers_revenue_percentage": 78.0,
+    "personnel_expense_percentage_rcl": 50.7
+  },
+  "per_capita_breakdown": {
+    "health": 1056.1,
+    "education": 1383.4,
+    "urbanism": 723.4,
+    "administration": 446.6,
+    "legislative": 105.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3828.6,
+      "health_per_capita": 823.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4112.2,
+      "health_per_capita": 887.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4395.8,
+      "health_per_capita": 950.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4632.2,
+      "health_per_capita": 1013.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4726.7,
+      "health_per_capita": 1056.1
+    }
+  ]
+}

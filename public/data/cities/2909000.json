@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2909000",
+  "city_name": "Cordeiros",
+  "uf": "BA",
+  "population": 7546,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 41646713.61,
+    "total_expense": 41336608.81,
+    "own_revenue_percentage": 12.6,
+    "transfers_revenue_percentage": 87.4,
+    "personnel_expense_percentage_rcl": 50.9
+  },
+  "per_capita_breakdown": {
+    "health": 1280.3,
+    "education": 1683.8,
+    "urbanism": 812.3,
+    "administration": 562.2,
+    "legislative": 102.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4437.1,
+      "health_per_capita": 998.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4765.8,
+      "health_per_capita": 1075.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5094.4,
+      "health_per_capita": 1152.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5368.3,
+      "health_per_capita": 1229.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5477.9,
+      "health_per_capita": 1280.3
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3146008",
+  "city_name": "Ouro Fino",
+  "uf": "MG",
+  "population": 32094,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 147552208.54,
+    "total_expense": 145522150.07,
+    "own_revenue_percentage": 25.8,
+    "transfers_revenue_percentage": 74.2,
+    "personnel_expense_percentage_rcl": 47.5
+  },
+  "per_capita_breakdown": {
+    "health": 1211.7,
+    "education": 1355.2,
+    "urbanism": 488.9,
+    "administration": 464.8,
+    "legislative": 130.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3672.7,
+      "health_per_capita": 945.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3944.8,
+      "health_per_capita": 1017.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4216.8,
+      "health_per_capita": 1090.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4443.5,
+      "health_per_capita": 1163.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4534.2,
+      "health_per_capita": 1211.7
+    }
+  ]
+}

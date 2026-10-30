@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2921906",
+  "city_name": "Mucugê",
+  "uf": "BA",
+  "population": 12137,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 63744955.78,
+    "total_expense": 62644849.32,
+    "own_revenue_percentage": 14.7,
+    "transfers_revenue_percentage": 85.3,
+    "personnel_expense_percentage_rcl": 48.5
+  },
+  "per_capita_breakdown": {
+    "health": 1267.3,
+    "education": 1603.4,
+    "urbanism": 683.9,
+    "administration": 510.7,
+    "legislative": 138.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4180.8,
+      "health_per_capita": 988.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4490.5,
+      "health_per_capita": 1064.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4800.2,
+      "health_per_capita": 1140.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5058.3,
+      "health_per_capita": 1216.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5161.5,
+      "health_per_capita": 1267.3
+    }
+  ]
+}

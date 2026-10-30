@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5218904",
+  "city_name": "Rubiataba",
+  "uf": "GO",
+  "population": 19788,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 99967664.69,
+    "total_expense": 98103573.47,
+    "own_revenue_percentage": 9.0,
+    "transfers_revenue_percentage": 91.0,
+    "personnel_expense_percentage_rcl": 52.4
+  },
+  "per_capita_breakdown": {
+    "health": 1361.5,
+    "education": 1488.2,
+    "urbanism": 574.9,
+    "administration": 337.5,
+    "legislative": 145.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4015.7,
+      "health_per_capita": 1062.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4313.2,
+      "health_per_capita": 1143.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4610.7,
+      "health_per_capita": 1225.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4858.5,
+      "health_per_capita": 1307.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4957.7,
+      "health_per_capita": 1361.5
+    }
+  ]
+}

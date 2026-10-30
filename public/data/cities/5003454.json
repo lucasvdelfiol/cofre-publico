@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5003454",
+  "city_name": "Deodápolis",
+  "uf": "MS",
+  "population": 13663,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 77492828.94,
+    "total_expense": 74645751.52,
+    "own_revenue_percentage": 21.1,
+    "transfers_revenue_percentage": 78.9,
+    "personnel_expense_percentage_rcl": 45.7
+  },
+  "per_capita_breakdown": {
+    "health": 1104.5,
+    "education": 1503.2,
+    "urbanism": 453.1,
+    "administration": 555.2,
+    "legislative": 135.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4425.4,
+      "health_per_capita": 861.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4753.2,
+      "health_per_capita": 927.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5081.0,
+      "health_per_capita": 994.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5354.1,
+      "health_per_capita": 1060.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5463.4,
+      "health_per_capita": 1104.5
+    }
+  ]
+}

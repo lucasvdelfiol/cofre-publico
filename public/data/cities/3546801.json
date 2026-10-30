@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3546801",
+  "city_name": "Santa Isabel",
+  "uf": "SP",
+  "population": 53174,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 235560730.57,
+    "total_expense": 232373139.74,
+    "own_revenue_percentage": 29.5,
+    "transfers_revenue_percentage": 70.5,
+    "personnel_expense_percentage_rcl": 51.8
+  },
+  "per_capita_breakdown": {
+    "health": 1169.4,
+    "education": 1388.9,
+    "urbanism": 404.5,
+    "administration": 465.6,
+    "legislative": 93.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3539.8,
+      "health_per_capita": 912.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3802.0,
+      "health_per_capita": 982.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4064.2,
+      "health_per_capita": 1052.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4282.7,
+      "health_per_capita": 1122.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4370.1,
+      "health_per_capita": 1169.4
+    }
+  ]
+}

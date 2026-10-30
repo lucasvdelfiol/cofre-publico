@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4113403",
+  "city_name": "Leópolis",
+  "uf": "PR",
+  "population": 3752,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 18852848.34,
+    "total_expense": 18860070.6,
+    "own_revenue_percentage": 10.3,
+    "transfers_revenue_percentage": 89.7,
+    "personnel_expense_percentage_rcl": 52.5
+  },
+  "per_capita_breakdown": {
+    "health": 1205.8,
+    "education": 1476.5,
+    "urbanism": 614.3,
+    "administration": 447.8,
+    "legislative": 86.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4071.6,
+      "health_per_capita": 940.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4373.2,
+      "health_per_capita": 1012.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4674.8,
+      "health_per_capita": 1085.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4926.2,
+      "health_per_capita": 1157.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5026.7,
+      "health_per_capita": 1205.8
+    }
+  ]
+}

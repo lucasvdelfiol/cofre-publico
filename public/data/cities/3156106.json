@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3156106",
+  "city_name": "Ritápolis",
+  "uf": "MG",
+  "population": 4994,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 26872731.28,
+    "total_expense": 26995451.0,
+    "own_revenue_percentage": 18.4,
+    "transfers_revenue_percentage": 81.6,
+    "personnel_expense_percentage_rcl": 46.3
+  },
+  "per_capita_breakdown": {
+    "health": 1363.6,
+    "education": 1503.9,
+    "urbanism": 783.7,
+    "administration": 334.3,
+    "legislative": 135.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4378.5,
+      "health_per_capita": 1063.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4702.9,
+      "health_per_capita": 1145.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5027.2,
+      "health_per_capita": 1227.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5297.5,
+      "health_per_capita": 1309.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5405.6,
+      "health_per_capita": 1363.6
+    }
+  ]
+}

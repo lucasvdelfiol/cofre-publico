@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5002001",
+  "city_name": "Batayporã",
+  "uf": "MS",
+  "population": 10712,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 54640546.55,
+    "total_expense": 53216657.57,
+    "own_revenue_percentage": 16.9,
+    "transfers_revenue_percentage": 83.1,
+    "personnel_expense_percentage_rcl": 49.7
+  },
+  "per_capita_breakdown": {
+    "health": 997.4,
+    "education": 1268.2,
+    "urbanism": 469.7,
+    "administration": 317.4,
+    "legislative": 160.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4024.0,
+      "health_per_capita": 778.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4322.1,
+      "health_per_capita": 837.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4620.1,
+      "health_per_capita": 897.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4868.5,
+      "health_per_capita": 957.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4967.9,
+      "health_per_capita": 997.4
+    }
+  ]
+}

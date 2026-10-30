@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1100064",
+  "city_name": "Colorado do Oeste",
+  "uf": "RO",
+  "population": 15663,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 74645651.06,
+    "total_expense": 74444034.07,
+    "own_revenue_percentage": 16.2,
+    "transfers_revenue_percentage": 83.8,
+    "personnel_expense_percentage_rcl": 53.2
+  },
+  "per_capita_breakdown": {
+    "health": 965.4,
+    "education": 1516.5,
+    "urbanism": 623.8,
+    "administration": 393.9,
+    "legislative": 102.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3849.8,
+      "health_per_capita": 753.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4135.0,
+      "health_per_capita": 810.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4420.2,
+      "health_per_capita": 868.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4657.8,
+      "health_per_capita": 926.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4752.9,
+      "health_per_capita": 965.4
+    }
+  ]
+}

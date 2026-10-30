@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4209300",
+  "city_name": "Lages",
+  "uf": "SC",
+  "population": 164981,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 956295040.63,
+    "total_expense": 926383128.42,
+    "own_revenue_percentage": 40.9,
+    "transfers_revenue_percentage": 59.1,
+    "personnel_expense_percentage_rcl": 51.7
+  },
+  "per_capita_breakdown": {
+    "health": 1212.2,
+    "education": 1712.0,
+    "urbanism": 811.9,
+    "administration": 523.7,
+    "legislative": 193.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4548.2,
+      "health_per_capita": 945.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4885.1,
+      "health_per_capita": 1018.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5222.0,
+      "health_per_capita": 1091.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5502.8,
+      "health_per_capita": 1163.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5615.1,
+      "health_per_capita": 1212.2
+    }
+  ]
+}

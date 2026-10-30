@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4127882",
+  "city_name": "Tunas do Paraná",
+  "uf": "PR",
+  "population": 6219,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 31412359.9,
+    "total_expense": 30537931.74,
+    "own_revenue_percentage": 15.5,
+    "transfers_revenue_percentage": 84.5,
+    "personnel_expense_percentage_rcl": 48.6
+  },
+  "per_capita_breakdown": {
+    "health": 1358.4,
+    "education": 1437.6,
+    "urbanism": 611.4,
+    "administration": 410.1,
+    "legislative": 137.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3977.4,
+      "health_per_capita": 1059.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4272.0,
+      "health_per_capita": 1141.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4566.7,
+      "health_per_capita": 1222.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4812.2,
+      "health_per_capita": 1304.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4910.4,
+      "health_per_capita": 1358.4
+    }
+  ]
+}

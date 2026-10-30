@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5211701",
+  "city_name": "Jandaia",
+  "uf": "GO",
+  "population": 6272,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 28394813.67,
+    "total_expense": 28012922.32,
+    "own_revenue_percentage": 10.8,
+    "transfers_revenue_percentage": 89.2,
+    "personnel_expense_percentage_rcl": 49.9
+  },
+  "per_capita_breakdown": {
+    "health": 914.1,
+    "education": 1210.0,
+    "urbanism": 674.1,
+    "administration": 395.9,
+    "legislative": 124.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3617.7,
+      "health_per_capita": 713.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3885.7,
+      "health_per_capita": 767.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4153.7,
+      "health_per_capita": 822.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4377.0,
+      "health_per_capita": 877.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4466.3,
+      "health_per_capita": 914.1
+    }
+  ]
+}

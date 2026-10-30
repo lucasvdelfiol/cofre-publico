@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4219200",
+  "city_name": "Vidal Ramos",
+  "uf": "SC",
+  "population": 6189,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 34186833.6,
+    "total_expense": 34103007.06,
+    "own_revenue_percentage": 18.1,
+    "transfers_revenue_percentage": 81.9,
+    "personnel_expense_percentage_rcl": 46.9
+  },
+  "per_capita_breakdown": {
+    "health": 1372.8,
+    "education": 1641.5,
+    "urbanism": 623.1,
+    "administration": 361.5,
+    "legislative": 178.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4463.3,
+      "health_per_capita": 1070.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4794.0,
+      "health_per_capita": 1153.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5124.6,
+      "health_per_capita": 1235.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5400.1,
+      "health_per_capita": 1317.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5510.3,
+      "health_per_capita": 1372.8
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2301604",
+  "city_name": "Assaré",
+  "uf": "CE",
+  "population": 21697,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 97986010.63,
+    "total_expense": 97429866.07,
+    "own_revenue_percentage": 18.9,
+    "transfers_revenue_percentage": 81.1,
+    "personnel_expense_percentage_rcl": 49.5
+  },
+  "per_capita_breakdown": {
+    "health": 1234.9,
+    "education": 1413.1,
+    "urbanism": 646.9,
+    "administration": 335.7,
+    "legislative": 96.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3637.3,
+      "health_per_capita": 963.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3906.7,
+      "health_per_capita": 1037.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4176.2,
+      "health_per_capita": 1111.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4400.7,
+      "health_per_capita": 1185.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4490.5,
+      "health_per_capita": 1234.9
+    }
+  ]
+}

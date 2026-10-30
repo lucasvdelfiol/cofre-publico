@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3135357",
+  "city_name": "Japonvar",
+  "uf": "MG",
+  "population": 8127,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 39653586.63,
+    "total_expense": 38721759.57,
+    "own_revenue_percentage": 9.8,
+    "transfers_revenue_percentage": 90.2,
+    "personnel_expense_percentage_rcl": 53.8
+  },
+  "per_capita_breakdown": {
+    "health": 1120.5,
+    "education": 1440.5,
+    "urbanism": 742.9,
+    "administration": 297.7,
+    "legislative": 146.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3859.3,
+      "health_per_capita": 874.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4145.2,
+      "health_per_capita": 941.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4431.1,
+      "health_per_capita": 1008.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4669.3,
+      "health_per_capita": 1075.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4764.6,
+      "health_per_capita": 1120.5
+    }
+  ]
+}

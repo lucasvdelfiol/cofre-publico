@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1301100",
+  "city_name": "Careiro",
+  "uf": "AM",
+  "population": 30792,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 138528383.12,
+    "total_expense": 138064871.63,
+    "own_revenue_percentage": 26.9,
+    "transfers_revenue_percentage": 73.1,
+    "personnel_expense_percentage_rcl": 46.9
+  },
+  "per_capita_breakdown": {
+    "health": 1169.7,
+    "education": 1095.1,
+    "urbanism": 703.7,
+    "administration": 331.9,
+    "legislative": 151.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3631.9,
+      "health_per_capita": 912.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3900.9,
+      "health_per_capita": 982.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4169.9,
+      "health_per_capita": 1052.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4394.1,
+      "health_per_capita": 1122.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4483.8,
+      "health_per_capita": 1169.7
+    }
+  ]
+}

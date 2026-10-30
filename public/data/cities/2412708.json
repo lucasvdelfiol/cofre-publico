@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2412708",
+  "city_name": "São Pedro",
+  "uf": "RN",
+  "population": 5776,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 30904154.02,
+    "total_expense": 31142872.64,
+    "own_revenue_percentage": 19.6,
+    "transfers_revenue_percentage": 80.4,
+    "personnel_expense_percentage_rcl": 53.0
+  },
+  "per_capita_breakdown": {
+    "health": 1334.8,
+    "education": 1643.5,
+    "urbanism": 522.5,
+    "administration": 371.2,
+    "legislative": 105.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4367.4,
+      "health_per_capita": 1041.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4690.9,
+      "health_per_capita": 1121.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5014.4,
+      "health_per_capita": 1201.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5284.0,
+      "health_per_capita": 1281.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5391.8,
+      "health_per_capita": 1334.8
+    }
+  ]
+}

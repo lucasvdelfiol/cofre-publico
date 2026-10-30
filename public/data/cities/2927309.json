@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2927309",
+  "city_name": "Salinas da Margarida",
+  "uf": "BA",
+  "population": 14987,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 66818602.12,
+    "total_expense": 66857797.79,
+    "own_revenue_percentage": 16.1,
+    "transfers_revenue_percentage": 83.9,
+    "personnel_expense_percentage_rcl": 48.7
+  },
+  "per_capita_breakdown": {
+    "health": 1209.9,
+    "education": 1314.4,
+    "urbanism": 557.3,
+    "administration": 388.0,
+    "legislative": 120.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3613.5,
+      "health_per_capita": 943.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3881.2,
+      "health_per_capita": 1016.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4148.8,
+      "health_per_capita": 1088.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4371.9,
+      "health_per_capita": 1161.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4461.1,
+      "health_per_capita": 1209.9
+    }
+  ]
+}

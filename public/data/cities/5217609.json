@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5217609",
+  "city_name": "Planaltina",
+  "uf": "GO",
+  "population": 105031,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 489680410.81,
+    "total_expense": 484719341.12,
+    "own_revenue_percentage": 53.2,
+    "transfers_revenue_percentage": 46.8,
+    "personnel_expense_percentage_rcl": 51.3
+  },
+  "per_capita_breakdown": {
+    "health": 1235.3,
+    "education": 1347.5,
+    "urbanism": 498.8,
+    "administration": 489.2,
+    "legislative": 92.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3738.2,
+      "health_per_capita": 963.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4015.1,
+      "health_per_capita": 1037.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4291.9,
+      "health_per_capita": 1111.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4522.7,
+      "health_per_capita": 1185.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4615.0,
+      "health_per_capita": 1235.3
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3555208",
+  "city_name": "Turiúba",
+  "uf": "SP",
+  "population": 1818,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 7951091.84,
+    "total_expense": 7943880.35,
+    "own_revenue_percentage": 13.4,
+    "transfers_revenue_percentage": 86.6,
+    "personnel_expense_percentage_rcl": 53.5
+  },
+  "per_capita_breakdown": {
+    "health": 1005.5,
+    "education": 1140.1,
+    "urbanism": 651.5,
+    "administration": 494.4,
+    "legislative": 121.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3539.4,
+      "health_per_capita": 784.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3801.6,
+      "health_per_capita": 844.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4063.7,
+      "health_per_capita": 905.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4282.2,
+      "health_per_capita": 965.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4369.6,
+      "health_per_capita": 1005.5
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2609204",
+  "city_name": "Maraial",
+  "uf": "PE",
+  "population": 9359,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 47476482.53,
+    "total_expense": 47147909.86,
+    "own_revenue_percentage": 22.0,
+    "transfers_revenue_percentage": 78.0,
+    "personnel_expense_percentage_rcl": 52.1
+  },
+  "per_capita_breakdown": {
+    "health": 1083.6,
+    "education": 1426.2,
+    "urbanism": 407.8,
+    "administration": 367.8,
+    "legislative": 166.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4080.5,
+      "health_per_capita": 845.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4382.8,
+      "health_per_capita": 910.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4685.1,
+      "health_per_capita": 975.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4936.9,
+      "health_per_capita": 1040.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5037.7,
+      "health_per_capita": 1083.6
+    }
+  ]
+}

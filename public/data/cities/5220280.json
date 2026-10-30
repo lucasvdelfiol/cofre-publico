@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5220280",
+  "city_name": "São Patrício",
+  "uf": "GO",
+  "population": 2143,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 10514163.52,
+    "total_expense": 10340263.71,
+    "own_revenue_percentage": 8.1,
+    "transfers_revenue_percentage": 91.9,
+    "personnel_expense_percentage_rcl": 48.6
+  },
+  "per_capita_breakdown": {
+    "health": 1009.9,
+    "education": 1251.8,
+    "urbanism": 629.7,
+    "administration": 335.8,
+    "legislative": 107.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3908.3,
+      "health_per_capita": 787.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4197.8,
+      "health_per_capita": 848.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4487.3,
+      "health_per_capita": 908.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4728.6,
+      "health_per_capita": 969.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4825.1,
+      "health_per_capita": 1009.9
+    }
+  ]
+}

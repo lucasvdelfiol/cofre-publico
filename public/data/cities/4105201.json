@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4105201",
+  "city_name": "Cerro Azul",
+  "uf": "PR",
+  "population": 16134,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 87194542.67,
+    "total_expense": 85094872.53,
+    "own_revenue_percentage": 9.6,
+    "transfers_revenue_percentage": 90.4,
+    "personnel_expense_percentage_rcl": 49.2
+  },
+  "per_capita_breakdown": {
+    "health": 1393.4,
+    "education": 1661.4,
+    "urbanism": 490.0,
+    "administration": 327.0,
+    "legislative": 100.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4272.2,
+      "health_per_capita": 1086.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4588.6,
+      "health_per_capita": 1170.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4905.1,
+      "health_per_capita": 1254.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5168.8,
+      "health_per_capita": 1337.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5274.3,
+      "health_per_capita": 1393.4
+    }
+  ]
+}

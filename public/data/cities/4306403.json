@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4306403",
+  "city_name": "Dois Irmãos",
+  "uf": "RS",
+  "population": 30709,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 138084706.91,
+    "total_expense": 138258434.79,
+    "own_revenue_percentage": 24.7,
+    "transfers_revenue_percentage": 75.3,
+    "personnel_expense_percentage_rcl": 48.0
+  },
+  "per_capita_breakdown": {
+    "health": 1170.6,
+    "education": 1428.6,
+    "urbanism": 394.3,
+    "administration": 285.8,
+    "legislative": 132.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3646.8,
+      "health_per_capita": 913.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3916.9,
+      "health_per_capita": 983.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4187.0,
+      "health_per_capita": 1053.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4412.2,
+      "health_per_capita": 1123.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4502.2,
+      "health_per_capita": 1170.6
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3158003",
+  "city_name": "Santa Maria de Itabira",
+  "uf": "MG",
+  "population": 10485,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 57851821.16,
+    "total_expense": 57926820.56,
+    "own_revenue_percentage": 12.3,
+    "transfers_revenue_percentage": 87.7,
+    "personnel_expense_percentage_rcl": 50.6
+  },
+  "per_capita_breakdown": {
+    "health": 1524.4,
+    "education": 1697.7,
+    "urbanism": 644.5,
+    "administration": 571.4,
+    "legislative": 117.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4475.0,
+      "health_per_capita": 1189.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4806.5,
+      "health_per_capita": 1280.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5138.0,
+      "health_per_capita": 1372.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5414.2,
+      "health_per_capita": 1463.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5524.7,
+      "health_per_capita": 1524.4
+    }
+  ]
+}

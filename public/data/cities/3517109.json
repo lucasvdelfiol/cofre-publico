@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3517109",
+  "city_name": "Glicério",
+  "uf": "SP",
+  "population": 4138,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 21605989.72,
+    "total_expense": 21079296.23,
+    "own_revenue_percentage": 17.9,
+    "transfers_revenue_percentage": 82.1,
+    "personnel_expense_percentage_rcl": 49.1
+  },
+  "per_capita_breakdown": {
+    "health": 1085.6,
+    "education": 1593.3,
+    "urbanism": 726.6,
+    "administration": 389.4,
+    "legislative": 141.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4126.2,
+      "health_per_capita": 846.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4431.9,
+      "health_per_capita": 911.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4737.5,
+      "health_per_capita": 977.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4992.2,
+      "health_per_capita": 1042.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5094.1,
+      "health_per_capita": 1085.6
+    }
+  ]
+}

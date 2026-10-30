@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2603009",
+  "city_name": "Cabrobó",
+  "uf": "PE",
+  "population": 30294,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 142550453.27,
+    "total_expense": 137440803.73,
+    "own_revenue_percentage": 30.3,
+    "transfers_revenue_percentage": 69.7,
+    "personnel_expense_percentage_rcl": 52.2
+  },
+  "per_capita_breakdown": {
+    "health": 1079.1,
+    "education": 1333.3,
+    "urbanism": 719.5,
+    "administration": 457.9,
+    "legislative": 150.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3674.9,
+      "health_per_capita": 841.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3947.1,
+      "health_per_capita": 906.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4219.3,
+      "health_per_capita": 971.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4446.2,
+      "health_per_capita": 1035.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4536.9,
+      "health_per_capita": 1079.1
+    }
+  ]
+}

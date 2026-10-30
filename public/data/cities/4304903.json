@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4304903",
+  "city_name": "Casca",
+  "uf": "RS",
+  "population": 9465,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 48257566.88,
+    "total_expense": 47552072.11,
+    "own_revenue_percentage": 13.6,
+    "transfers_revenue_percentage": 86.4,
+    "personnel_expense_percentage_rcl": 46.4
+  },
+  "per_capita_breakdown": {
+    "health": 1179.9,
+    "education": 1337.6,
+    "urbanism": 678.8,
+    "administration": 589.1,
+    "legislative": 101.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4069.4,
+      "health_per_capita": 920.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4370.9,
+      "health_per_capita": 991.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4672.3,
+      "health_per_capita": 1061.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4923.5,
+      "health_per_capita": 1132.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5024.0,
+      "health_per_capita": 1179.9
+    }
+  ]
+}

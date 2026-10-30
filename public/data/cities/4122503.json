@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4122503",
+  "city_name": "Roncador",
+  "uf": "PR",
+  "population": 11251,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 58031337.28,
+    "total_expense": 56504647.9,
+    "own_revenue_percentage": 21.4,
+    "transfers_revenue_percentage": 78.6,
+    "personnel_expense_percentage_rcl": 46.3
+  },
+  "per_capita_breakdown": {
+    "health": 1357.2,
+    "education": 1263.0,
+    "urbanism": 511.6,
+    "administration": 408.0,
+    "legislative": 113.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4068.0,
+      "health_per_capita": 1058.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4369.3,
+      "health_per_capita": 1140.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4670.6,
+      "health_per_capita": 1221.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4921.8,
+      "health_per_capita": 1302.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5022.2,
+      "health_per_capita": 1357.2
+    }
+  ]
+}

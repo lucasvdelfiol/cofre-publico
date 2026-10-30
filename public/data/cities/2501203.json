@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2501203",
+  "city_name": "Areial",
+  "uf": "PB",
+  "population": 7128,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 35704168.23,
+    "total_expense": 35570781.48,
+    "own_revenue_percentage": 9.8,
+    "transfers_revenue_percentage": 90.2,
+    "personnel_expense_percentage_rcl": 50.7
+  },
+  "per_capita_breakdown": {
+    "health": 1114.3,
+    "education": 1571.3,
+    "urbanism": 423.8,
+    "administration": 468.7,
+    "legislative": 166.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4042.1,
+      "health_per_capita": 869.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4341.6,
+      "health_per_capita": 936.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4641.0,
+      "health_per_capita": 1002.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4890.5,
+      "health_per_capita": 1069.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4990.3,
+      "health_per_capita": 1114.3
+    }
+  ]
+}

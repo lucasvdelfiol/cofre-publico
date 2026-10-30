@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2313757",
+  "city_name": "Umirim",
+  "uf": "CE",
+  "population": 17470,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 96357374.66,
+    "total_expense": 94194226.58,
+    "own_revenue_percentage": 17.5,
+    "transfers_revenue_percentage": 82.5,
+    "personnel_expense_percentage_rcl": 50.8
+  },
+  "per_capita_breakdown": {
+    "health": 1383.9,
+    "education": 1670.6,
+    "urbanism": 742.0,
+    "administration": 398.9,
+    "legislative": 151.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4367.4,
+      "health_per_capita": 1079.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4690.9,
+      "health_per_capita": 1162.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5014.4,
+      "health_per_capita": 1245.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5284.0,
+      "health_per_capita": 1328.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5391.8,
+      "health_per_capita": 1383.9
+    }
+  ]
+}

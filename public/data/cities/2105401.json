@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2105401",
+  "city_name": "Itapecuru Mirim",
+  "uf": "MA",
+  "population": 60440,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 263012449.31,
+    "total_expense": 261447456.72,
+    "own_revenue_percentage": 40.3,
+    "transfers_revenue_percentage": 59.7,
+    "personnel_expense_percentage_rcl": 46.0
+  },
+  "per_capita_breakdown": {
+    "health": 1105.1,
+    "education": 1372.8,
+    "urbanism": 479.1,
+    "administration": 295.1,
+    "legislative": 83.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3503.8,
+      "health_per_capita": 862.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3763.4,
+      "health_per_capita": 928.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4022.9,
+      "health_per_capita": 994.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4239.2,
+      "health_per_capita": 1060.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4325.7,
+      "health_per_capita": 1105.1
+    }
+  ]
+}

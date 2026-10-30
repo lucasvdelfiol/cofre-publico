@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2206720",
+  "city_name": "Nazária",
+  "uf": "PI",
+  "population": 10262,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 49189782.78,
+    "total_expense": 48919900.74,
+    "own_revenue_percentage": 17.8,
+    "transfers_revenue_percentage": 82.2,
+    "personnel_expense_percentage_rcl": 48.2
+  },
+  "per_capita_breakdown": {
+    "health": 1012.3,
+    "education": 1463.5,
+    "urbanism": 529.8,
+    "administration": 298.2,
+    "legislative": 78.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3861.4,
+      "health_per_capita": 789.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4147.4,
+      "health_per_capita": 850.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4433.4,
+      "health_per_capita": 911.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4671.8,
+      "health_per_capita": 971.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4767.1,
+      "health_per_capita": 1012.3
+    }
+  ]
+}

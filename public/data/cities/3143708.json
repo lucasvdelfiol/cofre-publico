@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3143708",
+  "city_name": "Morro do Pilar",
+  "uf": "MG",
+  "population": 3133,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 17186773.67,
+    "total_expense": 16908915.47,
+    "own_revenue_percentage": 17.2,
+    "transfers_revenue_percentage": 82.8,
+    "personnel_expense_percentage_rcl": 45.9
+  },
+  "per_capita_breakdown": {
+    "health": 1424.4,
+    "education": 1634.5,
+    "urbanism": 574.5,
+    "administration": 557.3,
+    "legislative": 133.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4371.6,
+      "health_per_capita": 1111.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4695.4,
+      "health_per_capita": 1196.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5019.2,
+      "health_per_capita": 1282.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5289.1,
+      "health_per_capita": 1367.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5397.0,
+      "health_per_capita": 1424.4
+    }
+  ]
+}

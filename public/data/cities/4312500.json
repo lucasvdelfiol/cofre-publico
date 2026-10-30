@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4312500",
+  "city_name": "Mostardas",
+  "uf": "RS",
+  "population": 12090,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 67097197.18,
+    "total_expense": 66594812.88,
+    "own_revenue_percentage": 17.2,
+    "transfers_revenue_percentage": 82.8,
+    "personnel_expense_percentage_rcl": 53.3
+  },
+  "per_capita_breakdown": {
+    "health": 1240.0,
+    "education": 1422.0,
+    "urbanism": 560.8,
+    "administration": 463.6,
+    "legislative": 91.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4461.7,
+      "health_per_capita": 967.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4792.2,
+      "health_per_capita": 1041.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5122.7,
+      "health_per_capita": 1116.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5398.1,
+      "health_per_capita": 1190.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5508.3,
+      "health_per_capita": 1240.0
+    }
+  ]
+}

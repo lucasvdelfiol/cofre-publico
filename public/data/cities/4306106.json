@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4306106",
+  "city_name": "Cruz Alta",
+  "uf": "RS",
+  "population": 58913,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 253153970.11,
+    "total_expense": 254210540.26,
+    "own_revenue_percentage": 37.6,
+    "transfers_revenue_percentage": 62.4,
+    "personnel_expense_percentage_rcl": 47.4
+  },
+  "per_capita_breakdown": {
+    "health": 1060.3,
+    "education": 1283.4,
+    "urbanism": 440.3,
+    "administration": 276.1,
+    "legislative": 134.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3495.2,
+      "health_per_capita": 827.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3754.1,
+      "health_per_capita": 890.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4013.0,
+      "health_per_capita": 954.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4228.7,
+      "health_per_capita": 1017.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4315.0,
+      "health_per_capita": 1060.3
+    }
+  ]
+}

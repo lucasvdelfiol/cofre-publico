@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3129608",
+  "city_name": "Ibiaí",
+  "uf": "MG",
+  "population": 6286,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 34516041.36,
+    "total_expense": 34334120.75,
+    "own_revenue_percentage": 16.8,
+    "transfers_revenue_percentage": 83.2,
+    "personnel_expense_percentage_rcl": 46.0
+  },
+  "per_capita_breakdown": {
+    "health": 1286.2,
+    "education": 1700.0,
+    "urbanism": 559.3,
+    "administration": 487.8,
+    "legislative": 181.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4424.2,
+      "health_per_capita": 1003.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4751.9,
+      "health_per_capita": 1080.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5079.7,
+      "health_per_capita": 1157.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5352.8,
+      "health_per_capita": 1234.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5462.0,
+      "health_per_capita": 1286.2
+    }
+  ]
+}

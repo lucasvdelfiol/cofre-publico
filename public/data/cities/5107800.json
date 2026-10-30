@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5107800",
+  "city_name": "Santo Antônio de Leverger",
+  "uf": "MT",
+  "population": 15246,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 86189135.89,
+    "total_expense": 84010036.25,
+    "own_revenue_percentage": 20.3,
+    "transfers_revenue_percentage": 79.7,
+    "personnel_expense_percentage_rcl": 46.4
+  },
+  "per_capita_breakdown": {
+    "health": 1245.7,
+    "education": 1632.2,
+    "urbanism": 778.4,
+    "administration": 559.6,
+    "legislative": 108.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4463.3,
+      "health_per_capita": 971.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4794.0,
+      "health_per_capita": 1046.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5124.6,
+      "health_per_capita": 1121.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5400.1,
+      "health_per_capita": 1195.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5510.3,
+      "health_per_capita": 1245.7
+    }
+  ]
+}

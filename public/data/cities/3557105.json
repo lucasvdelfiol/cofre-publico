@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3557105",
+  "city_name": "Votuporanga",
+  "uf": "SP",
+  "population": 96634,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 422911709.96,
+    "total_expense": 416009106.33,
+    "own_revenue_percentage": 38.7,
+    "transfers_revenue_percentage": 61.3,
+    "personnel_expense_percentage_rcl": 52.6
+  },
+  "per_capita_breakdown": {
+    "health": 1197.1,
+    "education": 1364.9,
+    "urbanism": 352.2,
+    "administration": 490.1,
+    "legislative": 112.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3487.1,
+      "health_per_capita": 933.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3745.3,
+      "health_per_capita": 1005.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4003.7,
+      "health_per_capita": 1077.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4218.9,
+      "health_per_capita": 1149.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4305.0,
+      "health_per_capita": 1197.1
+    }
+  ]
+}

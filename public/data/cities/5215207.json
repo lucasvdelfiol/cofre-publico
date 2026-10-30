@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5215207",
+  "city_name": "Novo Brasil",
+  "uf": "GO",
+  "population": 3527,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 18201410.34,
+    "total_expense": 17658899.14,
+    "own_revenue_percentage": 17.5,
+    "transfers_revenue_percentage": 82.5,
+    "personnel_expense_percentage_rcl": 49.4
+  },
+  "per_capita_breakdown": {
+    "health": 1163.4,
+    "education": 1527.6,
+    "urbanism": 744.8,
+    "administration": 338.3,
+    "legislative": 145.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4055.5,
+      "health_per_capita": 907.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4355.9,
+      "health_per_capita": 977.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4656.3,
+      "health_per_capita": 1047.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4906.7,
+      "health_per_capita": 1116.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5006.8,
+      "health_per_capita": 1163.4
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3138401",
+  "city_name": "Leopoldina",
+  "uf": "MG",
+  "population": 51145,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 221488081.65,
+    "total_expense": 218537825.82,
+    "own_revenue_percentage": 39.2,
+    "transfers_revenue_percentage": 60.8,
+    "personnel_expense_percentage_rcl": 52.5
+  },
+  "per_capita_breakdown": {
+    "health": 1058.2,
+    "education": 1042.8,
+    "urbanism": 363.8,
+    "administration": 446.4,
+    "legislative": 126.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3461.0,
+      "health_per_capita": 825.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3717.4,
+      "health_per_capita": 888.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3973.8,
+      "health_per_capita": 952.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4187.4,
+      "health_per_capita": 1015.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4272.9,
+      "health_per_capita": 1058.2
+    }
+  ]
+}

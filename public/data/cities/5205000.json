@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5205000",
+  "city_name": "Carmo do Rio Verde",
+  "uf": "GO",
+  "population": 9710,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 53900926.27,
+    "total_expense": 52928028.63,
+    "own_revenue_percentage": 16.2,
+    "transfers_revenue_percentage": 83.8,
+    "personnel_expense_percentage_rcl": 47.0
+  },
+  "per_capita_breakdown": {
+    "health": 1424.9,
+    "education": 1448.4,
+    "urbanism": 567.9,
+    "administration": 446.3,
+    "legislative": 103.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4415.2,
+      "health_per_capita": 1111.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4742.3,
+      "health_per_capita": 1196.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5069.3,
+      "health_per_capita": 1282.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5341.9,
+      "health_per_capita": 1367.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5450.9,
+      "health_per_capita": 1424.9
+    }
+  ]
+}

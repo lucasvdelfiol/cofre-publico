@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3154408",
+  "city_name": "Ressaquinha",
+  "uf": "MG",
+  "population": 4548,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 26334161.25,
+    "total_expense": 25329353.21,
+    "own_revenue_percentage": 17.7,
+    "transfers_revenue_percentage": 82.3,
+    "personnel_expense_percentage_rcl": 45.9
+  },
+  "per_capita_breakdown": {
+    "health": 1540.3,
+    "education": 1620.3,
+    "urbanism": 493.5,
+    "administration": 663.7,
+    "legislative": 123.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4511.1,
+      "health_per_capita": 1201.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4845.3,
+      "health_per_capita": 1293.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5179.4,
+      "health_per_capita": 1386.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5457.9,
+      "health_per_capita": 1478.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5569.3,
+      "health_per_capita": 1540.3
+    }
+  ]
+}

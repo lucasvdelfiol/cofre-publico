@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2202000",
+  "city_name": "Buriti dos Lopes",
+  "uf": "PI",
+  "population": 19654,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 93598111.87,
+    "total_expense": 94538475.46,
+    "own_revenue_percentage": 18.9,
+    "transfers_revenue_percentage": 81.1,
+    "personnel_expense_percentage_rcl": 53.6
+  },
+  "per_capita_breakdown": {
+    "health": 1015.7,
+    "education": 1445.6,
+    "urbanism": 723.9,
+    "administration": 534.8,
+    "legislative": 116.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3896.2,
+      "health_per_capita": 792.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4184.8,
+      "health_per_capita": 853.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4473.4,
+      "health_per_capita": 914.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4713.9,
+      "health_per_capita": 975.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4810.1,
+      "health_per_capita": 1015.7
+    }
+  ]
+}

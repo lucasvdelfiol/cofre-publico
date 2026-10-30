@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2401206",
+  "city_name": "Arez",
+  "uf": "RN",
+  "population": 13251,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 57644130.71,
+    "total_expense": 57565074.19,
+    "own_revenue_percentage": 9.9,
+    "transfers_revenue_percentage": 90.1,
+    "personnel_expense_percentage_rcl": 49.1
+  },
+  "per_capita_breakdown": {
+    "health": 1167.5,
+    "education": 1092.2,
+    "urbanism": 583.9,
+    "administration": 456.8,
+    "legislative": 107.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3518.8,
+      "health_per_capita": 910.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3779.5,
+      "health_per_capita": 980.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4040.1,
+      "health_per_capita": 1050.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4257.3,
+      "health_per_capita": 1120.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4344.2,
+      "health_per_capita": 1167.5
+    }
+  ]
+}

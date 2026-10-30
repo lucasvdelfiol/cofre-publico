@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2931301",
+  "city_name": "Tapiramutá",
+  "uf": "BA",
+  "population": 15818,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 84083034.87,
+    "total_expense": 84615315.48,
+    "own_revenue_percentage": 21.5,
+    "transfers_revenue_percentage": 78.5,
+    "personnel_expense_percentage_rcl": 45.5
+  },
+  "per_capita_breakdown": {
+    "health": 1266.9,
+    "education": 1300.9,
+    "urbanism": 483.3,
+    "administration": 386.1,
+    "legislative": 89.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4332.9,
+      "health_per_capita": 988.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4653.9,
+      "health_per_capita": 1064.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4974.8,
+      "health_per_capita": 1140.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5242.3,
+      "health_per_capita": 1216.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5349.3,
+      "health_per_capita": 1266.9
+    }
+  ]
+}

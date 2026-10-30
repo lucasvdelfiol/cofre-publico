@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4321493",
+  "city_name": "Toropi",
+  "uf": "RS",
+  "population": 2554,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 14160388.09,
+    "total_expense": 13893823.56,
+    "own_revenue_percentage": 20.8,
+    "transfers_revenue_percentage": 79.2,
+    "personnel_expense_percentage_rcl": 48.1
+  },
+  "per_capita_breakdown": {
+    "health": 1176.1,
+    "education": 1719.2,
+    "urbanism": 570.8,
+    "administration": 607.5,
+    "legislative": 127.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4406.4,
+      "health_per_capita": 917.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4732.8,
+      "health_per_capita": 987.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5059.2,
+      "health_per_capita": 1058.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5331.2,
+      "health_per_capita": 1129.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5440.0,
+      "health_per_capita": 1176.1
+    }
+  ]
+}

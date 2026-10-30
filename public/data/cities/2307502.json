@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2307502",
+  "city_name": "Lavras da Mangabeira",
+  "uf": "CE",
+  "population": 30802,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 133326870.57,
+    "total_expense": 128718576.71,
+    "own_revenue_percentage": 22.9,
+    "transfers_revenue_percentage": 77.1,
+    "personnel_expense_percentage_rcl": 52.7
+  },
+  "per_capita_breakdown": {
+    "health": 1012.4,
+    "education": 1085.4,
+    "urbanism": 389.7,
+    "administration": 449.3,
+    "legislative": 70.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3384.9,
+      "health_per_capita": 789.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3635.6,
+      "health_per_capita": 850.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3886.4,
+      "health_per_capita": 911.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4095.3,
+      "health_per_capita": 971.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4178.9,
+      "health_per_capita": 1012.4
+    }
+  ]
+}

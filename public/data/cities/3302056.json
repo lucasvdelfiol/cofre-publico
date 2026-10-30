@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3302056",
+  "city_name": "Italva",
+  "uf": "RJ",
+  "population": 14073,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 71178725.38,
+    "total_expense": 68963960.76,
+    "own_revenue_percentage": 9.7,
+    "transfers_revenue_percentage": 90.3,
+    "personnel_expense_percentage_rcl": 51.5
+  },
+  "per_capita_breakdown": {
+    "health": 991.9,
+    "education": 1444.5,
+    "urbanism": 766.1,
+    "administration": 495.4,
+    "legislative": 103.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3969.3,
+      "health_per_capita": 773.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4263.3,
+      "health_per_capita": 833.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4557.4,
+      "health_per_capita": 892.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4802.4,
+      "health_per_capita": 952.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4900.4,
+      "health_per_capita": 991.9
+    }
+  ]
+}

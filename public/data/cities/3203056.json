@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3203056",
+  "city_name": "Jaguaré",
+  "uf": "ES",
+  "population": 28931,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 123537527.86,
+    "total_expense": 123954624.61,
+    "own_revenue_percentage": 22.6,
+    "transfers_revenue_percentage": 77.4,
+    "personnel_expense_percentage_rcl": 49.9
+  },
+  "per_capita_breakdown": {
+    "health": 1187.8,
+    "education": 1205.7,
+    "urbanism": 655.0,
+    "administration": 351.5,
+    "legislative": 76.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3470.4,
+      "health_per_capita": 926.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3727.5,
+      "health_per_capita": 997.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3984.6,
+      "health_per_capita": 1069.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4198.8,
+      "health_per_capita": 1140.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4284.5,
+      "health_per_capita": 1187.8
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3107703",
+  "city_name": "Bom Jesus do Amparo",
+  "uf": "MG",
+  "population": 5631,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 29962378.22,
+    "total_expense": 28834782.38,
+    "own_revenue_percentage": 16.0,
+    "transfers_revenue_percentage": 84.0,
+    "personnel_expense_percentage_rcl": 53.7
+  },
+  "per_capita_breakdown": {
+    "health": 1409.6,
+    "education": 1472.9,
+    "urbanism": 743.1,
+    "administration": 434.4,
+    "legislative": 114.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4147.8,
+      "health_per_capita": 1099.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4455.0,
+      "health_per_capita": 1184.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4762.3,
+      "health_per_capita": 1268.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5018.3,
+      "health_per_capita": 1353.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5120.7,
+      "health_per_capita": 1409.6
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3130606",
+  "city_name": "Inconfidentes",
+  "uf": "MG",
+  "population": 7301,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 34323538.38,
+    "total_expense": 33068762.68,
+    "own_revenue_percentage": 9.6,
+    "transfers_revenue_percentage": 90.4,
+    "personnel_expense_percentage_rcl": 46.3
+  },
+  "per_capita_breakdown": {
+    "health": 1080.1,
+    "education": 1365.8,
+    "urbanism": 693.3,
+    "administration": 502.9,
+    "legislative": 140.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3668.7,
+      "health_per_capita": 842.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3940.5,
+      "health_per_capita": 907.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4212.2,
+      "health_per_capita": 972.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4438.7,
+      "health_per_capita": 1036.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4529.3,
+      "health_per_capita": 1080.1
+    }
+  ]
+}

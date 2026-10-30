@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4212700",
+  "city_name": "Petrolândia",
+  "uf": "SC",
+  "population": 6716,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 31187955.96,
+    "total_expense": 31225861.47,
+    "own_revenue_percentage": 20.6,
+    "transfers_revenue_percentage": 79.4,
+    "personnel_expense_percentage_rcl": 53.3
+  },
+  "per_capita_breakdown": {
+    "health": 1103.4,
+    "education": 1361.4,
+    "urbanism": 697.1,
+    "administration": 294.5,
+    "legislative": 141.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3766.1,
+      "health_per_capita": 860.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4045.1,
+      "health_per_capita": 926.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4324.0,
+      "health_per_capita": 993.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4556.5,
+      "health_per_capita": 1059.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4649.5,
+      "health_per_capita": 1103.4
+    }
+  ]
+}

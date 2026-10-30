@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4123105",
+  "city_name": "Santa Amélia",
+  "uf": "PR",
+  "population": 3394,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 15919052.01,
+    "total_expense": 15513698.3,
+    "own_revenue_percentage": 10.1,
+    "transfers_revenue_percentage": 89.9,
+    "personnel_expense_percentage_rcl": 48.4
+  },
+  "per_capita_breakdown": {
+    "health": 1046.3,
+    "education": 1337.6,
+    "urbanism": 401.4,
+    "administration": 396.1,
+    "legislative": 115.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3702.4,
+      "health_per_capita": 816.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3976.7,
+      "health_per_capita": 878.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4250.9,
+      "health_per_capita": 941.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4479.5,
+      "health_per_capita": 1004.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4570.9,
+      "health_per_capita": 1046.3
+    }
+  ]
+}

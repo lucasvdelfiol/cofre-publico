@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4206900",
+  "city_name": "Ibirama",
+  "uf": "SC",
+  "population": 19862,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 97612126.59,
+    "total_expense": 94956257.08,
+    "own_revenue_percentage": 10.9,
+    "transfers_revenue_percentage": 89.1,
+    "personnel_expense_percentage_rcl": 50.3
+  },
+  "per_capita_breakdown": {
+    "health": 1276.7,
+    "education": 1254.6,
+    "urbanism": 620.9,
+    "administration": 497.3,
+    "legislative": 115.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3872.4,
+      "health_per_capita": 995.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4159.3,
+      "health_per_capita": 1072.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4446.1,
+      "health_per_capita": 1149.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4685.2,
+      "health_per_capita": 1225.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4780.8,
+      "health_per_capita": 1276.7
+    }
+  ]
+}

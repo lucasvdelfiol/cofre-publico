@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3557303",
+  "city_name": "Estiva Gerbi",
+  "uf": "SP",
+  "population": 11295,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 60725278.83,
+    "total_expense": 58528813.28,
+    "own_revenue_percentage": 10.0,
+    "transfers_revenue_percentage": 90.0,
+    "personnel_expense_percentage_rcl": 50.3
+  },
+  "per_capita_breakdown": {
+    "health": 1429.0,
+    "education": 1534.2,
+    "urbanism": 810.0,
+    "administration": 351.8,
+    "legislative": 149.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4197.3,
+      "health_per_capita": 1114.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4508.2,
+      "health_per_capita": 1200.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4819.1,
+      "health_per_capita": 1286.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5078.2,
+      "health_per_capita": 1371.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5181.8,
+      "health_per_capita": 1429.0
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4314753",
+  "city_name": "Poço das Antas",
+  "uf": "RS",
+  "population": 2171,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 10252155.25,
+    "total_expense": 9888512.42,
+    "own_revenue_percentage": 19.3,
+    "transfers_revenue_percentage": 80.7,
+    "personnel_expense_percentage_rcl": 51.3
+  },
+  "per_capita_breakdown": {
+    "health": 1095.2,
+    "education": 1301.2,
+    "urbanism": 713.3,
+    "administration": 425.2,
+    "legislative": 152.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3689.4,
+      "health_per_capita": 854.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3962.7,
+      "health_per_capita": 920.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4236.0,
+      "health_per_capita": 985.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4463.7,
+      "health_per_capita": 1051.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4554.8,
+      "health_per_capita": 1095.2
+    }
+  ]
+}

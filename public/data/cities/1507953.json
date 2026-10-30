@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1507953",
+  "city_name": "Tailândia",
+  "uf": "PA",
+  "population": 72493,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 363700070.78,
+    "total_expense": 355086896.36,
+    "own_revenue_percentage": 36.5,
+    "transfers_revenue_percentage": 63.5,
+    "personnel_expense_percentage_rcl": 51.3
+  },
+  "per_capita_breakdown": {
+    "health": 1144.6,
+    "education": 1552.4,
+    "urbanism": 639.7,
+    "administration": 511.2,
+    "legislative": 156.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3967.5,
+      "health_per_capita": 892.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4261.4,
+      "health_per_capita": 961.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4555.3,
+      "health_per_capita": 1030.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4800.2,
+      "health_per_capita": 1098.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4898.2,
+      "health_per_capita": 1144.6
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5205901",
+  "city_name": "Corumbaíba",
+  "uf": "GO",
+  "population": 9164,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 45984529.79,
+    "total_expense": 46200729.17,
+    "own_revenue_percentage": 10.4,
+    "transfers_revenue_percentage": 89.6,
+    "personnel_expense_percentage_rcl": 48.1
+  },
+  "per_capita_breakdown": {
+    "health": 1244.1,
+    "education": 1606.1,
+    "urbanism": 423.4,
+    "administration": 424.2,
+    "legislative": 147.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4083.6,
+      "health_per_capita": 970.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4386.1,
+      "health_per_capita": 1045.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4688.6,
+      "health_per_capita": 1119.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4940.7,
+      "health_per_capita": 1194.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5041.5,
+      "health_per_capita": 1244.1
+    }
+  ]
+}

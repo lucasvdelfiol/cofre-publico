@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3156403",
+  "city_name": "Romaria",
+  "uf": "MG",
+  "population": 3386,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 18367834.62,
+    "total_expense": 18121089.93,
+    "own_revenue_percentage": 21.3,
+    "transfers_revenue_percentage": 78.7,
+    "personnel_expense_percentage_rcl": 50.8
+  },
+  "per_capita_breakdown": {
+    "health": 1080.4,
+    "education": 1695.8,
+    "urbanism": 480.3,
+    "administration": 594.4,
+    "legislative": 170.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4335.0,
+      "health_per_capita": 842.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4656.1,
+      "health_per_capita": 907.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4977.2,
+      "health_per_capita": 972.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5244.8,
+      "health_per_capita": 1037.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5351.8,
+      "health_per_capita": 1080.4
+    }
+  ]
+}

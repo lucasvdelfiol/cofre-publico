@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4306551",
+  "city_name": "Dom Pedro de Alcântara",
+  "uf": "RS",
+  "population": 2562,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 14412865.45,
+    "total_expense": 13912746.61,
+    "own_revenue_percentage": 18.7,
+    "transfers_revenue_percentage": 81.3,
+    "personnel_expense_percentage_rcl": 46.1
+  },
+  "per_capita_breakdown": {
+    "health": 1455.5,
+    "education": 1577.3,
+    "urbanism": 681.9,
+    "administration": 382.5,
+    "legislative": 139.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4398.6,
+      "health_per_capita": 1135.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4724.4,
+      "health_per_capita": 1222.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5050.3,
+      "health_per_capita": 1310.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5321.8,
+      "health_per_capita": 1397.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5430.4,
+      "health_per_capita": 1455.5
+    }
+  ]
+}

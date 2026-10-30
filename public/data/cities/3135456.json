@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3135456",
+  "city_name": "Jenipapo de Minas",
+  "uf": "MG",
+  "population": 6100,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 26458023.02,
+    "total_expense": 26427891.76,
+    "own_revenue_percentage": 11.6,
+    "transfers_revenue_percentage": 88.4,
+    "personnel_expense_percentage_rcl": 51.4
+  },
+  "per_capita_breakdown": {
+    "health": 1046.7,
+    "education": 1183.7,
+    "urbanism": 542.6,
+    "administration": 418.5,
+    "legislative": 136.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3509.2,
+      "health_per_capita": 816.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3769.2,
+      "health_per_capita": 879.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4029.1,
+      "health_per_capita": 942.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4245.8,
+      "health_per_capita": 1004.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4332.4,
+      "health_per_capita": 1046.7
+    }
+  ]
+}

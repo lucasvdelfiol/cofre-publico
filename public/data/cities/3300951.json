@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3300951",
+  "city_name": "Comendador Levy Gasparian",
+  "uf": "RJ",
+  "population": 8741,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 38506561.64,
+    "total_expense": 38669169.78,
+    "own_revenue_percentage": 16.0,
+    "transfers_revenue_percentage": 84.0,
+    "personnel_expense_percentage_rcl": 49.1
+  },
+  "per_capita_breakdown": {
+    "health": 956.6,
+    "education": 1125.6,
+    "urbanism": 366.2,
+    "administration": 469.7,
+    "legislative": 98.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3583.4,
+      "health_per_capita": 746.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3848.8,
+      "health_per_capita": 803.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4114.2,
+      "health_per_capita": 860.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4335.4,
+      "health_per_capita": 918.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4423.9,
+      "health_per_capita": 956.6
+    }
+  ]
+}

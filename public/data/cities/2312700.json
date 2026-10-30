@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2312700",
+  "city_name": "Senador Pompeu",
+  "uf": "CE",
+  "population": 24266,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 115201638.05,
+    "total_expense": 111792996.97,
+    "own_revenue_percentage": 24.7,
+    "transfers_revenue_percentage": 75.3,
+    "personnel_expense_percentage_rcl": 53.4
+  },
+  "per_capita_breakdown": {
+    "health": 1117.0,
+    "education": 1174.2,
+    "urbanism": 733.2,
+    "administration": 499.2,
+    "legislative": 114.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3731.7,
+      "health_per_capita": 871.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4008.1,
+      "health_per_capita": 938.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4284.5,
+      "health_per_capita": 1005.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4514.9,
+      "health_per_capita": 1072.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4607.0,
+      "health_per_capita": 1117.0
+    }
+  ]
+}

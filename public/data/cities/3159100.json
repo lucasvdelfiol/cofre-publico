@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3159100",
+  "city_name": "Santana dos Montes",
+  "uf": "MG",
+  "population": 3469,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 16860168.21,
+    "total_expense": 16855326.38,
+    "own_revenue_percentage": 8.5,
+    "transfers_revenue_percentage": 91.5,
+    "personnel_expense_percentage_rcl": 48.7
+  },
+  "per_capita_breakdown": {
+    "health": 1000.8,
+    "education": 1543.3,
+    "urbanism": 687.3,
+    "administration": 498.7,
+    "legislative": 97.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3935.6,
+      "health_per_capita": 780.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4227.2,
+      "health_per_capita": 840.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4518.7,
+      "health_per_capita": 900.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4761.6,
+      "health_per_capita": 960.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4858.8,
+      "health_per_capita": 1000.8
+    }
+  ]
+}

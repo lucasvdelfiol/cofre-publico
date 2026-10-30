@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4319307",
+  "city_name": "São Paulo das Missões",
+  "uf": "RS",
+  "population": 5846,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 30109444.28,
+    "total_expense": 29513862.97,
+    "own_revenue_percentage": 19.6,
+    "transfers_revenue_percentage": 80.4,
+    "personnel_expense_percentage_rcl": 51.5
+  },
+  "per_capita_breakdown": {
+    "health": 1108.6,
+    "education": 1324.9,
+    "urbanism": 448.0,
+    "administration": 555.5,
+    "legislative": 143.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4089.4,
+      "health_per_capita": 864.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4392.3,
+      "health_per_capita": 931.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4695.2,
+      "health_per_capita": 997.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4947.6,
+      "health_per_capita": 1064.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5048.6,
+      "health_per_capita": 1108.6
+    }
+  ]
+}

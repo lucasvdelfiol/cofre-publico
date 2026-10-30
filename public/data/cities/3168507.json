@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3168507",
+  "city_name": "Teixeiras",
+  "uf": "MG",
+  "population": 12255,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 63404481.17,
+    "total_expense": 63748834.21,
+    "own_revenue_percentage": 8.7,
+    "transfers_revenue_percentage": 91.3,
+    "personnel_expense_percentage_rcl": 52.8
+  },
+  "per_capita_breakdown": {
+    "health": 1108.2,
+    "education": 1570.1,
+    "urbanism": 457.6,
+    "administration": 324.8,
+    "legislative": 97.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4213.5,
+      "health_per_capita": 864.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4525.7,
+      "health_per_capita": 930.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4837.8,
+      "health_per_capita": 997.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5097.9,
+      "health_per_capita": 1063.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5201.9,
+      "health_per_capita": 1108.2
+    }
+  ]
+}

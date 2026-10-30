@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3147907",
+  "city_name": "Passos",
+  "uf": "MG",
+  "population": 111939,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 663665795.17,
+    "total_expense": 644816754.85,
+    "own_revenue_percentage": 51.9,
+    "transfers_revenue_percentage": 48.1,
+    "personnel_expense_percentage_rcl": 49.3
+  },
+  "per_capita_breakdown": {
+    "health": 1517.7,
+    "education": 1578.6,
+    "urbanism": 755.6,
+    "administration": 550.5,
+    "legislative": 185.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4665.9,
+      "health_per_capita": 1183.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 5011.5,
+      "health_per_capita": 1274.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5357.2,
+      "health_per_capita": 1365.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5645.2,
+      "health_per_capita": 1457.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5760.4,
+      "health_per_capita": 1517.7
+    }
+  ]
+}

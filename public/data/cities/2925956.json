@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2925956",
+  "city_name": "Rafael Jambeiro",
+  "uf": "BA",
+  "population": 19662,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 103491226.87,
+    "total_expense": 103684926.14,
+    "own_revenue_percentage": 11.5,
+    "transfers_revenue_percentage": 88.5,
+    "personnel_expense_percentage_rcl": 49.2
+  },
+  "per_capita_breakdown": {
+    "health": 1327.2,
+    "education": 1295.2,
+    "urbanism": 829.9,
+    "administration": 561.8,
+    "legislative": 150.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4271.5,
+      "health_per_capita": 1035.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4587.9,
+      "health_per_capita": 1114.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4904.3,
+      "health_per_capita": 1194.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5167.9,
+      "health_per_capita": 1274.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5273.4,
+      "health_per_capita": 1327.2
+    }
+  ]
+}

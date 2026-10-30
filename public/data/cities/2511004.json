@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2511004",
+  "city_name": "Pedra Branca",
+  "uf": "PB",
+  "population": 3739,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 18509249.1,
+    "total_expense": 17832342.04,
+    "own_revenue_percentage": 18.9,
+    "transfers_revenue_percentage": 81.1,
+    "personnel_expense_percentage_rcl": 45.7
+  },
+  "per_capita_breakdown": {
+    "health": 1129.2,
+    "education": 1305.9,
+    "urbanism": 478.3,
+    "administration": 505.1,
+    "legislative": 101.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3863.1,
+      "health_per_capita": 880.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4149.3,
+      "health_per_capita": 948.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4435.4,
+      "health_per_capita": 1016.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4673.9,
+      "health_per_capita": 1084.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4769.3,
+      "health_per_capita": 1129.2
+    }
+  ]
+}

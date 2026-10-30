@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3203353",
+  "city_name": "Marilândia",
+  "uf": "ES",
+  "population": 12387,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 60425432.44,
+    "total_expense": 60162294.31,
+    "own_revenue_percentage": 19.9,
+    "transfers_revenue_percentage": 80.1,
+    "personnel_expense_percentage_rcl": 49.5
+  },
+  "per_capita_breakdown": {
+    "health": 1227.4,
+    "education": 1283.1,
+    "urbanism": 402.8,
+    "administration": 444.0,
+    "legislative": 150.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3934.1,
+      "health_per_capita": 957.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4225.5,
+      "health_per_capita": 1031.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4516.9,
+      "health_per_capita": 1104.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4759.8,
+      "health_per_capita": 1178.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4856.9,
+      "health_per_capita": 1227.4
+    }
+  ]
+}

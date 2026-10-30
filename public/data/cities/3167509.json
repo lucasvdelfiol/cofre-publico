@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3167509",
+  "city_name": "Simão Pereira",
+  "uf": "MG",
+  "population": 2947,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 15101373.8,
+    "total_expense": 14697293.18,
+    "own_revenue_percentage": 14.6,
+    "transfers_revenue_percentage": 85.4,
+    "personnel_expense_percentage_rcl": 48.2
+  },
+  "per_capita_breakdown": {
+    "health": 1324.9,
+    "education": 1317.4,
+    "urbanism": 441.8,
+    "administration": 404.0,
+    "legislative": 130.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4039.6,
+      "health_per_capita": 1033.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4338.9,
+      "health_per_capita": 1112.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4638.1,
+      "health_per_capita": 1192.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4887.5,
+      "health_per_capita": 1271.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4987.2,
+      "health_per_capita": 1324.9
+    }
+  ]
+}

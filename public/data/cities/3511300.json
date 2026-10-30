@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3511300",
+  "city_name": "Cedral",
+  "uf": "SP",
+  "population": 12618,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 61530703.76,
+    "total_expense": 59188926.92,
+    "own_revenue_percentage": 8.8,
+    "transfers_revenue_percentage": 91.2,
+    "personnel_expense_percentage_rcl": 48.8
+  },
+  "per_capita_breakdown": {
+    "health": 1259.4,
+    "education": 1312.9,
+    "urbanism": 562.3,
+    "administration": 371.2,
+    "legislative": 115.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3799.5,
+      "health_per_capita": 982.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4081.0,
+      "health_per_capita": 1057.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4362.4,
+      "health_per_capita": 1133.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4597.0,
+      "health_per_capita": 1209.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4690.8,
+      "health_per_capita": 1259.4
+    }
+  ]
+}

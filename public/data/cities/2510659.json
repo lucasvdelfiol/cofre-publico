@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2510659",
+  "city_name": "Parari",
+  "uf": "PB",
+  "population": 1720,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 8525149.84,
+    "total_expense": 8230205.33,
+    "own_revenue_percentage": 8.6,
+    "transfers_revenue_percentage": 91.4,
+    "personnel_expense_percentage_rcl": 48.4
+  },
+  "per_capita_breakdown": {
+    "health": 1257.9,
+    "education": 1515.6,
+    "urbanism": 701.1,
+    "administration": 433.7,
+    "legislative": 155.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3875.9,
+      "health_per_capita": 981.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4162.9,
+      "health_per_capita": 1056.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4450.1,
+      "health_per_capita": 1132.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4689.3,
+      "health_per_capita": 1207.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4785.0,
+      "health_per_capita": 1257.9
+    }
+  ]
+}

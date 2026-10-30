@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1600535",
+  "city_name": "Porto Grande",
+  "uf": "AP",
+  "population": 17848,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 89656313.41,
+    "total_expense": 87199769.3,
+    "own_revenue_percentage": 20.8,
+    "transfers_revenue_percentage": 79.2,
+    "personnel_expense_percentage_rcl": 51.9
+  },
+  "per_capita_breakdown": {
+    "health": 1277.5,
+    "education": 1263.7,
+    "urbanism": 503.9,
+    "administration": 566.4,
+    "legislative": 112.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3957.4,
+      "health_per_capita": 996.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4250.6,
+      "health_per_capita": 1073.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4543.7,
+      "health_per_capita": 1149.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4788.0,
+      "health_per_capita": 1226.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4885.7,
+      "health_per_capita": 1277.5
+    }
+  ]
+}

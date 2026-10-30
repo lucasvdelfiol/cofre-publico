@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4212239",
+  "city_name": "Paraíso",
+  "uf": "SC",
+  "population": 4267,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 20313567.95,
+    "total_expense": 20394511.64,
+    "own_revenue_percentage": 13.8,
+    "transfers_revenue_percentage": 86.2,
+    "personnel_expense_percentage_rcl": 47.8
+  },
+  "per_capita_breakdown": {
+    "health": 1265.2,
+    "education": 1236.2,
+    "urbanism": 534.4,
+    "administration": 397.2,
+    "legislative": 102.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3871.5,
+      "health_per_capita": 986.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4158.3,
+      "health_per_capita": 1062.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4445.0,
+      "health_per_capita": 1138.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4684.0,
+      "health_per_capita": 1214.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4779.6,
+      "health_per_capita": 1265.2
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3167806",
+  "city_name": "Soledade de Minas",
+  "uf": "MG",
+  "population": 5613,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 26142180.87,
+    "total_expense": 25236015.7,
+    "own_revenue_percentage": 19.3,
+    "transfers_revenue_percentage": 80.7,
+    "personnel_expense_percentage_rcl": 47.7
+  },
+  "per_capita_breakdown": {
+    "health": 1217.2,
+    "education": 1229.0,
+    "urbanism": 695.5,
+    "administration": 401.3,
+    "legislative": 92.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3641.8,
+      "health_per_capita": 949.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3911.5,
+      "health_per_capita": 1022.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4181.3,
+      "health_per_capita": 1095.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4406.1,
+      "health_per_capita": 1168.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4496.0,
+      "health_per_capita": 1217.2
+    }
+  ]
+}

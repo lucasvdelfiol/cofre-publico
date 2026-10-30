@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1101468",
+  "city_name": "Pimenteiras do Oeste",
+  "uf": "RO",
+  "population": 2156,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 10963314.96,
+    "total_expense": 10819644.32,
+    "own_revenue_percentage": 11.5,
+    "transfers_revenue_percentage": 88.5,
+    "personnel_expense_percentage_rcl": 53.8
+  },
+  "per_capita_breakdown": {
+    "health": 1127.9,
+    "education": 1541.8,
+    "urbanism": 449.5,
+    "administration": 338.9,
+    "legislative": 124.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4064.9,
+      "health_per_capita": 879.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4366.0,
+      "health_per_capita": 947.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4667.1,
+      "health_per_capita": 1015.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4918.0,
+      "health_per_capita": 1082.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5018.4,
+      "health_per_capita": 1127.9
+    }
+  ]
+}

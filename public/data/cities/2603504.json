@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2603504",
+  "city_name": "Camocim de São Félix",
+  "uf": "PE",
+  "population": 17419,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 78833838.07,
+    "total_expense": 79281096.49,
+    "own_revenue_percentage": 21.8,
+    "transfers_revenue_percentage": 78.2,
+    "personnel_expense_percentage_rcl": 48.6
+  },
+  "per_capita_breakdown": {
+    "health": 934.9,
+    "education": 1183.6,
+    "urbanism": 685.2,
+    "administration": 430.1,
+    "legislative": 158.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3686.6,
+      "health_per_capita": 729.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3959.7,
+      "health_per_capita": 785.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4232.8,
+      "health_per_capita": 841.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4460.4,
+      "health_per_capita": 897.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4551.4,
+      "health_per_capita": 934.9
+    }
+  ]
+}

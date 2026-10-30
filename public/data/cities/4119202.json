@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4119202",
+  "city_name": "Pinhalão",
+  "uf": "PR",
+  "population": 6566,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 31637545.58,
+    "total_expense": 30470271.87,
+    "own_revenue_percentage": 22.0,
+    "transfers_revenue_percentage": 78.0,
+    "personnel_expense_percentage_rcl": 48.2
+  },
+  "per_capita_breakdown": {
+    "health": 988.3,
+    "education": 1199.5,
+    "urbanism": 700.3,
+    "administration": 530.0,
+    "legislative": 138.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3758.9,
+      "health_per_capita": 770.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4037.3,
+      "health_per_capita": 830.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4315.8,
+      "health_per_capita": 889.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4547.8,
+      "health_per_capita": 948.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4640.6,
+      "health_per_capita": 988.3
+    }
+  ]
+}

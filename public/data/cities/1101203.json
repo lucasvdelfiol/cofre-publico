@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1101203",
+  "city_name": "Ministro Andreazza",
+  "uf": "RO",
+  "population": 6466,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 31627606.82,
+    "total_expense": 31008324.51,
+    "own_revenue_percentage": 18.8,
+    "transfers_revenue_percentage": 81.2,
+    "personnel_expense_percentage_rcl": 52.7
+  },
+  "per_capita_breakdown": {
+    "health": 1303.2,
+    "education": 1532.7,
+    "urbanism": 446.9,
+    "administration": 442.3,
+    "legislative": 81.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3884.4,
+      "health_per_capita": 1016.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4172.2,
+      "health_per_capita": 1094.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4459.9,
+      "health_per_capita": 1172.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4699.7,
+      "health_per_capita": 1251.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4795.6,
+      "health_per_capita": 1303.2
+    }
+  ]
+}

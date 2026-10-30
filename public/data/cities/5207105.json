@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5207105",
+  "city_name": "Diorama",
+  "uf": "GO",
+  "population": 2062,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 11301820.79,
+    "total_expense": 10986996.9,
+    "own_revenue_percentage": 12.1,
+    "transfers_revenue_percentage": 87.9,
+    "personnel_expense_percentage_rcl": 53.4
+  },
+  "per_capita_breakdown": {
+    "health": 1474.5,
+    "education": 1631.6,
+    "urbanism": 768.3,
+    "administration": 529.4,
+    "legislative": 102.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4315.9,
+      "health_per_capita": 1150.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4635.6,
+      "health_per_capita": 1238.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4955.3,
+      "health_per_capita": 1327.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5221.7,
+      "health_per_capita": 1415.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5328.3,
+      "health_per_capita": 1474.5
+    }
+  ]
+}

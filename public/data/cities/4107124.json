@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4107124",
+  "city_name": "Diamante do Sul",
+  "uf": "PR",
+  "population": 3171,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 17080647.54,
+    "total_expense": 16709447.61,
+    "own_revenue_percentage": 21.7,
+    "transfers_revenue_percentage": 78.3,
+    "personnel_expense_percentage_rcl": 53.5
+  },
+  "per_capita_breakdown": {
+    "health": 1229.4,
+    "education": 1588.5,
+    "urbanism": 511.5,
+    "administration": 387.9,
+    "legislative": 165.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4268.3,
+      "health_per_capita": 958.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4584.5,
+      "health_per_capita": 1032.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4900.6,
+      "health_per_capita": 1106.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5164.1,
+      "health_per_capita": 1180.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5269.5,
+      "health_per_capita": 1229.4
+    }
+  ]
+}

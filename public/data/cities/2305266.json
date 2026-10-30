@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2305266",
+  "city_name": "Ibaretama",
+  "uf": "CE",
+  "population": 11956,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 60354979.41,
+    "total_expense": 60360252.19,
+    "own_revenue_percentage": 18.4,
+    "transfers_revenue_percentage": 81.6,
+    "personnel_expense_percentage_rcl": 49.3
+  },
+  "per_capita_breakdown": {
+    "health": 1237.6,
+    "education": 1219.1,
+    "urbanism": 689.9,
+    "administration": 541.7,
+    "legislative": 121.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4089.3,
+      "health_per_capita": 965.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4392.2,
+      "health_per_capita": 1039.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4695.1,
+      "health_per_capita": 1113.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4947.5,
+      "health_per_capita": 1188.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5048.5,
+      "health_per_capita": 1237.6
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4128302",
+  "city_name": "Uniflor",
+  "uf": "PR",
+  "population": 2136,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 9267899.77,
+    "total_expense": 9287964.08,
+    "own_revenue_percentage": 13.3,
+    "transfers_revenue_percentage": 86.7,
+    "personnel_expense_percentage_rcl": 51.9
+  },
+  "per_capita_breakdown": {
+    "health": 1043.2,
+    "education": 1343.5,
+    "urbanism": 678.5,
+    "administration": 484.3,
+    "legislative": 100.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3522.1,
+      "health_per_capita": 813.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3783.0,
+      "health_per_capita": 876.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4043.9,
+      "health_per_capita": 938.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4261.3,
+      "health_per_capita": 1001.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4348.3,
+      "health_per_capita": 1043.2
+    }
+  ]
+}

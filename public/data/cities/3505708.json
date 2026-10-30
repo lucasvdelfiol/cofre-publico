@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3505708",
+  "city_name": "Barueri",
+  "uf": "SP",
+  "population": 316473,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 1545267974.59,
+    "total_expense": 1486761465.79,
+    "own_revenue_percentage": 48.7,
+    "transfers_revenue_percentage": 51.3,
+    "personnel_expense_percentage_rcl": 46.9
+  },
+  "per_capita_breakdown": {
+    "health": 1149.9,
+    "education": 1148.6,
+    "urbanism": 556.7,
+    "administration": 375.6,
+    "legislative": 94.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3805.3,
+      "health_per_capita": 896.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4087.2,
+      "health_per_capita": 965.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4369.0,
+      "health_per_capita": 1034.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4603.9,
+      "health_per_capita": 1103.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4697.9,
+      "health_per_capita": 1149.9
+    }
+  ]
+}

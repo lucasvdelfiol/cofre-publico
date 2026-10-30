@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2206357",
+  "city_name": "Milton Brandão",
+  "uf": "PI",
+  "population": 6542,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 35924300.57,
+    "total_expense": 35595850.07,
+    "own_revenue_percentage": 16.3,
+    "transfers_revenue_percentage": 83.7,
+    "personnel_expense_percentage_rcl": 51.1
+  },
+  "per_capita_breakdown": {
+    "health": 1188.8,
+    "education": 1602.4,
+    "urbanism": 636.9,
+    "administration": 434.9,
+    "legislative": 116.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4407.3,
+      "health_per_capita": 927.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4733.8,
+      "health_per_capita": 998.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5060.2,
+      "health_per_capita": 1069.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5332.3,
+      "health_per_capita": 1141.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5441.1,
+      "health_per_capita": 1188.8
+    }
+  ]
+}

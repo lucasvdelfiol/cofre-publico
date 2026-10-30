@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4117271",
+  "city_name": "Nova Tebas",
+  "uf": "PR",
+  "population": 6848,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 30939171.92,
+    "total_expense": 30451090.06,
+    "own_revenue_percentage": 12.0,
+    "transfers_revenue_percentage": 88.0,
+    "personnel_expense_percentage_rcl": 50.3
+  },
+  "per_capita_breakdown": {
+    "health": 915.2,
+    "education": 1188.0,
+    "urbanism": 565.9,
+    "administration": 272.6,
+    "legislative": 113.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3601.8,
+      "health_per_capita": 713.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3868.6,
+      "health_per_capita": 768.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4135.4,
+      "health_per_capita": 823.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4357.8,
+      "health_per_capita": 878.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4446.7,
+      "health_per_capita": 915.2
+    }
+  ]
+}

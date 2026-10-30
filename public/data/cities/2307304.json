@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2307304",
+  "city_name": "Juazeiro do Norte",
+  "uf": "CE",
+  "population": 286120,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 1640011205.91,
+    "total_expense": 1639795821.69,
+    "own_revenue_percentage": 44.7,
+    "transfers_revenue_percentage": 55.3,
+    "personnel_expense_percentage_rcl": 49.1
+  },
+  "per_capita_breakdown": {
+    "health": 1286.5,
+    "education": 1499.2,
+    "urbanism": 508.9,
+    "administration": 660.5,
+    "legislative": 186.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4642.2,
+      "health_per_capita": 1003.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4986.1,
+      "health_per_capita": 1080.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5329.9,
+      "health_per_capita": 1157.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5616.5,
+      "health_per_capita": 1235.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5731.1,
+      "health_per_capita": 1286.5
+    }
+  ]
+}

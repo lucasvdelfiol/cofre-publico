@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2101004",
+  "city_name": "Arari",
+  "uf": "MA",
+  "population": 29472,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 129997302.15,
+    "total_expense": 126779771.81,
+    "own_revenue_percentage": 22.2,
+    "transfers_revenue_percentage": 77.8,
+    "personnel_expense_percentage_rcl": 51.6
+  },
+  "per_capita_breakdown": {
+    "health": 896.9,
+    "education": 1290.9,
+    "urbanism": 472.4,
+    "administration": 385.3,
+    "legislative": 137.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3484.4,
+      "health_per_capita": 699.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3742.5,
+      "health_per_capita": 753.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4000.6,
+      "health_per_capita": 807.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4215.7,
+      "health_per_capita": 861.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4301.7,
+      "health_per_capita": 896.9
+    }
+  ]
+}

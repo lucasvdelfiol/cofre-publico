@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4307054",
+  "city_name": "Ernestina",
+  "uf": "RS",
+  "population": 3034,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 15519995.06,
+    "total_expense": 15492849.33,
+    "own_revenue_percentage": 15.7,
+    "transfers_revenue_percentage": 84.3,
+    "personnel_expense_percentage_rcl": 49.2
+  },
+  "per_capita_breakdown": {
+    "health": 1109.0,
+    "education": 1472.3,
+    "urbanism": 600.7,
+    "administration": 536.1,
+    "legislative": 88.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4136.2,
+      "health_per_capita": 865.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4442.6,
+      "health_per_capita": 931.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4749.0,
+      "health_per_capita": 998.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5004.3,
+      "health_per_capita": 1064.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5106.4,
+      "health_per_capita": 1109.0
+    }
+  ]
+}

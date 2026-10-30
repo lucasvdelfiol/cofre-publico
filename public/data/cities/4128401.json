@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4128401",
+  "city_name": "Uraí",
+  "uf": "PR",
+  "population": 10406,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 49271049.33,
+    "total_expense": 48637471.25,
+    "own_revenue_percentage": 16.3,
+    "transfers_revenue_percentage": 83.7,
+    "personnel_expense_percentage_rcl": 45.6
+  },
+  "per_capita_breakdown": {
+    "health": 1108.5,
+    "education": 1258.2,
+    "urbanism": 464.6,
+    "administration": 477.6,
+    "legislative": 72.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3785.9,
+      "health_per_capita": 864.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4066.4,
+      "health_per_capita": 931.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4346.8,
+      "health_per_capita": 997.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4580.5,
+      "health_per_capita": 1064.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4674.0,
+      "health_per_capita": 1108.5
+    }
+  ]
+}

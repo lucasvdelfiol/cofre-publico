@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1507201",
+  "city_name": "São Domingos do Capim",
+  "uf": "PA",
+  "population": 30599,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 148845498.95,
+    "total_expense": 147191427.72,
+    "own_revenue_percentage": 26.6,
+    "transfers_revenue_percentage": 73.4,
+    "personnel_expense_percentage_rcl": 47.5
+  },
+  "per_capita_breakdown": {
+    "health": 973.3,
+    "education": 1170.8,
+    "urbanism": 681.1,
+    "administration": 566.4,
+    "legislative": 92.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3896.3,
+      "health_per_capita": 759.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4185.0,
+      "health_per_capita": 817.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4473.6,
+      "health_per_capita": 876.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4714.1,
+      "health_per_capita": 934.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4810.3,
+      "health_per_capita": 973.3
+    }
+  ]
+}

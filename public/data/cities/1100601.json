@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1100601",
+  "city_name": "Cacaulândia",
+  "uf": "RO",
+  "population": 4150,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 18757188.28,
+    "total_expense": 18607890.18,
+    "own_revenue_percentage": 13.0,
+    "transfers_revenue_percentage": 87.0,
+    "personnel_expense_percentage_rcl": 49.6
+  },
+  "per_capita_breakdown": {
+    "health": 1199.8,
+    "education": 1217.1,
+    "urbanism": 508.9,
+    "administration": 316.9,
+    "legislative": 96.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3631.9,
+      "health_per_capita": 935.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3900.9,
+      "health_per_capita": 1007.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4169.9,
+      "health_per_capita": 1079.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4394.1,
+      "health_per_capita": 1151.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4483.8,
+      "health_per_capita": 1199.8
+    }
+  ]
+}

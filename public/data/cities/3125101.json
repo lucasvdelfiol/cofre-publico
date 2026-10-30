@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3125101",
+  "city_name": "Extrema",
+  "uf": "MG",
+  "population": 53482,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 280184294.79,
+    "total_expense": 270065476.39,
+    "own_revenue_percentage": 29.6,
+    "transfers_revenue_percentage": 70.4,
+    "personnel_expense_percentage_rcl": 48.7
+  },
+  "per_capita_breakdown": {
+    "health": 1217.6,
+    "education": 1613.0,
+    "urbanism": 663.2,
+    "administration": 501.5,
+    "legislative": 135.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4090.3,
+      "health_per_capita": 949.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4393.2,
+      "health_per_capita": 1022.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4696.2,
+      "health_per_capita": 1095.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4948.7,
+      "health_per_capita": 1168.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5049.7,
+      "health_per_capita": 1217.6
+    }
+  ]
+}

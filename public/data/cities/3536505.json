@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3536505",
+  "city_name": "Paulínia",
+  "uf": "SP",
+  "population": 110537,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 538364569.43,
+    "total_expense": 539502521.87,
+    "own_revenue_percentage": 39.7,
+    "transfers_revenue_percentage": 60.3,
+    "personnel_expense_percentage_rcl": 50.1
+  },
+  "per_capita_breakdown": {
+    "health": 1234.1,
+    "education": 1276.1,
+    "urbanism": 583.6,
+    "administration": 518.8,
+    "legislative": 99.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3953.4,
+      "health_per_capita": 962.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4246.2,
+      "health_per_capita": 1036.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4539.1,
+      "health_per_capita": 1110.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4783.1,
+      "health_per_capita": 1184.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4880.7,
+      "health_per_capita": 1234.1
+    }
+  ]
+}

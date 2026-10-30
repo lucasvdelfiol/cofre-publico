@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3506706",
+  "city_name": "Boa Esperança do Sul",
+  "uf": "SP",
+  "population": 12978,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 69182093.5,
+    "total_expense": 68594988.51,
+    "own_revenue_percentage": 17.1,
+    "transfers_revenue_percentage": 82.9,
+    "personnel_expense_percentage_rcl": 50.1
+  },
+  "per_capita_breakdown": {
+    "health": 1241.5,
+    "education": 1549.4,
+    "urbanism": 790.2,
+    "administration": 453.9,
+    "legislative": 167.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4281.3,
+      "health_per_capita": 968.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4598.4,
+      "health_per_capita": 1042.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4915.5,
+      "health_per_capita": 1117.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5179.8,
+      "health_per_capita": 1191.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5285.5,
+      "health_per_capita": 1241.5
+    }
+  ]
+}

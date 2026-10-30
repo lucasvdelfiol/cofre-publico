@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2209450",
+  "city_name": "Santo Antônio dos Milagres",
+  "uf": "PI",
+  "population": 2138,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 9730929.48,
+    "total_expense": 9407428.17,
+    "own_revenue_percentage": 9.1,
+    "transfers_revenue_percentage": 90.9,
+    "personnel_expense_percentage_rcl": 51.4
+  },
+  "per_capita_breakdown": {
+    "health": 929.0,
+    "education": 1348.6,
+    "urbanism": 689.6,
+    "administration": 344.3,
+    "legislative": 113.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3564.1,
+      "health_per_capita": 724.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3828.1,
+      "health_per_capita": 780.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4092.1,
+      "health_per_capita": 836.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4312.1,
+      "health_per_capita": 891.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4400.1,
+      "health_per_capita": 929.0
+    }
+  ]
+}

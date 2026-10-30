@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1600402",
+  "city_name": "Mazagão",
+  "uf": "AP",
+  "population": 21924,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 104179567.34,
+    "total_expense": 101834108.18,
+    "own_revenue_percentage": 23.8,
+    "transfers_revenue_percentage": 76.2,
+    "personnel_expense_percentage_rcl": 50.9
+  },
+  "per_capita_breakdown": {
+    "health": 1108.9,
+    "education": 1376.1,
+    "urbanism": 399.1,
+    "administration": 397.0,
+    "legislative": 97.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3762.4,
+      "health_per_capita": 864.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4041.1,
+      "health_per_capita": 931.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4319.8,
+      "health_per_capita": 998.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4552.0,
+      "health_per_capita": 1064.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4644.9,
+      "health_per_capita": 1108.9
+    }
+  ]
+}

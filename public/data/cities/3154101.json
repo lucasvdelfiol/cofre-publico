@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3154101",
+  "city_name": "Recreio",
+  "uf": "MG",
+  "population": 11007,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 49188884.98,
+    "total_expense": 49376948.88,
+    "own_revenue_percentage": 8.2,
+    "transfers_revenue_percentage": 91.8,
+    "personnel_expense_percentage_rcl": 45.6
+  },
+  "per_capita_breakdown": {
+    "health": 1067.4,
+    "education": 1367.3,
+    "urbanism": 645.4,
+    "administration": 327.2,
+    "legislative": 110.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3633.7,
+      "health_per_capita": 832.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3902.8,
+      "health_per_capita": 896.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4172.0,
+      "health_per_capita": 960.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4396.3,
+      "health_per_capita": 1024.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4486.0,
+      "health_per_capita": 1067.4
+    }
+  ]
+}

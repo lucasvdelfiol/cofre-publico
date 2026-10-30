@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3507001",
+  "city_name": "Boituva",
+  "uf": "SP",
+  "population": 61081,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 315870237.18,
+    "total_expense": 309959672.42,
+    "own_revenue_percentage": 28.6,
+    "transfers_revenue_percentage": 71.4,
+    "personnel_expense_percentage_rcl": 45.3
+  },
+  "per_capita_breakdown": {
+    "health": 1262.9,
+    "education": 1450.1,
+    "urbanism": 712.9,
+    "administration": 575.6,
+    "legislative": 80.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4110.4,
+      "health_per_capita": 985.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4414.9,
+      "health_per_capita": 1060.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4719.4,
+      "health_per_capita": 1136.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4973.1,
+      "health_per_capita": 1212.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5074.6,
+      "health_per_capita": 1262.9
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1702406",
+  "city_name": "Arraias",
+  "uf": "TO",
+  "population": 10287,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 53474900.47,
+    "total_expense": 52126834.12,
+    "own_revenue_percentage": 10.9,
+    "transfers_revenue_percentage": 89.1,
+    "personnel_expense_percentage_rcl": 48.0
+  },
+  "per_capita_breakdown": {
+    "health": 1205.7,
+    "education": 1605.0,
+    "urbanism": 564.0,
+    "administration": 323.3,
+    "legislative": 86.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4104.5,
+      "health_per_capita": 940.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4408.6,
+      "health_per_capita": 1012.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4712.6,
+      "health_per_capita": 1085.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4966.0,
+      "health_per_capita": 1157.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5067.3,
+      "health_per_capita": 1205.7
+    }
+  ]
+}

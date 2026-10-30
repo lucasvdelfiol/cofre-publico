@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3170438",
+  "city_name": "União de Minas",
+  "uf": "MG",
+  "population": 3828,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 18226664.4,
+    "total_expense": 17867615.98,
+    "own_revenue_percentage": 11.4,
+    "transfers_revenue_percentage": 88.6,
+    "personnel_expense_percentage_rcl": 49.3
+  },
+  "per_capita_breakdown": {
+    "health": 1156.8,
+    "education": 1300.5,
+    "urbanism": 466.7,
+    "administration": 436.8,
+    "legislative": 83.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3780.8,
+      "health_per_capita": 902.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4060.8,
+      "health_per_capita": 971.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4340.9,
+      "health_per_capita": 1041.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4574.2,
+      "health_per_capita": 1110.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4667.6,
+      "health_per_capita": 1156.8
+    }
+  ]
+}

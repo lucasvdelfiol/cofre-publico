@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2208551",
+  "city_name": "Porto Alegre do Piauí",
+  "uf": "PI",
+  "population": 2364,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 10415886.2,
+    "total_expense": 10493187.4,
+    "own_revenue_percentage": 15.8,
+    "transfers_revenue_percentage": 84.2,
+    "personnel_expense_percentage_rcl": 50.5
+  },
+  "per_capita_breakdown": {
+    "health": 924.3,
+    "education": 1102.7,
+    "urbanism": 586.1,
+    "administration": 348.6,
+    "legislative": 78.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3595.3,
+      "health_per_capita": 721.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3861.7,
+      "health_per_capita": 776.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4128.0,
+      "health_per_capita": 831.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4349.9,
+      "health_per_capita": 887.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4438.7,
+      "health_per_capita": 924.3
+    }
+  ]
+}

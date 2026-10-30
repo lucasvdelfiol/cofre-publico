@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3132107",
+  "city_name": "Itacarambi",
+  "uf": "MG",
+  "population": 17208,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 84497505.62,
+    "total_expense": 83918940.49,
+    "own_revenue_percentage": 20.9,
+    "transfers_revenue_percentage": 79.1,
+    "personnel_expense_percentage_rcl": 47.3
+  },
+  "per_capita_breakdown": {
+    "health": 1232.8,
+    "education": 1296.1,
+    "urbanism": 435.7,
+    "administration": 532.7,
+    "legislative": 113.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3950.1,
+      "health_per_capita": 961.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4242.7,
+      "health_per_capita": 1035.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4535.3,
+      "health_per_capita": 1109.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4779.2,
+      "health_per_capita": 1183.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4876.7,
+      "health_per_capita": 1232.8
+    }
+  ]
+}

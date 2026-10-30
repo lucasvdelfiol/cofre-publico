@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4113734",
+  "city_name": "Luiziana",
+  "uf": "PR",
+  "population": 6690,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 36314821.76,
+    "total_expense": 36447394.8,
+    "own_revenue_percentage": 20.8,
+    "transfers_revenue_percentage": 79.2,
+    "personnel_expense_percentage_rcl": 47.6
+  },
+  "per_capita_breakdown": {
+    "health": 1432.6,
+    "education": 1381.1,
+    "urbanism": 562.7,
+    "administration": 586.5,
+    "legislative": 125.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4412.9,
+      "health_per_capita": 1117.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4739.8,
+      "health_per_capita": 1203.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5066.6,
+      "health_per_capita": 1289.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5339.0,
+      "health_per_capita": 1375.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5448.0,
+      "health_per_capita": 1432.6
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3170305",
+  "city_name": "Umburatiba",
+  "uf": "MG",
+  "population": 2684,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 12370167.82,
+    "total_expense": 12186753.1,
+    "own_revenue_percentage": 19.9,
+    "transfers_revenue_percentage": 80.1,
+    "personnel_expense_percentage_rcl": 47.7
+  },
+  "per_capita_breakdown": {
+    "health": 981.6,
+    "education": 1305.0,
+    "urbanism": 702.4,
+    "administration": 500.9,
+    "legislative": 90.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3677.8,
+      "health_per_capita": 765.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3950.2,
+      "health_per_capita": 824.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4222.7,
+      "health_per_capita": 883.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4449.7,
+      "health_per_capita": 942.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4540.5,
+      "health_per_capita": 981.6
+    }
+  ]
+}

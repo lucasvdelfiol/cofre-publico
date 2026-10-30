@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3104007",
+  "city_name": "Araxá",
+  "uf": "MG",
+  "population": 111691,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 570827165.7,
+    "total_expense": 551696565.3,
+    "own_revenue_percentage": 39.1,
+    "transfers_revenue_percentage": 60.9,
+    "personnel_expense_percentage_rcl": 50.4
+  },
+  "per_capita_breakdown": {
+    "health": 1049.5,
+    "education": 1561.8,
+    "urbanism": 585.2,
+    "administration": 469.3,
+    "legislative": 162.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4001.0,
+      "health_per_capita": 818.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4297.4,
+      "health_per_capita": 881.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4593.7,
+      "health_per_capita": 944.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4840.7,
+      "health_per_capita": 1007.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4939.5,
+      "health_per_capita": 1049.5
+    }
+  ]
+}

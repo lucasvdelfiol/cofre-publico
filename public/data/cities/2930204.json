@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2930204",
+  "city_name": "Sento Sé",
+  "uf": "BA",
+  "population": 38154,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 161175097.26,
+    "total_expense": 162529254.59,
+    "own_revenue_percentage": 25.9,
+    "transfers_revenue_percentage": 74.1,
+    "personnel_expense_percentage_rcl": 50.0
+  },
+  "per_capita_breakdown": {
+    "health": 1146.9,
+    "education": 1235.9,
+    "urbanism": 632.6,
+    "administration": 496.4,
+    "legislative": 89.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3450.4,
+      "health_per_capita": 894.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3706.0,
+      "health_per_capita": 963.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3961.6,
+      "health_per_capita": 1032.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4174.6,
+      "health_per_capita": 1101.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4259.8,
+      "health_per_capita": 1146.9
+    }
+  ]
+}

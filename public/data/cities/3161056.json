@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3161056",
+  "city_name": "São Félix de Minas",
+  "uf": "MG",
+  "population": 3200,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 15272147.86,
+    "total_expense": 14890837.57,
+    "own_revenue_percentage": 11.9,
+    "transfers_revenue_percentage": 88.1,
+    "personnel_expense_percentage_rcl": 51.3
+  },
+  "per_capita_breakdown": {
+    "health": 961.7,
+    "education": 1478.7,
+    "urbanism": 617.5,
+    "administration": 408.2,
+    "legislative": 85.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3769.3,
+      "health_per_capita": 750.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4048.5,
+      "health_per_capita": 807.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4327.7,
+      "health_per_capita": 865.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4560.3,
+      "health_per_capita": 923.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4653.4,
+      "health_per_capita": 961.7
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2405108",
+  "city_name": "Jandaíra",
+  "uf": "RN",
+  "population": 6562,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 29249215.23,
+    "total_expense": 29030475.24,
+    "own_revenue_percentage": 12.1,
+    "transfers_revenue_percentage": 87.9,
+    "personnel_expense_percentage_rcl": 48.0
+  },
+  "per_capita_breakdown": {
+    "health": 1166.9,
+    "education": 1399.8,
+    "urbanism": 553.6,
+    "administration": 444.7,
+    "legislative": 134.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3583.4,
+      "health_per_capita": 910.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3848.9,
+      "health_per_capita": 980.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4114.3,
+      "health_per_capita": 1050.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4335.5,
+      "health_per_capita": 1120.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4424.0,
+      "health_per_capita": 1166.9
+    }
+  ]
+}

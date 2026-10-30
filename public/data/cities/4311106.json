@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4311106",
+  "city_name": "Jaguari",
+  "uf": "RS",
+  "population": 10579,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 54563442.81,
+    "total_expense": 54379109.87,
+    "own_revenue_percentage": 20.6,
+    "transfers_revenue_percentage": 79.4,
+    "personnel_expense_percentage_rcl": 52.7
+  },
+  "per_capita_breakdown": {
+    "health": 1144.2,
+    "education": 1407.2,
+    "urbanism": 811.8,
+    "administration": 416.7,
+    "legislative": 141.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4163.6,
+      "health_per_capita": 892.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4472.1,
+      "health_per_capita": 961.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4780.5,
+      "health_per_capita": 1029.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5037.5,
+      "health_per_capita": 1098.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5140.3,
+      "health_per_capita": 1144.2
+    }
+  ]
+}

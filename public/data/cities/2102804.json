@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2102804",
+  "city_name": "Carolina",
+  "uf": "MA",
+  "population": 24062,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 116944076.16,
+    "total_expense": 116707322.05,
+    "own_revenue_percentage": 28.1,
+    "transfers_revenue_percentage": 71.9,
+    "personnel_expense_percentage_rcl": 46.6
+  },
+  "per_capita_breakdown": {
+    "health": 1130.7,
+    "education": 1487.2,
+    "urbanism": 510.4,
+    "administration": 533.5,
+    "legislative": 134.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3928.7,
+      "health_per_capita": 881.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4219.8,
+      "health_per_capita": 949.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4510.8,
+      "health_per_capita": 1017.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4753.3,
+      "health_per_capita": 1085.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4850.3,
+      "health_per_capita": 1130.7
+    }
+  ]
+}

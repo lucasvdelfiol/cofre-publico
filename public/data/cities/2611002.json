@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2611002",
+  "city_name": "Petrolândia",
+  "uf": "PE",
+  "population": 34161,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 153860373.73,
+    "total_expense": 151949532.44,
+    "own_revenue_percentage": 26.3,
+    "transfers_revenue_percentage": 73.7,
+    "personnel_expense_percentage_rcl": 47.8
+  },
+  "per_capita_breakdown": {
+    "health": 932.4,
+    "education": 1401.0,
+    "urbanism": 447.3,
+    "administration": 515.7,
+    "legislative": 90.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3602.9,
+      "health_per_capita": 727.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3869.8,
+      "health_per_capita": 783.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4136.6,
+      "health_per_capita": 839.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4359.0,
+      "health_per_capita": 895.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4448.0,
+      "health_per_capita": 932.4
+    }
+  ]
+}

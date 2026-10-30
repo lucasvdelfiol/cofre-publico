@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1721307",
+  "city_name": "Tupiratins",
+  "uf": "TO",
+  "population": 1874,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 10137765.35,
+    "total_expense": 9879184.61,
+    "own_revenue_percentage": 9.5,
+    "transfers_revenue_percentage": 90.5,
+    "personnel_expense_percentage_rcl": 46.8
+  },
+  "per_capita_breakdown": {
+    "health": 1420.6,
+    "education": 1360.3,
+    "urbanism": 568.6,
+    "administration": 511.8,
+    "legislative": 128.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4270.1,
+      "health_per_capita": 1108.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4586.4,
+      "health_per_capita": 1193.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4902.7,
+      "health_per_capita": 1278.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5166.3,
+      "health_per_capita": 1363.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5271.7,
+      "health_per_capita": 1420.6
+    }
+  ]
+}

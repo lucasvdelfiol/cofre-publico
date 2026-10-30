@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4311809",
+  "city_name": "Marau",
+  "uf": "RS",
+  "population": 45124,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 224120216.94,
+    "total_expense": 220741307.12,
+    "own_revenue_percentage": 21.8,
+    "transfers_revenue_percentage": 78.2,
+    "personnel_expense_percentage_rcl": 51.0
+  },
+  "per_capita_breakdown": {
+    "health": 1301.6,
+    "education": 1229.0,
+    "urbanism": 737.8,
+    "administration": 417.1,
+    "legislative": 98.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3962.4,
+      "health_per_capita": 1015.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4256.0,
+      "health_per_capita": 1093.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4549.5,
+      "health_per_capita": 1171.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4794.1,
+      "health_per_capita": 1249.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4891.9,
+      "health_per_capita": 1301.6
+    }
+  ]
+}

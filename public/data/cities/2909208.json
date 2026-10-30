@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2909208",
+  "city_name": "Coronel João Sá",
+  "uf": "BA",
+  "population": 17056,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 83150671.4,
+    "total_expense": 81357723.19,
+    "own_revenue_percentage": 11.5,
+    "transfers_revenue_percentage": 88.5,
+    "personnel_expense_percentage_rcl": 51.1
+  },
+  "per_capita_breakdown": {
+    "health": 1225.4,
+    "education": 1491.0,
+    "urbanism": 660.1,
+    "administration": 444.0,
+    "legislative": 125.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3863.7,
+      "health_per_capita": 955.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4149.9,
+      "health_per_capita": 1029.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4436.1,
+      "health_per_capita": 1102.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4674.6,
+      "health_per_capita": 1176.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4770.0,
+      "health_per_capita": 1225.4
+    }
+  ]
+}

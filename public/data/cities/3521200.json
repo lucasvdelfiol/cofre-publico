@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3521200",
+  "city_name": "Iporanga",
+  "uf": "SP",
+  "population": 4046,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 20309832.74,
+    "total_expense": 20120684.33,
+    "own_revenue_percentage": 21.2,
+    "transfers_revenue_percentage": 78.8,
+    "personnel_expense_percentage_rcl": 53.7
+  },
+  "per_capita_breakdown": {
+    "health": 1191.3,
+    "education": 1339.7,
+    "urbanism": 454.3,
+    "administration": 521.6,
+    "legislative": 138.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4028.1,
+      "health_per_capita": 929.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4326.5,
+      "health_per_capita": 1000.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4624.9,
+      "health_per_capita": 1072.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4873.5,
+      "health_per_capita": 1143.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4973.0,
+      "health_per_capita": 1191.3
+    }
+  ]
+}

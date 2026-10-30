@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2209104",
+  "city_name": "Santa Cruz do Piauí",
+  "uf": "PI",
+  "population": 5831,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 26419957.9,
+    "total_expense": 26373390.0,
+    "own_revenue_percentage": 18.8,
+    "transfers_revenue_percentage": 81.2,
+    "personnel_expense_percentage_rcl": 45.6
+  },
+  "per_capita_breakdown": {
+    "health": 1007.3,
+    "education": 1211.9,
+    "urbanism": 484.6,
+    "administration": 524.2,
+    "legislative": 103.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3663.6,
+      "health_per_capita": 785.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3935.0,
+      "health_per_capita": 846.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4206.4,
+      "health_per_capita": 906.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4432.5,
+      "health_per_capita": 967.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4523.0,
+      "health_per_capita": 1007.3
+    }
+  ]
+}

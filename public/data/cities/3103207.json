@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3103207",
+  "city_name": "Araçaí",
+  "uf": "MG",
+  "population": 2181,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 11144817.98,
+    "total_expense": 11110617.24,
+    "own_revenue_percentage": 11.8,
+    "transfers_revenue_percentage": 88.2,
+    "personnel_expense_percentage_rcl": 45.8
+  },
+  "per_capita_breakdown": {
+    "health": 1101.8,
+    "education": 1427.7,
+    "urbanism": 800.3,
+    "administration": 464.4,
+    "legislative": 164.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4126.4,
+      "health_per_capita": 859.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4432.0,
+      "health_per_capita": 925.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4737.7,
+      "health_per_capita": 991.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4992.4,
+      "health_per_capita": 1057.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5094.3,
+      "health_per_capita": 1101.8
+    }
+  ]
+}

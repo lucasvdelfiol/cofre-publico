@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3121209",
+  "city_name": "Delfinópolis",
+  "uf": "MG",
+  "population": 8393,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 40784924.39,
+    "total_expense": 40618122.54,
+    "own_revenue_percentage": 11.5,
+    "transfers_revenue_percentage": 88.5,
+    "personnel_expense_percentage_rcl": 52.6
+  },
+  "per_capita_breakdown": {
+    "health": 1157.6,
+    "education": 1368.4,
+    "urbanism": 540.7,
+    "administration": 552.8,
+    "legislative": 102.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3920.0,
+      "health_per_capita": 902.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4210.4,
+      "health_per_capita": 972.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4500.7,
+      "health_per_capita": 1041.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4742.7,
+      "health_per_capita": 1111.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4839.5,
+      "health_per_capita": 1157.6
+    }
+  ]
+}

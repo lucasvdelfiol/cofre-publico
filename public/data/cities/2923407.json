@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2923407",
+  "city_name": "Palmas de Monte Alto",
+  "uf": "BA",
+  "population": 20078,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 91108692.48,
+    "total_expense": 90994825.71,
+    "own_revenue_percentage": 26.0,
+    "transfers_revenue_percentage": 74.0,
+    "personnel_expense_percentage_rcl": 47.6
+  },
+  "per_capita_breakdown": {
+    "health": 1098.3,
+    "education": 1421.4,
+    "urbanism": 543.7,
+    "administration": 362.1,
+    "legislative": 117.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3671.0,
+      "health_per_capita": 856.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3942.9,
+      "health_per_capita": 922.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4214.9,
+      "health_per_capita": 988.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4441.5,
+      "health_per_capita": 1054.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4532.1,
+      "health_per_capita": 1098.3
+    }
+  ]
+}

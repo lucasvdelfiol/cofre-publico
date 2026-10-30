@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3115458",
+  "city_name": "Catuji",
+  "uf": "MG",
+  "population": 7030,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 36869459.55,
+    "total_expense": 36583033.88,
+    "own_revenue_percentage": 17.8,
+    "transfers_revenue_percentage": 82.2,
+    "personnel_expense_percentage_rcl": 53.7
+  },
+  "per_capita_breakdown": {
+    "health": 1371.1,
+    "education": 1551.2,
+    "urbanism": 637.7,
+    "administration": 500.4,
+    "legislative": 118.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4215.1,
+      "health_per_capita": 1069.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4527.3,
+      "health_per_capita": 1151.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4839.5,
+      "health_per_capita": 1234.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5099.7,
+      "health_per_capita": 1316.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5203.8,
+      "health_per_capita": 1371.1
+    }
+  ]
+}

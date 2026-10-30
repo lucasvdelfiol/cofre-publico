@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2800704",
+  "city_name": "Brejo Grande",
+  "uf": "SE",
+  "population": 7841,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 36392205.12,
+    "total_expense": 36751159.44,
+    "own_revenue_percentage": 16.3,
+    "transfers_revenue_percentage": 83.7,
+    "personnel_expense_percentage_rcl": 49.4
+  },
+  "per_capita_breakdown": {
+    "health": 1179.7,
+    "education": 1473.4,
+    "urbanism": 531.4,
+    "administration": 308.3,
+    "legislative": 109.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3796.6,
+      "health_per_capita": 920.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4077.8,
+      "health_per_capita": 990.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4359.0,
+      "health_per_capita": 1061.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4593.4,
+      "health_per_capita": 1132.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4687.1,
+      "health_per_capita": 1179.7
+    }
+  ]
+}

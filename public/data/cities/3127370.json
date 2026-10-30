@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3127370",
+  "city_name": "Goiabeira",
+  "uf": "MG",
+  "population": 2830,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 14039381.55,
+    "total_expense": 13702970.79,
+    "own_revenue_percentage": 9.1,
+    "transfers_revenue_percentage": 90.9,
+    "personnel_expense_percentage_rcl": 49.6
+  },
+  "per_capita_breakdown": {
+    "health": 1079.4,
+    "education": 1434.0,
+    "urbanism": 526.6,
+    "administration": 452.5,
+    "legislative": 157.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3922.0,
+      "health_per_capita": 841.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4212.5,
+      "health_per_capita": 906.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4503.1,
+      "health_per_capita": 971.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4745.2,
+      "health_per_capita": 1036.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4842.0,
+      "health_per_capita": 1079.4
+    }
+  ]
+}

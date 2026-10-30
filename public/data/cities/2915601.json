@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2915601",
+  "city_name": "Itamaraju",
+  "uf": "BA",
+  "population": 59605,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 265055335.16,
+    "total_expense": 256701235.9,
+    "own_revenue_percentage": 30.1,
+    "transfers_revenue_percentage": 69.9,
+    "personnel_expense_percentage_rcl": 49.4
+  },
+  "per_capita_breakdown": {
+    "health": 1126.3,
+    "education": 1161.0,
+    "urbanism": 668.0,
+    "administration": 326.1,
+    "legislative": 95.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3488.4,
+      "health_per_capita": 878.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3746.8,
+      "health_per_capita": 946.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4005.2,
+      "health_per_capita": 1013.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4220.6,
+      "health_per_capita": 1081.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4306.7,
+      "health_per_capita": 1126.3
+    }
+  ]
+}

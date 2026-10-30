@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3544905",
+  "city_name": "Sales Oliveira",
+  "uf": "SP",
+  "population": 11411,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 52956361.28,
+    "total_expense": 51262091.22,
+    "own_revenue_percentage": 17.3,
+    "transfers_revenue_percentage": 82.7,
+    "personnel_expense_percentage_rcl": 50.4
+  },
+  "per_capita_breakdown": {
+    "health": 1143.4,
+    "education": 1170.1,
+    "urbanism": 683.3,
+    "administration": 346.8,
+    "legislative": 122.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3638.8,
+      "health_per_capita": 891.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3908.3,
+      "health_per_capita": 960.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4177.8,
+      "health_per_capita": 1029.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4402.5,
+      "health_per_capita": 1097.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4492.3,
+      "health_per_capita": 1143.4
+    }
+  ]
+}

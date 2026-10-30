@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1100288",
+  "city_name": "Rolim de Moura",
+  "uf": "RO",
+  "population": 56406,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 282780843.24,
+    "total_expense": 275984681.68,
+    "own_revenue_percentage": 41.2,
+    "transfers_revenue_percentage": 58.8,
+    "personnel_expense_percentage_rcl": 53.0
+  },
+  "per_capita_breakdown": {
+    "health": 1240.3,
+    "education": 1180.7,
+    "urbanism": 544.9,
+    "administration": 407.5,
+    "legislative": 131.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3963.2,
+      "health_per_capita": 967.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4256.7,
+      "health_per_capita": 1041.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4550.3,
+      "health_per_capita": 1116.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4794.9,
+      "health_per_capita": 1190.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4892.8,
+      "health_per_capita": 1240.3
+    }
+  ]
+}

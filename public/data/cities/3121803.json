@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3121803",
+  "city_name": "Dionísio",
+  "uf": "MG",
+  "population": 6847,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 38906312.72,
+    "total_expense": 37462860.27,
+    "own_revenue_percentage": 15.7,
+    "transfers_revenue_percentage": 84.3,
+    "personnel_expense_percentage_rcl": 48.3
+  },
+  "per_capita_breakdown": {
+    "health": 1299.0,
+    "education": 1637.1,
+    "urbanism": 813.9,
+    "administration": 448.2,
+    "legislative": 175.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4431.8,
+      "health_per_capita": 1013.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4760.1,
+      "health_per_capita": 1091.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5088.4,
+      "health_per_capita": 1169.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5362.0,
+      "health_per_capita": 1247.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5471.4,
+      "health_per_capita": 1299.0
+    }
+  ]
+}

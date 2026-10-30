@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2802700",
+  "city_name": "Ilha das Flores",
+  "uf": "SE",
+  "population": 8321,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 37654539.54,
+    "total_expense": 37816265.28,
+    "own_revenue_percentage": 10.2,
+    "transfers_revenue_percentage": 89.8,
+    "personnel_expense_percentage_rcl": 48.0
+  },
+  "per_capita_breakdown": {
+    "health": 1230.4,
+    "education": 1328.3,
+    "urbanism": 538.8,
+    "administration": 485.9,
+    "legislative": 151.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3681.2,
+      "health_per_capita": 959.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3953.9,
+      "health_per_capita": 1033.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4226.6,
+      "health_per_capita": 1107.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4453.8,
+      "health_per_capita": 1181.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4544.7,
+      "health_per_capita": 1230.4
+    }
+  ]
+}

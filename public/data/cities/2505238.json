@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2505238",
+  "city_name": "Cuité de Mamanguape",
+  "uf": "PB",
+  "population": 6251,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 31158366.3,
+    "total_expense": 30983295.12,
+    "own_revenue_percentage": 14.2,
+    "transfers_revenue_percentage": 85.8,
+    "personnel_expense_percentage_rcl": 50.0
+  },
+  "per_capita_breakdown": {
+    "health": 1011.3,
+    "education": 1369.1,
+    "urbanism": 407.2,
+    "administration": 342.4,
+    "legislative": 140.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4014.8,
+      "health_per_capita": 788.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4312.2,
+      "health_per_capita": 849.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4609.5,
+      "health_per_capita": 910.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4857.4,
+      "health_per_capita": 970.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4956.5,
+      "health_per_capita": 1011.3
+    }
+  ]
+}

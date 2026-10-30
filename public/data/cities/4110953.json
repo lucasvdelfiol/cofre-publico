@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4110953",
+  "city_name": "Itaipulândia",
+  "uf": "PR",
+  "population": 11485,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 53039822.78,
+    "total_expense": 52813342.28,
+    "own_revenue_percentage": 12.9,
+    "transfers_revenue_percentage": 87.1,
+    "personnel_expense_percentage_rcl": 46.0
+  },
+  "per_capita_breakdown": {
+    "health": 955.3,
+    "education": 1337.6,
+    "urbanism": 708.9,
+    "administration": 331.3,
+    "legislative": 111.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3724.8,
+      "health_per_capita": 745.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4000.7,
+      "health_per_capita": 802.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4276.6,
+      "health_per_capita": 859.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4506.5,
+      "health_per_capita": 917.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4598.5,
+      "health_per_capita": 955.3
+    }
+  ]
+}

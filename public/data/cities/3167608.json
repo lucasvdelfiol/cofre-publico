@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3167608",
+  "city_name": "Simonésia",
+  "uf": "MG",
+  "population": 19750,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 100288148.13,
+    "total_expense": 97001474.42,
+    "own_revenue_percentage": 8.1,
+    "transfers_revenue_percentage": 91.9,
+    "personnel_expense_percentage_rcl": 48.7
+  },
+  "per_capita_breakdown": {
+    "health": 1192.7,
+    "education": 1284.1,
+    "urbanism": 614.8,
+    "administration": 449.9,
+    "legislative": 129.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3978.3,
+      "health_per_capita": 930.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4273.0,
+      "health_per_capita": 1001.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4567.7,
+      "health_per_capita": 1073.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4813.3,
+      "health_per_capita": 1145.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4911.5,
+      "health_per_capita": 1192.7
+    }
+  ]
+}

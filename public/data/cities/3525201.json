@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3525201",
+  "city_name": "Jarinu",
+  "uf": "SP",
+  "population": 37535,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 181842233.33,
+    "total_expense": 179305187.69,
+    "own_revenue_percentage": 25.4,
+    "transfers_revenue_percentage": 74.6,
+    "personnel_expense_percentage_rcl": 53.3
+  },
+  "per_capita_breakdown": {
+    "health": 1166.2,
+    "education": 1392.9,
+    "urbanism": 435.5,
+    "administration": 293.2,
+    "legislative": 83.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3869.4,
+      "health_per_capita": 909.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4156.0,
+      "health_per_capita": 979.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4442.6,
+      "health_per_capita": 1049.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4681.5,
+      "health_per_capita": 1119.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4777.0,
+      "health_per_capita": 1166.2
+    }
+  ]
+}

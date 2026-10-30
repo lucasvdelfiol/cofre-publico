@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2106631",
+  "city_name": "Matões do Norte",
+  "uf": "MA",
+  "population": 17432,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 86183501.24,
+    "total_expense": 85697246.89,
+    "own_revenue_percentage": 16.1,
+    "transfers_revenue_percentage": 83.9,
+    "personnel_expense_percentage_rcl": 50.2
+  },
+  "per_capita_breakdown": {
+    "health": 1024.5,
+    "education": 1368.2,
+    "urbanism": 400.1,
+    "administration": 336.4,
+    "legislative": 131.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3982.0,
+      "health_per_capita": 799.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4277.0,
+      "health_per_capita": 860.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4572.0,
+      "health_per_capita": 922.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4817.8,
+      "health_per_capita": 983.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4916.1,
+      "health_per_capita": 1024.5
+    }
+  ]
+}

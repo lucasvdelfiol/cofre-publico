@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2400703",
+  "city_name": "Alto do Rodrigues",
+  "uf": "RN",
+  "population": 12484,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 60315805.54,
+    "total_expense": 58394102.48,
+    "own_revenue_percentage": 14.9,
+    "transfers_revenue_percentage": 85.1,
+    "personnel_expense_percentage_rcl": 45.7
+  },
+  "per_capita_breakdown": {
+    "health": 1289.9,
+    "education": 1474.8,
+    "urbanism": 700.0,
+    "administration": 342.9,
+    "legislative": 134.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3788.8,
+      "health_per_capita": 1006.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4069.4,
+      "health_per_capita": 1083.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4350.1,
+      "health_per_capita": 1160.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4583.9,
+      "health_per_capita": 1238.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4677.5,
+      "health_per_capita": 1289.9
+    }
+  ]
+}

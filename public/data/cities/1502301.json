@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1502301",
+  "city_name": "Capitão Poço",
+  "uf": "PA",
+  "population": 56506,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 249760682.81,
+    "total_expense": 244072119.07,
+    "own_revenue_percentage": 38.2,
+    "transfers_revenue_percentage": 61.8,
+    "personnel_expense_percentage_rcl": 50.3
+  },
+  "per_capita_breakdown": {
+    "health": 1121.2,
+    "education": 1042.8,
+    "urbanism": 497.5,
+    "administration": 318.0,
+    "legislative": 112.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3498.7,
+      "health_per_capita": 874.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3757.9,
+      "health_per_capita": 941.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4017.0,
+      "health_per_capita": 1009.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4233.0,
+      "health_per_capita": 1076.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4319.4,
+      "health_per_capita": 1121.2
+    }
+  ]
+}

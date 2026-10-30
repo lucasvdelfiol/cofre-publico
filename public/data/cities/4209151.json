@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4209151",
+  "city_name": "José Boiteux",
+  "uf": "SC",
+  "population": 5985,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 27536248.82,
+    "total_expense": 27734773.75,
+    "own_revenue_percentage": 12.7,
+    "transfers_revenue_percentage": 87.3,
+    "personnel_expense_percentage_rcl": 51.7
+  },
+  "per_capita_breakdown": {
+    "health": 1027.8,
+    "education": 1197.2,
+    "urbanism": 430.4,
+    "administration": 337.1,
+    "legislative": 148.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3753.5,
+      "health_per_capita": 801.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4031.6,
+      "health_per_capita": 863.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4309.6,
+      "health_per_capita": 925.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4541.3,
+      "health_per_capita": 986.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4634.0,
+      "health_per_capita": 1027.8
+    }
+  ]
+}

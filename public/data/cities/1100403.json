@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1100403",
+  "city_name": "Alto Paraíso",
+  "uf": "RO",
+  "population": 16320,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 76166233.95,
+    "total_expense": 76670362.86,
+    "own_revenue_percentage": 21.1,
+    "transfers_revenue_percentage": 78.9,
+    "personnel_expense_percentage_rcl": 50.7
+  },
+  "per_capita_breakdown": {
+    "health": 1019.3,
+    "education": 1495.8,
+    "urbanism": 581.1,
+    "administration": 383.3,
+    "legislative": 145.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3805.3,
+      "health_per_capita": 795.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4087.2,
+      "health_per_capita": 856.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4369.0,
+      "health_per_capita": 917.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4603.9,
+      "health_per_capita": 978.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4697.9,
+      "health_per_capita": 1019.3
+    }
+  ]
+}

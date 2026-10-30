@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5205208",
+  "city_name": "Caturaí",
+  "uf": "GO",
+  "population": 5184,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 27771417.05,
+    "total_expense": 27221951.01,
+    "own_revenue_percentage": 20.2,
+    "transfers_revenue_percentage": 79.8,
+    "personnel_expense_percentage_rcl": 47.3
+  },
+  "per_capita_breakdown": {
+    "health": 1117.5,
+    "education": 1336.0,
+    "urbanism": 826.6,
+    "administration": 567.7,
+    "legislative": 124.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4253.4,
+      "health_per_capita": 871.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4568.5,
+      "health_per_capita": 938.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4883.5,
+      "health_per_capita": 1005.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5146.1,
+      "health_per_capita": 1072.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5251.1,
+      "health_per_capita": 1117.5
+    }
+  ]
+}

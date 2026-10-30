@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5213756",
+  "city_name": "Montividiu",
+  "uf": "GO",
+  "population": 12521,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 65405421.81,
+    "total_expense": 65043204.87,
+    "own_revenue_percentage": 14.3,
+    "transfers_revenue_percentage": 85.7,
+    "personnel_expense_percentage_rcl": 48.9
+  },
+  "per_capita_breakdown": {
+    "health": 1096.1,
+    "education": 1435.0,
+    "urbanism": 609.9,
+    "administration": 587.5,
+    "legislative": 86.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4207.7,
+      "health_per_capita": 855.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4519.4,
+      "health_per_capita": 920.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4831.1,
+      "health_per_capita": 986.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5090.8,
+      "health_per_capita": 1052.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5194.7,
+      "health_per_capita": 1096.1
+    }
+  ]
+}

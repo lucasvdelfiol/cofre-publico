@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2509008",
+  "city_name": "Manaíra",
+  "uf": "PB",
+  "population": 10434,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 56301482.79,
+    "total_expense": 55403863.08,
+    "own_revenue_percentage": 14.1,
+    "transfers_revenue_percentage": 85.9,
+    "personnel_expense_percentage_rcl": 53.6
+  },
+  "per_capita_breakdown": {
+    "health": 1068.5,
+    "education": 1687.6,
+    "urbanism": 849.5,
+    "administration": 597.5,
+    "legislative": 82.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4301.0,
+      "health_per_capita": 833.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4619.6,
+      "health_per_capita": 897.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4938.2,
+      "health_per_capita": 961.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5203.7,
+      "health_per_capita": 1025.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5309.9,
+      "health_per_capita": 1068.5
+    }
+  ]
+}

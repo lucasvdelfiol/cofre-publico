@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2408953",
+  "city_name": "Rio do Fogo",
+  "uf": "RN",
+  "population": 10351,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 47574589.86,
+    "total_expense": 47642236.24,
+    "own_revenue_percentage": 19.7,
+    "transfers_revenue_percentage": 80.3,
+    "personnel_expense_percentage_rcl": 51.8
+  },
+  "per_capita_breakdown": {
+    "health": 1043.6,
+    "education": 1196.6,
+    "urbanism": 657.1,
+    "administration": 387.2,
+    "legislative": 154.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3728.2,
+      "health_per_capita": 814.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4004.3,
+      "health_per_capita": 876.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4280.5,
+      "health_per_capita": 939.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4510.6,
+      "health_per_capita": 1001.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4602.7,
+      "health_per_capita": 1043.6
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3138302",
+  "city_name": "Leandro Ferreira",
+  "uf": "MG",
+  "population": 3199,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 16767638.06,
+    "total_expense": 16509676.76,
+    "own_revenue_percentage": 13.1,
+    "transfers_revenue_percentage": 86.9,
+    "personnel_expense_percentage_rcl": 53.2
+  },
+  "per_capita_breakdown": {
+    "health": 1082.2,
+    "education": 1482.8,
+    "urbanism": 640.4,
+    "administration": 363.6,
+    "legislative": 140.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4180.3,
+      "health_per_capita": 844.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4490.0,
+      "health_per_capita": 909.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4799.6,
+      "health_per_capita": 974.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5057.7,
+      "health_per_capita": 1038.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5160.9,
+      "health_per_capita": 1082.2
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4122701",
+  "city_name": "Sabáudia",
+  "uf": "PR",
+  "population": 8822,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 40803054.11,
+    "total_expense": 41167281.25,
+    "own_revenue_percentage": 21.9,
+    "transfers_revenue_percentage": 78.1,
+    "personnel_expense_percentage_rcl": 48.4
+  },
+  "per_capita_breakdown": {
+    "health": 1183.3,
+    "education": 1456.8,
+    "urbanism": 674.2,
+    "administration": 464.9,
+    "legislative": 144.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3779.8,
+      "health_per_capita": 923.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4059.8,
+      "health_per_capita": 994.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4339.8,
+      "health_per_capita": 1065.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4573.1,
+      "health_per_capita": 1136.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4666.4,
+      "health_per_capita": 1183.3
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3142403",
+  "city_name": "Moema",
+  "uf": "MG",
+  "population": 7548,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 42726320.96,
+    "total_expense": 41259498.89,
+    "own_revenue_percentage": 8.4,
+    "transfers_revenue_percentage": 91.6,
+    "personnel_expense_percentage_rcl": 47.4
+  },
+  "per_capita_breakdown": {
+    "health": 1497.3,
+    "education": 1543.9,
+    "urbanism": 459.1,
+    "administration": 396.7,
+    "legislative": 184.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4427.7,
+      "health_per_capita": 1167.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4755.7,
+      "health_per_capita": 1257.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5083.7,
+      "health_per_capita": 1347.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5357.0,
+      "health_per_capita": 1437.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5466.3,
+      "health_per_capita": 1497.3
+    }
+  ]
+}

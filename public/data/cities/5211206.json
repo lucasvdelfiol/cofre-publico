@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5211206",
+  "city_name": "Itapuranga",
+  "uf": "GO",
+  "population": 26113,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 116249468.26,
+    "total_expense": 117235154.02,
+    "own_revenue_percentage": 31.6,
+    "transfers_revenue_percentage": 68.4,
+    "personnel_expense_percentage_rcl": 53.5
+  },
+  "per_capita_breakdown": {
+    "health": 1038.8,
+    "education": 1347.9,
+    "urbanism": 596.8,
+    "administration": 357.9,
+    "legislative": 117.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3636.5,
+      "health_per_capita": 810.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3905.9,
+      "health_per_capita": 872.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4175.2,
+      "health_per_capita": 934.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4399.7,
+      "health_per_capita": 997.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4489.5,
+      "health_per_capita": 1038.8
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3104205",
+  "city_name": "Arcos",
+  "uf": "MG",
+  "population": 41416,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 206213716.2,
+    "total_expense": 201093689.27,
+    "own_revenue_percentage": 29.8,
+    "transfers_revenue_percentage": 70.2,
+    "personnel_expense_percentage_rcl": 46.2
+  },
+  "per_capita_breakdown": {
+    "health": 988.6,
+    "education": 1456.8,
+    "urbanism": 599.9,
+    "administration": 374.6,
+    "legislative": 112.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3933.0,
+      "health_per_capita": 771.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4224.3,
+      "health_per_capita": 830.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4515.6,
+      "health_per_capita": 889.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4758.4,
+      "health_per_capita": 949.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4855.5,
+      "health_per_capita": 988.6
+    }
+  ]
+}

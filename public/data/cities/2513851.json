@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2513851",
+  "city_name": "Santo André",
+  "uf": "PB",
+  "population": 2622,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 14049138.9,
+    "total_expense": 14134787.33,
+    "own_revenue_percentage": 14.3,
+    "transfers_revenue_percentage": 85.7,
+    "personnel_expense_percentage_rcl": 48.1
+  },
+  "per_capita_breakdown": {
+    "health": 1286.3,
+    "education": 1365.7,
+    "urbanism": 582.4,
+    "administration": 573.8,
+    "legislative": 180.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4366.5,
+      "health_per_capita": 1003.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4690.0,
+      "health_per_capita": 1080.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5013.4,
+      "health_per_capita": 1157.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5283.0,
+      "health_per_capita": 1234.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5390.8,
+      "health_per_capita": 1286.3
+    }
+  ]
+}

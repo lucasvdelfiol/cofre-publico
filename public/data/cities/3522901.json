@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3522901",
+  "city_name": "Itapuí",
+  "uf": "SP",
+  "population": 13659,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 59705935.57,
+    "total_expense": 59964985.81,
+    "own_revenue_percentage": 12.1,
+    "transfers_revenue_percentage": 87.9,
+    "personnel_expense_percentage_rcl": 46.0
+  },
+  "per_capita_breakdown": {
+    "health": 1105.5,
+    "education": 1142.7,
+    "urbanism": 410.8,
+    "administration": 483.8,
+    "legislative": 70.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3556.0,
+      "health_per_capita": 862.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3819.4,
+      "health_per_capita": 928.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4082.8,
+      "health_per_capita": 995.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4302.3,
+      "health_per_capita": 1061.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4390.1,
+      "health_per_capita": 1105.5
+    }
+  ]
+}

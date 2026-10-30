@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4203956",
+  "city_name": "Capivari de Baixo",
+  "uf": "SC",
+  "population": 23975,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 111124856.51,
+    "total_expense": 109293748.72,
+    "own_revenue_percentage": 18.9,
+    "transfers_revenue_percentage": 81.1,
+    "personnel_expense_percentage_rcl": 49.4
+  },
+  "per_capita_breakdown": {
+    "health": 1108.5,
+    "education": 1186.9,
+    "urbanism": 371.0,
+    "administration": 346.9,
+    "legislative": 136.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3692.5,
+      "health_per_capita": 864.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3966.1,
+      "health_per_capita": 931.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4239.6,
+      "health_per_capita": 997.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4467.5,
+      "health_per_capita": 1064.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4558.7,
+      "health_per_capita": 1108.5
+    }
+  ]
+}

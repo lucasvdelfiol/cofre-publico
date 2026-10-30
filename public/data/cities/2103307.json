@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2103307",
+  "city_name": "Codó",
+  "uf": "MA",
+  "population": 114275,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 615989114.24,
+    "total_expense": 609261279.24,
+    "own_revenue_percentage": 41.6,
+    "transfers_revenue_percentage": 58.4,
+    "personnel_expense_percentage_rcl": 47.4
+  },
+  "per_capita_breakdown": {
+    "health": 1183.7,
+    "education": 1648.6,
+    "urbanism": 692.9,
+    "administration": 353.2,
+    "legislative": 110.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4318.5,
+      "health_per_capita": 923.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4638.4,
+      "health_per_capita": 994.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4958.3,
+      "health_per_capita": 1065.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5224.9,
+      "health_per_capita": 1136.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5331.5,
+      "health_per_capita": 1183.7
+    }
+  ]
+}

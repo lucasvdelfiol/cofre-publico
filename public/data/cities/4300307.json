@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4300307",
+  "city_name": "Alecrim",
+  "uf": "RS",
+  "population": 6123,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 28259068.29,
+    "total_expense": 27448743.26,
+    "own_revenue_percentage": 9.6,
+    "transfers_revenue_percentage": 90.4,
+    "personnel_expense_percentage_rcl": 51.4
+  },
+  "per_capita_breakdown": {
+    "health": 1003.1,
+    "education": 1161.4,
+    "urbanism": 535.9,
+    "administration": 355.9,
+    "legislative": 81.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3631.1,
+      "health_per_capita": 782.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3900.1,
+      "health_per_capita": 842.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4169.1,
+      "health_per_capita": 902.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4393.2,
+      "health_per_capita": 963.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4482.9,
+      "health_per_capita": 1003.1
+    }
+  ]
+}

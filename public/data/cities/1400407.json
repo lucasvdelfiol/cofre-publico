@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1400407",
+  "city_name": "Normandia",
+  "uf": "RR",
+  "population": 13986,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 64554731.74,
+    "total_expense": 64580785.38,
+    "own_revenue_percentage": 9.4,
+    "transfers_revenue_percentage": 90.6,
+    "personnel_expense_percentage_rcl": 49.4
+  },
+  "per_capita_breakdown": {
+    "health": 1210.0,
+    "education": 1241.4,
+    "urbanism": 688.0,
+    "administration": 326.5,
+    "legislative": 122.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3740.2,
+      "health_per_capita": 943.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4017.2,
+      "health_per_capita": 1016.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4294.3,
+      "health_per_capita": 1089.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4525.1,
+      "health_per_capita": 1161.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4617.5,
+      "health_per_capita": 1210.0
+    }
+  ]
+}

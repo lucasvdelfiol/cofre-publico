@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1300706",
+  "city_name": "Boca do Acre",
+  "uf": "AM",
+  "population": 35447,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 154609966.32,
+    "total_expense": 155069958.85,
+    "own_revenue_percentage": 29.4,
+    "transfers_revenue_percentage": 70.6,
+    "personnel_expense_percentage_rcl": 51.3
+  },
+  "per_capita_breakdown": {
+    "health": 1062.9,
+    "education": 1218.3,
+    "urbanism": 449.7,
+    "administration": 405.7,
+    "legislative": 92.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3543.5,
+      "health_per_capita": 829.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3806.0,
+      "health_per_capita": 892.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4068.5,
+      "health_per_capita": 956.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4287.2,
+      "health_per_capita": 1020.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4374.7,
+      "health_per_capita": 1062.9
+    }
+  ]
+}

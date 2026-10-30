@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4305702",
+  "city_name": "Condor",
+  "uf": "RS",
+  "population": 6406,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 30826474.26,
+    "total_expense": 29773862.06,
+    "own_revenue_percentage": 9.7,
+    "transfers_revenue_percentage": 90.3,
+    "personnel_expense_percentage_rcl": 51.7
+  },
+  "per_capita_breakdown": {
+    "health": 978.6,
+    "education": 1387.9,
+    "urbanism": 650.8,
+    "administration": 382.6,
+    "legislative": 129.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3764.7,
+      "health_per_capita": 763.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4043.6,
+      "health_per_capita": 822.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4322.5,
+      "health_per_capita": 880.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4554.8,
+      "health_per_capita": 939.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4647.8,
+      "health_per_capita": 978.6
+    }
+  ]
+}

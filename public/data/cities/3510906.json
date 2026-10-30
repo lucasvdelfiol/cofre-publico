@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3510906",
+  "city_name": "Cássia dos Coqueiros",
+  "uf": "SP",
+  "population": 2799,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 13381040.11,
+    "total_expense": 13381797.36,
+    "own_revenue_percentage": 9.8,
+    "transfers_revenue_percentage": 90.2,
+    "personnel_expense_percentage_rcl": 52.2
+  },
+  "per_capita_breakdown": {
+    "health": 1329.3,
+    "education": 1377.2,
+    "urbanism": 656.4,
+    "administration": 559.7,
+    "legislative": 98.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3872.5,
+      "health_per_capita": 1036.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4159.4,
+      "health_per_capita": 1116.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4446.2,
+      "health_per_capita": 1196.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4685.3,
+      "health_per_capita": 1276.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4780.9,
+      "health_per_capita": 1329.3
+    }
+  ]
+}

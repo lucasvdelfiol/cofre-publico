@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2608453",
+  "city_name": "Lagoa do Carro",
+  "uf": "PE",
+  "population": 17981,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 79620557.45,
+    "total_expense": 77558308.5,
+    "own_revenue_percentage": 18.3,
+    "transfers_revenue_percentage": 81.7,
+    "personnel_expense_percentage_rcl": 53.8
+  },
+  "per_capita_breakdown": {
+    "health": 870.4,
+    "education": 1237.7,
+    "urbanism": 403.6,
+    "administration": 404.8,
+    "legislative": 139.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3493.8,
+      "health_per_capita": 678.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3752.6,
+      "health_per_capita": 731.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4011.4,
+      "health_per_capita": 783.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4227.0,
+      "health_per_capita": 835.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4313.3,
+      "health_per_capita": 870.4
+    }
+  ]
+}

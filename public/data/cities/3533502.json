@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3533502",
+  "city_name": "Novo Horizonte",
+  "uf": "SP",
+  "population": 38324,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 185658974.68,
+    "total_expense": 186868722.16,
+    "own_revenue_percentage": 27.8,
+    "transfers_revenue_percentage": 72.2,
+    "personnel_expense_percentage_rcl": 51.7
+  },
+  "per_capita_breakdown": {
+    "health": 975.3,
+    "education": 1335.5,
+    "urbanism": 390.9,
+    "administration": 540.5,
+    "legislative": 81.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3949.6,
+      "health_per_capita": 760.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4242.1,
+      "health_per_capita": 819.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4534.7,
+      "health_per_capita": 877.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4778.5,
+      "health_per_capita": 936.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4876.0,
+      "health_per_capita": 975.3
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2112100",
+  "city_name": "Timbiras",
+  "uf": "MA",
+  "population": 26484,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 122830228.06,
+    "total_expense": 120129682.65,
+    "own_revenue_percentage": 31.3,
+    "transfers_revenue_percentage": 68.7,
+    "personnel_expense_percentage_rcl": 47.4
+  },
+  "per_capita_breakdown": {
+    "health": 1121.1,
+    "education": 1171.1,
+    "urbanism": 549.0,
+    "administration": 449.8,
+    "legislative": 115.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3674.1,
+      "health_per_capita": 874.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3946.2,
+      "health_per_capita": 941.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4218.4,
+      "health_per_capita": 1009.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4445.2,
+      "health_per_capita": 1076.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4535.9,
+      "health_per_capita": 1121.1
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3110301",
+  "city_name": "Caldas",
+  "uf": "MG",
+  "population": 14217,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 74458487.28,
+    "total_expense": 72670363.57,
+    "own_revenue_percentage": 12.5,
+    "transfers_revenue_percentage": 87.5,
+    "personnel_expense_percentage_rcl": 45.7
+  },
+  "per_capita_breakdown": {
+    "health": 1256.5,
+    "education": 1454.6,
+    "urbanism": 769.4,
+    "administration": 342.9,
+    "legislative": 129.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4140.3,
+      "health_per_capita": 980.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4447.0,
+      "health_per_capita": 1055.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4753.7,
+      "health_per_capita": 1130.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5009.3,
+      "health_per_capita": 1206.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5111.5,
+      "health_per_capita": 1256.5
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3305554",
+  "city_name": "Seropédica",
+  "uf": "RJ",
+  "population": 80596,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 362033413.27,
+    "total_expense": 353947453.11,
+    "own_revenue_percentage": 34.6,
+    "transfers_revenue_percentage": 65.4,
+    "personnel_expense_percentage_rcl": 48.5
+  },
+  "per_capita_breakdown": {
+    "health": 1152.5,
+    "education": 1399.6,
+    "urbanism": 612.9,
+    "administration": 287.0,
+    "legislative": 108.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3557.2,
+      "health_per_capita": 899.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3820.7,
+      "health_per_capita": 968.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4084.2,
+      "health_per_capita": 1037.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4303.8,
+      "health_per_capita": 1106.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4391.6,
+      "health_per_capita": 1152.5
+    }
+  ]
+}

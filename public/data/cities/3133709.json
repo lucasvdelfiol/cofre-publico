@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3133709",
+  "city_name": "Itatiaiuçu",
+  "uf": "MG",
+  "population": 12966,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 69609001.93,
+    "total_expense": 67975398.48,
+    "own_revenue_percentage": 14.9,
+    "transfers_revenue_percentage": 85.1,
+    "personnel_expense_percentage_rcl": 50.2
+  },
+  "per_capita_breakdown": {
+    "health": 1333.1,
+    "education": 1315.6,
+    "urbanism": 769.6,
+    "administration": 590.9,
+    "legislative": 135.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4246.5,
+      "health_per_capita": 1039.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4561.1,
+      "health_per_capita": 1119.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4875.6,
+      "health_per_capita": 1199.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5137.7,
+      "health_per_capita": 1279.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5242.6,
+      "health_per_capita": 1333.1
+    }
+  ]
+}

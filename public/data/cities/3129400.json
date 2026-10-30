@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3129400",
+  "city_name": "Ibertioga",
+  "uf": "MG",
+  "population": 5198,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 28854613.68,
+    "total_expense": 28423607.79,
+    "own_revenue_percentage": 17.8,
+    "transfers_revenue_percentage": 82.2,
+    "personnel_expense_percentage_rcl": 51.6
+  },
+  "per_capita_breakdown": {
+    "health": 1294.0,
+    "education": 1705.1,
+    "urbanism": 847.8,
+    "administration": 567.5,
+    "legislative": 105.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4429.2,
+      "health_per_capita": 1009.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4757.3,
+      "health_per_capita": 1087.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5085.4,
+      "health_per_capita": 1164.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5358.8,
+      "health_per_capita": 1242.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5468.2,
+      "health_per_capita": 1294.0
+    }
+  ]
+}

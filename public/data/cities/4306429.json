@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4306429",
+  "city_name": "Dois Irmãos das Missões",
+  "uf": "RS",
+  "population": 2090,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 9580581.8,
+    "total_expense": 9378253.6,
+    "own_revenue_percentage": 12.4,
+    "transfers_revenue_percentage": 87.6,
+    "personnel_expense_percentage_rcl": 51.4
+  },
+  "per_capita_breakdown": {
+    "health": 1102.2,
+    "education": 1418.5,
+    "urbanism": 407.1,
+    "administration": 390.3,
+    "legislative": 100.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3634.6,
+      "health_per_capita": 859.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3903.9,
+      "health_per_capita": 925.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4173.1,
+      "health_per_capita": 992.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4397.5,
+      "health_per_capita": 1058.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4487.2,
+      "health_per_capita": 1102.2
+    }
+  ]
+}

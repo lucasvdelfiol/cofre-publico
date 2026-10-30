@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3157104",
+  "city_name": "Salto da Divisa",
+  "uf": "MG",
+  "population": 6110,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 33377601.1,
+    "total_expense": 33651576.73,
+    "own_revenue_percentage": 20.1,
+    "transfers_revenue_percentage": 79.9,
+    "personnel_expense_percentage_rcl": 47.2
+  },
+  "per_capita_breakdown": {
+    "health": 1480.4,
+    "education": 1486.4,
+    "urbanism": 448.6,
+    "administration": 455.0,
+    "legislative": 184.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4461.2,
+      "health_per_capita": 1154.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4791.6,
+      "health_per_capita": 1243.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5122.1,
+      "health_per_capita": 1332.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5397.4,
+      "health_per_capita": 1421.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5507.6,
+      "health_per_capita": 1480.4
+    }
+  ]
+}

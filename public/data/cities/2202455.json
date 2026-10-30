@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2202455",
+  "city_name": "Capitão Gervásio Oliveira",
+  "uf": "PI",
+  "population": 3974,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 22117672.78,
+    "total_expense": 21952435.07,
+    "own_revenue_percentage": 12.8,
+    "transfers_revenue_percentage": 87.2,
+    "personnel_expense_percentage_rcl": 53.2
+  },
+  "per_capita_breakdown": {
+    "health": 1326.3,
+    "education": 1422.7,
+    "urbanism": 798.9,
+    "administration": 415.9,
+    "legislative": 190.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4474.4,
+      "health_per_capita": 1034.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4805.9,
+      "health_per_capita": 1114.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5137.3,
+      "health_per_capita": 1193.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5413.5,
+      "health_per_capita": 1273.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5524.0,
+      "health_per_capita": 1326.3
+    }
+  ]
+}

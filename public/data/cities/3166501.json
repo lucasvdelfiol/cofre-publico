@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3166501",
+  "city_name": "Serra Azul de Minas",
+  "uf": "MG",
+  "population": 3792,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 19599931.57,
+    "total_expense": 19685797.33,
+    "own_revenue_percentage": 9.3,
+    "transfers_revenue_percentage": 90.7,
+    "personnel_expense_percentage_rcl": 45.6
+  },
+  "per_capita_breakdown": {
+    "health": 1169.3,
+    "education": 1309.9,
+    "urbanism": 674.8,
+    "administration": 351.8,
+    "legislative": 118.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4205.0,
+      "health_per_capita": 912.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4516.5,
+      "health_per_capita": 982.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4828.0,
+      "health_per_capita": 1052.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5087.6,
+      "health_per_capita": 1122.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5191.4,
+      "health_per_capita": 1169.3
+    }
+  ]
+}

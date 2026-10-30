@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3524105",
+  "city_name": "Ituverava",
+  "uf": "SP",
+  "population": 37571,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 178854412.6,
+    "total_expense": 173085695.96,
+    "own_revenue_percentage": 21.3,
+    "transfers_revenue_percentage": 78.7,
+    "personnel_expense_percentage_rcl": 51.2
+  },
+  "per_capita_breakdown": {
+    "health": 937.2,
+    "education": 1389.5,
+    "urbanism": 564.1,
+    "administration": 354.8,
+    "legislative": 73.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3731.6,
+      "health_per_capita": 731.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4008.0,
+      "health_per_capita": 787.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4284.4,
+      "health_per_capita": 843.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4514.8,
+      "health_per_capita": 899.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4606.9,
+      "health_per_capita": 937.2
+    }
+  ]
+}

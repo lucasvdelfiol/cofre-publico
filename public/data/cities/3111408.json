@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3111408",
+  "city_name": "Campo Florido",
+  "uf": "MG",
+  "population": 8466,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 40463941.24,
+    "total_expense": 39668551.78,
+    "own_revenue_percentage": 19.6,
+    "transfers_revenue_percentage": 80.4,
+    "personnel_expense_percentage_rcl": 50.9
+  },
+  "per_capita_breakdown": {
+    "health": 1245.1,
+    "education": 1396.3,
+    "urbanism": 719.9,
+    "administration": 452.7,
+    "legislative": 98.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3795.3,
+      "health_per_capita": 971.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4076.5,
+      "health_per_capita": 1045.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4357.6,
+      "health_per_capita": 1120.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4591.9,
+      "health_per_capita": 1195.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4685.6,
+      "health_per_capita": 1245.1
+    }
+  ]
+}

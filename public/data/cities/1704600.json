@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1704600",
+  "city_name": "Chapada de Areia",
+  "uf": "TO",
+  "population": 1501,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 8233958.74,
+    "total_expense": 8044323.01,
+    "own_revenue_percentage": 14.5,
+    "transfers_revenue_percentage": 85.5,
+    "personnel_expense_percentage_rcl": 51.7
+  },
+  "per_capita_breakdown": {
+    "health": 1131.9,
+    "education": 1647.8,
+    "urbanism": 611.1,
+    "administration": 378.9,
+    "legislative": 142.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4341.0,
+      "health_per_capita": 882.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4662.6,
+      "health_per_capita": 950.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4984.1,
+      "health_per_capita": 1018.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5252.1,
+      "health_per_capita": 1086.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5359.3,
+      "health_per_capita": 1131.9
+    }
+  ]
+}

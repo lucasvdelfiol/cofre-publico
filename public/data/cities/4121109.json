@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4121109",
+  "city_name": "Quinta do Sol",
+  "uf": "PR",
+  "population": 5001,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 26824266.81,
+    "total_expense": 26050408.6,
+    "own_revenue_percentage": 11.8,
+    "transfers_revenue_percentage": 88.2,
+    "personnel_expense_percentage_rcl": 48.6
+  },
+  "per_capita_breakdown": {
+    "health": 1432.7,
+    "education": 1590.0,
+    "urbanism": 543.1,
+    "administration": 319.4,
+    "legislative": 142.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4219.3,
+      "health_per_capita": 1117.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4531.8,
+      "health_per_capita": 1203.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4844.4,
+      "health_per_capita": 1289.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5104.8,
+      "health_per_capita": 1375.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5209.0,
+      "health_per_capita": 1432.7
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1301951",
+  "city_name": "Itamarati",
+  "uf": "AM",
+  "population": 10937,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 54367345.83,
+    "total_expense": 52609807.37,
+    "own_revenue_percentage": 14.4,
+    "transfers_revenue_percentage": 85.6,
+    "personnel_expense_percentage_rcl": 47.7
+  },
+  "per_capita_breakdown": {
+    "health": 1002.7,
+    "education": 1178.2,
+    "urbanism": 618.9,
+    "administration": 356.1,
+    "legislative": 166.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3896.3,
+      "health_per_capita": 782.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4185.0,
+      "health_per_capita": 842.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4473.6,
+      "health_per_capita": 902.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4714.1,
+      "health_per_capita": 962.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4810.3,
+      "health_per_capita": 1002.7
+    }
+  ]
+}

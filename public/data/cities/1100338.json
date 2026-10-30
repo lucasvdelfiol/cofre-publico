@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1100338",
+  "city_name": "Nova Mamoré",
+  "uf": "RO",
+  "population": 25444,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 124411136.34,
+    "total_expense": 123746372.48,
+    "own_revenue_percentage": 19.4,
+    "transfers_revenue_percentage": 80.6,
+    "personnel_expense_percentage_rcl": 49.6
+  },
+  "per_capita_breakdown": {
+    "health": 1266.9,
+    "education": 1275.6,
+    "urbanism": 468.1,
+    "administration": 503.8,
+    "legislative": 149.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3939.4,
+      "health_per_capita": 988.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4231.2,
+      "health_per_capita": 1064.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4523.1,
+      "health_per_capita": 1140.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4766.2,
+      "health_per_capita": 1216.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4863.5,
+      "health_per_capita": 1266.9
+    }
+  ]
+}

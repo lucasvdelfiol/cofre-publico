@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1500131",
+  "city_name": "Abel Figueiredo",
+  "uf": "PA",
+  "population": 6136,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 31714382.4,
+    "total_expense": 30737653.5,
+    "own_revenue_percentage": 18.9,
+    "transfers_revenue_percentage": 81.1,
+    "personnel_expense_percentage_rcl": 46.3
+  },
+  "per_capita_breakdown": {
+    "health": 1352.1,
+    "education": 1441.0,
+    "urbanism": 483.6,
+    "administration": 538.4,
+    "legislative": 175.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4057.6,
+      "health_per_capita": 1054.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4358.2,
+      "health_per_capita": 1135.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4658.7,
+      "health_per_capita": 1216.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4909.2,
+      "health_per_capita": 1298.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5009.4,
+      "health_per_capita": 1352.1
+    }
+  ]
+}

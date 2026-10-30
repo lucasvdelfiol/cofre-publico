@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2614105",
+  "city_name": "Sertânia",
+  "uf": "PE",
+  "population": 32811,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 151581135.81,
+    "total_expense": 150811683.09,
+    "own_revenue_percentage": 19.8,
+    "transfers_revenue_percentage": 80.2,
+    "personnel_expense_percentage_rcl": 47.5
+  },
+  "per_capita_breakdown": {
+    "health": 1260.0,
+    "education": 1153.3,
+    "urbanism": 582.6,
+    "administration": 371.7,
+    "legislative": 144.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3723.1,
+      "health_per_capita": 982.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3998.9,
+      "health_per_capita": 1058.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4274.7,
+      "health_per_capita": 1134.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4504.5,
+      "health_per_capita": 1209.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4596.4,
+      "health_per_capita": 1260.0
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4213351",
+  "city_name": "Ponte Alta do Norte",
+  "uf": "SC",
+  "population": 3210,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 13962376.24,
+    "total_expense": 13830246.77,
+    "own_revenue_percentage": 10.9,
+    "transfers_revenue_percentage": 89.1,
+    "personnel_expense_percentage_rcl": 52.8
+  },
+  "per_capita_breakdown": {
+    "health": 1142.9,
+    "education": 1354.8,
+    "urbanism": 508.3,
+    "administration": 422.3,
+    "legislative": 72.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3489.9,
+      "health_per_capita": 891.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3748.4,
+      "health_per_capita": 960.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4006.9,
+      "health_per_capita": 1028.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4222.3,
+      "health_per_capita": 1097.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4308.5,
+      "health_per_capita": 1142.9
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2405603",
+  "city_name": "Jardim de Piranhas",
+  "uf": "RN",
+  "population": 13977,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 70320063.52,
+    "total_expense": 67833312.01,
+    "own_revenue_percentage": 8.2,
+    "transfers_revenue_percentage": 91.8,
+    "personnel_expense_percentage_rcl": 52.1
+  },
+  "per_capita_breakdown": {
+    "health": 1128.2,
+    "education": 1337.7,
+    "urbanism": 766.6,
+    "administration": 570.1,
+    "legislative": 92.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3931.1,
+      "health_per_capita": 880.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4222.3,
+      "health_per_capita": 947.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4513.5,
+      "health_per_capita": 1015.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4756.1,
+      "health_per_capita": 1083.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4853.2,
+      "health_per_capita": 1128.2
+    }
+  ]
+}

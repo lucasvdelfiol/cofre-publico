@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2202505",
+  "city_name": "Caracol",
+  "uf": "PI",
+  "population": 10318,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 48828874.0,
+    "total_expense": 47924876.48,
+    "own_revenue_percentage": 21.9,
+    "transfers_revenue_percentage": 78.1,
+    "personnel_expense_percentage_rcl": 48.8
+  },
+  "per_capita_breakdown": {
+    "health": 1281.3,
+    "education": 1467.3,
+    "urbanism": 699.8,
+    "administration": 315.4,
+    "legislative": 79.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3762.3,
+      "health_per_capita": 999.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4041.0,
+      "health_per_capita": 1076.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4319.7,
+      "health_per_capita": 1153.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4551.9,
+      "health_per_capita": 1230.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4644.8,
+      "health_per_capita": 1281.3
+    }
+  ]
+}

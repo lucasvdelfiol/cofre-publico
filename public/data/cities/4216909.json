@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4216909",
+  "city_name": "São Lourenço do Oeste",
+  "uf": "SC",
+  "population": 24791,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 102649525.21,
+    "total_expense": 102926496.02,
+    "own_revenue_percentage": 22.6,
+    "transfers_revenue_percentage": 77.4,
+    "personnel_expense_percentage_rcl": 47.9
+  },
+  "per_capita_breakdown": {
+    "health": 992.5,
+    "education": 1301.0,
+    "urbanism": 496.1,
+    "administration": 387.7,
+    "legislative": 89.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3363.0,
+      "health_per_capita": 774.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3612.1,
+      "health_per_capita": 833.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3861.2,
+      "health_per_capita": 893.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4068.8,
+      "health_per_capita": 952.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4151.8,
+      "health_per_capita": 992.5
+    }
+  ]
+}

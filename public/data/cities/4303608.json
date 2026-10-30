@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4303608",
+  "city_name": "Cambará do Sul",
+  "uf": "RS",
+  "population": 6361,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 33047033.21,
+    "total_expense": 33202532.11,
+    "own_revenue_percentage": 11.9,
+    "transfers_revenue_percentage": 88.1,
+    "personnel_expense_percentage_rcl": 49.1
+  },
+  "per_capita_breakdown": {
+    "health": 1239.5,
+    "education": 1524.1,
+    "urbanism": 787.1,
+    "administration": 548.1,
+    "legislative": 103.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4228.0,
+      "health_per_capita": 966.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4541.1,
+      "health_per_capita": 1041.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4854.3,
+      "health_per_capita": 1115.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5115.3,
+      "health_per_capita": 1189.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5219.7,
+      "health_per_capita": 1239.5
+    }
+  ]
+}

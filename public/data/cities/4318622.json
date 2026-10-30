@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4318622",
+  "city_name": "São José dos Ausentes",
+  "uf": "RS",
+  "population": 4172,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 24109692.53,
+    "total_expense": 23281248.23,
+    "own_revenue_percentage": 15.5,
+    "transfers_revenue_percentage": 84.5,
+    "personnel_expense_percentage_rcl": 53.1
+  },
+  "per_capita_breakdown": {
+    "health": 1515.4,
+    "education": 1780.3,
+    "urbanism": 830.8,
+    "administration": 437.1,
+    "legislative": 109.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4520.1,
+      "health_per_capita": 1182.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4854.9,
+      "health_per_capita": 1272.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5189.8,
+      "health_per_capita": 1363.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5468.8,
+      "health_per_capita": 1454.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5580.4,
+      "health_per_capita": 1515.4
+    }
+  ]
+}

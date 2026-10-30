@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3301876",
+  "city_name": "Iguaba Grande",
+  "uf": "RJ",
+  "population": 27920,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 137864729.69,
+    "total_expense": 135390200.04,
+    "own_revenue_percentage": 20.8,
+    "transfers_revenue_percentage": 79.2,
+    "personnel_expense_percentage_rcl": 48.4
+  },
+  "per_capita_breakdown": {
+    "health": 1066.1,
+    "education": 1517.6,
+    "urbanism": 758.1,
+    "administration": 454.7,
+    "legislative": 149.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3927.9,
+      "health_per_capita": 831.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4218.8,
+      "health_per_capita": 895.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4509.8,
+      "health_per_capita": 959.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4752.2,
+      "health_per_capita": 1023.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4849.2,
+      "health_per_capita": 1066.1
+    }
+  ]
+}

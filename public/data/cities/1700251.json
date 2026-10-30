@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1700251",
+  "city_name": "Abreulândia",
+  "uf": "TO",
+  "population": 2576,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 13366072.05,
+    "total_expense": 12912616.5,
+    "own_revenue_percentage": 14.2,
+    "transfers_revenue_percentage": 85.8,
+    "personnel_expense_percentage_rcl": 51.4
+  },
+  "per_capita_breakdown": {
+    "health": 1125.6,
+    "education": 1231.5,
+    "urbanism": 410.5,
+    "administration": 342.9,
+    "legislative": 87.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4060.3,
+      "health_per_capita": 878.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4361.0,
+      "health_per_capita": 945.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4661.8,
+      "health_per_capita": 1013.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4912.4,
+      "health_per_capita": 1080.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5012.7,
+      "health_per_capita": 1125.6
+    }
+  ]
+}

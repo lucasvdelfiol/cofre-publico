@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3531308",
+  "city_name": "Monte Alto",
+  "uf": "SP",
+  "population": 47574,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 234083749.1,
+    "total_expense": 231471127.99,
+    "own_revenue_percentage": 22.6,
+    "transfers_revenue_percentage": 77.4,
+    "personnel_expense_percentage_rcl": 51.5
+  },
+  "per_capita_breakdown": {
+    "health": 1280.9,
+    "education": 1301.3,
+    "urbanism": 662.1,
+    "administration": 419.4,
+    "legislative": 101.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3941.1,
+      "health_per_capita": 999.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4233.0,
+      "health_per_capita": 1076.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4524.9,
+      "health_per_capita": 1152.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4768.2,
+      "health_per_capita": 1229.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4865.5,
+      "health_per_capita": 1280.9
+    }
+  ]
+}

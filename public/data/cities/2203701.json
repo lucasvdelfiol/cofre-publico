@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2203701",
+  "city_name": "Esperantina",
+  "uf": "PI",
+  "population": 40970,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 185171773.47,
+    "total_expense": 178609127.7,
+    "own_revenue_percentage": 27.9,
+    "transfers_revenue_percentage": 72.1,
+    "personnel_expense_percentage_rcl": 52.2
+  },
+  "per_capita_breakdown": {
+    "health": 976.8,
+    "education": 1391.7,
+    "urbanism": 542.2,
+    "administration": 355.3,
+    "legislative": 136.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3531.2,
+      "health_per_capita": 761.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3792.8,
+      "health_per_capita": 820.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4054.3,
+      "health_per_capita": 879.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4272.3,
+      "health_per_capita": 937.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4359.5,
+      "health_per_capita": 976.8
+    }
+  ]
+}

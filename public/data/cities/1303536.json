@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1303536",
+  "city_name": "Presidente Figueiredo",
+  "uf": "AM",
+  "population": 30668,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 129954735.32,
+    "total_expense": 125850557.49,
+    "own_revenue_percentage": 25.4,
+    "transfers_revenue_percentage": 74.6,
+    "personnel_expense_percentage_rcl": 48.5
+  },
+  "per_capita_breakdown": {
+    "health": 1073.6,
+    "education": 1246.8,
+    "urbanism": 548.3,
+    "administration": 489.6,
+    "legislative": 108.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3323.9,
+      "health_per_capita": 837.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3570.1,
+      "health_per_capita": 901.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3816.3,
+      "health_per_capita": 966.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4021.5,
+      "health_per_capita": 1030.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4103.6,
+      "health_per_capita": 1073.6
+    }
+  ]
+}

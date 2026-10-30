@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2616407",
+  "city_name": "Vitória de Santo Antão",
+  "uf": "PE",
+  "population": 134084,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 687300570.93,
+    "total_expense": 678151463.53,
+    "own_revenue_percentage": 53.1,
+    "transfers_revenue_percentage": 46.9,
+    "personnel_expense_percentage_rcl": 45.2
+  },
+  "per_capita_breakdown": {
+    "health": 1108.7,
+    "education": 1592.1,
+    "urbanism": 716.9,
+    "administration": 544.8,
+    "legislative": 153.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4096.7,
+      "health_per_capita": 864.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4400.2,
+      "health_per_capita": 931.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4703.7,
+      "health_per_capita": 997.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4956.5,
+      "health_per_capita": 1064.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5057.7,
+      "health_per_capita": 1108.7
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3504503",
+  "city_name": "Avaré",
+  "uf": "SP",
+  "population": 92805,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 421023267.2,
+    "total_expense": 419987834.3,
+    "own_revenue_percentage": 37.2,
+    "transfers_revenue_percentage": 62.8,
+    "personnel_expense_percentage_rcl": 48.9
+  },
+  "per_capita_breakdown": {
+    "health": 1073.2,
+    "education": 1369.3,
+    "urbanism": 652.8,
+    "administration": 526.8,
+    "legislative": 138.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3665.7,
+      "health_per_capita": 837.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3937.2,
+      "health_per_capita": 901.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4208.7,
+      "health_per_capita": 965.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4435.0,
+      "health_per_capita": 1030.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4525.5,
+      "health_per_capita": 1073.2
+    }
+  ]
+}

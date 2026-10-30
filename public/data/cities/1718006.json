@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1718006",
+  "city_name": "Porto Alegre do Tocantins",
+  "uf": "TO",
+  "population": 2866,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 15694857.15,
+    "total_expense": 15544049.09,
+    "own_revenue_percentage": 20.0,
+    "transfers_revenue_percentage": 80.0,
+    "personnel_expense_percentage_rcl": 51.2
+  },
+  "per_capita_breakdown": {
+    "health": 1379.0,
+    "education": 1725.3,
+    "urbanism": 859.0,
+    "administration": 435.1,
+    "legislative": 121.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4393.1,
+      "health_per_capita": 1075.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4718.5,
+      "health_per_capita": 1158.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5043.9,
+      "health_per_capita": 1241.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5315.1,
+      "health_per_capita": 1323.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5423.6,
+      "health_per_capita": 1379.0
+    }
+  ]
+}

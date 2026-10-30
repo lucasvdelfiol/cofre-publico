@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3305406",
+  "city_name": "Sapucaia",
+  "uf": "RJ",
+  "population": 17729,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 100641159.04,
+    "total_expense": 98759379.1,
+    "own_revenue_percentage": 11.9,
+    "transfers_revenue_percentage": 88.1,
+    "personnel_expense_percentage_rcl": 50.1
+  },
+  "per_capita_breakdown": {
+    "health": 1224.1,
+    "education": 1387.7,
+    "urbanism": 771.0,
+    "administration": 620.4,
+    "legislative": 112.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4512.1,
+      "health_per_capita": 954.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4846.3,
+      "health_per_capita": 1028.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5180.6,
+      "health_per_capita": 1101.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5459.1,
+      "health_per_capita": 1175.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5570.5,
+      "health_per_capita": 1224.1
+    }
+  ]
+}

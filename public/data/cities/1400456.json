@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1400456",
+  "city_name": "Pacaraima",
+  "uf": "RR",
+  "population": 19305,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 93979643.34,
+    "total_expense": 94122672.79,
+    "own_revenue_percentage": 13.1,
+    "transfers_revenue_percentage": 86.9,
+    "personnel_expense_percentage_rcl": 51.1
+  },
+  "per_capita_breakdown": {
+    "health": 1241.3,
+    "education": 1459.7,
+    "urbanism": 605.1,
+    "administration": 464.7,
+    "legislative": 111.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3949.2,
+      "health_per_capita": 968.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4241.8,
+      "health_per_capita": 1042.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4534.3,
+      "health_per_capita": 1117.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4778.1,
+      "health_per_capita": 1191.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4875.6,
+      "health_per_capita": 1241.3
+    }
+  ]
+}

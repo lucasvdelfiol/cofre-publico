@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3152131",
+  "city_name": "Ponto Chique",
+  "uf": "MG",
+  "population": 3747,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 18192530.15,
+    "total_expense": 18317836.42,
+    "own_revenue_percentage": 13.1,
+    "transfers_revenue_percentage": 86.9,
+    "personnel_expense_percentage_rcl": 45.6
+  },
+  "per_capita_breakdown": {
+    "health": 1149.8,
+    "education": 1226.5,
+    "urbanism": 775.1,
+    "administration": 445.3,
+    "legislative": 77.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3959.8,
+      "health_per_capita": 896.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4253.2,
+      "health_per_capita": 965.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4546.5,
+      "health_per_capita": 1034.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4790.9,
+      "health_per_capita": 1103.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4888.7,
+      "health_per_capita": 1149.8
+    }
+  ]
+}

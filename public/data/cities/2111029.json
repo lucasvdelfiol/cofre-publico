@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2111029",
+  "city_name": "São João do Carú",
+  "uf": "MA",
+  "population": 12251,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 65607042.13,
+    "total_expense": 66225697.77,
+    "own_revenue_percentage": 12.8,
+    "transfers_revenue_percentage": 87.2,
+    "personnel_expense_percentage_rcl": 50.6
+  },
+  "per_capita_breakdown": {
+    "health": 1257.8,
+    "education": 1443.3,
+    "urbanism": 539.7,
+    "administration": 437.2,
+    "legislative": 152.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4378.6,
+      "health_per_capita": 981.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4703.0,
+      "health_per_capita": 1056.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5027.3,
+      "health_per_capita": 1132.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5297.6,
+      "health_per_capita": 1207.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5405.7,
+      "health_per_capita": 1257.8
+    }
+  ]
+}

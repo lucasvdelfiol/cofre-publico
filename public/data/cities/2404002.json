@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2404002",
+  "city_name": "Frutuoso Gomes",
+  "uf": "RN",
+  "population": 4122,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 21195000.67,
+    "total_expense": 20921077.72,
+    "own_revenue_percentage": 20.6,
+    "transfers_revenue_percentage": 79.4,
+    "personnel_expense_percentage_rcl": 47.0
+  },
+  "per_capita_breakdown": {
+    "health": 1413.6,
+    "education": 1283.3,
+    "urbanism": 612.3,
+    "administration": 349.3,
+    "legislative": 119.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4111.2,
+      "health_per_capita": 1102.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4415.7,
+      "health_per_capita": 1187.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4720.2,
+      "health_per_capita": 1272.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4974.0,
+      "health_per_capita": 1357.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5075.5,
+      "health_per_capita": 1413.6
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3160454",
+  "city_name": "Santo Antônio do Retiro",
+  "uf": "MG",
+  "population": 6629,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 35446686.08,
+    "total_expense": 35697248.0,
+    "own_revenue_percentage": 18.4,
+    "transfers_revenue_percentage": 81.6,
+    "personnel_expense_percentage_rcl": 52.2
+  },
+  "per_capita_breakdown": {
+    "health": 1433.2,
+    "education": 1688.7,
+    "urbanism": 602.9,
+    "administration": 397.4,
+    "legislative": 95.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4361.9,
+      "health_per_capita": 1117.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4684.9,
+      "health_per_capita": 1203.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5008.1,
+      "health_per_capita": 1289.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5277.3,
+      "health_per_capita": 1375.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5385.0,
+      "health_per_capita": 1433.2
+    }
+  ]
+}

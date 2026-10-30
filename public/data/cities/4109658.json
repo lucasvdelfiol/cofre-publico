@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4109658",
+  "city_name": "Honório Serpa",
+  "uf": "PR",
+  "population": 4941,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 22342142.92,
+    "total_expense": 22014061.12,
+    "own_revenue_percentage": 19.6,
+    "transfers_revenue_percentage": 80.4,
+    "personnel_expense_percentage_rcl": 51.1
+  },
+  "per_capita_breakdown": {
+    "health": 1205.8,
+    "education": 1095.4,
+    "urbanism": 611.4,
+    "administration": 326.5,
+    "legislative": 138.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3608.9,
+      "health_per_capita": 940.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3876.2,
+      "health_per_capita": 1012.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4143.5,
+      "health_per_capita": 1085.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4366.3,
+      "health_per_capita": 1157.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4455.4,
+      "health_per_capita": 1205.8
+    }
+  ]
+}

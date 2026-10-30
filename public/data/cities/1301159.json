@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1301159",
+  "city_name": "Careiro da Várzea",
+  "uf": "AM",
+  "population": 19637,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 93712624.62,
+    "total_expense": 93113400.69,
+    "own_revenue_percentage": 18.3,
+    "transfers_revenue_percentage": 81.7,
+    "personnel_expense_percentage_rcl": 46.9
+  },
+  "per_capita_breakdown": {
+    "health": 1032.9,
+    "education": 1371.4,
+    "urbanism": 663.1,
+    "administration": 404.1,
+    "legislative": 140.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3840.8,
+      "health_per_capita": 805.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4125.3,
+      "health_per_capita": 867.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4409.8,
+      "health_per_capita": 929.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4646.9,
+      "health_per_capita": 991.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4741.7,
+      "health_per_capita": 1032.9
+    }
+  ]
+}

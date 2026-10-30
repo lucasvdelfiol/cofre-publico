@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4208104",
+  "city_name": "Itaiópolis",
+  "uf": "SC",
+  "population": 22051,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 95524656.64,
+    "total_expense": 92065487.46,
+    "own_revenue_percentage": 20.8,
+    "transfers_revenue_percentage": 79.2,
+    "personnel_expense_percentage_rcl": 50.1
+  },
+  "per_capita_breakdown": {
+    "health": 967.8,
+    "education": 1212.6,
+    "urbanism": 415.2,
+    "administration": 456.9,
+    "legislative": 90.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3381.8,
+      "health_per_capita": 754.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3632.3,
+      "health_per_capita": 813.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3882.8,
+      "health_per_capita": 871.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4091.6,
+      "health_per_capita": 929.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4175.1,
+      "health_per_capita": 967.8
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2925253",
+  "city_name": "Ponto Novo",
+  "uf": "BA",
+  "population": 17938,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 82737018.42,
+    "total_expense": 80232488.93,
+    "own_revenue_percentage": 10.7,
+    "transfers_revenue_percentage": 89.3,
+    "personnel_expense_percentage_rcl": 52.4
+  },
+  "per_capita_breakdown": {
+    "health": 1032.2,
+    "education": 1279.8,
+    "urbanism": 559.9,
+    "administration": 383.4,
+    "legislative": 75.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3623.0,
+      "health_per_capita": 805.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3891.3,
+      "health_per_capita": 867.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4159.7,
+      "health_per_capita": 929.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4383.3,
+      "health_per_capita": 990.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4472.8,
+      "health_per_capita": 1032.2
+    }
+  ]
+}

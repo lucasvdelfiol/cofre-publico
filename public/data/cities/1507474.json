@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1507474",
+  "city_name": "São João de Pirabas",
+  "uf": "PA",
+  "population": 20689,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 91583777.68,
+    "total_expense": 90546735.12,
+    "own_revenue_percentage": 22.9,
+    "transfers_revenue_percentage": 77.1,
+    "personnel_expense_percentage_rcl": 50.8
+  },
+  "per_capita_breakdown": {
+    "health": 1198.2,
+    "education": 1378.8,
+    "urbanism": 406.7,
+    "administration": 396.2,
+    "legislative": 89.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3545.0,
+      "health_per_capita": 934.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3807.6,
+      "health_per_capita": 1006.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4070.2,
+      "health_per_capita": 1078.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4289.1,
+      "health_per_capita": 1150.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4376.6,
+      "health_per_capita": 1198.2
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3523206",
+  "city_name": "Itararé",
+  "uf": "SP",
+  "population": 44438,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 222020646.39,
+    "total_expense": 217060370.97,
+    "own_revenue_percentage": 21.2,
+    "transfers_revenue_percentage": 78.8,
+    "personnel_expense_percentage_rcl": 48.5
+  },
+  "per_capita_breakdown": {
+    "health": 1011.3,
+    "education": 1277.9,
+    "urbanism": 425.1,
+    "administration": 367.5,
+    "legislative": 78.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3956.5,
+      "health_per_capita": 788.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4249.6,
+      "health_per_capita": 849.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4542.7,
+      "health_per_capita": 910.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4786.9,
+      "health_per_capita": 970.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4884.6,
+      "health_per_capita": 1011.3
+    }
+  ]
+}

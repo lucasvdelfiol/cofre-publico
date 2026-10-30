@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2906899",
+  "city_name": "Caraíbas",
+  "uf": "BA",
+  "population": 9940,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 46715765.43,
+    "total_expense": 46038880.15,
+    "own_revenue_percentage": 20.0,
+    "transfers_revenue_percentage": 80.0,
+    "personnel_expense_percentage_rcl": 46.3
+  },
+  "per_capita_breakdown": {
+    "health": 1061.2,
+    "education": 1231.2,
+    "urbanism": 704.4,
+    "administration": 324.9,
+    "legislative": 159.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3751.7,
+      "health_per_capita": 827.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4029.6,
+      "health_per_capita": 891.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4307.5,
+      "health_per_capita": 955.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4539.1,
+      "health_per_capita": 1018.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4631.7,
+      "health_per_capita": 1061.2
+    }
+  ]
+}

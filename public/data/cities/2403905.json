@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2403905",
+  "city_name": "Francisco Dantas",
+  "uf": "RN",
+  "population": 2700,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 13049197.15,
+    "total_expense": 12866810.05,
+    "own_revenue_percentage": 8.9,
+    "transfers_revenue_percentage": 91.1,
+    "personnel_expense_percentage_rcl": 49.7
+  },
+  "per_capita_breakdown": {
+    "health": 1314.8,
+    "education": 1485.6,
+    "urbanism": 591.1,
+    "administration": 400.7,
+    "legislative": 124.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3860.1,
+      "health_per_capita": 1025.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4146.0,
+      "health_per_capita": 1104.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4431.9,
+      "health_per_capita": 1183.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4670.2,
+      "health_per_capita": 1262.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4765.5,
+      "health_per_capita": 1314.8
+    }
+  ]
+}

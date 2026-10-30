@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3145000",
+  "city_name": "Nova Ponte",
+  "uf": "MG",
+  "population": 14598,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 70737851.41,
+    "total_expense": 69063194.95,
+    "own_revenue_percentage": 16.9,
+    "transfers_revenue_percentage": 83.1,
+    "personnel_expense_percentage_rcl": 46.7
+  },
+  "per_capita_breakdown": {
+    "health": 1201.0,
+    "education": 1504.3,
+    "urbanism": 542.9,
+    "administration": 379.4,
+    "legislative": 103.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3832.1,
+      "health_per_capita": 936.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4116.0,
+      "health_per_capita": 1008.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4399.8,
+      "health_per_capita": 1080.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4636.4,
+      "health_per_capita": 1153.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4731.0,
+      "health_per_capita": 1201.0
+    }
+  ]
+}

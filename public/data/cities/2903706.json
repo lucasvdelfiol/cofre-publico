@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2903706",
+  "city_name": "Boa Nova",
+  "uf": "BA",
+  "population": 13690,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 76733307.14,
+    "total_expense": 75997328.88,
+    "own_revenue_percentage": 13.7,
+    "transfers_revenue_percentage": 86.3,
+    "personnel_expense_percentage_rcl": 51.1
+  },
+  "per_capita_breakdown": {
+    "health": 1195.6,
+    "education": 1769.6,
+    "urbanism": 450.4,
+    "administration": 421.8,
+    "legislative": 159.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4496.6,
+      "health_per_capita": 932.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4829.6,
+      "health_per_capita": 1004.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5162.7,
+      "health_per_capita": 1076.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5440.3,
+      "health_per_capita": 1147.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5551.3,
+      "health_per_capita": 1195.6
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2312106",
+  "city_name": "Santana do Cariri",
+  "uf": "CE",
+  "population": 16954,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 80414870.23,
+    "total_expense": 77918185.94,
+    "own_revenue_percentage": 9.9,
+    "transfers_revenue_percentage": 90.1,
+    "personnel_expense_percentage_rcl": 51.4
+  },
+  "per_capita_breakdown": {
+    "health": 1229.4,
+    "education": 1369.5,
+    "urbanism": 639.0,
+    "administration": 392.3,
+    "legislative": 81.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3722.7,
+      "health_per_capita": 958.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3998.4,
+      "health_per_capita": 1032.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4274.2,
+      "health_per_capita": 1106.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4504.0,
+      "health_per_capita": 1180.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4595.9,
+      "health_per_capita": 1229.4
+    }
+  ]
+}

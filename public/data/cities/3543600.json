@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3543600",
+  "city_name": "Rifaina",
+  "uf": "SP",
+  "population": 4049,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 21309015.21,
+    "total_expense": 20656438.31,
+    "own_revenue_percentage": 16.8,
+    "transfers_revenue_percentage": 83.2,
+    "personnel_expense_percentage_rcl": 53.0
+  },
+  "per_capita_breakdown": {
+    "health": 1210.1,
+    "education": 1437.3,
+    "urbanism": 558.9,
+    "administration": 351.7,
+    "legislative": 148.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4132.3,
+      "health_per_capita": 943.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4438.4,
+      "health_per_capita": 1016.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4744.5,
+      "health_per_capita": 1089.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4999.6,
+      "health_per_capita": 1161.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5101.6,
+      "health_per_capita": 1210.1
+    }
+  ]
+}

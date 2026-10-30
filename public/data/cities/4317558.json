@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4317558",
+  "city_name": "Santo Antônio do Palma",
+  "uf": "RS",
+  "population": 2091,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 11384154.71,
+    "total_expense": 11426363.46,
+    "own_revenue_percentage": 14.2,
+    "transfers_revenue_percentage": 85.8,
+    "personnel_expense_percentage_rcl": 52.1
+  },
+  "per_capita_breakdown": {
+    "health": 1377.0,
+    "education": 1741.1,
+    "urbanism": 849.2,
+    "administration": 337.8,
+    "legislative": 108.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4426.2,
+      "health_per_capita": 1074.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4754.1,
+      "health_per_capita": 1156.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5082.0,
+      "health_per_capita": 1239.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5355.2,
+      "health_per_capita": 1321.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5464.5,
+      "health_per_capita": 1377.0
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4314704",
+  "city_name": "Planalto",
+  "uf": "RS",
+  "population": 10406,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 51016038.37,
+    "total_expense": 49317867.86,
+    "own_revenue_percentage": 16.8,
+    "transfers_revenue_percentage": 83.2,
+    "personnel_expense_percentage_rcl": 47.2
+  },
+  "per_capita_breakdown": {
+    "health": 1200.4,
+    "education": 1367.3,
+    "urbanism": 753.1,
+    "administration": 336.0,
+    "legislative": 83.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3838.9,
+      "health_per_capita": 936.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4123.3,
+      "health_per_capita": 1008.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4407.6,
+      "health_per_capita": 1080.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4644.6,
+      "health_per_capita": 1152.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4739.4,
+      "health_per_capita": 1200.4
+    }
+  ]
+}

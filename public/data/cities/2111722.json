@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2111722",
+  "city_name": "Satubinha",
+  "uf": "MA",
+  "population": 8784,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 41665704.69,
+    "total_expense": 41146125.23,
+    "own_revenue_percentage": 17.4,
+    "transfers_revenue_percentage": 82.6,
+    "personnel_expense_percentage_rcl": 45.5
+  },
+  "per_capita_breakdown": {
+    "health": 1087.1,
+    "education": 1148.9,
+    "urbanism": 571.8,
+    "administration": 507.0,
+    "legislative": 76.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3794.2,
+      "health_per_capita": 847.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4075.3,
+      "health_per_capita": 913.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4356.3,
+      "health_per_capita": 978.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4590.5,
+      "health_per_capita": 1043.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4684.2,
+      "health_per_capita": 1087.1
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3540853",
+  "city_name": "Pracinha",
+  "uf": "SP",
+  "population": 2578,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 12750429.36,
+    "total_expense": 12603058.44,
+    "own_revenue_percentage": 14.1,
+    "transfers_revenue_percentage": 85.9,
+    "personnel_expense_percentage_rcl": 50.2
+  },
+  "per_capita_breakdown": {
+    "health": 1266.2,
+    "education": 1481.6,
+    "urbanism": 452.8,
+    "administration": 584.6,
+    "legislative": 100.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3959.8,
+      "health_per_capita": 987.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4253.2,
+      "health_per_capita": 1063.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4546.5,
+      "health_per_capita": 1139.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4790.9,
+      "health_per_capita": 1215.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4888.7,
+      "health_per_capita": 1266.2
+    }
+  ]
+}

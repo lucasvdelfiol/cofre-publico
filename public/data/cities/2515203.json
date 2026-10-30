@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2515203",
+  "city_name": "São Sebastião do Umbuzeiro",
+  "uf": "PB",
+  "population": 3279,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 15830814.15,
+    "total_expense": 15285432.05,
+    "own_revenue_percentage": 21.8,
+    "transfers_revenue_percentage": 78.2,
+    "personnel_expense_percentage_rcl": 46.2
+  },
+  "per_capita_breakdown": {
+    "health": 1276.9,
+    "education": 1389.7,
+    "urbanism": 516.8,
+    "administration": 304.2,
+    "legislative": 125.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3775.9,
+      "health_per_capita": 996.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4055.6,
+      "health_per_capita": 1072.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4335.3,
+      "health_per_capita": 1149.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4568.4,
+      "health_per_capita": 1225.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4661.6,
+      "health_per_capita": 1276.9
+    }
+  ]
+}

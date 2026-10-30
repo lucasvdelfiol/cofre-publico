@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2920403",
+  "city_name": "Manoel Vitorino",
+  "uf": "BA",
+  "population": 13860,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 66226723.37,
+    "total_expense": 66677314.57,
+    "own_revenue_percentage": 11.3,
+    "transfers_revenue_percentage": 88.7,
+    "personnel_expense_percentage_rcl": 49.5
+  },
+  "per_capita_breakdown": {
+    "health": 1135.0,
+    "education": 1477.4,
+    "urbanism": 592.5,
+    "administration": 477.9,
+    "legislative": 142.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3896.7,
+      "health_per_capita": 885.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4185.4,
+      "health_per_capita": 953.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4474.0,
+      "health_per_capita": 1021.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4714.6,
+      "health_per_capita": 1089.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4810.8,
+      "health_per_capita": 1135.0
+    }
+  ]
+}

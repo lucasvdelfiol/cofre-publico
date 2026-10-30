@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5220058",
+  "city_name": "São João da Paraúna",
+  "uf": "GO",
+  "population": 1774,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 8202391.54,
+    "total_expense": 8192331.09,
+    "own_revenue_percentage": 19.0,
+    "transfers_revenue_percentage": 81.0,
+    "personnel_expense_percentage_rcl": 45.6
+  },
+  "per_capita_breakdown": {
+    "health": 958.3,
+    "education": 1347.5,
+    "urbanism": 496.8,
+    "administration": 548.7,
+    "legislative": 128.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3740.6,
+      "health_per_capita": 747.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4017.7,
+      "health_per_capita": 805.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4294.7,
+      "health_per_capita": 862.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4525.6,
+      "health_per_capita": 920.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4618.0,
+      "health_per_capita": 958.3
+    }
+  ]
+}

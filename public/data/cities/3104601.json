@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3104601",
+  "city_name": "Astolfo Dutra",
+  "uf": "MG",
+  "population": 14138,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 62937124.02,
+    "total_expense": 61913038.67,
+    "own_revenue_percentage": 13.3,
+    "transfers_revenue_percentage": 86.7,
+    "personnel_expense_percentage_rcl": 46.1
+  },
+  "per_capita_breakdown": {
+    "health": 1162.7,
+    "education": 1115.2,
+    "urbanism": 447.1,
+    "administration": 483.4,
+    "legislative": 106.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3547.2,
+      "health_per_capita": 906.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3809.9,
+      "health_per_capita": 976.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4072.7,
+      "health_per_capita": 1046.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4291.6,
+      "health_per_capita": 1116.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4379.2,
+      "health_per_capita": 1162.7
+    }
+  ]
+}

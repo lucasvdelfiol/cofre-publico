@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3529302",
+  "city_name": "Matão",
+  "uf": "SP",
+  "population": 79033,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 367595263.45,
+    "total_expense": 370190631.6,
+    "own_revenue_percentage": 29.3,
+    "transfers_revenue_percentage": 70.7,
+    "personnel_expense_percentage_rcl": 49.6
+  },
+  "per_capita_breakdown": {
+    "health": 1154.2,
+    "education": 1484.7,
+    "urbanism": 412.9,
+    "administration": 416.8,
+    "legislative": 88.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3794.0,
+      "health_per_capita": 900.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4075.1,
+      "health_per_capita": 969.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4356.1,
+      "health_per_capita": 1038.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4590.3,
+      "health_per_capita": 1108.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4684.0,
+      "health_per_capita": 1154.2
+    }
+  ]
+}

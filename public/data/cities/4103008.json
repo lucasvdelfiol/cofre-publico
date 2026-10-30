@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4103008",
+  "city_name": "Boa Esperança",
+  "uf": "PR",
+  "population": 4558,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 22633880.33,
+    "total_expense": 22569598.01,
+    "own_revenue_percentage": 11.0,
+    "transfers_revenue_percentage": 89.0,
+    "personnel_expense_percentage_rcl": 50.0
+  },
+  "per_capita_breakdown": {
+    "health": 1293.3,
+    "education": 1360.2,
+    "urbanism": 527.7,
+    "administration": 348.9,
+    "legislative": 88.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4010.8,
+      "health_per_capita": 1008.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4307.9,
+      "health_per_capita": 1086.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4605.0,
+      "health_per_capita": 1164.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4852.6,
+      "health_per_capita": 1241.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4951.6,
+      "health_per_capita": 1293.3
+    }
+  ]
+}

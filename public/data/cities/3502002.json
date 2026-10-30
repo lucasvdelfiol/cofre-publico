@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3502002",
+  "city_name": "Analândia",
+  "uf": "SP",
+  "population": 4589,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 24107919.3,
+    "total_expense": 23826413.13,
+    "own_revenue_percentage": 9.7,
+    "transfers_revenue_percentage": 90.3,
+    "personnel_expense_percentage_rcl": 48.8
+  },
+  "per_capita_breakdown": {
+    "health": 1308.3,
+    "education": 1350.4,
+    "urbanism": 706.2,
+    "administration": 569.9,
+    "legislative": 107.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4205.6,
+      "health_per_capita": 1020.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4517.1,
+      "health_per_capita": 1099.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4828.7,
+      "health_per_capita": 1177.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5088.3,
+      "health_per_capita": 1256.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5192.1,
+      "health_per_capita": 1308.3
+    }
+  ]
+}

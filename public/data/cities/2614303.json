@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2614303",
+  "city_name": "Moreilândia",
+  "uf": "PE",
+  "population": 10540,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 50236549.09,
+    "total_expense": 50154398.99,
+    "own_revenue_percentage": 16.0,
+    "transfers_revenue_percentage": 84.0,
+    "personnel_expense_percentage_rcl": 49.6
+  },
+  "per_capita_breakdown": {
+    "health": 1123.7,
+    "education": 1314.0,
+    "urbanism": 561.6,
+    "administration": 521.7,
+    "legislative": 83.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3854.4,
+      "health_per_capita": 876.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4139.9,
+      "health_per_capita": 943.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4425.4,
+      "health_per_capita": 1011.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4663.3,
+      "health_per_capita": 1078.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4758.5,
+      "health_per_capita": 1123.7
+    }
+  ]
+}

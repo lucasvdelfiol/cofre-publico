@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2110278",
+  "city_name": "Santo Amaro do Maranhão",
+  "uf": "MA",
+  "population": 13949,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 68962525.36,
+    "total_expense": 68207772.27,
+    "own_revenue_percentage": 16.4,
+    "transfers_revenue_percentage": 83.6,
+    "personnel_expense_percentage_rcl": 46.6
+  },
+  "per_capita_breakdown": {
+    "health": 1346.9,
+    "education": 1442.6,
+    "urbanism": 682.7,
+    "administration": 567.5,
+    "legislative": 99.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3960.7,
+      "health_per_capita": 1050.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4254.1,
+      "health_per_capita": 1131.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4547.5,
+      "health_per_capita": 1212.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4792.0,
+      "health_per_capita": 1293.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4889.8,
+      "health_per_capita": 1346.9
+    }
+  ]
+}

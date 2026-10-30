@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5218789",
+  "city_name": "Rio Quente",
+  "uf": "GO",
+  "population": 3864,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 21014117.55,
+    "total_expense": 20911413.44,
+    "own_revenue_percentage": 13.3,
+    "transfers_revenue_percentage": 86.7,
+    "personnel_expense_percentage_rcl": 48.7
+  },
+  "per_capita_breakdown": {
+    "health": 1279.2,
+    "education": 1401.9,
+    "urbanism": 758.9,
+    "administration": 597.0,
+    "legislative": 180.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4383.6,
+      "health_per_capita": 997.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4708.4,
+      "health_per_capita": 1074.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5033.1,
+      "health_per_capita": 1151.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5303.7,
+      "health_per_capita": 1228.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5411.9,
+      "health_per_capita": 1279.2
+    }
+  ]
+}

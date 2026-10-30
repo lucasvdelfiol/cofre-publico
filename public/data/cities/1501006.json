@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1501006",
+  "city_name": "Aveiro",
+  "uf": "PA",
+  "population": 18290,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 93968007.74,
+    "total_expense": 94495398.83,
+    "own_revenue_percentage": 16.5,
+    "transfers_revenue_percentage": 83.5,
+    "personnel_expense_percentage_rcl": 49.1
+  },
+  "per_capita_breakdown": {
+    "health": 1348.2,
+    "education": 1443.4,
+    "urbanism": 565.9,
+    "administration": 568.9,
+    "legislative": 91.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4184.9,
+      "health_per_capita": 1051.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4494.9,
+      "health_per_capita": 1132.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4804.8,
+      "health_per_capita": 1213.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5063.2,
+      "health_per_capita": 1294.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5166.5,
+      "health_per_capita": 1348.2
+    }
+  ]
+}

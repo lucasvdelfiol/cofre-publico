@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1505106",
+  "city_name": "Óbidos",
+  "uf": "PA",
+  "population": 52229,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 233459506.35,
+    "total_expense": 231398283.36,
+    "own_revenue_percentage": 35.2,
+    "transfers_revenue_percentage": 64.8,
+    "personnel_expense_percentage_rcl": 45.9
+  },
+  "per_capita_breakdown": {
+    "health": 1217.8,
+    "education": 1222.3,
+    "urbanism": 609.2,
+    "administration": 301.4,
+    "legislative": 87.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3588.7,
+      "health_per_capita": 949.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3854.5,
+      "health_per_capita": 1023.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4120.4,
+      "health_per_capita": 1096.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4341.9,
+      "health_per_capita": 1169.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4430.5,
+      "health_per_capita": 1217.8
+    }
+  ]
+}

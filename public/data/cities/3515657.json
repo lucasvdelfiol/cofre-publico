@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3515657",
+  "city_name": "Fernão",
+  "uf": "SP",
+  "population": 1656,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 8648989.53,
+    "total_expense": 8489534.29,
+    "own_revenue_percentage": 8.2,
+    "transfers_revenue_percentage": 91.8,
+    "personnel_expense_percentage_rcl": 50.8
+  },
+  "per_capita_breakdown": {
+    "health": 1298.0,
+    "education": 1349.3,
+    "urbanism": 690.0,
+    "administration": 488.9,
+    "legislative": 141.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4152.5,
+      "health_per_capita": 1012.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4460.1,
+      "health_per_capita": 1090.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4767.6,
+      "health_per_capita": 1168.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5024.0,
+      "health_per_capita": 1246.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5126.5,
+      "health_per_capita": 1298.0
+    }
+  ]
+}

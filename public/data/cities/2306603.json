@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2306603",
+  "city_name": "Itatira",
+  "uf": "CE",
+  "population": 20424,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 100507795.43,
+    "total_expense": 98592476.62,
+    "own_revenue_percentage": 28.9,
+    "transfers_revenue_percentage": 71.1,
+    "personnel_expense_percentage_rcl": 50.0
+  },
+  "per_capita_breakdown": {
+    "health": 1177.9,
+    "education": 1380.1,
+    "urbanism": 556.0,
+    "administration": 505.5,
+    "legislative": 84.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3910.1,
+      "health_per_capita": 918.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4199.8,
+      "health_per_capita": 989.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4489.4,
+      "health_per_capita": 1060.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4730.8,
+      "health_per_capita": 1130.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4827.3,
+      "health_per_capita": 1177.9
+    }
+  ]
+}

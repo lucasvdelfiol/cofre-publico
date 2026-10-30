@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2408003",
+  "city_name": "Mossoró",
+  "uf": "RN",
+  "population": 264577,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 1491577706.67,
+    "total_expense": 1466699886.07,
+    "own_revenue_percentage": 43.0,
+    "transfers_revenue_percentage": 57.0,
+    "personnel_expense_percentage_rcl": 49.5
+  },
+  "per_capita_breakdown": {
+    "health": 1109.8,
+    "education": 1334.2,
+    "urbanism": 458.8,
+    "administration": 402.5,
+    "legislative": 160.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4490.3,
+      "health_per_capita": 865.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4822.9,
+      "health_per_capita": 932.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5155.5,
+      "health_per_capita": 998.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5432.7,
+      "health_per_capita": 1065.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5543.6,
+      "health_per_capita": 1109.8
+    }
+  ]
+}

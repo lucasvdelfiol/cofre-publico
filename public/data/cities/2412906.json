@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2412906",
+  "city_name": "São Tomé",
+  "uf": "RN",
+  "population": 9972,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 50504402.65,
+    "total_expense": 49678772.8,
+    "own_revenue_percentage": 8.2,
+    "transfers_revenue_percentage": 91.8,
+    "personnel_expense_percentage_rcl": 49.2
+  },
+  "per_capita_breakdown": {
+    "health": 1127.5,
+    "education": 1284.4,
+    "urbanism": 687.5,
+    "administration": 439.6,
+    "legislative": 158.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4035.3,
+      "health_per_capita": 879.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4334.2,
+      "health_per_capita": 947.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4633.1,
+      "health_per_capita": 1014.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4882.2,
+      "health_per_capita": 1082.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4981.8,
+      "health_per_capita": 1127.5
+    }
+  ]
+}

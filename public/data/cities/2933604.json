@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2933604",
+  "city_name": "Xique-Xique",
+  "uf": "BA",
+  "population": 44757,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 209124416.24,
+    "total_expense": 210774449.09,
+    "own_revenue_percentage": 18.9,
+    "transfers_revenue_percentage": 81.1,
+    "personnel_expense_percentage_rcl": 49.3
+  },
+  "per_capita_breakdown": {
+    "health": 1167.3,
+    "education": 1488.6,
+    "urbanism": 729.8,
+    "administration": 379.0,
+    "legislative": 144.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3814.5,
+      "health_per_capita": 910.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4097.1,
+      "health_per_capita": 980.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4379.6,
+      "health_per_capita": 1050.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4615.1,
+      "health_per_capita": 1120.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4709.3,
+      "health_per_capita": 1167.3
+    }
+  ]
+}

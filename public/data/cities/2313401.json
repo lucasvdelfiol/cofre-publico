@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2313401",
+  "city_name": "Tianguá",
+  "uf": "CE",
+  "population": 81506,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 384698988.78,
+    "total_expense": 385427878.59,
+    "own_revenue_percentage": 37.0,
+    "transfers_revenue_percentage": 63.0,
+    "personnel_expense_percentage_rcl": 52.2
+  },
+  "per_capita_breakdown": {
+    "health": 1299.6,
+    "education": 1243.7,
+    "urbanism": 581.8,
+    "administration": 352.4,
+    "legislative": 96.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3830.3,
+      "health_per_capita": 1013.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4114.1,
+      "health_per_capita": 1091.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4397.8,
+      "health_per_capita": 1169.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4634.2,
+      "health_per_capita": 1247.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4728.8,
+      "health_per_capita": 1299.6
+    }
+  ]
+}

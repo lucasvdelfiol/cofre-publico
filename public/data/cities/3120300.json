@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3120300",
+  "city_name": "Cristália",
+  "uf": "MG",
+  "population": 5121,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 22282668.04,
+    "total_expense": 22344608.61,
+    "own_revenue_percentage": 14.9,
+    "transfers_revenue_percentage": 85.1,
+    "personnel_expense_percentage_rcl": 51.5
+  },
+  "per_capita_breakdown": {
+    "health": 1093.0,
+    "education": 1181.1,
+    "urbanism": 545.4,
+    "administration": 382.6,
+    "legislative": 122.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3534.3,
+      "health_per_capita": 852.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3796.1,
+      "health_per_capita": 918.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4057.9,
+      "health_per_capita": 983.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4276.0,
+      "health_per_capita": 1049.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4363.3,
+      "health_per_capita": 1093.0
+    }
+  ]
+}

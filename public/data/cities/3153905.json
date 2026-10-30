@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3153905",
+  "city_name": "Raposos",
+  "uf": "MG",
+  "population": 16279,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 87926928.39,
+    "total_expense": 85448434.2,
+    "own_revenue_percentage": 16.3,
+    "transfers_revenue_percentage": 83.7,
+    "personnel_expense_percentage_rcl": 51.3
+  },
+  "per_capita_breakdown": {
+    "health": 1210.3,
+    "education": 1535.2,
+    "urbanism": 693.2,
+    "administration": 452.3,
+    "legislative": 133.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4251.7,
+      "health_per_capita": 944.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4566.6,
+      "health_per_capita": 1016.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4881.6,
+      "health_per_capita": 1089.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5144.0,
+      "health_per_capita": 1161.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5249.0,
+      "health_per_capita": 1210.3
+    }
+  ]
+}

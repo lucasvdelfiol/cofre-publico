@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4311254",
+  "city_name": "Lagoão",
+  "uf": "RS",
+  "population": 5341,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 26691506.87,
+    "total_expense": 25781980.36,
+    "own_revenue_percentage": 12.2,
+    "transfers_revenue_percentage": 87.8,
+    "personnel_expense_percentage_rcl": 50.0
+  },
+  "per_capita_breakdown": {
+    "health": 1345.0,
+    "education": 1171.8,
+    "urbanism": 663.5,
+    "administration": 565.7,
+    "legislative": 91.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3910.0,
+      "health_per_capita": 1049.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4199.7,
+      "health_per_capita": 1129.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4489.3,
+      "health_per_capita": 1210.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4730.7,
+      "health_per_capita": 1291.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4827.2,
+      "health_per_capita": 1345.0
+    }
+  ]
+}

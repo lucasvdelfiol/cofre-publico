@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5205406",
+  "city_name": "Ceres",
+  "uf": "GO",
+  "population": 22046,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 110550050.22,
+    "total_expense": 106387651.44,
+    "own_revenue_percentage": 30.7,
+    "transfers_revenue_percentage": 69.3,
+    "personnel_expense_percentage_rcl": 50.8
+  },
+  "per_capita_breakdown": {
+    "health": 1042.2,
+    "education": 1232.0,
+    "urbanism": 596.7,
+    "administration": 540.8,
+    "legislative": 133.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3908.8,
+      "health_per_capita": 812.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4198.4,
+      "health_per_capita": 875.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4487.9,
+      "health_per_capita": 938.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4729.2,
+      "health_per_capita": 1000.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4825.7,
+      "health_per_capita": 1042.2
+    }
+  ]
+}

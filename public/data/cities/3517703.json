@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3517703",
+  "city_name": "Guará",
+  "uf": "SP",
+  "population": 18606,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 83485993.94,
+    "total_expense": 82269371.96,
+    "own_revenue_percentage": 13.6,
+    "transfers_revenue_percentage": 86.4,
+    "personnel_expense_percentage_rcl": 52.1
+  },
+  "per_capita_breakdown": {
+    "health": 956.1,
+    "education": 1299.6,
+    "urbanism": 526.0,
+    "administration": 354.5,
+    "legislative": 108.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3581.6,
+      "health_per_capita": 745.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3846.9,
+      "health_per_capita": 803.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4112.2,
+      "health_per_capita": 860.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4333.3,
+      "health_per_capita": 917.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4421.7,
+      "health_per_capita": 956.1
+    }
+  ]
+}

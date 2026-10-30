@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3510153",
+  "city_name": "Canitar",
+  "uf": "SP",
+  "population": 6283,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 29104759.99,
+    "total_expense": 28806370.56,
+    "own_revenue_percentage": 19.4,
+    "transfers_revenue_percentage": 80.6,
+    "personnel_expense_percentage_rcl": 49.6
+  },
+  "per_capita_breakdown": {
+    "health": 1020.3,
+    "education": 1387.5,
+    "urbanism": 556.3,
+    "administration": 428.8,
+    "legislative": 137.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3713.7,
+      "health_per_capita": 795.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3988.8,
+      "health_per_capita": 857.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4263.9,
+      "health_per_capita": 918.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4493.1,
+      "health_per_capita": 979.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4584.8,
+      "health_per_capita": 1020.3
+    }
+  ]
+}

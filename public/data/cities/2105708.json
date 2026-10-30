@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2105708",
+  "city_name": "Lago da Pedra",
+  "uf": "MA",
+  "population": 44403,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 209304811.82,
+    "total_expense": 204925538.02,
+    "own_revenue_percentage": 29.8,
+    "transfers_revenue_percentage": 70.2,
+    "personnel_expense_percentage_rcl": 46.6
+  },
+  "per_capita_breakdown": {
+    "health": 985.0,
+    "education": 1308.3,
+    "urbanism": 486.3,
+    "administration": 401.1,
+    "legislative": 89.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3738.2,
+      "health_per_capita": 768.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4015.1,
+      "health_per_capita": 827.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4292.0,
+      "health_per_capita": 886.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4522.8,
+      "health_per_capita": 945.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4615.1,
+      "health_per_capita": 985.0
+    }
+  ]
+}

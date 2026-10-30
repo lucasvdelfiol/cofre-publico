@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2929701",
+  "city_name": "Sátiro Dias",
+  "uf": "BA",
+  "population": 16008,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 77090777.14,
+    "total_expense": 75451965.38,
+    "own_revenue_percentage": 19.6,
+    "transfers_revenue_percentage": 80.4,
+    "personnel_expense_percentage_rcl": 50.1
+  },
+  "per_capita_breakdown": {
+    "health": 1015.4,
+    "education": 1297.7,
+    "urbanism": 382.2,
+    "administration": 500.8,
+    "legislative": 143.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3817.9,
+      "health_per_capita": 792.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4100.7,
+      "health_per_capita": 852.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4383.5,
+      "health_per_capita": 913.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4619.1,
+      "health_per_capita": 974.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4713.4,
+      "health_per_capita": 1015.4
+    }
+  ]
+}

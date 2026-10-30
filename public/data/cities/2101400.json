@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2101400",
+  "city_name": "Balsas",
+  "uf": "MA",
+  "population": 101767,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 576859488.84,
+    "total_expense": 562213365.75,
+    "own_revenue_percentage": 38.4,
+    "transfers_revenue_percentage": 61.6,
+    "personnel_expense_percentage_rcl": 50.4
+  },
+  "per_capita_breakdown": {
+    "health": 1119.2,
+    "education": 1739.0,
+    "urbanism": 720.9,
+    "administration": 461.3,
+    "legislative": 159.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4474.8,
+      "health_per_capita": 873.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4806.3,
+      "health_per_capita": 940.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5137.8,
+      "health_per_capita": 1007.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5414.0,
+      "health_per_capita": 1074.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5524.5,
+      "health_per_capita": 1119.2
+    }
+  ]
+}

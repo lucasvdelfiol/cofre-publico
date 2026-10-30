@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4123857",
+  "city_name": "Santa Maria do Oeste",
+  "uf": "PR",
+  "population": 9934,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 53356811.08,
+    "total_expense": 52993909.5,
+    "own_revenue_percentage": 12.9,
+    "transfers_revenue_percentage": 87.1,
+    "personnel_expense_percentage_rcl": 49.1
+  },
+  "per_capita_breakdown": {
+    "health": 1323.8,
+    "education": 1502.5,
+    "urbanism": 736.7,
+    "administration": 379.6,
+    "legislative": 180.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4321.0,
+      "health_per_capita": 1032.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4641.1,
+      "health_per_capita": 1112.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4961.2,
+      "health_per_capita": 1191.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5227.9,
+      "health_per_capita": 1270.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5334.6,
+      "health_per_capita": 1323.8
+    }
+  ]
+}

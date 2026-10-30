@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3524402",
+  "city_name": "Jacareí",
+  "uf": "SP",
+  "population": 240275,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 1125513889.31,
+    "total_expense": 1133081791.67,
+    "own_revenue_percentage": 46.6,
+    "transfers_revenue_percentage": 53.4,
+    "personnel_expense_percentage_rcl": 44.9
+  },
+  "per_capita_breakdown": {
+    "health": 989.0,
+    "education": 1244.4,
+    "urbanism": 509.6,
+    "administration": 373.1,
+    "legislative": 118.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3819.8,
+      "health_per_capita": 771.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4102.7,
+      "health_per_capita": 830.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4385.7,
+      "health_per_capita": 890.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4621.5,
+      "health_per_capita": 949.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4715.8,
+      "health_per_capita": 989.0
+    }
+  ]
+}

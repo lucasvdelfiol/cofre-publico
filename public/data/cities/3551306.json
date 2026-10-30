@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3551306",
+  "city_name": "Sebastianópolis do Sul",
+  "uf": "SP",
+  "population": 3130,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 14289695.3,
+    "total_expense": 13768548.83,
+    "own_revenue_percentage": 8.0,
+    "transfers_revenue_percentage": 92.0,
+    "personnel_expense_percentage_rcl": 49.5
+  },
+  "per_capita_breakdown": {
+    "health": 983.8,
+    "education": 1404.3,
+    "urbanism": 672.9,
+    "administration": 499.7,
+    "legislative": 83.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3563.1,
+      "health_per_capita": 767.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3827.0,
+      "health_per_capita": 826.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4091.0,
+      "health_per_capita": 885.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4310.9,
+      "health_per_capita": 944.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4398.9,
+      "health_per_capita": 983.8
+    }
+  ]
+}

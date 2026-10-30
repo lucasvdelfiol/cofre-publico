@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3115508",
+  "city_name": "Caxambu",
+  "uf": "MG",
+  "population": 21056,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 100631813.62,
+    "total_expense": 100295508.68,
+    "own_revenue_percentage": 24.8,
+    "transfers_revenue_percentage": 75.2,
+    "personnel_expense_percentage_rcl": 51.6
+  },
+  "per_capita_breakdown": {
+    "health": 1171.8,
+    "education": 1366.2,
+    "urbanism": 613.8,
+    "administration": 368.2,
+    "legislative": 161.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3858.3,
+      "health_per_capita": 914.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4144.1,
+      "health_per_capita": 984.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4429.9,
+      "health_per_capita": 1054.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4668.0,
+      "health_per_capita": 1124.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4763.3,
+      "health_per_capita": 1171.8
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5209291",
+  "city_name": "Guaraíta",
+  "uf": "GO",
+  "population": 2188,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 10303902.55,
+    "total_expense": 9989976.57,
+    "own_revenue_percentage": 8.3,
+    "transfers_revenue_percentage": 91.7,
+    "personnel_expense_percentage_rcl": 49.0
+  },
+  "per_capita_breakdown": {
+    "health": 1009.1,
+    "education": 1386.0,
+    "urbanism": 548.6,
+    "administration": 361.1,
+    "legislative": 141.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3698.3,
+      "health_per_capita": 787.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3972.2,
+      "health_per_capita": 847.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4246.2,
+      "health_per_capita": 908.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4474.5,
+      "health_per_capita": 968.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4565.8,
+      "health_per_capita": 1009.1
+    }
+  ]
+}

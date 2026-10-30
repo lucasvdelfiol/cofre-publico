@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4322251",
+  "city_name": "Tupandi",
+  "uf": "RS",
+  "population": 5029,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 22734486.57,
+    "total_expense": 22763281.84,
+    "own_revenue_percentage": 8.5,
+    "transfers_revenue_percentage": 91.5,
+    "personnel_expense_percentage_rcl": 47.3
+  },
+  "per_capita_breakdown": {
+    "health": 1193.1,
+    "education": 1199.5,
+    "urbanism": 445.9,
+    "administration": 451.7,
+    "legislative": 117.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3666.4,
+      "health_per_capita": 930.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3938.0,
+      "health_per_capita": 1002.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4209.6,
+      "health_per_capita": 1073.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4435.9,
+      "health_per_capita": 1145.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4526.4,
+      "health_per_capita": 1193.1
+    }
+  ]
+}

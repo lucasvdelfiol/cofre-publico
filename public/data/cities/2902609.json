@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2902609",
+  "city_name": "Baixa Grande",
+  "uf": "BA",
+  "population": 18220,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 93208358.4,
+    "total_expense": 91951139.38,
+    "own_revenue_percentage": 20.4,
+    "transfers_revenue_percentage": 79.6,
+    "personnel_expense_percentage_rcl": 46.9
+  },
+  "per_capita_breakdown": {
+    "health": 1135.4,
+    "education": 1375.2,
+    "urbanism": 412.9,
+    "administration": 333.2,
+    "legislative": 110.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4087.8,
+      "health_per_capita": 885.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4390.6,
+      "health_per_capita": 953.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4693.4,
+      "health_per_capita": 1021.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4945.8,
+      "health_per_capita": 1090.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5046.7,
+      "health_per_capita": 1135.4
+    }
+  ]
+}

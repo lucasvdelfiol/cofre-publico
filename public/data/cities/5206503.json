@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5206503",
+  "city_name": "Cromínia",
+  "uf": "GO",
+  "population": 3883,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 17865209.09,
+    "total_expense": 17227760.84,
+    "own_revenue_percentage": 10.6,
+    "transfers_revenue_percentage": 89.4,
+    "personnel_expense_percentage_rcl": 46.1
+  },
+  "per_capita_breakdown": {
+    "health": 1116.9,
+    "education": 1177.0,
+    "urbanism": 439.0,
+    "administration": 300.5,
+    "legislative": 99.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3593.7,
+      "health_per_capita": 871.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3859.9,
+      "health_per_capita": 938.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4126.1,
+      "health_per_capita": 1005.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4348.0,
+      "health_per_capita": 1072.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4436.7,
+      "health_per_capita": 1116.9
+    }
+  ]
+}

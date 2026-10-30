@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4219101",
+  "city_name": "Vargeão",
+  "uf": "SC",
+  "population": 3634,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 19160159.47,
+    "total_expense": 18768708.38,
+    "own_revenue_percentage": 13.2,
+    "transfers_revenue_percentage": 86.8,
+    "personnel_expense_percentage_rcl": 50.9
+  },
+  "per_capita_breakdown": {
+    "health": 1066.6,
+    "education": 1565.3,
+    "urbanism": 712.8,
+    "administration": 556.0,
+    "legislative": 164.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4183.5,
+      "health_per_capita": 831.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4493.4,
+      "health_per_capita": 895.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4803.3,
+      "health_per_capita": 959.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5061.5,
+      "health_per_capita": 1023.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5164.8,
+      "health_per_capita": 1066.6
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3303807",
+  "city_name": "Paraty",
+  "uf": "RJ",
+  "population": 45243,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 196945540.87,
+    "total_expense": 190254713.06,
+    "own_revenue_percentage": 30.2,
+    "transfers_revenue_percentage": 69.8,
+    "personnel_expense_percentage_rcl": 50.5
+  },
+  "per_capita_breakdown": {
+    "health": 1064.3,
+    "education": 1248.8,
+    "urbanism": 338.1,
+    "administration": 328.2,
+    "legislative": 113.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3406.2,
+      "health_per_capita": 830.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3658.5,
+      "health_per_capita": 894.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3910.8,
+      "health_per_capita": 957.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4121.1,
+      "health_per_capita": 1021.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4205.2,
+      "health_per_capita": 1064.3
+    }
+  ]
+}

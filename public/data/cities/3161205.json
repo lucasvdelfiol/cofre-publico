@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3161205",
+  "city_name": "São Francisco de Paula",
+  "uf": "MG",
+  "population": 6187,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 28816944.31,
+    "total_expense": 28119173.43,
+    "own_revenue_percentage": 20.8,
+    "transfers_revenue_percentage": 79.2,
+    "personnel_expense_percentage_rcl": 46.2
+  },
+  "per_capita_breakdown": {
+    "health": 1180.8,
+    "education": 1201.5,
+    "urbanism": 460.0,
+    "administration": 288.8,
+    "legislative": 110.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3681.4,
+      "health_per_capita": 921.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3954.1,
+      "health_per_capita": 991.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4226.8,
+      "health_per_capita": 1062.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4454.0,
+      "health_per_capita": 1133.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4544.9,
+      "health_per_capita": 1180.8
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2613602",
+  "city_name": "São José do Egito",
+  "uf": "PE",
+  "population": 31004,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 149172731.43,
+    "total_expense": 145573927.24,
+    "own_revenue_percentage": 27.9,
+    "transfers_revenue_percentage": 72.1,
+    "personnel_expense_percentage_rcl": 49.9
+  },
+  "per_capita_breakdown": {
+    "health": 956.0,
+    "education": 1393.7,
+    "urbanism": 475.5,
+    "administration": 415.2,
+    "legislative": 129.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3803.2,
+      "health_per_capita": 745.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4084.9,
+      "health_per_capita": 803.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4366.6,
+      "health_per_capita": 860.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4601.4,
+      "health_per_capita": 917.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4695.3,
+      "health_per_capita": 956.0
+    }
+  ]
+}

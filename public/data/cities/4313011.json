@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4313011",
+  "city_name": "Nova Candelária",
+  "uf": "RS",
+  "population": 3061,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 13565971.26,
+    "total_expense": 13229020.84,
+    "own_revenue_percentage": 15.5,
+    "transfers_revenue_percentage": 84.5,
+    "personnel_expense_percentage_rcl": 53.0
+  },
+  "per_capita_breakdown": {
+    "health": 1101.0,
+    "education": 1361.1,
+    "urbanism": 653.4,
+    "administration": 357.9,
+    "legislative": 101.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3500.7,
+      "health_per_capita": 858.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3760.0,
+      "health_per_capita": 924.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4019.3,
+      "health_per_capita": 990.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4235.4,
+      "health_per_capita": 1057.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4321.8,
+      "health_per_capita": 1101.0
+    }
+  ]
+}

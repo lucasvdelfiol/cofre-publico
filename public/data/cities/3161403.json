@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3161403",
+  "city_name": "São Francisco do Glória",
+  "uf": "MG",
+  "population": 4800,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 24587780.41,
+    "total_expense": 24254061.64,
+    "own_revenue_percentage": 21.4,
+    "transfers_revenue_percentage": 78.6,
+    "personnel_expense_percentage_rcl": 53.5
+  },
+  "per_capita_breakdown": {
+    "health": 1172.4,
+    "education": 1294.5,
+    "urbanism": 517.5,
+    "administration": 547.5,
+    "legislative": 163.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4092.8,
+      "health_per_capita": 914.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4396.0,
+      "health_per_capita": 984.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4699.2,
+      "health_per_capita": 1055.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4951.8,
+      "health_per_capita": 1125.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5052.9,
+      "health_per_capita": 1172.4
+    }
+  ]
+}

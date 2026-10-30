@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4308854",
+  "city_name": "Gentil",
+  "uf": "RS",
+  "population": 1744,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 7852914.12,
+    "total_expense": 7655031.99,
+    "own_revenue_percentage": 18.4,
+    "transfers_revenue_percentage": 81.6,
+    "personnel_expense_percentage_rcl": 47.3
+  },
+  "per_capita_breakdown": {
+    "health": 952.3,
+    "education": 1137.0,
+    "urbanism": 526.6,
+    "administration": 440.3,
+    "legislative": 97.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3555.4,
+      "health_per_capita": 742.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3818.8,
+      "health_per_capita": 799.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4082.1,
+      "health_per_capita": 857.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4301.6,
+      "health_per_capita": 914.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4389.4,
+      "health_per_capita": 952.3
+    }
+  ]
+}

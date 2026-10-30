@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2409407",
+  "city_name": "Pau dos Ferros",
+  "uf": "RN",
+  "population": 30479,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 144927877.43,
+    "total_expense": 142799684.91,
+    "own_revenue_percentage": 25.5,
+    "transfers_revenue_percentage": 74.5,
+    "personnel_expense_percentage_rcl": 46.2
+  },
+  "per_capita_breakdown": {
+    "health": 1065.3,
+    "education": 1477.9,
+    "urbanism": 620.1,
+    "administration": 351.1,
+    "legislative": 88.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3795.0,
+      "health_per_capita": 830.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4076.1,
+      "health_per_capita": 894.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4357.2,
+      "health_per_capita": 958.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4591.5,
+      "health_per_capita": 1022.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4685.2,
+      "health_per_capita": 1065.3
+    }
+  ]
+}

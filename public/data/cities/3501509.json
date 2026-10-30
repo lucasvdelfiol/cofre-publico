@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3501509",
+  "city_name": "Alvinlândia",
+  "uf": "SP",
+  "population": 2885,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 12426385.03,
+    "total_expense": 12493289.12,
+    "own_revenue_percentage": 17.0,
+    "transfers_revenue_percentage": 83.0,
+    "personnel_expense_percentage_rcl": 48.4
+  },
+  "per_capita_breakdown": {
+    "health": 1208.9,
+    "education": 1166.9,
+    "urbanism": 448.1,
+    "administration": 475.5,
+    "legislative": 101.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3507.6,
+      "health_per_capita": 942.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3767.4,
+      "health_per_capita": 1015.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4027.3,
+      "health_per_capita": 1088.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4243.8,
+      "health_per_capita": 1160.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4330.4,
+      "health_per_capita": 1208.9
+    }
+  ]
+}

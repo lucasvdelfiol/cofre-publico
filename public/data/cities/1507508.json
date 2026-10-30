@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1507508",
+  "city_name": "São João do Araguaia",
+  "uf": "PA",
+  "population": 13664,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 72481131.36,
+    "total_expense": 71220675.83,
+    "own_revenue_percentage": 17.1,
+    "transfers_revenue_percentage": 82.9,
+    "personnel_expense_percentage_rcl": 51.9
+  },
+  "per_capita_breakdown": {
+    "health": 1046.0,
+    "education": 1361.8,
+    "urbanism": 763.0,
+    "administration": 524.0,
+    "legislative": 182.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4222.0,
+      "health_per_capita": 815.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4534.7,
+      "health_per_capita": 878.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4847.4,
+      "health_per_capita": 941.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5108.1,
+      "health_per_capita": 1004.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5212.3,
+      "health_per_capita": 1046.0
+    }
+  ]
+}

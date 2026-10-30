@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1504802",
+  "city_name": "Monte Alegre",
+  "uf": "PA",
+  "population": 60012,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 290641514.76,
+    "total_expense": 283681037.99,
+    "own_revenue_percentage": 40.8,
+    "transfers_revenue_percentage": 59.2,
+    "personnel_expense_percentage_rcl": 48.6
+  },
+  "per_capita_breakdown": {
+    "health": 1012.8,
+    "education": 1183.0,
+    "urbanism": 379.2,
+    "administration": 466.4,
+    "legislative": 118.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3829.0,
+      "health_per_capita": 790.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4112.6,
+      "health_per_capita": 850.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4396.2,
+      "health_per_capita": 911.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4632.6,
+      "health_per_capita": 972.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4727.1,
+      "health_per_capita": 1012.8
+    }
+  ]
+}

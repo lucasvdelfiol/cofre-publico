@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2900405",
+  "city_name": "Água Fria",
+  "uf": "BA",
+  "population": 14497,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 66736923.87,
+    "total_expense": 66762164.71,
+    "own_revenue_percentage": 21.2,
+    "transfers_revenue_percentage": 78.8,
+    "personnel_expense_percentage_rcl": 52.8
+  },
+  "per_capita_breakdown": {
+    "health": 1277.1,
+    "education": 1120.2,
+    "urbanism": 594.3,
+    "administration": 316.2,
+    "legislative": 72.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3730.2,
+      "health_per_capita": 996.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4006.5,
+      "health_per_capita": 1072.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4282.8,
+      "health_per_capita": 1149.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4513.1,
+      "health_per_capita": 1226.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4605.2,
+      "health_per_capita": 1277.1
+    }
+  ]
+}

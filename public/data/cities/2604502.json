@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2604502",
+  "city_name": "Chã Grande",
+  "uf": "PE",
+  "population": 20546,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 98479840.41,
+    "total_expense": 98939729.71,
+    "own_revenue_percentage": 30.9,
+    "transfers_revenue_percentage": 69.1,
+    "personnel_expense_percentage_rcl": 47.6
+  },
+  "per_capita_breakdown": {
+    "health": 1292.9,
+    "education": 1228.3,
+    "urbanism": 590.9,
+    "administration": 330.4,
+    "legislative": 164.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3900.6,
+      "health_per_capita": 1008.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4189.5,
+      "health_per_capita": 1086.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4478.4,
+      "health_per_capita": 1163.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4719.2,
+      "health_per_capita": 1241.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4815.5,
+      "health_per_capita": 1292.9
+    }
+  ]
+}

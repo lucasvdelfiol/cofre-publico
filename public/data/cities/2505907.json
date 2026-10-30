@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2505907",
+  "city_name": "Emas",
+  "uf": "PB",
+  "population": 3011,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 14663980.68,
+    "total_expense": 14195256.65,
+    "own_revenue_percentage": 12.6,
+    "transfers_revenue_percentage": 87.4,
+    "personnel_expense_percentage_rcl": 48.3
+  },
+  "per_capita_breakdown": {
+    "health": 1232.4,
+    "education": 1155.2,
+    "urbanism": 417.3,
+    "administration": 537.7,
+    "legislative": 136.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3818.7,
+      "health_per_capita": 961.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4101.6,
+      "health_per_capita": 1035.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4384.5,
+      "health_per_capita": 1109.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4620.2,
+      "health_per_capita": 1183.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4714.5,
+      "health_per_capita": 1232.4
+    }
+  ]
+}

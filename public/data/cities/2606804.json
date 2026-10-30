@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2606804",
+  "city_name": "Igarassu",
+  "uf": "PE",
+  "population": 115196,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 605010857.88,
+    "total_expense": 596202114.47,
+    "own_revenue_percentage": 41.1,
+    "transfers_revenue_percentage": 58.9,
+    "personnel_expense_percentage_rcl": 48.0
+  },
+  "per_capita_breakdown": {
+    "health": 1245.5,
+    "education": 1375.8,
+    "urbanism": 556.4,
+    "administration": 494.6,
+    "legislative": 119.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4192.2,
+      "health_per_capita": 971.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4502.7,
+      "health_per_capita": 1046.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4813.2,
+      "health_per_capita": 1121.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5072.0,
+      "health_per_capita": 1195.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5175.5,
+      "health_per_capita": 1245.5
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5221601",
+  "city_name": "Uruaçu",
+  "uf": "GO",
+  "population": 42546,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 204423038.32,
+    "total_expense": 197855300.06,
+    "own_revenue_percentage": 28.3,
+    "transfers_revenue_percentage": 71.7,
+    "personnel_expense_percentage_rcl": 46.5
+  },
+  "per_capita_breakdown": {
+    "health": 1108.4,
+    "education": 1147.9,
+    "urbanism": 445.2,
+    "administration": 527.4,
+    "legislative": 83.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3766.8,
+      "health_per_capita": 864.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4045.8,
+      "health_per_capita": 931.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4324.9,
+      "health_per_capita": 997.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4557.4,
+      "health_per_capita": 1064.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4650.4,
+      "health_per_capita": 1108.4
+    }
+  ]
+}

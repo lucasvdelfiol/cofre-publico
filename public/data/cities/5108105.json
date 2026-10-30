@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5108105",
+  "city_name": "Tesouro",
+  "uf": "MT",
+  "population": 3025,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 13544080.23,
+    "total_expense": 13650959.07,
+    "own_revenue_percentage": 13.2,
+    "transfers_revenue_percentage": 86.8,
+    "personnel_expense_percentage_rcl": 52.7
+  },
+  "per_capita_breakdown": {
+    "health": 953.9,
+    "education": 1149.4,
+    "urbanism": 501.9,
+    "administration": 344.3,
+    "legislative": 145.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3655.3,
+      "health_per_capita": 744.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3926.0,
+      "health_per_capita": 801.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4196.8,
+      "health_per_capita": 858.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4422.4,
+      "health_per_capita": 915.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4512.7,
+      "health_per_capita": 953.9
+    }
+  ]
+}

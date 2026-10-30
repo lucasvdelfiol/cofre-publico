@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3504602",
+  "city_name": "Bady Bassitt",
+  "uf": "SP",
+  "population": 27260,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 131177130.41,
+    "total_expense": 132146213.75,
+    "own_revenue_percentage": 26.6,
+    "transfers_revenue_percentage": 73.4,
+    "personnel_expense_percentage_rcl": 49.5
+  },
+  "per_capita_breakdown": {
+    "health": 1172.1,
+    "education": 1319.1,
+    "urbanism": 589.3,
+    "administration": 360.8,
+    "legislative": 107.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3926.6,
+      "health_per_capita": 914.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4217.4,
+      "health_per_capita": 984.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4508.3,
+      "health_per_capita": 1054.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4750.6,
+      "health_per_capita": 1125.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4847.6,
+      "health_per_capita": 1172.1
+    }
+  ]
+}

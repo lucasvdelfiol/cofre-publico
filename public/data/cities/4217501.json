@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4217501",
+  "city_name": "Seara",
+  "uf": "SC",
+  "population": 18620,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 103911227.19,
+    "total_expense": 99984874.64,
+    "own_revenue_percentage": 11.7,
+    "transfers_revenue_percentage": 88.3,
+    "personnel_expense_percentage_rcl": 51.6
+  },
+  "per_capita_breakdown": {
+    "health": 1253.3,
+    "education": 1479.9,
+    "urbanism": 757.1,
+    "administration": 572.2,
+    "legislative": 132.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4349.5,
+      "health_per_capita": 977.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4671.7,
+      "health_per_capita": 1052.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4993.9,
+      "health_per_capita": 1128.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5262.4,
+      "health_per_capita": 1203.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5369.8,
+      "health_per_capita": 1253.3
+    }
+  ]
+}

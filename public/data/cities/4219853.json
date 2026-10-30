@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4219853",
+  "city_name": "Zortéa",
+  "uf": "SC",
+  "population": 3930,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 20185244.38,
+    "total_expense": 20050244.79,
+    "own_revenue_percentage": 14.3,
+    "transfers_revenue_percentage": 85.7,
+    "personnel_expense_percentage_rcl": 51.7
+  },
+  "per_capita_breakdown": {
+    "health": 1104.8,
+    "education": 1351.3,
+    "urbanism": 598.4,
+    "administration": 528.5,
+    "legislative": 105.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4132.5,
+      "health_per_capita": 861.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4438.6,
+      "health_per_capita": 928.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4744.7,
+      "health_per_capita": 994.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4999.8,
+      "health_per_capita": 1060.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5101.8,
+      "health_per_capita": 1104.8
+    }
+  ]
+}

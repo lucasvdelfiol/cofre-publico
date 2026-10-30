@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5108006",
+  "city_name": "Tapurah",
+  "uf": "MT",
+  "population": 14370,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 77794681.08,
+    "total_expense": 75974358.53,
+    "own_revenue_percentage": 20.1,
+    "transfers_revenue_percentage": 79.9,
+    "personnel_expense_percentage_rcl": 51.1
+  },
+  "per_capita_breakdown": {
+    "health": 1339.8,
+    "education": 1513.7,
+    "urbanism": 444.8,
+    "administration": 417.3,
+    "legislative": 81.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4282.5,
+      "health_per_capita": 1045.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4599.7,
+      "health_per_capita": 1125.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4916.9,
+      "health_per_capita": 1205.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5181.3,
+      "health_per_capita": 1286.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5287.0,
+      "health_per_capita": 1339.8
+    }
+  ]
+}

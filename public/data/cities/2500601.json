@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2500601",
+  "city_name": "Alhandra",
+  "uf": "PB",
+  "population": 21730,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 96096056.52,
+    "total_expense": 92551108.99,
+    "own_revenue_percentage": 26.7,
+    "transfers_revenue_percentage": 73.3,
+    "personnel_expense_percentage_rcl": 51.7
+  },
+  "per_capita_breakdown": {
+    "health": 890.8,
+    "education": 1329.8,
+    "urbanism": 644.9,
+    "administration": 396.7,
+    "legislative": 142.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3449.9,
+      "health_per_capita": 694.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3705.4,
+      "health_per_capita": 748.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3961.0,
+      "health_per_capita": 801.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4173.9,
+      "health_per_capita": 855.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4259.1,
+      "health_per_capita": 890.8
+    }
+  ]
+}

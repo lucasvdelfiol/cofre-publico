@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5221502",
+  "city_name": "Turvânia",
+  "uf": "GO",
+  "population": 4480,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 22873844.62,
+    "total_expense": 22130489.82,
+    "own_revenue_percentage": 18.3,
+    "transfers_revenue_percentage": 81.7,
+    "personnel_expense_percentage_rcl": 50.0
+  },
+  "per_capita_breakdown": {
+    "health": 1010.7,
+    "education": 1449.0,
+    "urbanism": 676.2,
+    "administration": 348.4,
+    "legislative": 140.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4001.2,
+      "health_per_capita": 788.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4297.6,
+      "health_per_capita": 849.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4594.0,
+      "health_per_capita": 909.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4841.0,
+      "health_per_capita": 970.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4939.8,
+      "health_per_capita": 1010.7
+    }
+  ]
+}

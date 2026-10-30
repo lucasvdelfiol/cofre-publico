@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3122454",
+  "city_name": "Divisópolis",
+  "uf": "MG",
+  "population": 10213,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 57172773.66,
+    "total_expense": 55803817.44,
+    "own_revenue_percentage": 17.9,
+    "transfers_revenue_percentage": 82.1,
+    "personnel_expense_percentage_rcl": 49.5
+  },
+  "per_capita_breakdown": {
+    "health": 1504.7,
+    "education": 1351.1,
+    "urbanism": 615.7,
+    "administration": 502.6,
+    "legislative": 86.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4425.8,
+      "health_per_capita": 1173.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4753.7,
+      "health_per_capita": 1263.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5081.5,
+      "health_per_capita": 1354.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5354.7,
+      "health_per_capita": 1444.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5464.0,
+      "health_per_capita": 1504.7
+    }
+  ]
+}

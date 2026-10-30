@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4314787",
+  "city_name": "Ponte Preta",
+  "uf": "RS",
+  "population": 1575,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 7139827.58,
+    "total_expense": 7038755.91,
+    "own_revenue_percentage": 8.0,
+    "transfers_revenue_percentage": 92.0,
+    "personnel_expense_percentage_rcl": 50.1
+  },
+  "per_capita_breakdown": {
+    "health": 1204.3,
+    "education": 1406.9,
+    "urbanism": 576.2,
+    "administration": 528.5,
+    "legislative": 144.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3620.0,
+      "health_per_capita": 939.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3888.1,
+      "health_per_capita": 1011.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4156.3,
+      "health_per_capita": 1083.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4379.7,
+      "health_per_capita": 1156.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4469.1,
+      "health_per_capita": 1204.3
+    }
+  ]
+}

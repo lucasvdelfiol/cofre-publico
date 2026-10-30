@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2503753",
+  "city_name": "Cajazeirinhas",
+  "uf": "PB",
+  "population": 2740,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 12729267.07,
+    "total_expense": 12412482.92,
+    "own_revenue_percentage": 17.7,
+    "transfers_revenue_percentage": 82.3,
+    "personnel_expense_percentage_rcl": 47.1
+  },
+  "per_capita_breakdown": {
+    "health": 950.9,
+    "education": 1123.6,
+    "urbanism": 551.1,
+    "administration": 521.1,
+    "legislative": 134.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3669.4,
+      "health_per_capita": 741.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3941.2,
+      "health_per_capita": 798.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4213.0,
+      "health_per_capita": 855.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4439.5,
+      "health_per_capita": 912.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4530.1,
+      "health_per_capita": 950.9
+    }
+  ]
+}

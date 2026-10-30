@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3143104",
+  "city_name": "Monte Carmelo",
+  "uf": "MG",
+  "population": 47692,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 212309677.38,
+    "total_expense": 213312292.53,
+    "own_revenue_percentage": 23.9,
+    "transfers_revenue_percentage": 76.1,
+    "personnel_expense_percentage_rcl": 52.6
+  },
+  "per_capita_breakdown": {
+    "health": 897.2,
+    "education": 1201.3,
+    "urbanism": 454.1,
+    "administration": 408.7,
+    "legislative": 71.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3622.9,
+      "health_per_capita": 699.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3891.2,
+      "health_per_capita": 753.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4159.6,
+      "health_per_capita": 807.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4383.2,
+      "health_per_capita": 861.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4472.7,
+      "health_per_capita": 897.2
+    }
+  ]
+}

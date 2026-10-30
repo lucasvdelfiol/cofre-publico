@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4207809",
+  "city_name": "Irani",
+  "uf": "SC",
+  "population": 10195,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 56921371.81,
+    "total_expense": 56476570.95,
+    "own_revenue_percentage": 9.9,
+    "transfers_revenue_percentage": 90.1,
+    "personnel_expense_percentage_rcl": 48.7
+  },
+  "per_capita_breakdown": {
+    "health": 1270.1,
+    "education": 1489.2,
+    "urbanism": 881.0,
+    "administration": 377.7,
+    "legislative": 139.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4487.1,
+      "health_per_capita": 990.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4819.5,
+      "health_per_capita": 1066.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5151.8,
+      "health_per_capita": 1143.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5428.8,
+      "health_per_capita": 1219.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5539.6,
+      "health_per_capita": 1270.1
+    }
+  ]
+}

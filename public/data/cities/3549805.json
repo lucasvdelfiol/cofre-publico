@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3549805",
+  "city_name": "São José do Rio Preto",
+  "uf": "SP",
+  "population": 480393,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 2344621557.87,
+    "total_expense": 2274185003.19,
+    "own_revenue_percentage": 41.1,
+    "transfers_revenue_percentage": 58.9,
+    "personnel_expense_percentage_rcl": 48.2
+  },
+  "per_capita_breakdown": {
+    "health": 1246.1,
+    "education": 1275.0,
+    "urbanism": 548.3,
+    "administration": 538.1,
+    "legislative": 145.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3834.5,
+      "health_per_capita": 972.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4118.6,
+      "health_per_capita": 1046.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4402.6,
+      "health_per_capita": 1121.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4639.3,
+      "health_per_capita": 1196.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4734.0,
+      "health_per_capita": 1246.1
+    }
+  ]
+}

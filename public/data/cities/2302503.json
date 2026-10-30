@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2302503",
+  "city_name": "Brejo Santo",
+  "uf": "CE",
+  "population": 51090,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 242607847.67,
+    "total_expense": 238378298.8,
+    "own_revenue_percentage": 40.6,
+    "transfers_revenue_percentage": 59.4,
+    "personnel_expense_percentage_rcl": 48.8
+  },
+  "per_capita_breakdown": {
+    "health": 1140.2,
+    "education": 1355.2,
+    "urbanism": 625.0,
+    "administration": 554.0,
+    "legislative": 114.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3779.4,
+      "health_per_capita": 889.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4059.3,
+      "health_per_capita": 957.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4339.3,
+      "health_per_capita": 1026.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4572.6,
+      "health_per_capita": 1094.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4665.9,
+      "health_per_capita": 1140.2
+    }
+  ]
+}

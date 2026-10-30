@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3553401",
+  "city_name": "Tanabi",
+  "uf": "SP",
+  "population": 25265,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 118027394.32,
+    "total_expense": 118011614.61,
+    "own_revenue_percentage": 27.6,
+    "transfers_revenue_percentage": 72.4,
+    "personnel_expense_percentage_rcl": 52.1
+  },
+  "per_capita_breakdown": {
+    "health": 1023.7,
+    "education": 1306.0,
+    "urbanism": 419.8,
+    "administration": 386.7,
+    "legislative": 158.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3783.5,
+      "health_per_capita": 798.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4063.8,
+      "health_per_capita": 859.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4344.0,
+      "health_per_capita": 921.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4577.6,
+      "health_per_capita": 982.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4671.0,
+      "health_per_capita": 1023.7
+    }
+  ]
+}

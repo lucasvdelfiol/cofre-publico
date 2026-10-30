@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2504801",
+  "city_name": "Coremas",
+  "uf": "PB",
+  "population": 14683,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 66524772.58,
+    "total_expense": 66944307.79,
+    "own_revenue_percentage": 21.2,
+    "transfers_revenue_percentage": 78.8,
+    "personnel_expense_percentage_rcl": 50.8
+  },
+  "per_capita_breakdown": {
+    "health": 1000.3,
+    "education": 1274.4,
+    "urbanism": 627.7,
+    "administration": 430.7,
+    "legislative": 86.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3693.0,
+      "health_per_capita": 780.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3966.6,
+      "health_per_capita": 840.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4240.1,
+      "health_per_capita": 900.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4468.1,
+      "health_per_capita": 960.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4559.3,
+      "health_per_capita": 1000.3
+    }
+  ]
+}

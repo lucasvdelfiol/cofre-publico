@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4104451",
+  "city_name": "Cantagalo",
+  "uf": "PR",
+  "population": 10933,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 54911426.46,
+    "total_expense": 53935272.87,
+    "own_revenue_percentage": 21.7,
+    "transfers_revenue_percentage": 78.3,
+    "personnel_expense_percentage_rcl": 48.2
+  },
+  "per_capita_breakdown": {
+    "health": 1033.9,
+    "education": 1221.7,
+    "urbanism": 741.0,
+    "administration": 582.3,
+    "legislative": 92.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3996.0,
+      "health_per_capita": 806.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4292.0,
+      "health_per_capita": 868.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4588.0,
+      "health_per_capita": 930.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4834.6,
+      "health_per_capita": 992.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4933.3,
+      "health_per_capita": 1033.9
+    }
+  ]
+}

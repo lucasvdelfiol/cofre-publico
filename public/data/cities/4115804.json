@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4115804",
+  "city_name": "Medianeira",
+  "uf": "PR",
+  "population": 54369,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 257600816.41,
+    "total_expense": 258127403.1,
+    "own_revenue_percentage": 40.1,
+    "transfers_revenue_percentage": 59.9,
+    "personnel_expense_percentage_rcl": 46.1
+  },
+  "per_capita_breakdown": {
+    "health": 1179.9,
+    "education": 1274.8,
+    "urbanism": 741.7,
+    "administration": 436.7,
+    "legislative": 135.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3845.6,
+      "health_per_capita": 920.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4130.5,
+      "health_per_capita": 991.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4415.4,
+      "health_per_capita": 1061.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4652.7,
+      "health_per_capita": 1132.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4747.7,
+      "health_per_capita": 1179.9
+    }
+  ]
+}

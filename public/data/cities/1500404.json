@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1500404",
+  "city_name": "Alenquer",
+  "uf": "PA",
+  "population": 69377,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 344717225.27,
+    "total_expense": 334574420.38,
+    "own_revenue_percentage": 40.0,
+    "transfers_revenue_percentage": 60.0,
+    "personnel_expense_percentage_rcl": 47.4
+  },
+  "per_capita_breakdown": {
+    "health": 1069.3,
+    "education": 1373.4,
+    "urbanism": 620.1,
+    "administration": 449.1,
+    "legislative": 124.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3906.3,
+      "health_per_capita": 834.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4195.7,
+      "health_per_capita": 898.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4485.0,
+      "health_per_capita": 962.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4726.1,
+      "health_per_capita": 1026.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4822.6,
+      "health_per_capita": 1069.3
+    }
+  ]
+}

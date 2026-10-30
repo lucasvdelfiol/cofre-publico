@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4215455",
+  "city_name": "Sangão",
+  "uf": "SC",
+  "population": 12882,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 67984231.07,
+    "total_expense": 68129089.52,
+    "own_revenue_percentage": 15.1,
+    "transfers_revenue_percentage": 84.9,
+    "personnel_expense_percentage_rcl": 46.4
+  },
+  "per_capita_breakdown": {
+    "health": 1202.1,
+    "education": 1444.9,
+    "urbanism": 600.4,
+    "administration": 374.2,
+    "legislative": 95.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4283.8,
+      "health_per_capita": 937.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4601.2,
+      "health_per_capita": 1009.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4918.5,
+      "health_per_capita": 1081.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5182.9,
+      "health_per_capita": 1154.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5288.7,
+      "health_per_capita": 1202.1
+    }
+  ]
+}

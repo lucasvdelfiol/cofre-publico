@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2807204",
+  "city_name": "Siriri",
+  "uf": "SE",
+  "population": 7834,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 42684904.77,
+    "total_expense": 41552074.8,
+    "own_revenue_percentage": 18.2,
+    "transfers_revenue_percentage": 81.8,
+    "personnel_expense_percentage_rcl": 48.9
+  },
+  "per_capita_breakdown": {
+    "health": 1187.7,
+    "education": 1434.8,
+    "urbanism": 489.2,
+    "administration": 412.3,
+    "legislative": 102.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4296.3,
+      "health_per_capita": 926.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4614.6,
+      "health_per_capita": 997.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4932.8,
+      "health_per_capita": 1068.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5198.0,
+      "health_per_capita": 1140.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5304.1,
+      "health_per_capita": 1187.7
+    }
+  ]
+}

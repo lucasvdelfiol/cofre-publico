@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3111705",
+  "city_name": "Canaã",
+  "uf": "MG",
+  "population": 4715,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 21270789.03,
+    "total_expense": 21054269.64,
+    "own_revenue_percentage": 15.3,
+    "transfers_revenue_percentage": 84.7,
+    "personnel_expense_percentage_rcl": 50.6
+  },
+  "per_capita_breakdown": {
+    "health": 1104.1,
+    "education": 1329.4,
+    "urbanism": 589.2,
+    "administration": 408.8,
+    "legislative": 78.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3617.0,
+      "health_per_capita": 861.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3884.9,
+      "health_per_capita": 927.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4152.8,
+      "health_per_capita": 993.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4376.1,
+      "health_per_capita": 1059.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4465.4,
+      "health_per_capita": 1104.1
+    }
+  ]
+}

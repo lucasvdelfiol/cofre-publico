@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4304630",
+  "city_name": "Capão da Canoa",
+  "uf": "RS",
+  "population": 63594,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 315076715.92,
+    "total_expense": 307824473.09,
+    "own_revenue_percentage": 31.7,
+    "transfers_revenue_percentage": 68.3,
+    "personnel_expense_percentage_rcl": 47.3
+  },
+  "per_capita_breakdown": {
+    "health": 1138.7,
+    "education": 1198.9,
+    "urbanism": 761.9,
+    "administration": 343.9,
+    "legislative": 98.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3920.8,
+      "health_per_capita": 888.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4211.2,
+      "health_per_capita": 956.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4501.7,
+      "health_per_capita": 1024.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4743.7,
+      "health_per_capita": 1093.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4840.5,
+      "health_per_capita": 1138.7
+    }
+  ]
+}

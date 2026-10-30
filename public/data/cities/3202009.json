@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3202009",
+  "city_name": "Dores do Rio Preto",
+  "uf": "ES",
+  "population": 6596,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 31198817.17,
+    "total_expense": 31166054.85,
+    "own_revenue_percentage": 14.5,
+    "transfers_revenue_percentage": 85.5,
+    "personnel_expense_percentage_rcl": 50.0
+  },
+  "per_capita_breakdown": {
+    "health": 1247.8,
+    "education": 1188.5,
+    "urbanism": 580.7,
+    "administration": 296.5,
+    "legislative": 140.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3827.3,
+      "health_per_capita": 973.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4110.8,
+      "health_per_capita": 1048.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4394.2,
+      "health_per_capita": 1123.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4630.5,
+      "health_per_capita": 1197.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4725.0,
+      "health_per_capita": 1247.8
+    }
+  ]
+}

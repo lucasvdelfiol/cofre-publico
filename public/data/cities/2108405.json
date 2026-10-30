@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2108405",
+  "city_name": "Peri Mirim",
+  "uf": "MA",
+  "population": 11108,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 56360776.2,
+    "total_expense": 55375796.45,
+    "own_revenue_percentage": 19.5,
+    "transfers_revenue_percentage": 80.5,
+    "personnel_expense_percentage_rcl": 49.6
+  },
+  "per_capita_breakdown": {
+    "health": 1240.8,
+    "education": 1217.9,
+    "urbanism": 576.5,
+    "administration": 358.2,
+    "legislative": 105.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4038.0,
+      "health_per_capita": 967.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4337.1,
+      "health_per_capita": 1042.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4636.2,
+      "health_per_capita": 1116.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4885.5,
+      "health_per_capita": 1191.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4985.2,
+      "health_per_capita": 1240.8
+    }
+  ]
+}

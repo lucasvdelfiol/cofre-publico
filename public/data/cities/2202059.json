@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2202059",
+  "city_name": "Cabeceiras do Piauí",
+  "uf": "PI",
+  "population": 10212,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 47200038.52,
+    "total_expense": 46106744.8,
+    "own_revenue_percentage": 11.6,
+    "transfers_revenue_percentage": 88.4,
+    "personnel_expense_percentage_rcl": 48.2
+  },
+  "per_capita_breakdown": {
+    "health": 1025.0,
+    "education": 1294.6,
+    "urbanism": 572.2,
+    "administration": 495.6,
+    "legislative": 132.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3657.2,
+      "health_per_capita": 799.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3928.1,
+      "health_per_capita": 861.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4198.9,
+      "health_per_capita": 922.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4424.7,
+      "health_per_capita": 984.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4515.0,
+      "health_per_capita": 1025.0
+    }
+  ]
+}

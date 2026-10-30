@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4200606",
+  "city_name": "Águas Mornas",
+  "uf": "SC",
+  "population": 6743,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 36849101.02,
+    "total_expense": 35954930.69,
+    "own_revenue_percentage": 17.8,
+    "transfers_revenue_percentage": 82.2,
+    "personnel_expense_percentage_rcl": 53.2
+  },
+  "per_capita_breakdown": {
+    "health": 1232.8,
+    "education": 1418.7,
+    "urbanism": 524.0,
+    "administration": 583.7,
+    "legislative": 183.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4319.1,
+      "health_per_capita": 961.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4639.0,
+      "health_per_capita": 1035.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4958.9,
+      "health_per_capita": 1109.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5225.6,
+      "health_per_capita": 1183.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5332.2,
+      "health_per_capita": 1232.8
+    }
+  ]
+}

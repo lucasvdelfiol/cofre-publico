@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1101476",
+  "city_name": "Primavera de Rondônia",
+  "uf": "RO",
+  "population": 3076,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 16727319.65,
+    "total_expense": 16625946.62,
+    "own_revenue_percentage": 16.1,
+    "transfers_revenue_percentage": 83.9,
+    "personnel_expense_percentage_rcl": 51.9
+  },
+  "per_capita_breakdown": {
+    "health": 1382.9,
+    "education": 1478.4,
+    "urbanism": 479.8,
+    "administration": 483.3,
+    "legislative": 138.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4378.1,
+      "health_per_capita": 1078.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4702.4,
+      "health_per_capita": 1161.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5026.7,
+      "health_per_capita": 1244.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5297.0,
+      "health_per_capita": 1327.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5405.1,
+      "health_per_capita": 1382.9
+    }
+  ]
+}

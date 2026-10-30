@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3125408",
+  "city_name": "Felício dos Santos",
+  "uf": "MG",
+  "population": 5133,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 25507369.72,
+    "total_expense": 25318346.2,
+    "own_revenue_percentage": 17.0,
+    "transfers_revenue_percentage": 83.0,
+    "personnel_expense_percentage_rcl": 51.3
+  },
+  "per_capita_breakdown": {
+    "health": 1132.4,
+    "education": 1188.7,
+    "urbanism": 483.5,
+    "administration": 366.9,
+    "legislative": 163.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3995.3,
+      "health_per_capita": 883.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4291.3,
+      "health_per_capita": 951.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4587.2,
+      "health_per_capita": 1019.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4833.9,
+      "health_per_capita": 1087.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4932.5,
+      "health_per_capita": 1132.4
+    }
+  ]
+}

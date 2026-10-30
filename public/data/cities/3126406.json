@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3126406",
+  "city_name": "Fortuna de Minas",
+  "uf": "MG",
+  "population": 3093,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 15243467.87,
+    "total_expense": 14967075.66,
+    "own_revenue_percentage": 13.4,
+    "transfers_revenue_percentage": 86.6,
+    "personnel_expense_percentage_rcl": 48.6
+  },
+  "per_capita_breakdown": {
+    "health": 1212.5,
+    "education": 1197.4,
+    "urbanism": 478.9,
+    "administration": 502.4,
+    "legislative": 74.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3919.6,
+      "health_per_capita": 945.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4209.9,
+      "health_per_capita": 1018.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4500.3,
+      "health_per_capita": 1091.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4742.2,
+      "health_per_capita": 1164.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4839.0,
+      "health_per_capita": 1212.5
+    }
+  ]
+}

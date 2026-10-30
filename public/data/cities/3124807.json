@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3124807",
+  "city_name": "Estrela do Sul",
+  "uf": "MG",
+  "population": 6840,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 37056767.96,
+    "total_expense": 37029805.74,
+    "own_revenue_percentage": 17.1,
+    "transfers_revenue_percentage": 82.9,
+    "personnel_expense_percentage_rcl": 48.6
+  },
+  "per_capita_breakdown": {
+    "health": 1462.1,
+    "education": 1542.9,
+    "urbanism": 641.6,
+    "administration": 430.9,
+    "legislative": 170.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4385.1,
+      "health_per_capita": 1140.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4709.9,
+      "health_per_capita": 1228.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5034.7,
+      "health_per_capita": 1315.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5305.4,
+      "health_per_capita": 1403.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5413.7,
+      "health_per_capita": 1462.1
+    }
+  ]
+}

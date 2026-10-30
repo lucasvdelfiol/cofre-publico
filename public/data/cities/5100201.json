@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5100201",
+  "city_name": "Água Boa",
+  "uf": "MT",
+  "population": 29219,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 138783776.65,
+    "total_expense": 136234512.37,
+    "own_revenue_percentage": 20.6,
+    "transfers_revenue_percentage": 79.4,
+    "personnel_expense_percentage_rcl": 47.7
+  },
+  "per_capita_breakdown": {
+    "health": 949.6,
+    "education": 1237.2,
+    "urbanism": 588.8,
+    "administration": 436.1,
+    "legislative": 149.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3776.6,
+      "health_per_capita": 740.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4056.4,
+      "health_per_capita": 797.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4336.1,
+      "health_per_capita": 854.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4569.2,
+      "health_per_capita": 911.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4662.5,
+      "health_per_capita": 949.6
+    }
+  ]
+}

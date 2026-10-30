@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3150539",
+  "city_name": "Pingo-d'Água",
+  "uf": "MG",
+  "population": 4706,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 23787350.01,
+    "total_expense": 23493039.86,
+    "own_revenue_percentage": 14.7,
+    "transfers_revenue_percentage": 85.3,
+    "personnel_expense_percentage_rcl": 46.8
+  },
+  "per_capita_breakdown": {
+    "health": 1269.5,
+    "education": 1250.2,
+    "urbanism": 588.3,
+    "administration": 577.2,
+    "legislative": 164.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4043.6,
+      "health_per_capita": 990.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4343.1,
+      "health_per_capita": 1066.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4642.7,
+      "health_per_capita": 1142.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4892.3,
+      "health_per_capita": 1218.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4992.1,
+      "health_per_capita": 1269.5
+    }
+  ]
+}

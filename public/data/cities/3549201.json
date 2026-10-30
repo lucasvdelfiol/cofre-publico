@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3549201",
+  "city_name": "São João das Duas Pontes",
+  "uf": "SP",
+  "population": 2580,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 13314421.42,
+    "total_expense": 13232431.12,
+    "own_revenue_percentage": 19.1,
+    "transfers_revenue_percentage": 80.9,
+    "personnel_expense_percentage_rcl": 53.0
+  },
+  "per_capita_breakdown": {
+    "health": 1397.3,
+    "education": 1512.0,
+    "urbanism": 421.3,
+    "administration": 487.1,
+    "legislative": 92.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4154.3,
+      "health_per_capita": 1089.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4462.1,
+      "health_per_capita": 1173.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4769.8,
+      "health_per_capita": 1257.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5026.2,
+      "health_per_capita": 1341.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5128.8,
+      "health_per_capita": 1397.3
+    }
+  ]
+}

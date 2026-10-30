@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3530409",
+  "city_name": "Mirassolândia",
+  "uf": "SP",
+  "population": 4669,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 25571168.57,
+    "total_expense": 25432977.63,
+    "own_revenue_percentage": 9.4,
+    "transfers_revenue_percentage": 90.6,
+    "personnel_expense_percentage_rcl": 47.4
+  },
+  "per_capita_breakdown": {
+    "health": 1436.3,
+    "education": 1627.8,
+    "urbanism": 653.6,
+    "administration": 572.3,
+    "legislative": 93.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4412.2,
+      "health_per_capita": 1120.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4739.1,
+      "health_per_capita": 1206.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5065.9,
+      "health_per_capita": 1292.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5338.3,
+      "health_per_capita": 1378.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5447.2,
+      "health_per_capita": 1436.3
+    }
+  ]
+}

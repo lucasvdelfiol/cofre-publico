@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2907202",
+  "city_name": "Casa Nova",
+  "uf": "BA",
+  "population": 72086,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 319507215.23,
+    "total_expense": 320223217.05,
+    "own_revenue_percentage": 31.5,
+    "transfers_revenue_percentage": 68.5,
+    "personnel_expense_percentage_rcl": 48.1
+  },
+  "per_capita_breakdown": {
+    "health": 1199.4,
+    "education": 1198.6,
+    "urbanism": 670.9,
+    "administration": 476.4,
+    "legislative": 137.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3598.2,
+      "health_per_capita": 935.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3864.7,
+      "health_per_capita": 1007.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4131.2,
+      "health_per_capita": 1079.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4353.4,
+      "health_per_capita": 1151.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4442.2,
+      "health_per_capita": 1199.4
+    }
+  ]
+}

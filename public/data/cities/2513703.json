@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2513703",
+  "city_name": "Santa Rita",
+  "uf": "PB",
+  "population": 149910,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 860407148.69,
+    "total_expense": 845951667.86,
+    "own_revenue_percentage": 50.7,
+    "transfers_revenue_percentage": 49.3,
+    "personnel_expense_percentage_rcl": 46.2
+  },
+  "per_capita_breakdown": {
+    "health": 1378.3,
+    "education": 1656.1,
+    "urbanism": 652.7,
+    "administration": 391.1,
+    "legislative": 186.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4570.9,
+      "health_per_capita": 1075.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4909.5,
+      "health_per_capita": 1157.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5248.1,
+      "health_per_capita": 1240.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5530.2,
+      "health_per_capita": 1323.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5643.1,
+      "health_per_capita": 1378.3
+    }
+  ]
+}

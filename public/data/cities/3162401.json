@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3162401",
+  "city_name": "São João da Ponte",
+  "uf": "MG",
+  "population": 23930,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 104580236.62,
+    "total_expense": 100874050.6,
+    "own_revenue_percentage": 31.9,
+    "transfers_revenue_percentage": 68.1,
+    "personnel_expense_percentage_rcl": 49.5
+  },
+  "per_capita_breakdown": {
+    "health": 1016.1,
+    "education": 1308.8,
+    "urbanism": 345.5,
+    "administration": 371.5,
+    "legislative": 66.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3414.5,
+      "health_per_capita": 792.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3667.4,
+      "health_per_capita": 853.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3920.3,
+      "health_per_capita": 914.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4131.1,
+      "health_per_capita": 975.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4215.4,
+      "health_per_capita": 1016.1
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4109401",
+  "city_name": "Guarapuava",
+  "uf": "PR",
+  "population": 182093,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 957161594.91,
+    "total_expense": 943136846.28,
+    "own_revenue_percentage": 50.7,
+    "transfers_revenue_percentage": 49.3,
+    "personnel_expense_percentage_rcl": 49.0
+  },
+  "per_capita_breakdown": {
+    "health": 1130.6,
+    "education": 1493.1,
+    "urbanism": 639.1,
+    "administration": 542.3,
+    "legislative": 169.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4195.3,
+      "health_per_capita": 881.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4506.1,
+      "health_per_capita": 949.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4816.8,
+      "health_per_capita": 1017.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5075.8,
+      "health_per_capita": 1085.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5179.4,
+      "health_per_capita": 1130.6
+    }
+  ]
+}

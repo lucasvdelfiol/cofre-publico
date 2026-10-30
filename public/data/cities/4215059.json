@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4215059",
+  "city_name": "Rio Rufino",
+  "uf": "SC",
+  "population": 2397,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 11930110.3,
+    "total_expense": 11884158.18,
+    "own_revenue_percentage": 18.8,
+    "transfers_revenue_percentage": 81.2,
+    "personnel_expense_percentage_rcl": 47.3
+  },
+  "per_capita_breakdown": {
+    "health": 1051.5,
+    "education": 1478.9,
+    "urbanism": 564.0,
+    "administration": 358.0,
+    "legislative": 147.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4015.9,
+      "health_per_capita": 820.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4313.4,
+      "health_per_capita": 883.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4610.8,
+      "health_per_capita": 946.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4858.7,
+      "health_per_capita": 1009.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4957.9,
+      "health_per_capita": 1051.5
+    }
+  ]
+}

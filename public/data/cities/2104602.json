@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2104602",
+  "city_name": "Governador Eugênio Barros",
+  "uf": "MA",
+  "population": 13930,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 62988340.95,
+    "total_expense": 61986789.7,
+    "own_revenue_percentage": 9.1,
+    "transfers_revenue_percentage": 90.9,
+    "personnel_expense_percentage_rcl": 53.3
+  },
+  "per_capita_breakdown": {
+    "health": 1033.8,
+    "education": 1364.8,
+    "urbanism": 463.0,
+    "administration": 305.7,
+    "legislative": 112.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3604.4,
+      "health_per_capita": 806.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3871.4,
+      "health_per_capita": 868.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4138.4,
+      "health_per_capita": 930.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4360.9,
+      "health_per_capita": 992.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4449.9,
+      "health_per_capita": 1033.8
+    }
+  ]
+}

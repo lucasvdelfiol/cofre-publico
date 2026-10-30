@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3557006",
+  "city_name": "Votorantim",
+  "uf": "SP",
+  "population": 127923,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 634659555.77,
+    "total_expense": 613184005.63,
+    "own_revenue_percentage": 41.4,
+    "transfers_revenue_percentage": 58.6,
+    "personnel_expense_percentage_rcl": 51.0
+  },
+  "per_capita_breakdown": {
+    "health": 1197.0,
+    "education": 1239.6,
+    "urbanism": 661.6,
+    "administration": 483.6,
+    "legislative": 99.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3882.7,
+      "health_per_capita": 933.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4170.3,
+      "health_per_capita": 1005.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4457.9,
+      "health_per_capita": 1077.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4697.5,
+      "health_per_capita": 1149.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4793.4,
+      "health_per_capita": 1197.0
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3107109",
+  "city_name": "Boa Esperança",
+  "uf": "MG",
+  "population": 39848,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 182993480.98,
+    "total_expense": 180962650.15,
+    "own_revenue_percentage": 18.8,
+    "transfers_revenue_percentage": 81.2,
+    "personnel_expense_percentage_rcl": 52.6
+  },
+  "per_capita_breakdown": {
+    "health": 1009.3,
+    "education": 1423.7,
+    "urbanism": 534.4,
+    "administration": 514.8,
+    "legislative": 85.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3678.5,
+      "health_per_capita": 787.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3950.9,
+      "health_per_capita": 847.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4223.4,
+      "health_per_capita": 908.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4450.5,
+      "health_per_capita": 968.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4541.3,
+      "health_per_capita": 1009.3
+    }
+  ]
+}

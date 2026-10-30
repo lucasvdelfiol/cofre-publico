@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5212600",
+  "city_name": "Mairipotaba",
+  "uf": "GO",
+  "population": 2561,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 12832637.06,
+    "total_expense": 12561686.78,
+    "own_revenue_percentage": 12.0,
+    "transfers_revenue_percentage": 88.0,
+    "personnel_expense_percentage_rcl": 53.4
+  },
+  "per_capita_breakdown": {
+    "health": 1259.1,
+    "education": 1320.7,
+    "urbanism": 668.1,
+    "administration": 302.9,
+    "legislative": 110.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3973.1,
+      "health_per_capita": 982.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4267.4,
+      "health_per_capita": 1057.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4561.7,
+      "health_per_capita": 1133.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4806.9,
+      "health_per_capita": 1208.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4905.0,
+      "health_per_capita": 1259.1
+    }
+  ]
+}

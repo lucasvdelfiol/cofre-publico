@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2411908",
+  "city_name": "São Francisco do Oeste",
+  "uf": "RN",
+  "population": 4161,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 18541369.95,
+    "total_expense": 17897354.56,
+    "own_revenue_percentage": 13.8,
+    "transfers_revenue_percentage": 86.2,
+    "personnel_expense_percentage_rcl": 50.1
+  },
+  "per_capita_breakdown": {
+    "health": 916.9,
+    "education": 1235.8,
+    "urbanism": 640.2,
+    "administration": 379.2,
+    "legislative": 112.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3484.0,
+      "health_per_capita": 715.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3742.0,
+      "health_per_capita": 770.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4000.1,
+      "health_per_capita": 825.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4215.2,
+      "health_per_capita": 880.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4301.2,
+      "health_per_capita": 916.9
+    }
+  ]
+}

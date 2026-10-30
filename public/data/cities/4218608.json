@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4218608",
+  "city_name": "Trombudo Central",
+  "uf": "SC",
+  "population": 7274,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 40218942.63,
+    "total_expense": 39970978.03,
+    "own_revenue_percentage": 17.3,
+    "transfers_revenue_percentage": 82.7,
+    "personnel_expense_percentage_rcl": 48.6
+  },
+  "per_capita_breakdown": {
+    "health": 1321.6,
+    "education": 1459.7,
+    "urbanism": 640.4,
+    "administration": 630.7,
+    "legislative": 92.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4451.0,
+      "health_per_capita": 1030.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4780.6,
+      "health_per_capita": 1110.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5110.4,
+      "health_per_capita": 1189.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5385.1,
+      "health_per_capita": 1268.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5495.0,
+      "health_per_capita": 1321.6
+    }
+  ]
+}

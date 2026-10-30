@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2609709",
+  "city_name": "Orobó",
+  "uf": "PE",
+  "population": 21808,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 101394633.09,
+    "total_expense": 98497056.83,
+    "own_revenue_percentage": 28.6,
+    "transfers_revenue_percentage": 71.4,
+    "personnel_expense_percentage_rcl": 47.2
+  },
+  "per_capita_breakdown": {
+    "health": 924.2,
+    "education": 1093.5,
+    "urbanism": 608.0,
+    "administration": 347.7,
+    "legislative": 113.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3658.4,
+      "health_per_capita": 720.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3929.4,
+      "health_per_capita": 776.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4200.4,
+      "health_per_capita": 831.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4426.3,
+      "health_per_capita": 887.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4516.6,
+      "health_per_capita": 924.2
+    }
+  ]
+}

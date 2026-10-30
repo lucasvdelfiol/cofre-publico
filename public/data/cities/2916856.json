@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2916856",
+  "city_name": "Itatim",
+  "uf": "BA",
+  "population": 15737,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 70413208.97,
+    "total_expense": 68630514.44,
+    "own_revenue_percentage": 9.5,
+    "transfers_revenue_percentage": 90.5,
+    "personnel_expense_percentage_rcl": 53.8
+  },
+  "per_capita_breakdown": {
+    "health": 874.9,
+    "education": 1106.7,
+    "urbanism": 445.3,
+    "administration": 282.5,
+    "legislative": 115.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3532.5,
+      "health_per_capita": 682.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3794.2,
+      "health_per_capita": 734.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4055.8,
+      "health_per_capita": 787.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4273.9,
+      "health_per_capita": 839.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4361.1,
+      "health_per_capita": 874.9
+    }
+  ]
+}

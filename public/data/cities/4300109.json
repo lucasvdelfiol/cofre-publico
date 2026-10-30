@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4300109",
+  "city_name": "Agudo",
+  "uf": "RS",
+  "population": 16041,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 92816461.75,
+    "total_expense": 89794310.68,
+    "own_revenue_percentage": 21.3,
+    "transfers_revenue_percentage": 78.7,
+    "personnel_expense_percentage_rcl": 51.9
+  },
+  "per_capita_breakdown": {
+    "health": 1530.9,
+    "education": 1481.1,
+    "urbanism": 812.1,
+    "administration": 436.1,
+    "legislative": 145.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4534.2,
+      "health_per_capita": 1194.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4870.1,
+      "health_per_capita": 1286.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5206.0,
+      "health_per_capita": 1377.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5485.8,
+      "health_per_capita": 1469.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5597.8,
+      "health_per_capita": 1530.9
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2112852",
+  "city_name": "Vila Nova dos Martírios",
+  "uf": "MA",
+  "population": 10362,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 49197300.53,
+    "total_expense": 47503492.53,
+    "own_revenue_percentage": 19.0,
+    "transfers_revenue_percentage": 81.0,
+    "personnel_expense_percentage_rcl": 52.5
+  },
+  "per_capita_breakdown": {
+    "health": 1170.8,
+    "education": 1164.3,
+    "urbanism": 519.6,
+    "administration": 451.9,
+    "legislative": 143.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3713.4,
+      "health_per_capita": 913.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3988.4,
+      "health_per_capita": 983.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4263.5,
+      "health_per_capita": 1053.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4492.7,
+      "health_per_capita": 1124.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4584.4,
+      "health_per_capita": 1170.8
+    }
+  ]
+}

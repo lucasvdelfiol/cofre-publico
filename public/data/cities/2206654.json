@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2206654",
+  "city_name": "Morro Cabeça no Tempo",
+  "uf": "PI",
+  "population": 4377,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 19443785.2,
+    "total_expense": 19429560.23,
+    "own_revenue_percentage": 11.7,
+    "transfers_revenue_percentage": 88.3,
+    "personnel_expense_percentage_rcl": 52.3
+  },
+  "per_capita_breakdown": {
+    "health": 912.4,
+    "education": 1420.0,
+    "urbanism": 417.0,
+    "administration": 425.9,
+    "legislative": 114.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3595.6,
+      "health_per_capita": 711.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3861.9,
+      "health_per_capita": 766.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4128.3,
+      "health_per_capita": 821.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4350.2,
+      "health_per_capita": 875.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4439.0,
+      "health_per_capita": 912.4
+    }
+  ]
+}

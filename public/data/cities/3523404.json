@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3523404",
+  "city_name": "Itatiba",
+  "uf": "SP",
+  "population": 121590,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 705020821.66,
+    "total_expense": 692648285.83,
+    "own_revenue_percentage": 45.8,
+    "transfers_revenue_percentage": 54.2,
+    "personnel_expense_percentage_rcl": 51.8
+  },
+  "per_capita_breakdown": {
+    "health": 1521.2,
+    "education": 1379.5,
+    "urbanism": 873.8,
+    "administration": 405.0,
+    "legislative": 135.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4614.2,
+      "health_per_capita": 1186.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4956.0,
+      "health_per_capita": 1277.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5297.8,
+      "health_per_capita": 1369.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5582.7,
+      "health_per_capita": 1460.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5696.6,
+      "health_per_capita": 1521.2
+    }
+  ]
+}

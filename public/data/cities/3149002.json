@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3149002",
+  "city_name": "Pedra Dourada",
+  "uf": "MG",
+  "population": 2757,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 13153732.57,
+    "total_expense": 12842471.26,
+    "own_revenue_percentage": 10.0,
+    "transfers_revenue_percentage": 90.0,
+    "personnel_expense_percentage_rcl": 46.2
+  },
+  "per_capita_breakdown": {
+    "health": 1061.5,
+    "education": 1369.1,
+    "urbanism": 664.1,
+    "administration": 471.0,
+    "legislative": 71.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3773.1,
+      "health_per_capita": 828.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4052.5,
+      "health_per_capita": 891.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4332.0,
+      "health_per_capita": 955.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4564.9,
+      "health_per_capita": 1019.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4658.1,
+      "health_per_capita": 1061.5
+    }
+  ]
+}

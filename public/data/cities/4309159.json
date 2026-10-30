@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4309159",
+  "city_name": "Gramado Xavier",
+  "uf": "RS",
+  "population": 3304,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 14714130.39,
+    "total_expense": 14496321.77,
+    "own_revenue_percentage": 19.1,
+    "transfers_revenue_percentage": 80.9,
+    "personnel_expense_percentage_rcl": 53.2
+  },
+  "per_capita_breakdown": {
+    "health": 1119.6,
+    "education": 1165.3,
+    "urbanism": 576.2,
+    "administration": 464.0,
+    "legislative": 124.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3553.9,
+      "health_per_capita": 873.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3817.1,
+      "health_per_capita": 940.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4080.4,
+      "health_per_capita": 1007.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4299.8,
+      "health_per_capita": 1074.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4387.5,
+      "health_per_capita": 1119.6
+    }
+  ]
+}

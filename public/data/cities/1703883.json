@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1703883",
+  "city_name": "Carmolândia",
+  "uf": "TO",
+  "population": 2201,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 12555229.58,
+    "total_expense": 12247842.91,
+    "own_revenue_percentage": 20.5,
+    "transfers_revenue_percentage": 79.5,
+    "personnel_expense_percentage_rcl": 52.2
+  },
+  "per_capita_breakdown": {
+    "health": 1251.1,
+    "education": 1424.4,
+    "urbanism": 516.0,
+    "administration": 511.7,
+    "legislative": 107.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4507.4,
+      "health_per_capita": 975.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4841.3,
+      "health_per_capita": 1050.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5175.2,
+      "health_per_capita": 1126.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5453.4,
+      "health_per_capita": 1201.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5564.7,
+      "health_per_capita": 1251.1
+    }
+  ]
+}

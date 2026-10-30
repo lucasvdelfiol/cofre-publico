@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3202652",
+  "city_name": "Irupi",
+  "uf": "ES",
+  "population": 13710,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 60571235.0,
+    "total_expense": 60758905.99,
+    "own_revenue_percentage": 20.0,
+    "transfers_revenue_percentage": 80.0,
+    "personnel_expense_percentage_rcl": 51.7
+  },
+  "per_capita_breakdown": {
+    "health": 1139.6,
+    "education": 1304.8,
+    "urbanism": 588.0,
+    "administration": 454.7,
+    "legislative": 139.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3589.7,
+      "health_per_capita": 888.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3855.6,
+      "health_per_capita": 957.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4121.5,
+      "health_per_capita": 1025.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4343.1,
+      "health_per_capita": 1094.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4431.7,
+      "health_per_capita": 1139.6
+    }
+  ]
+}

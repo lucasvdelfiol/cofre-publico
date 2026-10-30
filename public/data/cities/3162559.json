@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3162559",
+  "city_name": "São João do Manhuaçu",
+  "uf": "MG",
+  "population": 11246,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 52052528.26,
+    "total_expense": 50722933.31,
+    "own_revenue_percentage": 16.4,
+    "transfers_revenue_percentage": 83.6,
+    "personnel_expense_percentage_rcl": 48.8
+  },
+  "per_capita_breakdown": {
+    "health": 996.2,
+    "education": 1346.3,
+    "urbanism": 702.4,
+    "administration": 390.5,
+    "legislative": 120.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3653.3,
+      "health_per_capita": 777.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3924.0,
+      "health_per_capita": 836.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4194.6,
+      "health_per_capita": 896.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4420.1,
+      "health_per_capita": 956.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4510.3,
+      "health_per_capita": 996.2
+    }
+  ]
+}

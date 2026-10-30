@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3144672",
+  "city_name": "Nova Belém",
+  "uf": "MG",
+  "population": 3151,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 16802635.25,
+    "total_expense": 16300237.35,
+    "own_revenue_percentage": 9.8,
+    "transfers_revenue_percentage": 90.2,
+    "personnel_expense_percentage_rcl": 49.7
+  },
+  "per_capita_breakdown": {
+    "health": 1166.9,
+    "education": 1450.1,
+    "urbanism": 678.2,
+    "administration": 463.3,
+    "legislative": 120.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4190.1,
+      "health_per_capita": 910.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4500.5,
+      "health_per_capita": 980.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4810.9,
+      "health_per_capita": 1050.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5069.5,
+      "health_per_capita": 1120.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5173.0,
+      "health_per_capita": 1166.9
+    }
+  ]
+}

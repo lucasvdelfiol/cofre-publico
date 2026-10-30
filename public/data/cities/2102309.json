@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2102309",
+  "city_name": "Buriti Bravo",
+  "uf": "MA",
+  "population": 22455,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 106323113.19,
+    "total_expense": 103209590.92,
+    "own_revenue_percentage": 26.7,
+    "transfers_revenue_percentage": 73.3,
+    "personnel_expense_percentage_rcl": 53.2
+  },
+  "per_capita_breakdown": {
+    "health": 1090.9,
+    "education": 1455.3,
+    "urbanism": 688.4,
+    "administration": 460.6,
+    "legislative": 138.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3723.0,
+      "health_per_capita": 850.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3998.8,
+      "health_per_capita": 916.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4274.6,
+      "health_per_capita": 981.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4504.4,
+      "health_per_capita": 1047.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4596.3,
+      "health_per_capita": 1090.9
+    }
+  ]
+}

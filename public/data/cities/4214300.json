@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4214300",
+  "city_name": "Rancho Queimado",
+  "uf": "SC",
+  "population": 3279,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 17256609.1,
+    "total_expense": 17196131.19,
+    "own_revenue_percentage": 8.5,
+    "transfers_revenue_percentage": 91.5,
+    "personnel_expense_percentage_rcl": 53.5
+  },
+  "per_capita_breakdown": {
+    "health": 1059.3,
+    "education": 1369.1,
+    "urbanism": 606.1,
+    "administration": 365.7,
+    "legislative": 137.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4247.9,
+      "health_per_capita": 826.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4562.5,
+      "health_per_capita": 889.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4877.2,
+      "health_per_capita": 953.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5139.4,
+      "health_per_capita": 1016.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5244.3,
+      "health_per_capita": 1059.3
+    }
+  ]
+}

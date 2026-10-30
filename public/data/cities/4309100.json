@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4309100",
+  "city_name": "Gramado",
+  "uf": "RS",
+  "population": 40134,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 194996809.85,
+    "total_expense": 188673685.7,
+    "own_revenue_percentage": 24.2,
+    "transfers_revenue_percentage": 75.8,
+    "personnel_expense_percentage_rcl": 49.8
+  },
+  "per_capita_breakdown": {
+    "health": 1107.6,
+    "education": 1263.4,
+    "urbanism": 716.7,
+    "administration": 516.4,
+    "legislative": 164.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3807.9,
+      "health_per_capita": 863.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4090.0,
+      "health_per_capita": 930.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4372.0,
+      "health_per_capita": 996.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4607.1,
+      "health_per_capita": 1063.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4701.1,
+      "health_per_capita": 1107.6
+    }
+  ]
+}

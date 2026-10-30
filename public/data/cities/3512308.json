@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3512308",
+  "city_name": "Conchas",
+  "uf": "SP",
+  "population": 15232,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 80249983.81,
+    "total_expense": 77324078.15,
+    "own_revenue_percentage": 11.4,
+    "transfers_revenue_percentage": 88.6,
+    "personnel_expense_percentage_rcl": 49.8
+  },
+  "per_capita_breakdown": {
+    "health": 1283.8,
+    "education": 1229.7,
+    "urbanism": 727.7,
+    "administration": 483.5,
+    "legislative": 120.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4111.9,
+      "health_per_capita": 1001.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4416.5,
+      "health_per_capita": 1078.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4721.1,
+      "health_per_capita": 1155.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4974.9,
+      "health_per_capita": 1232.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5076.4,
+      "health_per_capita": 1283.8
+    }
+  ]
+}

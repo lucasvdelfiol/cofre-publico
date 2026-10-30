@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3519071",
+  "city_name": "Hortolândia",
+  "uf": "SP",
+  "population": 236641,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 1251255083.91,
+    "total_expense": 1213140454.58,
+    "own_revenue_percentage": 43.8,
+    "transfers_revenue_percentage": 56.2,
+    "personnel_expense_percentage_rcl": 50.0
+  },
+  "per_capita_breakdown": {
+    "health": 1306.0,
+    "education": 1620.7,
+    "urbanism": 566.6,
+    "administration": 557.0,
+    "legislative": 91.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4152.5,
+      "health_per_capita": 1018.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4460.1,
+      "health_per_capita": 1097.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4767.6,
+      "health_per_capita": 1175.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5024.0,
+      "health_per_capita": 1253.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5126.5,
+      "health_per_capita": 1306.0
+    }
+  ]
+}

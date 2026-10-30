@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1303502",
+  "city_name": "Pauini",
+  "uf": "AM",
+  "population": 19373,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 88385132.29,
+    "total_expense": 86791278.0,
+    "own_revenue_percentage": 20.4,
+    "transfers_revenue_percentage": 79.6,
+    "personnel_expense_percentage_rcl": 53.8
+  },
+  "per_capita_breakdown": {
+    "health": 1030.2,
+    "education": 1134.8,
+    "urbanism": 710.2,
+    "administration": 480.2,
+    "legislative": 106.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3628.8,
+      "health_per_capita": 803.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3897.6,
+      "health_per_capita": 865.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4166.4,
+      "health_per_capita": 927.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4390.4,
+      "health_per_capita": 989.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4480.0,
+      "health_per_capita": 1030.2
+    }
+  ]
+}

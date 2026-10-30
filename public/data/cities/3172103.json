@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3172103",
+  "city_name": "Volta Grande",
+  "uf": "MG",
+  "population": 4443,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 25373410.62,
+    "total_expense": 24544842.26,
+    "own_revenue_percentage": 9.0,
+    "transfers_revenue_percentage": 91.0,
+    "personnel_expense_percentage_rcl": 51.3
+  },
+  "per_capita_breakdown": {
+    "health": 1268.2,
+    "education": 1535.9,
+    "urbanism": 553.9,
+    "administration": 404.9,
+    "legislative": 165.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4474.8,
+      "health_per_capita": 989.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4806.2,
+      "health_per_capita": 1065.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5137.7,
+      "health_per_capita": 1141.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5413.9,
+      "health_per_capita": 1217.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5524.4,
+      "health_per_capita": 1268.2
+    }
+  ]
+}

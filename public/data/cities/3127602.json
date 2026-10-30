@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3127602",
+  "city_name": "Gouveia",
+  "uf": "MG",
+  "population": 11331,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 59509697.2,
+    "total_expense": 59624796.18,
+    "own_revenue_percentage": 11.8,
+    "transfers_revenue_percentage": 88.2,
+    "personnel_expense_percentage_rcl": 53.1
+  },
+  "per_capita_breakdown": {
+    "health": 1442.0,
+    "education": 1382.9,
+    "urbanism": 731.0,
+    "administration": 326.9,
+    "legislative": 142.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4262.3,
+      "health_per_capita": 1124.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4578.0,
+      "health_per_capita": 1211.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4893.8,
+      "health_per_capita": 1297.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5156.9,
+      "health_per_capita": 1384.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5262.1,
+      "health_per_capita": 1442.0
+    }
+  ]
+}

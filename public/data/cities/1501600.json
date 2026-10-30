@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1501600",
+  "city_name": "Bonito",
+  "uf": "PA",
+  "population": 12622,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 57856573.14,
+    "total_expense": 57152832.32,
+    "own_revenue_percentage": 15.1,
+    "transfers_revenue_percentage": 84.9,
+    "personnel_expense_percentage_rcl": 46.3
+  },
+  "per_capita_breakdown": {
+    "health": 1223.3,
+    "education": 1387.8,
+    "urbanism": 622.0,
+    "administration": 503.5,
+    "legislative": 142.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3667.7,
+      "health_per_capita": 954.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3939.4,
+      "health_per_capita": 1027.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4211.0,
+      "health_per_capita": 1101.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4437.4,
+      "health_per_capita": 1174.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4528.0,
+      "health_per_capita": 1223.3
+    }
+  ]
+}

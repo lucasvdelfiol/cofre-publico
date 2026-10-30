@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5108907",
+  "city_name": "Nova Maringá",
+  "uf": "MT",
+  "population": 5846,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 27820486.05,
+    "total_expense": 28083191.53,
+    "own_revenue_percentage": 10.5,
+    "transfers_revenue_percentage": 89.5,
+    "personnel_expense_percentage_rcl": 49.4
+  },
+  "per_capita_breakdown": {
+    "health": 1162.1,
+    "education": 1398.2,
+    "urbanism": 466.2,
+    "administration": 430.1,
+    "legislative": 79.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3891.1,
+      "health_per_capita": 906.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4179.3,
+      "health_per_capita": 976.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4467.5,
+      "health_per_capita": 1045.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4707.7,
+      "health_per_capita": 1115.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4803.8,
+      "health_per_capita": 1162.1
+    }
+  ]
+}

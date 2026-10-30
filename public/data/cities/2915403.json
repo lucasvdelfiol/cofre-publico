@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2915403",
+  "city_name": "Itaju do Colônia",
+  "uf": "BA",
+  "population": 6037,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 32543262.66,
+    "total_expense": 31473156.16,
+    "own_revenue_percentage": 21.6,
+    "transfers_revenue_percentage": 78.4,
+    "personnel_expense_percentage_rcl": 50.2
+  },
+  "per_capita_breakdown": {
+    "health": 1337.9,
+    "education": 1504.4,
+    "urbanism": 671.0,
+    "administration": 583.1,
+    "legislative": 138.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4222.9,
+      "health_per_capita": 1043.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4535.7,
+      "health_per_capita": 1123.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4848.5,
+      "health_per_capita": 1204.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5109.1,
+      "health_per_capita": 1284.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5213.4,
+      "health_per_capita": 1337.9
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3140605",
+  "city_name": "Materlândia",
+  "uf": "MG",
+  "population": 3963,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 22434251.32,
+    "total_expense": 21795565.83,
+    "own_revenue_percentage": 21.5,
+    "transfers_revenue_percentage": 78.5,
+    "personnel_expense_percentage_rcl": 49.5
+  },
+  "per_capita_breakdown": {
+    "health": 1310.2,
+    "education": 1445.2,
+    "urbanism": 456.0,
+    "administration": 549.5,
+    "legislative": 179.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4454.8,
+      "health_per_capita": 1022.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4784.8,
+      "health_per_capita": 1100.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5114.8,
+      "health_per_capita": 1179.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5389.8,
+      "health_per_capita": 1257.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5499.8,
+      "health_per_capita": 1310.2
+    }
+  ]
+}

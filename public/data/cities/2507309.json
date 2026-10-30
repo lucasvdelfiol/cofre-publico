@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2507309",
+  "city_name": "Jacaraú",
+  "uf": "PB",
+  "population": 14477,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 82616842.9,
+    "total_expense": 79813426.76,
+    "own_revenue_percentage": 18.5,
+    "transfers_revenue_percentage": 81.5,
+    "personnel_expense_percentage_rcl": 47.2
+  },
+  "per_capita_breakdown": {
+    "health": 1428.0,
+    "education": 1372.8,
+    "urbanism": 650.3,
+    "administration": 417.4,
+    "legislative": 155.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4465.6,
+      "health_per_capita": 1113.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4796.4,
+      "health_per_capita": 1199.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5127.2,
+      "health_per_capita": 1285.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5402.8,
+      "health_per_capita": 1370.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5513.1,
+      "health_per_capita": 1428.0
+    }
+  ]
+}

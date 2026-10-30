@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1506203",
+  "city_name": "Salinópolis",
+  "uf": "PA",
+  "population": 44772,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 206539556.04,
+    "total_expense": 201203788.78,
+    "own_revenue_percentage": 29.7,
+    "transfers_revenue_percentage": 70.3,
+    "personnel_expense_percentage_rcl": 52.4
+  },
+  "per_capita_breakdown": {
+    "health": 1086.4,
+    "education": 1127.1,
+    "urbanism": 432.9,
+    "administration": 502.1,
+    "legislative": 119.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3640.1,
+      "health_per_capita": 847.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3909.8,
+      "health_per_capita": 912.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4179.4,
+      "health_per_capita": 977.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4404.1,
+      "health_per_capita": 1042.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4494.0,
+      "health_per_capita": 1086.4
+    }
+  ]
+}

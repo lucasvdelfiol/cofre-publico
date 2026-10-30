@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1702307",
+  "city_name": "Arapoema",
+  "uf": "TO",
+  "population": 5550,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 24203821.49,
+    "total_expense": 24042717.28,
+    "own_revenue_percentage": 8.4,
+    "transfers_revenue_percentage": 91.6,
+    "personnel_expense_percentage_rcl": 51.8
+  },
+  "per_capita_breakdown": {
+    "health": 1112.9,
+    "education": 1271.5,
+    "urbanism": 448.9,
+    "administration": 496.8,
+    "legislative": 126.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3508.9,
+      "health_per_capita": 868.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3768.8,
+      "health_per_capita": 934.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4028.8,
+      "health_per_capita": 1001.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4245.4,
+      "health_per_capita": 1068.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4332.0,
+      "health_per_capita": 1112.9
+    }
+  ]
+}

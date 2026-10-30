@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4108650",
+  "city_name": "Goioxim",
+  "uf": "PR",
+  "population": 6566,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 31038123.03,
+    "total_expense": 30346092.37,
+    "own_revenue_percentage": 15.9,
+    "transfers_revenue_percentage": 84.1,
+    "personnel_expense_percentage_rcl": 46.4
+  },
+  "per_capita_breakdown": {
+    "health": 1181.7,
+    "education": 1337.1,
+    "urbanism": 540.9,
+    "administration": 484.2,
+    "legislative": 117.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3743.6,
+      "health_per_capita": 921.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4020.9,
+      "health_per_capita": 992.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4298.2,
+      "health_per_capita": 1063.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4529.3,
+      "health_per_capita": 1134.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4621.7,
+      "health_per_capita": 1181.7
+    }
+  ]
+}

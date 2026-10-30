@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3503703",
+  "city_name": "Ariranha",
+  "uf": "SP",
+  "population": 7602,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 35759564.4,
+    "total_expense": 34748133.69,
+    "own_revenue_percentage": 12.6,
+    "transfers_revenue_percentage": 87.4,
+    "personnel_expense_percentage_rcl": 51.8
+  },
+  "per_capita_breakdown": {
+    "health": 1039.0,
+    "education": 1414.9,
+    "urbanism": 397.7,
+    "administration": 494.3,
+    "legislative": 120.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3702.4,
+      "health_per_capita": 810.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3976.7,
+      "health_per_capita": 872.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4250.9,
+      "health_per_capita": 935.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4479.5,
+      "health_per_capita": 997.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4570.9,
+      "health_per_capita": 1039.0
+    }
+  ]
+}

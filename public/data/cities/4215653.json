@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4215653",
+  "city_name": "Santa Rosa do Sul",
+  "uf": "SC",
+  "population": 9792,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 43530477.82,
+    "total_expense": 43648771.43,
+    "own_revenue_percentage": 12.3,
+    "transfers_revenue_percentage": 87.7,
+    "personnel_expense_percentage_rcl": 52.7
+  },
+  "per_capita_breakdown": {
+    "health": 1164.8,
+    "education": 1117.5,
+    "urbanism": 443.6,
+    "administration": 522.4,
+    "legislative": 70.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3610.7,
+      "health_per_capita": 908.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3878.1,
+      "health_per_capita": 978.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4145.6,
+      "health_per_capita": 1048.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4368.4,
+      "health_per_capita": 1118.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4457.6,
+      "health_per_capita": 1164.8
+    }
+  ]
+}

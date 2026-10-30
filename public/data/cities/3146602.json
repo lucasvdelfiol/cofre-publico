@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3146602",
+  "city_name": "Paiva",
+  "uf": "MG",
+  "population": 1500,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 7230309.22,
+    "total_expense": 7249481.25,
+    "own_revenue_percentage": 10.9,
+    "transfers_revenue_percentage": 89.1,
+    "personnel_expense_percentage_rcl": 49.9
+  },
+  "per_capita_breakdown": {
+    "health": 1032.2,
+    "education": 1294.1,
+    "urbanism": 744.2,
+    "administration": 470.5,
+    "legislative": 145.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3914.7,
+      "health_per_capita": 805.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4204.7,
+      "health_per_capita": 867.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4494.7,
+      "health_per_capita": 929.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4736.3,
+      "health_per_capita": 990.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4833.0,
+      "health_per_capita": 1032.2
+    }
+  ]
+}

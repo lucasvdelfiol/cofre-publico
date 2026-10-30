@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2107258",
+  "city_name": "Nova Colinas",
+  "uf": "MA",
+  "population": 5021,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 25719197.12,
+    "total_expense": 25723528.03,
+    "own_revenue_percentage": 8.2,
+    "transfers_revenue_percentage": 91.8,
+    "personnel_expense_percentage_rcl": 50.4
+  },
+  "per_capita_breakdown": {
+    "health": 1334.3,
+    "education": 1603.9,
+    "urbanism": 583.1,
+    "administration": 542.5,
+    "legislative": 174.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4149.8,
+      "health_per_capita": 1040.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4457.2,
+      "health_per_capita": 1120.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4764.6,
+      "health_per_capita": 1200.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5020.7,
+      "health_per_capita": 1280.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5123.2,
+      "health_per_capita": 1334.3
+    }
+  ]
+}

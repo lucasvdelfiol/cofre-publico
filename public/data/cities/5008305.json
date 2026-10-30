@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5008305",
+  "city_name": "Três Lagoas",
+  "uf": "MS",
+  "population": 132152,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 750962054.88,
+    "total_expense": 726563312.99,
+    "own_revenue_percentage": 51.3,
+    "transfers_revenue_percentage": 48.7,
+    "personnel_expense_percentage_rcl": 49.5
+  },
+  "per_capita_breakdown": {
+    "health": 1489.5,
+    "education": 1528.8,
+    "urbanism": 507.3,
+    "administration": 542.6,
+    "legislative": 184.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4453.3,
+      "health_per_capita": 1161.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4783.2,
+      "health_per_capita": 1251.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5113.0,
+      "health_per_capita": 1340.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5387.9,
+      "health_per_capita": 1429.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5497.9,
+      "health_per_capita": 1489.5
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2510006",
+  "city_name": "Nazarezinho",
+  "uf": "PB",
+  "population": 7203,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 34015070.92,
+    "total_expense": 33300052.68,
+    "own_revenue_percentage": 15.4,
+    "transfers_revenue_percentage": 84.6,
+    "personnel_expense_percentage_rcl": 45.7
+  },
+  "per_capita_breakdown": {
+    "health": 1061.9,
+    "education": 1425.4,
+    "urbanism": 432.7,
+    "administration": 279.4,
+    "legislative": 93.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3744.7,
+      "health_per_capita": 828.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4022.1,
+      "health_per_capita": 892.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4299.5,
+      "health_per_capita": 955.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4530.6,
+      "health_per_capita": 1019.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4623.1,
+      "health_per_capita": 1061.9
+    }
+  ]
+}

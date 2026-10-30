@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2515401",
+  "city_name": "São Vicente do Seridó",
+  "uf": "PB",
+  "population": 10291,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 47945772.28,
+    "total_expense": 47653696.15,
+    "own_revenue_percentage": 12.4,
+    "transfers_revenue_percentage": 87.6,
+    "personnel_expense_percentage_rcl": 48.2
+  },
+  "per_capita_breakdown": {
+    "health": 1050.6,
+    "education": 1303.8,
+    "urbanism": 515.7,
+    "administration": 287.6,
+    "legislative": 101.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3750.8,
+      "health_per_capita": 819.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4028.6,
+      "health_per_capita": 882.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4306.5,
+      "health_per_capita": 945.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4538.0,
+      "health_per_capita": 1008.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4630.6,
+      "health_per_capita": 1050.6
+    }
+  ]
+}

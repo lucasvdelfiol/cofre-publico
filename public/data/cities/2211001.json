@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2211001",
+  "city_name": "Teresina",
+  "uf": "PI",
+  "population": 866300,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 4777541850.24,
+    "total_expense": 4814305402.71,
+    "own_revenue_percentage": 47.1,
+    "transfers_revenue_percentage": 52.9,
+    "personnel_expense_percentage_rcl": 48.7
+  },
+  "per_capita_breakdown": {
+    "health": 1460.0,
+    "education": 1520.7,
+    "urbanism": 564.6,
+    "administration": 585.5,
+    "legislative": 113.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4501.4,
+      "health_per_capita": 1138.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4834.9,
+      "health_per_capita": 1226.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5168.3,
+      "health_per_capita": 1314.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5446.2,
+      "health_per_capita": 1401.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5557.3,
+      "health_per_capita": 1460.0
+    }
+  ]
+}

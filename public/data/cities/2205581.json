@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2205581",
+  "city_name": "Lagoa do Piauí",
+  "uf": "PI",
+  "population": 4810,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 24428511.02,
+    "total_expense": 23565306.44,
+    "own_revenue_percentage": 14.6,
+    "transfers_revenue_percentage": 85.4,
+    "personnel_expense_percentage_rcl": 51.7
+  },
+  "per_capita_breakdown": {
+    "health": 1073.6,
+    "education": 1533.8,
+    "urbanism": 745.8,
+    "administration": 414.6,
+    "legislative": 76.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3968.4,
+      "health_per_capita": 837.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4262.3,
+      "health_per_capita": 901.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4556.3,
+      "health_per_capita": 966.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4801.2,
+      "health_per_capita": 1030.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4899.2,
+      "health_per_capita": 1073.6
+    }
+  ]
+}

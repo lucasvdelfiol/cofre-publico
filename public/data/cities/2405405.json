@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2405405",
+  "city_name": "Japi",
+  "uf": "RN",
+  "population": 5117,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 26313948.77,
+    "total_expense": 26224611.28,
+    "own_revenue_percentage": 19.1,
+    "transfers_revenue_percentage": 80.9,
+    "personnel_expense_percentage_rcl": 46.2
+  },
+  "per_capita_breakdown": {
+    "health": 1326.3,
+    "education": 1518.0,
+    "urbanism": 431.4,
+    "administration": 594.6,
+    "legislative": 127.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4151.2,
+      "health_per_capita": 1034.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4458.8,
+      "health_per_capita": 1114.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4766.2,
+      "health_per_capita": 1193.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5022.5,
+      "health_per_capita": 1273.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5125.0,
+      "health_per_capita": 1326.3
+    }
+  ]
+}

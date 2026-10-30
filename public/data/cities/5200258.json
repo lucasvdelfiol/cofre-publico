@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5200258",
+  "city_name": "Águas Lindas de Goiás",
+  "uf": "GO",
+  "population": 225693,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 1063401405.01,
+    "total_expense": 1066219074.17,
+    "own_revenue_percentage": 41.6,
+    "transfers_revenue_percentage": 58.4,
+    "personnel_expense_percentage_rcl": 46.6
+  },
+  "per_capita_breakdown": {
+    "health": 1165.7,
+    "education": 1483.8,
+    "urbanism": 595.2,
+    "administration": 429.6,
+    "legislative": 79.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3826.6,
+      "health_per_capita": 909.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4110.1,
+      "health_per_capita": 979.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4393.5,
+      "health_per_capita": 1049.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4629.7,
+      "health_per_capita": 1119.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4724.2,
+      "health_per_capita": 1165.7
+    }
+  ]
+}

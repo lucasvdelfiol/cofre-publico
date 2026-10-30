@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4103479",
+  "city_name": "Cafezal do Sul",
+  "uf": "PR",
+  "population": 4473,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 22888812.49,
+    "total_expense": 22918709.54,
+    "own_revenue_percentage": 17.2,
+    "transfers_revenue_percentage": 82.8,
+    "personnel_expense_percentage_rcl": 52.0
+  },
+  "per_capita_breakdown": {
+    "health": 1164.8,
+    "education": 1627.3,
+    "urbanism": 436.9,
+    "administration": 361.4,
+    "legislative": 178.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4150.3,
+      "health_per_capita": 908.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4457.7,
+      "health_per_capita": 978.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4765.1,
+      "health_per_capita": 1048.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5021.3,
+      "health_per_capita": 1118.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5123.8,
+      "health_per_capita": 1164.8
+    }
+  ]
+}

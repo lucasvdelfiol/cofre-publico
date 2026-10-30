@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2514503",
+  "city_name": "São José de Piranhas",
+  "uf": "PB",
+  "population": 19067,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 101905399.48,
+    "total_expense": 98405303.06,
+    "own_revenue_percentage": 20.7,
+    "transfers_revenue_percentage": 79.3,
+    "personnel_expense_percentage_rcl": 45.7
+  },
+  "per_capita_breakdown": {
+    "health": 1078.6,
+    "education": 1304.9,
+    "urbanism": 543.0,
+    "administration": 357.3,
+    "legislative": 97.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4180.4,
+      "health_per_capita": 841.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4490.1,
+      "health_per_capita": 906.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4799.7,
+      "health_per_capita": 970.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5057.8,
+      "health_per_capita": 1035.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5161.0,
+      "health_per_capita": 1078.6
+    }
+  ]
+}

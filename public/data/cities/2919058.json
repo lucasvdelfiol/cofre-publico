@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2919058",
+  "city_name": "Lajedo do Tabocal",
+  "uf": "BA",
+  "population": 7494,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 34555738.1,
+    "total_expense": 34353106.27,
+    "own_revenue_percentage": 14.2,
+    "transfers_revenue_percentage": 85.8,
+    "personnel_expense_percentage_rcl": 50.9
+  },
+  "per_capita_breakdown": {
+    "health": 1280.8,
+    "education": 1363.8,
+    "urbanism": 711.1,
+    "administration": 275.7,
+    "legislative": 159.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3713.1,
+      "health_per_capita": 999.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3988.2,
+      "health_per_capita": 1075.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4263.2,
+      "health_per_capita": 1152.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4492.4,
+      "health_per_capita": 1229.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4584.1,
+      "health_per_capita": 1280.8
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4200507",
+  "city_name": "Águas de Chapecó",
+  "uf": "SC",
+  "population": 6036,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 28657843.4,
+    "total_expense": 27611516.49,
+    "own_revenue_percentage": 21.2,
+    "transfers_revenue_percentage": 78.8,
+    "personnel_expense_percentage_rcl": 46.2
+  },
+  "per_capita_breakdown": {
+    "health": 1083.7,
+    "education": 1353.5,
+    "urbanism": 428.1,
+    "administration": 355.9,
+    "legislative": 158.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3705.3,
+      "health_per_capita": 845.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3979.8,
+      "health_per_capita": 910.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4254.3,
+      "health_per_capita": 975.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4483.0,
+      "health_per_capita": 1040.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4574.5,
+      "health_per_capita": 1083.7
+    }
+  ]
+}

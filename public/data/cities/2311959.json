@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2311959",
+  "city_name": "Salitre",
+  "uf": "CE",
+  "population": 16633,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 86123354.99,
+    "total_expense": 84153721.43,
+    "own_revenue_percentage": 11.8,
+    "transfers_revenue_percentage": 88.2,
+    "personnel_expense_percentage_rcl": 50.9
+  },
+  "per_capita_breakdown": {
+    "health": 1124.6,
+    "education": 1609.5,
+    "urbanism": 520.7,
+    "administration": 588.3,
+    "legislative": 91.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4098.1,
+      "health_per_capita": 877.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4401.7,
+      "health_per_capita": 944.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4705.2,
+      "health_per_capita": 1012.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4958.2,
+      "health_per_capita": 1079.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5059.4,
+      "health_per_capita": 1124.6
+    }
+  ]
+}

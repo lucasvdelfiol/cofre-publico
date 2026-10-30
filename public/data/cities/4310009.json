@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4310009",
+  "city_name": "Ibirubá",
+  "uf": "RS",
+  "population": 21583,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 101595984.73,
+    "total_expense": 100712957.88,
+    "own_revenue_percentage": 29.1,
+    "transfers_revenue_percentage": 70.9,
+    "personnel_expense_percentage_rcl": 47.8
+  },
+  "per_capita_breakdown": {
+    "health": 1014.1,
+    "education": 1423.1,
+    "urbanism": 396.8,
+    "administration": 444.6,
+    "legislative": 125.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3779.7,
+      "health_per_capita": 791.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4059.7,
+      "health_per_capita": 851.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4339.7,
+      "health_per_capita": 912.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4573.0,
+      "health_per_capita": 973.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4666.3,
+      "health_per_capita": 1014.1
+    }
+  ]
+}

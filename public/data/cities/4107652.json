@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4107652",
+  "city_name": "Fazenda Rio Grande",
+  "uf": "PR",
+  "population": 148873,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 759881705.78,
+    "total_expense": 755190592.36,
+    "own_revenue_percentage": 38.0,
+    "transfers_revenue_percentage": 62.0,
+    "personnel_expense_percentage_rcl": 46.8
+  },
+  "per_capita_breakdown": {
+    "health": 1321.0,
+    "education": 1270.1,
+    "urbanism": 760.2,
+    "administration": 496.9,
+    "legislative": 101.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4108.9,
+      "health_per_capita": 1030.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4413.2,
+      "health_per_capita": 1109.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4717.6,
+      "health_per_capita": 1188.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4971.2,
+      "health_per_capita": 1268.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5072.7,
+      "health_per_capita": 1321.0
+    }
+  ]
+}

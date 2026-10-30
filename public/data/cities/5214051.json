@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5214051",
+  "city_name": "Mundo Novo",
+  "uf": "GO",
+  "population": 6189,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 32629041.76,
+    "total_expense": 32626894.51,
+    "own_revenue_percentage": 21.1,
+    "transfers_revenue_percentage": 78.9,
+    "personnel_expense_percentage_rcl": 49.3
+  },
+  "per_capita_breakdown": {
+    "health": 1179.9,
+    "education": 1373.1,
+    "urbanism": 762.4,
+    "administration": 454.7,
+    "legislative": 172.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4270.2,
+      "health_per_capita": 920.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4586.5,
+      "health_per_capita": 991.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4902.8,
+      "health_per_capita": 1061.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5166.4,
+      "health_per_capita": 1132.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5271.8,
+      "health_per_capita": 1179.9
+    }
+  ]
+}

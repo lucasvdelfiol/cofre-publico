@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5218052",
+  "city_name": "Porteirão",
+  "uf": "GO",
+  "population": 4070,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 19188446.7,
+    "total_expense": 18939494.87,
+    "own_revenue_percentage": 10.1,
+    "transfers_revenue_percentage": 89.9,
+    "personnel_expense_percentage_rcl": 52.0
+  },
+  "per_capita_breakdown": {
+    "health": 1025.3,
+    "education": 1215.0,
+    "urbanism": 722.5,
+    "administration": 294.6,
+    "legislative": 111.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3769.3,
+      "health_per_capita": 799.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4048.5,
+      "health_per_capita": 861.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4327.7,
+      "health_per_capita": 922.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4560.3,
+      "health_per_capita": 984.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4653.4,
+      "health_per_capita": 1025.3
+    }
+  ]
+}

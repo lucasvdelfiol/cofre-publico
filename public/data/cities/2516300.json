@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2516300",
+  "city_name": "Sumé",
+  "uf": "PB",
+  "population": 17166,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 80653437.47,
+    "total_expense": 80600058.03,
+    "own_revenue_percentage": 16.5,
+    "transfers_revenue_percentage": 83.5,
+    "personnel_expense_percentage_rcl": 48.9
+  },
+  "per_capita_breakdown": {
+    "health": 1240.8,
+    "education": 1337.2,
+    "urbanism": 438.1,
+    "administration": 385.1,
+    "legislative": 121.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3803.2,
+      "health_per_capita": 967.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4084.9,
+      "health_per_capita": 1042.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4366.6,
+      "health_per_capita": 1116.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4601.4,
+      "health_per_capita": 1191.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4695.3,
+      "health_per_capita": 1240.8
+    }
+  ]
+}

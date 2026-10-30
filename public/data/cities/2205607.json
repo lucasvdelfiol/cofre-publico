@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2205607",
+  "city_name": "Landri Sales",
+  "uf": "PI",
+  "population": 5213,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 26362965.57,
+    "total_expense": 26360789.67,
+    "own_revenue_percentage": 12.4,
+    "transfers_revenue_percentage": 87.6,
+    "personnel_expense_percentage_rcl": 52.3
+  },
+  "per_capita_breakdown": {
+    "health": 1079.2,
+    "education": 1443.0,
+    "urbanism": 479.0,
+    "administration": 372.4,
+    "legislative": 103.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4095.9,
+      "health_per_capita": 841.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4399.3,
+      "health_per_capita": 906.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4702.7,
+      "health_per_capita": 971.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4955.6,
+      "health_per_capita": 1036.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5056.7,
+      "health_per_capita": 1079.2
+    }
+  ]
+}

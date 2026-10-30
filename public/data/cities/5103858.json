@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5103858",
+  "city_name": "Gaúcha do Norte",
+  "uf": "MT",
+  "population": 8642,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 41521785.14,
+    "total_expense": 40283690.39,
+    "own_revenue_percentage": 16.8,
+    "transfers_revenue_percentage": 83.2,
+    "personnel_expense_percentage_rcl": 46.1
+  },
+  "per_capita_breakdown": {
+    "health": 1051.9,
+    "education": 1416.6,
+    "urbanism": 682.3,
+    "administration": 396.7,
+    "legislative": 126.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3775.7,
+      "health_per_capita": 820.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4055.4,
+      "health_per_capita": 883.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4335.1,
+      "health_per_capita": 946.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4568.2,
+      "health_per_capita": 1009.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4661.4,
+      "health_per_capita": 1051.9
+    }
+  ]
+}

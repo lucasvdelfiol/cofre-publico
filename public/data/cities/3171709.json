@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3171709",
+  "city_name": "Virgínia",
+  "uf": "MG",
+  "population": 8908,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 46570034.94,
+    "total_expense": 45169082.51,
+    "own_revenue_percentage": 10.6,
+    "transfers_revenue_percentage": 89.4,
+    "personnel_expense_percentage_rcl": 47.7
+  },
+  "per_capita_breakdown": {
+    "health": 1254.3,
+    "education": 1537.7,
+    "urbanism": 702.9,
+    "administration": 532.6,
+    "legislative": 140.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4107.2,
+      "health_per_capita": 978.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4411.4,
+      "health_per_capita": 1053.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4715.7,
+      "health_per_capita": 1128.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4969.2,
+      "health_per_capita": 1204.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5070.6,
+      "health_per_capita": 1254.3
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5000807",
+  "city_name": "Anaurilândia",
+  "uf": "MS",
+  "population": 7653,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 34463346.13,
+    "total_expense": 34278060.6,
+    "own_revenue_percentage": 14.6,
+    "transfers_revenue_percentage": 85.4,
+    "personnel_expense_percentage_rcl": 50.7
+  },
+  "per_capita_breakdown": {
+    "health": 1089.2,
+    "education": 1163.3,
+    "urbanism": 568.0,
+    "administration": 400.8,
+    "legislative": 90.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3628.0,
+      "health_per_capita": 849.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3896.7,
+      "health_per_capita": 914.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4165.5,
+      "health_per_capita": 980.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4389.4,
+      "health_per_capita": 1045.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4479.0,
+      "health_per_capita": 1089.2
+    }
+  ]
+}

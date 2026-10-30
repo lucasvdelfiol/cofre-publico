@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4206405",
+  "city_name": "Guaraciaba",
+  "uf": "SC",
+  "population": 10796,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 57285992.35,
+    "total_expense": 55990725.94,
+    "own_revenue_percentage": 10.9,
+    "transfers_revenue_percentage": 89.1,
+    "personnel_expense_percentage_rcl": 49.6
+  },
+  "per_capita_breakdown": {
+    "health": 1324.0,
+    "education": 1336.9,
+    "urbanism": 590.8,
+    "administration": 390.2,
+    "legislative": 110.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4200.8,
+      "health_per_capita": 1032.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4512.0,
+      "health_per_capita": 1112.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4823.2,
+      "health_per_capita": 1191.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5082.5,
+      "health_per_capita": 1271.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5186.2,
+      "health_per_capita": 1324.0
+    }
+  ]
+}

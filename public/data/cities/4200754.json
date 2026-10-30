@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4200754",
+  "city_name": "Alto Bela Vista",
+  "uf": "SC",
+  "population": 1856,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 9322131.39,
+    "total_expense": 9043319.7,
+    "own_revenue_percentage": 21.9,
+    "transfers_revenue_percentage": 78.1,
+    "personnel_expense_percentage_rcl": 47.0
+  },
+  "per_capita_breakdown": {
+    "health": 1097.5,
+    "education": 1251.7,
+    "urbanism": 673.4,
+    "administration": 301.8,
+    "legislative": 79.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3946.7,
+      "health_per_capita": 856.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4239.1,
+      "health_per_capita": 921.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4531.4,
+      "health_per_capita": 987.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4775.1,
+      "health_per_capita": 1053.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4872.5,
+      "health_per_capita": 1097.5
+    }
+  ]
+}

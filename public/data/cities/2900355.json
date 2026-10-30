@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2900355",
+  "city_name": "Adustina",
+  "uf": "BA",
+  "population": 14201,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 66764258.01,
+    "total_expense": 64652479.95,
+    "own_revenue_percentage": 13.0,
+    "transfers_revenue_percentage": 87.0,
+    "personnel_expense_percentage_rcl": 52.3
+  },
+  "per_capita_breakdown": {
+    "health": 1008.6,
+    "education": 1433.2,
+    "urbanism": 496.0,
+    "administration": 375.4,
+    "legislative": 81.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3687.7,
+      "health_per_capita": 786.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3960.8,
+      "health_per_capita": 847.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4234.0,
+      "health_per_capita": 907.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4461.6,
+      "health_per_capita": 968.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4552.7,
+      "health_per_capita": 1008.6
+    }
+  ]
+}

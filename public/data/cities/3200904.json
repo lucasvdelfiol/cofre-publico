@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3200904",
+  "city_name": "Barra de São Francisco",
+  "uf": "ES",
+  "population": 42498,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 214613388.23,
+    "total_expense": 207535326.09,
+    "own_revenue_percentage": 18.8,
+    "transfers_revenue_percentage": 81.2,
+    "personnel_expense_percentage_rcl": 50.7
+  },
+  "per_capita_breakdown": {
+    "health": 1110.5,
+    "education": 1211.1,
+    "urbanism": 497.9,
+    "administration": 454.6,
+    "legislative": 122.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3955.6,
+      "health_per_capita": 866.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4248.6,
+      "health_per_capita": 932.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4541.6,
+      "health_per_capita": 999.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4785.7,
+      "health_per_capita": 1066.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4883.4,
+      "health_per_capita": 1110.5
+    }
+  ]
+}

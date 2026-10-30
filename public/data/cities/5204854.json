@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5204854",
+  "city_name": "Campo Limpo de Goiás",
+  "uf": "GO",
+  "population": 8081,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 44611265.55,
+    "total_expense": 45048224.44,
+    "own_revenue_percentage": 12.6,
+    "transfers_revenue_percentage": 87.4,
+    "personnel_expense_percentage_rcl": 52.6
+  },
+  "per_capita_breakdown": {
+    "health": 1357.6,
+    "education": 1701.2,
+    "urbanism": 712.5,
+    "administration": 531.7,
+    "legislative": 107.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4515.4,
+      "health_per_capita": 1058.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4849.9,
+      "health_per_capita": 1140.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5184.4,
+      "health_per_capita": 1221.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5463.1,
+      "health_per_capita": 1303.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5574.6,
+      "health_per_capita": 1357.6
+    }
+  ]
+}

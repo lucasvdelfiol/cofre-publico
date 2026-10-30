@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3160603",
+  "city_name": "Santo Hipólito",
+  "uf": "MG",
+  "population": 2717,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 13304477.62,
+    "total_expense": 13078947.62,
+    "own_revenue_percentage": 21.1,
+    "transfers_revenue_percentage": 78.9,
+    "personnel_expense_percentage_rcl": 47.1
+  },
+  "per_capita_breakdown": {
+    "health": 1177.3,
+    "education": 1443.9,
+    "urbanism": 435.6,
+    "administration": 529.7,
+    "legislative": 123.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3899.1,
+      "health_per_capita": 918.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4187.9,
+      "health_per_capita": 988.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4476.7,
+      "health_per_capita": 1059.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4717.4,
+      "health_per_capita": 1130.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4813.7,
+      "health_per_capita": 1177.3
+    }
+  ]
+}

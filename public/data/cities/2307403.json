@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2307403",
+  "city_name": "Jucás",
+  "uf": "CE",
+  "population": 23922,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 100731443.86,
+    "total_expense": 99953750.99,
+    "own_revenue_percentage": 27.4,
+    "transfers_revenue_percentage": 72.6,
+    "personnel_expense_percentage_rcl": 51.3
+  },
+  "per_capita_breakdown": {
+    "health": 881.4,
+    "education": 1011.0,
+    "urbanism": 367.3,
+    "administration": 313.1,
+    "legislative": 71.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3384.4,
+      "health_per_capita": 687.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3635.1,
+      "health_per_capita": 740.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3885.8,
+      "health_per_capita": 793.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4094.7,
+      "health_per_capita": 846.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4178.3,
+      "health_per_capita": 881.4
+    }
+  ]
+}

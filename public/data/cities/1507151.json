@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1507151",
+  "city_name": "São Domingos do Araguaia",
+  "uf": "PA",
+  "population": 21092,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 90840317.38,
+    "total_expense": 89021460.92,
+    "own_revenue_percentage": 25.6,
+    "transfers_revenue_percentage": 74.4,
+    "personnel_expense_percentage_rcl": 47.3
+  },
+  "per_capita_breakdown": {
+    "health": 952.5,
+    "education": 1303.2,
+    "urbanism": 531.1,
+    "administration": 328.6,
+    "legislative": 71.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3418.7,
+      "health_per_capita": 743.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3671.9,
+      "health_per_capita": 800.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3925.2,
+      "health_per_capita": 857.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4136.2,
+      "health_per_capita": 914.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4220.6,
+      "health_per_capita": 952.5
+    }
+  ]
+}

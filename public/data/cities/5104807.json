@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5104807",
+  "city_name": "Jaciara",
+  "uf": "MT",
+  "population": 28569,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 125650959.06,
+    "total_expense": 121638603.06,
+    "own_revenue_percentage": 21.2,
+    "transfers_revenue_percentage": 78.8,
+    "personnel_expense_percentage_rcl": 50.4
+  },
+  "per_capita_breakdown": {
+    "health": 1161.5,
+    "education": 1178.2,
+    "urbanism": 544.8,
+    "administration": 354.4,
+    "legislative": 116.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3448.7,
+      "health_per_capita": 906.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3704.2,
+      "health_per_capita": 975.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3959.7,
+      "health_per_capita": 1045.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4172.5,
+      "health_per_capita": 1115.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4257.7,
+      "health_per_capita": 1161.5
+    }
+  ]
+}

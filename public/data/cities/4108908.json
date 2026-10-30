@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4108908",
+  "city_name": "Guairaçá",
+  "uf": "PR",
+  "population": 6587,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 34975053.52,
+    "total_expense": 33735238.44,
+    "own_revenue_percentage": 14.7,
+    "transfers_revenue_percentage": 85.3,
+    "personnel_expense_percentage_rcl": 52.2
+  },
+  "per_capita_breakdown": {
+    "health": 1187.6,
+    "education": 1492.0,
+    "urbanism": 651.9,
+    "administration": 504.6,
+    "legislative": 90.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4148.4,
+      "health_per_capita": 926.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4455.7,
+      "health_per_capita": 997.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4763.0,
+      "health_per_capita": 1068.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5019.1,
+      "health_per_capita": 1140.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5121.5,
+      "health_per_capita": 1187.6
+    }
+  ]
+}

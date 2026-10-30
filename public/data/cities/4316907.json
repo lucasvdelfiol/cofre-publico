@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4316907",
+  "city_name": "Santa Maria",
+  "uf": "RS",
+  "population": 271735,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 1262550957.21,
+    "total_expense": 1254171678.41,
+    "own_revenue_percentage": 50.2,
+    "transfers_revenue_percentage": 49.8,
+    "personnel_expense_percentage_rcl": 52.0
+  },
+  "per_capita_breakdown": {
+    "health": 1241.6,
+    "education": 1356.7,
+    "urbanism": 622.4,
+    "administration": 332.4,
+    "legislative": 130.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3738.5,
+      "health_per_capita": 968.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4015.4,
+      "health_per_capita": 1042.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4292.3,
+      "health_per_capita": 1117.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4523.1,
+      "health_per_capita": 1191.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4615.4,
+      "health_per_capita": 1241.6
+    }
+  ]
+}

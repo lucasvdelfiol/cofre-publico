@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2512762",
+  "city_name": "Riachão do Poço",
+  "uf": "PB",
+  "population": 4738,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 25027715.23,
+    "total_expense": 24187508.72,
+    "own_revenue_percentage": 8.6,
+    "transfers_revenue_percentage": 91.4,
+    "personnel_expense_percentage_rcl": 47.4
+  },
+  "per_capita_breakdown": {
+    "health": 1255.9,
+    "education": 1255.8,
+    "urbanism": 792.8,
+    "administration": 610.4,
+    "legislative": 81.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4135.1,
+      "health_per_capita": 979.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4441.4,
+      "health_per_capita": 1055.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4747.7,
+      "health_per_capita": 1130.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5002.9,
+      "health_per_capita": 1205.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5105.0,
+      "health_per_capita": 1255.9
+    }
+  ]
+}

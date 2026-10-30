@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3168408",
+  "city_name": "Tarumirim",
+  "uf": "MG",
+  "population": 14709,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 64552317.55,
+    "total_expense": 63448415.3,
+    "own_revenue_percentage": 17.0,
+    "transfers_revenue_percentage": 83.0,
+    "personnel_expense_percentage_rcl": 47.4
+  },
+  "per_capita_breakdown": {
+    "health": 865.8,
+    "education": 1308.3,
+    "urbanism": 484.1,
+    "administration": 498.3,
+    "legislative": 85.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3494.0,
+      "health_per_capita": 675.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3752.8,
+      "health_per_capita": 727.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4011.6,
+      "health_per_capita": 779.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4227.3,
+      "health_per_capita": 831.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4313.6,
+      "health_per_capita": 865.8
+    }
+  ]
+}

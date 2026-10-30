@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1508357",
+  "city_name": "Vitória do Xingu",
+  "uf": "PA",
+  "population": 15607,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 89771975.38,
+    "total_expense": 86718143.03,
+    "own_revenue_percentage": 18.8,
+    "transfers_revenue_percentage": 81.2,
+    "personnel_expense_percentage_rcl": 49.2
+  },
+  "per_capita_breakdown": {
+    "health": 1445.7,
+    "education": 1505.5,
+    "urbanism": 552.3,
+    "administration": 417.9,
+    "legislative": 134.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4500.7,
+      "health_per_capita": 1127.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4834.1,
+      "health_per_capita": 1214.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5167.5,
+      "health_per_capita": 1301.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5445.3,
+      "health_per_capita": 1387.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5556.4,
+      "health_per_capita": 1445.7
+    }
+  ]
+}

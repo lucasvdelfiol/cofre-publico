@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3151701",
+  "city_name": "Poço Fundo",
+  "uf": "MG",
+  "population": 16390,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 80597010.12,
+    "total_expense": 78357734.78,
+    "own_revenue_percentage": 17.2,
+    "transfers_revenue_percentage": 82.8,
+    "personnel_expense_percentage_rcl": 49.8
+  },
+  "per_capita_breakdown": {
+    "health": 1309.9,
+    "education": 1490.8,
+    "urbanism": 722.4,
+    "administration": 503.7,
+    "legislative": 76.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3872.4,
+      "health_per_capita": 1021.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4159.3,
+      "health_per_capita": 1100.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4446.1,
+      "health_per_capita": 1178.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4685.2,
+      "health_per_capita": 1257.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4780.8,
+      "health_per_capita": 1309.9
+    }
+  ]
+}

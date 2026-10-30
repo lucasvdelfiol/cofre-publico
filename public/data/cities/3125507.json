@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3125507",
+  "city_name": "São Gonçalo do Rio Preto",
+  "uf": "MG",
+  "population": 3032,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 14840428.98,
+    "total_expense": 14933773.41,
+    "own_revenue_percentage": 18.3,
+    "transfers_revenue_percentage": 81.7,
+    "personnel_expense_percentage_rcl": 52.3
+  },
+  "per_capita_breakdown": {
+    "health": 1121.9,
+    "education": 1490.1,
+    "urbanism": 566.4,
+    "administration": 437.5,
+    "legislative": 87.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3989.6,
+      "health_per_capita": 875.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4285.1,
+      "health_per_capita": 942.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4580.6,
+      "health_per_capita": 1009.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4826.9,
+      "health_per_capita": 1077.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4925.4,
+      "health_per_capita": 1121.9
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2609105",
+  "city_name": "Machados",
+  "uf": "PE",
+  "population": 11333,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 62326970.57,
+    "total_expense": 60937338.64,
+    "own_revenue_percentage": 9.2,
+    "transfers_revenue_percentage": 90.8,
+    "personnel_expense_percentage_rcl": 47.3
+  },
+  "per_capita_breakdown": {
+    "health": 1436.0,
+    "education": 1682.0,
+    "urbanism": 757.2,
+    "administration": 383.8,
+    "legislative": 185.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4355.4,
+      "health_per_capita": 1120.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4678.0,
+      "health_per_capita": 1206.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5000.6,
+      "health_per_capita": 1292.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5269.5,
+      "health_per_capita": 1378.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5377.0,
+      "health_per_capita": 1436.0
+    }
+  ]
+}

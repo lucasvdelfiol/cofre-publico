@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3514908",
+  "city_name": "Elias Fausto",
+  "uf": "SP",
+  "population": 17699,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 89967948.97,
+    "total_expense": 89446194.31,
+    "own_revenue_percentage": 9.7,
+    "transfers_revenue_percentage": 90.3,
+    "personnel_expense_percentage_rcl": 46.0
+  },
+  "per_capita_breakdown": {
+    "health": 1208.6,
+    "education": 1307.1,
+    "urbanism": 472.7,
+    "administration": 342.8,
+    "legislative": 161.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4093.5,
+      "health_per_capita": 942.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4396.7,
+      "health_per_capita": 1015.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4699.9,
+      "health_per_capita": 1087.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4952.6,
+      "health_per_capita": 1160.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5053.7,
+      "health_per_capita": 1208.6
+    }
+  ]
+}

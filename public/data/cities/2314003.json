@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2314003",
+  "city_name": "Várzea Alegre",
+  "uf": "CE",
+  "population": 38984,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 169487155.55,
+    "total_expense": 168855953.42,
+    "own_revenue_percentage": 23.3,
+    "transfers_revenue_percentage": 76.7,
+    "personnel_expense_percentage_rcl": 47.9
+  },
+  "per_capita_breakdown": {
+    "health": 878.4,
+    "education": 1187.1,
+    "urbanism": 390.0,
+    "administration": 496.0,
+    "legislative": 113.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3508.4,
+      "health_per_capita": 685.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3768.3,
+      "health_per_capita": 737.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4028.2,
+      "health_per_capita": 790.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4244.8,
+      "health_per_capita": 843.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4331.4,
+      "health_per_capita": 878.4
+    }
+  ]
+}

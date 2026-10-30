@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2201309",
+  "city_name": "Barreiras do Piauí",
+  "uf": "PI",
+  "population": 3264,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 18429254.61,
+    "total_expense": 17760500.1,
+    "own_revenue_percentage": 12.9,
+    "transfers_revenue_percentage": 87.1,
+    "personnel_expense_percentage_rcl": 49.1
+  },
+  "per_capita_breakdown": {
+    "health": 1404.2,
+    "education": 1372.9,
+    "urbanism": 464.6,
+    "administration": 591.0,
+    "legislative": 106.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4407.5,
+      "health_per_capita": 1095.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4733.9,
+      "health_per_capita": 1179.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5060.4,
+      "health_per_capita": 1263.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5332.5,
+      "health_per_capita": 1348.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5441.3,
+      "health_per_capita": 1404.2
+    }
+  ]
+}

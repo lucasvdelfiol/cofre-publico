@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1304203",
+  "city_name": "Tefé",
+  "uf": "AM",
+  "population": 73669,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 307585929.06,
+    "total_expense": 309712437.55,
+    "own_revenue_percentage": 35.0,
+    "transfers_revenue_percentage": 65.0,
+    "personnel_expense_percentage_rcl": 51.7
+  },
+  "per_capita_breakdown": {
+    "health": 1072.5,
+    "education": 1047.3,
+    "urbanism": 411.9,
+    "administration": 396.2,
+    "legislative": 102.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3405.3,
+      "health_per_capita": 836.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3657.6,
+      "health_per_capita": 900.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3909.8,
+      "health_per_capita": 965.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4120.0,
+      "health_per_capita": 1029.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4204.1,
+      "health_per_capita": 1072.5
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4201257",
+  "city_name": "Apiúna",
+  "uf": "SC",
+  "population": 9811,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 56213575.44,
+    "total_expense": 54818089.7,
+    "own_revenue_percentage": 15.7,
+    "transfers_revenue_percentage": 84.3,
+    "personnel_expense_percentage_rcl": 50.1
+  },
+  "per_capita_breakdown": {
+    "health": 1229.5,
+    "education": 1471.8,
+    "urbanism": 863.3,
+    "administration": 598.8,
+    "legislative": 135.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4525.8,
+      "health_per_capita": 959.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4861.0,
+      "health_per_capita": 1032.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5196.3,
+      "health_per_capita": 1106.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5475.7,
+      "health_per_capita": 1180.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5587.4,
+      "health_per_capita": 1229.5
+    }
+  ]
+}

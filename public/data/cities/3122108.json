@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3122108",
+  "city_name": "Divino das Laranjeiras",
+  "uf": "MG",
+  "population": 4178,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 19889206.31,
+    "total_expense": 19536217.27,
+    "own_revenue_percentage": 13.0,
+    "transfers_revenue_percentage": 87.0,
+    "personnel_expense_percentage_rcl": 53.7
+  },
+  "per_capita_breakdown": {
+    "health": 1009.0,
+    "education": 1314.7,
+    "urbanism": 497.9,
+    "administration": 534.2,
+    "legislative": 83.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3787.6,
+      "health_per_capita": 787.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4068.1,
+      "health_per_capita": 847.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4348.7,
+      "health_per_capita": 908.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4582.5,
+      "health_per_capita": 968.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4676.0,
+      "health_per_capita": 1009.0
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2701001",
+  "city_name": "Boca da Mata",
+  "uf": "AL",
+  "population": 21187,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 93177731.46,
+    "total_expense": 90276212.05,
+    "own_revenue_percentage": 24.7,
+    "transfers_revenue_percentage": 75.3,
+    "personnel_expense_percentage_rcl": 50.1
+  },
+  "per_capita_breakdown": {
+    "health": 1154.6,
+    "education": 1022.7,
+    "urbanism": 553.3,
+    "administration": 362.0,
+    "legislative": 105.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3451.3,
+      "health_per_capita": 900.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3707.0,
+      "health_per_capita": 969.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3962.6,
+      "health_per_capita": 1039.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4175.7,
+      "health_per_capita": 1108.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4260.9,
+      "health_per_capita": 1154.6
+    }
+  ]
+}

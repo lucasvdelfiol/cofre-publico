@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2914653",
+  "city_name": "Itabela",
+  "uf": "BA",
+  "population": 28165,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 124643829.86,
+    "total_expense": 123559788.73,
+    "own_revenue_percentage": 20.7,
+    "transfers_revenue_percentage": 79.3,
+    "personnel_expense_percentage_rcl": 46.6
+  },
+  "per_capita_breakdown": {
+    "health": 1106.6,
+    "education": 1372.5,
+    "urbanism": 454.4,
+    "administration": 429.8,
+    "legislative": 90.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3553.5,
+      "health_per_capita": 863.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3816.7,
+      "health_per_capita": 929.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4079.9,
+      "health_per_capita": 995.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4299.3,
+      "health_per_capita": 1062.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4387.0,
+      "health_per_capita": 1106.6
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3151404",
+  "city_name": "Pitangui",
+  "uf": "MG",
+  "population": 26685,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 122294945.99,
+    "total_expense": 117961505.24,
+    "own_revenue_percentage": 21.2,
+    "transfers_revenue_percentage": 78.8,
+    "personnel_expense_percentage_rcl": 51.5
+  },
+  "per_capita_breakdown": {
+    "health": 1070.4,
+    "education": 1130.0,
+    "urbanism": 484.6,
+    "administration": 479.1,
+    "legislative": 76.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3580.6,
+      "health_per_capita": 834.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3845.8,
+      "health_per_capita": 899.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4111.1,
+      "health_per_capita": 963.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4332.1,
+      "health_per_capita": 1027.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4420.5,
+      "health_per_capita": 1070.4
+    }
+  ]
+}

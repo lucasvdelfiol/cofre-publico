@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2313351",
+  "city_name": "Tejuçuoca",
+  "uf": "CE",
+  "population": 17154,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 82369726.26,
+    "total_expense": 81598778.36,
+    "own_revenue_percentage": 13.6,
+    "transfers_revenue_percentage": 86.4,
+    "personnel_expense_percentage_rcl": 50.8
+  },
+  "per_capita_breakdown": {
+    "health": 1109.6,
+    "education": 1144.9,
+    "urbanism": 738.3,
+    "administration": 427.3,
+    "legislative": 108.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3853.0,
+      "health_per_capita": 865.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4138.4,
+      "health_per_capita": 932.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4423.8,
+      "health_per_capita": 998.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4661.7,
+      "health_per_capita": 1065.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4756.8,
+      "health_per_capita": 1109.6
+    }
+  ]
+}

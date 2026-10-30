@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2918902",
+  "city_name": "Lajedão",
+  "uf": "BA",
+  "population": 3845,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 17072865.35,
+    "total_expense": 16882246.69,
+    "own_revenue_percentage": 17.5,
+    "transfers_revenue_percentage": 82.5,
+    "personnel_expense_percentage_rcl": 51.4
+  },
+  "per_capita_breakdown": {
+    "health": 901.2,
+    "education": 1190.6,
+    "urbanism": 676.5,
+    "administration": 469.5,
+    "legislative": 148.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3556.5,
+      "health_per_capita": 702.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3819.9,
+      "health_per_capita": 757.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4083.4,
+      "health_per_capita": 811.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4302.9,
+      "health_per_capita": 865.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4390.7,
+      "health_per_capita": 901.2
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2301901",
+  "city_name": "Barbalha",
+  "uf": "CE",
+  "population": 75033,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 324023815.73,
+    "total_expense": 326631844.57,
+    "own_revenue_percentage": 35.3,
+    "transfers_revenue_percentage": 64.7,
+    "personnel_expense_percentage_rcl": 48.2
+  },
+  "per_capita_breakdown": {
+    "health": 1111.0,
+    "education": 1342.4,
+    "urbanism": 554.1,
+    "administration": 452.6,
+    "legislative": 149.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3526.1,
+      "health_per_capita": 866.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3787.3,
+      "health_per_capita": 933.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4048.5,
+      "health_per_capita": 999.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4266.1,
+      "health_per_capita": 1066.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4353.2,
+      "health_per_capita": 1111.0
+    }
+  ]
+}

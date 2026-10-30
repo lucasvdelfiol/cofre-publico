@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3510401",
+  "city_name": "Capivari",
+  "uf": "SP",
+  "population": 50068,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 260374672.3,
+    "total_expense": 259868055.89,
+    "own_revenue_percentage": 38.8,
+    "transfers_revenue_percentage": 61.2,
+    "personnel_expense_percentage_rcl": 48.0
+  },
+  "per_capita_breakdown": {
+    "health": 1174.5,
+    "education": 1455.3,
+    "urbanism": 688.0,
+    "administration": 374.0,
+    "legislative": 159.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4204.1,
+      "health_per_capita": 916.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4515.6,
+      "health_per_capita": 986.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4827.0,
+      "health_per_capita": 1057.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5086.5,
+      "health_per_capita": 1127.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5190.3,
+      "health_per_capita": 1174.5
+    }
+  ]
+}

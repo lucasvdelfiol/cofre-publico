@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5107909",
+  "city_name": "Sinop",
+  "uf": "MT",
+  "population": 196312,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 931754766.51,
+    "total_expense": 941048858.6,
+    "own_revenue_percentage": 45.0,
+    "transfers_revenue_percentage": 55.0,
+    "personnel_expense_percentage_rcl": 44.2
+  },
+  "per_capita_breakdown": {
+    "health": 1198.4,
+    "education": 1503.8,
+    "urbanism": 577.1,
+    "administration": 353.7,
+    "legislative": 165.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3882.8,
+      "health_per_capita": 934.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4170.4,
+      "health_per_capita": 1006.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4458.0,
+      "health_per_capita": 1078.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4697.7,
+      "health_per_capita": 1150.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4793.6,
+      "health_per_capita": 1198.4
+    }
+  ]
+}

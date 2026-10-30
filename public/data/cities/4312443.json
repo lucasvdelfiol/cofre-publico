@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4312443",
+  "city_name": "Morrinhos do Sul",
+  "uf": "RS",
+  "population": 3071,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 16539911.67,
+    "total_expense": 16158402.37,
+    "own_revenue_percentage": 15.5,
+    "transfers_revenue_percentage": 84.5,
+    "personnel_expense_percentage_rcl": 49.9
+  },
+  "per_capita_breakdown": {
+    "health": 1355.6,
+    "education": 1465.5,
+    "urbanism": 798.2,
+    "administration": 490.3,
+    "legislative": 168.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4261.9,
+      "health_per_capita": 1057.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4577.6,
+      "health_per_capita": 1138.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4893.3,
+      "health_per_capita": 1220.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5156.4,
+      "health_per_capita": 1301.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5261.6,
+      "health_per_capita": 1355.6
+    }
+  ]
+}

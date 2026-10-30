@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2608602",
+  "city_name": "Lagoa do Ouro",
+  "uf": "PE",
+  "population": 11933,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 57682973.7,
+    "total_expense": 55694133.12,
+    "own_revenue_percentage": 13.6,
+    "transfers_revenue_percentage": 86.4,
+    "personnel_expense_percentage_rcl": 50.1
+  },
+  "per_capita_breakdown": {
+    "health": 1264.2,
+    "education": 1333.8,
+    "urbanism": 730.1,
+    "administration": 528.3,
+    "legislative": 128.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3780.4,
+      "health_per_capita": 986.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4060.5,
+      "health_per_capita": 1061.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4340.5,
+      "health_per_capita": 1137.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4573.9,
+      "health_per_capita": 1213.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4667.2,
+      "health_per_capita": 1264.2
+    }
+  ]
+}

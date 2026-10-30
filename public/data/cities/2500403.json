@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2500403",
+  "city_name": "Alagoa Nova",
+  "uf": "PB",
+  "population": 21013,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 96987330.96,
+    "total_expense": 97436412.68,
+    "own_revenue_percentage": 19.3,
+    "transfers_revenue_percentage": 80.7,
+    "personnel_expense_percentage_rcl": 46.2
+  },
+  "per_capita_breakdown": {
+    "health": 961.4,
+    "education": 1234.3,
+    "urbanism": 500.4,
+    "administration": 521.2,
+    "legislative": 152.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3756.0,
+      "health_per_capita": 749.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4034.2,
+      "health_per_capita": 807.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4312.4,
+      "health_per_capita": 865.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4544.3,
+      "health_per_capita": 922.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4637.0,
+      "health_per_capita": 961.4
+    }
+  ]
+}

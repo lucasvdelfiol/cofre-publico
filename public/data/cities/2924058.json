@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2924058",
+  "city_name": "Pé de Serra",
+  "uf": "BA",
+  "population": 13243,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 61816712.49,
+    "total_expense": 60622467.07,
+    "own_revenue_percentage": 18.3,
+    "transfers_revenue_percentage": 81.7,
+    "personnel_expense_percentage_rcl": 52.5
+  },
+  "per_capita_breakdown": {
+    "health": 1086.7,
+    "education": 1446.1,
+    "urbanism": 417.6,
+    "administration": 534.3,
+    "legislative": 126.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3707.9,
+      "health_per_capita": 847.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3982.6,
+      "health_per_capita": 912.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4257.3,
+      "health_per_capita": 978.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4486.1,
+      "health_per_capita": 1043.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4577.7,
+      "health_per_capita": 1086.7
+    }
+  ]
+}

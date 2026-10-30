@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3168606",
+  "city_name": "Teófilo Otoni",
+  "uf": "MG",
+  "population": 137418,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 805789783.86,
+    "total_expense": 789645608.88,
+    "own_revenue_percentage": 51.1,
+    "transfers_revenue_percentage": 48.9,
+    "personnel_expense_percentage_rcl": 45.9
+  },
+  "per_capita_breakdown": {
+    "health": 1163.9,
+    "education": 1560.5,
+    "urbanism": 794.7,
+    "administration": 620.0,
+    "legislative": 112.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4654.5,
+      "health_per_capita": 907.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4999.3,
+      "health_per_capita": 977.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5344.1,
+      "health_per_capita": 1047.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5631.4,
+      "health_per_capita": 1117.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5746.3,
+      "health_per_capita": 1163.9
+    }
+  ]
+}

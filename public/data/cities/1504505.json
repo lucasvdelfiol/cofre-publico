@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1504505",
+  "city_name": "Melgaço",
+  "uf": "PA",
+  "population": 27881,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 120314248.42,
+    "total_expense": 118926823.33,
+    "own_revenue_percentage": 24.7,
+    "transfers_revenue_percentage": 75.3,
+    "personnel_expense_percentage_rcl": 49.8
+  },
+  "per_capita_breakdown": {
+    "health": 1013.0,
+    "education": 1101.4,
+    "urbanism": 667.4,
+    "administration": 466.0,
+    "legislative": 75.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3455.1,
+      "health_per_capita": 790.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3711.0,
+      "health_per_capita": 850.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3966.9,
+      "health_per_capita": 911.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4180.2,
+      "health_per_capita": 972.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4265.5,
+      "health_per_capita": 1013.0
+    }
+  ]
+}

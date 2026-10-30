@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1704105",
+  "city_name": "Centenário",
+  "uf": "TO",
+  "population": 2131,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 11491175.52,
+    "total_expense": 11119415.71,
+    "own_revenue_percentage": 13.6,
+    "transfers_revenue_percentage": 86.4,
+    "personnel_expense_percentage_rcl": 48.3
+  },
+  "per_capita_breakdown": {
+    "health": 1441.9,
+    "education": 1370.0,
+    "urbanism": 653.2,
+    "administration": 557.2,
+    "legislative": 168.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4226.5,
+      "health_per_capita": 1124.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4539.6,
+      "health_per_capita": 1211.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4852.6,
+      "health_per_capita": 1297.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5113.5,
+      "health_per_capita": 1384.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5217.9,
+      "health_per_capita": 1441.9
+    }
+  ]
+}

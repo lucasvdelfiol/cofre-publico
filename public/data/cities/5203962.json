@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5203962",
+  "city_name": "Buritinópolis",
+  "uf": "GO",
+  "population": 3145,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 16827796.5,
+    "total_expense": 16521964.36,
+    "own_revenue_percentage": 9.2,
+    "transfers_revenue_percentage": 90.8,
+    "personnel_expense_percentage_rcl": 51.4
+  },
+  "per_capita_breakdown": {
+    "health": 1207.4,
+    "education": 1297.4,
+    "urbanism": 569.4,
+    "administration": 506.4,
+    "legislative": 154.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4255.3,
+      "health_per_capita": 941.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4570.5,
+      "health_per_capita": 1014.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4885.7,
+      "health_per_capita": 1086.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5148.3,
+      "health_per_capita": 1159.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5253.4,
+      "health_per_capita": 1207.4
+    }
+  ]
+}

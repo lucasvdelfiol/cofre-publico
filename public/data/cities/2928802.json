@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2928802",
+  "city_name": "Santo Estêvão",
+  "uf": "BA",
+  "population": 52276,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 248752551.9,
+    "total_expense": 249332828.13,
+    "own_revenue_percentage": 38.5,
+    "transfers_revenue_percentage": 61.5,
+    "personnel_expense_percentage_rcl": 49.2
+  },
+  "per_capita_breakdown": {
+    "health": 995.1,
+    "education": 1216.2,
+    "urbanism": 528.2,
+    "administration": 411.5,
+    "legislative": 157.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3863.3,
+      "health_per_capita": 776.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4149.5,
+      "health_per_capita": 835.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4435.6,
+      "health_per_capita": 895.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4674.1,
+      "health_per_capita": 955.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4769.5,
+      "health_per_capita": 995.1
+    }
+  ]
+}

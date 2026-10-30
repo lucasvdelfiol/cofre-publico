@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4318440",
+  "city_name": "São Jorge",
+  "uf": "RS",
+  "population": 2912,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 16349320.9,
+    "total_expense": 16015169.66,
+    "own_revenue_percentage": 19.7,
+    "transfers_revenue_percentage": 80.3,
+    "personnel_expense_percentage_rcl": 53.2
+  },
+  "per_capita_breakdown": {
+    "health": 1264.9,
+    "education": 1597.0,
+    "urbanism": 629.2,
+    "administration": 593.8,
+    "legislative": 107.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4454.8,
+      "health_per_capita": 986.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4784.7,
+      "health_per_capita": 1062.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5114.7,
+      "health_per_capita": 1138.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5389.7,
+      "health_per_capita": 1214.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5499.7,
+      "health_per_capita": 1264.9
+    }
+  ]
+}

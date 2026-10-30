@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2900900",
+  "city_name": "Almadina",
+  "uf": "BA",
+  "population": 5218,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 26383737.67,
+    "total_expense": 26521795.75,
+    "own_revenue_percentage": 8.7,
+    "transfers_revenue_percentage": 91.3,
+    "personnel_expense_percentage_rcl": 53.6
+  },
+  "per_capita_breakdown": {
+    "health": 1203.6,
+    "education": 1534.3,
+    "urbanism": 701.6,
+    "administration": 606.1,
+    "legislative": 150.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4117.1,
+      "health_per_capita": 938.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4422.0,
+      "health_per_capita": 1011.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4727.0,
+      "health_per_capita": 1083.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4981.1,
+      "health_per_capita": 1155.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5082.8,
+      "health_per_capita": 1203.6
+    }
+  ]
+}

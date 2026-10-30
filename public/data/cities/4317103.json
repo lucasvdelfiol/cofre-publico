@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4317103",
+  "city_name": "Sant'Ana do Livramento",
+  "uf": "RS",
+  "population": 84421,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 420348123.88,
+    "total_expense": 407781944.04,
+    "own_revenue_percentage": 38.7,
+    "transfers_revenue_percentage": 61.3,
+    "personnel_expense_percentage_rcl": 52.3
+  },
+  "per_capita_breakdown": {
+    "health": 979.4,
+    "education": 1458.4,
+    "urbanism": 677.2,
+    "administration": 340.4,
+    "legislative": 108.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3912.5,
+      "health_per_capita": 763.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4202.4,
+      "health_per_capita": 822.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4492.2,
+      "health_per_capita": 881.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4733.7,
+      "health_per_capita": 940.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4830.3,
+      "health_per_capita": 979.4
+    }
+  ]
+}

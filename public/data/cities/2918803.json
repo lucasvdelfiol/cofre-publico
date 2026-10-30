@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2918803",
+  "city_name": "Laje",
+  "uf": "BA",
+  "population": 21052,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 95044554.1,
+    "total_expense": 92243836.62,
+    "own_revenue_percentage": 22.5,
+    "transfers_revenue_percentage": 77.5,
+    "personnel_expense_percentage_rcl": 53.0
+  },
+  "per_capita_breakdown": {
+    "health": 1048.6,
+    "education": 1134.1,
+    "urbanism": 501.0,
+    "administration": 285.7,
+    "legislative": 147.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3549.2,
+      "health_per_capita": 817.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3812.1,
+      "health_per_capita": 880.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4075.0,
+      "health_per_capita": 943.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4294.1,
+      "health_per_capita": 1006.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4381.7,
+      "health_per_capita": 1048.6
+    }
+  ]
+}

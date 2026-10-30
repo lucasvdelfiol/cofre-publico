@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2926806",
+  "city_name": "Rio do Antônio",
+  "uf": "BA",
+  "population": 13146,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 67920923.85,
+    "total_expense": 65481963.32,
+    "own_revenue_percentage": 8.9,
+    "transfers_revenue_percentage": 91.1,
+    "personnel_expense_percentage_rcl": 52.3
+  },
+  "per_capita_breakdown": {
+    "health": 1247.0,
+    "education": 1444.0,
+    "urbanism": 678.7,
+    "administration": 314.3,
+    "legislative": 87.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4034.7,
+      "health_per_capita": 972.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4333.6,
+      "health_per_capita": 1047.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4632.4,
+      "health_per_capita": 1122.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4881.5,
+      "health_per_capita": 1197.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4981.1,
+      "health_per_capita": 1247.0
+    }
+  ]
+}

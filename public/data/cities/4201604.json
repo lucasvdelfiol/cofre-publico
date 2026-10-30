@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4201604",
+  "city_name": "Arroio Trinta",
+  "uf": "SC",
+  "population": 3556,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 19126371.46,
+    "total_expense": 18941057.29,
+    "own_revenue_percentage": 15.8,
+    "transfers_revenue_percentage": 84.2,
+    "personnel_expense_percentage_rcl": 47.5
+  },
+  "per_capita_breakdown": {
+    "health": 1092.6,
+    "education": 1638.1,
+    "urbanism": 559.6,
+    "administration": 501.4,
+    "legislative": 114.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4314.5,
+      "health_per_capita": 852.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4634.1,
+      "health_per_capita": 917.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4953.6,
+      "health_per_capita": 983.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5220.0,
+      "health_per_capita": 1048.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5326.5,
+      "health_per_capita": 1092.6
+    }
+  ]
+}

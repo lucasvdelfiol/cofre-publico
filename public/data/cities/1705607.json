@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1705607",
+  "city_name": "Conceição do Tocantins",
+  "uf": "TO",
+  "population": 3887,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 20813423.11,
+    "total_expense": 20901572.34,
+    "own_revenue_percentage": 18.8,
+    "transfers_revenue_percentage": 81.2,
+    "personnel_expense_percentage_rcl": 47.5
+  },
+  "per_capita_breakdown": {
+    "health": 1467.8,
+    "education": 1603.1,
+    "urbanism": 770.3,
+    "administration": 373.8,
+    "legislative": 141.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4355.6,
+      "health_per_capita": 1144.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4678.3,
+      "health_per_capita": 1233.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5000.9,
+      "health_per_capita": 1321.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5269.8,
+      "health_per_capita": 1409.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5377.3,
+      "health_per_capita": 1467.8
+    }
+  ]
+}

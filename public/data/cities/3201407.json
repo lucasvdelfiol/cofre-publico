@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3201407",
+  "city_name": "Castelo",
+  "uf": "ES",
+  "population": 36930,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 155817837.78,
+    "total_expense": 153442846.8,
+    "own_revenue_percentage": 21.4,
+    "transfers_revenue_percentage": 78.6,
+    "personnel_expense_percentage_rcl": 49.8
+  },
+  "per_capita_breakdown": {
+    "health": 1005.4,
+    "education": 1088.2,
+    "urbanism": 332.9,
+    "administration": 323.0,
+    "legislative": 135.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3365.6,
+      "health_per_capita": 784.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3614.8,
+      "health_per_capita": 844.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3864.2,
+      "health_per_capita": 904.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4071.9,
+      "health_per_capita": 965.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4155.0,
+      "health_per_capita": 1005.4
+    }
+  ]
+}

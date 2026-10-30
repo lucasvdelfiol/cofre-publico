@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2605004",
+  "city_name": "Cupira",
+  "uf": "PE",
+  "population": 23518,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 113702503.03,
+    "total_expense": 109952537.38,
+    "own_revenue_percentage": 20.6,
+    "transfers_revenue_percentage": 79.4,
+    "personnel_expense_percentage_rcl": 49.5
+  },
+  "per_capita_breakdown": {
+    "health": 979.4,
+    "education": 1482.2,
+    "urbanism": 422.5,
+    "administration": 294.0,
+    "legislative": 104.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3787.0,
+      "health_per_capita": 763.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4067.5,
+      "health_per_capita": 822.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4348.0,
+      "health_per_capita": 881.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4581.8,
+      "health_per_capita": 940.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4675.3,
+      "health_per_capita": 979.4
+    }
+  ]
+}

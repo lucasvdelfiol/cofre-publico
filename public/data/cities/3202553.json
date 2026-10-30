@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3202553",
+  "city_name": "Ibitirama",
+  "uf": "ES",
+  "population": 9520,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 45704089.71,
+    "total_expense": 44924497.78,
+    "own_revenue_percentage": 8.5,
+    "transfers_revenue_percentage": 91.5,
+    "personnel_expense_percentage_rcl": 50.0
+  },
+  "per_capita_breakdown": {
+    "health": 1186.7,
+    "education": 1218.1,
+    "urbanism": 537.3,
+    "administration": 508.5,
+    "legislative": 142.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3822.4,
+      "health_per_capita": 925.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4105.5,
+      "health_per_capita": 996.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4388.7,
+      "health_per_capita": 1068.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4624.6,
+      "health_per_capita": 1139.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4719.0,
+      "health_per_capita": 1186.7
+    }
+  ]
+}

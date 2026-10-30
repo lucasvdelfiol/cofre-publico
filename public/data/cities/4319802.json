@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4319802",
+  "city_name": "São Vicente do Sul",
+  "uf": "RS",
+  "population": 8097,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 43026765.13,
+    "total_expense": 42161380.36,
+    "own_revenue_percentage": 21.0,
+    "transfers_revenue_percentage": 79.0,
+    "personnel_expense_percentage_rcl": 49.8
+  },
+  "per_capita_breakdown": {
+    "health": 1137.1,
+    "education": 1334.4,
+    "urbanism": 732.7,
+    "administration": 472.0,
+    "legislative": 179.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4217.7,
+      "health_per_capita": 886.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4530.1,
+      "health_per_capita": 955.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4842.5,
+      "health_per_capita": 1023.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5102.9,
+      "health_per_capita": 1091.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5207.0,
+      "health_per_capita": 1137.1
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2401453",
+  "city_name": "Baraúna",
+  "uf": "RN",
+  "population": 26913,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 121564715.8,
+    "total_expense": 119831195.05,
+    "own_revenue_percentage": 19.5,
+    "transfers_revenue_percentage": 80.5,
+    "personnel_expense_percentage_rcl": 48.7
+  },
+  "per_capita_breakdown": {
+    "health": 1083.6,
+    "education": 1247.3,
+    "urbanism": 630.4,
+    "administration": 410.8,
+    "legislative": 123.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3606.5,
+      "health_per_capita": 845.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3873.7,
+      "health_per_capita": 910.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4140.8,
+      "health_per_capita": 975.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4363.4,
+      "health_per_capita": 1040.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4452.5,
+      "health_per_capita": 1083.6
+    }
+  ]
+}

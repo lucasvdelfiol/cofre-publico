@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4302105",
+  "city_name": "Bento Gonçalves",
+  "uf": "RS",
+  "population": 123151,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 658408570.42,
+    "total_expense": 636603266.56,
+    "own_revenue_percentage": 51.4,
+    "transfers_revenue_percentage": 48.6,
+    "personnel_expense_percentage_rcl": 51.0
+  },
+  "per_capita_breakdown": {
+    "health": 1339.0,
+    "education": 1338.5,
+    "urbanism": 473.6,
+    "administration": 582.3,
+    "legislative": 170.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4187.1,
+      "health_per_capita": 1044.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4497.3,
+      "health_per_capita": 1124.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4807.4,
+      "health_per_capita": 1205.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5065.9,
+      "health_per_capita": 1285.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5169.3,
+      "health_per_capita": 1339.0
+    }
+  ]
+}

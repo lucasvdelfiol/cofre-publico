@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2105609",
+  "city_name": "Joselândia",
+  "uf": "MA",
+  "population": 14924,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 76929979.97,
+    "total_expense": 76011817.14,
+    "own_revenue_percentage": 11.9,
+    "transfers_revenue_percentage": 88.1,
+    "personnel_expense_percentage_rcl": 51.1
+  },
+  "per_capita_breakdown": {
+    "health": 1115.2,
+    "education": 1454.4,
+    "urbanism": 734.6,
+    "administration": 406.5,
+    "legislative": 78.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4125.6,
+      "health_per_capita": 869.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4431.2,
+      "health_per_capita": 936.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4736.8,
+      "health_per_capita": 1003.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4991.4,
+      "health_per_capita": 1070.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5093.3,
+      "health_per_capita": 1115.2
+    }
+  ]
+}

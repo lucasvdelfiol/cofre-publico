@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2800670",
+  "city_name": "Boquim",
+  "uf": "SE",
+  "population": 24636,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 123819897.29,
+    "total_expense": 120212914.97,
+    "own_revenue_percentage": 24.7,
+    "transfers_revenue_percentage": 75.3,
+    "personnel_expense_percentage_rcl": 52.7
+  },
+  "per_capita_breakdown": {
+    "health": 1320.2,
+    "education": 1275.2,
+    "urbanism": 469.1,
+    "administration": 325.4,
+    "legislative": 166.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3952.5,
+      "health_per_capita": 1029.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4245.3,
+      "health_per_capita": 1109.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4538.0,
+      "health_per_capita": 1188.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4782.0,
+      "health_per_capita": 1267.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4879.6,
+      "health_per_capita": 1320.2
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3108404",
+  "city_name": "Botelhos",
+  "uf": "MG",
+  "population": 14828,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 81014157.76,
+    "total_expense": 79971090.08,
+    "own_revenue_percentage": 21.8,
+    "transfers_revenue_percentage": 78.2,
+    "personnel_expense_percentage_rcl": 53.5
+  },
+  "per_capita_breakdown": {
+    "health": 1185.5,
+    "education": 1469.0,
+    "urbanism": 840.0,
+    "administration": 618.0,
+    "legislative": 124.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4368.5,
+      "health_per_capita": 924.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4692.1,
+      "health_per_capita": 995.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5015.7,
+      "health_per_capita": 1067.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5285.3,
+      "health_per_capita": 1138.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5393.2,
+      "health_per_capita": 1185.5
+    }
+  ]
+}

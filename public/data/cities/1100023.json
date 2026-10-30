@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1100023",
+  "city_name": "Ariquemes",
+  "uf": "RO",
+  "population": 96833,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 506247277.78,
+    "total_expense": 501256403.15,
+    "own_revenue_percentage": 32.1,
+    "transfers_revenue_percentage": 67.9,
+    "personnel_expense_percentage_rcl": 45.1
+  },
+  "per_capita_breakdown": {
+    "health": 1104.7,
+    "education": 1440.0,
+    "urbanism": 427.9,
+    "administration": 428.4,
+    "legislative": 166.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4193.0,
+      "health_per_capita": 861.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4503.6,
+      "health_per_capita": 927.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4814.1,
+      "health_per_capita": 994.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5073.0,
+      "health_per_capita": 1060.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5176.5,
+      "health_per_capita": 1104.7
+    }
+  ]
+}

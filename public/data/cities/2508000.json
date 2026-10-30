@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2508000",
+  "city_name": "Juru",
+  "uf": "PB",
+  "population": 9234,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 41927953.13,
+    "total_expense": 40797137.75,
+    "own_revenue_percentage": 10.7,
+    "transfers_revenue_percentage": 89.3,
+    "personnel_expense_percentage_rcl": 52.1
+  },
+  "per_capita_breakdown": {
+    "health": 1049.7,
+    "education": 1217.2,
+    "urbanism": 492.3,
+    "administration": 382.2,
+    "legislative": 108.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3578.7,
+      "health_per_capita": 818.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3843.7,
+      "health_per_capita": 881.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4108.8,
+      "health_per_capita": 944.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4329.7,
+      "health_per_capita": 1007.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4418.1,
+      "health_per_capita": 1049.7
+    }
+  ]
+}

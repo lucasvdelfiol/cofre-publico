@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3123304",
+  "city_name": "Dores do Turvo",
+  "uf": "MG",
+  "population": 4987,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 26841581.66,
+    "total_expense": 26209179.57,
+    "own_revenue_percentage": 8.5,
+    "transfers_revenue_percentage": 91.5,
+    "personnel_expense_percentage_rcl": 53.1
+  },
+  "per_capita_breakdown": {
+    "health": 1074.6,
+    "education": 1640.1,
+    "urbanism": 519.2,
+    "administration": 544.0,
+    "legislative": 88.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4257.0,
+      "health_per_capita": 838.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4572.3,
+      "health_per_capita": 902.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4887.6,
+      "health_per_capita": 967.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5150.4,
+      "health_per_capita": 1031.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5255.5,
+      "health_per_capita": 1074.6
+    }
+  ]
+}

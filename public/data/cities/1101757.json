@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1101757",
+  "city_name": "Vale do Anari",
+  "uf": "RO",
+  "population": 7788,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 34420149.8,
+    "total_expense": 34528484.9,
+    "own_revenue_percentage": 16.0,
+    "transfers_revenue_percentage": 84.0,
+    "personnel_expense_percentage_rcl": 48.1
+  },
+  "per_capita_breakdown": {
+    "health": 925.8,
+    "education": 1323.1,
+    "urbanism": 680.3,
+    "administration": 331.9,
+    "legislative": 139.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3591.1,
+      "health_per_capita": 722.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3857.1,
+      "health_per_capita": 777.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4123.2,
+      "health_per_capita": 833.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4344.8,
+      "health_per_capita": 888.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4433.5,
+      "health_per_capita": 925.8
+    }
+  ]
+}

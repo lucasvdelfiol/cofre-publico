@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4311759",
+  "city_name": "Manoel Viana",
+  "uf": "RS",
+  "population": 6801,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 38240956.3,
+    "total_expense": 37462433.94,
+    "own_revenue_percentage": 11.4,
+    "transfers_revenue_percentage": 88.6,
+    "personnel_expense_percentage_rcl": 52.6
+  },
+  "per_capita_breakdown": {
+    "health": 1181.1,
+    "education": 1622.1,
+    "urbanism": 558.4,
+    "administration": 561.3,
+    "legislative": 124.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4461.8,
+      "health_per_capita": 921.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4792.3,
+      "health_per_capita": 992.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5122.8,
+      "health_per_capita": 1063.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5398.2,
+      "health_per_capita": 1133.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5508.4,
+      "health_per_capita": 1181.1
+    }
+  ]
+}

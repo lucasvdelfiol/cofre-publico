@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5204409",
+  "city_name": "Caiapônia",
+  "uf": "GO",
+  "population": 16513,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 86315291.06,
+    "total_expense": 83591050.18,
+    "own_revenue_percentage": 21.1,
+    "transfers_revenue_percentage": 78.9,
+    "personnel_expense_percentage_rcl": 49.1
+  },
+  "per_capita_breakdown": {
+    "health": 1374.4,
+    "education": 1527.3,
+    "urbanism": 787.0,
+    "administration": 361.2,
+    "legislative": 86.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4100.3,
+      "health_per_capita": 1072.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4404.0,
+      "health_per_capita": 1154.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4707.8,
+      "health_per_capita": 1237.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4960.9,
+      "health_per_capita": 1319.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5062.1,
+      "health_per_capita": 1374.4
+    }
+  ]
+}

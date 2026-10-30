@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3128709",
+  "city_name": "Guaxupé",
+  "uf": "MG",
+  "population": 50911,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 236092403.56,
+    "total_expense": 229124957.49,
+    "own_revenue_percentage": 36.3,
+    "transfers_revenue_percentage": 63.7,
+    "personnel_expense_percentage_rcl": 45.1
+  },
+  "per_capita_breakdown": {
+    "health": 1005.9,
+    "education": 1230.4,
+    "urbanism": 445.7,
+    "administration": 452.4,
+    "legislative": 93.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3645.4,
+      "health_per_capita": 784.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3915.4,
+      "health_per_capita": 845.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4185.5,
+      "health_per_capita": 905.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4410.5,
+      "health_per_capita": 965.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4500.5,
+      "health_per_capita": 1005.9
+    }
+  ]
+}

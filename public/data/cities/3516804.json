@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3516804",
+  "city_name": "Gastão Vidigal",
+  "uf": "SP",
+  "population": 3252,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 14916313.83,
+    "total_expense": 14898758.16,
+    "own_revenue_percentage": 9.2,
+    "transfers_revenue_percentage": 90.8,
+    "personnel_expense_percentage_rcl": 47.9
+  },
+  "per_capita_breakdown": {
+    "health": 992.4,
+    "education": 1141.4,
+    "urbanism": 553.9,
+    "administration": 381.2,
+    "legislative": 81.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3710.9,
+      "health_per_capita": 774.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3985.8,
+      "health_per_capita": 833.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4260.7,
+      "health_per_capita": 893.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4489.8,
+      "health_per_capita": 952.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4581.4,
+      "health_per_capita": 992.4
+    }
+  ]
+}

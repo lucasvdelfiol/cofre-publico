@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2925808",
+  "city_name": "Queimadas",
+  "uf": "BA",
+  "population": 25988,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 108140490.54,
+    "total_expense": 106941546.65,
+    "own_revenue_percentage": 30.8,
+    "transfers_revenue_percentage": 69.2,
+    "personnel_expense_percentage_rcl": 48.2
+  },
+  "per_capita_breakdown": {
+    "health": 956.5,
+    "education": 1108.3,
+    "urbanism": 583.0,
+    "administration": 464.3,
+    "legislative": 76.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3333.2,
+      "health_per_capita": 746.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3580.1,
+      "health_per_capita": 803.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3827.0,
+      "health_per_capita": 860.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4032.7,
+      "health_per_capita": 918.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4115.0,
+      "health_per_capita": 956.5
+    }
+  ]
+}

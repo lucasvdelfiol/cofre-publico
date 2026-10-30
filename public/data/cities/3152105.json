@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3152105",
+  "city_name": "Ponte Nova",
+  "uf": "MG",
+  "population": 57776,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 292814596.97,
+    "total_expense": 283109470.72,
+    "own_revenue_percentage": 35.5,
+    "transfers_revenue_percentage": 64.5,
+    "personnel_expense_percentage_rcl": 50.3
+  },
+  "per_capita_breakdown": {
+    "health": 1090.5,
+    "education": 1494.1,
+    "urbanism": 496.0,
+    "administration": 315.8,
+    "legislative": 97.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3969.1,
+      "health_per_capita": 850.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4263.1,
+      "health_per_capita": 916.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4557.1,
+      "health_per_capita": 981.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4802.1,
+      "health_per_capita": 1046.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4900.1,
+      "health_per_capita": 1090.5
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4300661",
+  "city_name": "André da Rocha",
+  "uf": "RS",
+  "population": 1500,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 7744710.5,
+    "total_expense": 7474822.37,
+    "own_revenue_percentage": 20.9,
+    "transfers_revenue_percentage": 79.1,
+    "personnel_expense_percentage_rcl": 49.1
+  },
+  "per_capita_breakdown": {
+    "health": 1194.5,
+    "education": 1523.8,
+    "urbanism": 579.8,
+    "administration": 508.1,
+    "legislative": 169.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4036.4,
+      "health_per_capita": 931.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4335.4,
+      "health_per_capita": 1003.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4634.4,
+      "health_per_capita": 1075.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4883.5,
+      "health_per_capita": 1146.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4983.2,
+      "health_per_capita": 1194.5
+    }
+  ]
+}

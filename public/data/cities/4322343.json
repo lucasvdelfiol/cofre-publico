@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4322343",
+  "city_name": "Ubiretama",
+  "uf": "RS",
+  "population": 1994,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 9740539.99,
+    "total_expense": 9773259.18,
+    "own_revenue_percentage": 11.7,
+    "transfers_revenue_percentage": 88.3,
+    "personnel_expense_percentage_rcl": 51.7
+  },
+  "per_capita_breakdown": {
+    "health": 1195.3,
+    "education": 1432.9,
+    "urbanism": 481.2,
+    "administration": 419.1,
+    "legislative": 150.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3970.1,
+      "health_per_capita": 932.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4264.1,
+      "health_per_capita": 1004.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4558.2,
+      "health_per_capita": 1075.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4803.3,
+      "health_per_capita": 1147.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4901.3,
+      "health_per_capita": 1195.3
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4302352",
+  "city_name": "Bom Princípio",
+  "uf": "RS",
+  "population": 13142,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 66684670.29,
+    "total_expense": 66792521.01,
+    "own_revenue_percentage": 9.9,
+    "transfers_revenue_percentage": 90.1,
+    "personnel_expense_percentage_rcl": 45.9
+  },
+  "per_capita_breakdown": {
+    "health": 1373.4,
+    "education": 1292.5,
+    "urbanism": 460.7,
+    "administration": 317.3,
+    "legislative": 143.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4116.7,
+      "health_per_capita": 1071.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4421.7,
+      "health_per_capita": 1153.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4726.6,
+      "health_per_capita": 1236.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4980.8,
+      "health_per_capita": 1318.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5082.4,
+      "health_per_capita": 1373.4
+    }
+  ]
+}

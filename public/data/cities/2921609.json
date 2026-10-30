@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2921609",
+  "city_name": "Morpará",
+  "uf": "BA",
+  "population": 7996,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 43334335.59,
+    "total_expense": 43099954.86,
+    "own_revenue_percentage": 18.1,
+    "transfers_revenue_percentage": 81.9,
+    "personnel_expense_percentage_rcl": 52.2
+  },
+  "per_capita_breakdown": {
+    "health": 1346.8,
+    "education": 1411.2,
+    "urbanism": 641.8,
+    "administration": 449.1,
+    "legislative": 168.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4366.1,
+      "health_per_capita": 1050.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4689.5,
+      "health_per_capita": 1131.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5012.9,
+      "health_per_capita": 1212.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5282.4,
+      "health_per_capita": 1292.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5390.2,
+      "health_per_capita": 1346.8
+    }
+  ]
+}

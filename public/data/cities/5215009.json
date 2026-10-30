@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5215009",
+  "city_name": "Nova Veneza",
+  "uf": "GO",
+  "population": 9481,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 49543035.83,
+    "total_expense": 49725268.75,
+    "own_revenue_percentage": 14.7,
+    "transfers_revenue_percentage": 85.3,
+    "personnel_expense_percentage_rcl": 47.8
+  },
+  "per_capita_breakdown": {
+    "health": 1430.1,
+    "education": 1385.1,
+    "urbanism": 833.1,
+    "administration": 554.3,
+    "legislative": 172.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4248.2,
+      "health_per_capita": 1115.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4562.9,
+      "health_per_capita": 1201.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4877.6,
+      "health_per_capita": 1287.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5139.8,
+      "health_per_capita": 1372.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5244.7,
+      "health_per_capita": 1430.1
+    }
+  ]
+}

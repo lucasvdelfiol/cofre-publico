@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1709302",
+  "city_name": "Guaraí",
+  "uf": "TO",
+  "population": 24775,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 104601641.52,
+    "total_expense": 104817127.27,
+    "own_revenue_percentage": 20.0,
+    "transfers_revenue_percentage": 80.0,
+    "personnel_expense_percentage_rcl": 51.3
+  },
+  "per_capita_breakdown": {
+    "health": 989.2,
+    "education": 1048.8,
+    "urbanism": 435.4,
+    "administration": 303.9,
+    "legislative": 67.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3426.9,
+      "health_per_capita": 771.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3680.8,
+      "health_per_capita": 830.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3934.6,
+      "health_per_capita": 890.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4146.2,
+      "health_per_capita": 949.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4230.8,
+      "health_per_capita": 989.2
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3521804",
+  "city_name": "Itaí",
+  "uf": "SP",
+  "population": 25180,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 110897890.22,
+    "total_expense": 109712071.58,
+    "own_revenue_percentage": 18.8,
+    "transfers_revenue_percentage": 81.2,
+    "personnel_expense_percentage_rcl": 51.6
+  },
+  "per_capita_breakdown": {
+    "health": 902.6,
+    "education": 1066.4,
+    "urbanism": 583.3,
+    "administration": 451.9,
+    "legislative": 104.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3529.3,
+      "health_per_capita": 704.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3790.7,
+      "health_per_capita": 758.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4052.1,
+      "health_per_capita": 812.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4270.0,
+      "health_per_capita": 866.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4357.1,
+      "health_per_capita": 902.6
+    }
+  ]
+}

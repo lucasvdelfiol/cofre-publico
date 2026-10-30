@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2606606",
+  "city_name": "Ibimirim",
+  "uf": "PE",
+  "population": 26593,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 124231323.58,
+    "total_expense": 121592998.76,
+    "own_revenue_percentage": 31.1,
+    "transfers_revenue_percentage": 68.9,
+    "personnel_expense_percentage_rcl": 51.7
+  },
+  "per_capita_breakdown": {
+    "health": 1118.7,
+    "education": 1212.6,
+    "urbanism": 536.7,
+    "administration": 308.4,
+    "legislative": 99.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3703.6,
+      "health_per_capita": 872.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3978.0,
+      "health_per_capita": 939.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4252.3,
+      "health_per_capita": 1006.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4481.0,
+      "health_per_capita": 1074.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4572.4,
+      "health_per_capita": 1118.7
+    }
+  ]
+}

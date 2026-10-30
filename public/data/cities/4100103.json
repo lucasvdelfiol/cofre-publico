@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4100103",
+  "city_name": "Abatiá",
+  "uf": "PR",
+  "population": 7241,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 31930424.67,
+    "total_expense": 31479918.89,
+    "own_revenue_percentage": 15.2,
+    "transfers_revenue_percentage": 84.8,
+    "personnel_expense_percentage_rcl": 53.3
+  },
+  "per_capita_breakdown": {
+    "health": 879.0,
+    "education": 1062.1,
+    "urbanism": 474.8,
+    "administration": 284.4,
+    "legislative": 131.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3521.5,
+      "health_per_capita": 685.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3782.3,
+      "health_per_capita": 738.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4043.2,
+      "health_per_capita": 791.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4260.6,
+      "health_per_capita": 843.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4347.5,
+      "health_per_capita": 879.0
+    }
+  ]
+}

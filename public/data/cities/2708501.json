@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2708501",
+  "city_name": "São Luís do Quitunde",
+  "uf": "AL",
+  "population": 30873,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 146993440.76,
+    "total_expense": 144770072.2,
+    "own_revenue_percentage": 19.9,
+    "transfers_revenue_percentage": 80.1,
+    "personnel_expense_percentage_rcl": 47.8
+  },
+  "per_capita_breakdown": {
+    "health": 975.7,
+    "education": 1439.8,
+    "urbanism": 633.4,
+    "administration": 283.4,
+    "legislative": 146.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3798.3,
+      "health_per_capita": 761.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4079.6,
+      "health_per_capita": 819.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4361.0,
+      "health_per_capita": 878.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4595.4,
+      "health_per_capita": 936.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4689.2,
+      "health_per_capita": 975.7
+    }
+  ]
+}

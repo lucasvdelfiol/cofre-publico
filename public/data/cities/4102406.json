@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4102406",
+  "city_name": "Bandeirantes",
+  "uf": "PR",
+  "population": 31273,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 144326653.53,
+    "total_expense": 139122377.1,
+    "own_revenue_percentage": 29.0,
+    "transfers_revenue_percentage": 71.0,
+    "personnel_expense_percentage_rcl": 48.2
+  },
+  "per_capita_breakdown": {
+    "health": 1191.4,
+    "education": 1411.0,
+    "urbanism": 474.0,
+    "administration": 300.5,
+    "legislative": 72.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3603.4,
+      "health_per_capita": 929.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3870.3,
+      "health_per_capita": 1000.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4137.2,
+      "health_per_capita": 1072.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4359.6,
+      "health_per_capita": 1143.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4448.6,
+      "health_per_capita": 1191.4
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3515194",
+  "city_name": "Espírito Santo do Turvo",
+  "uf": "SP",
+  "population": 4157,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 23017774.12,
+    "total_expense": 22452996.95,
+    "own_revenue_percentage": 11.0,
+    "transfers_revenue_percentage": 89.0,
+    "personnel_expense_percentage_rcl": 45.8
+  },
+  "per_capita_breakdown": {
+    "health": 1454.0,
+    "education": 1600.3,
+    "urbanism": 785.5,
+    "administration": 519.9,
+    "legislative": 185.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4375.1,
+      "health_per_capita": 1134.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4699.1,
+      "health_per_capita": 1221.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5023.2,
+      "health_per_capita": 1308.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5293.3,
+      "health_per_capita": 1395.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5401.3,
+      "health_per_capita": 1454.0
+    }
+  ]
+}

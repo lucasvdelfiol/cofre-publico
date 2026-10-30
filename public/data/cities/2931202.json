@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2931202",
+  "city_name": "Taperoá",
+  "uf": "BA",
+  "population": 18044,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 85872170.01,
+    "total_expense": 82784926.35,
+    "own_revenue_percentage": 11.6,
+    "transfers_revenue_percentage": 88.4,
+    "personnel_expense_percentage_rcl": 47.3
+  },
+  "per_capita_breakdown": {
+    "health": 926.8,
+    "education": 1254.5,
+    "urbanism": 582.0,
+    "administration": 278.0,
+    "legislative": 113.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3716.2,
+      "health_per_capita": 722.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3991.5,
+      "health_per_capita": 778.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4266.7,
+      "health_per_capita": 834.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4496.1,
+      "health_per_capita": 889.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4587.9,
+      "health_per_capita": 926.8
+    }
+  ]
+}

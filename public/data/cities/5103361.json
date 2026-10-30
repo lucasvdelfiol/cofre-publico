@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5103361",
+  "city_name": "Conquista D'Oeste",
+  "uf": "MT",
+  "population": 3760,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 21273525.1,
+    "total_expense": 21027289.87,
+    "own_revenue_percentage": 21.1,
+    "transfers_revenue_percentage": 78.9,
+    "personnel_expense_percentage_rcl": 47.6
+  },
+  "per_capita_breakdown": {
+    "health": 1355.0,
+    "education": 1546.2,
+    "urbanism": 628.9,
+    "administration": 517.6,
+    "legislative": 96.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4529.8,
+      "health_per_capita": 1056.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4865.4,
+      "health_per_capita": 1138.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5200.9,
+      "health_per_capita": 1219.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5480.6,
+      "health_per_capita": 1300.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5592.4,
+      "health_per_capita": 1355.0
+    }
+  ]
+}

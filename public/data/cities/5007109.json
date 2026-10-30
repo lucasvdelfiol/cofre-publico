@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5007109",
+  "city_name": "Ribas do Rio Pardo",
+  "uf": "MS",
+  "population": 23150,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 108877667.3,
+    "total_expense": 107007737.88,
+    "own_revenue_percentage": 23.9,
+    "transfers_revenue_percentage": 76.1,
+    "personnel_expense_percentage_rcl": 47.5
+  },
+  "per_capita_breakdown": {
+    "health": 1041.6,
+    "education": 1171.9,
+    "urbanism": 467.7,
+    "administration": 309.8,
+    "legislative": 150.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3744.1,
+      "health_per_capita": 812.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4021.5,
+      "health_per_capita": 874.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4298.8,
+      "health_per_capita": 937.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4530.0,
+      "health_per_capita": 999.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4622.4,
+      "health_per_capita": 1041.6
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4201950",
+  "city_name": "Balneário Arroio do Silva",
+  "uf": "SC",
+  "population": 15820,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 86990414.07,
+    "total_expense": 84599387.48,
+    "own_revenue_percentage": 20.5,
+    "transfers_revenue_percentage": 79.5,
+    "personnel_expense_percentage_rcl": 52.6
+  },
+  "per_capita_breakdown": {
+    "health": 1496.6,
+    "education": 1462.1,
+    "urbanism": 624.2,
+    "administration": 506.7,
+    "legislative": 100.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4331.6,
+      "health_per_capita": 1167.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4652.4,
+      "health_per_capita": 1257.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4973.3,
+      "health_per_capita": 1346.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5240.6,
+      "health_per_capita": 1436.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5347.6,
+      "health_per_capita": 1496.6
+    }
+  ]
+}

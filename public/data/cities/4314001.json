@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4314001",
+  "city_name": "Paraí",
+  "uf": "RS",
+  "population": 7194,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 34123872.38,
+    "total_expense": 33462077.12,
+    "own_revenue_percentage": 8.9,
+    "transfers_revenue_percentage": 91.1,
+    "personnel_expense_percentage_rcl": 49.2
+  },
+  "per_capita_breakdown": {
+    "health": 1253.1,
+    "education": 1402.4,
+    "urbanism": 522.8,
+    "administration": 339.0,
+    "legislative": 88.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3767.6,
+      "health_per_capita": 977.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4046.7,
+      "health_per_capita": 1052.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4325.8,
+      "health_per_capita": 1127.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4558.4,
+      "health_per_capita": 1203.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4651.4,
+      "health_per_capita": 1253.1
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2600609",
+  "city_name": "Alagoinha",
+  "uf": "PE",
+  "population": 13542,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 71816210.69,
+    "total_expense": 69855690.51,
+    "own_revenue_percentage": 10.6,
+    "transfers_revenue_percentage": 89.4,
+    "personnel_expense_percentage_rcl": 46.3
+  },
+  "per_capita_breakdown": {
+    "health": 1169.4,
+    "education": 1334.9,
+    "urbanism": 793.8,
+    "administration": 397.9,
+    "legislative": 163.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4178.3,
+      "health_per_capita": 912.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4487.8,
+      "health_per_capita": 982.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4797.3,
+      "health_per_capita": 1052.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5055.2,
+      "health_per_capita": 1122.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5158.4,
+      "health_per_capita": 1169.4
+    }
+  ]
+}

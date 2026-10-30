@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4320677",
+  "city_name": "Sinimbu",
+  "uf": "RS",
+  "population": 8578,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 46894675.01,
+    "total_expense": 46950320.25,
+    "own_revenue_percentage": 20.7,
+    "transfers_revenue_percentage": 79.3,
+    "personnel_expense_percentage_rcl": 51.6
+  },
+  "per_capita_breakdown": {
+    "health": 1307.8,
+    "education": 1539.9,
+    "urbanism": 562.5,
+    "administration": 505.0,
+    "legislative": 92.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4433.4,
+      "health_per_capita": 1020.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4761.8,
+      "health_per_capita": 1098.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5090.2,
+      "health_per_capita": 1177.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5363.8,
+      "health_per_capita": 1255.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5473.3,
+      "health_per_capita": 1307.8
+    }
+  ]
+}

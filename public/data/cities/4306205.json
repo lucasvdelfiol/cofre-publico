@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4306205",
+  "city_name": "Cruzeiro do Sul",
+  "uf": "RS",
+  "population": 11600,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 62849519.06,
+    "total_expense": 60881925.68,
+    "own_revenue_percentage": 15.3,
+    "transfers_revenue_percentage": 84.7,
+    "personnel_expense_percentage_rcl": 46.8
+  },
+  "per_capita_breakdown": {
+    "health": 1415.4,
+    "education": 1677.1,
+    "urbanism": 661.7,
+    "administration": 592.0,
+    "legislative": 88.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4251.2,
+      "health_per_capita": 1104.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4566.1,
+      "health_per_capita": 1188.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4881.0,
+      "health_per_capita": 1273.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5143.4,
+      "health_per_capita": 1358.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5248.4,
+      "health_per_capita": 1415.4
+    }
+  ]
+}

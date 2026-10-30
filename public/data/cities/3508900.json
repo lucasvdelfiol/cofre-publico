@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3508900",
+  "city_name": "Caiabu",
+  "uf": "SP",
+  "population": 3712,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 20554343.49,
+    "total_expense": 20460208.32,
+    "own_revenue_percentage": 14.0,
+    "transfers_revenue_percentage": 86.0,
+    "personnel_expense_percentage_rcl": 52.2
+  },
+  "per_capita_breakdown": {
+    "health": 1315.8,
+    "education": 1378.2,
+    "urbanism": 709.7,
+    "administration": 613.4,
+    "legislative": 93.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4464.6,
+      "health_per_capita": 1026.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4795.4,
+      "health_per_capita": 1105.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5126.1,
+      "health_per_capita": 1184.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5401.7,
+      "health_per_capita": 1263.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5511.9,
+      "health_per_capita": 1315.8
+    }
+  ]
+}

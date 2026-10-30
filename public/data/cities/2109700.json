@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2109700",
+  "city_name": "Sambaíba",
+  "uf": "MA",
+  "population": 5568,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 24469847.19,
+    "total_expense": 24368202.38,
+    "own_revenue_percentage": 11.3,
+    "transfers_revenue_percentage": 88.7,
+    "personnel_expense_percentage_rcl": 46.5
+  },
+  "per_capita_breakdown": {
+    "health": 1036.3,
+    "education": 1322.9,
+    "urbanism": 564.9,
+    "administration": 307.7,
+    "legislative": 81.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3545.0,
+      "health_per_capita": 808.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3807.6,
+      "health_per_capita": 870.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4070.1,
+      "health_per_capita": 932.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4289.0,
+      "health_per_capita": 994.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4376.5,
+      "health_per_capita": 1036.3
+    }
+  ]
+}

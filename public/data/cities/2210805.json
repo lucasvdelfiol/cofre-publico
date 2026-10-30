@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2210805",
+  "city_name": "Simplício Mendes",
+  "uf": "PI",
+  "population": 13870,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 60149574.07,
+    "total_expense": 60739353.62,
+    "own_revenue_percentage": 12.8,
+    "transfers_revenue_percentage": 87.2,
+    "personnel_expense_percentage_rcl": 46.9
+  },
+  "per_capita_breakdown": {
+    "health": 935.3,
+    "education": 1163.1,
+    "urbanism": 484.9,
+    "administration": 268.5,
+    "legislative": 104.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3547.2,
+      "health_per_capita": 729.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3809.9,
+      "health_per_capita": 785.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4072.7,
+      "health_per_capita": 841.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4291.6,
+      "health_per_capita": 897.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4379.2,
+      "health_per_capita": 935.3
+    }
+  ]
+}

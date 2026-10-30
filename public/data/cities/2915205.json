@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2915205",
+  "city_name": "Itagibá",
+  "uf": "BA",
+  "population": 15310,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 67414028.53,
+    "total_expense": 67304454.78,
+    "own_revenue_percentage": 14.8,
+    "transfers_revenue_percentage": 85.2,
+    "personnel_expense_percentage_rcl": 49.4
+  },
+  "per_capita_breakdown": {
+    "health": 954.5,
+    "education": 1394.6,
+    "urbanism": 635.4,
+    "administration": 296.2,
+    "legislative": 145.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3560.8,
+      "health_per_capita": 744.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3824.6,
+      "health_per_capita": 801.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4088.4,
+      "health_per_capita": 859.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4308.2,
+      "health_per_capita": 916.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4396.1,
+      "health_per_capita": 954.5
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2312601",
+  "city_name": "São Luís do Curu",
+  "uf": "CE",
+  "population": 10822,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 57532737.92,
+    "total_expense": 57151967.78,
+    "own_revenue_percentage": 9.6,
+    "transfers_revenue_percentage": 90.4,
+    "personnel_expense_percentage_rcl": 46.1
+  },
+  "per_capita_breakdown": {
+    "health": 1255.4,
+    "education": 1522.8,
+    "urbanism": 647.3,
+    "administration": 568.5,
+    "legislative": 134.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4277.7,
+      "health_per_capita": 979.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4594.6,
+      "health_per_capita": 1054.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4911.4,
+      "health_per_capita": 1129.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5175.5,
+      "health_per_capita": 1205.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5281.1,
+      "health_per_capita": 1255.4
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3547700",
+  "city_name": "Santo Anastácio",
+  "uf": "SP",
+  "population": 17963,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 92557321.96,
+    "total_expense": 90432945.88,
+    "own_revenue_percentage": 18.0,
+    "transfers_revenue_percentage": 82.0,
+    "personnel_expense_percentage_rcl": 51.5
+  },
+  "per_capita_breakdown": {
+    "health": 1177.5,
+    "education": 1429.9,
+    "urbanism": 781.5,
+    "administration": 413.2,
+    "legislative": 128.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4077.9,
+      "health_per_capita": 918.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4379.9,
+      "health_per_capita": 989.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4682.0,
+      "health_per_capita": 1059.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4933.7,
+      "health_per_capita": 1130.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5034.4,
+      "health_per_capita": 1177.5
+    }
+  ]
+}

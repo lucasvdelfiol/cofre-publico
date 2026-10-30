@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3556909",
+  "city_name": "Vista Alegre do Alto",
+  "uf": "SP",
+  "population": 8109,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 42908469.47,
+    "total_expense": 41542478.77,
+    "own_revenue_percentage": 18.4,
+    "transfers_revenue_percentage": 81.6,
+    "personnel_expense_percentage_rcl": 51.7
+  },
+  "per_capita_breakdown": {
+    "health": 1102.4,
+    "education": 1443.4,
+    "urbanism": 642.7,
+    "administration": 421.5,
+    "legislative": 115.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4149.6,
+      "health_per_capita": 859.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4457.0,
+      "health_per_capita": 926.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4764.4,
+      "health_per_capita": 992.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5020.5,
+      "health_per_capita": 1058.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5123.0,
+      "health_per_capita": 1102.4
+    }
+  ]
+}

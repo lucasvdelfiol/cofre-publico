@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3156502",
+  "city_name": "Rubelita",
+  "uf": "MG",
+  "population": 5679,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 32253055.11,
+    "total_expense": 31300271.86,
+    "own_revenue_percentage": 17.3,
+    "transfers_revenue_percentage": 82.7,
+    "personnel_expense_percentage_rcl": 53.6
+  },
+  "per_capita_breakdown": {
+    "health": 1512.3,
+    "education": 1758.4,
+    "urbanism": 579.5,
+    "administration": 655.8,
+    "legislative": 94.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4464.4,
+      "health_per_capita": 1179.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4795.1,
+      "health_per_capita": 1270.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5125.8,
+      "health_per_capita": 1361.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5401.4,
+      "health_per_capita": 1451.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5511.6,
+      "health_per_capita": 1512.3
+    }
+  ]
+}

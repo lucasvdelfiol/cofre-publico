@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3166600",
+  "city_name": "Serra da Saudade",
+  "uf": "MG",
+  "population": 1500,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 7288315.53,
+    "total_expense": 7206778.56,
+    "own_revenue_percentage": 21.6,
+    "transfers_revenue_percentage": 78.4,
+    "personnel_expense_percentage_rcl": 48.2
+  },
+  "per_capita_breakdown": {
+    "health": 1333.9,
+    "education": 1264.4,
+    "urbanism": 739.0,
+    "administration": 415.3,
+    "legislative": 114.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3891.6,
+      "health_per_capita": 1040.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4179.9,
+      "health_per_capita": 1120.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4468.2,
+      "health_per_capita": 1200.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4708.4,
+      "health_per_capita": 1280.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4804.5,
+      "health_per_capita": 1333.9
+    }
+  ]
+}

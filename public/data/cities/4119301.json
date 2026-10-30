@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4119301",
+  "city_name": "Pinhão",
+  "uf": "PR",
+  "population": 29886,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 134943870.58,
+    "total_expense": 131883733.31,
+    "own_revenue_percentage": 20.4,
+    "transfers_revenue_percentage": 79.6,
+    "personnel_expense_percentage_rcl": 49.2
+  },
+  "per_capita_breakdown": {
+    "health": 1079.2,
+    "education": 1106.1,
+    "urbanism": 703.7,
+    "administration": 496.2,
+    "legislative": 136.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3574.4,
+      "health_per_capita": 841.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3839.2,
+      "health_per_capita": 906.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4104.0,
+      "health_per_capita": 971.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4324.6,
+      "health_per_capita": 1036.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4412.9,
+      "health_per_capita": 1079.2
+    }
+  ]
+}

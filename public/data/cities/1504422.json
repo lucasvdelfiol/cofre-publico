@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1504422",
+  "city_name": "Marituba",
+  "uf": "PA",
+  "population": 111785,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 594325768.49,
+    "total_expense": 582693208.19,
+    "own_revenue_percentage": 39.1,
+    "transfers_revenue_percentage": 60.9,
+    "personnel_expense_percentage_rcl": 52.3
+  },
+  "per_capita_breakdown": {
+    "health": 1084.9,
+    "education": 1453.7,
+    "urbanism": 540.6,
+    "administration": 615.2,
+    "legislative": 127.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4222.2,
+      "health_per_capita": 846.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4535.0,
+      "health_per_capita": 911.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4847.7,
+      "health_per_capita": 976.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5108.3,
+      "health_per_capita": 1041.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5212.6,
+      "health_per_capita": 1084.9
+    }
+  ]
+}

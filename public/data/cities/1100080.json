@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1100080",
+  "city_name": "Costa Marques",
+  "uf": "RO",
+  "population": 12627,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 58103673.3,
+    "total_expense": 56458363.21,
+    "own_revenue_percentage": 16.8,
+    "transfers_revenue_percentage": 83.2,
+    "personnel_expense_percentage_rcl": 50.3
+  },
+  "per_capita_breakdown": {
+    "health": 1019.9,
+    "education": 1241.4,
+    "urbanism": 650.5,
+    "administration": 297.6,
+    "legislative": 131.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3621.7,
+      "health_per_capita": 795.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3889.9,
+      "health_per_capita": 856.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4158.2,
+      "health_per_capita": 917.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4381.8,
+      "health_per_capita": 979.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4471.2,
+      "health_per_capita": 1019.9
+    }
+  ]
+}

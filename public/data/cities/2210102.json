@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2210102",
+  "city_name": "São José do Peixe",
+  "uf": "PI",
+  "population": 3297,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 16446823.21,
+    "total_expense": 16255691.03,
+    "own_revenue_percentage": 15.4,
+    "transfers_revenue_percentage": 84.6,
+    "personnel_expense_percentage_rcl": 52.5
+  },
+  "per_capita_breakdown": {
+    "health": 1235.9,
+    "education": 1316.7,
+    "urbanism": 766.0,
+    "administration": 547.2,
+    "legislative": 166.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3993.6,
+      "health_per_capita": 964.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4289.4,
+      "health_per_capita": 1038.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4585.3,
+      "health_per_capita": 1112.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4831.8,
+      "health_per_capita": 1186.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4930.4,
+      "health_per_capita": 1235.9
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1400233",
+  "city_name": "Caroebe",
+  "uf": "RR",
+  "population": 10656,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 53856895.66,
+    "total_expense": 53260394.9,
+    "own_revenue_percentage": 11.8,
+    "transfers_revenue_percentage": 88.2,
+    "personnel_expense_percentage_rcl": 50.7
+  },
+  "per_capita_breakdown": {
+    "health": 1293.9,
+    "education": 1411.0,
+    "urbanism": 685.7,
+    "administration": 514.4,
+    "legislative": 157.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4048.5,
+      "health_per_capita": 1009.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4348.4,
+      "health_per_capita": 1086.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4648.3,
+      "health_per_capita": 1164.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4898.2,
+      "health_per_capita": 1242.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4998.2,
+      "health_per_capita": 1293.9
+    }
+  ]
+}

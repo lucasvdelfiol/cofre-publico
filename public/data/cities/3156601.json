@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3156601",
+  "city_name": "Rubim",
+  "uf": "MG",
+  "population": 10298,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 52234771.89,
+    "total_expense": 50581030.91,
+    "own_revenue_percentage": 8.3,
+    "transfers_revenue_percentage": 91.7,
+    "personnel_expense_percentage_rcl": 51.4
+  },
+  "per_capita_breakdown": {
+    "health": 1115.1,
+    "education": 1443.7,
+    "urbanism": 468.5,
+    "administration": 529.2,
+    "legislative": 116.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3978.5,
+      "health_per_capita": 869.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4273.2,
+      "health_per_capita": 936.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4567.9,
+      "health_per_capita": 1003.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4813.5,
+      "health_per_capita": 1070.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4911.7,
+      "health_per_capita": 1115.1
+    }
+  ]
+}

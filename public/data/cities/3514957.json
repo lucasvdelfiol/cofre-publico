@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3514957",
+  "city_name": "Embaúba",
+  "uf": "SP",
+  "population": 2323,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 12348587.28,
+    "total_expense": 11992668.59,
+    "own_revenue_percentage": 18.7,
+    "transfers_revenue_percentage": 81.3,
+    "personnel_expense_percentage_rcl": 47.9
+  },
+  "per_capita_breakdown": {
+    "health": 1186.3,
+    "education": 1621.1,
+    "urbanism": 574.2,
+    "administration": 503.7,
+    "legislative": 80.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4181.7,
+      "health_per_capita": 925.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4491.5,
+      "health_per_capita": 996.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4801.2,
+      "health_per_capita": 1067.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5059.3,
+      "health_per_capita": 1138.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5162.6,
+      "health_per_capita": 1186.3
+    }
+  ]
+}

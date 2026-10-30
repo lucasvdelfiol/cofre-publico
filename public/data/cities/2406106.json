@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2406106",
+  "city_name": "Jucurutu",
+  "uf": "RN",
+  "population": 17793,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 76763084.07,
+    "total_expense": 76986137.01,
+    "own_revenue_percentage": 21.3,
+    "transfers_revenue_percentage": 78.7,
+    "personnel_expense_percentage_rcl": 47.2
+  },
+  "per_capita_breakdown": {
+    "health": 1018.5,
+    "education": 1289.9,
+    "urbanism": 539.7,
+    "administration": 320.1,
+    "legislative": 99.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3504.7,
+      "health_per_capita": 794.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3764.3,
+      "health_per_capita": 855.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4023.9,
+      "health_per_capita": 916.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4240.3,
+      "health_per_capita": 977.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4326.8,
+      "health_per_capita": 1018.5
+    }
+  ]
+}

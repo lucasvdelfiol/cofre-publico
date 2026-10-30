@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1501758",
+  "city_name": "Brejo Grande do Araguaia",
+  "uf": "PA",
+  "population": 6783,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 37857973.24,
+    "total_expense": 36999322.07,
+    "own_revenue_percentage": 11.0,
+    "transfers_revenue_percentage": 89.0,
+    "personnel_expense_percentage_rcl": 47.9
+  },
+  "per_capita_breakdown": {
+    "health": 1246.0,
+    "education": 1616.1,
+    "urbanism": 560.9,
+    "administration": 426.1,
+    "legislative": 99.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4418.3,
+      "health_per_capita": 971.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4745.6,
+      "health_per_capita": 1046.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5072.9,
+      "health_per_capita": 1121.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5345.6,
+      "health_per_capita": 1196.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5454.7,
+      "health_per_capita": 1246.0
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4117503",
+  "city_name": "Paiçandu",
+  "uf": "PR",
+  "population": 45962,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 229971634.08,
+    "total_expense": 222373928.15,
+    "own_revenue_percentage": 26.9,
+    "transfers_revenue_percentage": 73.1,
+    "personnel_expense_percentage_rcl": 51.1
+  },
+  "per_capita_breakdown": {
+    "health": 1013.1,
+    "education": 1215.1,
+    "urbanism": 467.2,
+    "administration": 528.4,
+    "legislative": 72.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3918.9,
+      "health_per_capita": 790.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4209.2,
+      "health_per_capita": 851.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4499.5,
+      "health_per_capita": 911.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4741.4,
+      "health_per_capita": 972.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4838.2,
+      "health_per_capita": 1013.1
+    }
+  ]
+}

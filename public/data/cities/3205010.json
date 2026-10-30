@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3205010",
+  "city_name": "Sooretama",
+  "uf": "ES",
+  "population": 26502,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 120502335.75,
+    "total_expense": 117308129.88,
+    "own_revenue_percentage": 29.4,
+    "transfers_revenue_percentage": 70.6,
+    "personnel_expense_percentage_rcl": 46.5
+  },
+  "per_capita_breakdown": {
+    "health": 1191.8,
+    "education": 1285.4,
+    "urbanism": 403.7,
+    "administration": 328.2,
+    "legislative": 141.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3585.4,
+      "health_per_capita": 929.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3851.0,
+      "health_per_capita": 1001.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4116.6,
+      "health_per_capita": 1072.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4337.9,
+      "health_per_capita": 1144.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4426.4,
+      "health_per_capita": 1191.8
+    }
+  ]
+}

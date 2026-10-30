@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5007554",
+  "city_name": "Santa Rita do Pardo",
+  "uf": "MS",
+  "population": 7027,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 37531099.97,
+    "total_expense": 36943327.64,
+    "own_revenue_percentage": 15.8,
+    "transfers_revenue_percentage": 84.2,
+    "personnel_expense_percentage_rcl": 49.3
+  },
+  "per_capita_breakdown": {
+    "health": 1195.0,
+    "education": 1428.7,
+    "urbanism": 436.0,
+    "administration": 327.7,
+    "legislative": 180.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4258.4,
+      "health_per_capita": 932.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4573.9,
+      "health_per_capita": 1003.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4889.3,
+      "health_per_capita": 1075.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5152.2,
+      "health_per_capita": 1147.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5257.3,
+      "health_per_capita": 1195.0
+    }
+  ]
+}

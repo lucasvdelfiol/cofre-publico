@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3157302",
+  "city_name": "Santa Bárbara do Tugúrio",
+  "uf": "MG",
+  "population": 4208,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 18902309.09,
+    "total_expense": 18928677.49,
+    "own_revenue_percentage": 14.2,
+    "transfers_revenue_percentage": 85.8,
+    "personnel_expense_percentage_rcl": 50.8
+  },
+  "per_capita_breakdown": {
+    "health": 1023.3,
+    "education": 1164.6,
+    "urbanism": 428.6,
+    "administration": 518.8,
+    "legislative": 129.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3643.6,
+      "health_per_capita": 798.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3913.5,
+      "health_per_capita": 859.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4183.4,
+      "health_per_capita": 921.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4408.3,
+      "health_per_capita": 982.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4498.3,
+      "health_per_capita": 1023.3
+    }
+  ]
+}

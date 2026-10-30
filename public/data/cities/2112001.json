@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2112001",
+  "city_name": "Tasso Fragoso",
+  "uf": "MA",
+  "population": 8862,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 41389127.47,
+    "total_expense": 40206910.57,
+    "own_revenue_percentage": 10.9,
+    "transfers_revenue_percentage": 89.1,
+    "personnel_expense_percentage_rcl": 53.1
+  },
+  "per_capita_breakdown": {
+    "health": 908.6,
+    "education": 1312.0,
+    "urbanism": 655.7,
+    "administration": 522.3,
+    "legislative": 147.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3675.0,
+      "health_per_capita": 708.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3947.2,
+      "health_per_capita": 763.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4219.4,
+      "health_per_capita": 817.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4446.3,
+      "health_per_capita": 872.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4537.0,
+      "health_per_capita": 908.6
+    }
+  ]
+}

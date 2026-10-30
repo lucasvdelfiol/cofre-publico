@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3304607",
+  "city_name": "Santa Maria Madalena",
+  "uf": "RJ",
+  "population": 10232,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 44194008.51,
+    "total_expense": 44595641.04,
+    "own_revenue_percentage": 14.3,
+    "transfers_revenue_percentage": 85.7,
+    "personnel_expense_percentage_rcl": 50.7
+  },
+  "per_capita_breakdown": {
+    "health": 1189.3,
+    "education": 1081.2,
+    "urbanism": 571.3,
+    "administration": 453.0,
+    "legislative": 134.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3530.3,
+      "health_per_capita": 927.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3791.8,
+      "health_per_capita": 999.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4053.3,
+      "health_per_capita": 1070.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4271.2,
+      "health_per_capita": 1141.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4358.4,
+      "health_per_capita": 1189.3
+    }
+  ]
+}

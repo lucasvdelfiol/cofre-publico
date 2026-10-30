@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2610509",
+  "city_name": "Passira",
+  "uf": "PE",
+  "population": 28340,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 134341931.15,
+    "total_expense": 131797322.97,
+    "own_revenue_percentage": 19.6,
+    "transfers_revenue_percentage": 80.4,
+    "personnel_expense_percentage_rcl": 51.1
+  },
+  "per_capita_breakdown": {
+    "health": 1041.6,
+    "education": 1183.5,
+    "urbanism": 607.4,
+    "administration": 371.1,
+    "legislative": 100.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3767.0,
+      "health_per_capita": 812.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4046.0,
+      "health_per_capita": 874.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4325.1,
+      "health_per_capita": 937.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4557.6,
+      "health_per_capita": 999.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4650.6,
+      "health_per_capita": 1041.6
+    }
+  ]
+}

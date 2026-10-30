@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3510005",
+  "city_name": "Cândido Mota",
+  "uf": "SP",
+  "population": 29449,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 126555724.06,
+    "total_expense": 123761590.79,
+    "own_revenue_percentage": 25.6,
+    "transfers_revenue_percentage": 74.4,
+    "personnel_expense_percentage_rcl": 52.7
+  },
+  "per_capita_breakdown": {
+    "health": 1077.0,
+    "education": 1200.8,
+    "urbanism": 353.8,
+    "administration": 503.1,
+    "legislative": 103.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3404.1,
+      "health_per_capita": 840.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3656.3,
+      "health_per_capita": 904.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3908.4,
+      "health_per_capita": 969.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4118.5,
+      "health_per_capita": 1033.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4202.6,
+      "health_per_capita": 1077.0
+    }
+  ]
+}

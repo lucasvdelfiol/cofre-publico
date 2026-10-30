@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3534401",
+  "city_name": "Osasco",
+  "uf": "SP",
+  "population": 728615,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 4055127089.86,
+    "total_expense": 3908000345.75,
+    "own_revenue_percentage": 47.9,
+    "transfers_revenue_percentage": 52.1,
+    "personnel_expense_percentage_rcl": 48.0
+  },
+  "per_capita_breakdown": {
+    "health": 1125.6,
+    "education": 1683.0,
+    "urbanism": 469.8,
+    "administration": 353.9,
+    "legislative": 181.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4344.5,
+      "health_per_capita": 878.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4666.3,
+      "health_per_capita": 945.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4988.1,
+      "health_per_capita": 1013.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5256.3,
+      "health_per_capita": 1080.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5363.6,
+      "health_per_capita": 1125.6
+    }
+  ]
+}

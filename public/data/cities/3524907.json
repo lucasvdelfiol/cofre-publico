@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3524907",
+  "city_name": "Jambeiro",
+  "uf": "SP",
+  "population": 6397,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 30382638.11,
+    "total_expense": 29695263.7,
+    "own_revenue_percentage": 20.2,
+    "transfers_revenue_percentage": 79.8,
+    "personnel_expense_percentage_rcl": 50.4
+  },
+  "per_capita_breakdown": {
+    "health": 1167.5,
+    "education": 1220.6,
+    "urbanism": 578.8,
+    "administration": 545.8,
+    "legislative": 119.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3760.1,
+      "health_per_capita": 910.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4038.6,
+      "health_per_capita": 980.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4317.2,
+      "health_per_capita": 1050.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4549.3,
+      "health_per_capita": 1120.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4642.1,
+      "health_per_capita": 1167.5
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4127957",
+  "city_name": "Tupãssi",
+  "uf": "PR",
+  "population": 8077,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 40950383.26,
+    "total_expense": 39509936.39,
+    "own_revenue_percentage": 10.5,
+    "transfers_revenue_percentage": 89.5,
+    "personnel_expense_percentage_rcl": 52.2
+  },
+  "per_capita_breakdown": {
+    "health": 1271.2,
+    "education": 1190.0,
+    "urbanism": 666.7,
+    "administration": 384.1,
+    "legislative": 87.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3962.3,
+      "health_per_capita": 991.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4255.8,
+      "health_per_capita": 1067.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4549.3,
+      "health_per_capita": 1144.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4793.9,
+      "health_per_capita": 1220.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4891.7,
+      "health_per_capita": 1271.2
+    }
+  ]
+}

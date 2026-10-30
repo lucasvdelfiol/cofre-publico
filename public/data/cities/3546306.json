@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3546306",
+  "city_name": "Santa Cruz das Palmeiras",
+  "uf": "SP",
+  "population": 28864,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 135426583.92,
+    "total_expense": 130766313.16,
+    "own_revenue_percentage": 31.3,
+    "transfers_revenue_percentage": 68.7,
+    "personnel_expense_percentage_rcl": 49.2
+  },
+  "per_capita_breakdown": {
+    "health": 989.5,
+    "education": 1339.9,
+    "urbanism": 373.5,
+    "administration": 520.8,
+    "legislative": 121.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3669.6,
+      "health_per_capita": 771.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3941.4,
+      "health_per_capita": 831.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4213.3,
+      "health_per_capita": 890.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4439.8,
+      "health_per_capita": 949.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4530.4,
+      "health_per_capita": 989.5
+    }
+  ]
+}

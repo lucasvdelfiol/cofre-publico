@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2404903",
+  "city_name": "Itaú",
+  "uf": "RN",
+  "population": 5320,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 30076139.9,
+    "total_expense": 29746930.44,
+    "own_revenue_percentage": 8.5,
+    "transfers_revenue_percentage": 91.5,
+    "personnel_expense_percentage_rcl": 46.9
+  },
+  "per_capita_breakdown": {
+    "health": 1405.5,
+    "education": 1613.5,
+    "urbanism": 523.7,
+    "administration": 447.7,
+    "legislative": 139.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4529.1,
+      "health_per_capita": 1096.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4864.6,
+      "health_per_capita": 1180.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5200.1,
+      "health_per_capita": 1265.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5479.7,
+      "health_per_capita": 1349.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5591.5,
+      "health_per_capita": 1405.5
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5006200",
+  "city_name": "Nova Andradina",
+  "uf": "MS",
+  "population": 48563,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 237124738.66,
+    "total_expense": 237438484.27,
+    "own_revenue_percentage": 20.6,
+    "transfers_revenue_percentage": 79.4,
+    "personnel_expense_percentage_rcl": 49.5
+  },
+  "per_capita_breakdown": {
+    "health": 1090.5,
+    "education": 1183.8,
+    "urbanism": 775.4,
+    "administration": 553.0,
+    "legislative": 102.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3960.3,
+      "health_per_capita": 850.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4253.7,
+      "health_per_capita": 916.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4547.0,
+      "health_per_capita": 981.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4791.5,
+      "health_per_capita": 1046.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4889.3,
+      "health_per_capita": 1090.5
+    }
+  ]
+}

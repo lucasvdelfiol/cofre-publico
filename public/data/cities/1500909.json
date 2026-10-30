@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1500909",
+  "city_name": "Augusto Corrêa",
+  "uf": "PA",
+  "population": 44573,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 205272326.05,
+    "total_expense": 207179148.54,
+    "own_revenue_percentage": 24.5,
+    "transfers_revenue_percentage": 75.5,
+    "personnel_expense_percentage_rcl": 47.6
+  },
+  "per_capita_breakdown": {
+    "health": 1030.7,
+    "education": 1295.0,
+    "urbanism": 687.2,
+    "administration": 423.1,
+    "legislative": 100.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3765.0,
+      "health_per_capita": 803.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4043.8,
+      "health_per_capita": 865.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4322.7,
+      "health_per_capita": 927.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4555.1,
+      "health_per_capita": 989.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4648.1,
+      "health_per_capita": 1030.7
+    }
+  ]
+}

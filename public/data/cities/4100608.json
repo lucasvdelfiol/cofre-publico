@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4100608",
+  "city_name": "Alto Paraná",
+  "uf": "PR",
+  "population": 13909,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 77753450.33,
+    "total_expense": 75275104.9,
+    "own_revenue_percentage": 21.9,
+    "transfers_revenue_percentage": 78.1,
+    "personnel_expense_percentage_rcl": 48.2
+  },
+  "per_capita_breakdown": {
+    "health": 1425.2,
+    "education": 1576.8,
+    "urbanism": 530.0,
+    "administration": 570.5,
+    "legislative": 154.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4383.7,
+      "health_per_capita": 1111.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4708.4,
+      "health_per_capita": 1197.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5033.2,
+      "health_per_capita": 1282.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5303.8,
+      "health_per_capita": 1368.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5412.0,
+      "health_per_capita": 1425.2
+    }
+  ]
+}

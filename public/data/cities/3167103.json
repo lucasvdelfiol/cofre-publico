@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3167103",
+  "city_name": "Serro",
+  "uf": "MG",
+  "population": 21952,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 96557479.73,
+    "total_expense": 94890401.51,
+    "own_revenue_percentage": 26.9,
+    "transfers_revenue_percentage": 73.1,
+    "personnel_expense_percentage_rcl": 47.2
+  },
+  "per_capita_breakdown": {
+    "health": 1056.2,
+    "education": 1046.2,
+    "urbanism": 651.9,
+    "administration": 396.9,
+    "legislative": 142.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3501.3,
+      "health_per_capita": 823.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3760.7,
+      "health_per_capita": 887.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4020.0,
+      "health_per_capita": 950.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4236.1,
+      "health_per_capita": 1014.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4322.6,
+      "health_per_capita": 1056.2
+    }
+  ]
+}

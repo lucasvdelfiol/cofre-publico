@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2409209",
+  "city_name": "Passagem",
+  "uf": "RN",
+  "population": 3115,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 16784109.68,
+    "total_expense": 16800854.29,
+    "own_revenue_percentage": 17.4,
+    "transfers_revenue_percentage": 82.6,
+    "personnel_expense_percentage_rcl": 50.1
+  },
+  "per_capita_breakdown": {
+    "health": 1105.1,
+    "education": 1583.9,
+    "urbanism": 726.7,
+    "administration": 576.6,
+    "legislative": 109.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4368.7,
+      "health_per_capita": 862.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4692.3,
+      "health_per_capita": 928.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5016.0,
+      "health_per_capita": 994.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5285.6,
+      "health_per_capita": 1060.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5393.5,
+      "health_per_capita": 1105.1
+    }
+  ]
+}

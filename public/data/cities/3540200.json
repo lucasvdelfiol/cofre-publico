@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3540200",
+  "city_name": "Pontal",
+  "uf": "SP",
+  "population": 37607,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 168981908.68,
+    "total_expense": 169435983.55,
+    "own_revenue_percentage": 18.7,
+    "transfers_revenue_percentage": 81.3,
+    "personnel_expense_percentage_rcl": 49.3
+  },
+  "per_capita_breakdown": {
+    "health": 1103.1,
+    "education": 1122.9,
+    "urbanism": 426.1,
+    "administration": 517.5,
+    "legislative": 149.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3649.4,
+      "health_per_capita": 860.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3919.7,
+      "health_per_capita": 926.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4190.0,
+      "health_per_capita": 992.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4415.3,
+      "health_per_capita": 1059.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4505.4,
+      "health_per_capita": 1103.1
+    }
+  ]
+}

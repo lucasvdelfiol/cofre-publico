@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3300803",
+  "city_name": "Cachoeiras de Macacu",
+  "uf": "RJ",
+  "population": 56943,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 258660557.93,
+    "total_expense": 250695616.29,
+    "own_revenue_percentage": 37.6,
+    "transfers_revenue_percentage": 62.4,
+    "personnel_expense_percentage_rcl": 45.2
+  },
+  "per_capita_breakdown": {
+    "health": 905.6,
+    "education": 1331.6,
+    "urbanism": 541.1,
+    "administration": 404.7,
+    "legislative": 112.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3566.1,
+      "health_per_capita": 706.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3830.3,
+      "health_per_capita": 760.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4094.4,
+      "health_per_capita": 815.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4314.5,
+      "health_per_capita": 869.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4402.6,
+      "health_per_capita": 905.6
+    }
+  ]
+}

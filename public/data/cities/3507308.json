@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3507308",
+  "city_name": "Boracéia",
+  "uf": "SP",
+  "population": 4715,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 26259469.31,
+    "total_expense": 25284500.75,
+    "own_revenue_percentage": 17.1,
+    "transfers_revenue_percentage": 82.9,
+    "personnel_expense_percentage_rcl": 53.0
+  },
+  "per_capita_breakdown": {
+    "health": 1287.9,
+    "education": 1637.2,
+    "urbanism": 796.9,
+    "administration": 640.3,
+    "legislative": 181.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4343.7,
+      "health_per_capita": 1004.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4665.5,
+      "health_per_capita": 1081.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4987.2,
+      "health_per_capita": 1159.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5255.3,
+      "health_per_capita": 1236.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5362.6,
+      "health_per_capita": 1287.9
+    }
+  ]
+}

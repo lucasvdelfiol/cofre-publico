@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4115200",
+  "city_name": "Maringá",
+  "uf": "PR",
+  "population": 409657,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 2039073820.38,
+    "total_expense": 2004465987.44,
+    "own_revenue_percentage": 38.9,
+    "transfers_revenue_percentage": 61.1,
+    "personnel_expense_percentage_rcl": 48.9
+  },
+  "per_capita_breakdown": {
+    "health": 1366.0,
+    "education": 1496.2,
+    "urbanism": 557.7,
+    "administration": 361.4,
+    "legislative": 145.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3963.3,
+      "health_per_capita": 1065.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4256.9,
+      "health_per_capita": 1147.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4550.5,
+      "health_per_capita": 1229.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4795.1,
+      "health_per_capita": 1311.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4893.0,
+      "health_per_capita": 1366.0
+    }
+  ]
+}

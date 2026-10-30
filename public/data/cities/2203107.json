@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2203107",
+  "city_name": "Cristino Castro",
+  "uf": "PI",
+  "population": 10503,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 46827399.6,
+    "total_expense": 46804182.54,
+    "own_revenue_percentage": 12.9,
+    "transfers_revenue_percentage": 87.1,
+    "personnel_expense_percentage_rcl": 51.9
+  },
+  "per_capita_breakdown": {
+    "health": 1008.5,
+    "education": 1125.6,
+    "urbanism": 632.1,
+    "administration": 475.8,
+    "legislative": 146.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3609.6,
+      "health_per_capita": 786.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3877.0,
+      "health_per_capita": 847.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4144.4,
+      "health_per_capita": 907.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4367.2,
+      "health_per_capita": 968.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4456.3,
+      "health_per_capita": 1008.5
+    }
+  ]
+}

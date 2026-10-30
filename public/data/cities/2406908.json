@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2406908",
+  "city_name": "Lucrécia",
+  "uf": "RN",
+  "population": 3490,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 15595057.76,
+    "total_expense": 15557864.51,
+    "own_revenue_percentage": 11.3,
+    "transfers_revenue_percentage": 88.7,
+    "personnel_expense_percentage_rcl": 51.9
+  },
+  "per_capita_breakdown": {
+    "health": 1007.9,
+    "education": 1352.3,
+    "urbanism": 538.1,
+    "administration": 322.0,
+    "legislative": 134.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3610.8,
+      "health_per_capita": 786.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3878.3,
+      "health_per_capita": 846.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4145.8,
+      "health_per_capita": 907.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4368.6,
+      "health_per_capita": 967.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4457.8,
+      "health_per_capita": 1007.9
+    }
+  ]
+}

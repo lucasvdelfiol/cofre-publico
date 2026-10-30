@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2201150",
+  "city_name": "Baixa Grande do Ribeiro",
+  "uf": "PI",
+  "population": 13272,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 62169374.13,
+    "total_expense": 62521494.13,
+    "own_revenue_percentage": 13.9,
+    "transfers_revenue_percentage": 86.1,
+    "personnel_expense_percentage_rcl": 45.7
+  },
+  "per_capita_breakdown": {
+    "health": 1055.0,
+    "education": 1157.6,
+    "urbanism": 714.4,
+    "administration": 485.2,
+    "legislative": 138.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3815.7,
+      "health_per_capita": 822.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4098.4,
+      "health_per_capita": 886.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4381.0,
+      "health_per_capita": 949.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4616.6,
+      "health_per_capita": 1012.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4710.8,
+      "health_per_capita": 1055.0
+    }
+  ]
+}

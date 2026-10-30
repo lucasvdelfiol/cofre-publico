@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4309803",
+  "city_name": "Ibiaçá",
+  "uf": "RS",
+  "population": 4527,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 22394530.38,
+    "total_expense": 22265440.32,
+    "own_revenue_percentage": 10.0,
+    "transfers_revenue_percentage": 90.0,
+    "personnel_expense_percentage_rcl": 46.6
+  },
+  "per_capita_breakdown": {
+    "health": 1171.1,
+    "education": 1199.7,
+    "urbanism": 770.8,
+    "administration": 398.6,
+    "legislative": 123.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3983.9,
+      "health_per_capita": 913.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4279.0,
+      "health_per_capita": 983.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4574.1,
+      "health_per_capita": 1054.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4820.0,
+      "health_per_capita": 1124.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4918.4,
+      "health_per_capita": 1171.1
+    }
+  ]
+}

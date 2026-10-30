@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2927606",
+  "city_name": "Santa Brígida",
+  "uf": "BA",
+  "population": 14965,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 76170818.66,
+    "total_expense": 76928061.79,
+    "own_revenue_percentage": 16.0,
+    "transfers_revenue_percentage": 84.0,
+    "personnel_expense_percentage_rcl": 45.6
+  },
+  "per_capita_breakdown": {
+    "health": 1363.5,
+    "education": 1506.7,
+    "urbanism": 537.4,
+    "administration": 603.4,
+    "legislative": 171.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4163.8,
+      "health_per_capita": 1063.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4472.2,
+      "health_per_capita": 1145.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4780.7,
+      "health_per_capita": 1227.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5037.7,
+      "health_per_capita": 1309.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5140.5,
+      "health_per_capita": 1363.5
+    }
+  ]
+}

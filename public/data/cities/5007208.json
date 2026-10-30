@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5007208",
+  "city_name": "Rio Brilhante",
+  "uf": "MS",
+  "population": 37601,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 162557440.43,
+    "total_expense": 161584009.14,
+    "own_revenue_percentage": 19.2,
+    "transfers_revenue_percentage": 80.8,
+    "personnel_expense_percentage_rcl": 47.2
+  },
+  "per_capita_breakdown": {
+    "health": 1034.9,
+    "education": 1269.6,
+    "urbanism": 419.5,
+    "administration": 315.0,
+    "legislative": 88.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3480.8,
+      "health_per_capita": 807.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3738.7,
+      "health_per_capita": 869.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3996.5,
+      "health_per_capita": 931.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4211.4,
+      "health_per_capita": 993.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4297.3,
+      "health_per_capita": 1034.9
+    }
+  ]
+}

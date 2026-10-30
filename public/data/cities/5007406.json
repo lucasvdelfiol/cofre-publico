@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5007406",
+  "city_name": "Rio Verde de Mato Grosso",
+  "uf": "MS",
+  "population": 19818,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 110972802.53,
+    "total_expense": 107639042.33,
+    "own_revenue_percentage": 10.4,
+    "transfers_revenue_percentage": 89.6,
+    "personnel_expense_percentage_rcl": 52.1
+  },
+  "per_capita_breakdown": {
+    "health": 1221.2,
+    "education": 1559.7,
+    "urbanism": 789.4,
+    "administration": 388.8,
+    "legislative": 169.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4399.4,
+      "health_per_capita": 952.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4725.3,
+      "health_per_capita": 1025.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5051.2,
+      "health_per_capita": 1099.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5322.8,
+      "health_per_capita": 1172.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5431.4,
+      "health_per_capita": 1221.2
+    }
+  ]
+}

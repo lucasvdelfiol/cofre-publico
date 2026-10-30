@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4122156",
+  "city_name": "Rio Bonito do Iguaçu",
+  "uf": "PR",
+  "population": 13929,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 63765744.85,
+    "total_expense": 63706051.89,
+    "own_revenue_percentage": 12.6,
+    "transfers_revenue_percentage": 87.4,
+    "personnel_expense_percentage_rcl": 51.8
+  },
+  "per_capita_breakdown": {
+    "health": 1180.1,
+    "education": 1355.4,
+    "urbanism": 677.3,
+    "administration": 541.5,
+    "legislative": 106.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3704.6,
+      "health_per_capita": 920.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3979.0,
+      "health_per_capita": 991.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4253.4,
+      "health_per_capita": 1062.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4482.1,
+      "health_per_capita": 1132.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4573.6,
+      "health_per_capita": 1180.1
+    }
+  ]
+}

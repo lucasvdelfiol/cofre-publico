@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3536000",
+  "city_name": "Parapuã",
+  "uf": "SP",
+  "population": 10580,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 48106793.16,
+    "total_expense": 48177228.53,
+    "own_revenue_percentage": 19.4,
+    "transfers_revenue_percentage": 80.6,
+    "personnel_expense_percentage_rcl": 48.2
+  },
+  "per_capita_breakdown": {
+    "health": 1274.5,
+    "education": 1210.7,
+    "urbanism": 505.5,
+    "administration": 527.4,
+    "legislative": 111.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3688.4,
+      "health_per_capita": 994.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3961.6,
+      "health_per_capita": 1070.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4234.8,
+      "health_per_capita": 1147.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4462.5,
+      "health_per_capita": 1223.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4553.6,
+      "health_per_capita": 1274.5
+    }
+  ]
+}

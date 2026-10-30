@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2200459",
+  "city_name": "Alvorada do Gurguéia",
+  "uf": "PI",
+  "population": 5322,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 23593062.85,
+    "total_expense": 23786528.85,
+    "own_revenue_percentage": 12.5,
+    "transfers_revenue_percentage": 87.5,
+    "personnel_expense_percentage_rcl": 53.8
+  },
+  "per_capita_breakdown": {
+    "health": 1011.8,
+    "education": 1353.9,
+    "urbanism": 513.2,
+    "administration": 500.1,
+    "legislative": 110.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3620.3,
+      "health_per_capita": 789.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3888.5,
+      "health_per_capita": 849.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4156.6,
+      "health_per_capita": 910.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4380.1,
+      "health_per_capita": 971.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4469.5,
+      "health_per_capita": 1011.8
+    }
+  ]
+}

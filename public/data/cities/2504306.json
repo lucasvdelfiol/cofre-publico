@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2504306",
+  "city_name": "Catolé do Rocha",
+  "uf": "PB",
+  "population": 30661,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 139863472.81,
+    "total_expense": 140869155.0,
+    "own_revenue_percentage": 25.1,
+    "transfers_revenue_percentage": 74.9,
+    "personnel_expense_percentage_rcl": 51.6
+  },
+  "per_capita_breakdown": {
+    "health": 1061.2,
+    "education": 1252.4,
+    "urbanism": 554.2,
+    "administration": 345.5,
+    "legislative": 99.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3721.5,
+      "health_per_capita": 827.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3997.1,
+      "health_per_capita": 891.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4272.8,
+      "health_per_capita": 955.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4502.5,
+      "health_per_capita": 1018.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4594.4,
+      "health_per_capita": 1061.2
+    }
+  ]
+}

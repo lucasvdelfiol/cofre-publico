@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3552601",
+  "city_name": "Tabapuã",
+  "uf": "SP",
+  "population": 11323,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 59684138.05,
+    "total_expense": 58124558.92,
+    "own_revenue_percentage": 19.6,
+    "transfers_revenue_percentage": 80.4,
+    "personnel_expense_percentage_rcl": 47.1
+  },
+  "per_capita_breakdown": {
+    "health": 1046.7,
+    "education": 1437.4,
+    "urbanism": 609.5,
+    "administration": 419.9,
+    "legislative": 178.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4158.0,
+      "health_per_capita": 816.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4466.0,
+      "health_per_capita": 879.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4774.0,
+      "health_per_capita": 942.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5030.6,
+      "health_per_capita": 1004.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5133.3,
+      "health_per_capita": 1046.7
+    }
+  ]
+}

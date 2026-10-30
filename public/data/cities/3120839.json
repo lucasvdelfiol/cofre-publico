@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3120839",
+  "city_name": "Cuparaque",
+  "uf": "MG",
+  "population": 3983,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 20610787.06,
+    "total_expense": 20628716.01,
+    "own_revenue_percentage": 11.6,
+    "transfers_revenue_percentage": 88.4,
+    "personnel_expense_percentage_rcl": 53.2
+  },
+  "per_capita_breakdown": {
+    "health": 1446.8,
+    "education": 1424.0,
+    "urbanism": 420.3,
+    "administration": 596.0,
+    "legislative": 102.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4195.2,
+      "health_per_capita": 1128.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4505.9,
+      "health_per_capita": 1215.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4816.7,
+      "health_per_capita": 1302.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5075.6,
+      "health_per_capita": 1388.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5179.2,
+      "health_per_capita": 1446.8
+    }
+  ]
+}

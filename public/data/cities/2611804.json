@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2611804",
+  "city_name": "Ribeirão",
+  "uf": "PE",
+  "population": 33507,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 166707038.76,
+    "total_expense": 162563717.41,
+    "own_revenue_percentage": 30.7,
+    "transfers_revenue_percentage": 69.3,
+    "personnel_expense_percentage_rcl": 53.2
+  },
+  "per_capita_breakdown": {
+    "health": 1183.1,
+    "education": 1277.6,
+    "urbanism": 699.3,
+    "administration": 365.5,
+    "legislative": 146.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3929.8,
+      "health_per_capita": 922.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4220.9,
+      "health_per_capita": 993.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4512.0,
+      "health_per_capita": 1064.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4754.6,
+      "health_per_capita": 1135.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4851.6,
+      "health_per_capita": 1183.1
+    }
+  ]
+}

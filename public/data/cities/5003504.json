@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5003504",
+  "city_name": "Douradina",
+  "uf": "MS",
+  "population": 5578,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 29299287.28,
+    "total_expense": 28774612.66,
+    "own_revenue_percentage": 15.8,
+    "transfers_revenue_percentage": 84.2,
+    "personnel_expense_percentage_rcl": 52.0
+  },
+  "per_capita_breakdown": {
+    "health": 1304.9,
+    "education": 1335.5,
+    "urbanism": 695.7,
+    "administration": 528.1,
+    "legislative": 114.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4178.5,
+      "health_per_capita": 1017.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4488.0,
+      "health_per_capita": 1096.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4797.5,
+      "health_per_capita": 1174.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5055.4,
+      "health_per_capita": 1252.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5158.6,
+      "health_per_capita": 1304.9
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3101003",
+  "city_name": "Águas Vermelhas",
+  "uf": "MG",
+  "population": 14037,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 71653517.98,
+    "total_expense": 68985363.41,
+    "own_revenue_percentage": 12.5,
+    "transfers_revenue_percentage": 87.5,
+    "personnel_expense_percentage_rcl": 49.0
+  },
+  "per_capita_breakdown": {
+    "health": 1163.8,
+    "education": 1187.9,
+    "urbanism": 655.4,
+    "administration": 387.4,
+    "legislative": 82.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3980.7,
+      "health_per_capita": 907.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4275.6,
+      "health_per_capita": 977.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4570.5,
+      "health_per_capita": 1047.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4816.2,
+      "health_per_capita": 1117.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4914.5,
+      "health_per_capita": 1163.8
+    }
+  ]
+}

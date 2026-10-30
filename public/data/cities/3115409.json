@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3115409",
+  "city_name": "Catas Altas da Noruega",
+  "uf": "MG",
+  "population": 3110,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 15053080.54,
+    "total_expense": 14619183.55,
+    "own_revenue_percentage": 16.2,
+    "transfers_revenue_percentage": 83.8,
+    "personnel_expense_percentage_rcl": 51.2
+  },
+  "per_capita_breakdown": {
+    "health": 1001.9,
+    "education": 1181.9,
+    "urbanism": 593.6,
+    "administration": 515.7,
+    "legislative": 85.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3807.6,
+      "health_per_capita": 781.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4089.6,
+      "health_per_capita": 841.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4371.7,
+      "health_per_capita": 901.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4606.7,
+      "health_per_capita": 961.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4700.7,
+      "health_per_capita": 1001.9
+    }
+  ]
+}

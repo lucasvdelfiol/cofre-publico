@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1503903",
+  "city_name": "Juruti",
+  "uf": "PA",
+  "population": 50881,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 228872673.79,
+    "total_expense": 226252858.81,
+    "own_revenue_percentage": 34.6,
+    "transfers_revenue_percentage": 65.4,
+    "personnel_expense_percentage_rcl": 46.5
+  },
+  "per_capita_breakdown": {
+    "health": 1118.1,
+    "education": 1167.4,
+    "urbanism": 452.5,
+    "administration": 399.6,
+    "legislative": 136.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3601.8,
+      "health_per_capita": 872.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3868.6,
+      "health_per_capita": 939.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4135.4,
+      "health_per_capita": 1006.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4357.8,
+      "health_per_capita": 1073.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4446.7,
+      "health_per_capita": 1118.1
+    }
+  ]
+}

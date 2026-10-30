@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3506607",
+  "city_name": "Biritiba Mirim",
+  "uf": "SP",
+  "population": 29683,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 125425177.09,
+    "total_expense": 123806400.39,
+    "own_revenue_percentage": 24.3,
+    "transfers_revenue_percentage": 75.7,
+    "personnel_expense_percentage_rcl": 50.3
+  },
+  "per_capita_breakdown": {
+    "health": 1009.3,
+    "education": 1169.3,
+    "urbanism": 422.6,
+    "administration": 458.9,
+    "legislative": 90.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3378.5,
+      "health_per_capita": 787.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3628.8,
+      "health_per_capita": 847.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3879.0,
+      "health_per_capita": 908.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4087.6,
+      "health_per_capita": 968.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4171.0,
+      "health_per_capita": 1009.3
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2919926",
+  "city_name": "Madre de Deus",
+  "uf": "BA",
+  "population": 18504,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 89509765.52,
+    "total_expense": 89502390.0,
+    "own_revenue_percentage": 20.9,
+    "transfers_revenue_percentage": 79.1,
+    "personnel_expense_percentage_rcl": 47.3
+  },
+  "per_capita_breakdown": {
+    "health": 1313.4,
+    "education": 1367.9,
+    "urbanism": 677.9,
+    "administration": 400.4,
+    "legislative": 164.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3917.9,
+      "health_per_capita": 1024.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4208.1,
+      "health_per_capita": 1103.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4498.3,
+      "health_per_capita": 1182.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4740.2,
+      "health_per_capita": 1260.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4836.9,
+      "health_per_capita": 1313.4
+    }
+  ]
+}

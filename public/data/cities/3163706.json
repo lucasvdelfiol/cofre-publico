@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3163706",
+  "city_name": "São Lourenço",
+  "uf": "MG",
+  "population": 44798,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 187354544.32,
+    "total_expense": 185790069.25,
+    "own_revenue_percentage": 28.2,
+    "transfers_revenue_percentage": 71.8,
+    "personnel_expense_percentage_rcl": 53.0
+  },
+  "per_capita_breakdown": {
+    "health": 1042.1,
+    "education": 1030.5,
+    "urbanism": 511.4,
+    "administration": 388.0,
+    "legislative": 119.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3359.3,
+      "health_per_capita": 812.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3608.2,
+      "health_per_capita": 875.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3857.0,
+      "health_per_capita": 937.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4064.4,
+      "health_per_capita": 1000.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4147.3,
+      "health_per_capita": 1042.1
+    }
+  ]
+}

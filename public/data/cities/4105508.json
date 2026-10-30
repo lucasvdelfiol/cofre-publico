@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4105508",
+  "city_name": "Cianorte",
+  "uf": "PR",
+  "population": 79527,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 405345371.83,
+    "total_expense": 403000112.4,
+    "own_revenue_percentage": 41.5,
+    "transfers_revenue_percentage": 58.5,
+    "personnel_expense_percentage_rcl": 51.8
+  },
+  "per_capita_breakdown": {
+    "health": 1310.8,
+    "education": 1348.5,
+    "urbanism": 785.7,
+    "administration": 471.7,
+    "legislative": 118.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4104.7,
+      "health_per_capita": 1022.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4408.7,
+      "health_per_capita": 1101.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4712.8,
+      "health_per_capita": 1179.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4966.1,
+      "health_per_capita": 1258.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5067.5,
+      "health_per_capita": 1310.8
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2801603",
+  "city_name": "Cedro de São João",
+  "uf": "SE",
+  "population": 5391,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 29107186.75,
+    "total_expense": 28160853.7,
+    "own_revenue_percentage": 10.6,
+    "transfers_revenue_percentage": 89.4,
+    "personnel_expense_percentage_rcl": 50.7
+  },
+  "per_capita_breakdown": {
+    "health": 1143.0,
+    "education": 1663.1,
+    "urbanism": 730.0,
+    "administration": 539.9,
+    "legislative": 98.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4231.2,
+      "health_per_capita": 891.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4544.6,
+      "health_per_capita": 960.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4858.0,
+      "health_per_capita": 1028.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5119.2,
+      "health_per_capita": 1097.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5223.7,
+      "health_per_capita": 1143.0
+    }
+  ]
+}

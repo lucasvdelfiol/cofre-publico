@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3201704",
+  "city_name": "Conceição do Castelo",
+  "uf": "ES",
+  "population": 11937,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 56436435.42,
+    "total_expense": 56292152.79,
+    "own_revenue_percentage": 19.6,
+    "transfers_revenue_percentage": 80.4,
+    "personnel_expense_percentage_rcl": 52.1
+  },
+  "per_capita_breakdown": {
+    "health": 964.6,
+    "education": 1445.5,
+    "urbanism": 570.4,
+    "administration": 471.8,
+    "legislative": 129.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3819.8,
+      "health_per_capita": 752.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4102.7,
+      "health_per_capita": 810.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4385.7,
+      "health_per_capita": 868.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4621.5,
+      "health_per_capita": 926.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4715.8,
+      "health_per_capita": 964.6
+    }
+  ]
+}

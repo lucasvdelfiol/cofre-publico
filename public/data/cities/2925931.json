@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2925931",
+  "city_name": "Quixabeira",
+  "uf": "BA",
+  "population": 9461,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 42700139.58,
+    "total_expense": 41142505.43,
+    "own_revenue_percentage": 20.7,
+    "transfers_revenue_percentage": 79.3,
+    "personnel_expense_percentage_rcl": 45.5
+  },
+  "per_capita_breakdown": {
+    "health": 903.3,
+    "education": 1380.3,
+    "urbanism": 509.0,
+    "administration": 482.7,
+    "legislative": 136.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3522.4,
+      "health_per_capita": 704.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3783.3,
+      "health_per_capita": 758.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4044.2,
+      "health_per_capita": 813.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4261.6,
+      "health_per_capita": 867.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4348.6,
+      "health_per_capita": 903.3
+    }
+  ]
+}

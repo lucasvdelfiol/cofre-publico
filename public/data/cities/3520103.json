@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3520103",
+  "city_name": "Igarapava",
+  "uf": "SP",
+  "population": 26212,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 124003011.03,
+    "total_expense": 122969157.65,
+    "own_revenue_percentage": 18.9,
+    "transfers_revenue_percentage": 81.1,
+    "personnel_expense_percentage_rcl": 48.7
+  },
+  "per_capita_breakdown": {
+    "health": 1001.4,
+    "education": 1287.1,
+    "urbanism": 511.7,
+    "administration": 445.5,
+    "legislative": 95.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3800.0,
+      "health_per_capita": 781.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4081.4,
+      "health_per_capita": 841.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4362.9,
+      "health_per_capita": 901.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4597.5,
+      "health_per_capita": 961.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4691.3,
+      "health_per_capita": 1001.4
+    }
+  ]
+}

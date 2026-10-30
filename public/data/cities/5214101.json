@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5214101",
+  "city_name": "Mutunópolis",
+  "uf": "GO",
+  "population": 3564,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 16836057.78,
+    "total_expense": 16999755.64,
+    "own_revenue_percentage": 21.1,
+    "transfers_revenue_percentage": 78.9,
+    "personnel_expense_percentage_rcl": 45.7
+  },
+  "per_capita_breakdown": {
+    "health": 1210.3,
+    "education": 1257.9,
+    "urbanism": 470.1,
+    "administration": 567.4,
+    "legislative": 150.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3863.6,
+      "health_per_capita": 944.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4149.8,
+      "health_per_capita": 1016.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4436.0,
+      "health_per_capita": 1089.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4674.5,
+      "health_per_capita": 1161.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4769.9,
+      "health_per_capita": 1210.3
+    }
+  ]
+}

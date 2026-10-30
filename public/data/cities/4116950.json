@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4116950",
+  "city_name": "Nova Esperança do Sudoeste",
+  "uf": "PR",
+  "population": 5597,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 32556655.92,
+    "total_expense": 31329798.03,
+    "own_revenue_percentage": 20.4,
+    "transfers_revenue_percentage": 79.6,
+    "personnel_expense_percentage_rcl": 51.9
+  },
+  "per_capita_breakdown": {
+    "health": 1536.6,
+    "education": 1756.8,
+    "urbanism": 818.0,
+    "administration": 510.4,
+    "legislative": 161.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4534.1,
+      "health_per_capita": 1198.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4869.9,
+      "health_per_capita": 1290.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5205.8,
+      "health_per_capita": 1382.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5485.6,
+      "health_per_capita": 1475.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5597.6,
+      "health_per_capita": 1536.6
+    }
+  ]
+}

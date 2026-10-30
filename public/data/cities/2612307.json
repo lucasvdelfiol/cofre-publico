@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2612307",
+  "city_name": "Saloá",
+  "uf": "PE",
+  "population": 13836,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 70897515.03,
+    "total_expense": 68511265.92,
+    "own_revenue_percentage": 20.4,
+    "transfers_revenue_percentage": 79.6,
+    "personnel_expense_percentage_rcl": 52.3
+  },
+  "per_capita_breakdown": {
+    "health": 1016.7,
+    "education": 1556.3,
+    "urbanism": 421.4,
+    "administration": 478.1,
+    "legislative": 125.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4010.9,
+      "health_per_capita": 793.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4308.0,
+      "health_per_capita": 854.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4605.1,
+      "health_per_capita": 915.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4852.7,
+      "health_per_capita": 976.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4951.7,
+      "health_per_capita": 1016.7
+    }
+  ]
+}

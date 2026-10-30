@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1502939",
+  "city_name": "Dom Eliseu",
+  "uf": "PA",
+  "population": 58484,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 279984738.6,
+    "total_expense": 273878663.18,
+    "own_revenue_percentage": 38.5,
+    "transfers_revenue_percentage": 61.5,
+    "personnel_expense_percentage_rcl": 49.3
+  },
+  "per_capita_breakdown": {
+    "health": 996.4,
+    "education": 1290.2,
+    "urbanism": 531.9,
+    "administration": 432.8,
+    "legislative": 109.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3793.2,
+      "health_per_capita": 777.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4074.2,
+      "health_per_capita": 837.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4355.2,
+      "health_per_capita": 896.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4589.3,
+      "health_per_capita": 956.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4683.0,
+      "health_per_capita": 996.4
+    }
+  ]
+}

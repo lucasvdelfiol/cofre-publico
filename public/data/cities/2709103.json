@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2709103",
+  "city_name": "Taquarana",
+  "uf": "AL",
+  "population": 19032,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 106928346.52,
+    "total_expense": 103379706.87,
+    "own_revenue_percentage": 21.4,
+    "transfers_revenue_percentage": 78.6,
+    "personnel_expense_percentage_rcl": 49.6
+  },
+  "per_capita_breakdown": {
+    "health": 1393.1,
+    "education": 1529.2,
+    "urbanism": 835.7,
+    "administration": 444.4,
+    "legislative": 84.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4399.8,
+      "health_per_capita": 1086.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4725.8,
+      "health_per_capita": 1170.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5051.7,
+      "health_per_capita": 1253.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5323.3,
+      "health_per_capita": 1337.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5431.9,
+      "health_per_capita": 1393.1
+    }
+  ]
+}

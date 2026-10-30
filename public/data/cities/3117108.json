@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3117108",
+  "city_name": "Conceição da Aparecida",
+  "uf": "MG",
+  "population": 10371,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 45438720.44,
+    "total_expense": 44810159.57,
+    "own_revenue_percentage": 19.7,
+    "transfers_revenue_percentage": 80.3,
+    "personnel_expense_percentage_rcl": 53.3
+  },
+  "per_capita_breakdown": {
+    "health": 931.8,
+    "education": 1233.0,
+    "urbanism": 527.3,
+    "administration": 354.1,
+    "legislative": 135.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3499.8,
+      "health_per_capita": 726.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3759.0,
+      "health_per_capita": 782.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4018.3,
+      "health_per_capita": 838.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4234.3,
+      "health_per_capita": 894.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4320.7,
+      "health_per_capita": 931.8
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3549508",
+  "city_name": "São José da Bela Vista",
+  "uf": "SP",
+  "population": 7626,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 35562339.36,
+    "total_expense": 34990104.68,
+    "own_revenue_percentage": 10.5,
+    "transfers_revenue_percentage": 89.5,
+    "personnel_expense_percentage_rcl": 47.5
+  },
+  "per_capita_breakdown": {
+    "health": 1229.3,
+    "education": 1421.3,
+    "urbanism": 616.1,
+    "administration": 347.9,
+    "legislative": 87.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3716.5,
+      "health_per_capita": 958.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3991.8,
+      "health_per_capita": 1032.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4267.1,
+      "health_per_capita": 1106.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4496.5,
+      "health_per_capita": 1180.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4588.3,
+      "health_per_capita": 1229.3
+    }
+  ]
+}

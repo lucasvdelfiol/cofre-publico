@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2921302",
+  "city_name": "Milagres",
+  "uf": "BA",
+  "population": 11071,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 49732913.34,
+    "total_expense": 50039536.33,
+    "own_revenue_percentage": 14.4,
+    "transfers_revenue_percentage": 85.6,
+    "personnel_expense_percentage_rcl": 49.5
+  },
+  "per_capita_breakdown": {
+    "health": 939.6,
+    "education": 1287.1,
+    "urbanism": 441.8,
+    "administration": 475.7,
+    "legislative": 144.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3661.1,
+      "health_per_capita": 732.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3932.3,
+      "health_per_capita": 789.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4203.5,
+      "health_per_capita": 845.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4429.5,
+      "health_per_capita": 902.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4519.9,
+      "health_per_capita": 939.6
+    }
+  ]
+}

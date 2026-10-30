@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4306759",
+  "city_name": "Doutor Ricardo",
+  "uf": "RS",
+  "population": 1888,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 10489328.92,
+    "total_expense": 10109638.67,
+    "own_revenue_percentage": 9.5,
+    "transfers_revenue_percentage": 90.5,
+    "personnel_expense_percentage_rcl": 48.4
+  },
+  "per_capita_breakdown": {
+    "health": 1153.5,
+    "education": 1667.7,
+    "urbanism": 587.3,
+    "administration": 484.5,
+    "legislative": 114.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4337.3,
+      "health_per_capita": 899.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4658.6,
+      "health_per_capita": 968.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4979.9,
+      "health_per_capita": 1038.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5247.6,
+      "health_per_capita": 1107.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5354.7,
+      "health_per_capita": 1153.5
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2309607",
+  "city_name": "Pacajus",
+  "uf": "CE",
+  "population": 70983,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 340499462.89,
+    "total_expense": 341373636.78,
+    "own_revenue_percentage": 29.4,
+    "transfers_revenue_percentage": 70.6,
+    "personnel_expense_percentage_rcl": 51.8
+  },
+  "per_capita_breakdown": {
+    "health": 993.0,
+    "education": 1294.8,
+    "urbanism": 563.4,
+    "administration": 388.6,
+    "legislative": 121.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3895.5,
+      "health_per_capita": 774.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4184.0,
+      "health_per_capita": 834.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4472.6,
+      "health_per_capita": 893.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4713.0,
+      "health_per_capita": 953.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4809.2,
+      "health_per_capita": 993.0
+    }
+  ]
+}

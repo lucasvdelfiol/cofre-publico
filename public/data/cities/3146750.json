@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3146750",
+  "city_name": "Palmópolis",
+  "uf": "MG",
+  "population": 6301,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 29850968.4,
+    "total_expense": 29788801.04,
+    "own_revenue_percentage": 15.6,
+    "transfers_revenue_percentage": 84.4,
+    "personnel_expense_percentage_rcl": 48.0
+  },
+  "per_capita_breakdown": {
+    "health": 1185.4,
+    "education": 1271.1,
+    "urbanism": 443.3,
+    "administration": 461.6,
+    "legislative": 77.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3829.4,
+      "health_per_capita": 924.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4113.0,
+      "health_per_capita": 995.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4396.7,
+      "health_per_capita": 1066.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4633.0,
+      "health_per_capita": 1138.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4727.6,
+      "health_per_capita": 1185.4
+    }
+  ]
+}

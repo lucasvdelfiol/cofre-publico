@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2506806",
+  "city_name": "Ingá",
+  "uf": "PB",
+  "population": 17692,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 95449388.12,
+    "total_expense": 93969674.66,
+    "own_revenue_percentage": 9.4,
+    "transfers_revenue_percentage": 90.6,
+    "personnel_expense_percentage_rcl": 47.6
+  },
+  "per_capita_breakdown": {
+    "health": 1349.6,
+    "education": 1573.0,
+    "urbanism": 451.5,
+    "administration": 369.5,
+    "legislative": 102.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4302.2,
+      "health_per_capita": 1052.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4620.9,
+      "health_per_capita": 1133.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4939.6,
+      "health_per_capita": 1214.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5205.2,
+      "health_per_capita": 1295.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5311.4,
+      "health_per_capita": 1349.6
+    }
+  ]
+}

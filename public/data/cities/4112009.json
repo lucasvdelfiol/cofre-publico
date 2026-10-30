@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4112009",
+  "city_name": "Jaguariaíva",
+  "uf": "PR",
+  "population": 35141,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 174723157.08,
+    "total_expense": 170312707.84,
+    "own_revenue_percentage": 31.9,
+    "transfers_revenue_percentage": 68.1,
+    "personnel_expense_percentage_rcl": 48.6
+  },
+  "per_capita_breakdown": {
+    "health": 1056.3,
+    "education": 1204.9,
+    "urbanism": 623.4,
+    "administration": 537.4,
+    "legislative": 108.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3925.7,
+      "health_per_capita": 823.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4216.5,
+      "health_per_capita": 887.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4507.3,
+      "health_per_capita": 950.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4749.7,
+      "health_per_capita": 1014.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4846.6,
+      "health_per_capita": 1056.3
+    }
+  ]
+}

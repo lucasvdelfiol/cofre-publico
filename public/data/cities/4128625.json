@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4128625",
+  "city_name": "Alto Paraíso",
+  "uf": "PR",
+  "population": 3055,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 14549525.14,
+    "total_expense": 14032442.95,
+    "own_revenue_percentage": 17.6,
+    "transfers_revenue_percentage": 82.4,
+    "personnel_expense_percentage_rcl": 47.9
+  },
+  "per_capita_breakdown": {
+    "health": 987.8,
+    "education": 1456.3,
+    "urbanism": 665.8,
+    "administration": 381.5,
+    "legislative": 83.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3720.6,
+      "health_per_capita": 770.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3996.2,
+      "health_per_capita": 829.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4271.8,
+      "health_per_capita": 889.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4501.4,
+      "health_per_capita": 948.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4593.3,
+      "health_per_capita": 987.8
+    }
+  ]
+}

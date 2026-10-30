@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2805901",
+  "city_name": "Riachuelo",
+  "uf": "SE",
+  "population": 8748,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 44123715.33,
+    "total_expense": 43512322.73,
+    "own_revenue_percentage": 19.9,
+    "transfers_revenue_percentage": 80.1,
+    "personnel_expense_percentage_rcl": 51.5
+  },
+  "per_capita_breakdown": {
+    "health": 1014.2,
+    "education": 1505.4,
+    "urbanism": 647.7,
+    "administration": 487.9,
+    "legislative": 128.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4028.9,
+      "health_per_capita": 791.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4327.4,
+      "health_per_capita": 851.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4625.8,
+      "health_per_capita": 912.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4874.5,
+      "health_per_capita": 973.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4974.0,
+      "health_per_capita": 1014.2
+    }
+  ]
+}

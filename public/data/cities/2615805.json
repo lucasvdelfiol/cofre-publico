@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2615805",
+  "city_name": "Tupanatinga",
+  "uf": "PE",
+  "population": 26937,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 112726384.86,
+    "total_expense": 113676209.79,
+    "own_revenue_percentage": 22.0,
+    "transfers_revenue_percentage": 78.0,
+    "personnel_expense_percentage_rcl": 46.4
+  },
+  "per_capita_breakdown": {
+    "health": 989.5,
+    "education": 1034.4,
+    "urbanism": 548.0,
+    "administration": 467.5,
+    "legislative": 99.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3418.3,
+      "health_per_capita": 771.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3671.5,
+      "health_per_capita": 831.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3924.7,
+      "health_per_capita": 890.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4135.7,
+      "health_per_capita": 949.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4220.1,
+      "health_per_capita": 989.5
+    }
+  ]
+}

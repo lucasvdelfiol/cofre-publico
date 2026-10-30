@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2702355",
+  "city_name": "Craíbas",
+  "uf": "AL",
+  "population": 25397,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 120881408.95,
+    "total_expense": 116969350.53,
+    "own_revenue_percentage": 29.9,
+    "transfers_revenue_percentage": 70.1,
+    "personnel_expense_percentage_rcl": 47.3
+  },
+  "per_capita_breakdown": {
+    "health": 1148.2,
+    "education": 1448.4,
+    "urbanism": 626.2,
+    "administration": 510.6,
+    "legislative": 123.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3730.5,
+      "health_per_capita": 895.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4006.9,
+      "health_per_capita": 964.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4283.2,
+      "health_per_capita": 1033.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4513.5,
+      "health_per_capita": 1102.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4605.6,
+      "health_per_capita": 1148.2
+    }
+  ]
+}

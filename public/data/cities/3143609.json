@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3143609",
+  "city_name": "Morro da Garça",
+  "uf": "MG",
+  "population": 2411,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 13290722.29,
+    "total_expense": 13384072.9,
+    "own_revenue_percentage": 14.3,
+    "transfers_revenue_percentage": 85.7,
+    "personnel_expense_percentage_rcl": 49.0
+  },
+  "per_capita_breakdown": {
+    "health": 1178.5,
+    "education": 1604.4,
+    "urbanism": 756.7,
+    "administration": 581.4,
+    "legislative": 167.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4496.6,
+      "health_per_capita": 919.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4829.6,
+      "health_per_capita": 989.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5162.7,
+      "health_per_capita": 1060.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5440.3,
+      "health_per_capita": 1131.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5551.3,
+      "health_per_capita": 1178.5
+    }
+  ]
+}

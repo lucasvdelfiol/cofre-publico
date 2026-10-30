@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3104809",
+  "city_name": "Augusto de Lima",
+  "uf": "MG",
+  "population": 4538,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 21184618.03,
+    "total_expense": 20770452.84,
+    "own_revenue_percentage": 14.3,
+    "transfers_revenue_percentage": 85.7,
+    "personnel_expense_percentage_rcl": 52.5
+  },
+  "per_capita_breakdown": {
+    "health": 926.5,
+    "education": 1279.0,
+    "urbanism": 675.4,
+    "administration": 284.2,
+    "legislative": 105.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3707.4,
+      "health_per_capita": 722.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3982.0,
+      "health_per_capita": 778.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4256.6,
+      "health_per_capita": 833.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4485.5,
+      "health_per_capita": 889.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4577.0,
+      "health_per_capita": 926.5
+    }
+  ]
+}

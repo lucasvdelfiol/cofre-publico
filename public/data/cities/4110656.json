@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4110656",
+  "city_name": "Iracema do Oeste",
+  "uf": "PR",
+  "population": 2343,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 12539199.95,
+    "total_expense": 12083925.59,
+    "own_revenue_percentage": 14.1,
+    "transfers_revenue_percentage": 85.9,
+    "personnel_expense_percentage_rcl": 51.9
+  },
+  "per_capita_breakdown": {
+    "health": 1392.5,
+    "education": 1631.6,
+    "urbanism": 480.4,
+    "administration": 570.1,
+    "legislative": 114.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4177.6,
+      "health_per_capita": 1086.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4487.0,
+      "health_per_capita": 1169.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4796.5,
+      "health_per_capita": 1253.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5054.3,
+      "health_per_capita": 1336.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5157.5,
+      "health_per_capita": 1392.5
+    }
+  ]
+}

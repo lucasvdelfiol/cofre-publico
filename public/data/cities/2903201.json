@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2903201",
+  "city_name": "Barreiras",
+  "uf": "BA",
+  "population": 159734,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 840805682.34,
+    "total_expense": 816966484.65,
+    "own_revenue_percentage": 45.6,
+    "transfers_revenue_percentage": 54.4,
+    "personnel_expense_percentage_rcl": 48.1
+  },
+  "per_capita_breakdown": {
+    "health": 1321.9,
+    "education": 1615.5,
+    "urbanism": 567.1,
+    "administration": 611.5,
+    "legislative": 82.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4142.7,
+      "health_per_capita": 1031.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4449.6,
+      "health_per_capita": 1110.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4756.5,
+      "health_per_capita": 1189.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5012.2,
+      "health_per_capita": 1269.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5114.5,
+      "health_per_capita": 1321.9
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3516200",
+  "city_name": "Franca",
+  "uf": "SP",
+  "population": 352536,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 1745280029.38,
+    "total_expense": 1696365094.87,
+    "own_revenue_percentage": 52.0,
+    "transfers_revenue_percentage": 48.0,
+    "personnel_expense_percentage_rcl": 52.1
+  },
+  "per_capita_breakdown": {
+    "health": 1344.9,
+    "education": 1427.2,
+    "urbanism": 638.2,
+    "administration": 467.0,
+    "legislative": 106.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3897.6,
+      "health_per_capita": 1049.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4186.4,
+      "health_per_capita": 1129.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4475.1,
+      "health_per_capita": 1210.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4715.7,
+      "health_per_capita": 1291.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4811.9,
+      "health_per_capita": 1344.9
+    }
+  ]
+}

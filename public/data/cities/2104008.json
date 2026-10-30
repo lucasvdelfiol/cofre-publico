@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2104008",
+  "city_name": "Esperantinópolis",
+  "uf": "MA",
+  "population": 18311,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 89658550.63,
+    "total_expense": 89792310.86,
+    "own_revenue_percentage": 16.7,
+    "transfers_revenue_percentage": 83.3,
+    "personnel_expense_percentage_rcl": 51.4
+  },
+  "per_capita_breakdown": {
+    "health": 1262.0,
+    "education": 1361.1,
+    "urbanism": 746.6,
+    "administration": 409.5,
+    "legislative": 83.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3972.0,
+      "health_per_capita": 984.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4266.2,
+      "health_per_capita": 1060.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4560.4,
+      "health_per_capita": 1135.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4805.6,
+      "health_per_capita": 1211.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4903.7,
+      "health_per_capita": 1262.0
+    }
+  ]
+}

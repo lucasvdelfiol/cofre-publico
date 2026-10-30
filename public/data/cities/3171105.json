@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3171105",
+  "city_name": "Veríssimo",
+  "uf": "MG",
+  "population": 3411,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 15226820.04,
+    "total_expense": 15083352.97,
+    "own_revenue_percentage": 19.9,
+    "transfers_revenue_percentage": 80.1,
+    "personnel_expense_percentage_rcl": 48.2
+  },
+  "per_capita_breakdown": {
+    "health": 990.0,
+    "education": 1214.1,
+    "urbanism": 373.6,
+    "administration": 336.0,
+    "legislative": 100.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3581.8,
+      "health_per_capita": 772.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3847.1,
+      "health_per_capita": 831.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4112.5,
+      "health_per_capita": 891.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4333.6,
+      "health_per_capita": 950.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4422.0,
+      "health_per_capita": 990.0
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3532900",
+  "city_name": "Nova Europa",
+  "uf": "SP",
+  "population": 9311,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 45306372.8,
+    "total_expense": 44507702.98,
+    "own_revenue_percentage": 20.9,
+    "transfers_revenue_percentage": 79.1,
+    "personnel_expense_percentage_rcl": 52.9
+  },
+  "per_capita_breakdown": {
+    "health": 1081.4,
+    "education": 1434.3,
+    "urbanism": 635.9,
+    "administration": 439.3,
+    "legislative": 123.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3871.9,
+      "health_per_capita": 843.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4158.7,
+      "health_per_capita": 908.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4445.5,
+      "health_per_capita": 973.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4684.5,
+      "health_per_capita": 1038.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4780.1,
+      "health_per_capita": 1081.4
+    }
+  ]
+}

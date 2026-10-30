@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3537602",
+  "city_name": "Peruíbe",
+  "uf": "SP",
+  "population": 68352,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 341712729.22,
+    "total_expense": 333068642.86,
+    "own_revenue_percentage": 38.3,
+    "transfers_revenue_percentage": 61.7,
+    "personnel_expense_percentage_rcl": 45.8
+  },
+  "per_capita_breakdown": {
+    "health": 1262.6,
+    "education": 1239.2,
+    "urbanism": 698.0,
+    "administration": 553.3,
+    "legislative": 73.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3947.0,
+      "health_per_capita": 984.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4239.3,
+      "health_per_capita": 1060.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4531.7,
+      "health_per_capita": 1136.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4775.3,
+      "health_per_capita": 1212.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4872.8,
+      "health_per_capita": 1262.6
+    }
+  ]
+}

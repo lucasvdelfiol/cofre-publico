@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2607653",
+  "city_name": "Itambé",
+  "uf": "PE",
+  "population": 34935,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 170947789.49,
+    "total_expense": 168417431.45,
+    "own_revenue_percentage": 22.5,
+    "transfers_revenue_percentage": 77.5,
+    "personnel_expense_percentage_rcl": 52.1
+  },
+  "per_capita_breakdown": {
+    "health": 1080.3,
+    "education": 1219.4,
+    "urbanism": 587.0,
+    "administration": 512.3,
+    "legislative": 95.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3904.9,
+      "health_per_capita": 842.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4194.2,
+      "health_per_capita": 907.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4483.4,
+      "health_per_capita": 972.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4724.5,
+      "health_per_capita": 1037.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4820.9,
+      "health_per_capita": 1080.3
+    }
+  ]
+}

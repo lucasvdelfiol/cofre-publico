@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4307203",
+  "city_name": "Erval Grande",
+  "uf": "RS",
+  "population": 4930,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 26217105.56,
+    "total_expense": 25789042.39,
+    "own_revenue_percentage": 19.1,
+    "transfers_revenue_percentage": 80.9,
+    "personnel_expense_percentage_rcl": 47.0
+  },
+  "per_capita_breakdown": {
+    "health": 1201.8,
+    "education": 1352.9,
+    "urbanism": 444.9,
+    "administration": 525.3,
+    "legislative": 163.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4237.1,
+      "health_per_capita": 937.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4551.0,
+      "health_per_capita": 1009.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4864.8,
+      "health_per_capita": 1081.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5126.4,
+      "health_per_capita": 1153.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5231.0,
+      "health_per_capita": 1201.8
+    }
+  ]
+}

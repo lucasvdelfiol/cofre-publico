@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5005202",
+  "city_name": "Ladário",
+  "uf": "MS",
+  "population": 21522,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 101260529.29,
+    "total_expense": 97893825.53,
+    "own_revenue_percentage": 24.5,
+    "transfers_revenue_percentage": 75.5,
+    "personnel_expense_percentage_rcl": 50.7
+  },
+  "per_capita_breakdown": {
+    "health": 1036.7,
+    "education": 1129.4,
+    "urbanism": 680.4,
+    "administration": 276.5,
+    "legislative": 125.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3684.3,
+      "health_per_capita": 808.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3957.2,
+      "health_per_capita": 870.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4230.1,
+      "health_per_capita": 933.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4457.5,
+      "health_per_capita": 995.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4548.5,
+      "health_per_capita": 1036.7
+    }
+  ]
+}

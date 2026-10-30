@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3145109",
+  "city_name": "Nova Resende",
+  "uf": "MG",
+  "population": 16387,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 80129901.13,
+    "total_expense": 80634060.19,
+    "own_revenue_percentage": 19.6,
+    "transfers_revenue_percentage": 80.4,
+    "personnel_expense_percentage_rcl": 51.3
+  },
+  "per_capita_breakdown": {
+    "health": 1153.2,
+    "education": 1314.5,
+    "urbanism": 599.0,
+    "administration": 447.8,
+    "legislative": 116.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3985.7,
+      "health_per_capita": 899.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4280.9,
+      "health_per_capita": 968.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4576.2,
+      "health_per_capita": 1037.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4822.2,
+      "health_per_capita": 1107.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4920.6,
+      "health_per_capita": 1153.2
+    }
+  ]
+}

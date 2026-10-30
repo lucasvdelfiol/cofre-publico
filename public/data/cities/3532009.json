@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3532009",
+  "city_name": "Morungaba",
+  "uf": "SP",
+  "population": 13720,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 79342584.99,
+    "total_expense": 76384353.1,
+    "own_revenue_percentage": 19.7,
+    "transfers_revenue_percentage": 80.3,
+    "personnel_expense_percentage_rcl": 50.1
+  },
+  "per_capita_breakdown": {
+    "health": 1387.7,
+    "education": 1643.0,
+    "urbanism": 837.1,
+    "administration": 646.5,
+    "legislative": 168.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4509.6,
+      "health_per_capita": 1082.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4843.6,
+      "health_per_capita": 1165.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5177.7,
+      "health_per_capita": 1248.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5456.1,
+      "health_per_capita": 1332.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5567.4,
+      "health_per_capita": 1387.7
+    }
+  ]
+}

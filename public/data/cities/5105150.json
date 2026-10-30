@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5105150",
+  "city_name": "Juína",
+  "uf": "MT",
+  "population": 45869,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 196470591.75,
+    "total_expense": 190632005.8,
+    "own_revenue_percentage": 29.3,
+    "transfers_revenue_percentage": 70.7,
+    "personnel_expense_percentage_rcl": 47.7
+  },
+  "per_capita_breakdown": {
+    "health": 891.2,
+    "education": 1129.8,
+    "urbanism": 443.2,
+    "administration": 310.6,
+    "legislative": 88.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3366.4,
+      "health_per_capita": 695.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3615.7,
+      "health_per_capita": 748.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3865.1,
+      "health_per_capita": 802.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4072.9,
+      "health_per_capita": 855.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4156.0,
+      "health_per_capita": 891.2
+    }
+  ]
+}

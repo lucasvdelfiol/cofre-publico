@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3105400",
+  "city_name": "Barão de Cocais",
+  "uf": "MG",
+  "population": 30778,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 135292262.05,
+    "total_expense": 136376968.6,
+    "own_revenue_percentage": 25.5,
+    "transfers_revenue_percentage": 74.5,
+    "personnel_expense_percentage_rcl": 48.7
+  },
+  "per_capita_breakdown": {
+    "health": 1179.7,
+    "education": 1175.4,
+    "urbanism": 652.2,
+    "administration": 488.7,
+    "legislative": 92.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3589.1,
+      "health_per_capita": 920.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3855.0,
+      "health_per_capita": 990.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4120.8,
+      "health_per_capita": 1061.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4342.4,
+      "health_per_capita": 1132.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4431.0,
+      "health_per_capita": 1179.7
+    }
+  ]
+}

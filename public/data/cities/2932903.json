@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2932903",
+  "city_name": "Valença",
+  "uf": "BA",
+  "population": 85655,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 399637235.95,
+    "total_expense": 390306182.07,
+    "own_revenue_percentage": 37.8,
+    "transfers_revenue_percentage": 62.2,
+    "personnel_expense_percentage_rcl": 51.5
+  },
+  "per_capita_breakdown": {
+    "health": 963.7,
+    "education": 1229.8,
+    "urbanism": 448.5,
+    "administration": 535.0,
+    "legislative": 120.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3690.9,
+      "health_per_capita": 751.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3964.3,
+      "health_per_capita": 809.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4237.7,
+      "health_per_capita": 867.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4465.6,
+      "health_per_capita": 925.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4556.7,
+      "health_per_capita": 963.7
+    }
+  ]
+}

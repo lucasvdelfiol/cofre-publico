@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3162807",
+  "city_name": "São João Evangelista",
+  "uf": "MG",
+  "population": 15315,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 85337666.57,
+    "total_expense": 82332692.59,
+    "own_revenue_percentage": 12.3,
+    "transfers_revenue_percentage": 87.7,
+    "personnel_expense_percentage_rcl": 49.5
+  },
+  "per_capita_breakdown": {
+    "health": 1110.3,
+    "education": 1419.3,
+    "urbanism": 485.4,
+    "administration": 483.1,
+    "legislative": 162.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4354.6,
+      "health_per_capita": 866.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4677.1,
+      "health_per_capita": 932.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4999.7,
+      "health_per_capita": 999.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5268.5,
+      "health_per_capita": 1065.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5376.0,
+      "health_per_capita": 1110.3
+    }
+  ]
+}

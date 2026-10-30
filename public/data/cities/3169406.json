@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3169406",
+  "city_name": "Três Pontas",
+  "uf": "MG",
+  "population": 55255,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 270228498.68,
+    "total_expense": 268668948.58,
+    "own_revenue_percentage": 41.9,
+    "transfers_revenue_percentage": 58.1,
+    "personnel_expense_percentage_rcl": 52.5
+  },
+  "per_capita_breakdown": {
+    "health": 1161.6,
+    "education": 1542.6,
+    "urbanism": 701.0,
+    "administration": 303.6,
+    "legislative": 156.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3938.5,
+      "health_per_capita": 906.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4230.2,
+      "health_per_capita": 975.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4521.9,
+      "health_per_capita": 1045.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4765.1,
+      "health_per_capita": 1115.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4862.3,
+      "health_per_capita": 1161.6
+    }
+  ]
+}

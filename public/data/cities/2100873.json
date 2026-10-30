@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2100873",
+  "city_name": "Araguanã",
+  "uf": "MA",
+  "population": 11181,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 56881859.64,
+    "total_expense": 55155724.95,
+    "own_revenue_percentage": 11.6,
+    "transfers_revenue_percentage": 88.4,
+    "personnel_expense_percentage_rcl": 51.0
+  },
+  "per_capita_breakdown": {
+    "health": 1269.8,
+    "education": 1445.3,
+    "urbanism": 588.4,
+    "administration": 478.8,
+    "legislative": 167.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3995.7,
+      "health_per_capita": 990.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4291.7,
+      "health_per_capita": 1066.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4587.7,
+      "health_per_capita": 1142.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4834.3,
+      "health_per_capita": 1219.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4933.0,
+      "health_per_capita": 1269.8
+    }
+  ]
+}

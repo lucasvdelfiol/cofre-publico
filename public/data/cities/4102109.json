@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4102109",
+  "city_name": "Astorga",
+  "uf": "PR",
+  "population": 25475,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 115598938.5,
+    "total_expense": 116314727.96,
+    "own_revenue_percentage": 20.0,
+    "transfers_revenue_percentage": 80.0,
+    "personnel_expense_percentage_rcl": 49.1
+  },
+  "per_capita_breakdown": {
+    "health": 1205.5,
+    "education": 1411.5,
+    "urbanism": 576.7,
+    "administration": 336.9,
+    "legislative": 119.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3698.3,
+      "health_per_capita": 940.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3972.2,
+      "health_per_capita": 1012.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4246.2,
+      "health_per_capita": 1085.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4474.5,
+      "health_per_capita": 1157.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4565.8,
+      "health_per_capita": 1205.5
+    }
+  ]
+}

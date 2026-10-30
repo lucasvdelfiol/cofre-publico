@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4118907",
+  "city_name": "Pérola",
+  "uf": "PR",
+  "population": 11878,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 53171040.9,
+    "total_expense": 52895374.35,
+    "own_revenue_percentage": 10.5,
+    "transfers_revenue_percentage": 89.5,
+    "personnel_expense_percentage_rcl": 53.5
+  },
+  "per_capita_breakdown": {
+    "health": 949.5,
+    "education": 1357.2,
+    "urbanism": 490.9,
+    "administration": 344.6,
+    "legislative": 98.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3607.1,
+      "health_per_capita": 740.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3874.3,
+      "health_per_capita": 797.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4141.5,
+      "health_per_capita": 854.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4364.1,
+      "health_per_capita": 911.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4453.2,
+      "health_per_capita": 949.5
+    }
+  ]
+}

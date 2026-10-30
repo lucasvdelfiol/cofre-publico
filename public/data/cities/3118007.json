@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3118007",
+  "city_name": "Congonhas",
+  "uf": "MG",
+  "population": 52890,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 253099857.9,
+    "total_expense": 245785007.51,
+    "own_revenue_percentage": 36.7,
+    "transfers_revenue_percentage": 63.3,
+    "personnel_expense_percentage_rcl": 52.8
+  },
+  "per_capita_breakdown": {
+    "health": 1103.6,
+    "education": 1134.2,
+    "urbanism": 636.2,
+    "administration": 471.2,
+    "legislative": 106.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3764.2,
+      "health_per_capita": 860.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4043.0,
+      "health_per_capita": 927.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4321.8,
+      "health_per_capita": 993.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4554.2,
+      "health_per_capita": 1059.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4647.1,
+      "health_per_capita": 1103.6
+    }
+  ]
+}

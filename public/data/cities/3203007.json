@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3203007",
+  "city_name": "Iúna",
+  "uf": "ES",
+  "population": 28590,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 141894669.17,
+    "total_expense": 138286796.88,
+    "own_revenue_percentage": 22.9,
+    "transfers_revenue_percentage": 77.1,
+    "personnel_expense_percentage_rcl": 48.8
+  },
+  "per_capita_breakdown": {
+    "health": 1202.3,
+    "education": 1484.0,
+    "urbanism": 716.3,
+    "administration": 396.4,
+    "legislative": 127.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3917.9,
+      "health_per_capita": 937.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4208.1,
+      "health_per_capita": 1009.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4498.3,
+      "health_per_capita": 1082.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4740.2,
+      "health_per_capita": 1154.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4836.9,
+      "health_per_capita": 1202.3
+    }
+  ]
+}

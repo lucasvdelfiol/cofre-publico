@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2601409",
+  "city_name": "Barreiros",
+  "uf": "PE",
+  "population": 40121,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 179519164.97,
+    "total_expense": 177115312.01,
+    "own_revenue_percentage": 21.1,
+    "transfers_revenue_percentage": 78.9,
+    "personnel_expense_percentage_rcl": 49.9
+  },
+  "per_capita_breakdown": {
+    "health": 903.5,
+    "education": 1369.9,
+    "urbanism": 465.6,
+    "administration": 462.3,
+    "legislative": 75.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3575.7,
+      "health_per_capita": 704.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3840.6,
+      "health_per_capita": 758.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4105.5,
+      "health_per_capita": 813.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4326.2,
+      "health_per_capita": 867.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4414.5,
+      "health_per_capita": 903.5
+    }
+  ]
+}

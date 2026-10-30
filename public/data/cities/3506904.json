@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3506904",
+  "city_name": "Bofete",
+  "uf": "SP",
+  "population": 10460,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 53969313.39,
+    "total_expense": 54186330.4,
+    "own_revenue_percentage": 10.8,
+    "transfers_revenue_percentage": 89.2,
+    "personnel_expense_percentage_rcl": 47.2
+  },
+  "per_capita_breakdown": {
+    "health": 1062.2,
+    "education": 1530.6,
+    "urbanism": 438.0,
+    "administration": 517.1,
+    "legislative": 171.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4196.0,
+      "health_per_capita": 828.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4506.9,
+      "health_per_capita": 892.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4817.7,
+      "health_per_capita": 956.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5076.7,
+      "health_per_capita": 1019.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5180.3,
+      "health_per_capita": 1062.2
+    }
+  ]
+}

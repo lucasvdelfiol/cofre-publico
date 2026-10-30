@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2612455",
+  "city_name": "Santa Cruz",
+  "uf": "PE",
+  "population": 13841,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 61531860.81,
+    "total_expense": 59866513.46,
+    "own_revenue_percentage": 11.2,
+    "transfers_revenue_percentage": 88.8,
+    "personnel_expense_percentage_rcl": 52.5
+  },
+  "per_capita_breakdown": {
+    "health": 1176.6,
+    "education": 1171.6,
+    "urbanism": 451.4,
+    "administration": 374.4,
+    "legislative": 99.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3503.5,
+      "health_per_capita": 917.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3763.0,
+      "health_per_capita": 988.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4022.5,
+      "health_per_capita": 1058.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4238.8,
+      "health_per_capita": 1129.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4325.3,
+      "health_per_capita": 1176.6
+    }
+  ]
+}

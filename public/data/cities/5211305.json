@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5211305",
+  "city_name": "Itarumã",
+  "uf": "GO",
+  "population": 6101,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 33082330.39,
+    "total_expense": 32259035.12,
+    "own_revenue_percentage": 9.8,
+    "transfers_revenue_percentage": 90.2,
+    "personnel_expense_percentage_rcl": 50.5
+  },
+  "per_capita_breakdown": {
+    "health": 1306.3,
+    "education": 1622.4,
+    "urbanism": 749.2,
+    "administration": 342.7,
+    "legislative": 163.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4282.9,
+      "health_per_capita": 1018.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4600.1,
+      "health_per_capita": 1097.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4917.4,
+      "health_per_capita": 1175.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5181.8,
+      "health_per_capita": 1254.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5287.5,
+      "health_per_capita": 1306.3
+    }
+  ]
+}

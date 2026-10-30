@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2910057",
+  "city_name": "Dias d'Ávila",
+  "uf": "BA",
+  "population": 71485,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 378517675.17,
+    "total_expense": 364265084.88,
+    "own_revenue_percentage": 31.5,
+    "transfers_revenue_percentage": 68.5,
+    "personnel_expense_percentage_rcl": 47.5
+  },
+  "per_capita_breakdown": {
+    "health": 1035.6,
+    "education": 1510.4,
+    "urbanism": 683.5,
+    "administration": 542.1,
+    "legislative": 125.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4127.5,
+      "health_per_capita": 807.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4433.3,
+      "health_per_capita": 869.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4739.0,
+      "health_per_capita": 932.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4993.8,
+      "health_per_capita": 994.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5095.7,
+      "health_per_capita": 1035.6
+    }
+  ]
+}

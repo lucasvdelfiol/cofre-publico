@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3158607",
+  "city_name": "Santana do Deserto",
+  "uf": "MG",
+  "population": 3747,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 19052026.76,
+    "total_expense": 18382735.56,
+    "own_revenue_percentage": 8.9,
+    "transfers_revenue_percentage": 91.1,
+    "personnel_expense_percentage_rcl": 47.8
+  },
+  "per_capita_breakdown": {
+    "health": 1123.3,
+    "education": 1499.7,
+    "urbanism": 774.1,
+    "administration": 584.4,
+    "legislative": 164.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3973.9,
+      "health_per_capita": 876.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4268.2,
+      "health_per_capita": 943.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4562.6,
+      "health_per_capita": 1011.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4807.9,
+      "health_per_capita": 1078.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4906.0,
+      "health_per_capita": 1123.3
+    }
+  ]
+}

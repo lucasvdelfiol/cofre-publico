@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3140852",
+  "city_name": "Matias Cardoso",
+  "uf": "MG",
+  "population": 8895,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 40037088.03,
+    "total_expense": 39396260.97,
+    "own_revenue_percentage": 8.5,
+    "transfers_revenue_percentage": 91.5,
+    "personnel_expense_percentage_rcl": 47.6
+  },
+  "per_capita_breakdown": {
+    "health": 1019.5,
+    "education": 1318.6,
+    "urbanism": 574.4,
+    "administration": 334.9,
+    "legislative": 149.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3587.5,
+      "health_per_capita": 795.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3853.2,
+      "health_per_capita": 856.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4119.0,
+      "health_per_capita": 917.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4340.4,
+      "health_per_capita": 978.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4429.0,
+      "health_per_capita": 1019.5
+    }
+  ]
+}

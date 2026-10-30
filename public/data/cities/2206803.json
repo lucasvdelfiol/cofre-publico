@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2206803",
+  "city_name": "Nossa Senhora dos Remédios",
+  "uf": "PI",
+  "population": 8525,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 39696863.69,
+    "total_expense": 39637525.67,
+    "own_revenue_percentage": 14.5,
+    "transfers_revenue_percentage": 85.5,
+    "personnel_expense_percentage_rcl": 52.8
+  },
+  "per_capita_breakdown": {
+    "health": 1286.9,
+    "education": 1198.6,
+    "urbanism": 552.8,
+    "administration": 456.8,
+    "legislative": 87.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3766.2,
+      "health_per_capita": 1003.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4045.2,
+      "health_per_capita": 1081.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4324.1,
+      "health_per_capita": 1158.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4556.6,
+      "health_per_capita": 1235.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4649.6,
+      "health_per_capita": 1286.9
+    }
+  ]
+}

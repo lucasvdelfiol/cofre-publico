@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4321477",
+  "city_name": "Tiradentes do Sul",
+  "uf": "RS",
+  "population": 5129,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 24984390.32,
+    "total_expense": 24218607.33,
+    "own_revenue_percentage": 12.9,
+    "transfers_revenue_percentage": 87.1,
+    "personnel_expense_percentage_rcl": 53.6
+  },
+  "per_capita_breakdown": {
+    "health": 1076.7,
+    "education": 1158.8,
+    "urbanism": 379.4,
+    "administration": 404.2,
+    "legislative": 138.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3824.7,
+      "health_per_capita": 839.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4108.1,
+      "health_per_capita": 904.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4391.4,
+      "health_per_capita": 969.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4627.5,
+      "health_per_capita": 1033.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4721.9,
+      "health_per_capita": 1076.7
+    }
+  ]
+}

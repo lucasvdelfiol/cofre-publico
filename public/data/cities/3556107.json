@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3556107",
+  "city_name": "Valentim Gentil",
+  "uf": "SP",
+  "population": 14098,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 70613084.08,
+    "total_expense": 69882936.19,
+    "own_revenue_percentage": 15.2,
+    "transfers_revenue_percentage": 84.8,
+    "personnel_expense_percentage_rcl": 53.0
+  },
+  "per_capita_breakdown": {
+    "health": 1251.8,
+    "education": 1346.6,
+    "urbanism": 652.1,
+    "administration": 505.0,
+    "legislative": 110.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4015.1,
+      "health_per_capita": 976.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4312.5,
+      "health_per_capita": 1051.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4609.9,
+      "health_per_capita": 1126.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4857.8,
+      "health_per_capita": 1201.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4956.9,
+      "health_per_capita": 1251.8
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4319208",
+  "city_name": "São Nicolau",
+  "uf": "RS",
+  "population": 5118,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 23177568.79,
+    "total_expense": 23225755.96,
+    "own_revenue_percentage": 11.7,
+    "transfers_revenue_percentage": 88.3,
+    "personnel_expense_percentage_rcl": 49.3
+  },
+  "per_capita_breakdown": {
+    "health": 1241.4,
+    "education": 1104.0,
+    "urbanism": 600.7,
+    "administration": 310.4,
+    "legislative": 125.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3675.9,
+      "health_per_capita": 968.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3948.1,
+      "health_per_capita": 1042.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4220.4,
+      "health_per_capita": 1117.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4447.3,
+      "health_per_capita": 1191.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4538.1,
+      "health_per_capita": 1241.4
+    }
+  ]
+}

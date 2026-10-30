@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3204658",
+  "city_name": "São Domingos do Norte",
+  "uf": "ES",
+  "population": 8589,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 41324864.96,
+    "total_expense": 40325867.33,
+    "own_revenue_percentage": 12.6,
+    "transfers_revenue_percentage": 87.4,
+    "personnel_expense_percentage_rcl": 53.0
+  },
+  "per_capita_breakdown": {
+    "health": 1079.4,
+    "education": 1300.0,
+    "urbanism": 405.6,
+    "administration": 559.4,
+    "legislative": 129.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3803.0,
+      "health_per_capita": 841.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4084.7,
+      "health_per_capita": 906.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4366.4,
+      "health_per_capita": 971.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4601.2,
+      "health_per_capita": 1036.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4695.1,
+      "health_per_capita": 1079.4
+    }
+  ]
+}

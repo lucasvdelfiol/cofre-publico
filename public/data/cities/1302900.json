@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1302900",
+  "city_name": "Maués",
+  "uf": "AM",
+  "population": 61204,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 276806528.31,
+    "total_expense": 274798793.93,
+    "own_revenue_percentage": 37.7,
+    "transfers_revenue_percentage": 62.3,
+    "personnel_expense_percentage_rcl": 51.9
+  },
+  "per_capita_breakdown": {
+    "health": 997.2,
+    "education": 1277.4,
+    "urbanism": 386.7,
+    "administration": 469.3,
+    "legislative": 71.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3636.8,
+      "health_per_capita": 777.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3906.2,
+      "health_per_capita": 837.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4175.6,
+      "health_per_capita": 897.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4400.1,
+      "health_per_capita": 957.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4489.9,
+      "health_per_capita": 997.2
+    }
+  ]
+}

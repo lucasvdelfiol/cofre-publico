@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2923001",
+  "city_name": "Nova Viçosa",
+  "uf": "BA",
+  "population": 39509,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 183694564.55,
+    "total_expense": 177490924.17,
+    "own_revenue_percentage": 18.2,
+    "transfers_revenue_percentage": 81.8,
+    "personnel_expense_percentage_rcl": 51.0
+  },
+  "per_capita_breakdown": {
+    "health": 1200.4,
+    "education": 1126.8,
+    "urbanism": 661.7,
+    "administration": 532.9,
+    "legislative": 120.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3638.8,
+      "health_per_capita": 936.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3908.4,
+      "health_per_capita": 1008.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4177.9,
+      "health_per_capita": 1080.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4402.6,
+      "health_per_capita": 1152.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4492.4,
+      "health_per_capita": 1200.4
+    }
+  ]
+}

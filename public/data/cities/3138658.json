@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3138658",
+  "city_name": "Lontra",
+  "uf": "MG",
+  "population": 8790,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 43215853.18,
+    "total_expense": 42935390.29,
+    "own_revenue_percentage": 13.7,
+    "transfers_revenue_percentage": 86.3,
+    "personnel_expense_percentage_rcl": 50.0
+  },
+  "per_capita_breakdown": {
+    "health": 1018.5,
+    "education": 1364.7,
+    "urbanism": 621.0,
+    "administration": 486.0,
+    "legislative": 150.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3956.5,
+      "health_per_capita": 794.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4249.6,
+      "health_per_capita": 855.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4542.7,
+      "health_per_capita": 916.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4786.9,
+      "health_per_capita": 977.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4884.6,
+      "health_per_capita": 1018.5
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2208700",
+  "city_name": "Redenção do Gurguéia",
+  "uf": "PI",
+  "population": 8394,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 42857948.38,
+    "total_expense": 42480270.43,
+    "own_revenue_percentage": 19.7,
+    "transfers_revenue_percentage": 80.3,
+    "personnel_expense_percentage_rcl": 50.3
+  },
+  "per_capita_breakdown": {
+    "health": 1072.6,
+    "education": 1481.0,
+    "urbanism": 503.3,
+    "administration": 451.2,
+    "legislative": 104.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4099.2,
+      "health_per_capita": 836.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4402.9,
+      "health_per_capita": 901.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4706.5,
+      "health_per_capita": 965.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4959.6,
+      "health_per_capita": 1029.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5060.8,
+      "health_per_capita": 1072.6
+    }
+  ]
+}

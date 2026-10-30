@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3501103",
+  "city_name": "Alto Alegre",
+  "uf": "SP",
+  "population": 3841,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 16812242.07,
+    "total_expense": 16806303.63,
+    "own_revenue_percentage": 19.9,
+    "transfers_revenue_percentage": 80.1,
+    "personnel_expense_percentage_rcl": 48.0
+  },
+  "per_capita_breakdown": {
+    "health": 878.5,
+    "education": 1128.9,
+    "urbanism": 494.8,
+    "administration": 385.5,
+    "legislative": 106.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3544.2,
+      "health_per_capita": 685.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3806.7,
+      "health_per_capita": 737.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4069.2,
+      "health_per_capita": 790.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4288.0,
+      "health_per_capita": 843.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4375.5,
+      "health_per_capita": 878.5
+    }
+  ]
+}

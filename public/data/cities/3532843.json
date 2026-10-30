@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3532843",
+  "city_name": "Nova Canaã Paulista",
+  "uf": "SP",
+  "population": 2032,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 10901224.02,
+    "total_expense": 10875578.54,
+    "own_revenue_percentage": 19.0,
+    "transfers_revenue_percentage": 81.0,
+    "personnel_expense_percentage_rcl": 45.7
+  },
+  "per_capita_breakdown": {
+    "health": 1129.7,
+    "education": 1634.5,
+    "urbanism": 724.6,
+    "administration": 363.9,
+    "legislative": 170.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4335.3,
+      "health_per_capita": 881.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4656.4,
+      "health_per_capita": 948.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4977.5,
+      "health_per_capita": 1016.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5245.2,
+      "health_per_capita": 1084.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5352.2,
+      "health_per_capita": 1129.7
+    }
+  ]
+}

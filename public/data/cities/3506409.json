@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3506409",
+  "city_name": "Bilac",
+  "uf": "SP",
+  "population": 7319,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 31322125.43,
+    "total_expense": 31636003.32,
+    "own_revenue_percentage": 20.6,
+    "transfers_revenue_percentage": 79.4,
+    "personnel_expense_percentage_rcl": 53.0
+  },
+  "per_capita_breakdown": {
+    "health": 1079.5,
+    "education": 1098.7,
+    "urbanism": 346.4,
+    "administration": 273.3,
+    "legislative": 65.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3501.1,
+      "health_per_capita": 842.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3760.5,
+      "health_per_capita": 906.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4019.8,
+      "health_per_capita": 971.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4236.0,
+      "health_per_capita": 1036.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4322.4,
+      "health_per_capita": 1079.5
+    }
+  ]
+}

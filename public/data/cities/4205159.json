@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4205159",
+  "city_name": "Doutor Pedrinho",
+  "uf": "SC",
+  "population": 3637,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 19050131.19,
+    "total_expense": 19000703.51,
+    "own_revenue_percentage": 15.6,
+    "transfers_revenue_percentage": 84.4,
+    "personnel_expense_percentage_rcl": 47.4
+  },
+  "per_capita_breakdown": {
+    "health": 1064.1,
+    "education": 1291.9,
+    "urbanism": 562.6,
+    "administration": 343.8,
+    "legislative": 167.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4231.7,
+      "health_per_capita": 830.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4545.1,
+      "health_per_capita": 893.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4858.6,
+      "health_per_capita": 957.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5119.8,
+      "health_per_capita": 1021.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5224.3,
+      "health_per_capita": 1064.1
+    }
+  ]
+}

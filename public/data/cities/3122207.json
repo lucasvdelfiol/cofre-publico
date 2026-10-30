@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3122207",
+  "city_name": "Divinolândia de Minas",
+  "uf": "MG",
+  "population": 6516,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 30991116.25,
+    "total_expense": 31028753.46,
+    "own_revenue_percentage": 10.6,
+    "transfers_revenue_percentage": 89.4,
+    "personnel_expense_percentage_rcl": 45.7
+  },
+  "per_capita_breakdown": {
+    "health": 1216.4,
+    "education": 1250.0,
+    "urbanism": 434.6,
+    "administration": 426.6,
+    "legislative": 71.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3857.1,
+      "health_per_capita": 948.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4142.9,
+      "health_per_capita": 1021.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4428.6,
+      "health_per_capita": 1094.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4666.7,
+      "health_per_capita": 1167.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4761.9,
+      "health_per_capita": 1216.4
+    }
+  ]
+}

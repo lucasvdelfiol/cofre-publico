@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3167400",
+  "city_name": "Silvianópolis",
+  "uf": "MG",
+  "population": 6179,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 27426656.81,
+    "total_expense": 27318121.94,
+    "own_revenue_percentage": 18.1,
+    "transfers_revenue_percentage": 81.9,
+    "personnel_expense_percentage_rcl": 47.3
+  },
+  "per_capita_breakdown": {
+    "health": 913.2,
+    "education": 1260.9,
+    "urbanism": 458.9,
+    "administration": 491.2,
+    "legislative": 91.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3581.1,
+      "health_per_capita": 712.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3846.4,
+      "health_per_capita": 767.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4111.6,
+      "health_per_capita": 821.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4332.7,
+      "health_per_capita": 876.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4421.1,
+      "health_per_capita": 913.2
+    }
+  ]
+}

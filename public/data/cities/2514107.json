@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2514107",
+  "city_name": "São João do Tigre",
+  "uf": "PB",
+  "population": 4263,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 19353601.63,
+    "total_expense": 19031879.9,
+    "own_revenue_percentage": 15.9,
+    "transfers_revenue_percentage": 84.1,
+    "personnel_expense_percentage_rcl": 46.3
+  },
+  "per_capita_breakdown": {
+    "health": 1182.9,
+    "education": 1278.7,
+    "urbanism": 676.3,
+    "administration": 389.1,
+    "legislative": 115.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3616.2,
+      "health_per_capita": 922.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3884.0,
+      "health_per_capita": 993.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4151.9,
+      "health_per_capita": 1064.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4375.1,
+      "health_per_capita": 1135.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4464.4,
+      "health_per_capita": 1182.9
+    }
+  ]
+}

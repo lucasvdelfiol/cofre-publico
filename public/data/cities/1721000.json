@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1721000",
+  "city_name": "Palmas",
+  "uf": "TO",
+  "population": 302692,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 1715551014.21,
+    "total_expense": 1725804969.96,
+    "own_revenue_percentage": 46.0,
+    "transfers_revenue_percentage": 54.0,
+    "personnel_expense_percentage_rcl": 50.4
+  },
+  "per_capita_breakdown": {
+    "health": 1419.2,
+    "education": 1665.8,
+    "urbanism": 717.5,
+    "administration": 408.2,
+    "legislative": 94.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4618.2,
+      "health_per_capita": 1107.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4960.3,
+      "health_per_capita": 1192.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5302.4,
+      "health_per_capita": 1277.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5587.5,
+      "health_per_capita": 1362.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5701.5,
+      "health_per_capita": 1419.2
+    }
+  ]
+}

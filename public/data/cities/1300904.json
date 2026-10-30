@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1300904",
+  "city_name": "Canutama",
+  "uf": "AM",
+  "population": 16869,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 86285220.0,
+    "total_expense": 86884794.51,
+    "own_revenue_percentage": 19.4,
+    "transfers_revenue_percentage": 80.6,
+    "personnel_expense_percentage_rcl": 46.6
+  },
+  "per_capita_breakdown": {
+    "health": 1152.4,
+    "education": 1349.4,
+    "urbanism": 628.7,
+    "administration": 544.9,
+    "legislative": 165.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4172.0,
+      "health_per_capita": 898.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4481.0,
+      "health_per_capita": 968.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4790.1,
+      "health_per_capita": 1037.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5047.6,
+      "health_per_capita": 1106.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5150.6,
+      "health_per_capita": 1152.4
+    }
+  ]
+}

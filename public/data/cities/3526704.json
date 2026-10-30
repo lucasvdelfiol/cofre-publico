@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3526704",
+  "city_name": "Leme",
+  "uf": "SP",
+  "population": 98161,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 497775319.21,
+    "total_expense": 480642026.75,
+    "own_revenue_percentage": 38.7,
+    "transfers_revenue_percentage": 61.3,
+    "personnel_expense_percentage_rcl": 47.4
+  },
+  "per_capita_breakdown": {
+    "health": 1190.1,
+    "education": 1208.7,
+    "urbanism": 607.8,
+    "administration": 324.5,
+    "legislative": 119.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3966.2,
+      "health_per_capita": 928.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4260.0,
+      "health_per_capita": 999.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4553.7,
+      "health_per_capita": 1071.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4798.6,
+      "health_per_capita": 1142.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4896.5,
+      "health_per_capita": 1190.1
+    }
+  ]
+}

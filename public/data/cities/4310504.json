@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4310504",
+  "city_name": "Iraí",
+  "uf": "RS",
+  "population": 7482,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 35794133.84,
+    "total_expense": 36076642.37,
+    "own_revenue_percentage": 16.2,
+    "transfers_revenue_percentage": 83.8,
+    "personnel_expense_percentage_rcl": 53.1
+  },
+  "per_capita_breakdown": {
+    "health": 1064.8,
+    "education": 1238.2,
+    "urbanism": 721.4,
+    "administration": 364.8,
+    "legislative": 148.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3905.7,
+      "health_per_capita": 830.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4195.0,
+      "health_per_capita": 894.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4484.3,
+      "health_per_capita": 958.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4725.4,
+      "health_per_capita": 1022.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4821.8,
+      "health_per_capita": 1064.8
+    }
+  ]
+}

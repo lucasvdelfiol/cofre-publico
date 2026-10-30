@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3503000",
+  "city_name": "Aramina",
+  "uf": "SP",
+  "population": 5420,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 29048570.11,
+    "total_expense": 29059503.94,
+    "own_revenue_percentage": 12.1,
+    "transfers_revenue_percentage": 87.9,
+    "personnel_expense_percentage_rcl": 49.6
+  },
+  "per_capita_breakdown": {
+    "health": 1408.0,
+    "education": 1348.9,
+    "urbanism": 604.8,
+    "administration": 498.0,
+    "legislative": 120.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4342.8,
+      "health_per_capita": 1098.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4664.5,
+      "health_per_capita": 1182.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4986.2,
+      "health_per_capita": 1267.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5254.3,
+      "health_per_capita": 1351.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5361.5,
+      "health_per_capita": 1408.0
+    }
+  ]
+}

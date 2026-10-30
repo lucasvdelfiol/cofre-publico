@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3301207",
+  "city_name": "Carmo",
+  "uf": "RJ",
+  "population": 17198,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 95398457.62,
+    "total_expense": 93276315.61,
+    "own_revenue_percentage": 20.0,
+    "transfers_revenue_percentage": 80.0,
+    "personnel_expense_percentage_rcl": 52.9
+  },
+  "per_capita_breakdown": {
+    "health": 1368.8,
+    "education": 1684.9,
+    "urbanism": 744.3,
+    "administration": 341.8,
+    "legislative": 115.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4393.2,
+      "health_per_capita": 1067.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4718.6,
+      "health_per_capita": 1149.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5044.0,
+      "health_per_capita": 1231.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5315.2,
+      "health_per_capita": 1314.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5423.7,
+      "health_per_capita": 1368.8
+    }
+  ]
+}

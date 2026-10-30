@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2302107",
+  "city_name": "Baturité",
+  "uf": "CE",
+  "population": 35218,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 157658622.5,
+    "total_expense": 151926002.69,
+    "own_revenue_percentage": 31.8,
+    "transfers_revenue_percentage": 68.2,
+    "personnel_expense_percentage_rcl": 49.7
+  },
+  "per_capita_breakdown": {
+    "health": 1154.5,
+    "education": 1114.2,
+    "urbanism": 531.3,
+    "administration": 384.1,
+    "legislative": 113.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3494.3,
+      "health_per_capita": 900.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3753.1,
+      "health_per_capita": 969.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4011.9,
+      "health_per_capita": 1039.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4227.6,
+      "health_per_capita": 1108.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4313.9,
+      "health_per_capita": 1154.5
+    }
+  ]
+}

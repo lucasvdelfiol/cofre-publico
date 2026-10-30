@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4124509",
+  "city_name": "Santo Inácio",
+  "uf": "PR",
+  "population": 6181,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 29077004.45,
+    "total_expense": 29090332.42,
+    "own_revenue_percentage": 17.3,
+    "transfers_revenue_percentage": 82.7,
+    "personnel_expense_percentage_rcl": 51.3
+  },
+  "per_capita_breakdown": {
+    "health": 1130.1,
+    "education": 1194.3,
+    "urbanism": 471.0,
+    "administration": 507.4,
+    "legislative": 125.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3812.2,
+      "health_per_capita": 881.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4094.6,
+      "health_per_capita": 949.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4377.0,
+      "health_per_capita": 1017.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4612.3,
+      "health_per_capita": 1084.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4706.4,
+      "health_per_capita": 1130.1
+    }
+  ]
+}

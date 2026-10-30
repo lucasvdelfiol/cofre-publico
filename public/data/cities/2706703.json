@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2706703",
+  "city_name": "Penedo",
+  "uf": "AL",
+  "population": 58650,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 268373961.27,
+    "total_expense": 270959336.36,
+    "own_revenue_percentage": 41.4,
+    "transfers_revenue_percentage": 58.6,
+    "personnel_expense_percentage_rcl": 52.2
+  },
+  "per_capita_breakdown": {
+    "health": 991.0,
+    "education": 1374.1,
+    "urbanism": 505.3,
+    "administration": 544.4,
+    "legislative": 120.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3742.1,
+      "health_per_capita": 773.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4019.3,
+      "health_per_capita": 832.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4296.5,
+      "health_per_capita": 891.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4527.5,
+      "health_per_capita": 951.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4619.9,
+      "health_per_capita": 991.0
+    }
+  ]
+}

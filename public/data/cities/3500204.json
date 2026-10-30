@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3500204",
+  "city_name": "Adolfo",
+  "uf": "SP",
+  "population": 4351,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 18991896.86,
+    "total_expense": 18804117.66,
+    "own_revenue_percentage": 14.2,
+    "transfers_revenue_percentage": 85.8,
+    "personnel_expense_percentage_rcl": 47.4
+  },
+  "per_capita_breakdown": {
+    "health": 1182.3,
+    "education": 1323.9,
+    "urbanism": 467.1,
+    "administration": 494.6,
+    "legislative": 128.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3500.7,
+      "health_per_capita": 922.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3760.0,
+      "health_per_capita": 993.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4019.3,
+      "health_per_capita": 1064.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4235.4,
+      "health_per_capita": 1135.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4321.8,
+      "health_per_capita": 1182.3
+    }
+  ]
+}

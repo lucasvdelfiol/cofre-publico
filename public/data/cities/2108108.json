@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2108108",
+  "city_name": "Paulo Ramos",
+  "uf": "MA",
+  "population": 20341,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 94375589.66,
+    "total_expense": 91886553.0,
+    "own_revenue_percentage": 29.0,
+    "transfers_revenue_percentage": 71.0,
+    "personnel_expense_percentage_rcl": 47.4
+  },
+  "per_capita_breakdown": {
+    "health": 1156.1,
+    "education": 1217.6,
+    "urbanism": 405.3,
+    "administration": 511.7,
+    "legislative": 100.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3659.0,
+      "health_per_capita": 901.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3930.1,
+      "health_per_capita": 971.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4201.1,
+      "health_per_capita": 1040.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4427.0,
+      "health_per_capita": 1109.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4517.3,
+      "health_per_capita": 1156.1
+    }
+  ]
+}

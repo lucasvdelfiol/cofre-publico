@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3518305",
+  "city_name": "Guararema",
+  "uf": "SP",
+  "population": 31236,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 154006246.61,
+    "total_expense": 149586027.92,
+    "own_revenue_percentage": 25.0,
+    "transfers_revenue_percentage": 75.0,
+    "personnel_expense_percentage_rcl": 51.9
+  },
+  "per_capita_breakdown": {
+    "health": 1335.3,
+    "education": 1384.9,
+    "urbanism": 571.0,
+    "administration": 424.9,
+    "legislative": 138.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3879.0,
+      "health_per_capita": 1041.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4166.3,
+      "health_per_capita": 1121.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4453.7,
+      "health_per_capita": 1201.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4693.1,
+      "health_per_capita": 1281.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4788.9,
+      "health_per_capita": 1335.3
+    }
+  ]
+}

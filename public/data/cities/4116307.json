@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4116307",
+  "city_name": "Munhoz de Melo",
+  "uf": "PR",
+  "population": 3951,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 20349310.33,
+    "total_expense": 19742819.82,
+    "own_revenue_percentage": 16.0,
+    "transfers_revenue_percentage": 84.0,
+    "personnel_expense_percentage_rcl": 51.7
+  },
+  "per_capita_breakdown": {
+    "health": 1113.9,
+    "education": 1206.3,
+    "urbanism": 687.7,
+    "administration": 381.7,
+    "legislative": 145.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4047.5,
+      "health_per_capita": 868.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4347.3,
+      "health_per_capita": 935.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4647.1,
+      "health_per_capita": 1002.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4897.0,
+      "health_per_capita": 1069.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4996.9,
+      "health_per_capita": 1113.9
+    }
+  ]
+}

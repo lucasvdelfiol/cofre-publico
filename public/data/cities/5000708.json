@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5000708",
+  "city_name": "Anastácio",
+  "uf": "MS",
+  "population": 24114,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 115454920.26,
+    "total_expense": 113868162.37,
+    "own_revenue_percentage": 23.9,
+    "transfers_revenue_percentage": 76.1,
+    "personnel_expense_percentage_rcl": 47.2
+  },
+  "per_capita_breakdown": {
+    "health": 1079.4,
+    "education": 1506.7,
+    "urbanism": 428.2,
+    "administration": 440.4,
+    "legislative": 91.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3824.9,
+      "health_per_capita": 841.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4108.2,
+      "health_per_capita": 906.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4391.6,
+      "health_per_capita": 971.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4627.7,
+      "health_per_capita": 1036.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4722.1,
+      "health_per_capita": 1079.4
+    }
+  ]
+}

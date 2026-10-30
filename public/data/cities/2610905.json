@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2610905",
+  "city_name": "Pesqueira",
+  "uf": "PE",
+  "population": 62722,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 275104023.82,
+    "total_expense": 266558285.7,
+    "own_revenue_percentage": 38.1,
+    "transfers_revenue_percentage": 61.9,
+    "personnel_expense_percentage_rcl": 52.4
+  },
+  "per_capita_breakdown": {
+    "health": 871.9,
+    "education": 1270.4,
+    "urbanism": 589.3,
+    "administration": 356.4,
+    "legislative": 85.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3442.3,
+      "health_per_capita": 680.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3697.3,
+      "health_per_capita": 732.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3952.3,
+      "health_per_capita": 784.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4164.8,
+      "health_per_capita": 837.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4249.8,
+      "health_per_capita": 871.9
+    }
+  ]
+}

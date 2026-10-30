@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3204906",
+  "city_name": "São Mateus",
+  "uf": "ES",
+  "population": 123752,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 576073414.71,
+    "total_expense": 578146311.47,
+    "own_revenue_percentage": 51.2,
+    "transfers_revenue_percentage": 48.8,
+    "personnel_expense_percentage_rcl": 44.1
+  },
+  "per_capita_breakdown": {
+    "health": 1292.6,
+    "education": 1420.4,
+    "urbanism": 590.9,
+    "administration": 548.5,
+    "legislative": 114.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3784.2,
+      "health_per_capita": 1008.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4064.5,
+      "health_per_capita": 1085.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4344.8,
+      "health_per_capita": 1163.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4578.4,
+      "health_per_capita": 1240.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4671.8,
+      "health_per_capita": 1292.6
+    }
+  ]
+}

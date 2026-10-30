@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4302501",
+  "city_name": "Bossoroca",
+  "uf": "RS",
+  "population": 5890,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 34147457.84,
+    "total_expense": 32876548.88,
+    "own_revenue_percentage": 12.9,
+    "transfers_revenue_percentage": 87.1,
+    "personnel_expense_percentage_rcl": 52.3
+  },
+  "per_capita_breakdown": {
+    "health": 1413.0,
+    "education": 1547.8,
+    "urbanism": 654.3,
+    "administration": 486.8,
+    "legislative": 98.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4521.3,
+      "health_per_capita": 1102.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4856.2,
+      "health_per_capita": 1186.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5191.1,
+      "health_per_capita": 1271.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5470.2,
+      "health_per_capita": 1356.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5581.8,
+      "health_per_capita": 1413.0
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4311700",
+  "city_name": "Machadinho",
+  "uf": "RS",
+  "population": 5735,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 24946534.8,
+    "total_expense": 25164605.69,
+    "own_revenue_percentage": 21.6,
+    "transfers_revenue_percentage": 78.4,
+    "personnel_expense_percentage_rcl": 51.6
+  },
+  "per_capita_breakdown": {
+    "health": 925.9,
+    "education": 1181.9,
+    "urbanism": 505.1,
+    "administration": 329.6,
+    "legislative": 146.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3554.2,
+      "health_per_capita": 722.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3817.5,
+      "health_per_capita": 777.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4080.7,
+      "health_per_capita": 833.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4300.1,
+      "health_per_capita": 888.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4387.9,
+      "health_per_capita": 925.9
+    }
+  ]
+}

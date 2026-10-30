@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4204608",
+  "city_name": "Criciúma",
+  "uf": "SC",
+  "population": 214493,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 1231137932.52,
+    "total_expense": 1212483568.49,
+    "own_revenue_percentage": 44.3,
+    "transfers_revenue_percentage": 55.7,
+    "personnel_expense_percentage_rcl": 51.4
+  },
+  "per_capita_breakdown": {
+    "health": 1535.6,
+    "education": 1432.1,
+    "urbanism": 617.0,
+    "administration": 357.4,
+    "legislative": 139.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4578.8,
+      "health_per_capita": 1197.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4917.9,
+      "health_per_capita": 1289.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5257.1,
+      "health_per_capita": 1382.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5539.7,
+      "health_per_capita": 1474.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5652.8,
+      "health_per_capita": 1535.6
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4310405",
+  "city_name": "Independência",
+  "uf": "RS",
+  "population": 6427,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 34971308.39,
+    "total_expense": 34376652.94,
+    "own_revenue_percentage": 9.1,
+    "transfers_revenue_percentage": 90.9,
+    "personnel_expense_percentage_rcl": 49.1
+  },
+  "per_capita_breakdown": {
+    "health": 1381.0,
+    "education": 1597.0,
+    "urbanism": 619.4,
+    "administration": 612.9,
+    "legislative": 182.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4332.5,
+      "health_per_capita": 1077.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4653.5,
+      "health_per_capita": 1160.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4974.4,
+      "health_per_capita": 1242.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5241.8,
+      "health_per_capita": 1325.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5348.8,
+      "health_per_capita": 1381.0
+    }
+  ]
+}

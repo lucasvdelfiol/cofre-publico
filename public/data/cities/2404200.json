@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2404200",
+  "city_name": "Goianinha",
+  "uf": "RN",
+  "population": 26741,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 122882796.94,
+    "total_expense": 122004629.85,
+    "own_revenue_percentage": 20.9,
+    "transfers_revenue_percentage": 79.1,
+    "personnel_expense_percentage_rcl": 52.2
+  },
+  "per_capita_breakdown": {
+    "health": 1021.5,
+    "education": 1245.5,
+    "urbanism": 413.1,
+    "administration": 315.8,
+    "legislative": 118.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3695.6,
+      "health_per_capita": 796.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3969.4,
+      "health_per_capita": 858.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4243.1,
+      "health_per_capita": 919.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4471.2,
+      "health_per_capita": 980.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4562.5,
+      "health_per_capita": 1021.5
+    }
+  ]
+}

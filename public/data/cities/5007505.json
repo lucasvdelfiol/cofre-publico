@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5007505",
+  "city_name": "Rochedo",
+  "uf": "MS",
+  "population": 5199,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 28291350.38,
+    "total_expense": 27498955.32,
+    "own_revenue_percentage": 8.8,
+    "transfers_revenue_percentage": 91.2,
+    "personnel_expense_percentage_rcl": 50.2
+  },
+  "per_capita_breakdown": {
+    "health": 1333.4,
+    "education": 1638.3,
+    "urbanism": 678.0,
+    "administration": 506.1,
+    "legislative": 104.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4284.3,
+      "health_per_capita": 1040.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4601.7,
+      "health_per_capita": 1120.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4919.0,
+      "health_per_capita": 1200.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5183.5,
+      "health_per_capita": 1280.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5289.3,
+      "health_per_capita": 1333.4
+    }
+  ]
+}

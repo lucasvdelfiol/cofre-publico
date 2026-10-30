@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2908309",
+  "city_name": "Conceição do Almeida",
+  "uf": "BA",
+  "population": 15794,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 73732557.57,
+    "total_expense": 73156440.92,
+    "own_revenue_percentage": 15.4,
+    "transfers_revenue_percentage": 84.6,
+    "personnel_expense_percentage_rcl": 47.1
+  },
+  "per_capita_breakdown": {
+    "health": 951.4,
+    "education": 1236.0,
+    "urbanism": 485.4,
+    "administration": 519.7,
+    "legislative": 84.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3751.8,
+      "health_per_capita": 742.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4029.8,
+      "health_per_capita": 799.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4307.7,
+      "health_per_capita": 856.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4539.3,
+      "health_per_capita": 913.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4631.9,
+      "health_per_capita": 951.4
+    }
+  ]
+}

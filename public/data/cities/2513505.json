@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2513505",
+  "city_name": "Santana de Mangueira",
+  "uf": "PB",
+  "population": 5010,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 24154013.1,
+    "total_expense": 23598460.91,
+    "own_revenue_percentage": 14.9,
+    "transfers_revenue_percentage": 85.1,
+    "personnel_expense_percentage_rcl": 51.8
+  },
+  "per_capita_breakdown": {
+    "health": 1028.6,
+    "education": 1262.5,
+    "urbanism": 454.9,
+    "administration": 323.2,
+    "legislative": 125.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3815.3,
+      "health_per_capita": 802.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4098.0,
+      "health_per_capita": 864.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4380.6,
+      "health_per_capita": 925.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4616.1,
+      "health_per_capita": 987.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4710.3,
+      "health_per_capita": 1028.6
+    }
+  ]
+}

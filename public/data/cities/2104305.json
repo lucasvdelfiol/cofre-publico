@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2104305",
+  "city_name": "Godofredo Viana",
+  "uf": "MA",
+  "population": 10186,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 45954817.43,
+    "total_expense": 44658029.81,
+    "own_revenue_percentage": 15.2,
+    "transfers_revenue_percentage": 84.8,
+    "personnel_expense_percentage_rcl": 53.5
+  },
+  "per_capita_breakdown": {
+    "health": 1039.7,
+    "education": 1198.5,
+    "urbanism": 385.1,
+    "administration": 453.0,
+    "legislative": 101.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3551.3,
+      "health_per_capita": 811.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3814.3,
+      "health_per_capita": 873.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4077.4,
+      "health_per_capita": 935.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4296.6,
+      "health_per_capita": 998.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4384.3,
+      "health_per_capita": 1039.7
+    }
+  ]
+}

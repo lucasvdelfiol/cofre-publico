@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3515004",
+  "city_name": "Embu das Artes",
+  "uf": "SP",
+  "population": 250691,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 1352659203.14,
+    "total_expense": 1334741404.12,
+    "own_revenue_percentage": 49.8,
+    "transfers_revenue_percentage": 50.2,
+    "personnel_expense_percentage_rcl": 50.3
+  },
+  "per_capita_breakdown": {
+    "health": 1273.1,
+    "education": 1351.7,
+    "urbanism": 827.4,
+    "administration": 484.3,
+    "legislative": 100.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4312.6,
+      "health_per_capita": 993.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4632.1,
+      "health_per_capita": 1069.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4951.5,
+      "health_per_capita": 1145.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5217.7,
+      "health_per_capita": 1222.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5324.2,
+      "health_per_capita": 1273.1
+    }
+  ]
+}

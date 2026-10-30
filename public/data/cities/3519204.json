@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3519204",
+  "city_name": "Iacri",
+  "uf": "SP",
+  "population": 6131,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 29495635.66,
+    "total_expense": 29213562.61,
+    "own_revenue_percentage": 21.1,
+    "transfers_revenue_percentage": 78.9,
+    "personnel_expense_percentage_rcl": 46.3
+  },
+  "per_capita_breakdown": {
+    "health": 1320.2,
+    "education": 1303.1,
+    "urbanism": 576.6,
+    "administration": 307.7,
+    "legislative": 157.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3859.6,
+      "health_per_capita": 1029.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4145.5,
+      "health_per_capita": 1109.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4431.4,
+      "health_per_capita": 1188.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4669.6,
+      "health_per_capita": 1267.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4764.9,
+      "health_per_capita": 1320.2
+    }
+  ]
+}

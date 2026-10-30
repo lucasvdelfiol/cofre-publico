@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2512200",
+  "city_name": "Prata",
+  "uf": "PB",
+  "population": 3915,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 20476321.48,
+    "total_expense": 20415672.01,
+    "own_revenue_percentage": 19.6,
+    "transfers_revenue_percentage": 80.4,
+    "personnel_expense_percentage_rcl": 45.9
+  },
+  "per_capita_breakdown": {
+    "health": 1242.4,
+    "education": 1581.3,
+    "urbanism": 441.4,
+    "administration": 482.3,
+    "legislative": 146.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4223.9,
+      "health_per_capita": 969.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4536.8,
+      "health_per_capita": 1043.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4849.7,
+      "health_per_capita": 1118.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5110.4,
+      "health_per_capita": 1192.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5214.7,
+      "health_per_capita": 1242.4
+    }
+  ]
+}

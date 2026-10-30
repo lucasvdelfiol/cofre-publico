@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2921203",
+  "city_name": "Miguel Calmon",
+  "uf": "BA",
+  "population": 24661,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 108971818.35,
+    "total_expense": 108545663.38,
+    "own_revenue_percentage": 27.8,
+    "transfers_revenue_percentage": 72.2,
+    "personnel_expense_percentage_rcl": 52.6
+  },
+  "per_capita_breakdown": {
+    "health": 883.0,
+    "education": 1383.9,
+    "urbanism": 703.0,
+    "administration": 444.1,
+    "legislative": 101.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3565.2,
+      "health_per_capita": 688.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3829.3,
+      "health_per_capita": 741.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4093.4,
+      "health_per_capita": 794.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4313.5,
+      "health_per_capita": 847.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4401.5,
+      "health_per_capita": 883.0
+    }
+  ]
+}

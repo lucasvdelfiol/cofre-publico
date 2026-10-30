@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1718899",
+  "city_name": "Santa Rita do Tocantins",
+  "uf": "TO",
+  "population": 2219,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 12055059.66,
+    "total_expense": 11961986.68,
+    "own_revenue_percentage": 12.0,
+    "transfers_revenue_percentage": 88.0,
+    "personnel_expense_percentage_rcl": 46.9
+  },
+  "per_capita_breakdown": {
+    "health": 1421.6,
+    "education": 1459.8,
+    "urbanism": 480.0,
+    "administration": 455.1,
+    "legislative": 173.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4366.5,
+      "health_per_capita": 1108.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4689.9,
+      "health_per_capita": 1194.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5013.4,
+      "health_per_capita": 1279.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5282.9,
+      "health_per_capita": 1364.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5390.7,
+      "health_per_capita": 1421.6
+    }
+  ]
+}

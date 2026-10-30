@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3144607",
+  "city_name": "Nepomuceno",
+  "uf": "MG",
+  "population": 25018,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 118331804.61,
+    "total_expense": 115469693.26,
+    "own_revenue_percentage": 24.5,
+    "transfers_revenue_percentage": 75.5,
+    "personnel_expense_percentage_rcl": 52.2
+  },
+  "per_capita_breakdown": {
+    "health": 1100.8,
+    "education": 1122.7,
+    "urbanism": 579.9,
+    "administration": 364.3,
+    "legislative": 154.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3738.6,
+      "health_per_capita": 858.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4015.5,
+      "health_per_capita": 924.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4292.4,
+      "health_per_capita": 990.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4523.2,
+      "health_per_capita": 1056.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4615.5,
+      "health_per_capita": 1100.8
+    }
+  ]
+}

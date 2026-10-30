@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2919900",
+  "city_name": "Macururé",
+  "uf": "BA",
+  "population": 7256,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 38344959.47,
+    "total_expense": 38338344.44,
+    "own_revenue_percentage": 17.1,
+    "transfers_revenue_percentage": 82.9,
+    "personnel_expense_percentage_rcl": 53.8
+  },
+  "per_capita_breakdown": {
+    "health": 1073.5,
+    "education": 1437.5,
+    "urbanism": 627.4,
+    "administration": 625.3,
+    "legislative": 157.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4279.8,
+      "health_per_capita": 837.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4596.8,
+      "health_per_capita": 901.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4913.8,
+      "health_per_capita": 966.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5178.0,
+      "health_per_capita": 1030.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5283.7,
+      "health_per_capita": 1073.5
+    }
+  ]
+}

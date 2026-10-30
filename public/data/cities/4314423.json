@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4314423",
+  "city_name": "Picada Café",
+  "uf": "RS",
+  "population": 5351,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 27141720.26,
+    "total_expense": 26321867.75,
+    "own_revenue_percentage": 13.9,
+    "transfers_revenue_percentage": 86.1,
+    "personnel_expense_percentage_rcl": 49.3
+  },
+  "per_capita_breakdown": {
+    "health": 1363.4,
+    "education": 1318.3,
+    "urbanism": 784.6,
+    "administration": 423.6,
+    "legislative": 114.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3984.5,
+      "health_per_capita": 1063.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4279.6,
+      "health_per_capita": 1145.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4574.8,
+      "health_per_capita": 1227.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4820.7,
+      "health_per_capita": 1308.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4919.1,
+      "health_per_capita": 1363.4
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3304003",
+  "city_name": "Piraí",
+  "uf": "RJ",
+  "population": 27474,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 130048607.01,
+    "total_expense": 129181361.25,
+    "own_revenue_percentage": 31.2,
+    "transfers_revenue_percentage": 68.8,
+    "personnel_expense_percentage_rcl": 49.9
+  },
+  "per_capita_breakdown": {
+    "health": 944.2,
+    "education": 1359.8,
+    "urbanism": 511.4,
+    "administration": 546.9,
+    "legislative": 132.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3808.5,
+      "health_per_capita": 736.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4090.7,
+      "health_per_capita": 793.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4372.8,
+      "health_per_capita": 849.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4607.9,
+      "health_per_capita": 906.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4701.9,
+      "health_per_capita": 944.2
+    }
+  ]
+}

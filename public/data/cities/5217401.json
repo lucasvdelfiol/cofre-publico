@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5217401",
+  "city_name": "Pires do Rio",
+  "uf": "GO",
+  "population": 32373,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 144035970.85,
+    "total_expense": 139972000.54,
+    "own_revenue_percentage": 27.7,
+    "transfers_revenue_percentage": 72.3,
+    "personnel_expense_percentage_rcl": 53.1
+  },
+  "per_capita_breakdown": {
+    "health": 1079.0,
+    "education": 1223.0,
+    "urbanism": 574.0,
+    "administration": 471.2,
+    "legislative": 131.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3502.2,
+      "health_per_capita": 841.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3761.6,
+      "health_per_capita": 906.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4021.0,
+      "health_per_capita": 971.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4237.2,
+      "health_per_capita": 1035.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4323.7,
+      "health_per_capita": 1079.0
+    }
+  ]
+}

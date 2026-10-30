@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4301073",
+  "city_name": "Arroio do Padre",
+  "uf": "RS",
+  "population": 2599,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 13084754.81,
+    "total_expense": 12825286.87,
+    "own_revenue_percentage": 21.8,
+    "transfers_revenue_percentage": 78.2,
+    "personnel_expense_percentage_rcl": 46.5
+  },
+  "per_capita_breakdown": {
+    "health": 1002.4,
+    "education": 1465.1,
+    "urbanism": 542.7,
+    "administration": 474.6,
+    "legislative": 169.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3997.1,
+      "health_per_capita": 781.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4293.2,
+      "health_per_capita": 842.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4589.3,
+      "health_per_capita": 902.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4836.0,
+      "health_per_capita": 962.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4934.7,
+      "health_per_capita": 1002.4
+    }
+  ]
+}

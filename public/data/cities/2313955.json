@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2313955",
+  "city_name": "Varjota",
+  "uf": "CE",
+  "population": 18105,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 85764334.46,
+    "total_expense": 85278282.78,
+    "own_revenue_percentage": 8.5,
+    "transfers_revenue_percentage": 91.5,
+    "personnel_expense_percentage_rcl": 47.4
+  },
+  "per_capita_breakdown": {
+    "health": 1086.6,
+    "education": 1347.1,
+    "urbanism": 571.8,
+    "administration": 410.5,
+    "legislative": 92.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3815.3,
+      "health_per_capita": 847.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4097.9,
+      "health_per_capita": 912.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4380.5,
+      "health_per_capita": 977.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4616.0,
+      "health_per_capita": 1043.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4710.2,
+      "health_per_capita": 1086.6
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4212007",
+  "city_name": "Palma Sola",
+  "uf": "SC",
+  "population": 7605,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 42474133.14,
+    "total_expense": 41327369.89,
+    "own_revenue_percentage": 11.1,
+    "transfers_revenue_percentage": 88.9,
+    "personnel_expense_percentage_rcl": 48.1
+  },
+  "per_capita_breakdown": {
+    "health": 1450.3,
+    "education": 1651.3,
+    "urbanism": 706.2,
+    "administration": 545.2,
+    "legislative": 108.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4401.7,
+      "health_per_capita": 1131.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4727.8,
+      "health_per_capita": 1218.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5053.8,
+      "health_per_capita": 1305.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5325.5,
+      "health_per_capita": 1392.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5434.2,
+      "health_per_capita": 1450.3
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2209609",
+  "city_name": "São Félix do Piauí",
+  "uf": "PI",
+  "population": 2842,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 15305111.97,
+    "total_expense": 14807212.97,
+    "own_revenue_percentage": 13.0,
+    "transfers_revenue_percentage": 87.0,
+    "personnel_expense_percentage_rcl": 46.0
+  },
+  "per_capita_breakdown": {
+    "health": 1056.2,
+    "education": 1302.1,
+    "urbanism": 459.3,
+    "administration": 347.0,
+    "legislative": 88.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4220.2,
+      "health_per_capita": 823.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4532.8,
+      "health_per_capita": 887.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4845.4,
+      "health_per_capita": 950.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5105.9,
+      "health_per_capita": 1014.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5210.1,
+      "health_per_capita": 1056.2
+    }
+  ]
+}

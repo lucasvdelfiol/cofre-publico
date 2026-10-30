@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3165107",
+  "city_name": "São Tomás de Aquino",
+  "uf": "MG",
+  "population": 6740,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 37817565.19,
+    "total_expense": 36544563.31,
+    "own_revenue_percentage": 8.2,
+    "transfers_revenue_percentage": 91.8,
+    "personnel_expense_percentage_rcl": 53.0
+  },
+  "per_capita_breakdown": {
+    "health": 1476.8,
+    "education": 1520.5,
+    "urbanism": 565.8,
+    "administration": 610.3,
+    "legislative": 114.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4391.8,
+      "health_per_capita": 1151.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4717.1,
+      "health_per_capita": 1240.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5042.5,
+      "health_per_capita": 1329.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5313.6,
+      "health_per_capita": 1417.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5422.0,
+      "health_per_capita": 1476.8
+    }
+  ]
+}

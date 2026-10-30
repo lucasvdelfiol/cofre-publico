@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2909505",
+  "city_name": "Cravolândia",
+  "uf": "BA",
+  "population": 4415,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 22624071.39,
+    "total_expense": 22037799.41,
+    "own_revenue_percentage": 21.0,
+    "transfers_revenue_percentage": 79.0,
+    "personnel_expense_percentage_rcl": 50.2
+  },
+  "per_capita_breakdown": {
+    "health": 1127.0,
+    "education": 1320.3,
+    "urbanism": 614.9,
+    "administration": 480.8,
+    "legislative": 146.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4043.2,
+      "health_per_capita": 879.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4342.7,
+      "health_per_capita": 946.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4642.2,
+      "health_per_capita": 1014.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4891.8,
+      "health_per_capita": 1081.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4991.6,
+      "health_per_capita": 1127.0
+    }
+  ]
+}

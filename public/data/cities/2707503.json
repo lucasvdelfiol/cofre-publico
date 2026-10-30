@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2707503",
+  "city_name": "Porto Real do Colégio",
+  "uf": "AL",
+  "population": 20082,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 90770997.18,
+    "total_expense": 91598121.73,
+    "own_revenue_percentage": 23.3,
+    "transfers_revenue_percentage": 76.7,
+    "personnel_expense_percentage_rcl": 46.8
+  },
+  "per_capita_breakdown": {
+    "health": 1191.7,
+    "education": 1305.4,
+    "urbanism": 503.5,
+    "administration": 314.8,
+    "legislative": 120.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3694.6,
+      "health_per_capita": 929.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3968.2,
+      "health_per_capita": 1001.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4241.9,
+      "health_per_capita": 1072.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4470.0,
+      "health_per_capita": 1144.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4561.2,
+      "health_per_capita": 1191.7
+    }
+  ]
+}

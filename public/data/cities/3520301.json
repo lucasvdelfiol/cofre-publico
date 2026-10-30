@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3520301",
+  "city_name": "Iguape",
+  "uf": "SP",
+  "population": 29115,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 128670036.3,
+    "total_expense": 125329718.3,
+    "own_revenue_percentage": 25.0,
+    "transfers_revenue_percentage": 75.0,
+    "personnel_expense_percentage_rcl": 50.8
+  },
+  "per_capita_breakdown": {
+    "health": 1183.8,
+    "education": 1350.6,
+    "urbanism": 464.0,
+    "administration": 258.6,
+    "legislative": 105.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3486.7,
+      "health_per_capita": 923.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3745.0,
+      "health_per_capita": 994.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4003.3,
+      "health_per_capita": 1065.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4218.5,
+      "health_per_capita": 1136.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4304.6,
+      "health_per_capita": 1183.8
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2907301",
+  "city_name": "Castro Alves",
+  "uf": "BA",
+  "population": 24712,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 119872444.64,
+    "total_expense": 115810376.91,
+    "own_revenue_percentage": 28.4,
+    "transfers_revenue_percentage": 71.6,
+    "personnel_expense_percentage_rcl": 46.5
+  },
+  "per_capita_breakdown": {
+    "health": 1209.2,
+    "education": 1393.9,
+    "urbanism": 570.2,
+    "administration": 540.7,
+    "legislative": 127.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3796.0,
+      "health_per_capita": 943.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4077.2,
+      "health_per_capita": 1015.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4358.4,
+      "health_per_capita": 1088.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4592.7,
+      "health_per_capita": 1160.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4686.4,
+      "health_per_capita": 1209.2
+    }
+  ]
+}

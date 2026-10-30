@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5106752",
+  "city_name": "Pontes e Lacerda",
+  "uf": "MT",
+  "population": 52018,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 267958406.31,
+    "total_expense": 259839218.49,
+    "own_revenue_percentage": 30.2,
+    "transfers_revenue_percentage": 69.8,
+    "personnel_expense_percentage_rcl": 49.4
+  },
+  "per_capita_breakdown": {
+    "health": 1121.1,
+    "education": 1553.3,
+    "urbanism": 489.3,
+    "administration": 456.7,
+    "legislative": 154.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4046.1,
+      "health_per_capita": 874.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4345.8,
+      "health_per_capita": 941.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4645.5,
+      "health_per_capita": 1009.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4895.3,
+      "health_per_capita": 1076.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4995.2,
+      "health_per_capita": 1121.1
+    }
+  ]
+}

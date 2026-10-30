@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3551405",
+  "city_name": "Serra Azul",
+  "uf": "SP",
+  "population": 12746,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 64894008.03,
+    "total_expense": 65446185.79,
+    "own_revenue_percentage": 16.9,
+    "transfers_revenue_percentage": 83.1,
+    "personnel_expense_percentage_rcl": 50.6
+  },
+  "per_capita_breakdown": {
+    "health": 1294.2,
+    "education": 1464.5,
+    "urbanism": 671.6,
+    "administration": 590.2,
+    "legislative": 145.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4159.0,
+      "health_per_capita": 1009.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4467.1,
+      "health_per_capita": 1087.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4775.2,
+      "health_per_capita": 1164.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5031.9,
+      "health_per_capita": 1242.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5134.6,
+      "health_per_capita": 1294.2
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3157336",
+  "city_name": "Santa Cruz de Minas",
+  "uf": "MG",
+  "population": 8109,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 43237225.42,
+    "total_expense": 42181647.8,
+    "own_revenue_percentage": 10.9,
+    "transfers_revenue_percentage": 89.1,
+    "personnel_expense_percentage_rcl": 45.9
+  },
+  "per_capita_breakdown": {
+    "health": 1415.2,
+    "education": 1513.1,
+    "urbanism": 437.9,
+    "administration": 583.1,
+    "legislative": 169.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4213.5,
+      "health_per_capita": 1103.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4525.6,
+      "health_per_capita": 1188.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4837.7,
+      "health_per_capita": 1273.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5097.8,
+      "health_per_capita": 1358.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5201.8,
+      "health_per_capita": 1415.2
+    }
+  ]
+}

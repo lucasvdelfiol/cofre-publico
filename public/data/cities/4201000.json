@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4201000",
+  "city_name": "Anita Garibaldi",
+  "uf": "SC",
+  "population": 8285,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 37628844.51,
+    "total_expense": 37067022.11,
+    "own_revenue_percentage": 21.4,
+    "transfers_revenue_percentage": 78.6,
+    "personnel_expense_percentage_rcl": 53.4
+  },
+  "per_capita_breakdown": {
+    "health": 924.9,
+    "education": 1080.7,
+    "urbanism": 571.9,
+    "administration": 480.3,
+    "legislative": 132.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3623.9,
+      "health_per_capita": 721.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3892.4,
+      "health_per_capita": 776.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4160.8,
+      "health_per_capita": 832.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4384.5,
+      "health_per_capita": 887.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4474.0,
+      "health_per_capita": 924.9
+    }
+  ]
+}

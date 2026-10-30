@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3155405",
+  "city_name": "Rio Novo",
+  "uf": "MG",
+  "population": 8518,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 39763120.73,
+    "total_expense": 39473770.1,
+    "own_revenue_percentage": 20.3,
+    "transfers_revenue_percentage": 79.7,
+    "personnel_expense_percentage_rcl": 48.1
+  },
+  "per_capita_breakdown": {
+    "health": 975.9,
+    "education": 1466.6,
+    "urbanism": 596.9,
+    "administration": 301.5,
+    "legislative": 71.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3753.7,
+      "health_per_capita": 761.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4031.8,
+      "health_per_capita": 819.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4309.8,
+      "health_per_capita": 878.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4541.5,
+      "health_per_capita": 936.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4634.2,
+      "health_per_capita": 975.9
+    }
+  ]
+}

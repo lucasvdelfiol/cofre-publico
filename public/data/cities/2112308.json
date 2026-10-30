@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2112308",
+  "city_name": "Tuntum",
+  "uf": "MA",
+  "population": 36251,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 160754002.15,
+    "total_expense": 156836170.98,
+    "own_revenue_percentage": 20.9,
+    "transfers_revenue_percentage": 79.1,
+    "personnel_expense_percentage_rcl": 49.7
+  },
+  "per_capita_breakdown": {
+    "health": 938.1,
+    "education": 1058.5,
+    "urbanism": 617.1,
+    "administration": 301.4,
+    "legislative": 145.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3504.4,
+      "health_per_capita": 731.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3764.0,
+      "health_per_capita": 788.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4023.6,
+      "health_per_capita": 844.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4239.9,
+      "health_per_capita": 900.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4326.4,
+      "health_per_capita": 938.1
+    }
+  ]
+}

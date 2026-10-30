@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2503209",
+  "city_name": "Cabedelo",
+  "uf": "PB",
+  "population": 66519,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 318485858.01,
+    "total_expense": 313428618.07,
+    "own_revenue_percentage": 31.5,
+    "transfers_revenue_percentage": 68.5,
+    "personnel_expense_percentage_rcl": 48.4
+  },
+  "per_capita_breakdown": {
+    "health": 974.8,
+    "education": 1333.4,
+    "urbanism": 553.7,
+    "administration": 288.4,
+    "legislative": 160.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3816.6,
+      "health_per_capita": 760.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4099.4,
+      "health_per_capita": 818.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4382.1,
+      "health_per_capita": 877.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4617.7,
+      "health_per_capita": 935.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4711.9,
+      "health_per_capita": 974.8
+    }
+  ]
+}

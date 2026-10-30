@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3115102",
+  "city_name": "Cássia",
+  "uf": "MG",
+  "population": 17155,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 92930241.29,
+    "total_expense": 90119046.81,
+    "own_revenue_percentage": 11.2,
+    "transfers_revenue_percentage": 88.8,
+    "personnel_expense_percentage_rcl": 53.8
+  },
+  "per_capita_breakdown": {
+    "health": 1162.6,
+    "education": 1588.3,
+    "urbanism": 632.4,
+    "administration": 612.9,
+    "legislative": 90.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4255.1,
+      "health_per_capita": 906.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4570.3,
+      "health_per_capita": 976.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4885.5,
+      "health_per_capita": 1046.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5148.1,
+      "health_per_capita": 1116.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5253.2,
+      "health_per_capita": 1162.6
+    }
+  ]
+}

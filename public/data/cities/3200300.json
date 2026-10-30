@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3200300",
+  "city_name": "Alfredo Chaves",
+  "uf": "ES",
+  "population": 13836,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 67567527.81,
+    "total_expense": 65759462.67,
+    "own_revenue_percentage": 10.3,
+    "transfers_revenue_percentage": 89.7,
+    "personnel_expense_percentage_rcl": 51.0
+  },
+  "per_capita_breakdown": {
+    "health": 958.3,
+    "education": 1311.1,
+    "urbanism": 661.0,
+    "administration": 359.2,
+    "legislative": 73.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3849.8,
+      "health_per_capita": 747.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4134.9,
+      "health_per_capita": 805.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4420.1,
+      "health_per_capita": 862.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4657.7,
+      "health_per_capita": 920.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4752.8,
+      "health_per_capita": 958.3
+    }
+  ]
+}

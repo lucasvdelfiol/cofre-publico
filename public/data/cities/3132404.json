@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3132404",
+  "city_name": "Itajubá",
+  "uf": "MG",
+  "population": 93073,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 418235506.45,
+    "total_expense": 407167717.54,
+    "own_revenue_percentage": 32.9,
+    "transfers_revenue_percentage": 67.1,
+    "personnel_expense_percentage_rcl": 51.9
+  },
+  "per_capita_breakdown": {
+    "health": 879.6,
+    "education": 1282.2,
+    "urbanism": 406.0,
+    "administration": 499.2,
+    "legislative": 87.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3543.5,
+      "health_per_capita": 686.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3806.0,
+      "health_per_capita": 738.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4068.5,
+      "health_per_capita": 791.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4287.2,
+      "health_per_capita": 844.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4374.7,
+      "health_per_capita": 879.6
+    }
+  ]
+}

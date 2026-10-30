@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3302908",
+  "city_name": "Miguel Pereira",
+  "uf": "RJ",
+  "population": 26582,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 131531335.21,
+    "total_expense": 129276182.6,
+    "own_revenue_percentage": 21.2,
+    "transfers_revenue_percentage": 78.8,
+    "personnel_expense_percentage_rcl": 49.9
+  },
+  "per_capita_breakdown": {
+    "health": 1097.5,
+    "education": 1224.7,
+    "urbanism": 712.6,
+    "administration": 338.6,
+    "legislative": 168.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3939.3,
+      "health_per_capita": 856.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4231.1,
+      "health_per_capita": 921.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4522.9,
+      "health_per_capita": 987.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4766.0,
+      "health_per_capita": 1053.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4863.3,
+      "health_per_capita": 1097.5
+    }
+  ]
+}

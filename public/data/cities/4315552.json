@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4315552",
+  "city_name": "Rio dos Índios",
+  "uf": "RS",
+  "population": 2835,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 14334668.27,
+    "total_expense": 14220906.41,
+    "own_revenue_percentage": 19.7,
+    "transfers_revenue_percentage": 80.3,
+    "personnel_expense_percentage_rcl": 51.4
+  },
+  "per_capita_breakdown": {
+    "health": 1125.9,
+    "education": 1568.8,
+    "urbanism": 585.3,
+    "administration": 538.7,
+    "legislative": 83.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4063.1,
+      "health_per_capita": 878.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4364.1,
+      "health_per_capita": 945.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4665.1,
+      "health_per_capita": 1013.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4915.9,
+      "health_per_capita": 1080.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5016.2,
+      "health_per_capita": 1125.9
+    }
+  ]
+}

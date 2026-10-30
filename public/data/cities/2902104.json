@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2902104",
+  "city_name": "Araci",
+  "uf": "BA",
+  "population": 48294,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 224986100.4,
+    "total_expense": 220383981.52,
+    "own_revenue_percentage": 18.7,
+    "transfers_revenue_percentage": 81.3,
+    "personnel_expense_percentage_rcl": 52.9
+  },
+  "per_capita_breakdown": {
+    "health": 1048.0,
+    "education": 1240.3,
+    "urbanism": 631.8,
+    "administration": 449.3,
+    "legislative": 97.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3696.4,
+      "health_per_capita": 817.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3970.2,
+      "health_per_capita": 880.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4244.0,
+      "health_per_capita": 943.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4472.1,
+      "health_per_capita": 1006.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4563.4,
+      "health_per_capita": 1048.0
+    }
+  ]
+}

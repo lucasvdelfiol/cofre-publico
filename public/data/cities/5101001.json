@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5101001",
+  "city_name": "Araguaiana",
+  "uf": "MT",
+  "population": 3795,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 17202543.38,
+    "total_expense": 17183260.69,
+    "own_revenue_percentage": 8.8,
+    "transfers_revenue_percentage": 91.2,
+    "personnel_expense_percentage_rcl": 48.4
+  },
+  "per_capita_breakdown": {
+    "health": 1201.7,
+    "education": 1249.9,
+    "urbanism": 695.2,
+    "administration": 373.2,
+    "legislative": 104.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3667.6,
+      "health_per_capita": 937.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3939.3,
+      "health_per_capita": 1009.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4210.9,
+      "health_per_capita": 1081.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4437.3,
+      "health_per_capita": 1153.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4527.9,
+      "health_per_capita": 1201.7
+    }
+  ]
+}

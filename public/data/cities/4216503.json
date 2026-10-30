@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4216503",
+  "city_name": "São Joaquim",
+  "uf": "SC",
+  "population": 25939,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 123969304.54,
+    "total_expense": 120801468.96,
+    "own_revenue_percentage": 24.5,
+    "transfers_revenue_percentage": 75.5,
+    "personnel_expense_percentage_rcl": 48.7
+  },
+  "per_capita_breakdown": {
+    "health": 934.0,
+    "education": 1134.5,
+    "urbanism": 544.7,
+    "administration": 479.9,
+    "legislative": 95.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3772.3,
+      "health_per_capita": 728.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4051.7,
+      "health_per_capita": 784.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4331.1,
+      "health_per_capita": 840.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4564.0,
+      "health_per_capita": 896.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4657.1,
+      "health_per_capita": 934.0
+    }
+  ]
+}

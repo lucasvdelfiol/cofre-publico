@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4107504",
+  "city_name": "Engenheiro Beltrão",
+  "uf": "PR",
+  "population": 12454,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 58882633.96,
+    "total_expense": 57956901.06,
+    "own_revenue_percentage": 20.5,
+    "transfers_revenue_percentage": 79.5,
+    "personnel_expense_percentage_rcl": 53.5
+  },
+  "per_capita_breakdown": {
+    "health": 1034.4,
+    "education": 1127.8,
+    "urbanism": 472.9,
+    "administration": 407.9,
+    "legislative": 105.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3769.5,
+      "health_per_capita": 806.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4048.7,
+      "health_per_capita": 868.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4327.9,
+      "health_per_capita": 931.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4560.6,
+      "health_per_capita": 993.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4653.7,
+      "health_per_capita": 1034.4
+    }
+  ]
+}

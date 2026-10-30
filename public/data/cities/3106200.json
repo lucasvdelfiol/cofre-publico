@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3106200",
+  "city_name": "Belo Horizonte",
+  "uf": "MG",
+  "population": 2315560,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 17800000000.0,
+    "total_expense": 17200000000.0,
+    "own_revenue_percentage": 56.5,
+    "transfers_revenue_percentage": 43.5,
+    "personnel_expense_percentage_rcl": 45.2
+  },
+  "per_capita_breakdown": {
+    "health": 1820.0,
+    "education": 1580.0,
+    "urbanism": 890.0,
+    "administration": 490.0,
+    "legislative": 88.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 6016.7,
+      "health_per_capita": 1419.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 6462.4,
+      "health_per_capita": 1528.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 6908.0,
+      "health_per_capita": 1638.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 7279.4,
+      "health_per_capita": 1747.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 7428.0,
+      "health_per_capita": 1820.0
+    }
+  ]
+}

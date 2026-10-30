@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4213302",
+  "city_name": "Ponte Alta",
+  "uf": "SC",
+  "population": 4437,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 23990211.93,
+    "total_expense": 23312144.32,
+    "own_revenue_percentage": 13.5,
+    "transfers_revenue_percentage": 86.5,
+    "personnel_expense_percentage_rcl": 51.2
+  },
+  "per_capita_breakdown": {
+    "health": 1312.5,
+    "education": 1562.8,
+    "urbanism": 603.9,
+    "administration": 387.2,
+    "legislative": 135.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4255.7,
+      "health_per_capita": 1023.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4571.0,
+      "health_per_capita": 1102.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4886.2,
+      "health_per_capita": 1181.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5148.9,
+      "health_per_capita": 1260.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5254.0,
+      "health_per_capita": 1312.5
+    }
+  ]
+}

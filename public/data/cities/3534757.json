@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3534757",
+  "city_name": "Ouroeste",
+  "uf": "SP",
+  "population": 10294,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 55542467.51,
+    "total_expense": 54487542.53,
+    "own_revenue_percentage": 12.2,
+    "transfers_revenue_percentage": 87.8,
+    "personnel_expense_percentage_rcl": 48.2
+  },
+  "per_capita_breakdown": {
+    "health": 1069.1,
+    "education": 1473.6,
+    "urbanism": 451.7,
+    "administration": 402.9,
+    "legislative": 157.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4287.4,
+      "health_per_capita": 833.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4605.0,
+      "health_per_capita": 898.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4922.6,
+      "health_per_capita": 962.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5187.2,
+      "health_per_capita": 1026.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5293.1,
+      "health_per_capita": 1069.1
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3553708",
+  "city_name": "Taquaritinga",
+  "uf": "SP",
+  "population": 52260,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 252818079.85,
+    "total_expense": 247574125.55,
+    "own_revenue_percentage": 32.0,
+    "transfers_revenue_percentage": 68.0,
+    "personnel_expense_percentage_rcl": 52.3
+  },
+  "per_capita_breakdown": {
+    "health": 1235.1,
+    "education": 1482.9,
+    "urbanism": 516.0,
+    "administration": 489.1,
+    "legislative": 89.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3837.3,
+      "health_per_capita": 963.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4121.5,
+      "health_per_capita": 1037.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4405.8,
+      "health_per_capita": 1111.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4642.7,
+      "health_per_capita": 1185.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4737.4,
+      "health_per_capita": 1235.1
+    }
+  ]
+}

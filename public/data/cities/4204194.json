@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4204194",
+  "city_name": "Chapadão do Lageado",
+  "uf": "SC",
+  "population": 2950,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 12712216.01,
+    "total_expense": 12812752.57,
+    "own_revenue_percentage": 10.8,
+    "transfers_revenue_percentage": 89.2,
+    "personnel_expense_percentage_rcl": 49.2
+  },
+  "per_capita_breakdown": {
+    "health": 1204.3,
+    "education": 1284.9,
+    "urbanism": 470.1,
+    "administration": 450.4,
+    "legislative": 75.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3518.1,
+      "health_per_capita": 939.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3778.7,
+      "health_per_capita": 1011.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4039.3,
+      "health_per_capita": 1083.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4256.4,
+      "health_per_capita": 1156.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4343.3,
+      "health_per_capita": 1204.3
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5205109",
+  "city_name": "Catalão",
+  "uf": "GO",
+  "population": 114427,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 567398278.87,
+    "total_expense": 550438449.64,
+    "own_revenue_percentage": 44.4,
+    "transfers_revenue_percentage": 55.6,
+    "personnel_expense_percentage_rcl": 51.9
+  },
+  "per_capita_breakdown": {
+    "health": 1036.7,
+    "education": 1417.3,
+    "urbanism": 726.4,
+    "administration": 394.1,
+    "legislative": 77.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3896.4,
+      "health_per_capita": 808.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4185.0,
+      "health_per_capita": 870.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4473.7,
+      "health_per_capita": 933.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4714.2,
+      "health_per_capita": 995.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4810.4,
+      "health_per_capita": 1036.7
+    }
+  ]
+}

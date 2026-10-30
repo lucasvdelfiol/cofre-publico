@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4305355",
+  "city_name": "Charqueadas",
+  "uf": "RS",
+  "population": 35012,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 171332788.11,
+    "total_expense": 165551219.22,
+    "own_revenue_percentage": 26.2,
+    "transfers_revenue_percentage": 73.8,
+    "personnel_expense_percentage_rcl": 51.5
+  },
+  "per_capita_breakdown": {
+    "health": 1092.6,
+    "education": 1135.3,
+    "urbanism": 734.3,
+    "administration": 542.0,
+    "legislative": 115.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3830.0,
+      "health_per_capita": 852.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4113.7,
+      "health_per_capita": 917.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4397.4,
+      "health_per_capita": 983.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4633.8,
+      "health_per_capita": 1048.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4728.4,
+      "health_per_capita": 1092.6
+    }
+  ]
+}

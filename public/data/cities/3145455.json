@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3145455",
+  "city_name": "Olhos-d'Água",
+  "uf": "MG",
+  "population": 5385,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 28635990.77,
+    "total_expense": 27885060.83,
+    "own_revenue_percentage": 19.3,
+    "transfers_revenue_percentage": 80.7,
+    "personnel_expense_percentage_rcl": 50.0
+  },
+  "per_capita_breakdown": {
+    "health": 1049.5,
+    "education": 1525.8,
+    "urbanism": 683.8,
+    "administration": 592.5,
+    "legislative": 126.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4194.4,
+      "health_per_capita": 818.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4505.1,
+      "health_per_capita": 881.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4815.8,
+      "health_per_capita": 944.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5074.7,
+      "health_per_capita": 1007.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5178.3,
+      "health_per_capita": 1049.5
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2310852",
+  "city_name": "Pindoretama",
+  "uf": "CE",
+  "population": 23391,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 103492152.58,
+    "total_expense": 102522227.74,
+    "own_revenue_percentage": 26.9,
+    "transfers_revenue_percentage": 73.1,
+    "personnel_expense_percentage_rcl": 50.6
+  },
+  "per_capita_breakdown": {
+    "health": 1162.6,
+    "education": 1301.0,
+    "urbanism": 562.7,
+    "administration": 390.8,
+    "legislative": 150.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3550.2,
+      "health_per_capita": 906.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3813.2,
+      "health_per_capita": 976.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4076.2,
+      "health_per_capita": 1046.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4295.3,
+      "health_per_capita": 1116.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4383.0,
+      "health_per_capita": 1162.6
+    }
+  ]
+}

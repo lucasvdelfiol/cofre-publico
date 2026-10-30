@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3554201",
+  "city_name": "Tejupá",
+  "uf": "SP",
+  "population": 4127,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 19419207.78,
+    "total_expense": 19290792.2,
+    "own_revenue_percentage": 11.6,
+    "transfers_revenue_percentage": 88.4,
+    "personnel_expense_percentage_rcl": 50.8
+  },
+  "per_capita_breakdown": {
+    "health": 1037.8,
+    "education": 1324.5,
+    "urbanism": 659.1,
+    "administration": 534.0,
+    "legislative": 146.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3786.2,
+      "health_per_capita": 809.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4066.6,
+      "health_per_capita": 871.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4347.1,
+      "health_per_capita": 934.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4580.8,
+      "health_per_capita": 996.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4674.3,
+      "health_per_capita": 1037.8
+    }
+  ]
+}

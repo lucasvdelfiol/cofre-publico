@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3155801",
+  "city_name": "Rio Pomba",
+  "uf": "MG",
+  "population": 17443,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 91975136.54,
+    "total_expense": 92827934.5,
+    "own_revenue_percentage": 15.5,
+    "transfers_revenue_percentage": 84.5,
+    "personnel_expense_percentage_rcl": 51.9
+  },
+  "per_capita_breakdown": {
+    "health": 1156.4,
+    "education": 1452.2,
+    "urbanism": 605.8,
+    "administration": 503.0,
+    "legislative": 176.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4310.7,
+      "health_per_capita": 902.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4630.0,
+      "health_per_capita": 971.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4949.3,
+      "health_per_capita": 1040.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5215.4,
+      "health_per_capita": 1110.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5321.8,
+      "health_per_capita": 1156.4
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1200401",
+  "city_name": "Rio Branco",
+  "uf": "AC",
+  "population": 364756,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 2062742615.76,
+    "total_expense": 2042282250.57,
+    "own_revenue_percentage": 53.4,
+    "transfers_revenue_percentage": 46.6,
+    "personnel_expense_percentage_rcl": 48.5
+  },
+  "per_capita_breakdown": {
+    "health": 1508.2,
+    "education": 1725.3,
+    "urbanism": 463.2,
+    "administration": 474.9,
+    "legislative": 163.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4535.2,
+      "health_per_capita": 1176.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4871.1,
+      "health_per_capita": 1266.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5207.1,
+      "health_per_capita": 1357.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5487.0,
+      "health_per_capita": 1447.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5599.0,
+      "health_per_capita": 1508.2
+    }
+  ]
+}

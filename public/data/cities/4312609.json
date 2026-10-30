@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4312609",
+  "city_name": "Muçum",
+  "uf": "RS",
+  "population": 4601,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 21526474.49,
+    "total_expense": 21182046.57,
+    "own_revenue_percentage": 13.3,
+    "transfers_revenue_percentage": 86.7,
+    "personnel_expense_percentage_rcl": 46.7
+  },
+  "per_capita_breakdown": {
+    "health": 952.9,
+    "education": 1437.1,
+    "urbanism": 378.4,
+    "administration": 503.6,
+    "legislative": 146.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3729.1,
+      "health_per_capita": 743.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4005.3,
+      "health_per_capita": 800.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4281.5,
+      "health_per_capita": 857.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4511.7,
+      "health_per_capita": 914.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4603.8,
+      "health_per_capita": 952.9
+    }
+  ]
+}

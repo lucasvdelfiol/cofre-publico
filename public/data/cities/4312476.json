@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4312476",
+  "city_name": "Morro Reuter",
+  "uf": "RS",
+  "population": 6029,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 31430330.98,
+    "total_expense": 30791405.81,
+    "own_revenue_percentage": 11.8,
+    "transfers_revenue_percentage": 88.2,
+    "personnel_expense_percentage_rcl": 51.4
+  },
+  "per_capita_breakdown": {
+    "health": 1306.3,
+    "education": 1324.6,
+    "urbanism": 808.4,
+    "administration": 388.9,
+    "legislative": 135.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4136.8,
+      "health_per_capita": 1018.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4443.3,
+      "health_per_capita": 1097.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4749.7,
+      "health_per_capita": 1175.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5005.1,
+      "health_per_capita": 1254.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5107.2,
+      "health_per_capita": 1306.3
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4103057",
+  "city_name": "Boa Vista da Aparecida",
+  "uf": "PR",
+  "population": 7924,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 40879797.19,
+    "total_expense": 39880730.44,
+    "own_revenue_percentage": 12.6,
+    "transfers_revenue_percentage": 87.4,
+    "personnel_expense_percentage_rcl": 52.2
+  },
+  "per_capita_breakdown": {
+    "health": 1300.6,
+    "education": 1352.9,
+    "urbanism": 507.4,
+    "administration": 426.5,
+    "legislative": 127.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4076.6,
+      "health_per_capita": 1014.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4378.6,
+      "health_per_capita": 1092.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4680.6,
+      "health_per_capita": 1170.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4932.2,
+      "health_per_capita": 1248.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5032.9,
+      "health_per_capita": 1300.6
+    }
+  ]
+}

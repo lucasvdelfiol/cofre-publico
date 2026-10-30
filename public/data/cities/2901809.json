@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2901809",
+  "city_name": "Antônio Gonçalves",
+  "uf": "BA",
+  "population": 10862,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 52752613.17,
+    "total_expense": 52709072.0,
+    "own_revenue_percentage": 10.9,
+    "transfers_revenue_percentage": 89.1,
+    "personnel_expense_percentage_rcl": 45.9
+  },
+  "per_capita_breakdown": {
+    "health": 1335.4,
+    "education": 1245.2,
+    "urbanism": 760.6,
+    "administration": 469.8,
+    "legislative": 92.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3930.6,
+      "health_per_capita": 1041.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4221.8,
+      "health_per_capita": 1121.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4512.9,
+      "health_per_capita": 1201.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4755.5,
+      "health_per_capita": 1282.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4852.6,
+      "health_per_capita": 1335.4
+    }
+  ]
+}

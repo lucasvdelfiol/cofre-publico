@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2400604",
+  "city_name": "Almino Afonso",
+  "uf": "RN",
+  "population": 4687,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 23048969.34,
+    "total_expense": 23170168.62,
+    "own_revenue_percentage": 9.1,
+    "transfers_revenue_percentage": 90.9,
+    "personnel_expense_percentage_rcl": 53.1
+  },
+  "per_capita_breakdown": {
+    "health": 1163.2,
+    "education": 1309.3,
+    "urbanism": 664.2,
+    "administration": 487.8,
+    "legislative": 135.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4004.2,
+      "health_per_capita": 907.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4300.8,
+      "health_per_capita": 977.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4597.5,
+      "health_per_capita": 1046.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4844.6,
+      "health_per_capita": 1116.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4943.5,
+      "health_per_capita": 1163.2
+    }
+  ]
+}

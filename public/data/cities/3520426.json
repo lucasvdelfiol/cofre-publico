@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3520426",
+  "city_name": "Ilha Comprida",
+  "uf": "SP",
+  "population": 13419,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 59863799.63,
+    "total_expense": 60286558.92,
+    "own_revenue_percentage": 9.3,
+    "transfers_revenue_percentage": 90.7,
+    "personnel_expense_percentage_rcl": 53.4
+  },
+  "per_capita_breakdown": {
+    "health": 1153.7,
+    "education": 1120.3,
+    "urbanism": 488.9,
+    "administration": 417.3,
+    "legislative": 115.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3639.0,
+      "health_per_capita": 899.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3908.6,
+      "health_per_capita": 969.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4178.1,
+      "health_per_capita": 1038.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4402.7,
+      "health_per_capita": 1107.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4492.6,
+      "health_per_capita": 1153.7
+    }
+  ]
+}

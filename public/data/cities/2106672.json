@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2106672",
+  "city_name": "Milagres do Maranhão",
+  "uf": "MA",
+  "population": 8818,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 41515570.9,
+    "total_expense": 40655347.37,
+    "own_revenue_percentage": 13.6,
+    "transfers_revenue_percentage": 86.4,
+    "personnel_expense_percentage_rcl": 52.9
+  },
+  "per_capita_breakdown": {
+    "health": 1137.2,
+    "education": 1133.1,
+    "urbanism": 496.2,
+    "administration": 464.8,
+    "legislative": 105.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3734.5,
+      "health_per_capita": 887.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4011.1,
+      "health_per_capita": 955.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4287.8,
+      "health_per_capita": 1023.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4518.3,
+      "health_per_capita": 1091.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4610.5,
+      "health_per_capita": 1137.2
+    }
+  ]
+}

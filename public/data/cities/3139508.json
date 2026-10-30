@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3139508",
+  "city_name": "Manhumirim",
+  "uf": "MG",
+  "population": 20613,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 102102218.24,
+    "total_expense": 99043305.82,
+    "own_revenue_percentage": 25.9,
+    "transfers_revenue_percentage": 74.1,
+    "personnel_expense_percentage_rcl": 49.7
+  },
+  "per_capita_breakdown": {
+    "health": 1286.2,
+    "education": 1213.6,
+    "urbanism": 429.1,
+    "administration": 344.7,
+    "legislative": 137.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3892.0,
+      "health_per_capita": 1003.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4180.3,
+      "health_per_capita": 1080.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4468.6,
+      "health_per_capita": 1157.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4708.8,
+      "health_per_capita": 1234.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4804.9,
+      "health_per_capita": 1286.2
+    }
+  ]
+}

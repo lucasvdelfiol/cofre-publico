@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3137502",
+  "city_name": "Lagoa Formosa",
+  "uf": "MG",
+  "population": 18904,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 97459690.4,
+    "total_expense": 94516568.54,
+    "own_revenue_percentage": 21.5,
+    "transfers_revenue_percentage": 78.5,
+    "personnel_expense_percentage_rcl": 49.9
+  },
+  "per_capita_breakdown": {
+    "health": 1138.8,
+    "education": 1373.5,
+    "urbanism": 686.3,
+    "administration": 338.7,
+    "legislative": 90.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4049.8,
+      "health_per_capita": 888.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4349.8,
+      "health_per_capita": 956.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4649.8,
+      "health_per_capita": 1024.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4899.8,
+      "health_per_capita": 1093.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4999.8,
+      "health_per_capita": 1138.8
+    }
+  ]
+}

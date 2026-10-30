@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3301108",
+  "city_name": "Cantagalo",
+  "uf": "RJ",
+  "population": 19390,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 91898648.37,
+    "total_expense": 91273095.79,
+    "own_revenue_percentage": 16.2,
+    "transfers_revenue_percentage": 83.8,
+    "personnel_expense_percentage_rcl": 48.9
+  },
+  "per_capita_breakdown": {
+    "health": 1071.8,
+    "education": 1321.6,
+    "urbanism": 403.4,
+    "administration": 311.3,
+    "legislative": 86.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3812.8,
+      "health_per_capita": 836.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4095.3,
+      "health_per_capita": 900.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4377.7,
+      "health_per_capita": 964.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4613.1,
+      "health_per_capita": 1028.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4707.2,
+      "health_per_capita": 1071.8
+    }
+  ]
+}

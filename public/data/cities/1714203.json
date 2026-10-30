@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1714203",
+  "city_name": "Natividade",
+  "uf": "TO",
+  "population": 8754,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 41270536.84,
+    "total_expense": 41268734.46,
+    "own_revenue_percentage": 8.3,
+    "transfers_revenue_percentage": 91.7,
+    "personnel_expense_percentage_rcl": 49.2
+  },
+  "per_capita_breakdown": {
+    "health": 1210.9,
+    "education": 1277.3,
+    "urbanism": 446.8,
+    "administration": 449.4,
+    "legislative": 108.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3818.6,
+      "health_per_capita": 944.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4101.4,
+      "health_per_capita": 1017.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4384.3,
+      "health_per_capita": 1089.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4620.0,
+      "health_per_capita": 1162.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4714.3,
+      "health_per_capita": 1210.9
+    }
+  ]
+}

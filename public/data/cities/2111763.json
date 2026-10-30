@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2111763",
+  "city_name": "Senador La Rocque",
+  "uf": "MA",
+  "population": 14700,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 80634461.4,
+    "total_expense": 81247394.26,
+    "own_revenue_percentage": 15.1,
+    "transfers_revenue_percentage": 84.9,
+    "personnel_expense_percentage_rcl": 47.4
+  },
+  "per_capita_breakdown": {
+    "health": 1304.7,
+    "education": 1415.2,
+    "urbanism": 481.3,
+    "administration": 337.7,
+    "legislative": 118.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4476.9,
+      "health_per_capita": 1017.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4808.5,
+      "health_per_capita": 1095.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5140.1,
+      "health_per_capita": 1174.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5416.5,
+      "health_per_capita": 1252.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5527.0,
+      "health_per_capita": 1304.7
+    }
+  ]
+}

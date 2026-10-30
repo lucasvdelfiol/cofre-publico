@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4306601",
+  "city_name": "Dom Pedrito",
+  "uf": "RS",
+  "population": 36981,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 174722677.16,
+    "total_expense": 170916954.35,
+    "own_revenue_percentage": 27.9,
+    "transfers_revenue_percentage": 72.1,
+    "personnel_expense_percentage_rcl": 48.3
+  },
+  "per_capita_breakdown": {
+    "health": 1203.0,
+    "education": 1194.4,
+    "urbanism": 458.5,
+    "administration": 493.9,
+    "legislative": 103.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3743.7,
+      "health_per_capita": 938.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4021.0,
+      "health_per_capita": 1010.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4298.3,
+      "health_per_capita": 1082.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4529.4,
+      "health_per_capita": 1154.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4621.8,
+      "health_per_capita": 1203.0
+    }
+  ]
+}

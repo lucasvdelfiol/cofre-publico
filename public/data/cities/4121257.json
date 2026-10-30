@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4121257",
+  "city_name": "Ramilândia",
+  "uf": "PR",
+  "population": 4221,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 21850839.95,
+    "total_expense": 21477151.6,
+    "own_revenue_percentage": 8.2,
+    "transfers_revenue_percentage": 91.8,
+    "personnel_expense_percentage_rcl": 53.8
+  },
+  "per_capita_breakdown": {
+    "health": 1100.1,
+    "education": 1540.5,
+    "urbanism": 537.2,
+    "administration": 500.7,
+    "legislative": 146.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4121.4,
+      "health_per_capita": 858.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4426.7,
+      "health_per_capita": 924.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4732.0,
+      "health_per_capita": 990.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4986.4,
+      "health_per_capita": 1056.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5088.2,
+      "health_per_capita": 1100.1
+    }
+  ]
+}

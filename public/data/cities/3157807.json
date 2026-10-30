@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3157807",
+  "city_name": "Santa Luzia",
+  "uf": "MG",
+  "population": 219132,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 1181730042.26,
+    "total_expense": 1152623527.87,
+    "own_revenue_percentage": 42.4,
+    "transfers_revenue_percentage": 57.6,
+    "personnel_expense_percentage_rcl": 49.1
+  },
+  "per_capita_breakdown": {
+    "health": 1122.1,
+    "education": 1411.5,
+    "urbanism": 468.0,
+    "administration": 585.7,
+    "legislative": 79.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4260.6,
+      "health_per_capita": 875.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4576.2,
+      "health_per_capita": 942.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4891.8,
+      "health_per_capita": 1009.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5154.8,
+      "health_per_capita": 1077.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5260.0,
+      "health_per_capita": 1122.1
+    }
+  ]
+}

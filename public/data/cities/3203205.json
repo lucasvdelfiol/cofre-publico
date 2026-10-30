@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3203205",
+  "city_name": "Linhares",
+  "uf": "ES",
+  "population": 166786,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 798326207.75,
+    "total_expense": 777050602.14,
+    "own_revenue_percentage": 42.9,
+    "transfers_revenue_percentage": 57.1,
+    "personnel_expense_percentage_rcl": 49.4
+  },
+  "per_capita_breakdown": {
+    "health": 1050.8,
+    "education": 1437.6,
+    "urbanism": 403.9,
+    "administration": 310.3,
+    "legislative": 117.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3773.8,
+      "health_per_capita": 819.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4053.3,
+      "health_per_capita": 882.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4332.9,
+      "health_per_capita": 945.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4565.8,
+      "health_per_capita": 1008.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4659.0,
+      "health_per_capita": 1050.8
+    }
+  ]
+}

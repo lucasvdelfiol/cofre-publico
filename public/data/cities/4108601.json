@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4108601",
+  "city_name": "Goioerê",
+  "uf": "PR",
+  "population": 28437,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 131903732.47,
+    "total_expense": 128434738.46,
+    "own_revenue_percentage": 24.7,
+    "transfers_revenue_percentage": 75.3,
+    "personnel_expense_percentage_rcl": 46.2
+  },
+  "per_capita_breakdown": {
+    "health": 1229.7,
+    "education": 1362.7,
+    "urbanism": 572.7,
+    "administration": 426.7,
+    "legislative": 128.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3658.4,
+      "health_per_capita": 959.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3929.4,
+      "health_per_capita": 1032.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4200.3,
+      "health_per_capita": 1106.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4426.2,
+      "health_per_capita": 1180.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4516.5,
+      "health_per_capita": 1229.7
+    }
+  ]
+}

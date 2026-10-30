@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3511102",
+  "city_name": "Catanduva",
+  "uf": "SP",
+  "population": 115791,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 564974092.32,
+    "total_expense": 562837458.34,
+    "own_revenue_percentage": 45.4,
+    "transfers_revenue_percentage": 54.6,
+    "personnel_expense_percentage_rcl": 47.2
+  },
+  "per_capita_breakdown": {
+    "health": 1021.9,
+    "education": 1519.8,
+    "urbanism": 667.8,
+    "administration": 296.4,
+    "legislative": 163.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3937.2,
+      "health_per_capita": 797.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4228.9,
+      "health_per_capita": 858.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4520.5,
+      "health_per_capita": 919.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4763.6,
+      "health_per_capita": 981.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4860.8,
+      "health_per_capita": 1021.9
+    }
+  ]
+}

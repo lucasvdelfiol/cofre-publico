@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4305371",
+  "city_name": "Charrua",
+  "uf": "RS",
+  "population": 2768,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 14899303.21,
+    "total_expense": 14378166.74,
+    "own_revenue_percentage": 18.1,
+    "transfers_revenue_percentage": 81.9,
+    "personnel_expense_percentage_rcl": 53.2
+  },
+  "per_capita_breakdown": {
+    "health": 1242.0,
+    "education": 1645.2,
+    "urbanism": 766.5,
+    "administration": 430.4,
+    "legislative": 129.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4207.5,
+      "health_per_capita": 968.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4519.1,
+      "health_per_capita": 1043.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4830.8,
+      "health_per_capita": 1117.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5090.5,
+      "health_per_capita": 1192.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5194.4,
+      "health_per_capita": 1242.0
+    }
+  ]
+}

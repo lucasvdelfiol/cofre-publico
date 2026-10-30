@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3112307",
+  "city_name": "Capelinha",
+  "uf": "MG",
+  "population": 39626,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 194625530.01,
+    "total_expense": 189696397.47,
+    "own_revenue_percentage": 25.7,
+    "transfers_revenue_percentage": 74.3,
+    "personnel_expense_percentage_rcl": 47.1
+  },
+  "per_capita_breakdown": {
+    "health": 1140.7,
+    "education": 1378.0,
+    "urbanism": 764.9,
+    "administration": 564.0,
+    "legislative": 146.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3877.6,
+      "health_per_capita": 889.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4164.9,
+      "health_per_capita": 958.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4452.1,
+      "health_per_capita": 1026.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4691.5,
+      "health_per_capita": 1095.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4787.2,
+      "health_per_capita": 1140.7
+    }
+  ]
+}

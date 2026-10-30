@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2101939",
+  "city_name": "Bernardo do Mearim",
+  "uf": "MA",
+  "population": 5840,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 32041589.7,
+    "total_expense": 31418423.65,
+    "own_revenue_percentage": 20.8,
+    "transfers_revenue_percentage": 79.2,
+    "personnel_expense_percentage_rcl": 50.2
+  },
+  "per_capita_breakdown": {
+    "health": 1398.3,
+    "education": 1696.9,
+    "urbanism": 783.3,
+    "administration": 453.1,
+    "legislative": 168.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4357.7,
+      "health_per_capita": 1090.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4680.5,
+      "health_per_capita": 1174.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5003.3,
+      "health_per_capita": 1258.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5272.3,
+      "health_per_capita": 1342.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5379.9,
+      "health_per_capita": 1398.3
+    }
+  ]
+}

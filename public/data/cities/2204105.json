@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2204105",
+  "city_name": "Francisco Ayres",
+  "uf": "PI",
+  "population": 4412,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 20329025.75,
+    "total_expense": 19704555.17,
+    "own_revenue_percentage": 18.4,
+    "transfers_revenue_percentage": 81.6,
+    "personnel_expense_percentage_rcl": 52.5
+  },
+  "per_capita_breakdown": {
+    "health": 1086.9,
+    "education": 1165.2,
+    "urbanism": 520.4,
+    "administration": 328.0,
+    "legislative": 89.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3617.5,
+      "health_per_capita": 847.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3885.5,
+      "health_per_capita": 913.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4153.5,
+      "health_per_capita": 978.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4376.8,
+      "health_per_capita": 1043.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4466.1,
+      "health_per_capita": 1086.9
+    }
+  ]
+}

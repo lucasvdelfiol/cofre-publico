@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2301802",
+  "city_name": "Baixio",
+  "uf": "CE",
+  "population": 5704,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 30204940.12,
+    "total_expense": 30331653.44,
+    "own_revenue_percentage": 17.6,
+    "transfers_revenue_percentage": 82.4,
+    "personnel_expense_percentage_rcl": 51.3
+  },
+  "per_capita_breakdown": {
+    "health": 1260.2,
+    "education": 1400.0,
+    "urbanism": 713.1,
+    "administration": 534.2,
+    "legislative": 120.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4307.3,
+      "health_per_capita": 983.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4626.3,
+      "health_per_capita": 1058.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4945.4,
+      "health_per_capita": 1134.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5211.2,
+      "health_per_capita": 1209.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5317.6,
+      "health_per_capita": 1260.2
+    }
+  ]
+}

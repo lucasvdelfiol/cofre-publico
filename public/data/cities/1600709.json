@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1600709",
+  "city_name": "Tartarugalzinho",
+  "uf": "AP",
+  "population": 12945,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 73632851.51,
+    "total_expense": 72187436.33,
+    "own_revenue_percentage": 8.8,
+    "transfers_revenue_percentage": 91.2,
+    "personnel_expense_percentage_rcl": 47.0
+  },
+  "per_capita_breakdown": {
+    "health": 1501.4,
+    "education": 1481.4,
+    "urbanism": 766.8,
+    "administration": 368.6,
+    "legislative": 113.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4517.0,
+      "health_per_capita": 1171.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4851.6,
+      "health_per_capita": 1261.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5186.1,
+      "health_per_capita": 1351.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5465.0,
+      "health_per_capita": 1441.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5576.5,
+      "health_per_capita": 1501.4
+    }
+  ]
+}

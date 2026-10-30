@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3168903",
+  "city_name": "Tiros",
+  "uf": "MG",
+  "population": 7883,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 43135277.77,
+    "total_expense": 43390179.52,
+    "own_revenue_percentage": 9.8,
+    "transfers_revenue_percentage": 90.2,
+    "personnel_expense_percentage_rcl": 50.8
+  },
+  "per_capita_breakdown": {
+    "health": 1485.3,
+    "education": 1335.0,
+    "urbanism": 531.1,
+    "administration": 557.7,
+    "legislative": 153.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4458.5,
+      "health_per_capita": 1158.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4788.7,
+      "health_per_capita": 1247.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5119.0,
+      "health_per_capita": 1336.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5394.2,
+      "health_per_capita": 1425.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5504.3,
+      "health_per_capita": 1485.3
+    }
+  ]
+}

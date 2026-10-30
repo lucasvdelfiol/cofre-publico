@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2933000",
+  "city_name": "Valente",
+  "uf": "BA",
+  "population": 24362,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 110760076.13,
+    "total_expense": 109863459.96,
+    "own_revenue_percentage": 30.7,
+    "transfers_revenue_percentage": 69.3,
+    "personnel_expense_percentage_rcl": 51.2
+  },
+  "per_capita_breakdown": {
+    "health": 975.6,
+    "education": 1152.5,
+    "urbanism": 705.1,
+    "administration": 452.5,
+    "legislative": 134.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3652.8,
+      "health_per_capita": 761.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3923.4,
+      "health_per_capita": 819.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4193.9,
+      "health_per_capita": 878.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4419.4,
+      "health_per_capita": 936.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4509.6,
+      "health_per_capita": 975.6
+    }
+  ]
+}

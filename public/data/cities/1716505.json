@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1716505",
+  "city_name": "Pedro Afonso",
+  "uf": "TO",
+  "population": 14055,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 78721042.76,
+    "total_expense": 76834262.26,
+    "own_revenue_percentage": 11.8,
+    "transfers_revenue_percentage": 88.2,
+    "personnel_expense_percentage_rcl": 48.0
+  },
+  "per_capita_breakdown": {
+    "health": 1139.0,
+    "education": 1317.8,
+    "urbanism": 804.0,
+    "administration": 571.9,
+    "legislative": 168.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4428.0,
+      "health_per_capita": 888.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4756.0,
+      "health_per_capita": 956.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5084.0,
+      "health_per_capita": 1025.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5357.4,
+      "health_per_capita": 1093.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5466.7,
+      "health_per_capita": 1139.0
+    }
+  ]
+}

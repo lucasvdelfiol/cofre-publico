@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5004700",
+  "city_name": "Ivinhema",
+  "uf": "MS",
+  "population": 27821,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 120726695.14,
+    "total_expense": 117529426.38,
+    "own_revenue_percentage": 30.9,
+    "transfers_revenue_percentage": 69.1,
+    "personnel_expense_percentage_rcl": 49.5
+  },
+  "per_capita_breakdown": {
+    "health": 1076.4,
+    "education": 1232.8,
+    "urbanism": 352.7,
+    "administration": 470.6,
+    "legislative": 112.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3421.8,
+      "health_per_capita": 839.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3675.3,
+      "health_per_capita": 904.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3928.8,
+      "health_per_capita": 968.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4140.0,
+      "health_per_capita": 1033.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4224.5,
+      "health_per_capita": 1076.4
+    }
+  ]
+}

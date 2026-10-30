@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4128005",
+  "city_name": "Ubiratã",
+  "uf": "PR",
+  "population": 24749,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 118884112.75,
+    "total_expense": 116659797.42,
+    "own_revenue_percentage": 22.4,
+    "transfers_revenue_percentage": 77.6,
+    "personnel_expense_percentage_rcl": 52.7
+  },
+  "per_capita_breakdown": {
+    "health": 1271.5,
+    "education": 1327.2,
+    "urbanism": 552.6,
+    "administration": 369.4,
+    "legislative": 127.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3818.1,
+      "health_per_capita": 991.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4100.9,
+      "health_per_capita": 1068.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4383.7,
+      "health_per_capita": 1144.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4619.4,
+      "health_per_capita": 1220.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4713.7,
+      "health_per_capita": 1271.5
+    }
+  ]
+}

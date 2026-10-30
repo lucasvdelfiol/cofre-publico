@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3164605",
+  "city_name": "São Sebastião do Oeste",
+  "uf": "MG",
+  "population": 8815,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 41266422.08,
+    "total_expense": 40890530.81,
+    "own_revenue_percentage": 13.0,
+    "transfers_revenue_percentage": 87.0,
+    "personnel_expense_percentage_rcl": 49.9
+  },
+  "per_capita_breakdown": {
+    "health": 1193.3,
+    "education": 1116.3,
+    "urbanism": 722.2,
+    "administration": 369.6,
+    "legislative": 162.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3757.3,
+      "health_per_capita": 930.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4035.7,
+      "health_per_capita": 1002.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4314.0,
+      "health_per_capita": 1074.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4545.9,
+      "health_per_capita": 1145.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4638.7,
+      "health_per_capita": 1193.3
+    }
+  ]
+}

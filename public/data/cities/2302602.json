@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2302602",
+  "city_name": "Camocim",
+  "uf": "CE",
+  "population": 62326,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 262542843.9,
+    "total_expense": 263525274.79,
+    "own_revenue_percentage": 35.8,
+    "transfers_revenue_percentage": 64.2,
+    "personnel_expense_percentage_rcl": 50.6
+  },
+  "per_capita_breakdown": {
+    "health": 962.0,
+    "education": 1019.4,
+    "urbanism": 442.9,
+    "administration": 421.2,
+    "legislative": 94.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3424.8,
+      "health_per_capita": 750.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3678.5,
+      "health_per_capita": 808.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3932.2,
+      "health_per_capita": 865.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4143.6,
+      "health_per_capita": 923.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4228.2,
+      "health_per_capita": 962.0
+    }
+  ]
+}

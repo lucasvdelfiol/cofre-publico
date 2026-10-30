@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3129103",
+  "city_name": "Gurinhatã",
+  "uf": "MG",
+  "population": 5192,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 26084821.38,
+    "total_expense": 25840135.42,
+    "own_revenue_percentage": 13.8,
+    "transfers_revenue_percentage": 86.2,
+    "personnel_expense_percentage_rcl": 47.2
+  },
+  "per_capita_breakdown": {
+    "health": 1204.4,
+    "education": 1458.9,
+    "urbanism": 514.0,
+    "administration": 488.7,
+    "legislative": 122.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4031.3,
+      "health_per_capita": 939.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4329.9,
+      "health_per_capita": 1011.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4628.5,
+      "health_per_capita": 1084.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4877.4,
+      "health_per_capita": 1156.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4976.9,
+      "health_per_capita": 1204.4
+    }
+  ]
+}

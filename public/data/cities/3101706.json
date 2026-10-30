@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3101706",
+  "city_name": "Almenara",
+  "uf": "MG",
+  "population": 40364,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 181833206.68,
+    "total_expense": 178637893.58,
+    "own_revenue_percentage": 18.0,
+    "transfers_revenue_percentage": 82.0,
+    "personnel_expense_percentage_rcl": 51.7
+  },
+  "per_capita_breakdown": {
+    "health": 970.9,
+    "education": 1255.8,
+    "urbanism": 543.1,
+    "administration": 413.3,
+    "legislative": 89.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3584.8,
+      "health_per_capita": 757.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3850.4,
+      "health_per_capita": 815.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4115.9,
+      "health_per_capita": 873.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4337.2,
+      "health_per_capita": 932.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4425.7,
+      "health_per_capita": 970.9
+    }
+  ]
+}

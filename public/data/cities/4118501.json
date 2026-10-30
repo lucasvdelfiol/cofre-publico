@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4118501",
+  "city_name": "Pato Branco",
+  "uf": "PR",
+  "population": 91836,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 456428929.97,
+    "total_expense": 441061431.26,
+    "own_revenue_percentage": 31.4,
+    "transfers_revenue_percentage": 68.6,
+    "personnel_expense_percentage_rcl": 48.6
+  },
+  "per_capita_breakdown": {
+    "health": 1187.0,
+    "education": 1528.9,
+    "urbanism": 420.3,
+    "administration": 462.5,
+    "legislative": 154.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3890.2,
+      "health_per_capita": 925.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4178.3,
+      "health_per_capita": 997.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4466.5,
+      "health_per_capita": 1068.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4706.6,
+      "health_per_capita": 1139.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4802.7,
+      "health_per_capita": 1187.0
+    }
+  ]
+}

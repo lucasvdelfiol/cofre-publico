@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2206050",
+  "city_name": "Massapê do Piauí",
+  "uf": "PI",
+  "population": 5218,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 27980743.67,
+    "total_expense": 27856451.39,
+    "own_revenue_percentage": 19.0,
+    "transfers_revenue_percentage": 81.0,
+    "personnel_expense_percentage_rcl": 51.1
+  },
+  "per_capita_breakdown": {
+    "health": 1213.6,
+    "education": 1478.3,
+    "urbanism": 849.4,
+    "administration": 628.5,
+    "legislative": 94.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4324.2,
+      "health_per_capita": 946.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4644.5,
+      "health_per_capita": 1019.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4964.8,
+      "health_per_capita": 1092.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5231.7,
+      "health_per_capita": 1165.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5338.5,
+      "health_per_capita": 1213.6
+    }
+  ]
+}

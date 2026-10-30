@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5005251",
+  "city_name": "Laguna Carapã",
+  "uf": "MS",
+  "population": 6799,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 31257122.64,
+    "total_expense": 30728454.37,
+    "own_revenue_percentage": 12.2,
+    "transfers_revenue_percentage": 87.8,
+    "personnel_expense_percentage_rcl": 45.9
+  },
+  "per_capita_breakdown": {
+    "health": 1244.7,
+    "education": 1147.0,
+    "urbanism": 363.3,
+    "administration": 512.8,
+    "legislative": 71.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3660.9,
+      "health_per_capita": 970.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3932.1,
+      "health_per_capita": 1045.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4203.2,
+      "health_per_capita": 1120.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4429.2,
+      "health_per_capita": 1194.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4519.6,
+      "health_per_capita": 1244.7
+    }
+  ]
+}

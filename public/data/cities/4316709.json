@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4316709",
+  "city_name": "Santa Bárbara do Sul",
+  "uf": "RS",
+  "population": 8122,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 43652404.83,
+    "total_expense": 42902122.52,
+    "own_revenue_percentage": 9.0,
+    "transfers_revenue_percentage": 91.0,
+    "personnel_expense_percentage_rcl": 52.8
+  },
+  "per_capita_breakdown": {
+    "health": 1066.3,
+    "education": 1282.0,
+    "urbanism": 612.9,
+    "administration": 346.7,
+    "legislative": 97.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4278.6,
+      "health_per_capita": 831.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4595.5,
+      "health_per_capita": 895.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4912.4,
+      "health_per_capita": 959.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5176.6,
+      "health_per_capita": 1023.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5282.2,
+      "health_per_capita": 1066.3
+    }
+  ]
+}

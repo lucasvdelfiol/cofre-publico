@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2202109",
+  "city_name": "Campinas do Piauí",
+  "uf": "PI",
+  "population": 4938,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 22886447.39,
+    "total_expense": 22049297.73,
+    "own_revenue_percentage": 19.2,
+    "transfers_revenue_percentage": 80.8,
+    "personnel_expense_percentage_rcl": 47.6
+  },
+  "per_capita_breakdown": {
+    "health": 1031.8,
+    "education": 1400.5,
+    "urbanism": 568.9,
+    "administration": 527.2,
+    "legislative": 122.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3616.8,
+      "health_per_capita": 804.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3884.7,
+      "health_per_capita": 866.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4152.6,
+      "health_per_capita": 928.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4375.9,
+      "health_per_capita": 990.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4465.2,
+      "health_per_capita": 1031.8
+    }
+  ]
+}

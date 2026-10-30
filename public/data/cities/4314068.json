@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4314068",
+  "city_name": "Passa Sete",
+  "uf": "RS",
+  "population": 3983,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 21526425.46,
+    "total_expense": 21201714.15,
+    "own_revenue_percentage": 13.5,
+    "transfers_revenue_percentage": 86.5,
+    "personnel_expense_percentage_rcl": 47.5
+  },
+  "per_capita_breakdown": {
+    "health": 1072.5,
+    "education": 1463.9,
+    "urbanism": 533.0,
+    "administration": 494.0,
+    "legislative": 172.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4311.7,
+      "health_per_capita": 836.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4631.1,
+      "health_per_capita": 900.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4950.5,
+      "health_per_capita": 965.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5216.6,
+      "health_per_capita": 1029.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5323.1,
+      "health_per_capita": 1072.5
+    }
+  ]
+}

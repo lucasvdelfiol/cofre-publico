@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3148806",
+  "city_name": "Pedra do Anta",
+  "uf": "MG",
+  "population": 3311,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 16043715.93,
+    "total_expense": 15610355.33,
+    "own_revenue_percentage": 15.9,
+    "transfers_revenue_percentage": 84.1,
+    "personnel_expense_percentage_rcl": 48.9
+  },
+  "per_capita_breakdown": {
+    "health": 950.9,
+    "education": 1427.8,
+    "urbanism": 612.6,
+    "administration": 377.5,
+    "legislative": 73.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3818.9,
+      "health_per_capita": 741.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4101.8,
+      "health_per_capita": 798.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4384.7,
+      "health_per_capita": 855.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4620.4,
+      "health_per_capita": 912.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4714.7,
+      "health_per_capita": 950.9
+    }
+  ]
+}

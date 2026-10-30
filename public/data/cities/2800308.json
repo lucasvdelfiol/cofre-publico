@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2800308",
+  "city_name": "Aracaju",
+  "uf": "SE",
+  "population": 602757,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 3327261818.39,
+    "total_expense": 3285061749.91,
+    "own_revenue_percentage": 42.6,
+    "transfers_revenue_percentage": 57.4,
+    "personnel_expense_percentage_rcl": 52.1
+  },
+  "per_capita_breakdown": {
+    "health": 1226.3,
+    "education": 1417.6,
+    "urbanism": 825.6,
+    "administration": 465.0,
+    "legislative": 189.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4414.6,
+      "health_per_capita": 956.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4741.6,
+      "health_per_capita": 1030.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5068.6,
+      "health_per_capita": 1103.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5341.1,
+      "health_per_capita": 1177.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5450.1,
+      "health_per_capita": 1226.3
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4200101",
+  "city_name": "Abelardo Luz",
+  "uf": "SC",
+  "population": 17392,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 83690823.71,
+    "total_expense": 83473169.63,
+    "own_revenue_percentage": 10.4,
+    "transfers_revenue_percentage": 89.6,
+    "personnel_expense_percentage_rcl": 52.9
+  },
+  "per_capita_breakdown": {
+    "health": 1087.6,
+    "education": 1318.0,
+    "urbanism": 395.6,
+    "administration": 311.2,
+    "legislative": 164.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3887.6,
+      "health_per_capita": 848.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4175.6,
+      "health_per_capita": 913.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4463.5,
+      "health_per_capita": 978.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4703.5,
+      "health_per_capita": 1044.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4799.5,
+      "health_per_capita": 1087.6
+    }
+  ]
+}

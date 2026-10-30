@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5007802",
+  "city_name": "Selvíria",
+  "uf": "MS",
+  "population": 8142,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 44708256.04,
+    "total_expense": 44728554.35,
+    "own_revenue_percentage": 14.0,
+    "transfers_revenue_percentage": 86.0,
+    "personnel_expense_percentage_rcl": 51.7
+  },
+  "per_capita_breakdown": {
+    "health": 1189.6,
+    "education": 1491.2,
+    "urbanism": 644.6,
+    "administration": 361.2,
+    "legislative": 112.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4449.8,
+      "health_per_capita": 927.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4779.4,
+      "health_per_capita": 999.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5109.0,
+      "health_per_capita": 1070.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5383.7,
+      "health_per_capita": 1142.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5493.6,
+      "health_per_capita": 1189.6
+    }
+  ]
+}

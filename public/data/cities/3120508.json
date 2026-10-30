@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3120508",
+  "city_name": "Cristina",
+  "uf": "MG",
+  "population": 10374,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 47676590.01,
+    "total_expense": 46051109.24,
+    "own_revenue_percentage": 10.8,
+    "transfers_revenue_percentage": 89.2,
+    "personnel_expense_percentage_rcl": 51.5
+  },
+  "per_capita_breakdown": {
+    "health": 1144.3,
+    "education": 1180.7,
+    "urbanism": 595.1,
+    "administration": 500.7,
+    "legislative": 102.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3595.7,
+      "health_per_capita": 892.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3862.0,
+      "health_per_capita": 961.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4128.4,
+      "health_per_capita": 1029.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4350.3,
+      "health_per_capita": 1098.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4439.1,
+      "health_per_capita": 1144.3
+    }
+  ]
+}

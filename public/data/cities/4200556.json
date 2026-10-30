@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4200556",
+  "city_name": "Águas Frias",
+  "uf": "SC",
+  "population": 2839,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 15700354.93,
+    "total_expense": 15754350.5,
+    "own_revenue_percentage": 14.8,
+    "transfers_revenue_percentage": 85.2,
+    "personnel_expense_percentage_rcl": 46.5
+  },
+  "per_capita_breakdown": {
+    "health": 1460.1,
+    "education": 1625.3,
+    "urbanism": 813.6,
+    "administration": 519.1,
+    "legislative": 114.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4494.9,
+      "health_per_capita": 1138.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4827.9,
+      "health_per_capita": 1226.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5160.8,
+      "health_per_capita": 1314.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5438.3,
+      "health_per_capita": 1401.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5549.3,
+      "health_per_capita": 1460.1
+    }
+  ]
+}

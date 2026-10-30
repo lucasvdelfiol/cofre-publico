@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3515152",
+  "city_name": "Engenheiro Coelho",
+  "uf": "SP",
+  "population": 19566,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 97857815.14,
+    "total_expense": 94116288.63,
+    "own_revenue_percentage": 10.9,
+    "transfers_revenue_percentage": 89.1,
+    "personnel_expense_percentage_rcl": 50.1
+  },
+  "per_capita_breakdown": {
+    "health": 1111.7,
+    "education": 1313.6,
+    "urbanism": 709.0,
+    "administration": 375.1,
+    "legislative": 107.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3896.3,
+      "health_per_capita": 867.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4184.9,
+      "health_per_capita": 933.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4473.5,
+      "health_per_capita": 1000.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4714.0,
+      "health_per_capita": 1067.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4810.2,
+      "health_per_capita": 1111.7
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2411809",
+  "city_name": "São Fernando",
+  "uf": "RN",
+  "population": 3492,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 16683412.81,
+    "total_expense": 16743802.9,
+    "own_revenue_percentage": 19.5,
+    "transfers_revenue_percentage": 80.5,
+    "personnel_expense_percentage_rcl": 50.2
+  },
+  "per_capita_breakdown": {
+    "health": 960.5,
+    "education": 1295.5,
+    "urbanism": 606.2,
+    "administration": 412.1,
+    "legislative": 110.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3883.9,
+      "health_per_capita": 749.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4171.6,
+      "health_per_capita": 806.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4459.3,
+      "health_per_capita": 864.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4699.0,
+      "health_per_capita": 922.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4794.9,
+      "health_per_capita": 960.5
+    }
+  ]
+}

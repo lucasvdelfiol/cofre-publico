@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2707701",
+  "city_name": "Rio Largo",
+  "uf": "AL",
+  "population": 93927,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 470956673.41,
+    "total_expense": 464424271.39,
+    "own_revenue_percentage": 39.4,
+    "transfers_revenue_percentage": 60.6,
+    "personnel_expense_percentage_rcl": 52.5
+  },
+  "per_capita_breakdown": {
+    "health": 1147.0,
+    "education": 1352.2,
+    "urbanism": 688.0,
+    "administration": 589.7,
+    "legislative": 170.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4005.0,
+      "health_per_capita": 894.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4301.7,
+      "health_per_capita": 963.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4598.4,
+      "health_per_capita": 1032.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4845.6,
+      "health_per_capita": 1101.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4944.5,
+      "health_per_capita": 1147.0
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3300936",
+  "city_name": "Carapebus",
+  "uf": "RJ",
+  "population": 13847,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 75827177.39,
+    "total_expense": 75945517.8,
+    "own_revenue_percentage": 8.1,
+    "transfers_revenue_percentage": 91.9,
+    "personnel_expense_percentage_rcl": 48.4
+  },
+  "per_capita_breakdown": {
+    "health": 1237.2,
+    "education": 1670.6,
+    "urbanism": 549.5,
+    "administration": 433.7,
+    "legislative": 127.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4442.5,
+      "health_per_capita": 965.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4771.6,
+      "health_per_capita": 1039.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5100.7,
+      "health_per_capita": 1113.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5374.9,
+      "health_per_capita": 1187.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5484.6,
+      "health_per_capita": 1237.2
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5216908",
+  "city_name": "Pilar de Goiás",
+  "uf": "GO",
+  "population": 2328,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 12274299.25,
+    "total_expense": 11976688.55,
+    "own_revenue_percentage": 13.8,
+    "transfers_revenue_percentage": 86.2,
+    "personnel_expense_percentage_rcl": 51.5
+  },
+  "per_capita_breakdown": {
+    "health": 1259.4,
+    "education": 1576.3,
+    "urbanism": 764.5,
+    "administration": 384.7,
+    "legislative": 131.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4167.1,
+      "health_per_capita": 982.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4475.8,
+      "health_per_capita": 1057.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4784.5,
+      "health_per_capita": 1133.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5041.7,
+      "health_per_capita": 1209.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5144.6,
+      "health_per_capita": 1259.4
+    }
+  ]
+}

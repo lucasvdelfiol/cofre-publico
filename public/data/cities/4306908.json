@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4306908",
+  "city_name": "Encruzilhada do Sul",
+  "uf": "RS",
+  "population": 23819,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 107855417.3,
+    "total_expense": 107074598.82,
+    "own_revenue_percentage": 21.9,
+    "transfers_revenue_percentage": 78.1,
+    "personnel_expense_percentage_rcl": 51.8
+  },
+  "per_capita_breakdown": {
+    "health": 1256.0,
+    "education": 1124.2,
+    "urbanism": 443.9,
+    "administration": 326.9,
+    "legislative": 87.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3641.2,
+      "health_per_capita": 979.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3910.9,
+      "health_per_capita": 1055.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4180.6,
+      "health_per_capita": 1130.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4405.4,
+      "health_per_capita": 1205.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4495.3,
+      "health_per_capita": 1256.0
+    }
+  ]
+}

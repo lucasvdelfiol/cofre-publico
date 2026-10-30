@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2931400",
+  "city_name": "Teodoro Sampaio",
+  "uf": "BA",
+  "population": 7110,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 38057708.33,
+    "total_expense": 36681740.02,
+    "own_revenue_percentage": 14.5,
+    "transfers_revenue_percentage": 85.5,
+    "personnel_expense_percentage_rcl": 49.7
+  },
+  "per_capita_breakdown": {
+    "health": 1061.4,
+    "education": 1610.5,
+    "urbanism": 682.7,
+    "administration": 397.3,
+    "legislative": 156.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4179.0,
+      "health_per_capita": 827.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4488.5,
+      "health_per_capita": 891.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4798.1,
+      "health_per_capita": 955.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5056.0,
+      "health_per_capita": 1018.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5159.2,
+      "health_per_capita": 1061.4
+    }
+  ]
+}

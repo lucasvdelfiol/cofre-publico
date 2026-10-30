@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2512903",
+  "city_name": "Rio Tinto",
+  "uf": "PB",
+  "population": 24581,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 105351290.58,
+    "total_expense": 105702738.55,
+    "own_revenue_percentage": 18.1,
+    "transfers_revenue_percentage": 81.9,
+    "personnel_expense_percentage_rcl": 49.1
+  },
+  "per_capita_breakdown": {
+    "health": 943.2,
+    "education": 1176.1,
+    "urbanism": 537.1,
+    "administration": 324.0,
+    "legislative": 72.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3483.2,
+      "health_per_capita": 735.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3741.2,
+      "health_per_capita": 792.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3999.2,
+      "health_per_capita": 848.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4214.2,
+      "health_per_capita": 905.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4300.2,
+      "health_per_capita": 943.2
+    }
+  ]
+}

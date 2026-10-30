@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4305801",
+  "city_name": "Constantina",
+  "uf": "RS",
+  "population": 10385,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 50806430.63,
+    "total_expense": 50778593.86,
+    "own_revenue_percentage": 16.3,
+    "transfers_revenue_percentage": 83.7,
+    "personnel_expense_percentage_rcl": 49.4
+  },
+  "per_capita_breakdown": {
+    "health": 1050.8,
+    "education": 1274.3,
+    "urbanism": 666.9,
+    "administration": 559.3,
+    "legislative": 159.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3960.6,
+      "health_per_capita": 819.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4254.0,
+      "health_per_capita": 882.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4547.3,
+      "health_per_capita": 945.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4791.8,
+      "health_per_capita": 1008.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4889.6,
+      "health_per_capita": 1050.8
+    }
+  ]
+}

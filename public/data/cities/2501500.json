@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2501500",
+  "city_name": "Bananeiras",
+  "uf": "PB",
+  "population": 23134,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 114109311.79,
+    "total_expense": 111889190.87,
+    "own_revenue_percentage": 20.3,
+    "transfers_revenue_percentage": 79.7,
+    "personnel_expense_percentage_rcl": 50.4
+  },
+  "per_capita_breakdown": {
+    "health": 1139.8,
+    "education": 1496.3,
+    "urbanism": 596.4,
+    "administration": 553.1,
+    "legislative": 164.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3917.6,
+      "health_per_capita": 889.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4207.8,
+      "health_per_capita": 957.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4498.0,
+      "health_per_capita": 1025.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4739.9,
+      "health_per_capita": 1094.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4836.6,
+      "health_per_capita": 1139.8
+    }
+  ]
+}

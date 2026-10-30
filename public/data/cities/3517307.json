@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3517307",
+  "city_name": "Guaimbê",
+  "uf": "SP",
+  "population": 5512,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 24731991.57,
+    "total_expense": 24372236.41,
+    "own_revenue_percentage": 16.0,
+    "transfers_revenue_percentage": 84.0,
+    "personnel_expense_percentage_rcl": 46.6
+  },
+  "per_capita_breakdown": {
+    "health": 918.5,
+    "education": 1139.0,
+    "urbanism": 684.3,
+    "administration": 431.5,
+    "legislative": 124.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3581.6,
+      "health_per_capita": 716.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3846.9,
+      "health_per_capita": 771.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4112.2,
+      "health_per_capita": 826.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4333.3,
+      "health_per_capita": 881.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4421.7,
+      "health_per_capita": 918.5
+    }
+  ]
+}

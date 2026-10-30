@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5003702",
+  "city_name": "Dourados",
+  "uf": "MS",
+  "population": 243367,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 1320935097.64,
+    "total_expense": 1271288019.48,
+    "own_revenue_percentage": 50.2,
+    "transfers_revenue_percentage": 49.8,
+    "personnel_expense_percentage_rcl": 48.4
+  },
+  "per_capita_breakdown": {
+    "health": 1166.8,
+    "education": 1548.9,
+    "urbanism": 685.5,
+    "administration": 572.8,
+    "legislative": 147.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4231.2,
+      "health_per_capita": 910.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4544.6,
+      "health_per_capita": 980.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4858.0,
+      "health_per_capita": 1050.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5119.2,
+      "health_per_capita": 1120.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5223.7,
+      "health_per_capita": 1166.8
+    }
+  ]
+}

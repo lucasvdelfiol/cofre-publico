@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4109500",
+  "city_name": "Guaraqueçaba",
+  "uf": "PR",
+  "population": 7430,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 41444219.71,
+    "total_expense": 40756277.1,
+    "own_revenue_percentage": 10.2,
+    "transfers_revenue_percentage": 89.8,
+    "personnel_expense_percentage_rcl": 51.5
+  },
+  "per_capita_breakdown": {
+    "health": 1153.2,
+    "education": 1705.4,
+    "urbanism": 576.7,
+    "administration": 338.7,
+    "legislative": 151.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4443.2,
+      "health_per_capita": 899.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4772.3,
+      "health_per_capita": 968.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5101.4,
+      "health_per_capita": 1037.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5375.7,
+      "health_per_capita": 1107.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5485.4,
+      "health_per_capita": 1153.2
+    }
+  ]
+}

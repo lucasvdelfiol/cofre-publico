@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4315073",
+  "city_name": "Porto Vera Cruz",
+  "uf": "RS",
+  "population": 1560,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 7872149.65,
+    "total_expense": 7874720.87,
+    "own_revenue_percentage": 17.6,
+    "transfers_revenue_percentage": 82.4,
+    "personnel_expense_percentage_rcl": 52.2
+  },
+  "per_capita_breakdown": {
+    "health": 1194.0,
+    "education": 1310.4,
+    "urbanism": 725.3,
+    "administration": 571.4,
+    "legislative": 135.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4088.8,
+      "health_per_capita": 931.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4391.7,
+      "health_per_capita": 1003.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4694.5,
+      "health_per_capita": 1074.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4946.9,
+      "health_per_capita": 1146.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5047.9,
+      "health_per_capita": 1194.0
+    }
+  ]
+}

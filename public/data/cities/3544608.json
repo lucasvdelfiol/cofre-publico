@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3544608",
+  "city_name": "Sabino",
+  "uf": "SP",
+  "population": 5112,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 26941801.48,
+    "total_expense": 26684924.71,
+    "own_revenue_percentage": 10.2,
+    "transfers_revenue_percentage": 89.8,
+    "personnel_expense_percentage_rcl": 51.8
+  },
+  "per_capita_breakdown": {
+    "health": 1208.0,
+    "education": 1505.9,
+    "urbanism": 485.8,
+    "administration": 463.9,
+    "legislative": 81.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4228.3,
+      "health_per_capita": 942.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4541.5,
+      "health_per_capita": 1014.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4854.7,
+      "health_per_capita": 1087.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5115.7,
+      "health_per_capita": 1159.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5220.1,
+      "health_per_capita": 1208.0
+    }
+  ]
+}

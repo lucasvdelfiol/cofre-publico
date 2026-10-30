@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4312757",
+  "city_name": "Nova Alvorada",
+  "uf": "RS",
+  "population": 3163,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 14194073.47,
+    "total_expense": 14244294.2,
+    "own_revenue_percentage": 19.9,
+    "transfers_revenue_percentage": 80.1,
+    "personnel_expense_percentage_rcl": 46.6
+  },
+  "per_capita_breakdown": {
+    "health": 1044.5,
+    "education": 1249.2,
+    "urbanism": 501.8,
+    "administration": 351.1,
+    "legislative": 112.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3647.8,
+      "health_per_capita": 814.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3918.0,
+      "health_per_capita": 877.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4188.2,
+      "health_per_capita": 940.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4413.3,
+      "health_per_capita": 1002.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4503.4,
+      "health_per_capita": 1044.5
+    }
+  ]
+}

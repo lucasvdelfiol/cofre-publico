@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2508802",
+  "city_name": "Malta",
+  "uf": "PB",
+  "population": 6046,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 26349479.72,
+    "total_expense": 26274365.94,
+    "own_revenue_percentage": 13.9,
+    "transfers_revenue_percentage": 86.1,
+    "personnel_expense_percentage_rcl": 46.2
+  },
+  "per_capita_breakdown": {
+    "health": 1061.4,
+    "education": 1255.7,
+    "urbanism": 570.7,
+    "administration": 328.7,
+    "legislative": 109.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3520.0,
+      "health_per_capita": 827.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3780.8,
+      "health_per_capita": 891.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4041.5,
+      "health_per_capita": 955.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4258.8,
+      "health_per_capita": 1018.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4345.7,
+      "health_per_capita": 1061.4
+    }
+  ]
+}

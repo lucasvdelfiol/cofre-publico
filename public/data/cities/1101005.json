@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1101005",
+  "city_name": "Governador Jorge Teixeira",
+  "uf": "RO",
+  "population": 8001,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 44199300.07,
+    "total_expense": 42882836.92,
+    "own_revenue_percentage": 18.1,
+    "transfers_revenue_percentage": 81.9,
+    "personnel_expense_percentage_rcl": 52.6
+  },
+  "per_capita_breakdown": {
+    "health": 1494.1,
+    "education": 1452.9,
+    "urbanism": 433.9,
+    "administration": 572.5,
+    "legislative": 151.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4341.4,
+      "health_per_capita": 1165.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4662.9,
+      "health_per_capita": 1255.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4984.5,
+      "health_per_capita": 1344.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5252.5,
+      "health_per_capita": 1434.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5359.7,
+      "health_per_capita": 1494.1
+    }
+  ]
+}

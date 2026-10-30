@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4321709",
+  "city_name": "Três Coroas",
+  "uf": "RS",
+  "population": 24425,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 109278203.21,
+    "total_expense": 106599254.75,
+    "own_revenue_percentage": 25.5,
+    "transfers_revenue_percentage": 74.5,
+    "personnel_expense_percentage_rcl": 46.8
+  },
+  "per_capita_breakdown": {
+    "health": 904.5,
+    "education": 1073.0,
+    "urbanism": 369.4,
+    "administration": 458.3,
+    "legislative": 149.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3535.2,
+      "health_per_capita": 705.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3797.0,
+      "health_per_capita": 759.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4058.9,
+      "health_per_capita": 814.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4277.1,
+      "health_per_capita": 868.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4364.4,
+      "health_per_capita": 904.5
+    }
+  ]
+}

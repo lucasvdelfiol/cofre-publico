@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4103503",
+  "city_name": "Califórnia",
+  "uf": "PR",
+  "population": 8710,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 39413341.9,
+    "total_expense": 39425462.91,
+    "own_revenue_percentage": 19.8,
+    "transfers_revenue_percentage": 80.2,
+    "personnel_expense_percentage_rcl": 53.6
+  },
+  "per_capita_breakdown": {
+    "health": 1162.9,
+    "education": 1255.9,
+    "urbanism": 506.2,
+    "administration": 529.0,
+    "legislative": 143.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3666.5,
+      "health_per_capita": 907.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3938.1,
+      "health_per_capita": 976.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4209.6,
+      "health_per_capita": 1046.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4436.0,
+      "health_per_capita": 1116.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4526.5,
+      "health_per_capita": 1162.9
+    }
+  ]
+}

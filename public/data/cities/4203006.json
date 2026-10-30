@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4203006",
+  "city_name": "Caçador",
+  "uf": "SC",
+  "population": 73720,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 331337537.47,
+    "total_expense": 324268560.07,
+    "own_revenue_percentage": 39.6,
+    "transfers_revenue_percentage": 60.4,
+    "personnel_expense_percentage_rcl": 46.4
+  },
+  "per_capita_breakdown": {
+    "health": 959.2,
+    "education": 1337.2,
+    "urbanism": 398.1,
+    "administration": 274.8,
+    "legislative": 112.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3562.9,
+      "health_per_capita": 748.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3826.9,
+      "health_per_capita": 805.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4090.8,
+      "health_per_capita": 863.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4310.7,
+      "health_per_capita": 920.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4398.7,
+      "health_per_capita": 959.2
+    }
+  ]
+}

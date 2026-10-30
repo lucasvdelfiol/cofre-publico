@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5209705",
+  "city_name": "Hidrolândia",
+  "uf": "GO",
+  "population": 27742,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 137092430.69,
+    "total_expense": 134893348.17,
+    "own_revenue_percentage": 30.2,
+    "transfers_revenue_percentage": 69.8,
+    "personnel_expense_percentage_rcl": 51.4
+  },
+  "per_capita_breakdown": {
+    "health": 1302.5,
+    "education": 1451.3,
+    "urbanism": 768.0,
+    "administration": 575.0,
+    "legislative": 80.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3938.5,
+      "health_per_capita": 1016.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4230.3,
+      "health_per_capita": 1094.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4522.0,
+      "health_per_capita": 1172.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4765.2,
+      "health_per_capita": 1250.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4862.4,
+      "health_per_capita": 1302.5
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2923605",
+  "city_name": "Paramirim",
+  "uf": "BA",
+  "population": 20351,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 90760286.81,
+    "total_expense": 90114526.17,
+    "own_revenue_percentage": 31.5,
+    "transfers_revenue_percentage": 68.5,
+    "personnel_expense_percentage_rcl": 50.1
+  },
+  "per_capita_breakdown": {
+    "health": 1107.2,
+    "education": 1302.5,
+    "urbanism": 586.9,
+    "administration": 528.7,
+    "legislative": 107.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3586.7,
+      "health_per_capita": 863.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3852.4,
+      "health_per_capita": 930.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4118.0,
+      "health_per_capita": 996.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4339.4,
+      "health_per_capita": 1062.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4428.0,
+      "health_per_capita": 1107.2
+    }
+  ]
+}

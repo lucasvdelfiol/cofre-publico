@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3507506",
+  "city_name": "Botucatu",
+  "uf": "SP",
+  "population": 145155,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 677269696.82,
+    "total_expense": 675954958.74,
+    "own_revenue_percentage": 39.4,
+    "transfers_revenue_percentage": 60.6,
+    "personnel_expense_percentage_rcl": 51.3
+  },
+  "per_capita_breakdown": {
+    "health": 1244.4,
+    "education": 1361.0,
+    "urbanism": 741.1,
+    "administration": 371.7,
+    "legislative": 156.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3772.0,
+      "health_per_capita": 970.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4051.4,
+      "health_per_capita": 1045.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4330.8,
+      "health_per_capita": 1120.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4563.7,
+      "health_per_capita": 1194.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4656.8,
+      "health_per_capita": 1244.4
+    }
+  ]
+}

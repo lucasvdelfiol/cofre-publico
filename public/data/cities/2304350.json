@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2304350",
+  "city_name": "Forquilha",
+  "uf": "CE",
+  "population": 24173,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 117468935.34,
+    "total_expense": 116352043.74,
+    "own_revenue_percentage": 22.9,
+    "transfers_revenue_percentage": 77.1,
+    "personnel_expense_percentage_rcl": 51.7
+  },
+  "per_capita_breakdown": {
+    "health": 988.2,
+    "education": 1354.0,
+    "urbanism": 509.0,
+    "administration": 468.9,
+    "legislative": 93.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3898.8,
+      "health_per_capita": 770.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4187.6,
+      "health_per_capita": 830.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4476.4,
+      "health_per_capita": 889.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4717.0,
+      "health_per_capita": 948.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4813.3,
+      "health_per_capita": 988.2
+    }
+  ]
+}

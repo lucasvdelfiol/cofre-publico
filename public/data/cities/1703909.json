@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1703909",
+  "city_name": "Caseara",
+  "uf": "TO",
+  "population": 4847,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 26599638.58,
+    "total_expense": 26589342.72,
+    "own_revenue_percentage": 11.3,
+    "transfers_revenue_percentage": 88.7,
+    "personnel_expense_percentage_rcl": 52.4
+  },
+  "per_capita_breakdown": {
+    "health": 1354.8,
+    "education": 1623.6,
+    "urbanism": 584.2,
+    "administration": 413.4,
+    "legislative": 89.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4443.4,
+      "health_per_capita": 1056.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4772.6,
+      "health_per_capita": 1138.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5101.7,
+      "health_per_capita": 1219.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5376.0,
+      "health_per_capita": 1300.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5485.7,
+      "health_per_capita": 1354.8
+    }
+  ]
+}

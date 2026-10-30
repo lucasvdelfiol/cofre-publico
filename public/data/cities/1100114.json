@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1100114",
+  "city_name": "Jaru",
+  "uf": "RO",
+  "population": 50591,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 230582832.05,
+    "total_expense": 222134078.51,
+    "own_revenue_percentage": 35.9,
+    "transfers_revenue_percentage": 64.1,
+    "personnel_expense_percentage_rcl": 47.0
+  },
+  "per_capita_breakdown": {
+    "health": 1175.9,
+    "education": 1163.3,
+    "urbanism": 695.5,
+    "administration": 378.7,
+    "legislative": 128.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3556.5,
+      "health_per_capita": 917.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3820.0,
+      "health_per_capita": 987.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4083.4,
+      "health_per_capita": 1058.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4303.0,
+      "health_per_capita": 1128.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4390.8,
+      "health_per_capita": 1175.9
+    }
+  ]
+}

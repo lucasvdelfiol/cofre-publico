@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3134400",
+  "city_name": "Iturama",
+  "uf": "MG",
+  "population": 38295,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 176459059.34,
+    "total_expense": 177860867.79,
+    "own_revenue_percentage": 25.5,
+    "transfers_revenue_percentage": 74.5,
+    "personnel_expense_percentage_rcl": 47.3
+  },
+  "per_capita_breakdown": {
+    "health": 965.2,
+    "education": 1258.6,
+    "urbanism": 719.0,
+    "administration": 410.0,
+    "legislative": 146.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3762.0,
+      "health_per_capita": 752.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4040.7,
+      "health_per_capita": 810.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4319.4,
+      "health_per_capita": 868.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4551.6,
+      "health_per_capita": 926.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4644.5,
+      "health_per_capita": 965.2
+    }
+  ]
+}

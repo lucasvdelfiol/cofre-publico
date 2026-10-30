@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2210938",
+  "city_name": "Sussuapara",
+  "uf": "PI",
+  "population": 6220,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 35452533.88,
+    "total_expense": 34169117.54,
+    "own_revenue_percentage": 12.7,
+    "transfers_revenue_percentage": 87.3,
+    "personnel_expense_percentage_rcl": 51.7
+  },
+  "per_capita_breakdown": {
+    "health": 1425.1,
+    "education": 1495.8,
+    "urbanism": 698.0,
+    "administration": 593.3,
+    "legislative": 93.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4449.7,
+      "health_per_capita": 1111.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4779.3,
+      "health_per_capita": 1197.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5108.9,
+      "health_per_capita": 1282.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5383.5,
+      "health_per_capita": 1368.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5493.4,
+      "health_per_capita": 1425.1
+    }
+  ]
+}

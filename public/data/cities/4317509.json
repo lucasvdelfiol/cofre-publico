@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4317509",
+  "city_name": "Santo Ângelo",
+  "uf": "RS",
+  "population": 76917,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 327935932.45,
+    "total_expense": 330078995.32,
+    "own_revenue_percentage": 31.6,
+    "transfers_revenue_percentage": 68.4,
+    "personnel_expense_percentage_rcl": 47.3
+  },
+  "per_capita_breakdown": {
+    "health": 1187.7,
+    "education": 1215.9,
+    "urbanism": 397.7,
+    "administration": 388.2,
+    "legislative": 100.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3476.0,
+      "health_per_capita": 926.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3733.5,
+      "health_per_capita": 997.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3991.0,
+      "health_per_capita": 1068.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4205.6,
+      "health_per_capita": 1140.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4291.4,
+      "health_per_capita": 1187.7
+    }
+  ]
+}

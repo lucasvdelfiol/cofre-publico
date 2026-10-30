@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1717008",
+  "city_name": "Pindorama do Tocantins",
+  "uf": "TO",
+  "population": 4478,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 19771903.82,
+    "total_expense": 19695872.96,
+    "own_revenue_percentage": 15.7,
+    "transfers_revenue_percentage": 84.3,
+    "personnel_expense_percentage_rcl": 49.3
+  },
+  "per_capita_breakdown": {
+    "health": 1226.0,
+    "education": 1145.7,
+    "urbanism": 694.6,
+    "administration": 292.8,
+    "legislative": 80.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3562.7,
+      "health_per_capita": 956.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3826.6,
+      "health_per_capita": 1029.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4090.5,
+      "health_per_capita": 1103.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4310.4,
+      "health_per_capita": 1177.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4398.4,
+      "health_per_capita": 1226.0
+    }
+  ]
+}

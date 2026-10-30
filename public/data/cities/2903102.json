@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2903102",
+  "city_name": "Barra do Rocha",
+  "uf": "BA",
+  "population": 5775,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 26407713.97,
+    "total_expense": 25422005.01,
+    "own_revenue_percentage": 10.5,
+    "transfers_revenue_percentage": 89.5,
+    "personnel_expense_percentage_rcl": 52.1
+  },
+  "per_capita_breakdown": {
+    "health": 923.9,
+    "education": 1403.1,
+    "urbanism": 505.1,
+    "administration": 489.3,
+    "legislative": 80.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3565.7,
+      "health_per_capita": 720.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3829.8,
+      "health_per_capita": 776.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4094.0,
+      "health_per_capita": 831.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4314.1,
+      "health_per_capita": 886.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4402.1,
+      "health_per_capita": 923.9
+    }
+  ]
+}

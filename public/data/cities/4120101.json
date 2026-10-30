@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4120101",
+  "city_name": "Porto Amazonas",
+  "uf": "PR",
+  "population": 4098,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 19796192.42,
+    "total_expense": 19076952.58,
+    "own_revenue_percentage": 14.8,
+    "transfers_revenue_percentage": 85.2,
+    "personnel_expense_percentage_rcl": 48.9
+  },
+  "per_capita_breakdown": {
+    "health": 983.5,
+    "education": 1216.9,
+    "urbanism": 710.5,
+    "administration": 433.3,
+    "legislative": 157.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3770.7,
+      "health_per_capita": 767.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4050.0,
+      "health_per_capita": 826.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4329.3,
+      "health_per_capita": 885.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4562.1,
+      "health_per_capita": 944.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4655.2,
+      "health_per_capita": 983.5
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2405900",
+  "city_name": "João Dias",
+  "uf": "RN",
+  "population": 2076,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 9683086.1,
+    "total_expense": 9452527.5,
+    "own_revenue_percentage": 18.4,
+    "transfers_revenue_percentage": 81.6,
+    "personnel_expense_percentage_rcl": 46.1
+  },
+  "per_capita_breakdown": {
+    "health": 1181.1,
+    "education": 1298.1,
+    "urbanism": 417.8,
+    "administration": 304.1,
+    "legislative": 150.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3688.1,
+      "health_per_capita": 921.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3961.3,
+      "health_per_capita": 992.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4234.5,
+      "health_per_capita": 1063.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4462.1,
+      "health_per_capita": 1133.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4553.2,
+      "health_per_capita": 1181.1
+    }
+  ]
+}

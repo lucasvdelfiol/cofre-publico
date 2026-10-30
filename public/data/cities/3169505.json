@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3169505",
+  "city_name": "Tumiritinga",
+  "uf": "MG",
+  "population": 5886,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 29394024.15,
+    "total_expense": 29046131.67,
+    "own_revenue_percentage": 21.7,
+    "transfers_revenue_percentage": 78.3,
+    "personnel_expense_percentage_rcl": 49.2
+  },
+  "per_capita_breakdown": {
+    "health": 1062.1,
+    "education": 1521.1,
+    "urbanism": 743.7,
+    "administration": 539.3,
+    "legislative": 115.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3997.2,
+      "health_per_capita": 828.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4293.3,
+      "health_per_capita": 892.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4589.4,
+      "health_per_capita": 955.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4836.1,
+      "health_per_capita": 1019.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4934.8,
+      "health_per_capita": 1062.1
+    }
+  ]
+}

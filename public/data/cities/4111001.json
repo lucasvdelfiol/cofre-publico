@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4111001",
+  "city_name": "Itambaracá",
+  "uf": "PR",
+  "population": 5908,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 31165020.32,
+    "total_expense": 31281000.94,
+    "own_revenue_percentage": 19.1,
+    "transfers_revenue_percentage": 80.9,
+    "personnel_expense_percentage_rcl": 49.7
+  },
+  "per_capita_breakdown": {
+    "health": 1202.1,
+    "education": 1398.5,
+    "urbanism": 590.9,
+    "administration": 511.1,
+    "legislative": 164.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4288.7,
+      "health_per_capita": 937.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4606.4,
+      "health_per_capita": 1009.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4924.1,
+      "health_per_capita": 1081.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5188.8,
+      "health_per_capita": 1154.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5294.7,
+      "health_per_capita": 1202.1
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3167202",
+  "city_name": "Sete Lagoas",
+  "uf": "MG",
+  "population": 227397,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 1307982070.29,
+    "total_expense": 1308951212.87,
+    "own_revenue_percentage": 50.4,
+    "transfers_revenue_percentage": 49.6,
+    "personnel_expense_percentage_rcl": 47.9
+  },
+  "per_capita_breakdown": {
+    "health": 1339.1,
+    "education": 1495.5,
+    "urbanism": 761.7,
+    "administration": 475.9,
+    "legislative": 168.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4662.5,
+      "health_per_capita": 1044.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 5007.9,
+      "health_per_capita": 1124.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5353.3,
+      "health_per_capita": 1205.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5641.1,
+      "health_per_capita": 1285.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5756.2,
+      "health_per_capita": 1339.1
+    }
+  ]
+}

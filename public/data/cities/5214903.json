@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5214903",
+  "city_name": "Nova Roma",
+  "uf": "GO",
+  "population": 3076,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 15628818.06,
+    "total_expense": 15500649.77,
+    "own_revenue_percentage": 12.0,
+    "transfers_revenue_percentage": 88.0,
+    "personnel_expense_percentage_rcl": 49.2
+  },
+  "per_capita_breakdown": {
+    "health": 1069.6,
+    "education": 1605.1,
+    "urbanism": 547.8,
+    "administration": 488.6,
+    "legislative": 111.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4081.8,
+      "health_per_capita": 834.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4384.1,
+      "health_per_capita": 898.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4686.5,
+      "health_per_capita": 962.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4938.4,
+      "health_per_capita": 1026.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5039.2,
+      "health_per_capita": 1069.6
+    }
+  ]
+}

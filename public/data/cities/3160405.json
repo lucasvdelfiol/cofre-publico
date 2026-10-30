@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3160405",
+  "city_name": "Santo Antônio do Monte",
+  "uf": "MG",
+  "population": 27295,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 121097247.38,
+    "total_expense": 122151089.9,
+    "own_revenue_percentage": 23.0,
+    "transfers_revenue_percentage": 77.0,
+    "personnel_expense_percentage_rcl": 53.3
+  },
+  "per_capita_breakdown": {
+    "health": 1096.4,
+    "education": 1326.9,
+    "urbanism": 489.6,
+    "administration": 288.4,
+    "legislative": 142.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3624.9,
+      "health_per_capita": 855.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3893.4,
+      "health_per_capita": 921.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4161.9,
+      "health_per_capita": 986.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4385.7,
+      "health_per_capita": 1052.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4475.2,
+      "health_per_capita": 1096.4
+    }
+  ]
+}

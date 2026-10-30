@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4215000",
+  "city_name": "Rio Negrinho",
+  "uf": "SC",
+  "population": 39261,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 163632692.4,
+    "total_expense": 164737737.06,
+    "own_revenue_percentage": 22.3,
+    "transfers_revenue_percentage": 77.7,
+    "personnel_expense_percentage_rcl": 46.6
+  },
+  "per_capita_breakdown": {
+    "health": 1138.7,
+    "education": 1254.1,
+    "urbanism": 497.0,
+    "administration": 369.8,
+    "legislative": 105.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3398.8,
+      "health_per_capita": 888.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3650.5,
+      "health_per_capita": 956.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3902.3,
+      "health_per_capita": 1024.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4112.1,
+      "health_per_capita": 1093.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4196.0,
+      "health_per_capita": 1138.7
+    }
+  ]
+}

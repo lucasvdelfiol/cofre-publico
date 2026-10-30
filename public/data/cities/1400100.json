@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1400100",
+  "city_name": "Boa Vista",
+  "uf": "RR",
+  "population": 413486,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 2354554786.51,
+    "total_expense": 2282063007.8,
+    "own_revenue_percentage": 38.9,
+    "transfers_revenue_percentage": 61.1,
+    "personnel_expense_percentage_rcl": 45.1
+  },
+  "per_capita_breakdown": {
+    "health": 1287.7,
+    "education": 1452.2,
+    "urbanism": 861.2,
+    "administration": 568.0,
+    "legislative": 110.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4470.5,
+      "health_per_capita": 1004.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4801.6,
+      "health_per_capita": 1081.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5132.8,
+      "health_per_capita": 1158.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5408.7,
+      "health_per_capita": 1236.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5519.1,
+      "health_per_capita": 1287.7
+    }
+  ]
+}

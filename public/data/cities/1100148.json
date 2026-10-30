@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1100148",
+  "city_name": "Nova Brasilândia D'Oeste",
+  "uf": "RO",
+  "population": 15679,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 73442881.66,
+    "total_expense": 72856217.45,
+    "own_revenue_percentage": 18.1,
+    "transfers_revenue_percentage": 81.9,
+    "personnel_expense_percentage_rcl": 50.0
+  },
+  "per_capita_breakdown": {
+    "health": 996.1,
+    "education": 1256.0,
+    "urbanism": 671.2,
+    "administration": 515.9,
+    "legislative": 121.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3763.8,
+      "health_per_capita": 777.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4042.6,
+      "health_per_capita": 836.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4321.4,
+      "health_per_capita": 896.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4553.8,
+      "health_per_capita": 956.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4646.7,
+      "health_per_capita": 996.1
+    }
+  ]
+}

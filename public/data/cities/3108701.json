@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3108701",
+  "city_name": "Brás Pires",
+  "uf": "MG",
+  "population": 4260,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 22398079.02,
+    "total_expense": 21714812.63,
+    "own_revenue_percentage": 15.8,
+    "transfers_revenue_percentage": 84.2,
+    "personnel_expense_percentage_rcl": 49.0
+  },
+  "per_capita_breakdown": {
+    "health": 1130.3,
+    "education": 1450.1,
+    "urbanism": 429.2,
+    "administration": 571.6,
+    "legislative": 124.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4128.9,
+      "health_per_capita": 881.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4434.7,
+      "health_per_capita": 949.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4740.6,
+      "health_per_capita": 1017.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4995.5,
+      "health_per_capita": 1085.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5097.4,
+      "health_per_capita": 1130.3
+    }
+  ]
+}

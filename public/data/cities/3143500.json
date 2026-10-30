@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3143500",
+  "city_name": "Morada Nova de Minas",
+  "uf": "MG",
+  "population": 9067,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 49043035.77,
+    "total_expense": 47911473.66,
+    "own_revenue_percentage": 12.3,
+    "transfers_revenue_percentage": 87.7,
+    "personnel_expense_percentage_rcl": 51.3
+  },
+  "per_capita_breakdown": {
+    "health": 1243.5,
+    "education": 1620.9,
+    "urbanism": 710.3,
+    "administration": 486.9,
+    "legislative": 177.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4280.2,
+      "health_per_capita": 969.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4597.3,
+      "health_per_capita": 1044.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4914.3,
+      "health_per_capita": 1119.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5178.5,
+      "health_per_capita": 1193.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5284.2,
+      "health_per_capita": 1243.5
+    }
+  ]
+}

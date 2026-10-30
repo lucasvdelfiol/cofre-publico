@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2207801",
+  "city_name": "Paulistana",
+  "uf": "PI",
+  "population": 21055,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 88321630.96,
+    "total_expense": 89070953.51,
+    "own_revenue_percentage": 21.1,
+    "transfers_revenue_percentage": 78.9,
+    "personnel_expense_percentage_rcl": 46.3
+  },
+  "per_capita_breakdown": {
+    "health": 1128.2,
+    "education": 1290.5,
+    "urbanism": 461.0,
+    "administration": 491.7,
+    "legislative": 105.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3426.6,
+      "health_per_capita": 880.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3680.4,
+      "health_per_capita": 947.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3934.3,
+      "health_per_capita": 1015.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4145.8,
+      "health_per_capita": 1083.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4230.4,
+      "health_per_capita": 1128.2
+    }
+  ]
+}

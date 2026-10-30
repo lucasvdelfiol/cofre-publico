@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4107751",
+  "city_name": "Figueira",
+  "uf": "PR",
+  "population": 8062,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 37086444.6,
+    "total_expense": 36049428.33,
+    "own_revenue_percentage": 16.2,
+    "transfers_revenue_percentage": 83.8,
+    "personnel_expense_percentage_rcl": 48.8
+  },
+  "per_capita_breakdown": {
+    "health": 1201.6,
+    "education": 1255.1,
+    "urbanism": 410.2,
+    "administration": 279.2,
+    "legislative": 106.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3621.9,
+      "health_per_capita": 937.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3890.2,
+      "health_per_capita": 1009.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4158.5,
+      "health_per_capita": 1081.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4382.1,
+      "health_per_capita": 1153.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4471.5,
+      "health_per_capita": 1201.6
+    }
+  ]
+}

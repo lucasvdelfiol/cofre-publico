@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2911006",
+  "city_name": "Floresta Azul",
+  "uf": "BA",
+  "population": 11059,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 57624273.74,
+    "total_expense": 57962441.06,
+    "own_revenue_percentage": 17.6,
+    "transfers_revenue_percentage": 82.4,
+    "personnel_expense_percentage_rcl": 45.8
+  },
+  "per_capita_breakdown": {
+    "health": 1286.8,
+    "education": 1349.1,
+    "urbanism": 556.5,
+    "administration": 554.4,
+    "legislative": 128.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4245.4,
+      "health_per_capita": 1003.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4559.8,
+      "health_per_capita": 1080.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4874.3,
+      "health_per_capita": 1158.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5136.4,
+      "health_per_capita": 1235.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5241.2,
+      "health_per_capita": 1286.8
+    }
+  ]
+}

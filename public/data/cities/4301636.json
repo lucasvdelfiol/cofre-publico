@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4301636",
+  "city_name": "Balneário Pinhal",
+  "uf": "RS",
+  "population": 14955,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 81715606.68,
+    "total_expense": 80776903.04,
+    "own_revenue_percentage": 15.3,
+    "transfers_revenue_percentage": 84.7,
+    "personnel_expense_percentage_rcl": 53.2
+  },
+  "per_capita_breakdown": {
+    "health": 1289.2,
+    "education": 1564.0,
+    "urbanism": 729.5,
+    "administration": 637.9,
+    "legislative": 152.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4375.1,
+      "health_per_capita": 1005.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4699.1,
+      "health_per_capita": 1082.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5023.2,
+      "health_per_capita": 1160.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5293.3,
+      "health_per_capita": 1237.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5401.3,
+      "health_per_capita": 1289.2
+    }
+  ]
+}

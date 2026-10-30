@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4114500",
+  "city_name": "Manoel Ribas",
+  "uf": "PR",
+  "population": 14240,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 69766558.04,
+    "total_expense": 68653758.82,
+    "own_revenue_percentage": 19.7,
+    "transfers_revenue_percentage": 80.3,
+    "personnel_expense_percentage_rcl": 49.5
+  },
+  "per_capita_breakdown": {
+    "health": 1245.6,
+    "education": 1254.9,
+    "urbanism": 550.1,
+    "administration": 387.6,
+    "legislative": 140.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3905.2,
+      "health_per_capita": 971.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4194.4,
+      "health_per_capita": 1046.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4483.7,
+      "health_per_capita": 1121.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4724.8,
+      "health_per_capita": 1195.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4821.2,
+      "health_per_capita": 1245.6
+    }
+  ]
+}

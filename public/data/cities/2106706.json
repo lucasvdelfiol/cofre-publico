@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2106706",
+  "city_name": "Mirador",
+  "uf": "MA",
+  "population": 21030,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 102242451.0,
+    "total_expense": 99389531.12,
+    "own_revenue_percentage": 22.5,
+    "transfers_revenue_percentage": 77.5,
+    "personnel_expense_percentage_rcl": 53.3
+  },
+  "per_capita_breakdown": {
+    "health": 1224.3,
+    "education": 1475.8,
+    "urbanism": 744.3,
+    "administration": 336.7,
+    "legislative": 139.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3828.1,
+      "health_per_capita": 955.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4111.7,
+      "health_per_capita": 1028.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4395.3,
+      "health_per_capita": 1101.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4631.6,
+      "health_per_capita": 1175.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4726.1,
+      "health_per_capita": 1224.3
+    }
+  ]
+}

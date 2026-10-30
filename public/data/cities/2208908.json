@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2208908",
+  "city_name": "Ribeiro Gonçalves",
+  "uf": "PI",
+  "population": 6164,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 28037861.28,
+    "total_expense": 27355244.28,
+    "own_revenue_percentage": 9.2,
+    "transfers_revenue_percentage": 90.8,
+    "personnel_expense_percentage_rcl": 50.3
+  },
+  "per_capita_breakdown": {
+    "health": 1144.8,
+    "education": 1393.1,
+    "urbanism": 492.8,
+    "administration": 374.8,
+    "legislative": 125.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3594.7,
+      "health_per_capita": 892.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3861.0,
+      "health_per_capita": 961.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4127.2,
+      "health_per_capita": 1030.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4349.1,
+      "health_per_capita": 1099.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4437.9,
+      "health_per_capita": 1144.8
+    }
+  ]
+}

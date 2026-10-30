@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2206605",
+  "city_name": "Monte Alegre do Piauí",
+  "uf": "PI",
+  "population": 10660,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 47433357.64,
+    "total_expense": 47680075.62,
+    "own_revenue_percentage": 15.0,
+    "transfers_revenue_percentage": 85.0,
+    "personnel_expense_percentage_rcl": 48.7
+  },
+  "per_capita_breakdown": {
+    "health": 1168.3,
+    "education": 1135.4,
+    "urbanism": 681.5,
+    "administration": 519.5,
+    "legislative": 71.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3623.0,
+      "health_per_capita": 911.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3891.3,
+      "health_per_capita": 981.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4159.7,
+      "health_per_capita": 1051.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4383.3,
+      "health_per_capita": 1121.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4472.8,
+      "health_per_capita": 1168.3
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4301008",
+  "city_name": "Arroio do Meio",
+  "uf": "RS",
+  "population": 21958,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 94373995.04,
+    "total_expense": 91814292.72,
+    "own_revenue_percentage": 26.9,
+    "transfers_revenue_percentage": 73.1,
+    "personnel_expense_percentage_rcl": 49.5
+  },
+  "per_capita_breakdown": {
+    "health": 1125.1,
+    "education": 1312.5,
+    "urbanism": 663.2,
+    "administration": 441.4,
+    "legislative": 142.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3386.9,
+      "health_per_capita": 877.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3637.8,
+      "health_per_capita": 945.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3888.7,
+      "health_per_capita": 1012.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4097.8,
+      "health_per_capita": 1080.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4181.4,
+      "health_per_capita": 1125.1
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3162906",
+  "city_name": "São João Nepomuceno",
+  "uf": "MG",
+  "population": 25565,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 114178383.54,
+    "total_expense": 113868562.03,
+    "own_revenue_percentage": 24.3,
+    "transfers_revenue_percentage": 75.7,
+    "personnel_expense_percentage_rcl": 49.3
+  },
+  "per_capita_breakdown": {
+    "health": 1135.0,
+    "education": 1308.7,
+    "urbanism": 633.4,
+    "administration": 301.7,
+    "legislative": 129.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3607.8,
+      "health_per_capita": 885.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3875.1,
+      "health_per_capita": 953.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4142.3,
+      "health_per_capita": 1021.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4365.0,
+      "health_per_capita": 1089.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4454.1,
+      "health_per_capita": 1135.0
+    }
+  ]
+}

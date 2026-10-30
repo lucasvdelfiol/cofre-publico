@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5203807",
+  "city_name": "Britânia",
+  "uf": "GO",
+  "population": 5695,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 25948051.32,
+    "total_expense": 24951567.86,
+    "own_revenue_percentage": 14.1,
+    "transfers_revenue_percentage": 85.9,
+    "personnel_expense_percentage_rcl": 47.5
+  },
+  "per_capita_breakdown": {
+    "health": 1225.7,
+    "education": 1275.7,
+    "urbanism": 591.7,
+    "administration": 343.4,
+    "legislative": 139.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3548.9,
+      "health_per_capita": 956.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3811.7,
+      "health_per_capita": 1029.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4074.6,
+      "health_per_capita": 1103.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4293.7,
+      "health_per_capita": 1176.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4381.3,
+      "health_per_capita": 1225.7
+    }
+  ]
+}

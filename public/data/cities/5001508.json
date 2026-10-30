@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5001508",
+  "city_name": "Bandeirantes",
+  "uf": "MS",
+  "population": 7940,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 42172579.51,
+    "total_expense": 41601923.06,
+    "own_revenue_percentage": 14.6,
+    "transfers_revenue_percentage": 85.4,
+    "personnel_expense_percentage_rcl": 47.9
+  },
+  "per_capita_breakdown": {
+    "health": 1223.9,
+    "education": 1547.5,
+    "urbanism": 519.5,
+    "administration": 501.3,
+    "legislative": 173.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4244.0,
+      "health_per_capita": 954.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4558.4,
+      "health_per_capita": 1028.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4872.7,
+      "health_per_capita": 1101.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5134.7,
+      "health_per_capita": 1174.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5239.5,
+      "health_per_capita": 1223.9
+    }
+  ]
+}

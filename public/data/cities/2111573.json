@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2111573",
+  "city_name": "São Pedro dos Crentes",
+  "uf": "MA",
+  "population": 5783,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 30067607.66,
+    "total_expense": 28913302.39,
+    "own_revenue_percentage": 11.0,
+    "transfers_revenue_percentage": 89.0,
+    "personnel_expense_percentage_rcl": 46.2
+  },
+  "per_capita_breakdown": {
+    "health": 1030.3,
+    "education": 1513.2,
+    "urbanism": 659.7,
+    "administration": 410.4,
+    "legislative": 95.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4049.8,
+      "health_per_capita": 803.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4349.7,
+      "health_per_capita": 865.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4649.7,
+      "health_per_capita": 927.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4899.7,
+      "health_per_capita": 989.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4999.7,
+      "health_per_capita": 1030.3
+    }
+  ]
+}

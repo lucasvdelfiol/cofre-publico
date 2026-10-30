@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5005004",
+  "city_name": "Jardim",
+  "uf": "MS",
+  "population": 23981,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 112549561.86,
+    "total_expense": 111279103.27,
+    "own_revenue_percentage": 30.3,
+    "transfers_revenue_percentage": 69.7,
+    "personnel_expense_percentage_rcl": 51.2
+  },
+  "per_capita_breakdown": {
+    "health": 1122.2,
+    "education": 1250.7,
+    "urbanism": 486.4,
+    "administration": 434.7,
+    "legislative": 89.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3758.6,
+      "health_per_capita": 875.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4037.1,
+      "health_per_capita": 942.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4315.5,
+      "health_per_capita": 1010.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4547.5,
+      "health_per_capita": 1077.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4640.3,
+      "health_per_capita": 1122.2
+    }
+  ]
+}

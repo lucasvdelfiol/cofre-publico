@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2906857",
+  "city_name": "Capela do Alto Alegre",
+  "uf": "BA",
+  "population": 10744,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 50287266.35,
+    "total_expense": 50542359.83,
+    "own_revenue_percentage": 14.5,
+    "transfers_revenue_percentage": 85.5,
+    "personnel_expense_percentage_rcl": 50.3
+  },
+  "per_capita_breakdown": {
+    "health": 1010.4,
+    "education": 1436.6,
+    "urbanism": 548.7,
+    "administration": 477.5,
+    "legislative": 162.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3810.4,
+      "health_per_capita": 788.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4092.7,
+      "health_per_capita": 848.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4374.9,
+      "health_per_capita": 909.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4610.1,
+      "health_per_capita": 970.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4704.2,
+      "health_per_capita": 1010.4
+    }
+  ]
+}

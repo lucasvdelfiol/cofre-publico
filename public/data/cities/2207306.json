@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2207306",
+  "city_name": "Paes Landim",
+  "uf": "PI",
+  "population": 4088,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 21829031.62,
+    "total_expense": 21548800.36,
+    "own_revenue_percentage": 17.5,
+    "transfers_revenue_percentage": 82.5,
+    "personnel_expense_percentage_rcl": 51.7
+  },
+  "per_capita_breakdown": {
+    "health": 1206.2,
+    "education": 1534.9,
+    "urbanism": 743.4,
+    "administration": 459.8,
+    "legislative": 160.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4269.7,
+      "health_per_capita": 940.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4585.9,
+      "health_per_capita": 1013.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4902.2,
+      "health_per_capita": 1085.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5165.8,
+      "health_per_capita": 1158.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5271.2,
+      "health_per_capita": 1206.2
+    }
+  ]
+}

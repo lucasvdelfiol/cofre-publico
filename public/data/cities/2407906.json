@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2407906",
+  "city_name": "Monte das Gameleiras",
+  "uf": "RN",
+  "population": 2276,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 10231890.6,
+    "total_expense": 10109260.32,
+    "own_revenue_percentage": 16.1,
+    "transfers_revenue_percentage": 83.9,
+    "personnel_expense_percentage_rcl": 49.3
+  },
+  "per_capita_breakdown": {
+    "health": 1207.7,
+    "education": 1411.0,
+    "urbanism": 480.6,
+    "administration": 316.8,
+    "legislative": 83.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3597.8,
+      "health_per_capita": 942.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3864.3,
+      "health_per_capita": 1014.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4130.8,
+      "health_per_capita": 1086.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4352.9,
+      "health_per_capita": 1159.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4441.7,
+      "health_per_capita": 1207.7
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2516151",
+  "city_name": "Sossêgo",
+  "uf": "PB",
+  "population": 3345,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 16397897.7,
+    "total_expense": 15833496.37,
+    "own_revenue_percentage": 9.3,
+    "transfers_revenue_percentage": 90.7,
+    "personnel_expense_percentage_rcl": 51.4
+  },
+  "per_capita_breakdown": {
+    "health": 969.5,
+    "education": 1238.9,
+    "urbanism": 502.4,
+    "administration": 396.1,
+    "legislative": 140.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3834.1,
+      "health_per_capita": 756.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4118.1,
+      "health_per_capita": 814.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4402.2,
+      "health_per_capita": 872.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4638.8,
+      "health_per_capita": 930.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4733.5,
+      "health_per_capita": 969.5
+    }
+  ]
+}

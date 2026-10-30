@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2907400",
+  "city_name": "Catolândia",
+  "uf": "BA",
+  "population": 3434,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 17841309.38,
+    "total_expense": 17227262.65,
+    "own_revenue_percentage": 16.9,
+    "transfers_revenue_percentage": 83.1,
+    "personnel_expense_percentage_rcl": 53.4
+  },
+  "per_capita_breakdown": {
+    "health": 1280.6,
+    "education": 1264.9,
+    "urbanism": 705.7,
+    "administration": 323.4,
+    "legislative": 108.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4063.5,
+      "health_per_capita": 998.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4364.5,
+      "health_per_capita": 1075.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4665.5,
+      "health_per_capita": 1152.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4916.4,
+      "health_per_capita": 1229.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5016.7,
+      "health_per_capita": 1280.6
+    }
+  ]
+}

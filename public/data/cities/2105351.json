@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2105351",
+  "city_name": "Itaipava do Grajaú",
+  "uf": "MA",
+  "population": 13828,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 59795878.92,
+    "total_expense": 60042213.01,
+    "own_revenue_percentage": 21.8,
+    "transfers_revenue_percentage": 78.2,
+    "personnel_expense_percentage_rcl": 46.1
+  },
+  "per_capita_breakdown": {
+    "health": 931.8,
+    "education": 1053.1,
+    "urbanism": 675.8,
+    "administration": 499.6,
+    "legislative": 86.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3517.1,
+      "health_per_capita": 726.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3777.6,
+      "health_per_capita": 782.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4038.2,
+      "health_per_capita": 838.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4255.3,
+      "health_per_capita": 894.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4342.1,
+      "health_per_capita": 931.8
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3152501",
+  "city_name": "Pouso Alegre",
+  "uf": "MG",
+  "population": 152217,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 844693303.01,
+    "total_expense": 821055888.22,
+    "own_revenue_percentage": 53.8,
+    "transfers_revenue_percentage": 46.2,
+    "personnel_expense_percentage_rcl": 45.9
+  },
+  "per_capita_breakdown": {
+    "health": 1402.2,
+    "education": 1411.0,
+    "urbanism": 804.7,
+    "administration": 436.2,
+    "legislative": 179.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4369.1,
+      "health_per_capita": 1093.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4692.8,
+      "health_per_capita": 1177.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5016.4,
+      "health_per_capita": 1262.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5286.1,
+      "health_per_capita": 1346.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5394.0,
+      "health_per_capita": 1402.2
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5107263",
+  "city_name": "Santo Afonso",
+  "uf": "MT",
+  "population": 2519,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 12690902.87,
+    "total_expense": 12598849.99,
+    "own_revenue_percentage": 13.7,
+    "transfers_revenue_percentage": 86.3,
+    "personnel_expense_percentage_rcl": 50.4
+  },
+  "per_capita_breakdown": {
+    "health": 1350.4,
+    "education": 1421.4,
+    "urbanism": 589.7,
+    "administration": 481.1,
+    "legislative": 103.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4051.2,
+      "health_per_capita": 1053.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4351.3,
+      "health_per_capita": 1134.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4651.4,
+      "health_per_capita": 1215.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4901.5,
+      "health_per_capita": 1296.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5001.5,
+      "health_per_capita": 1350.4
+    }
+  ]
+}

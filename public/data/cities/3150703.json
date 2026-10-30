@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3150703",
+  "city_name": "Pirajuba",
+  "uf": "MG",
+  "population": 5537,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 26003642.48,
+    "total_expense": 25750139.34,
+    "own_revenue_percentage": 20.2,
+    "transfers_revenue_percentage": 79.8,
+    "personnel_expense_percentage_rcl": 47.4
+  },
+  "per_capita_breakdown": {
+    "health": 1024.5,
+    "education": 1272.3,
+    "urbanism": 518.6,
+    "administration": 377.2,
+    "legislative": 101.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3767.0,
+      "health_per_capita": 799.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4046.0,
+      "health_per_capita": 860.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4325.1,
+      "health_per_capita": 922.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4557.6,
+      "health_per_capita": 983.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4650.6,
+      "health_per_capita": 1024.5
+    }
+  ]
+}

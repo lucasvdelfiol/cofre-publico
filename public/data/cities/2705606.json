@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2705606",
+  "city_name": "Novo Lino",
+  "uf": "AL",
+  "population": 10020,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 47263812.95,
+    "total_expense": 47522443.64,
+    "own_revenue_percentage": 15.8,
+    "transfers_revenue_percentage": 84.2,
+    "personnel_expense_percentage_rcl": 46.6
+  },
+  "per_capita_breakdown": {
+    "health": 1075.9,
+    "education": 1287.6,
+    "urbanism": 570.3,
+    "administration": 362.5,
+    "legislative": 132.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3841.7,
+      "health_per_capita": 839.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4126.2,
+      "health_per_capita": 903.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4410.8,
+      "health_per_capita": 968.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4647.9,
+      "health_per_capita": 1032.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4742.8,
+      "health_per_capita": 1075.9
+    }
+  ]
+}

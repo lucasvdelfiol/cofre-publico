@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5005400",
+  "city_name": "Maracaju",
+  "uf": "MS",
+  "population": 45047,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 211548561.8,
+    "total_expense": 212556605.97,
+    "own_revenue_percentage": 32.0,
+    "transfers_revenue_percentage": 68.0,
+    "personnel_expense_percentage_rcl": 52.4
+  },
+  "per_capita_breakdown": {
+    "health": 1186.7,
+    "education": 1478.4,
+    "urbanism": 404.2,
+    "administration": 413.0,
+    "legislative": 152.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3822.1,
+      "health_per_capita": 925.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4105.2,
+      "health_per_capita": 996.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4388.3,
+      "health_per_capita": 1068.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4624.2,
+      "health_per_capita": 1139.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4718.6,
+      "health_per_capita": 1186.7
+    }
+  ]
+}

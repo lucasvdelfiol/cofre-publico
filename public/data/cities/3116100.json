@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3116100",
+  "city_name": "Chapada do Norte",
+  "uf": "MG",
+  "population": 10337,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 50428173.75,
+    "total_expense": 50252431.21,
+    "own_revenue_percentage": 15.6,
+    "transfers_revenue_percentage": 84.4,
+    "personnel_expense_percentage_rcl": 45.7
+  },
+  "per_capita_breakdown": {
+    "health": 1036.5,
+    "education": 1547.0,
+    "urbanism": 718.9,
+    "administration": 346.3,
+    "legislative": 96.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3937.7,
+      "health_per_capita": 808.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4229.4,
+      "health_per_capita": 870.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4521.1,
+      "health_per_capita": 932.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4764.2,
+      "health_per_capita": 995.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4861.4,
+      "health_per_capita": 1036.5
+    }
+  ]
+}

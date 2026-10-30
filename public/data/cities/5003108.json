@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5003108",
+  "city_name": "Corguinho",
+  "uf": "MS",
+  "population": 4783,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 20497926.9,
+    "total_expense": 20685816.5,
+    "own_revenue_percentage": 18.5,
+    "transfers_revenue_percentage": 81.5,
+    "personnel_expense_percentage_rcl": 50.9
+  },
+  "per_capita_breakdown": {
+    "health": 1075.8,
+    "education": 1286.0,
+    "urbanism": 639.8,
+    "administration": 317.7,
+    "legislative": 84.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3503.2,
+      "health_per_capita": 839.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3762.7,
+      "health_per_capita": 903.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4022.2,
+      "health_per_capita": 968.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4238.4,
+      "health_per_capita": 1032.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4324.9,
+      "health_per_capita": 1075.8
+    }
+  ]
+}

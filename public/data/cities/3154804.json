@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3154804",
+  "city_name": "Rio Acima",
+  "uf": "MG",
+  "population": 10261,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 48612449.79,
+    "total_expense": 47526428.54,
+    "own_revenue_percentage": 13.6,
+    "transfers_revenue_percentage": 86.4,
+    "personnel_expense_percentage_rcl": 53.4
+  },
+  "per_capita_breakdown": {
+    "health": 1049.4,
+    "education": 1378.2,
+    "urbanism": 480.7,
+    "administration": 370.3,
+    "legislative": 131.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3751.8,
+      "health_per_capita": 818.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4029.7,
+      "health_per_capita": 881.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4307.6,
+      "health_per_capita": 944.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4539.2,
+      "health_per_capita": 1007.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4631.8,
+      "health_per_capita": 1049.4
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2500502",
+  "city_name": "Alagoinha",
+  "uf": "PB",
+  "population": 13725,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 62710147.2,
+    "total_expense": 60729361.05,
+    "own_revenue_percentage": 15.8,
+    "transfers_revenue_percentage": 84.2,
+    "personnel_expense_percentage_rcl": 49.5
+  },
+  "per_capita_breakdown": {
+    "health": 1012.8,
+    "education": 1242.9,
+    "urbanism": 448.6,
+    "administration": 428.3,
+    "legislative": 120.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3584.0,
+      "health_per_capita": 790.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3849.5,
+      "health_per_capita": 850.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4115.0,
+      "health_per_capita": 911.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4336.2,
+      "health_per_capita": 972.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4424.7,
+      "health_per_capita": 1012.8
+    }
+  ]
+}

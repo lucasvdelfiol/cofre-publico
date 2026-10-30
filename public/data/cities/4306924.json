@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4306924",
+  "city_name": "Engenho Velho",
+  "uf": "RS",
+  "population": 1500,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 7094928.93,
+    "total_expense": 7000887.39,
+    "own_revenue_percentage": 16.1,
+    "transfers_revenue_percentage": 83.9,
+    "personnel_expense_percentage_rcl": 52.3
+  },
+  "per_capita_breakdown": {
+    "health": 1142.7,
+    "education": 1374.0,
+    "urbanism": 554.8,
+    "administration": 299.0,
+    "legislative": 97.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3780.5,
+      "health_per_capita": 891.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4060.6,
+      "health_per_capita": 959.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4340.6,
+      "health_per_capita": 1028.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4574.0,
+      "health_per_capita": 1097.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4667.3,
+      "health_per_capita": 1142.7
+    }
+  ]
+}

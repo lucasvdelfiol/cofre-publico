@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2613800",
+  "city_name": "São Vicente Férrer",
+  "uf": "PE",
+  "population": 16677,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 93156782.0,
+    "total_expense": 90387267.92,
+    "own_revenue_percentage": 17.5,
+    "transfers_revenue_percentage": 82.5,
+    "personnel_expense_percentage_rcl": 46.7
+  },
+  "per_capita_breakdown": {
+    "health": 1244.8,
+    "education": 1710.4,
+    "urbanism": 473.1,
+    "administration": 411.8,
+    "legislative": 109.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4390.1,
+      "health_per_capita": 970.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4715.3,
+      "health_per_capita": 1045.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5040.5,
+      "health_per_capita": 1120.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5311.5,
+      "health_per_capita": 1195.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5419.9,
+      "health_per_capita": 1244.8
+    }
+  ]
+}

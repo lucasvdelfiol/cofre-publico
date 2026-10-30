@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3538907",
+  "city_name": "Pirajuí",
+  "uf": "SP",
+  "population": 22431,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 108914452.49,
+    "total_expense": 108470048.66,
+    "own_revenue_percentage": 22.7,
+    "transfers_revenue_percentage": 77.3,
+    "personnel_expense_percentage_rcl": 51.8
+  },
+  "per_capita_breakdown": {
+    "health": 999.9,
+    "education": 1467.2,
+    "urbanism": 675.9,
+    "administration": 358.3,
+    "legislative": 112.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3916.9,
+      "health_per_capita": 779.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4207.1,
+      "health_per_capita": 839.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4497.2,
+      "health_per_capita": 899.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4739.0,
+      "health_per_capita": 959.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4835.7,
+      "health_per_capita": 999.9
+    }
+  ]
+}

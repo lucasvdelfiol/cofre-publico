@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2107308",
+  "city_name": "Nova Iorque",
+  "uf": "MA",
+  "population": 4320,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 21565749.93,
+    "total_expense": 21576815.14,
+    "own_revenue_percentage": 10.3,
+    "transfers_revenue_percentage": 89.7,
+    "personnel_expense_percentage_rcl": 51.4
+  },
+  "per_capita_breakdown": {
+    "health": 1118.2,
+    "education": 1439.5,
+    "urbanism": 405.0,
+    "administration": 580.9,
+    "legislative": 170.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4045.6,
+      "health_per_capita": 872.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4345.3,
+      "health_per_capita": 939.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4645.0,
+      "health_per_capita": 1006.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4894.7,
+      "health_per_capita": 1073.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4994.6,
+      "health_per_capita": 1118.2
+    }
+  ]
+}

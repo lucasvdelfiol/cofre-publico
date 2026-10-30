@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2929057",
+  "city_name": "São Félix do Coribe",
+  "uf": "BA",
+  "population": 15194,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 71300517.95,
+    "total_expense": 68716286.59,
+    "own_revenue_percentage": 10.1,
+    "transfers_revenue_percentage": 89.9,
+    "personnel_expense_percentage_rcl": 50.0
+  },
+  "per_capita_breakdown": {
+    "health": 991.3,
+    "education": 1178.1,
+    "urbanism": 675.0,
+    "administration": 443.9,
+    "legislative": 117.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3663.3,
+      "health_per_capita": 773.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3934.7,
+      "health_per_capita": 832.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4206.0,
+      "health_per_capita": 892.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4432.1,
+      "health_per_capita": 951.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4522.6,
+      "health_per_capita": 991.3
+    }
+  ]
+}

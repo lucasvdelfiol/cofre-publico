@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5213053",
+  "city_name": "Mimoso de Goiás",
+  "uf": "GO",
+  "population": 2614,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 14033358.2,
+    "total_expense": 13998296.87,
+    "own_revenue_percentage": 13.3,
+    "transfers_revenue_percentage": 86.7,
+    "personnel_expense_percentage_rcl": 49.4
+  },
+  "per_capita_breakdown": {
+    "health": 1346.4,
+    "education": 1542.0,
+    "urbanism": 589.0,
+    "administration": 386.8,
+    "legislative": 156.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4337.6,
+      "health_per_capita": 1050.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4658.9,
+      "health_per_capita": 1131.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4980.2,
+      "health_per_capita": 1211.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5248.0,
+      "health_per_capita": 1292.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5355.1,
+      "health_per_capita": 1346.4
+    }
+  ]
+}

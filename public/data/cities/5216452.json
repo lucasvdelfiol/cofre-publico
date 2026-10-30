@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5216452",
+  "city_name": "Perolândia",
+  "uf": "GO",
+  "population": 2964,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 13165468.16,
+    "total_expense": 13181991.75,
+    "own_revenue_percentage": 9.4,
+    "transfers_revenue_percentage": 90.6,
+    "personnel_expense_percentage_rcl": 49.4
+  },
+  "per_capita_breakdown": {
+    "health": 961.0,
+    "education": 1140.3,
+    "urbanism": 358.5,
+    "administration": 319.7,
+    "legislative": 148.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3602.4,
+      "health_per_capita": 749.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3869.2,
+      "health_per_capita": 807.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4136.1,
+      "health_per_capita": 864.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4358.5,
+      "health_per_capita": 922.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4447.4,
+      "health_per_capita": 961.0
+    }
+  ]
+}

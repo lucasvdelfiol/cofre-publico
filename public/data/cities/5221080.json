@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5221080",
+  "city_name": "Teresina de Goiás",
+  "uf": "GO",
+  "population": 2701,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 15385409.01,
+    "total_expense": 14917112.05,
+    "own_revenue_percentage": 11.6,
+    "transfers_revenue_percentage": 88.4,
+    "personnel_expense_percentage_rcl": 49.6
+  },
+  "per_capita_breakdown": {
+    "health": 1266.6,
+    "education": 1480.9,
+    "urbanism": 549.6,
+    "administration": 389.6,
+    "legislative": 104.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4473.5,
+      "health_per_capita": 987.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4804.8,
+      "health_per_capita": 1063.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5136.2,
+      "health_per_capita": 1139.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5412.3,
+      "health_per_capita": 1215.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5522.8,
+      "health_per_capita": 1266.6
+    }
+  ]
+}

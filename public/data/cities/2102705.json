@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2102705",
+  "city_name": "Cantanhede",
+  "uf": "MA",
+  "population": 24303,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 108431798.73,
+    "total_expense": 106049909.54,
+    "own_revenue_percentage": 31.6,
+    "transfers_revenue_percentage": 68.4,
+    "personnel_expense_percentage_rcl": 46.6
+  },
+  "per_capita_breakdown": {
+    "health": 1181.8,
+    "education": 1226.5,
+    "urbanism": 415.9,
+    "administration": 404.5,
+    "legislative": 81.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3534.6,
+      "health_per_capita": 921.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3796.4,
+      "health_per_capita": 992.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4058.2,
+      "health_per_capita": 1063.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4276.4,
+      "health_per_capita": 1134.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4363.7,
+      "health_per_capita": 1181.8
+    }
+  ]
+}

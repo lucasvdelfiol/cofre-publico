@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2705309",
+  "city_name": "Minador do Negrão",
+  "uf": "AL",
+  "population": 4845,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 22220919.84,
+    "total_expense": 21680139.8,
+    "own_revenue_percentage": 16.9,
+    "transfers_revenue_percentage": 83.1,
+    "personnel_expense_percentage_rcl": 49.6
+  },
+  "per_capita_breakdown": {
+    "health": 1191.1,
+    "education": 1421.4,
+    "urbanism": 463.3,
+    "administration": 389.6,
+    "legislative": 136.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3624.5,
+      "health_per_capita": 929.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3893.0,
+      "health_per_capita": 1000.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4161.5,
+      "health_per_capita": 1072.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4385.2,
+      "health_per_capita": 1143.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4474.7,
+      "health_per_capita": 1191.1
+    }
+  ]
+}

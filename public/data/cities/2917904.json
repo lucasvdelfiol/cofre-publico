@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2917904",
+  "city_name": "Jandaíra",
+  "uf": "BA",
+  "population": 9285,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 48794118.39,
+    "total_expense": 48756073.53,
+    "own_revenue_percentage": 19.5,
+    "transfers_revenue_percentage": 80.5,
+    "personnel_expense_percentage_rcl": 46.8
+  },
+  "per_capita_breakdown": {
+    "health": 1382.9,
+    "education": 1447.7,
+    "urbanism": 489.0,
+    "administration": 597.6,
+    "legislative": 92.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4253.4,
+      "health_per_capita": 1078.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4568.5,
+      "health_per_capita": 1161.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4883.5,
+      "health_per_capita": 1244.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5146.1,
+      "health_per_capita": 1327.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5251.1,
+      "health_per_capita": 1382.9
+    }
+  ]
+}

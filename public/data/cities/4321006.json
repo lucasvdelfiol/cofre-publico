@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4321006",
+  "city_name": "Tapera",
+  "uf": "RS",
+  "population": 10592,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 58777236.19,
+    "total_expense": 57973669.15,
+    "own_revenue_percentage": 17.8,
+    "transfers_revenue_percentage": 82.2,
+    "personnel_expense_percentage_rcl": 50.0
+  },
+  "per_capita_breakdown": {
+    "health": 1418.5,
+    "education": 1723.9,
+    "urbanism": 441.7,
+    "administration": 548.4,
+    "legislative": 174.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4433.4,
+      "health_per_capita": 1106.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4761.8,
+      "health_per_capita": 1191.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5090.2,
+      "health_per_capita": 1276.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5363.8,
+      "health_per_capita": 1361.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5473.3,
+      "health_per_capita": 1418.5
+    }
+  ]
+}

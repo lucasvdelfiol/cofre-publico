@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5209903",
+  "city_name": "Iaciara",
+  "uf": "GO",
+  "population": 10584,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 57935502.84,
+    "total_expense": 57743931.32,
+    "own_revenue_percentage": 19.0,
+    "transfers_revenue_percentage": 81.0,
+    "personnel_expense_percentage_rcl": 50.4
+  },
+  "per_capita_breakdown": {
+    "health": 1267.6,
+    "education": 1694.8,
+    "urbanism": 662.7,
+    "administration": 398.4,
+    "legislative": 107.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4419.2,
+      "health_per_capita": 988.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4746.5,
+      "health_per_capita": 1064.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5073.9,
+      "health_per_capita": 1140.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5346.7,
+      "health_per_capita": 1216.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5455.8,
+      "health_per_capita": 1267.6
+    }
+  ]
+}

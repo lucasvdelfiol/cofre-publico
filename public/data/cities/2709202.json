@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2709202",
+  "city_name": "Traipu",
+  "uf": "AL",
+  "population": 23565,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 104326893.95,
+    "total_expense": 103496702.92,
+    "own_revenue_percentage": 24.1,
+    "transfers_revenue_percentage": 75.9,
+    "personnel_expense_percentage_rcl": 51.7
+  },
+  "per_capita_breakdown": {
+    "health": 1062.7,
+    "education": 1354.5,
+    "urbanism": 670.1,
+    "administration": 504.9,
+    "legislative": 125.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3557.5,
+      "health_per_capita": 828.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3821.0,
+      "health_per_capita": 892.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4084.6,
+      "health_per_capita": 956.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4304.2,
+      "health_per_capita": 1020.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4392.0,
+      "health_per_capita": 1062.7
+    }
+  ]
+}

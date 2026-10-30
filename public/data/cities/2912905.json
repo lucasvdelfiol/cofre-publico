@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2912905",
+  "city_name": "Ibirataia",
+  "uf": "BA",
+  "population": 18792,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 87224215.85,
+    "total_expense": 85978392.16,
+    "own_revenue_percentage": 21.4,
+    "transfers_revenue_percentage": 78.6,
+    "personnel_expense_percentage_rcl": 46.2
+  },
+  "per_capita_breakdown": {
+    "health": 1056.8,
+    "education": 1463.1,
+    "urbanism": 484.6,
+    "administration": 299.7,
+    "legislative": 155.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3706.0,
+      "health_per_capita": 824.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3980.5,
+      "health_per_capita": 887.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4255.0,
+      "health_per_capita": 951.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4483.8,
+      "health_per_capita": 1014.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4575.3,
+      "health_per_capita": 1056.8
+    }
+  ]
+}

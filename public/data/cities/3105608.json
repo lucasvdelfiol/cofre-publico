@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3105608",
+  "city_name": "Barbacena",
+  "uf": "MG",
+  "population": 125317,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 633051630.46,
+    "total_expense": 624313317.54,
+    "own_revenue_percentage": 49.9,
+    "transfers_revenue_percentage": 50.1,
+    "personnel_expense_percentage_rcl": 49.5
+  },
+  "per_capita_breakdown": {
+    "health": 1232.2,
+    "education": 1589.2,
+    "urbanism": 744.7,
+    "administration": 427.7,
+    "legislative": 133.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4035.3,
+      "health_per_capita": 961.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4334.3,
+      "health_per_capita": 1035.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4633.2,
+      "health_per_capita": 1109.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4882.3,
+      "health_per_capita": 1182.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4981.9,
+      "health_per_capita": 1232.2
+    }
+  ]
+}

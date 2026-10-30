@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2303659",
+  "city_name": "Catunda",
+  "uf": "CE",
+  "population": 10444,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 54959490.44,
+    "total_expense": 54621572.08,
+    "own_revenue_percentage": 9.9,
+    "transfers_revenue_percentage": 90.1,
+    "personnel_expense_percentage_rcl": 46.0
+  },
+  "per_capita_breakdown": {
+    "health": 1387.6,
+    "education": 1486.2,
+    "urbanism": 478.1,
+    "administration": 546.4,
+    "legislative": 113.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4236.2,
+      "health_per_capita": 1082.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4550.0,
+      "health_per_capita": 1165.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4863.8,
+      "health_per_capita": 1248.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5125.3,
+      "health_per_capita": 1332.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5229.9,
+      "health_per_capita": 1387.6
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3144359",
+  "city_name": "Naque",
+  "uf": "MG",
+  "population": 6303,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 32636634.86,
+    "total_expense": 31803376.86,
+    "own_revenue_percentage": 9.5,
+    "transfers_revenue_percentage": 90.5,
+    "personnel_expense_percentage_rcl": 53.3
+  },
+  "per_capita_breakdown": {
+    "health": 1290.4,
+    "education": 1300.6,
+    "urbanism": 420.7,
+    "administration": 359.7,
+    "legislative": 168.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4087.1,
+      "health_per_capita": 1006.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4389.8,
+      "health_per_capita": 1083.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4692.6,
+      "health_per_capita": 1161.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4944.9,
+      "health_per_capita": 1238.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5045.8,
+      "health_per_capita": 1290.4
+    }
+  ]
+}

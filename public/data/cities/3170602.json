@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3170602",
+  "city_name": "Vargem Bonita",
+  "uf": "MG",
+  "population": 2158,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 9615711.95,
+    "total_expense": 9452098.65,
+    "own_revenue_percentage": 21.9,
+    "transfers_revenue_percentage": 78.1,
+    "personnel_expense_percentage_rcl": 50.1
+  },
+  "per_capita_breakdown": {
+    "health": 1046.2,
+    "education": 1095.4,
+    "urbanism": 528.1,
+    "administration": 373.9,
+    "legislative": 144.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3547.8,
+      "health_per_capita": 816.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3810.6,
+      "health_per_capita": 878.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4073.4,
+      "health_per_capita": 941.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4292.4,
+      "health_per_capita": 1004.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4380.0,
+      "health_per_capita": 1046.2
+    }
+  ]
+}

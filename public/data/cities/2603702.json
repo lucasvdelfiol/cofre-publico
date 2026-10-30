@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2603702",
+  "city_name": "Canhotinho",
+  "uf": "PE",
+  "population": 24329,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 104061782.63,
+    "total_expense": 101006028.12,
+    "own_revenue_percentage": 18.8,
+    "transfers_revenue_percentage": 81.2,
+    "personnel_expense_percentage_rcl": 50.6
+  },
+  "per_capita_breakdown": {
+    "health": 1054.0,
+    "education": 1093.4,
+    "urbanism": 609.6,
+    "administration": 334.5,
+    "legislative": 64.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3362.9,
+      "health_per_capita": 822.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3612.0,
+      "health_per_capita": 885.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3861.1,
+      "health_per_capita": 948.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4068.7,
+      "health_per_capita": 1011.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4151.7,
+      "health_per_capita": 1054.0
+    }
+  ]
+}

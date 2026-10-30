@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2210201",
+  "city_name": "São José do Piauí",
+  "uf": "PI",
+  "population": 6597,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 31887913.06,
+    "total_expense": 31679972.3,
+    "own_revenue_percentage": 14.4,
+    "transfers_revenue_percentage": 85.6,
+    "personnel_expense_percentage_rcl": 49.6
+  },
+  "per_capita_breakdown": {
+    "health": 1015.1,
+    "education": 1209.7,
+    "urbanism": 459.5,
+    "administration": 338.0,
+    "legislative": 97.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3889.8,
+      "health_per_capita": 791.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4177.9,
+      "health_per_capita": 852.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4466.0,
+      "health_per_capita": 913.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4706.2,
+      "health_per_capita": 974.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4802.2,
+      "health_per_capita": 1015.1
+    }
+  ]
+}

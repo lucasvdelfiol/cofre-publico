@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2114007",
+  "city_name": "Zé Doca",
+  "uf": "MA",
+  "population": 40801,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 192074103.6,
+    "total_expense": 185920955.88,
+    "own_revenue_percentage": 30.4,
+    "transfers_revenue_percentage": 69.6,
+    "personnel_expense_percentage_rcl": 51.9
+  },
+  "per_capita_breakdown": {
+    "health": 1221.7,
+    "education": 1303.4,
+    "urbanism": 710.1,
+    "administration": 433.7,
+    "legislative": 122.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3691.0,
+      "health_per_capita": 952.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3964.4,
+      "health_per_capita": 1026.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4237.8,
+      "health_per_capita": 1099.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4465.7,
+      "health_per_capita": 1172.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4556.8,
+      "health_per_capita": 1221.7
+    }
+  ]
+}

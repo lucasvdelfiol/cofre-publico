@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2502805",
+  "city_name": "Brejo do Cruz",
+  "uf": "PB",
+  "population": 13613,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 61290576.45,
+    "total_expense": 59800005.25,
+    "own_revenue_percentage": 18.3,
+    "transfers_revenue_percentage": 81.7,
+    "personnel_expense_percentage_rcl": 46.1
+  },
+  "per_capita_breakdown": {
+    "health": 1147.3,
+    "education": 1056.8,
+    "urbanism": 616.9,
+    "administration": 417.1,
+    "legislative": 112.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3558.2,
+      "health_per_capita": 894.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3821.8,
+      "health_per_capita": 963.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4085.4,
+      "health_per_capita": 1032.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4305.0,
+      "health_per_capita": 1101.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4392.9,
+      "health_per_capita": 1147.3
+    }
+  ]
+}

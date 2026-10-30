@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3204609",
+  "city_name": "Santa Teresa",
+  "uf": "ES",
+  "population": 22808,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 104704706.2,
+    "total_expense": 105140811.58,
+    "own_revenue_percentage": 21.2,
+    "transfers_revenue_percentage": 78.8,
+    "personnel_expense_percentage_rcl": 48.6
+  },
+  "per_capita_breakdown": {
+    "health": 1180.9,
+    "education": 1118.8,
+    "urbanism": 428.3,
+    "administration": 391.8,
+    "legislative": 136.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3733.9,
+      "health_per_capita": 921.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4010.5,
+      "health_per_capita": 992.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4287.1,
+      "health_per_capita": 1062.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4517.6,
+      "health_per_capita": 1133.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4609.8,
+      "health_per_capita": 1180.9
+    }
+  ]
+}

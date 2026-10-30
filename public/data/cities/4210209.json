@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4210209",
+  "city_name": "Major Gercino",
+  "uf": "SC",
+  "population": 3214,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 14714391.5,
+    "total_expense": 14544510.41,
+    "own_revenue_percentage": 13.3,
+    "transfers_revenue_percentage": 86.7,
+    "personnel_expense_percentage_rcl": 48.5
+  },
+  "per_capita_breakdown": {
+    "health": 961.3,
+    "education": 1442.1,
+    "urbanism": 704.7,
+    "administration": 492.0,
+    "legislative": 71.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3665.6,
+      "health_per_capita": 749.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3937.1,
+      "health_per_capita": 807.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4208.6,
+      "health_per_capita": 865.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4434.9,
+      "health_per_capita": 922.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4525.4,
+      "health_per_capita": 961.3
+    }
+  ]
+}

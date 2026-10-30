@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2802007",
+  "city_name": "Divina Pastora",
+  "uf": "SE",
+  "population": 4340,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 20212885.69,
+    "total_expense": 19930308.97,
+    "own_revenue_percentage": 9.7,
+    "transfers_revenue_percentage": 90.3,
+    "personnel_expense_percentage_rcl": 52.2
+  },
+  "per_capita_breakdown": {
+    "health": 1231.4,
+    "education": 1371.6,
+    "urbanism": 391.1,
+    "administration": 299.6,
+    "legislative": 143.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3719.7,
+      "health_per_capita": 960.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3995.2,
+      "health_per_capita": 1034.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4270.7,
+      "health_per_capita": 1108.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4500.4,
+      "health_per_capita": 1182.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4592.2,
+      "health_per_capita": 1231.4
+    }
+  ]
+}

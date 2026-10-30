@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4102307",
+  "city_name": "Balsa Nova",
+  "uf": "PR",
+  "population": 13395,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 73506047.6,
+    "total_expense": 73641345.71,
+    "own_revenue_percentage": 19.9,
+    "transfers_revenue_percentage": 80.1,
+    "personnel_expense_percentage_rcl": 47.6
+  },
+  "per_capita_breakdown": {
+    "health": 1227.1,
+    "education": 1348.4,
+    "urbanism": 830.2,
+    "administration": 620.8,
+    "legislative": 123.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4453.1,
+      "health_per_capita": 957.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4783.0,
+      "health_per_capita": 1030.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5112.9,
+      "health_per_capita": 1104.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5387.7,
+      "health_per_capita": 1178.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5497.7,
+      "health_per_capita": 1227.1
+    }
+  ]
+}

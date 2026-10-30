@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4306957",
+  "city_name": "Entre Rios do Sul",
+  "uf": "RS",
+  "population": 2685,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 15487479.47,
+    "total_expense": 14966119.5,
+    "own_revenue_percentage": 8.3,
+    "transfers_revenue_percentage": 91.7,
+    "personnel_expense_percentage_rcl": 46.5
+  },
+  "per_capita_breakdown": {
+    "health": 1544.6,
+    "education": 1467.9,
+    "urbanism": 757.7,
+    "administration": 564.9,
+    "legislative": 169.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4514.9,
+      "health_per_capita": 1204.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4849.4,
+      "health_per_capita": 1297.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5183.8,
+      "health_per_capita": 1390.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5462.5,
+      "health_per_capita": 1482.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5574.0,
+      "health_per_capita": 1544.6
+    }
+  ]
+}

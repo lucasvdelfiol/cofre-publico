@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5201207",
+  "city_name": "Anhanguera",
+  "uf": "GO",
+  "population": 1500,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 8180756.2,
+    "total_expense": 8221055.18,
+    "own_revenue_percentage": 13.2,
+    "transfers_revenue_percentage": 86.8,
+    "personnel_expense_percentage_rcl": 49.4
+  },
+  "per_capita_breakdown": {
+    "health": 1096.4,
+    "education": 1352.2,
+    "urbanism": 596.3,
+    "administration": 415.3,
+    "legislative": 142.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4439.4,
+      "health_per_capita": 855.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4768.2,
+      "health_per_capita": 921.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5097.1,
+      "health_per_capita": 986.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5371.1,
+      "health_per_capita": 1052.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5480.7,
+      "health_per_capita": 1096.4
+    }
+  ]
+}

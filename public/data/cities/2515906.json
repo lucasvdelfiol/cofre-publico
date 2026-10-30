@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2515906",
+  "city_name": "Serraria",
+  "uf": "PB",
+  "population": 4885,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 27889837.86,
+    "total_expense": 27322801.68,
+    "own_revenue_percentage": 17.7,
+    "transfers_revenue_percentage": 82.3,
+    "personnel_expense_percentage_rcl": 53.0
+  },
+  "per_capita_breakdown": {
+    "health": 1520.9,
+    "education": 1425.4,
+    "urbanism": 860.0,
+    "administration": 336.3,
+    "legislative": 111.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4530.5,
+      "health_per_capita": 1186.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4866.1,
+      "health_per_capita": 1277.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5201.7,
+      "health_per_capita": 1368.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5481.3,
+      "health_per_capita": 1460.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5593.2,
+      "health_per_capita": 1520.9
+    }
+  ]
+}

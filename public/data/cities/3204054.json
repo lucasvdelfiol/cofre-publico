@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3204054",
+  "city_name": "Pedro Canário",
+  "uf": "ES",
+  "population": 21522,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 93576246.77,
+    "total_expense": 90405442.19,
+    "own_revenue_percentage": 21.1,
+    "transfers_revenue_percentage": 78.9,
+    "personnel_expense_percentage_rcl": 47.2
+  },
+  "per_capita_breakdown": {
+    "health": 1079.9,
+    "education": 1048.5,
+    "urbanism": 535.2,
+    "administration": 438.0,
+    "legislative": 105.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3402.5,
+      "health_per_capita": 842.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3654.5,
+      "health_per_capita": 907.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3906.6,
+      "health_per_capita": 971.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4116.6,
+      "health_per_capita": 1036.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4200.6,
+      "health_per_capita": 1079.9
+    }
+  ]
+}

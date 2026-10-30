@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1504752",
+  "city_name": "Mojuí dos Campos",
+  "uf": "PA",
+  "population": 23501,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 105546488.92,
+    "total_expense": 104001999.9,
+    "own_revenue_percentage": 30.4,
+    "transfers_revenue_percentage": 69.6,
+    "personnel_expense_percentage_rcl": 50.3
+  },
+  "per_capita_breakdown": {
+    "health": 1029.4,
+    "education": 1361.9,
+    "urbanism": 696.4,
+    "administration": 297.8,
+    "legislative": 73.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3584.6,
+      "health_per_capita": 802.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3850.1,
+      "health_per_capita": 864.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4115.6,
+      "health_per_capita": 926.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4336.9,
+      "health_per_capita": 988.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4425.4,
+      "health_per_capita": 1029.4
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1700400",
+  "city_name": "Almas",
+  "uf": "TO",
+  "population": 6499,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 36513922.26,
+    "total_expense": 35177802.05,
+    "own_revenue_percentage": 12.5,
+    "transfers_revenue_percentage": 87.5,
+    "personnel_expense_percentage_rcl": 52.0
+  },
+  "per_capita_breakdown": {
+    "health": 1311.4,
+    "education": 1598.9,
+    "urbanism": 777.8,
+    "administration": 465.2,
+    "legislative": 146.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4384.4,
+      "health_per_capita": 1022.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4709.1,
+      "health_per_capita": 1101.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5033.9,
+      "health_per_capita": 1180.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5304.5,
+      "health_per_capita": 1258.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5412.8,
+      "health_per_capita": 1311.4
+    }
+  ]
+}

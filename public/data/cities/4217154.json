@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4217154",
+  "city_name": "São Miguel da Boa Vista",
+  "uf": "SC",
+  "population": 1781,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 8346931.06,
+    "total_expense": 8110681.3,
+    "own_revenue_percentage": 17.2,
+    "transfers_revenue_percentage": 82.8,
+    "personnel_expense_percentage_rcl": 53.0
+  },
+  "per_capita_breakdown": {
+    "health": 1051.3,
+    "education": 1130.7,
+    "urbanism": 667.2,
+    "administration": 461.0,
+    "legislative": 97.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3688.7,
+      "health_per_capita": 820.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3962.0,
+      "health_per_capita": 883.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4235.2,
+      "health_per_capita": 946.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4462.9,
+      "health_per_capita": 1009.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4554.0,
+      "health_per_capita": 1051.3
+    }
+  ]
+}

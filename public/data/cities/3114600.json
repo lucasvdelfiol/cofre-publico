@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3114600",
+  "city_name": "Carrancas",
+  "uf": "MG",
+  "population": 4049,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 20014477.09,
+    "total_expense": 20207046.2,
+    "own_revenue_percentage": 8.7,
+    "transfers_revenue_percentage": 91.3,
+    "personnel_expense_percentage_rcl": 48.0
+  },
+  "per_capita_breakdown": {
+    "health": 1314.2,
+    "education": 1527.5,
+    "urbanism": 681.4,
+    "administration": 495.8,
+    "legislative": 132.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4042.4,
+      "health_per_capita": 1025.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4341.8,
+      "health_per_capita": 1103.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4641.3,
+      "health_per_capita": 1182.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4890.8,
+      "health_per_capita": 1261.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4990.6,
+      "health_per_capita": 1314.2
+    }
+  ]
+}

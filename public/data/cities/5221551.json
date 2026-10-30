@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5221551",
+  "city_name": "Turvelândia",
+  "uf": "GO",
+  "population": 4985,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 24977678.51,
+    "total_expense": 24424487.53,
+    "own_revenue_percentage": 17.2,
+    "transfers_revenue_percentage": 82.8,
+    "personnel_expense_percentage_rcl": 46.3
+  },
+  "per_capita_breakdown": {
+    "health": 1154.4,
+    "education": 1378.3,
+    "urbanism": 445.5,
+    "administration": 476.1,
+    "legislative": 163.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3968.7,
+      "health_per_capita": 900.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4262.7,
+      "health_per_capita": 969.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4556.6,
+      "health_per_capita": 1039.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4801.6,
+      "health_per_capita": 1108.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4899.6,
+      "health_per_capita": 1154.4
+    }
+  ]
+}

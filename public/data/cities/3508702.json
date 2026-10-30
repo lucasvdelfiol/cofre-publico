@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3508702",
+  "city_name": "Caconde",
+  "uf": "SP",
+  "population": 17101,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 81246888.13,
+    "total_expense": 79558866.19,
+    "own_revenue_percentage": 14.1,
+    "transfers_revenue_percentage": 85.9,
+    "personnel_expense_percentage_rcl": 51.6
+  },
+  "per_capita_breakdown": {
+    "health": 1267.4,
+    "education": 1297.0,
+    "urbanism": 559.9,
+    "administration": 282.7,
+    "legislative": 140.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3768.4,
+      "health_per_capita": 988.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4047.5,
+      "health_per_capita": 1064.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4326.6,
+      "health_per_capita": 1140.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4559.3,
+      "health_per_capita": 1216.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4652.3,
+      "health_per_capita": 1267.4
+    }
+  ]
+}

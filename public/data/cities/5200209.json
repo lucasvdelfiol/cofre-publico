@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5200209",
+  "city_name": "Água Limpa",
+  "uf": "GO",
+  "population": 1858,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 9558987.65,
+    "total_expense": 9230193.69,
+    "own_revenue_percentage": 17.3,
+    "transfers_revenue_percentage": 82.7,
+    "personnel_expense_percentage_rcl": 50.6
+  },
+  "per_capita_breakdown": {
+    "health": 996.5,
+    "education": 1547.5,
+    "urbanism": 698.3,
+    "administration": 462.6,
+    "legislative": 90.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4023.9,
+      "health_per_capita": 777.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4322.0,
+      "health_per_capita": 837.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4620.1,
+      "health_per_capita": 896.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4868.4,
+      "health_per_capita": 956.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4967.8,
+      "health_per_capita": 996.5
+    }
+  ]
+}

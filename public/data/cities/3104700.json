@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3104700",
+  "city_name": "Ataléia",
+  "uf": "MG",
+  "population": 13736,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 76417885.57,
+    "total_expense": 75662370.36,
+    "own_revenue_percentage": 19.1,
+    "transfers_revenue_percentage": 80.9,
+    "personnel_expense_percentage_rcl": 51.3
+  },
+  "per_capita_breakdown": {
+    "health": 1493.7,
+    "education": 1655.8,
+    "urbanism": 535.9,
+    "administration": 404.3,
+    "legislative": 115.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4461.7,
+      "health_per_capita": 1165.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4792.2,
+      "health_per_capita": 1254.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5122.7,
+      "health_per_capita": 1344.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5398.1,
+      "health_per_capita": 1434.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5508.3,
+      "health_per_capita": 1493.7
+    }
+  ]
+}

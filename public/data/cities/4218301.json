@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4218301",
+  "city_name": "Três Barras",
+  "uf": "SC",
+  "population": 19746,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 94774524.1,
+    "total_expense": 95544225.62,
+    "own_revenue_percentage": 14.6,
+    "transfers_revenue_percentage": 85.4,
+    "personnel_expense_percentage_rcl": 52.1
+  },
+  "per_capita_breakdown": {
+    "health": 1047.0,
+    "education": 1487.2,
+    "urbanism": 675.4,
+    "administration": 548.4,
+    "legislative": 98.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3919.3,
+      "health_per_capita": 816.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4209.7,
+      "health_per_capita": 879.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4500.0,
+      "health_per_capita": 942.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4741.9,
+      "health_per_capita": 1005.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4838.7,
+      "health_per_capita": 1047.0
+    }
+  ]
+}

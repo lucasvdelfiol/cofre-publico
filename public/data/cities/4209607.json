@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4209607",
+  "city_name": "Lauro Müller",
+  "uf": "SC",
+  "population": 14381,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 79159289.07,
+    "total_expense": 76778348.39,
+    "own_revenue_percentage": 20.1,
+    "transfers_revenue_percentage": 79.9,
+    "personnel_expense_percentage_rcl": 52.5
+  },
+  "per_capita_breakdown": {
+    "health": 1132.7,
+    "education": 1489.6,
+    "urbanism": 500.2,
+    "administration": 479.4,
+    "legislative": 138.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4324.5,
+      "health_per_capita": 883.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4644.8,
+      "health_per_capita": 951.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4965.2,
+      "health_per_capita": 1019.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5232.1,
+      "health_per_capita": 1087.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5338.9,
+      "health_per_capita": 1132.7
+    }
+  ]
+}

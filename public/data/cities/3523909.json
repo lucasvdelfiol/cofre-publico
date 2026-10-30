@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3523909",
+  "city_name": "Itu",
+  "uf": "SP",
+  "population": 168240,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 940272977.36,
+    "total_expense": 911447600.68,
+    "own_revenue_percentage": 40.7,
+    "transfers_revenue_percentage": 59.3,
+    "personnel_expense_percentage_rcl": 52.0
+  },
+  "per_capita_breakdown": {
+    "health": 1489.9,
+    "education": 1477.8,
+    "urbanism": 697.6,
+    "administration": 354.0,
+    "legislative": 133.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4388.2,
+      "health_per_capita": 1162.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4713.2,
+      "health_per_capita": 1251.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5038.3,
+      "health_per_capita": 1340.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5309.1,
+      "health_per_capita": 1430.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5417.5,
+      "health_per_capita": 1489.9
+    }
+  ]
+}

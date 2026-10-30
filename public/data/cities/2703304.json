@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2703304",
+  "city_name": "Inhapi",
+  "uf": "AL",
+  "population": 15167,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 76335153.23,
+    "total_expense": 74878979.14,
+    "own_revenue_percentage": 21.5,
+    "transfers_revenue_percentage": 78.5,
+    "personnel_expense_percentage_rcl": 48.1
+  },
+  "per_capita_breakdown": {
+    "health": 1138.1,
+    "education": 1574.1,
+    "urbanism": 680.4,
+    "administration": 355.9,
+    "legislative": 159.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3999.0,
+      "health_per_capita": 887.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4295.2,
+      "health_per_capita": 956.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4591.4,
+      "health_per_capita": 1024.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4838.3,
+      "health_per_capita": 1092.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4937.0,
+      "health_per_capita": 1138.1
+    }
+  ]
+}

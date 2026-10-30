@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1100106",
+  "city_name": "Guajará-Mirim",
+  "uf": "RO",
+  "population": 39387,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 188041883.39,
+    "total_expense": 182865661.07,
+    "own_revenue_percentage": 31.1,
+    "transfers_revenue_percentage": 68.9,
+    "personnel_expense_percentage_rcl": 46.7
+  },
+  "per_capita_breakdown": {
+    "health": 989.3,
+    "education": 1160.9,
+    "urbanism": 716.0,
+    "administration": 437.3,
+    "legislative": 80.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3760.7,
+      "health_per_capita": 771.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4039.2,
+      "health_per_capita": 831.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4317.8,
+      "health_per_capita": 890.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4549.9,
+      "health_per_capita": 949.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4642.8,
+      "health_per_capita": 989.3
+    }
+  ]
+}

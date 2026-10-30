@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3537404",
+  "city_name": "Pereira Barreto",
+  "uf": "SP",
+  "population": 24095,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 110960311.86,
+    "total_expense": 109477283.43,
+    "own_revenue_percentage": 22.1,
+    "transfers_revenue_percentage": 77.9,
+    "personnel_expense_percentage_rcl": 50.4
+  },
+  "per_capita_breakdown": {
+    "health": 1251.7,
+    "education": 1396.0,
+    "urbanism": 437.5,
+    "administration": 386.6,
+    "legislative": 128.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3680.3,
+      "health_per_capita": 976.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3952.9,
+      "health_per_capita": 1051.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4225.5,
+      "health_per_capita": 1126.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4452.7,
+      "health_per_capita": 1201.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4543.6,
+      "health_per_capita": 1251.7
+    }
+  ]
+}

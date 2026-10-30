@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2104107",
+  "city_name": "Fortaleza dos Nogueiras",
+  "uf": "MA",
+  "population": 12640,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 71918118.14,
+    "total_expense": 69632114.68,
+    "own_revenue_percentage": 19.0,
+    "transfers_revenue_percentage": 81.0,
+    "personnel_expense_percentage_rcl": 48.2
+  },
+  "per_capita_breakdown": {
+    "health": 1335.6,
+    "education": 1508.6,
+    "urbanism": 849.2,
+    "administration": 365.4,
+    "legislative": 138.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4462.2,
+      "health_per_capita": 1041.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4792.7,
+      "health_per_capita": 1121.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5123.3,
+      "health_per_capita": 1202.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5398.7,
+      "health_per_capita": 1282.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5508.9,
+      "health_per_capita": 1335.6
+    }
+  ]
+}

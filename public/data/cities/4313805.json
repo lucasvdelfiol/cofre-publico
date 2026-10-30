@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4313805",
+  "city_name": "Palmitinho",
+  "uf": "RS",
+  "population": 7839,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 37957494.51,
+    "total_expense": 37424537.62,
+    "own_revenue_percentage": 14.4,
+    "transfers_revenue_percentage": 85.6,
+    "personnel_expense_percentage_rcl": 48.0
+  },
+  "per_capita_breakdown": {
+    "health": 1119.6,
+    "education": 1415.8,
+    "urbanism": 474.0,
+    "administration": 397.9,
+    "legislative": 128.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3867.0,
+      "health_per_capita": 873.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4153.5,
+      "health_per_capita": 940.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4439.9,
+      "health_per_capita": 1007.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4678.6,
+      "health_per_capita": 1074.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4774.1,
+      "health_per_capita": 1119.6
+    }
+  ]
+}

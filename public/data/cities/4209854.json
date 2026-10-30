@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4209854",
+  "city_name": "Lindóia do Sul",
+  "uf": "SC",
+  "population": 4549,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 24939141.89,
+    "total_expense": 24252796.15,
+    "own_revenue_percentage": 16.0,
+    "transfers_revenue_percentage": 84.0,
+    "personnel_expense_percentage_rcl": 50.6
+  },
+  "per_capita_breakdown": {
+    "health": 1306.2,
+    "education": 1520.5,
+    "urbanism": 630.0,
+    "administration": 606.6,
+    "legislative": 119.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4318.5,
+      "health_per_capita": 1018.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4638.4,
+      "health_per_capita": 1097.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4958.3,
+      "health_per_capita": 1175.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5224.9,
+      "health_per_capita": 1254.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5331.5,
+      "health_per_capita": 1306.2
+    }
+  ]
+}

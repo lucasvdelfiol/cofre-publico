@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3305208",
+  "city_name": "São Pedro da Aldeia",
+  "uf": "RJ",
+  "population": 104029,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 515556534.08,
+    "total_expense": 503619634.56,
+    "own_revenue_percentage": 40.4,
+    "transfers_revenue_percentage": 59.6,
+    "personnel_expense_percentage_rcl": 46.6
+  },
+  "per_capita_breakdown": {
+    "health": 1016.3,
+    "education": 1338.0,
+    "urbanism": 554.1,
+    "administration": 413.1,
+    "legislative": 168.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3921.3,
+      "health_per_capita": 792.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4211.8,
+      "health_per_capita": 853.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4502.2,
+      "health_per_capita": 914.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4744.3,
+      "health_per_capita": 975.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4841.1,
+      "health_per_capita": 1016.3
+    }
+  ]
+}

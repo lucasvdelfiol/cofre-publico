@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1200344",
+  "city_name": "Manoel Urbano",
+  "uf": "AC",
+  "population": 11996,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 56565788.4,
+    "total_expense": 56582202.4,
+    "own_revenue_percentage": 13.0,
+    "transfers_revenue_percentage": 87.0,
+    "personnel_expense_percentage_rcl": 51.8
+  },
+  "per_capita_breakdown": {
+    "health": 1162.8,
+    "education": 1249.3,
+    "urbanism": 546.3,
+    "administration": 297.4,
+    "legislative": 156.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3820.6,
+      "health_per_capita": 907.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4103.6,
+      "health_per_capita": 976.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4386.6,
+      "health_per_capita": 1046.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4622.5,
+      "health_per_capita": 1116.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4716.8,
+      "health_per_capita": 1162.8
+    }
+  ]
+}

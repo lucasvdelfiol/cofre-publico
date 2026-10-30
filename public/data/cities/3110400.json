@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3110400",
+  "city_name": "Camacho",
+  "uf": "MG",
+  "population": 2838,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 14930941.31,
+    "total_expense": 14471417.01,
+    "own_revenue_percentage": 11.3,
+    "transfers_revenue_percentage": 88.7,
+    "personnel_expense_percentage_rcl": 49.3
+  },
+  "per_capita_breakdown": {
+    "health": 1192.4,
+    "education": 1367.0,
+    "urbanism": 502.1,
+    "administration": 383.6,
+    "legislative": 148.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4130.4,
+      "health_per_capita": 930.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4436.3,
+      "health_per_capita": 1001.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4742.3,
+      "health_per_capita": 1073.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4997.2,
+      "health_per_capita": 1144.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5099.2,
+      "health_per_capita": 1192.4
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3126752",
+  "city_name": "Franciscópolis",
+  "uf": "MG",
+  "population": 5034,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 26146526.11,
+    "total_expense": 25855729.06,
+    "own_revenue_percentage": 19.9,
+    "transfers_revenue_percentage": 80.1,
+    "personnel_expense_percentage_rcl": 48.8
+  },
+  "per_capita_breakdown": {
+    "health": 1131.4,
+    "education": 1285.9,
+    "urbanism": 731.9,
+    "administration": 586.3,
+    "legislative": 129.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4160.3,
+      "health_per_capita": 882.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4468.5,
+      "health_per_capita": 950.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4776.7,
+      "health_per_capita": 1018.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5033.5,
+      "health_per_capita": 1086.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5136.2,
+      "health_per_capita": 1131.4
+    }
+  ]
+}

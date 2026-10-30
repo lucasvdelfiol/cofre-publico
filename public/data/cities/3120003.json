@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3120003",
+  "city_name": "Córrego Novo",
+  "uf": "MG",
+  "population": 2875,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 15133852.28,
+    "total_expense": 14672118.62,
+    "own_revenue_percentage": 12.0,
+    "transfers_revenue_percentage": 88.0,
+    "personnel_expense_percentage_rcl": 47.4
+  },
+  "per_capita_breakdown": {
+    "health": 1189.4,
+    "education": 1369.5,
+    "urbanism": 445.7,
+    "administration": 443.8,
+    "legislative": 96.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4133.7,
+      "health_per_capita": 927.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4439.9,
+      "health_per_capita": 999.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4746.1,
+      "health_per_capita": 1070.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5001.2,
+      "health_per_capita": 1141.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5103.3,
+      "health_per_capita": 1189.4
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4118451",
+  "city_name": "Pato Bragado",
+  "uf": "PR",
+  "population": 5733,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 25382232.3,
+    "total_expense": 24919478.61,
+    "own_revenue_percentage": 15.9,
+    "transfers_revenue_percentage": 84.1,
+    "personnel_expense_percentage_rcl": 51.8
+  },
+  "per_capita_breakdown": {
+    "health": 1016.3,
+    "education": 1055.1,
+    "urbanism": 405.1,
+    "administration": 467.1,
+    "legislative": 92.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3520.8,
+      "health_per_capita": 792.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3781.6,
+      "health_per_capita": 853.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4042.4,
+      "health_per_capita": 914.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4259.8,
+      "health_per_capita": 975.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4346.7,
+      "health_per_capita": 1016.3
+    }
+  ]
+}

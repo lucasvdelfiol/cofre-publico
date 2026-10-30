@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3540259",
+  "city_name": "Pontalinda",
+  "uf": "SP",
+  "population": 4127,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 18296473.25,
+    "total_expense": 17870365.7,
+    "own_revenue_percentage": 12.5,
+    "transfers_revenue_percentage": 87.5,
+    "personnel_expense_percentage_rcl": 52.3
+  },
+  "per_capita_breakdown": {
+    "health": 1004.6,
+    "education": 1348.2,
+    "urbanism": 496.7,
+    "administration": 450.4,
+    "legislative": 133.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3507.4,
+      "health_per_capita": 783.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3767.2,
+      "health_per_capita": 843.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4027.0,
+      "health_per_capita": 904.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4243.5,
+      "health_per_capita": 964.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4330.1,
+      "health_per_capita": 1004.6
+    }
+  ]
+}

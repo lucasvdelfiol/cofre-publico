@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2615904",
+  "city_name": "Tuparetama",
+  "uf": "PE",
+  "population": 8005,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 40152226.72,
+    "total_expense": 39754990.85,
+    "own_revenue_percentage": 9.7,
+    "transfers_revenue_percentage": 90.3,
+    "personnel_expense_percentage_rcl": 48.5
+  },
+  "per_capita_breakdown": {
+    "health": 1323.1,
+    "education": 1267.2,
+    "urbanism": 509.8,
+    "administration": 489.6,
+    "legislative": 95.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4022.7,
+      "health_per_capita": 1032.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4320.7,
+      "health_per_capita": 1111.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4618.7,
+      "health_per_capita": 1190.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4867.0,
+      "health_per_capita": 1270.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4966.3,
+      "health_per_capita": 1323.1
+    }
+  ]
+}

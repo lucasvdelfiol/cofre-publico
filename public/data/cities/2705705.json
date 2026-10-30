@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2705705",
+  "city_name": "Olho d'Água das Flores",
+  "uf": "AL",
+  "population": 20695,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 103810828.71,
+    "total_expense": 100158207.37,
+    "own_revenue_percentage": 22.7,
+    "transfers_revenue_percentage": 77.3,
+    "personnel_expense_percentage_rcl": 49.5
+  },
+  "per_capita_breakdown": {
+    "health": 1037.4,
+    "education": 1316.0,
+    "urbanism": 571.6,
+    "administration": 509.0,
+    "legislative": 123.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3920.2,
+      "health_per_capita": 809.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4210.5,
+      "health_per_capita": 871.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4500.9,
+      "health_per_capita": 933.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4742.9,
+      "health_per_capita": 995.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4839.7,
+      "health_per_capita": 1037.4
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4123006",
+  "city_name": "Salto do Lontra",
+  "uf": "PR",
+  "population": 15223,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 66476480.91,
+    "total_expense": 66199772.77,
+    "own_revenue_percentage": 17.4,
+    "transfers_revenue_percentage": 82.6,
+    "personnel_expense_percentage_rcl": 48.1
+  },
+  "per_capita_breakdown": {
+    "health": 1094.3,
+    "education": 1162.9,
+    "urbanism": 539.1,
+    "administration": 440.1,
+    "legislative": 82.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3522.4,
+      "health_per_capita": 853.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3783.4,
+      "health_per_capita": 919.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4044.3,
+      "health_per_capita": 984.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4261.7,
+      "health_per_capita": 1050.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4348.7,
+      "health_per_capita": 1094.3
+    }
+  ]
+}

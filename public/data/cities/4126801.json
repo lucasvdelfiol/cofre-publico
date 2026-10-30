@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4126801",
+  "city_name": "Tapejara",
+  "uf": "PR",
+  "population": 15869,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 76445109.56,
+    "total_expense": 75196047.01,
+    "own_revenue_percentage": 11.9,
+    "transfers_revenue_percentage": 88.1,
+    "personnel_expense_percentage_rcl": 49.0
+  },
+  "per_capita_breakdown": {
+    "health": 1310.9,
+    "education": 1331.8,
+    "urbanism": 417.6,
+    "administration": 522.7,
+    "legislative": 99.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3838.2,
+      "health_per_capita": 1022.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4122.5,
+      "health_per_capita": 1101.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4406.8,
+      "health_per_capita": 1179.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4643.7,
+      "health_per_capita": 1258.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4738.5,
+      "health_per_capita": 1310.9
+    }
+  ]
+}

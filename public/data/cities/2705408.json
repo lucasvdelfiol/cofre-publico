@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2705408",
+  "city_name": "Monteirópolis",
+  "uf": "AL",
+  "population": 7184,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 35607911.06,
+    "total_expense": 34399888.1,
+    "own_revenue_percentage": 16.8,
+    "transfers_revenue_percentage": 83.2,
+    "personnel_expense_percentage_rcl": 46.5
+  },
+  "per_capita_breakdown": {
+    "health": 1128.7,
+    "education": 1470.5,
+    "urbanism": 639.7,
+    "administration": 324.0,
+    "legislative": 130.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3878.6,
+      "health_per_capita": 880.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4165.9,
+      "health_per_capita": 948.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4453.2,
+      "health_per_capita": 1015.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4692.6,
+      "health_per_capita": 1083.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4788.4,
+      "health_per_capita": 1128.7
+    }
+  ]
+}

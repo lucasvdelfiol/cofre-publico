@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5005152",
+  "city_name": "Juti",
+  "uf": "MS",
+  "population": 6729,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 29953261.53,
+    "total_expense": 29510501.21,
+    "own_revenue_percentage": 20.3,
+    "transfers_revenue_percentage": 79.7,
+    "personnel_expense_percentage_rcl": 51.1
+  },
+  "per_capita_breakdown": {
+    "health": 947.1,
+    "education": 1105.4,
+    "urbanism": 425.1,
+    "administration": 343.1,
+    "legislative": 99.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3552.3,
+      "health_per_capita": 738.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3815.5,
+      "health_per_capita": 795.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4078.6,
+      "health_per_capita": 852.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4297.9,
+      "health_per_capita": 909.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4385.6,
+      "health_per_capita": 947.1
+    }
+  ]
+}

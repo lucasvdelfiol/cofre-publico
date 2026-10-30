@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2500106",
+  "city_name": "Água Branca",
+  "uf": "PB",
+  "population": 9335,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 44094296.67,
+    "total_expense": 43412193.57,
+    "own_revenue_percentage": 17.3,
+    "transfers_revenue_percentage": 82.7,
+    "personnel_expense_percentage_rcl": 53.6
+  },
+  "per_capita_breakdown": {
+    "health": 1082.2,
+    "education": 1482.1,
+    "urbanism": 477.6,
+    "administration": 319.9,
+    "legislative": 136.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3766.9,
+      "health_per_capita": 844.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4045.9,
+      "health_per_capita": 909.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4325.0,
+      "health_per_capita": 974.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4557.5,
+      "health_per_capita": 1038.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4650.5,
+      "health_per_capita": 1082.2
+    }
+  ]
+}

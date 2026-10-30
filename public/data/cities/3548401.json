@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3548401",
+  "city_name": "Santópolis do Aguapeí",
+  "uf": "SP",
+  "population": 3899,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 17850460.16,
+    "total_expense": 17323321.91,
+    "own_revenue_percentage": 19.0,
+    "transfers_revenue_percentage": 81.0,
+    "personnel_expense_percentage_rcl": 47.9
+  },
+  "per_capita_breakdown": {
+    "health": 962.8,
+    "education": 1333.0,
+    "urbanism": 419.5,
+    "administration": 365.9,
+    "legislative": 74.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3598.8,
+      "health_per_capita": 751.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3865.4,
+      "health_per_capita": 808.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4132.0,
+      "health_per_capita": 866.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4354.1,
+      "health_per_capita": 924.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4443.0,
+      "health_per_capita": 962.8
+    }
+  ]
+}

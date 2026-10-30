@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4320321",
+  "city_name": "Senador Salgado Filho",
+  "uf": "RS",
+  "population": 2673,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 12028788.06,
+    "total_expense": 11756634.1,
+    "own_revenue_percentage": 9.7,
+    "transfers_revenue_percentage": 90.3,
+    "personnel_expense_percentage_rcl": 52.8
+  },
+  "per_capita_breakdown": {
+    "health": 1106.4,
+    "education": 1301.3,
+    "urbanism": 516.9,
+    "administration": 322.5,
+    "legislative": 143.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3562.6,
+      "health_per_capita": 863.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3826.5,
+      "health_per_capita": 929.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4090.4,
+      "health_per_capita": 995.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4310.3,
+      "health_per_capita": 1062.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4398.3,
+      "health_per_capita": 1106.4
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4205357",
+  "city_name": "Flor do Sertão",
+  "uf": "SC",
+  "population": 1783,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 9110699.07,
+    "total_expense": 8932560.07,
+    "own_revenue_percentage": 11.7,
+    "transfers_revenue_percentage": 88.3,
+    "personnel_expense_percentage_rcl": 45.7
+  },
+  "per_capita_breakdown": {
+    "health": 1282.9,
+    "education": 1585.4,
+    "urbanism": 739.9,
+    "administration": 329.5,
+    "legislative": 159.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4057.9,
+      "health_per_capita": 1000.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4358.5,
+      "health_per_capita": 1077.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4659.1,
+      "health_per_capita": 1154.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4909.6,
+      "health_per_capita": 1231.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5009.8,
+      "health_per_capita": 1282.9
+    }
+  ]
+}

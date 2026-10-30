@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3115805",
+  "city_name": "Centralina",
+  "uf": "MG",
+  "population": 10207,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 54635814.87,
+    "total_expense": 54861815.65,
+    "own_revenue_percentage": 8.6,
+    "transfers_revenue_percentage": 91.4,
+    "personnel_expense_percentage_rcl": 53.5
+  },
+  "per_capita_breakdown": {
+    "health": 1131.3,
+    "education": 1425.1,
+    "urbanism": 430.1,
+    "administration": 513.9,
+    "legislative": 148.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4353.7,
+      "health_per_capita": 882.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4676.2,
+      "health_per_capita": 950.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4998.7,
+      "health_per_capita": 1018.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5267.4,
+      "health_per_capita": 1086.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5374.9,
+      "health_per_capita": 1131.3
+    }
+  ]
+}

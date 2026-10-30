@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1100940",
+  "city_name": "Cujubim",
+  "uf": "RO",
+  "population": 14863,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 64830867.65,
+    "total_expense": 65298942.21,
+    "own_revenue_percentage": 9.6,
+    "transfers_revenue_percentage": 90.4,
+    "personnel_expense_percentage_rcl": 47.4
+  },
+  "per_capita_breakdown": {
+    "health": 1169.8,
+    "education": 1335.6,
+    "urbanism": 598.4,
+    "administration": 436.7,
+    "legislative": 87.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3558.7,
+      "health_per_capita": 912.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3822.3,
+      "health_per_capita": 982.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4085.9,
+      "health_per_capita": 1052.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4305.5,
+      "health_per_capita": 1123.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4393.4,
+      "health_per_capita": 1169.8
+    }
+  ]
+}

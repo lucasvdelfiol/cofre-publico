@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4305975",
+  "city_name": "Coxilha",
+  "uf": "RS",
+  "population": 2667,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 12713849.23,
+    "total_expense": 12826230.72,
+    "own_revenue_percentage": 13.4,
+    "transfers_revenue_percentage": 86.6,
+    "personnel_expense_percentage_rcl": 50.1
+  },
+  "per_capita_breakdown": {
+    "health": 1232.4,
+    "education": 1342.0,
+    "urbanism": 484.0,
+    "administration": 345.8,
+    "legislative": 80.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3895.5,
+      "health_per_capita": 961.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4184.0,
+      "health_per_capita": 1035.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4472.6,
+      "health_per_capita": 1109.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4713.0,
+      "health_per_capita": 1183.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4809.2,
+      "health_per_capita": 1232.4
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2928703",
+  "city_name": "Santo Antônio de Jesus",
+  "uf": "BA",
+  "population": 103055,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 576481730.98,
+    "total_expense": 563197658.74,
+    "own_revenue_percentage": 45.0,
+    "transfers_revenue_percentage": 55.0,
+    "personnel_expense_percentage_rcl": 50.7
+  },
+  "per_capita_breakdown": {
+    "health": 1119.4,
+    "education": 1717.0,
+    "urbanism": 770.0,
+    "administration": 522.7,
+    "legislative": 112.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4426.7,
+      "health_per_capita": 873.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4754.6,
+      "health_per_capita": 940.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5082.4,
+      "health_per_capita": 1007.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5355.7,
+      "health_per_capita": 1074.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5465.0,
+      "health_per_capita": 1119.4
+    }
+  ]
+}

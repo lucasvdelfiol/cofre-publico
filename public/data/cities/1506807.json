@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1506807",
+  "city_name": "Santarém",
+  "uf": "PA",
+  "population": 331942,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 1793206996.81,
+    "total_expense": 1747374499.89,
+    "own_revenue_percentage": 49.1,
+    "transfers_revenue_percentage": 50.9,
+    "personnel_expense_percentage_rcl": 46.2
+  },
+  "per_capita_breakdown": {
+    "health": 1372.0,
+    "education": 1670.2,
+    "urbanism": 812.2,
+    "administration": 481.5,
+    "legislative": 80.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4263.9,
+      "health_per_capita": 1070.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4579.8,
+      "health_per_capita": 1152.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4895.6,
+      "health_per_capita": 1234.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5158.8,
+      "health_per_capita": 1317.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5264.1,
+      "health_per_capita": 1372.0
+    }
+  ]
+}

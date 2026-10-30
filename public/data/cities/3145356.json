@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3145356",
+  "city_name": "Novo Oriente de Minas",
+  "uf": "MG",
+  "population": 10275,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 44838455.61,
+    "total_expense": 44526132.46,
+    "own_revenue_percentage": 17.2,
+    "transfers_revenue_percentage": 82.8,
+    "personnel_expense_percentage_rcl": 53.7
+  },
+  "per_capita_breakdown": {
+    "health": 995.9,
+    "education": 1259.4,
+    "urbanism": 689.7,
+    "administration": 273.2,
+    "legislative": 72.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3510.1,
+      "health_per_capita": 776.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3770.1,
+      "health_per_capita": 836.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4030.1,
+      "health_per_capita": 896.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4246.7,
+      "health_per_capita": 956.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4333.4,
+      "health_per_capita": 995.9
+    }
+  ]
+}

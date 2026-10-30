@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2304400",
+  "city_name": "Fortaleza",
+  "uf": "CE",
+  "population": 2428678,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 11800000000.0,
+    "total_expense": 11400000000.0,
+    "own_revenue_percentage": 45.0,
+    "transfers_revenue_percentage": 55.0,
+    "personnel_expense_percentage_rcl": 47.1
+  },
+  "per_capita_breakdown": {
+    "health": 1050.0,
+    "education": 1180.0,
+    "urbanism": 620.0,
+    "administration": 370.0,
+    "legislative": 78.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3802.1,
+      "health_per_capita": 819.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4083.7,
+      "health_per_capita": 882.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4365.3,
+      "health_per_capita": 945.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4600.0,
+      "health_per_capita": 1008.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4693.9,
+      "health_per_capita": 1050.0
+    }
+  ]
+}

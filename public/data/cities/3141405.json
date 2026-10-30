@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3141405",
+  "city_name": "Medina",
+  "uf": "MG",
+  "population": 20156,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 90938073.89,
+    "total_expense": 88534008.49,
+    "own_revenue_percentage": 24.4,
+    "transfers_revenue_percentage": 75.6,
+    "personnel_expense_percentage_rcl": 49.6
+  },
+  "per_capita_breakdown": {
+    "health": 1101.5,
+    "education": 1104.2,
+    "urbanism": 647.7,
+    "administration": 408.7,
+    "legislative": 117.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3557.8,
+      "health_per_capita": 859.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3821.4,
+      "health_per_capita": 925.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4084.9,
+      "health_per_capita": 991.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4304.6,
+      "health_per_capita": 1057.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4392.4,
+      "health_per_capita": 1101.5
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2923100",
+  "city_name": "Olindina",
+  "uf": "BA",
+  "population": 22633,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 110243990.75,
+    "total_expense": 110204169.59,
+    "own_revenue_percentage": 18.1,
+    "transfers_revenue_percentage": 81.9,
+    "personnel_expense_percentage_rcl": 53.3
+  },
+  "per_capita_breakdown": {
+    "health": 1033.7,
+    "education": 1332.3,
+    "urbanism": 620.8,
+    "administration": 486.8,
+    "legislative": 131.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3944.1,
+      "health_per_capita": 806.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4236.2,
+      "health_per_capita": 868.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4528.4,
+      "health_per_capita": 930.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4771.8,
+      "health_per_capita": 992.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4869.2,
+      "health_per_capita": 1033.7
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4318705",
+  "city_name": "São Leopoldo",
+  "uf": "RS",
+  "population": 217409,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 1079605072.82,
+    "total_expense": 1060767128.12,
+    "own_revenue_percentage": 49.3,
+    "transfers_revenue_percentage": 50.7,
+    "personnel_expense_percentage_rcl": 47.6
+  },
+  "per_capita_breakdown": {
+    "health": 1088.9,
+    "education": 1346.7,
+    "urbanism": 756.8,
+    "administration": 438.5,
+    "legislative": 125.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3952.1,
+      "health_per_capita": 849.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4244.8,
+      "health_per_capita": 914.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4537.6,
+      "health_per_capita": 980.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4781.5,
+      "health_per_capita": 1045.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4879.1,
+      "health_per_capita": 1088.9
+    }
+  ]
+}

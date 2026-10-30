@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5206800",
+  "city_name": "Damolândia",
+  "uf": "GO",
+  "population": 2724,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 14843848.39,
+    "total_expense": 14892997.23,
+    "own_revenue_percentage": 16.3,
+    "transfers_revenue_percentage": 83.7,
+    "personnel_expense_percentage_rcl": 47.0
+  },
+  "per_capita_breakdown": {
+    "health": 1228.0,
+    "education": 1386.8,
+    "urbanism": 487.7,
+    "administration": 613.3,
+    "legislative": 90.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4428.5,
+      "health_per_capita": 957.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4756.6,
+      "health_per_capita": 1031.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5084.6,
+      "health_per_capita": 1105.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5358.0,
+      "health_per_capita": 1178.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5467.3,
+      "health_per_capita": 1228.0
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5215603",
+  "city_name": "Padre Bernardo",
+  "uf": "GO",
+  "population": 34967,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 168621207.85,
+    "total_expense": 164572078.47,
+    "own_revenue_percentage": 29.8,
+    "transfers_revenue_percentage": 70.2,
+    "personnel_expense_percentage_rcl": 49.8
+  },
+  "per_capita_breakdown": {
+    "health": 1303.2,
+    "education": 1252.8,
+    "urbanism": 707.8,
+    "administration": 492.7,
+    "legislative": 70.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3812.3,
+      "health_per_capita": 1016.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4094.7,
+      "health_per_capita": 1094.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4377.0,
+      "health_per_capita": 1172.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4612.4,
+      "health_per_capita": 1251.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4706.5,
+      "health_per_capita": 1303.2
+    }
+  ]
+}

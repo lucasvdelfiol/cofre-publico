@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4204756",
+  "city_name": "Cunhataí",
+  "uf": "SC",
+  "population": 1968,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 10988151.62,
+    "total_expense": 10971475.06,
+    "own_revenue_percentage": 12.3,
+    "transfers_revenue_percentage": 87.7,
+    "personnel_expense_percentage_rcl": 50.2
+  },
+  "per_capita_breakdown": {
+    "health": 1376.5,
+    "education": 1440.3,
+    "urbanism": 491.1,
+    "administration": 420.4,
+    "legislative": 129.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4515.7,
+      "health_per_capita": 1073.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4850.2,
+      "health_per_capita": 1156.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5184.7,
+      "health_per_capita": 1238.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5463.4,
+      "health_per_capita": 1321.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5574.9,
+      "health_per_capita": 1376.5
+    }
+  ]
+}

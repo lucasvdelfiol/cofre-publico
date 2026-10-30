@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3507753",
+  "city_name": "Brejo Alegre",
+  "uf": "SP",
+  "population": 2565,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 14029608.68,
+    "total_expense": 13889194.83,
+    "own_revenue_percentage": 12.3,
+    "transfers_revenue_percentage": 87.7,
+    "personnel_expense_percentage_rcl": 48.7
+  },
+  "per_capita_breakdown": {
+    "health": 1435.9,
+    "education": 1390.6,
+    "urbanism": 618.1,
+    "administration": 622.2,
+    "legislative": 138.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4386.1,
+      "health_per_capita": 1120.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4711.0,
+      "health_per_capita": 1206.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5035.9,
+      "health_per_capita": 1292.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5306.6,
+      "health_per_capita": 1378.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5414.9,
+      "health_per_capita": 1435.9
+    }
+  ]
+}

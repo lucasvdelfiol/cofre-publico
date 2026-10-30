@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2603405",
+  "city_name": "Calumbi",
+  "uf": "PE",
+  "population": 5228,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 25346041.61,
+    "total_expense": 24915398.24,
+    "own_revenue_percentage": 15.2,
+    "transfers_revenue_percentage": 84.8,
+    "personnel_expense_percentage_rcl": 47.6
+  },
+  "per_capita_breakdown": {
+    "health": 979.4,
+    "education": 1391.6,
+    "urbanism": 737.3,
+    "administration": 418.2,
+    "legislative": 155.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3860.3,
+      "health_per_capita": 763.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4146.2,
+      "health_per_capita": 822.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4432.2,
+      "health_per_capita": 881.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4670.5,
+      "health_per_capita": 940.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4765.8,
+      "health_per_capita": 979.4
+    }
+  ]
+}

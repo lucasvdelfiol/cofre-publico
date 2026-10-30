@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4101051",
+  "city_name": "Anahy",
+  "uf": "PR",
+  "population": 2918,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 14690671.69,
+    "total_expense": 14348693.92,
+    "own_revenue_percentage": 17.0,
+    "transfers_revenue_percentage": 83.0,
+    "personnel_expense_percentage_rcl": 49.5
+  },
+  "per_capita_breakdown": {
+    "health": 1337.3,
+    "education": 1476.8,
+    "urbanism": 547.2,
+    "administration": 557.0,
+    "legislative": 134.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3983.0,
+      "health_per_capita": 1043.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4278.1,
+      "health_per_capita": 1123.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4573.1,
+      "health_per_capita": 1203.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4819.0,
+      "health_per_capita": 1283.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4917.3,
+      "health_per_capita": 1337.3
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2413359",
+  "city_name": "Serra do Mel",
+  "uf": "RN",
+  "population": 13091,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 62998037.92,
+    "total_expense": 61422294.52,
+    "own_revenue_percentage": 13.3,
+    "transfers_revenue_percentage": 86.7,
+    "personnel_expense_percentage_rcl": 52.6
+  },
+  "per_capita_breakdown": {
+    "health": 1256.2,
+    "education": 1341.3,
+    "urbanism": 605.3,
+    "administration": 296.3,
+    "legislative": 119.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3800.4,
+      "health_per_capita": 979.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4082.0,
+      "health_per_capita": 1055.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4363.5,
+      "health_per_capita": 1130.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4598.1,
+      "health_per_capita": 1206.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4691.9,
+      "health_per_capita": 1256.2
+    }
+  ]
+}

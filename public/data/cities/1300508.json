@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1300508",
+  "city_name": "Barreirinha",
+  "uf": "AM",
+  "population": 31051,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 148006308.18,
+    "total_expense": 144367254.13,
+    "own_revenue_percentage": 20.8,
+    "transfers_revenue_percentage": 79.2,
+    "personnel_expense_percentage_rcl": 48.2
+  },
+  "per_capita_breakdown": {
+    "health": 950.6,
+    "education": 1469.3,
+    "urbanism": 581.6,
+    "administration": 532.2,
+    "legislative": 139.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3766.0,
+      "health_per_capita": 741.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4045.0,
+      "health_per_capita": 798.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4323.9,
+      "health_per_capita": 855.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4556.4,
+      "health_per_capita": 912.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4649.4,
+      "health_per_capita": 950.6
+    }
+  ]
+}

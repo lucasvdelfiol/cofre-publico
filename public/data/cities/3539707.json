@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3539707",
+  "city_name": "Platina",
+  "uf": "SP",
+  "population": 3025,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 14241952.17,
+    "total_expense": 14116779.36,
+    "own_revenue_percentage": 13.7,
+    "transfers_revenue_percentage": 86.3,
+    "personnel_expense_percentage_rcl": 51.1
+  },
+  "per_capita_breakdown": {
+    "health": 1186.8,
+    "education": 1232.7,
+    "urbanism": 466.1,
+    "administration": 301.5,
+    "legislative": 114.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3780.0,
+      "health_per_capita": 925.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4060.0,
+      "health_per_capita": 996.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4340.0,
+      "health_per_capita": 1068.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4573.4,
+      "health_per_capita": 1139.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4666.7,
+      "health_per_capita": 1186.8
+    }
+  ]
+}

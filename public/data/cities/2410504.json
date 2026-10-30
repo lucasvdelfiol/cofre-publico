@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2410504",
+  "city_name": "Rafael Fernandes",
+  "uf": "RN",
+  "population": 5432,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 29029361.89,
+    "total_expense": 28186791.93,
+    "own_revenue_percentage": 19.2,
+    "transfers_revenue_percentage": 80.8,
+    "personnel_expense_percentage_rcl": 46.2
+  },
+  "per_capita_breakdown": {
+    "health": 1353.7,
+    "education": 1571.9,
+    "urbanism": 739.4,
+    "administration": 521.8,
+    "legislative": 178.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4203.1,
+      "health_per_capita": 1055.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4514.4,
+      "health_per_capita": 1137.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4825.8,
+      "health_per_capita": 1218.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5085.2,
+      "health_per_capita": 1299.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5189.0,
+      "health_per_capita": 1353.7
+    }
+  ]
+}

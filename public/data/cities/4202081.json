@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4202081",
+  "city_name": "Bandeirante",
+  "uf": "SC",
+  "population": 3144,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 15952540.12,
+    "total_expense": 15755348.19,
+    "own_revenue_percentage": 13.6,
+    "transfers_revenue_percentage": 86.4,
+    "personnel_expense_percentage_rcl": 52.8
+  },
+  "per_capita_breakdown": {
+    "health": 1256.2,
+    "education": 1303.9,
+    "urbanism": 594.0,
+    "administration": 496.6,
+    "legislative": 110.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4059.1,
+      "health_per_capita": 979.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4359.7,
+      "health_per_capita": 1055.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4660.4,
+      "health_per_capita": 1130.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4911.0,
+      "health_per_capita": 1206.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5011.2,
+      "health_per_capita": 1256.2
+    }
+  ]
+}

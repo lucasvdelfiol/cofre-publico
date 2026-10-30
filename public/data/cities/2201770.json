@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2201770",
+  "city_name": "Boa Hora",
+  "uf": "PI",
+  "population": 6902,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 32701368.55,
+    "total_expense": 31734405.81,
+    "own_revenue_percentage": 20.1,
+    "transfers_revenue_percentage": 79.9,
+    "personnel_expense_percentage_rcl": 46.8
+  },
+  "per_capita_breakdown": {
+    "health": 1152.7,
+    "education": 1214.5,
+    "urbanism": 730.0,
+    "administration": 324.9,
+    "legislative": 73.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3724.3,
+      "health_per_capita": 899.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4000.2,
+      "health_per_capita": 968.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4276.0,
+      "health_per_capita": 1037.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4505.9,
+      "health_per_capita": 1106.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4597.9,
+      "health_per_capita": 1152.7
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5221809",
+  "city_name": "Urutaí",
+  "uf": "GO",
+  "population": 3553,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 19567420.45,
+    "total_expense": 19498072.96,
+    "own_revenue_percentage": 20.8,
+    "transfers_revenue_percentage": 79.2,
+    "personnel_expense_percentage_rcl": 49.5
+  },
+  "per_capita_breakdown": {
+    "health": 1279.8,
+    "education": 1515.6,
+    "urbanism": 502.6,
+    "administration": 577.7,
+    "legislative": 123.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4445.1,
+      "health_per_capita": 998.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4774.4,
+      "health_per_capita": 1075.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5103.7,
+      "health_per_capita": 1151.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5378.0,
+      "health_per_capita": 1228.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5487.8,
+      "health_per_capita": 1279.8
+    }
+  ]
+}

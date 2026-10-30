@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4309258",
+  "city_name": "Guabiju",
+  "uf": "RS",
+  "population": 1500,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 7348277.13,
+    "total_expense": 7326316.76,
+    "own_revenue_percentage": 14.3,
+    "transfers_revenue_percentage": 85.7,
+    "personnel_expense_percentage_rcl": 46.1
+  },
+  "per_capita_breakdown": {
+    "health": 1115.0,
+    "education": 1229.2,
+    "urbanism": 694.3,
+    "administration": 497.8,
+    "legislative": 99.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3956.2,
+      "health_per_capita": 869.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4249.3,
+      "health_per_capita": 936.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4542.3,
+      "health_per_capita": 1003.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4786.5,
+      "health_per_capita": 1070.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4884.2,
+      "health_per_capita": 1115.0
+    }
+  ]
+}

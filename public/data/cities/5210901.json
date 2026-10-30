@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5210901",
+  "city_name": "Itapaci",
+  "uf": "GO",
+  "population": 21087,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 87888084.05,
+    "total_expense": 86831266.39,
+    "own_revenue_percentage": 22.8,
+    "transfers_revenue_percentage": 77.2,
+    "personnel_expense_percentage_rcl": 47.2
+  },
+  "per_capita_breakdown": {
+    "health": 1145.2,
+    "education": 1132.2,
+    "urbanism": 354.9,
+    "administration": 309.1,
+    "legislative": 112.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3335.4,
+      "health_per_capita": 893.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3582.5,
+      "health_per_capita": 962.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3829.6,
+      "health_per_capita": 1030.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4035.4,
+      "health_per_capita": 1099.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4117.8,
+      "health_per_capita": 1145.2
+    }
+  ]
+}

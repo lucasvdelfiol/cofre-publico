@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2920106",
+  "city_name": "Mairi",
+  "uf": "BA",
+  "population": 17674,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 79082619.93,
+    "total_expense": 77777943.61,
+    "own_revenue_percentage": 12.2,
+    "transfers_revenue_percentage": 87.8,
+    "personnel_expense_percentage_rcl": 50.9
+  },
+  "per_capita_breakdown": {
+    "health": 1050.0,
+    "education": 1129.7,
+    "urbanism": 375.6,
+    "administration": 390.1,
+    "legislative": 102.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3564.6,
+      "health_per_capita": 819.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3828.6,
+      "health_per_capita": 882.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4092.7,
+      "health_per_capita": 945.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4312.7,
+      "health_per_capita": 1008.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4400.7,
+      "health_per_capita": 1050.0
+    }
+  ]
+}

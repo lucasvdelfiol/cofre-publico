@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2104800",
+  "city_name": "Grajaú",
+  "uf": "MA",
+  "population": 73872,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 328736102.6,
+    "total_expense": 331218161.04,
+    "own_revenue_percentage": 36.5,
+    "transfers_revenue_percentage": 63.5,
+    "personnel_expense_percentage_rcl": 48.4
+  },
+  "per_capita_breakdown": {
+    "health": 1116.9,
+    "education": 1130.1,
+    "urbanism": 716.5,
+    "administration": 494.5,
+    "legislative": 146.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3631.8,
+      "health_per_capita": 871.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3900.8,
+      "health_per_capita": 938.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4169.8,
+      "health_per_capita": 1005.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4394.0,
+      "health_per_capita": 1072.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4483.7,
+      "health_per_capita": 1116.9
+    }
+  ]
+}

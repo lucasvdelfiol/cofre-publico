@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1508050",
+  "city_name": "Trairão",
+  "uf": "PA",
+  "population": 15242,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 65815135.18,
+    "total_expense": 66019580.28,
+    "own_revenue_percentage": 10.9,
+    "transfers_revenue_percentage": 89.1,
+    "personnel_expense_percentage_rcl": 49.5
+  },
+  "per_capita_breakdown": {
+    "health": 1185.5,
+    "education": 1271.2,
+    "urbanism": 410.2,
+    "administration": 480.0,
+    "legislative": 112.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3508.4,
+      "health_per_capita": 924.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3768.3,
+      "health_per_capita": 995.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4028.2,
+      "health_per_capita": 1067.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4244.8,
+      "health_per_capita": 1138.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4331.4,
+      "health_per_capita": 1185.5
+    }
+  ]
+}

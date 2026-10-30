@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2204402",
+  "city_name": "Gilbués",
+  "uf": "PI",
+  "population": 10892,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 58801139.07,
+    "total_expense": 57949011.02,
+    "own_revenue_percentage": 11.1,
+    "transfers_revenue_percentage": 88.9,
+    "personnel_expense_percentage_rcl": 47.7
+  },
+  "per_capita_breakdown": {
+    "health": 1445.6,
+    "education": 1456.4,
+    "urbanism": 655.1,
+    "administration": 545.2,
+    "legislative": 168.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4309.4,
+      "health_per_capita": 1127.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4628.7,
+      "health_per_capita": 1214.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4947.9,
+      "health_per_capita": 1301.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5213.9,
+      "health_per_capita": 1387.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5320.3,
+      "health_per_capita": 1445.6
+    }
+  ]
+}

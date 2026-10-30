@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5106851",
+  "city_name": "Porto Estrela",
+  "uf": "MT",
+  "population": 3224,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 14573993.91,
+    "total_expense": 14249501.11,
+    "own_revenue_percentage": 17.3,
+    "transfers_revenue_percentage": 82.7,
+    "personnel_expense_percentage_rcl": 49.1
+  },
+  "per_capita_breakdown": {
+    "health": 1117.3,
+    "education": 1341.0,
+    "urbanism": 400.0,
+    "administration": 340.6,
+    "legislative": 106.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3580.0,
+      "health_per_capita": 871.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3845.2,
+      "health_per_capita": 938.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4110.4,
+      "health_per_capita": 1005.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4331.4,
+      "health_per_capita": 1072.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4419.8,
+      "health_per_capita": 1117.3
+    }
+  ]
+}

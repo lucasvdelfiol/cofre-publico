@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1303601",
+  "city_name": "Santa Isabel do Rio Negro",
+  "uf": "AM",
+  "population": 14164,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 80238536.84,
+    "total_expense": 78437077.88,
+    "own_revenue_percentage": 17.1,
+    "transfers_revenue_percentage": 82.9,
+    "personnel_expense_percentage_rcl": 49.1
+  },
+  "per_capita_breakdown": {
+    "health": 1201.7,
+    "education": 1603.6,
+    "urbanism": 749.7,
+    "administration": 388.0,
+    "legislative": 87.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4485.6,
+      "health_per_capita": 937.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4817.9,
+      "health_per_capita": 1009.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5150.2,
+      "health_per_capita": 1081.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5427.0,
+      "health_per_capita": 1153.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5537.8,
+      "health_per_capita": 1201.7
+    }
+  ]
+}

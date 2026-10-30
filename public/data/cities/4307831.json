@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4307831",
+  "city_name": "Eugênio de Castro",
+  "uf": "RS",
+  "population": 2633,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 12126736.98,
+    "total_expense": 11684023.79,
+    "own_revenue_percentage": 14.6,
+    "transfers_revenue_percentage": 85.4,
+    "personnel_expense_percentage_rcl": 51.4
+  },
+  "per_capita_breakdown": {
+    "health": 1163.3,
+    "education": 1316.3,
+    "urbanism": 378.6,
+    "administration": 498.6,
+    "legislative": 111.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3594.4,
+      "health_per_capita": 907.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3860.6,
+      "health_per_capita": 977.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4126.9,
+      "health_per_capita": 1047.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4348.8,
+      "health_per_capita": 1116.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4437.5,
+      "health_per_capita": 1163.3
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1709500",
+  "city_name": "Gurupi",
+  "uf": "TO",
+  "population": 85125,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 362477940.57,
+    "total_expense": 360103753.59,
+    "own_revenue_percentage": 32.0,
+    "transfers_revenue_percentage": 68.0,
+    "personnel_expense_percentage_rcl": 49.5
+  },
+  "per_capita_breakdown": {
+    "health": 1012.1,
+    "education": 1092.5,
+    "urbanism": 343.3,
+    "administration": 322.3,
+    "legislative": 123.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3426.5,
+      "health_per_capita": 789.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3680.4,
+      "health_per_capita": 850.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3934.2,
+      "health_per_capita": 910.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4145.7,
+      "health_per_capita": 971.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4230.3,
+      "health_per_capita": 1012.1
+    }
+  ]
+}

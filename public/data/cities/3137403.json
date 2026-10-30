@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3137403",
+  "city_name": "Lagoa Dourada",
+  "uf": "MG",
+  "population": 12769,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 70770447.47,
+    "total_expense": 68483014.46,
+    "own_revenue_percentage": 12.7,
+    "transfers_revenue_percentage": 87.3,
+    "personnel_expense_percentage_rcl": 46.9
+  },
+  "per_capita_breakdown": {
+    "health": 1442.4,
+    "education": 1350.8,
+    "urbanism": 465.7,
+    "administration": 519.1,
+    "legislative": 140.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4344.2,
+      "health_per_capita": 1125.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4666.0,
+      "health_per_capita": 1211.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4987.8,
+      "health_per_capita": 1298.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5255.9,
+      "health_per_capita": 1384.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5363.2,
+      "health_per_capita": 1442.4
+    }
+  ]
+}

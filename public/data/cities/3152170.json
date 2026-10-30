@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3152170",
+  "city_name": "Ponto dos Volantes",
+  "uf": "MG",
+  "population": 10883,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 59558306.76,
+    "total_expense": 59634149.74,
+    "own_revenue_percentage": 11.2,
+    "transfers_revenue_percentage": 88.8,
+    "personnel_expense_percentage_rcl": 53.6
+  },
+  "per_capita_breakdown": {
+    "health": 1329.5,
+    "education": 1417.1,
+    "urbanism": 838.9,
+    "administration": 617.9,
+    "legislative": 188.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4438.5,
+      "health_per_capita": 1037.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4767.3,
+      "health_per_capita": 1116.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5096.0,
+      "health_per_capita": 1196.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5370.0,
+      "health_per_capita": 1276.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5479.6,
+      "health_per_capita": 1329.5
+    }
+  ]
+}

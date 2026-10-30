@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4121901",
+  "city_name": "Ribeirão do Pinhal",
+  "uf": "PR",
+  "population": 13060,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 60513408.33,
+    "total_expense": 58332442.56,
+    "own_revenue_percentage": 13.9,
+    "transfers_revenue_percentage": 86.1,
+    "personnel_expense_percentage_rcl": 46.8
+  },
+  "per_capita_breakdown": {
+    "health": 1097.7,
+    "education": 1095.6,
+    "urbanism": 457.4,
+    "administration": 305.9,
+    "legislative": 67.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3617.9,
+      "health_per_capita": 856.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3885.9,
+      "health_per_capita": 922.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4153.8,
+      "health_per_capita": 987.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4377.2,
+      "health_per_capita": 1053.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4466.5,
+      "health_per_capita": 1097.7
+    }
+  ]
+}

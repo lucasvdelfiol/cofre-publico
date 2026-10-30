@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4205209",
+  "city_name": "Erval Velho",
+  "uf": "SC",
+  "population": 4885,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 21836647.38,
+    "total_expense": 21958668.5,
+    "own_revenue_percentage": 16.8,
+    "transfers_revenue_percentage": 83.2,
+    "personnel_expense_percentage_rcl": 45.6
+  },
+  "per_capita_breakdown": {
+    "health": 912.0,
+    "education": 1199.4,
+    "urbanism": 610.1,
+    "administration": 324.1,
+    "legislative": 146.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3641.0,
+      "health_per_capita": 711.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3910.7,
+      "health_per_capita": 766.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4180.4,
+      "health_per_capita": 820.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4405.2,
+      "health_per_capita": 875.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4495.1,
+      "health_per_capita": 912.0
+    }
+  ]
+}

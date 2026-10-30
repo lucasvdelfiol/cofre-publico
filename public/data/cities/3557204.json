@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3557204",
+  "city_name": "Chavantes",
+  "uf": "SP",
+  "population": 12211,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 64034177.27,
+    "total_expense": 64572201.07,
+    "own_revenue_percentage": 20.1,
+    "transfers_revenue_percentage": 79.9,
+    "personnel_expense_percentage_rcl": 51.8
+  },
+  "per_capita_breakdown": {
+    "health": 1063.5,
+    "education": 1370.6,
+    "urbanism": 810.9,
+    "administration": 441.5,
+    "legislative": 89.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4283.3,
+      "health_per_capita": 829.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4600.6,
+      "health_per_capita": 893.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4917.8,
+      "health_per_capita": 957.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5182.2,
+      "health_per_capita": 1021.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5288.0,
+      "health_per_capita": 1063.5
+    }
+  ]
+}

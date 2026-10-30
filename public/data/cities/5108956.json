@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5108956",
+  "city_name": "Nova Monte Verde",
+  "uf": "MT",
+  "population": 8313,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 36116645.11,
+    "total_expense": 36411986.29,
+    "own_revenue_percentage": 14.4,
+    "transfers_revenue_percentage": 85.6,
+    "personnel_expense_percentage_rcl": 46.3
+  },
+  "per_capita_breakdown": {
+    "health": 1203.3,
+    "education": 1393.3,
+    "urbanism": 617.4,
+    "administration": 491.9,
+    "legislative": 117.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3547.9,
+      "health_per_capita": 938.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3810.7,
+      "health_per_capita": 1010.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4073.5,
+      "health_per_capita": 1083.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4292.5,
+      "health_per_capita": 1155.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4380.1,
+      "health_per_capita": 1203.3
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3511409",
+  "city_name": "Cerqueira César",
+  "uf": "SP",
+  "population": 21469,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 90328642.88,
+    "total_expense": 89022282.12,
+    "own_revenue_percentage": 30.4,
+    "transfers_revenue_percentage": 69.6,
+    "personnel_expense_percentage_rcl": 53.1
+  },
+  "per_capita_breakdown": {
+    "health": 939.9,
+    "education": 1137.8,
+    "urbanism": 544.4,
+    "administration": 342.1,
+    "legislative": 121.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3358.7,
+      "health_per_capita": 733.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3607.5,
+      "health_per_capita": 789.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3856.3,
+      "health_per_capita": 845.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4063.7,
+      "health_per_capita": 902.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4146.6,
+      "health_per_capita": 939.9
+    }
+  ]
+}

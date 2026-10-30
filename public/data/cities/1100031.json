@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1100031",
+  "city_name": "Cabixi",
+  "uf": "RO",
+  "population": 5351,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 26430148.45,
+    "total_expense": 26386727.72,
+    "own_revenue_percentage": 13.2,
+    "transfers_revenue_percentage": 86.8,
+    "personnel_expense_percentage_rcl": 45.5
+  },
+  "per_capita_breakdown": {
+    "health": 1072.6,
+    "education": 1513.8,
+    "urbanism": 654.5,
+    "administration": 415.2,
+    "legislative": 149.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3994.3,
+      "health_per_capita": 836.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4290.1,
+      "health_per_capita": 901.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4586.0,
+      "health_per_capita": 965.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4832.6,
+      "health_per_capita": 1029.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4931.2,
+      "health_per_capita": 1072.6
+    }
+  ]
+}

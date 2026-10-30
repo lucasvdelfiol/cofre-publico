@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3554409",
+  "city_name": "Terra Roxa",
+  "uf": "SP",
+  "population": 7904,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 38838470.38,
+    "total_expense": 39131712.71,
+    "own_revenue_percentage": 14.2,
+    "transfers_revenue_percentage": 85.8,
+    "personnel_expense_percentage_rcl": 52.3
+  },
+  "per_capita_breakdown": {
+    "health": 1173.5,
+    "education": 1414.0,
+    "urbanism": 643.1,
+    "administration": 476.6,
+    "legislative": 157.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4010.2,
+      "health_per_capita": 915.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4307.3,
+      "health_per_capita": 985.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4604.3,
+      "health_per_capita": 1056.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4851.9,
+      "health_per_capita": 1126.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4950.9,
+      "health_per_capita": 1173.5
+    }
+  ]
+}

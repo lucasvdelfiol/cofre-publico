@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4200705",
+  "city_name": "Alfredo Wagner",
+  "uf": "SC",
+  "population": 10481,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 59382394.58,
+    "total_expense": 58477393.91,
+    "own_revenue_percentage": 17.7,
+    "transfers_revenue_percentage": 82.3,
+    "personnel_expense_percentage_rcl": 47.9
+  },
+  "per_capita_breakdown": {
+    "health": 1536.7,
+    "education": 1384.4,
+    "urbanism": 696.6,
+    "administration": 339.1,
+    "legislative": 172.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4519.3,
+      "health_per_capita": 1198.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4854.1,
+      "health_per_capita": 1290.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5188.8,
+      "health_per_capita": 1383.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5467.8,
+      "health_per_capita": 1475.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5579.4,
+      "health_per_capita": 1536.7
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3123007",
+  "city_name": "Dores de Campos",
+  "uf": "MG",
+  "population": 10007,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 46662716.33,
+    "total_expense": 45315989.48,
+    "own_revenue_percentage": 9.7,
+    "transfers_revenue_percentage": 90.3,
+    "personnel_expense_percentage_rcl": 53.6
+  },
+  "per_capita_breakdown": {
+    "health": 1039.5,
+    "education": 1327.3,
+    "urbanism": 567.9,
+    "administration": 361.1,
+    "legislative": 114.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3668.0,
+      "health_per_capita": 810.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3939.7,
+      "health_per_capita": 873.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4211.4,
+      "health_per_capita": 935.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4437.8,
+      "health_per_capita": 997.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4528.4,
+      "health_per_capita": 1039.5
+    }
+  ]
+}

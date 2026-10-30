@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1508159",
+  "city_name": "Uruará",
+  "uf": "PA",
+  "population": 43558,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 200075870.57,
+    "total_expense": 202065739.75,
+    "own_revenue_percentage": 22.5,
+    "transfers_revenue_percentage": 77.5,
+    "personnel_expense_percentage_rcl": 48.2
+  },
+  "per_capita_breakdown": {
+    "health": 1104.3,
+    "education": 1403.7,
+    "urbanism": 677.0,
+    "administration": 374.0,
+    "legislative": 104.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3757.6,
+      "health_per_capita": 861.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4035.9,
+      "health_per_capita": 927.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4314.3,
+      "health_per_capita": 993.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4546.2,
+      "health_per_capita": 1060.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4639.0,
+      "health_per_capita": 1104.3
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5103304",
+  "city_name": "Comodoro",
+  "uf": "MT",
+  "population": 18238,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 100367066.73,
+    "total_expense": 97511883.11,
+    "own_revenue_percentage": 13.6,
+    "transfers_revenue_percentage": 86.4,
+    "personnel_expense_percentage_rcl": 49.9
+  },
+  "per_capita_breakdown": {
+    "health": 1347.1,
+    "education": 1372.8,
+    "urbanism": 567.9,
+    "administration": 393.9,
+    "legislative": 112.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4330.7,
+      "health_per_capita": 1050.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4651.5,
+      "health_per_capita": 1131.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4972.3,
+      "health_per_capita": 1212.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5239.7,
+      "health_per_capita": 1293.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5346.6,
+      "health_per_capita": 1347.1
+    }
+  ]
+}

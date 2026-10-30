@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4316303",
+  "city_name": "Roque Gonzales",
+  "uf": "RS",
+  "population": 6576,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 28957128.52,
+    "total_expense": 28841513.6,
+    "own_revenue_percentage": 9.0,
+    "transfers_revenue_percentage": 91.0,
+    "personnel_expense_percentage_rcl": 52.3
+  },
+  "per_capita_breakdown": {
+    "health": 900.8,
+    "education": 1395.7,
+    "urbanism": 689.0,
+    "administration": 449.2,
+    "legislative": 120.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3552.6,
+      "health_per_capita": 702.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3815.7,
+      "health_per_capita": 756.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4078.9,
+      "health_per_capita": 810.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4298.2,
+      "health_per_capita": 864.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4385.9,
+      "health_per_capita": 900.8
+    }
+  ]
+}

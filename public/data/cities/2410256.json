@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2410256",
+  "city_name": "Porto do Mangue",
+  "uf": "RN",
+  "population": 5228,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 27401615.63,
+    "total_expense": 27582221.06,
+    "own_revenue_percentage": 15.5,
+    "transfers_revenue_percentage": 84.5,
+    "personnel_expense_percentage_rcl": 51.2
+  },
+  "per_capita_breakdown": {
+    "health": 1323.7,
+    "education": 1637.6,
+    "urbanism": 570.5,
+    "administration": 620.6,
+    "legislative": 150.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4273.5,
+      "health_per_capita": 1032.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4590.0,
+      "health_per_capita": 1111.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4906.6,
+      "health_per_capita": 1191.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5170.4,
+      "health_per_capita": 1270.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5275.9,
+      "health_per_capita": 1323.7
+    }
+  ]
+}

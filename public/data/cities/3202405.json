@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3202405",
+  "city_name": "Guarapari",
+  "uf": "ES",
+  "population": 124656,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 728618116.5,
+    "total_expense": 717504116.93,
+    "own_revenue_percentage": 44.2,
+    "transfers_revenue_percentage": 55.8,
+    "personnel_expense_percentage_rcl": 44.9
+  },
+  "per_capita_breakdown": {
+    "health": 1514.7,
+    "education": 1670.5,
+    "urbanism": 832.9,
+    "administration": 519.8,
+    "legislative": 152.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4662.3,
+      "health_per_capita": 1181.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 5007.6,
+      "health_per_capita": 1272.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5353.0,
+      "health_per_capita": 1363.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5640.8,
+      "health_per_capita": 1454.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5755.9,
+      "health_per_capita": 1514.7
+    }
+  ]
+}

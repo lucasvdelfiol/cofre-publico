@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5108600",
+  "city_name": "Vila Rica",
+  "uf": "MT",
+  "population": 19888,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 97655938.11,
+    "total_expense": 95322446.14,
+    "own_revenue_percentage": 11.6,
+    "transfers_revenue_percentage": 88.4,
+    "personnel_expense_percentage_rcl": 46.3
+  },
+  "per_capita_breakdown": {
+    "health": 1033.8,
+    "education": 1391.3,
+    "urbanism": 730.5,
+    "administration": 464.4,
+    "legislative": 155.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3882.3,
+      "health_per_capita": 806.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4169.9,
+      "health_per_capita": 868.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4457.5,
+      "health_per_capita": 930.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4697.1,
+      "health_per_capita": 992.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4793.0,
+      "health_per_capita": 1033.8
+    }
+  ]
+}

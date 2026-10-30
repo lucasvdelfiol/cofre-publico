@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2103703",
+  "city_name": "Cururupu",
+  "uf": "MA",
+  "population": 31558,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 136877888.38,
+    "total_expense": 137828597.51,
+    "own_revenue_percentage": 31.0,
+    "transfers_revenue_percentage": 69.0,
+    "personnel_expense_percentage_rcl": 46.5
+  },
+  "per_capita_breakdown": {
+    "health": 976.3,
+    "education": 1255.6,
+    "urbanism": 669.3,
+    "administration": 471.0,
+    "legislative": 113.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3537.7,
+      "health_per_capita": 761.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3799.7,
+      "health_per_capita": 820.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4061.8,
+      "health_per_capita": 878.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4280.1,
+      "health_per_capita": 937.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4367.5,
+      "health_per_capita": 976.3
+    }
+  ]
+}

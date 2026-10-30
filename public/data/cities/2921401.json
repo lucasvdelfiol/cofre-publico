@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2921401",
+  "city_name": "Mirangaba",
+  "uf": "BA",
+  "population": 15734,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 79850701.53,
+    "total_expense": 78699802.71,
+    "own_revenue_percentage": 21.5,
+    "transfers_revenue_percentage": 78.5,
+    "personnel_expense_percentage_rcl": 47.4
+  },
+  "per_capita_breakdown": {
+    "health": 1191.2,
+    "education": 1334.1,
+    "urbanism": 496.8,
+    "administration": 467.9,
+    "legislative": 148.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4051.5,
+      "health_per_capita": 929.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4351.7,
+      "health_per_capita": 1000.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4651.8,
+      "health_per_capita": 1072.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4901.9,
+      "health_per_capita": 1143.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5001.9,
+      "health_per_capita": 1191.2
+    }
+  ]
+}

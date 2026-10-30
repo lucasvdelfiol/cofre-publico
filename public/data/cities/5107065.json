@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5107065",
+  "city_name": "Querência",
+  "uf": "MT",
+  "population": 26769,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 117641504.48,
+    "total_expense": 113796967.16,
+    "own_revenue_percentage": 30.0,
+    "transfers_revenue_percentage": 70.0,
+    "personnel_expense_percentage_rcl": 46.0
+  },
+  "per_capita_breakdown": {
+    "health": 1115.2,
+    "education": 1190.8,
+    "urbanism": 654.9,
+    "administration": 501.3,
+    "legislative": 146.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3443.4,
+      "health_per_capita": 869.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3698.5,
+      "health_per_capita": 936.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3953.5,
+      "health_per_capita": 1003.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4166.1,
+      "health_per_capita": 1070.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4251.1,
+      "health_per_capita": 1115.2
+    }
+  ]
+}

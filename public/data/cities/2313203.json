@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2313203",
+  "city_name": "Tamboril",
+  "uf": "CE",
+  "population": 24815,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 102916125.25,
+    "total_expense": 103006523.21,
+    "own_revenue_percentage": 31.4,
+    "transfers_revenue_percentage": 68.6,
+    "personnel_expense_percentage_rcl": 46.2
+  },
+  "per_capita_breakdown": {
+    "health": 1116.7,
+    "education": 1317.9,
+    "urbanism": 479.3,
+    "administration": 373.3,
+    "legislative": 144.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3362.3,
+      "health_per_capita": 871.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3611.4,
+      "health_per_capita": 938.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3860.4,
+      "health_per_capita": 1005.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4068.0,
+      "health_per_capita": 1072.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4151.0,
+      "health_per_capita": 1116.7
+    }
+  ]
+}

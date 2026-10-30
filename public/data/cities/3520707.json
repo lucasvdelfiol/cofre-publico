@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3520707",
+  "city_name": "Indiaporã",
+  "uf": "SP",
+  "population": 4035,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 21416633.61,
+    "total_expense": 21628641.64,
+    "own_revenue_percentage": 13.4,
+    "transfers_revenue_percentage": 86.6,
+    "personnel_expense_percentage_rcl": 52.5
+  },
+  "per_capita_breakdown": {
+    "health": 1489.4,
+    "education": 1326.9,
+    "urbanism": 546.0,
+    "administration": 381.3,
+    "legislative": 113.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4341.8,
+      "health_per_capita": 1161.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4663.5,
+      "health_per_capita": 1251.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4985.1,
+      "health_per_capita": 1340.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5253.1,
+      "health_per_capita": 1429.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5360.3,
+      "health_per_capita": 1489.4
+    }
+  ]
+}

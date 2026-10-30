@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4313490",
+  "city_name": "Novo Barreiro",
+  "uf": "RS",
+  "population": 4272,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 19119608.68,
+    "total_expense": 18541719.1,
+    "own_revenue_percentage": 9.0,
+    "transfers_revenue_percentage": 91.0,
+    "personnel_expense_percentage_rcl": 49.8
+  },
+  "per_capita_breakdown": {
+    "health": 1182.2,
+    "education": 1326.3,
+    "urbanism": 399.7,
+    "administration": 381.6,
+    "legislative": 89.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3515.6,
+      "health_per_capita": 922.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3776.1,
+      "health_per_capita": 993.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4036.5,
+      "health_per_capita": 1064.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4253.5,
+      "health_per_capita": 1134.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4340.3,
+      "health_per_capita": 1182.2
+    }
+  ]
+}

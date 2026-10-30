@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4117297",
+  "city_name": "Novo Itacolomi",
+  "uf": "PR",
+  "population": 3125,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 14488163.86,
+    "total_expense": 13956843.19,
+    "own_revenue_percentage": 11.9,
+    "transfers_revenue_percentage": 88.1,
+    "personnel_expense_percentage_rcl": 49.0
+  },
+  "per_capita_breakdown": {
+    "health": 1122.2,
+    "education": 1409.5,
+    "urbanism": 504.0,
+    "administration": 288.4,
+    "legislative": 91.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3617.6,
+      "health_per_capita": 875.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3885.6,
+      "health_per_capita": 942.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4153.6,
+      "health_per_capita": 1010.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4376.9,
+      "health_per_capita": 1077.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4466.2,
+      "health_per_capita": 1122.2
+    }
+  ]
+}

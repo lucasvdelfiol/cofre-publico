@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5107925",
+  "city_name": "Sorriso",
+  "uf": "MT",
+  "population": 110635,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 611362689.3,
+    "total_expense": 609864760.05,
+    "own_revenue_percentage": 47.1,
+    "transfers_revenue_percentage": 52.9,
+    "personnel_expense_percentage_rcl": 45.4
+  },
+  "per_capita_breakdown": {
+    "health": 1406.0,
+    "education": 1398.5,
+    "urbanism": 598.9,
+    "administration": 358.7,
+    "legislative": 103.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4465.0,
+      "health_per_capita": 1096.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4795.8,
+      "health_per_capita": 1181.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5126.5,
+      "health_per_capita": 1265.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5402.2,
+      "health_per_capita": 1349.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5512.4,
+      "health_per_capita": 1406.0
+    }
+  ]
+}

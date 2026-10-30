@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3518859",
+  "city_name": "Guatapará",
+  "uf": "SP",
+  "population": 7320,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 33932640.28,
+    "total_expense": 34271207.61,
+    "own_revenue_percentage": 14.6,
+    "transfers_revenue_percentage": 85.4,
+    "personnel_expense_percentage_rcl": 49.6
+  },
+  "per_capita_breakdown": {
+    "health": 1297.0,
+    "education": 1395.5,
+    "urbanism": 374.7,
+    "administration": 523.6,
+    "legislative": 142.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3792.3,
+      "health_per_capita": 1011.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4073.3,
+      "health_per_capita": 1089.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4354.2,
+      "health_per_capita": 1167.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4588.3,
+      "health_per_capita": 1245.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4681.9,
+      "health_per_capita": 1297.0
+    }
+  ]
+}

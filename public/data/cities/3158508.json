@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3158508",
+  "city_name": "Santana de Pirapama",
+  "uf": "MG",
+  "population": 7030,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 32902541.79,
+    "total_expense": 32623622.15,
+    "own_revenue_percentage": 9.7,
+    "transfers_revenue_percentage": 90.3,
+    "personnel_expense_percentage_rcl": 47.2
+  },
+  "per_capita_breakdown": {
+    "health": 955.5,
+    "education": 1319.0,
+    "urbanism": 375.1,
+    "administration": 302.5,
+    "legislative": 72.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3758.9,
+      "health_per_capita": 745.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4037.3,
+      "health_per_capita": 802.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4315.8,
+      "health_per_capita": 860.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4547.8,
+      "health_per_capita": 917.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4640.6,
+      "health_per_capita": 955.5
+    }
+  ]
+}

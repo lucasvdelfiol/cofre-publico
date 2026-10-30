@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2112902",
+  "city_name": "Vitória do Mearim",
+  "uf": "MA",
+  "population": 30805,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 136292776.19,
+    "total_expense": 136146203.66,
+    "own_revenue_percentage": 21.5,
+    "transfers_revenue_percentage": 78.5,
+    "personnel_expense_percentage_rcl": 49.0
+  },
+  "per_capita_breakdown": {
+    "health": 1083.0,
+    "education": 1272.4,
+    "urbanism": 439.4,
+    "administration": 338.0,
+    "legislative": 84.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3579.9,
+      "health_per_capita": 844.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3845.1,
+      "health_per_capita": 909.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4110.2,
+      "health_per_capita": 974.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4331.2,
+      "health_per_capita": 1039.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4419.6,
+      "health_per_capita": 1083.0
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3514700",
+  "city_name": "Echaporã",
+  "uf": "SP",
+  "population": 6205,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 34745359.84,
+    "total_expense": 34473039.73,
+    "own_revenue_percentage": 12.1,
+    "transfers_revenue_percentage": 87.9,
+    "personnel_expense_percentage_rcl": 53.2
+  },
+  "per_capita_breakdown": {
+    "health": 1495.5,
+    "education": 1561.6,
+    "urbanism": 724.8,
+    "administration": 616.4,
+    "legislative": 161.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4500.1,
+      "health_per_capita": 1166.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4833.5,
+      "health_per_capita": 1256.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5166.8,
+      "health_per_capita": 1346.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5444.6,
+      "health_per_capita": 1435.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5555.7,
+      "health_per_capita": 1495.5
+    }
+  ]
+}

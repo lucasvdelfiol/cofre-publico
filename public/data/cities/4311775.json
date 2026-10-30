@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4311775",
+  "city_name": "Maquiné",
+  "uf": "RS",
+  "population": 7418,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 42086717.7,
+    "total_expense": 41380264.32,
+    "own_revenue_percentage": 14.2,
+    "transfers_revenue_percentage": 85.8,
+    "personnel_expense_percentage_rcl": 46.8
+  },
+  "per_capita_breakdown": {
+    "health": 1172.0,
+    "education": 1509.3,
+    "urbanism": 666.0,
+    "administration": 486.8,
+    "legislative": 189.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4518.5,
+      "health_per_capita": 914.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4853.2,
+      "health_per_capita": 984.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5187.9,
+      "health_per_capita": 1054.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5466.8,
+      "health_per_capita": 1125.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5578.4,
+      "health_per_capita": 1172.0
+    }
+  ]
+}

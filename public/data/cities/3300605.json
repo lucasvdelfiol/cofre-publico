@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3300605",
+  "city_name": "Bom Jesus do Itabapoana",
+  "uf": "RJ",
+  "population": 35173,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 149924302.07,
+    "total_expense": 148604700.92,
+    "own_revenue_percentage": 26.2,
+    "transfers_revenue_percentage": 73.8,
+    "personnel_expense_percentage_rcl": 49.3
+  },
+  "per_capita_breakdown": {
+    "health": 887.5,
+    "education": 1308.5,
+    "urbanism": 449.7,
+    "administration": 432.7,
+    "legislative": 65.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3422.2,
+      "health_per_capita": 692.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3675.8,
+      "health_per_capita": 745.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3929.2,
+      "health_per_capita": 798.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4140.5,
+      "health_per_capita": 852.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4225.0,
+      "health_per_capita": 887.5
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3556453",
+  "city_name": "Vargem Grande Paulista",
+  "uf": "SP",
+  "population": 50415,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 219802536.45,
+    "total_expense": 211986134.3,
+    "own_revenue_percentage": 30.9,
+    "transfers_revenue_percentage": 69.1,
+    "personnel_expense_percentage_rcl": 47.4
+  },
+  "per_capita_breakdown": {
+    "health": 1141.5,
+    "education": 1334.4,
+    "urbanism": 509.9,
+    "administration": 439.2,
+    "legislative": 115.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3405.9,
+      "health_per_capita": 890.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3658.2,
+      "health_per_capita": 958.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3910.5,
+      "health_per_capita": 1027.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4120.7,
+      "health_per_capita": 1095.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4204.8,
+      "health_per_capita": 1141.5
+    }
+  ]
+}

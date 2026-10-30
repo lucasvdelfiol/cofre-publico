@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3544400",
+  "city_name": "Rubiácea",
+  "uf": "SP",
+  "population": 2700,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 13938935.4,
+    "total_expense": 13834172.67,
+    "own_revenue_percentage": 14.0,
+    "transfers_revenue_percentage": 86.0,
+    "personnel_expense_percentage_rcl": 52.2
+  },
+  "per_capita_breakdown": {
+    "health": 1289.1,
+    "education": 1269.2,
+    "urbanism": 476.5,
+    "administration": 552.9,
+    "legislative": 172.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4150.3,
+      "health_per_capita": 1005.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4457.7,
+      "health_per_capita": 1082.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4765.1,
+      "health_per_capita": 1160.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5021.3,
+      "health_per_capita": 1237.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5123.8,
+      "health_per_capita": 1289.1
+    }
+  ]
+}

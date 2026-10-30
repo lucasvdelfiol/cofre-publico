@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3508504",
+  "city_name": "Caçapava",
+  "uf": "SP",
+  "population": 96202,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 458177134.85,
+    "total_expense": 448005649.02,
+    "own_revenue_percentage": 36.0,
+    "transfers_revenue_percentage": 64.0,
+    "personnel_expense_percentage_rcl": 47.4
+  },
+  "per_capita_breakdown": {
+    "health": 1219.6,
+    "education": 1242.3,
+    "urbanism": 603.1,
+    "administration": 519.3,
+    "legislative": 138.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3772.1,
+      "health_per_capita": 951.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4051.5,
+      "health_per_capita": 1024.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4330.9,
+      "health_per_capita": 1097.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4563.8,
+      "health_per_capita": 1170.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4656.9,
+      "health_per_capita": 1219.6
+    }
+  ]
+}

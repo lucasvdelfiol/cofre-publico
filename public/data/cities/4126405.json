@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4126405",
+  "city_name": "Sertaneja",
+  "uf": "PR",
+  "population": 5616,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 25206213.71,
+    "total_expense": 25029641.21,
+    "own_revenue_percentage": 12.6,
+    "transfers_revenue_percentage": 87.4,
+    "personnel_expense_percentage_rcl": 46.1
+  },
+  "per_capita_breakdown": {
+    "health": 1221.8,
+    "education": 1114.1,
+    "urbanism": 427.0,
+    "administration": 479.1,
+    "legislative": 132.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3610.0,
+      "health_per_capita": 953.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3877.4,
+      "health_per_capita": 1026.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4144.8,
+      "health_per_capita": 1099.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4367.7,
+      "health_per_capita": 1172.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4456.8,
+      "health_per_capita": 1221.8
+    }
+  ]
+}

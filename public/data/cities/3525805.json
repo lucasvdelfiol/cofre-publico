@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3525805",
+  "city_name": "Júlio Mesquita",
+  "uf": "SP",
+  "population": 4254,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 23688079.98,
+    "total_expense": 23363824.13,
+    "own_revenue_percentage": 8.2,
+    "transfers_revenue_percentage": 91.8,
+    "personnel_expense_percentage_rcl": 49.1
+  },
+  "per_capita_breakdown": {
+    "health": 1433.6,
+    "education": 1346.3,
+    "urbanism": 498.8,
+    "administration": 611.4,
+    "legislative": 89.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4448.7,
+      "health_per_capita": 1118.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4778.2,
+      "health_per_capita": 1204.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5107.7,
+      "health_per_capita": 1290.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5382.4,
+      "health_per_capita": 1376.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5492.2,
+      "health_per_capita": 1433.6
+    }
+  ]
+}

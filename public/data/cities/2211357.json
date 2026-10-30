@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2211357",
+  "city_name": "Várzea Branca",
+  "uf": "PI",
+  "population": 5055,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 23377817.42,
+    "total_expense": 22770218.15,
+    "own_revenue_percentage": 14.7,
+    "transfers_revenue_percentage": 85.3,
+    "personnel_expense_percentage_rcl": 51.3
+  },
+  "per_capita_breakdown": {
+    "health": 1011.5,
+    "education": 1289.5,
+    "urbanism": 526.4,
+    "administration": 399.8,
+    "legislative": 129.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3648.6,
+      "health_per_capita": 789.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3918.9,
+      "health_per_capita": 849.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4189.2,
+      "health_per_capita": 910.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4414.4,
+      "health_per_capita": 971.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4504.5,
+      "health_per_capita": 1011.5
+    }
+  ]
+}

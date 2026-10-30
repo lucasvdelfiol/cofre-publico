@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1505536",
+  "city_name": "Parauapebas",
+  "uf": "PA",
+  "population": 267836,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 1355311219.42,
+    "total_expense": 1303757781.5,
+    "own_revenue_percentage": 41.9,
+    "transfers_revenue_percentage": 58.1,
+    "personnel_expense_percentage_rcl": 45.1
+  },
+  "per_capita_breakdown": {
+    "health": 1047.6,
+    "education": 1228.2,
+    "urbanism": 729.6,
+    "administration": 429.5,
+    "legislative": 145.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3942.8,
+      "health_per_capita": 817.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4234.9,
+      "health_per_capita": 880.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4527.0,
+      "health_per_capita": 942.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4770.3,
+      "health_per_capita": 1005.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4867.7,
+      "health_per_capita": 1047.6
+    }
+  ]
+}

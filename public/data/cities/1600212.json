@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1600212",
+  "city_name": "Cutias",
+  "uf": "AP",
+  "population": 4461,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 22884461.65,
+    "total_expense": 22099557.26,
+    "own_revenue_percentage": 10.8,
+    "transfers_revenue_percentage": 89.2,
+    "personnel_expense_percentage_rcl": 50.0
+  },
+  "per_capita_breakdown": {
+    "health": 1376.3,
+    "education": 1261.0,
+    "urbanism": 749.9,
+    "administration": 348.6,
+    "legislative": 118.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4012.7,
+      "health_per_capita": 1073.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4309.9,
+      "health_per_capita": 1156.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4607.1,
+      "health_per_capita": 1238.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4854.8,
+      "health_per_capita": 1321.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4953.9,
+      "health_per_capita": 1376.3
+    }
+  ]
+}

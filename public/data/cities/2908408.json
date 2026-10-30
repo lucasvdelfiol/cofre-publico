@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2908408",
+  "city_name": "Conceição do Coité",
+  "uf": "BA",
+  "population": 67825,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 326776485.65,
+    "total_expense": 329916679.9,
+    "own_revenue_percentage": 28.3,
+    "transfers_revenue_percentage": 71.7,
+    "personnel_expense_percentage_rcl": 46.3
+  },
+  "per_capita_breakdown": {
+    "health": 1177.6,
+    "education": 1336.4,
+    "urbanism": 450.3,
+    "administration": 519.3,
+    "legislative": 91.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3940.0,
+      "health_per_capita": 918.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4231.9,
+      "health_per_capita": 989.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4523.7,
+      "health_per_capita": 1059.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4766.9,
+      "health_per_capita": 1130.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4864.2,
+      "health_per_capita": 1177.6
+    }
+  ]
+}

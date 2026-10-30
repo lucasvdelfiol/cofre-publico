@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4301206",
+  "city_name": "Arroio do Tigre",
+  "uf": "RS",
+  "population": 12058,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 63387560.29,
+    "total_expense": 61081285.98,
+    "own_revenue_percentage": 20.9,
+    "transfers_revenue_percentage": 79.1,
+    "personnel_expense_percentage_rcl": 51.5
+  },
+  "per_capita_breakdown": {
+    "health": 1049.2,
+    "education": 1262.0,
+    "urbanism": 683.2,
+    "administration": 477.6,
+    "legislative": 146.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4103.1,
+      "health_per_capita": 818.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4407.1,
+      "health_per_capita": 881.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4711.0,
+      "health_per_capita": 944.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4964.3,
+      "health_per_capita": 1007.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5065.6,
+      "health_per_capita": 1049.2
+    }
+  ]
+}

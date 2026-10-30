@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1503044",
+  "city_name": "Floresta do Araguaia",
+  "uf": "PA",
+  "population": 17898,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 86951522.93,
+    "total_expense": 84289392.81,
+    "own_revenue_percentage": 15.1,
+    "transfers_revenue_percentage": 84.9,
+    "personnel_expense_percentage_rcl": 48.7
+  },
+  "per_capita_breakdown": {
+    "health": 1085.1,
+    "education": 1412.6,
+    "urbanism": 544.9,
+    "administration": 305.5,
+    "legislative": 134.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3814.6,
+      "health_per_capita": 846.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4097.2,
+      "health_per_capita": 911.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4379.7,
+      "health_per_capita": 976.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4615.2,
+      "health_per_capita": 1041.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4709.4,
+      "health_per_capita": 1085.1
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4314555",
+  "city_name": "Pirapó",
+  "uf": "RS",
+  "population": 2260,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 12171835.13,
+    "total_expense": 12023559.95,
+    "own_revenue_percentage": 10.2,
+    "transfers_revenue_percentage": 89.8,
+    "personnel_expense_percentage_rcl": 52.7
+  },
+  "per_capita_breakdown": {
+    "health": 1208.2,
+    "education": 1511.8,
+    "urbanism": 659.7,
+    "administration": 401.5,
+    "legislative": 119.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4309.4,
+      "health_per_capita": 942.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4628.6,
+      "health_per_capita": 1014.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4947.8,
+      "health_per_capita": 1087.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5213.8,
+      "health_per_capita": 1159.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5320.2,
+      "health_per_capita": 1208.2
+    }
+  ]
+}

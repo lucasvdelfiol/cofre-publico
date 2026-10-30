@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3113107",
+  "city_name": "Caranaíba",
+  "uf": "MG",
+  "population": 2933,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 13442352.93,
+    "total_expense": 13259343.13,
+    "own_revenue_percentage": 12.6,
+    "transfers_revenue_percentage": 87.4,
+    "personnel_expense_percentage_rcl": 47.2
+  },
+  "per_capita_breakdown": {
+    "health": 1194.6,
+    "education": 1106.1,
+    "urbanism": 418.7,
+    "administration": 273.9,
+    "legislative": 123.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3661.8,
+      "health_per_capita": 931.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3933.0,
+      "health_per_capita": 1003.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4204.3,
+      "health_per_capita": 1075.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4430.3,
+      "health_per_capita": 1146.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4520.7,
+      "health_per_capita": 1194.6
+    }
+  ]
+}

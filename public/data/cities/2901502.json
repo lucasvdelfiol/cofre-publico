@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2901502",
+  "city_name": "Anguera",
+  "uf": "BA",
+  "population": 11031,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 52984517.8,
+    "total_expense": 51618308.17,
+    "own_revenue_percentage": 15.2,
+    "transfers_revenue_percentage": 84.8,
+    "personnel_expense_percentage_rcl": 46.8
+  },
+  "per_capita_breakdown": {
+    "health": 1286.3,
+    "education": 1471.5,
+    "urbanism": 612.1,
+    "administration": 387.8,
+    "legislative": 119.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3790.3,
+      "health_per_capita": 1003.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4071.1,
+      "health_per_capita": 1080.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4351.8,
+      "health_per_capita": 1157.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4585.8,
+      "health_per_capita": 1234.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4679.4,
+      "health_per_capita": 1286.3
+    }
+  ]
+}

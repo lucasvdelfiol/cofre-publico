@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3554805",
+  "city_name": "Tremembé",
+  "uf": "SP",
+  "population": 51173,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 252817584.79,
+    "total_expense": 244087127.78,
+    "own_revenue_percentage": 37.0,
+    "transfers_revenue_percentage": 63.0,
+    "personnel_expense_percentage_rcl": 49.3
+  },
+  "per_capita_breakdown": {
+    "health": 1088.7,
+    "education": 1198.9,
+    "urbanism": 471.2,
+    "administration": 335.0,
+    "legislative": 98.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3863.5,
+      "health_per_capita": 849.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4149.7,
+      "health_per_capita": 914.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4435.9,
+      "health_per_capita": 979.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4674.4,
+      "health_per_capita": 1045.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4769.8,
+      "health_per_capita": 1088.7
+    }
+  ]
+}

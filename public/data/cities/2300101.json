@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2300101",
+  "city_name": "Abaiara",
+  "uf": "CE",
+  "population": 10038,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 52404421.44,
+    "total_expense": 50924857.11,
+    "own_revenue_percentage": 14.4,
+    "transfers_revenue_percentage": 85.6,
+    "personnel_expense_percentage_rcl": 51.5
+  },
+  "per_capita_breakdown": {
+    "health": 1236.0,
+    "education": 1565.8,
+    "urbanism": 770.8,
+    "administration": 589.1,
+    "legislative": 138.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4109.3,
+      "health_per_capita": 964.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4413.7,
+      "health_per_capita": 1038.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4718.1,
+      "health_per_capita": 1112.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4971.7,
+      "health_per_capita": 1186.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5073.2,
+      "health_per_capita": 1236.0
+    }
+  ]
+}

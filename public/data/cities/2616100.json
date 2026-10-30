@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2616100",
+  "city_name": "Verdejante",
+  "uf": "PE",
+  "population": 9169,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 50748993.12,
+    "total_expense": 50582224.34,
+    "own_revenue_percentage": 19.4,
+    "transfers_revenue_percentage": 80.6,
+    "personnel_expense_percentage_rcl": 53.3
+  },
+  "per_capita_breakdown": {
+    "health": 1389.8,
+    "education": 1489.6,
+    "urbanism": 833.3,
+    "administration": 459.5,
+    "legislative": 173.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4468.5,
+      "health_per_capita": 1084.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4799.5,
+      "health_per_capita": 1167.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5130.5,
+      "health_per_capita": 1250.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5406.4,
+      "health_per_capita": 1334.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5516.7,
+      "health_per_capita": 1389.8
+    }
+  ]
+}

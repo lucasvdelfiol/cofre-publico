@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4205902",
+  "city_name": "Gaspar",
+  "uf": "SC",
+  "population": 72570,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 335005787.41,
+    "total_expense": 336470387.3,
+    "own_revenue_percentage": 34.7,
+    "transfers_revenue_percentage": 65.3,
+    "personnel_expense_percentage_rcl": 49.0
+  },
+  "per_capita_breakdown": {
+    "health": 1221.5,
+    "education": 1371.2,
+    "urbanism": 591.3,
+    "administration": 452.3,
+    "legislative": 136.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3755.6,
+      "health_per_capita": 952.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4033.8,
+      "health_per_capita": 1026.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4311.9,
+      "health_per_capita": 1099.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4543.8,
+      "health_per_capita": 1172.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4636.5,
+      "health_per_capita": 1221.5
+    }
+  ]
+}

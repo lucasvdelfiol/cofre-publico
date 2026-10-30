@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2108801",
+  "city_name": "Pirapemas",
+  "uf": "MA",
+  "population": 17714,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 81347325.25,
+    "total_expense": 79397784.99,
+    "own_revenue_percentage": 17.2,
+    "transfers_revenue_percentage": 82.8,
+    "personnel_expense_percentage_rcl": 50.0
+  },
+  "per_capita_breakdown": {
+    "health": 979.5,
+    "education": 1345.0,
+    "urbanism": 559.1,
+    "administration": 344.9,
+    "legislative": 105.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3630.6,
+      "health_per_capita": 764.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3899.5,
+      "health_per_capita": 822.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4168.4,
+      "health_per_capita": 881.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4392.6,
+      "health_per_capita": 940.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4482.2,
+      "health_per_capita": 979.5
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3137601",
+  "city_name": "Lagoa Santa",
+  "uf": "MG",
+  "population": 75145,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 351037363.71,
+    "total_expense": 341888953.27,
+    "own_revenue_percentage": 32.7,
+    "transfers_revenue_percentage": 67.3,
+    "personnel_expense_percentage_rcl": 51.7
+  },
+  "per_capita_breakdown": {
+    "health": 1235.3,
+    "education": 1251.8,
+    "urbanism": 674.3,
+    "administration": 301.5,
+    "legislative": 139.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3685.3,
+      "health_per_capita": 963.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3958.2,
+      "health_per_capita": 1037.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4231.2,
+      "health_per_capita": 1111.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4458.7,
+      "health_per_capita": 1185.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4549.7,
+      "health_per_capita": 1235.3
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4118204",
+  "city_name": "Paranaguá",
+  "uf": "PR",
+  "population": 145829,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 699766770.73,
+    "total_expense": 706688116.83,
+    "own_revenue_percentage": 53.4,
+    "transfers_revenue_percentage": 46.6,
+    "personnel_expense_percentage_rcl": 48.5
+  },
+  "per_capita_breakdown": {
+    "health": 1202.2,
+    "education": 1199.6,
+    "urbanism": 630.0,
+    "administration": 307.6,
+    "legislative": 98.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3925.3,
+      "health_per_capita": 937.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4216.0,
+      "health_per_capita": 1009.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4506.8,
+      "health_per_capita": 1082.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4749.1,
+      "health_per_capita": 1154.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4846.0,
+      "health_per_capita": 1202.2
+    }
+  ]
+}

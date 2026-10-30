@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1703826",
+  "city_name": "Cachoeirinha",
+  "uf": "TO",
+  "population": 1961,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 9922248.39,
+    "total_expense": 9662477.86,
+    "own_revenue_percentage": 9.6,
+    "transfers_revenue_percentage": 90.4,
+    "personnel_expense_percentage_rcl": 45.8
+  },
+  "per_capita_breakdown": {
+    "health": 1365.3,
+    "education": 1543.7,
+    "urbanism": 545.3,
+    "administration": 414.4,
+    "legislative": 166.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3991.1,
+      "health_per_capita": 1064.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4286.8,
+      "health_per_capita": 1146.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4582.4,
+      "health_per_capita": 1228.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4828.8,
+      "health_per_capita": 1310.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4927.3,
+      "health_per_capita": 1365.3
+    }
+  ]
+}

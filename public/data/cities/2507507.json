@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2507507",
+  "city_name": "João Pessoa",
+  "uf": "PB",
+  "population": 833932,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 4504728816.72,
+    "total_expense": 4372718490.11,
+    "own_revenue_percentage": 41.0,
+    "transfers_revenue_percentage": 59.0,
+    "personnel_expense_percentage_rcl": 48.6
+  },
+  "per_capita_breakdown": {
+    "health": 1332.6,
+    "education": 1487.2,
+    "urbanism": 746.2,
+    "administration": 388.0,
+    "legislative": 104.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4247.2,
+      "health_per_capita": 1039.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4561.8,
+      "health_per_capita": 1119.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4876.5,
+      "health_per_capita": 1199.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5138.6,
+      "health_per_capita": 1279.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5243.5,
+      "health_per_capita": 1332.6
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3544103",
+  "city_name": "Rio Grande da Serra",
+  "uf": "SP",
+  "population": 44170,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 213717736.11,
+    "total_expense": 209534727.03,
+    "own_revenue_percentage": 19.2,
+    "transfers_revenue_percentage": 80.8,
+    "personnel_expense_percentage_rcl": 50.1
+  },
+  "per_capita_breakdown": {
+    "health": 1171.8,
+    "education": 1499.8,
+    "urbanism": 442.2,
+    "administration": 504.9,
+    "legislative": 159.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3842.5,
+      "health_per_capita": 914.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4127.1,
+      "health_per_capita": 984.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4411.7,
+      "health_per_capita": 1054.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4648.9,
+      "health_per_capita": 1124.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4743.8,
+      "health_per_capita": 1171.8
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5213806",
+  "city_name": "Morrinhos",
+  "uf": "GO",
+  "population": 51351,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 233734541.37,
+    "total_expense": 225803986.02,
+    "own_revenue_percentage": 33.5,
+    "transfers_revenue_percentage": 66.5,
+    "personnel_expense_percentage_rcl": 49.6
+  },
+  "per_capita_breakdown": {
+    "health": 951.2,
+    "education": 1261.6,
+    "urbanism": 591.8,
+    "administration": 344.7,
+    "legislative": 116.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3561.8,
+      "health_per_capita": 741.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3825.7,
+      "health_per_capita": 799.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4089.5,
+      "health_per_capita": 856.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4309.4,
+      "health_per_capita": 913.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4397.3,
+      "health_per_capita": 951.2
+    }
+  ]
+}

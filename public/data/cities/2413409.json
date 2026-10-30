@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2413409",
+  "city_name": "Serra Negra do Norte",
+  "uf": "RN",
+  "population": 7597,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 38888233.73,
+    "total_expense": 37929469.42,
+    "own_revenue_percentage": 12.6,
+    "transfers_revenue_percentage": 87.4,
+    "personnel_expense_percentage_rcl": 51.2
+  },
+  "per_capita_breakdown": {
+    "health": 1099.6,
+    "education": 1260.5,
+    "urbanism": 695.2,
+    "administration": 463.6,
+    "legislative": 150.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4044.1,
+      "health_per_capita": 857.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4343.6,
+      "health_per_capita": 923.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4643.2,
+      "health_per_capita": 989.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4892.8,
+      "health_per_capita": 1055.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4992.7,
+      "health_per_capita": 1099.6
+    }
+  ]
+}

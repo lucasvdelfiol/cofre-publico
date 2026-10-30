@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1507607",
+  "city_name": "São Miguel do Guamá",
+  "uf": "PA",
+  "population": 52894,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 273171471.44,
+    "total_expense": 271357966.94,
+    "own_revenue_percentage": 38.5,
+    "transfers_revenue_percentage": 61.5,
+    "personnel_expense_percentage_rcl": 52.4
+  },
+  "per_capita_breakdown": {
+    "health": 1384.5,
+    "education": 1322.8,
+    "urbanism": 585.0,
+    "administration": 576.7,
+    "legislative": 177.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4155.5,
+      "health_per_capita": 1079.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4463.3,
+      "health_per_capita": 1163.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4771.1,
+      "health_per_capita": 1246.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5027.6,
+      "health_per_capita": 1329.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5130.2,
+      "health_per_capita": 1384.5
+    }
+  ]
+}

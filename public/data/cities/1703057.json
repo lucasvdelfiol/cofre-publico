@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1703057",
+  "city_name": "Bandeirantes do Tocantins",
+  "uf": "TO",
+  "population": 3407,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 16066529.52,
+    "total_expense": 15882518.61,
+    "own_revenue_percentage": 17.4,
+    "transfers_revenue_percentage": 82.6,
+    "personnel_expense_percentage_rcl": 50.4
+  },
+  "per_capita_breakdown": {
+    "health": 993.7,
+    "education": 1215.1,
+    "urbanism": 681.4,
+    "administration": 434.4,
+    "legislative": 102.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3776.0,
+      "health_per_capita": 775.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4055.7,
+      "health_per_capita": 834.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4335.4,
+      "health_per_capita": 894.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4568.5,
+      "health_per_capita": 954.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4661.7,
+      "health_per_capita": 993.7
+    }
+  ]
+}

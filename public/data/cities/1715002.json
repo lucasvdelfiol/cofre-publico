@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1715002",
+  "city_name": "Nova Rosalândia",
+  "uf": "TO",
+  "population": 3362,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 17210742.23,
+    "total_expense": 16822414.43,
+    "own_revenue_percentage": 9.3,
+    "transfers_revenue_percentage": 90.7,
+    "personnel_expense_percentage_rcl": 48.3
+  },
+  "per_capita_breakdown": {
+    "health": 1289.8,
+    "education": 1334.1,
+    "urbanism": 523.7,
+    "administration": 331.8,
+    "legislative": 109.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4053.0,
+      "health_per_capita": 1006.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4353.2,
+      "health_per_capita": 1083.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4653.4,
+      "health_per_capita": 1160.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4903.6,
+      "health_per_capita": 1238.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5003.7,
+      "health_per_capita": 1289.8
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2504355",
+  "city_name": "Caturité",
+  "uf": "PB",
+  "population": 5254,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 23453428.1,
+    "total_expense": 23410052.62,
+    "own_revenue_percentage": 11.0,
+    "transfers_revenue_percentage": 89.0,
+    "personnel_expense_percentage_rcl": 53.2
+  },
+  "per_capita_breakdown": {
+    "health": 1157.3,
+    "education": 1142.5,
+    "urbanism": 621.8,
+    "administration": 523.3,
+    "legislative": 106.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3609.1,
+      "health_per_capita": 902.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3876.5,
+      "health_per_capita": 972.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4143.8,
+      "health_per_capita": 1041.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4366.6,
+      "health_per_capita": 1111.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4455.7,
+      "health_per_capita": 1157.3
+    }
+  ]
+}

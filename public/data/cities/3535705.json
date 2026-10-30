@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3535705",
+  "city_name": "Paraíso",
+  "uf": "SP",
+  "population": 6099,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 29163027.42,
+    "total_expense": 28642643.7,
+    "own_revenue_percentage": 17.3,
+    "transfers_revenue_percentage": 82.7,
+    "personnel_expense_percentage_rcl": 47.2
+  },
+  "per_capita_breakdown": {
+    "health": 1042.3,
+    "education": 1148.8,
+    "urbanism": 604.9,
+    "administration": 353.9,
+    "legislative": 153.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3804.0,
+      "health_per_capita": 813.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4085.8,
+      "health_per_capita": 875.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4367.6,
+      "health_per_capita": 938.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4602.4,
+      "health_per_capita": 1000.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4696.3,
+      "health_per_capita": 1042.3
+    }
+  ]
+}

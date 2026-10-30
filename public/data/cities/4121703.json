@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4121703",
+  "city_name": "Reserva",
+  "uf": "PR",
+  "population": 24573,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 115870279.47,
+    "total_expense": 116009250.21,
+    "own_revenue_percentage": 22.9,
+    "transfers_revenue_percentage": 77.1,
+    "personnel_expense_percentage_rcl": 49.6
+  },
+  "per_capita_breakdown": {
+    "health": 1083.8,
+    "education": 1499.9,
+    "urbanism": 666.2,
+    "administration": 529.9,
+    "legislative": 96.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3824.0,
+      "health_per_capita": 845.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4107.3,
+      "health_per_capita": 910.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4390.5,
+      "health_per_capita": 975.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4626.6,
+      "health_per_capita": 1040.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4721.0,
+      "health_per_capita": 1083.8
+    }
+  ]
+}

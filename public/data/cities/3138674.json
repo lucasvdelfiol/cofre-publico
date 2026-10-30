@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3138674",
+  "city_name": "Luisburgo",
+  "uf": "MG",
+  "population": 6956,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 34628032.44,
+    "total_expense": 34404285.07,
+    "own_revenue_percentage": 20.3,
+    "transfers_revenue_percentage": 79.7,
+    "personnel_expense_percentage_rcl": 45.9
+  },
+  "per_capita_breakdown": {
+    "health": 1107.3,
+    "education": 1325.7,
+    "urbanism": 512.4,
+    "administration": 465.9,
+    "legislative": 145.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4006.3,
+      "health_per_capita": 863.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4303.0,
+      "health_per_capita": 930.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4599.8,
+      "health_per_capita": 996.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4847.1,
+      "health_per_capita": 1063.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4946.0,
+      "health_per_capita": 1107.3
+    }
+  ]
+}

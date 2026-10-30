@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1502772",
+  "city_name": "Curionópolis",
+  "uf": "PA",
+  "population": 19950,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 90193490.6,
+    "total_expense": 89757809.89,
+    "own_revenue_percentage": 13.0,
+    "transfers_revenue_percentage": 87.0,
+    "personnel_expense_percentage_rcl": 50.6
+  },
+  "per_capita_breakdown": {
+    "health": 1042.9,
+    "education": 1335.8,
+    "urbanism": 418.6,
+    "administration": 426.2,
+    "legislative": 102.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3644.3,
+      "health_per_capita": 813.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3914.2,
+      "health_per_capita": 876.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4184.2,
+      "health_per_capita": 938.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4409.1,
+      "health_per_capita": 1001.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4499.1,
+      "health_per_capita": 1042.9
+    }
+  ]
+}

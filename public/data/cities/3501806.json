@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3501806",
+  "city_name": "Américo de Campos",
+  "uf": "SP",
+  "population": 5870,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 28597741.59,
+    "total_expense": 27734109.75,
+    "own_revenue_percentage": 11.9,
+    "transfers_revenue_percentage": 88.1,
+    "personnel_expense_percentage_rcl": 50.6
+  },
+  "per_capita_breakdown": {
+    "health": 1093.5,
+    "education": 1182.2,
+    "urbanism": 435.5,
+    "administration": 417.4,
+    "legislative": 116.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3827.0,
+      "health_per_capita": 852.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4110.5,
+      "health_per_capita": 918.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4394.0,
+      "health_per_capita": 984.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4630.2,
+      "health_per_capita": 1049.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4724.7,
+      "health_per_capita": 1093.5
+    }
+  ]
+}

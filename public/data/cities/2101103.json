@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2101103",
+  "city_name": "Axixá",
+  "uf": "MA",
+  "population": 11790,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 57949533.75,
+    "total_expense": 58224216.13,
+    "own_revenue_percentage": 17.2,
+    "transfers_revenue_percentage": 82.8,
+    "personnel_expense_percentage_rcl": 49.6
+  },
+  "per_capita_breakdown": {
+    "health": 1234.7,
+    "education": 1219.8,
+    "urbanism": 710.5,
+    "administration": 489.9,
+    "legislative": 78.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4000.1,
+      "health_per_capita": 963.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4296.4,
+      "health_per_capita": 1037.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4592.7,
+      "health_per_capita": 1111.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4839.6,
+      "health_per_capita": 1185.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4938.4,
+      "health_per_capita": 1234.7
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1300839",
+  "city_name": "Caapiranga",
+  "uf": "AM",
+  "population": 13469,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 66057557.17,
+    "total_expense": 64124051.68,
+    "own_revenue_percentage": 14.4,
+    "transfers_revenue_percentage": 85.6,
+    "personnel_expense_percentage_rcl": 48.8
+  },
+  "per_capita_breakdown": {
+    "health": 1203.5,
+    "education": 1227.0,
+    "urbanism": 488.5,
+    "administration": 562.8,
+    "legislative": 106.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3856.3,
+      "health_per_capita": 938.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4142.0,
+      "health_per_capita": 1010.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4427.6,
+      "health_per_capita": 1083.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4665.7,
+      "health_per_capita": 1155.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4760.9,
+      "health_per_capita": 1203.5
+    }
+  ]
+}

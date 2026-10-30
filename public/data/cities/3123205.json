@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3123205",
+  "city_name": "Dores do Indaiá",
+  "uf": "MG",
+  "population": 12630,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 60320271.29,
+    "total_expense": 60242156.46,
+    "own_revenue_percentage": 10.1,
+    "transfers_revenue_percentage": 89.9,
+    "personnel_expense_percentage_rcl": 52.2
+  },
+  "per_capita_breakdown": {
+    "health": 1178.6,
+    "education": 1525.1,
+    "urbanism": 485.4,
+    "administration": 469.2,
+    "legislative": 79.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3863.5,
+      "health_per_capita": 919.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4149.7,
+      "health_per_capita": 990.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4435.9,
+      "health_per_capita": 1060.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4674.4,
+      "health_per_capita": 1131.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4769.8,
+      "health_per_capita": 1178.6
+    }
+  ]
+}

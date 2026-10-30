@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3129509",
+  "city_name": "Ibiá",
+  "uf": "MG",
+  "population": 22229,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 97902003.37,
+    "total_expense": 95384122.96,
+    "own_revenue_percentage": 29.5,
+    "transfers_revenue_percentage": 70.5,
+    "personnel_expense_percentage_rcl": 51.4
+  },
+  "per_capita_breakdown": {
+    "health": 1109.5,
+    "education": 1107.7,
+    "urbanism": 422.2,
+    "administration": 476.2,
+    "legislative": 146.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3475.7,
+      "health_per_capita": 865.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3733.2,
+      "health_per_capita": 932.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3990.6,
+      "health_per_capita": 998.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4205.2,
+      "health_per_capita": 1065.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4291.0,
+      "health_per_capita": 1109.5
+    }
+  ]
+}

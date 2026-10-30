@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3535606",
+  "city_name": "Paraibuna",
+  "uf": "SP",
+  "population": 17667,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 84317172.19,
+    "total_expense": 81500437.22,
+    "own_revenue_percentage": 20.9,
+    "transfers_revenue_percentage": 79.1,
+    "personnel_expense_percentage_rcl": 51.0
+  },
+  "per_capita_breakdown": {
+    "health": 944.2,
+    "education": 1121.0,
+    "urbanism": 396.1,
+    "administration": 467.2,
+    "legislative": 79.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3736.6,
+      "health_per_capita": 736.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4013.4,
+      "health_per_capita": 793.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4290.2,
+      "health_per_capita": 849.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4520.8,
+      "health_per_capita": 906.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4613.1,
+      "health_per_capita": 944.2
+    }
+  ]
+}

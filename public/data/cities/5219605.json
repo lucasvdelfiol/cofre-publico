@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5219605",
+  "city_name": "Santa Tereza de Goiás",
+  "uf": "GO",
+  "population": 3293,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 15879696.67,
+    "total_expense": 15442034.03,
+    "own_revenue_percentage": 16.3,
+    "transfers_revenue_percentage": 83.7,
+    "personnel_expense_percentage_rcl": 46.9
+  },
+  "per_capita_breakdown": {
+    "health": 1053.0,
+    "education": 1185.2,
+    "urbanism": 496.0,
+    "administration": 313.1,
+    "legislative": 80.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3798.4,
+      "health_per_capita": 821.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4079.8,
+      "health_per_capita": 884.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4361.1,
+      "health_per_capita": 947.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4595.6,
+      "health_per_capita": 1010.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4689.4,
+      "health_per_capita": 1053.0
+    }
+  ]
+}

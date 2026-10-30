@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3113909",
+  "city_name": "Carmo da Cachoeira",
+  "uf": "MG",
+  "population": 11547,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 54277432.12,
+    "total_expense": 52966562.89,
+    "own_revenue_percentage": 9.1,
+    "transfers_revenue_percentage": 90.9,
+    "personnel_expense_percentage_rcl": 49.7
+  },
+  "per_capita_breakdown": {
+    "health": 975.2,
+    "education": 1170.3,
+    "urbanism": 677.9,
+    "administration": 499.2,
+    "legislative": 100.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3715.5,
+      "health_per_capita": 760.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3990.7,
+      "health_per_capita": 819.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4265.9,
+      "health_per_capita": 877.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4495.3,
+      "health_per_capita": 936.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4587.0,
+      "health_per_capita": 975.2
+    }
+  ]
+}

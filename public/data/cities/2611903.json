@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2611903",
+  "city_name": "Rio Formoso",
+  "uf": "PE",
+  "population": 20009,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 85655200.07,
+    "total_expense": 84126635.82,
+    "own_revenue_percentage": 22.9,
+    "transfers_revenue_percentage": 77.1,
+    "personnel_expense_percentage_rcl": 48.9
+  },
+  "per_capita_breakdown": {
+    "health": 951.6,
+    "education": 1308.9,
+    "urbanism": 516.6,
+    "administration": 448.7,
+    "legislative": 67.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3405.6,
+      "health_per_capita": 742.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3657.8,
+      "health_per_capita": 799.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3910.1,
+      "health_per_capita": 856.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4120.3,
+      "health_per_capita": 913.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4204.4,
+      "health_per_capita": 951.6
+    }
+  ]
+}

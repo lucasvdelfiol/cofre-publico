@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3541059",
+  "city_name": "Pratânia",
+  "uf": "SP",
+  "population": 5126,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 27676022.1,
+    "total_expense": 27163134.65,
+    "own_revenue_percentage": 11.5,
+    "transfers_revenue_percentage": 88.5,
+    "personnel_expense_percentage_rcl": 53.7
+  },
+  "per_capita_breakdown": {
+    "health": 1353.0,
+    "education": 1479.7,
+    "urbanism": 664.8,
+    "administration": 586.6,
+    "legislative": 181.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4292.3,
+      "health_per_capita": 1055.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4610.2,
+      "health_per_capita": 1136.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4928.2,
+      "health_per_capita": 1217.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5193.1,
+      "health_per_capita": 1298.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5299.1,
+      "health_per_capita": 1353.0
+    }
+  ]
+}

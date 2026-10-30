@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5003306",
+  "city_name": "Coxim",
+  "uf": "MS",
+  "population": 32151,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 139623619.75,
+    "total_expense": 134504134.16,
+    "own_revenue_percentage": 22.4,
+    "transfers_revenue_percentage": 77.6,
+    "personnel_expense_percentage_rcl": 53.0
+  },
+  "per_capita_breakdown": {
+    "health": 995.3,
+    "education": 1079.0,
+    "urbanism": 442.9,
+    "administration": 278.8,
+    "legislative": 102.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3388.6,
+      "health_per_capita": 776.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3639.6,
+      "health_per_capita": 836.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3890.7,
+      "health_per_capita": 895.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4099.8,
+      "health_per_capita": 955.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4183.5,
+      "health_per_capita": 995.3
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3104403",
+  "city_name": "Argirita",
+  "uf": "MG",
+  "population": 2688,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 12577339.12,
+    "total_expense": 12208009.1,
+    "own_revenue_percentage": 8.9,
+    "transfers_revenue_percentage": 91.1,
+    "personnel_expense_percentage_rcl": 49.7
+  },
+  "per_capita_breakdown": {
+    "health": 1233.5,
+    "education": 1238.3,
+    "urbanism": 489.8,
+    "administration": 519.3,
+    "legislative": 73.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3678.8,
+      "health_per_capita": 962.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3951.3,
+      "health_per_capita": 1036.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4223.8,
+      "health_per_capita": 1110.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4450.9,
+      "health_per_capita": 1184.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4541.7,
+      "health_per_capita": 1233.5
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3164431",
+  "city_name": "São Sebastião da Vargem Alegre",
+  "uf": "MG",
+  "population": 3113,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 14728394.55,
+    "total_expense": 14700214.98,
+    "own_revenue_percentage": 12.7,
+    "transfers_revenue_percentage": 87.3,
+    "personnel_expense_percentage_rcl": 48.8
+  },
+  "per_capita_breakdown": {
+    "health": 1137.1,
+    "education": 1281.2,
+    "urbanism": 705.6,
+    "administration": 296.3,
+    "legislative": 135.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3825.0,
+      "health_per_capita": 886.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4108.3,
+      "health_per_capita": 955.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4391.6,
+      "health_per_capita": 1023.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4627.8,
+      "health_per_capita": 1091.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4722.2,
+      "health_per_capita": 1137.1
+    }
+  ]
+}

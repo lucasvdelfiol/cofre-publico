@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2308203",
+  "city_name": "Meruoca",
+  "uf": "CE",
+  "population": 15157,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 80724429.67,
+    "total_expense": 80964985.34,
+    "own_revenue_percentage": 19.3,
+    "transfers_revenue_percentage": 80.7,
+    "personnel_expense_percentage_rcl": 51.2
+  },
+  "per_capita_breakdown": {
+    "health": 1186.4,
+    "education": 1331.1,
+    "urbanism": 520.9,
+    "administration": 494.9,
+    "legislative": 183.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4326.9,
+      "health_per_capita": 925.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4647.4,
+      "health_per_capita": 996.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4967.9,
+      "health_per_capita": 1067.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5235.0,
+      "health_per_capita": 1138.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5341.8,
+      "health_per_capita": 1186.4
+    }
+  ]
+}

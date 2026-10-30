@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3110608",
+  "city_name": "Cambuí",
+  "uf": "MG",
+  "population": 29536,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 143386689.28,
+    "total_expense": 141736866.11,
+    "own_revenue_percentage": 30.3,
+    "transfers_revenue_percentage": 69.7,
+    "personnel_expense_percentage_rcl": 47.0
+  },
+  "per_capita_breakdown": {
+    "health": 1259.9,
+    "education": 1248.1,
+    "urbanism": 661.3,
+    "administration": 537.2,
+    "legislative": 141.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3887.0,
+      "health_per_capita": 982.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4175.0,
+      "health_per_capita": 1058.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4462.9,
+      "health_per_capita": 1133.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4702.8,
+      "health_per_capita": 1209.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4798.8,
+      "health_per_capita": 1259.9
+    }
+  ]
+}

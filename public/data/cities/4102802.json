@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4102802",
+  "city_name": "Bela Vista do Paraíso",
+  "uf": "PR",
+  "population": 14833,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 75832933.26,
+    "total_expense": 75567122.92,
+    "own_revenue_percentage": 11.6,
+    "transfers_revenue_percentage": 88.4,
+    "personnel_expense_percentage_rcl": 51.3
+  },
+  "per_capita_breakdown": {
+    "health": 1418.7,
+    "education": 1423.6,
+    "urbanism": 457.8,
+    "administration": 435.3,
+    "legislative": 123.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4126.5,
+      "health_per_capita": 1106.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4432.2,
+      "health_per_capita": 1191.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4737.9,
+      "health_per_capita": 1276.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4992.6,
+      "health_per_capita": 1362.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5094.5,
+      "health_per_capita": 1418.7
+    }
+  ]
+}

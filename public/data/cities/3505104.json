@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3505104",
+  "city_name": "Barbosa",
+  "uf": "SP",
+  "population": 5640,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 30108299.6,
+    "total_expense": 29781560.23,
+    "own_revenue_percentage": 21.1,
+    "transfers_revenue_percentage": 78.9,
+    "personnel_expense_percentage_rcl": 48.8
+  },
+  "per_capita_breakdown": {
+    "health": 1296.5,
+    "education": 1350.8,
+    "urbanism": 542.6,
+    "administration": 562.7,
+    "legislative": 85.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4277.1,
+      "health_per_capita": 1011.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4593.9,
+      "health_per_capita": 1089.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4910.8,
+      "health_per_capita": 1166.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5174.8,
+      "health_per_capita": 1244.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5280.4,
+      "health_per_capita": 1296.5
+    }
+  ]
+}

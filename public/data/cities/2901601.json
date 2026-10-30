@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2901601",
+  "city_name": "Antas",
+  "uf": "BA",
+  "population": 14206,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 67364091.61,
+    "total_expense": 66014942.27,
+    "own_revenue_percentage": 21.7,
+    "transfers_revenue_percentage": 78.3,
+    "personnel_expense_percentage_rcl": 53.4
+  },
+  "per_capita_breakdown": {
+    "health": 1052.2,
+    "education": 1300.8,
+    "urbanism": 387.0,
+    "administration": 540.3,
+    "legislative": 78.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3764.1,
+      "health_per_capita": 820.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4042.9,
+      "health_per_capita": 883.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4321.7,
+      "health_per_capita": 947.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4554.1,
+      "health_per_capita": 1010.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4647.0,
+      "health_per_capita": 1052.2
+    }
+  ]
+}

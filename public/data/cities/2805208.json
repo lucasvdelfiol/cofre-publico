@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2805208",
+  "city_name": "Pinhão",
+  "uf": "SE",
+  "population": 5677,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 28274338.26,
+    "total_expense": 28379798.43,
+    "own_revenue_percentage": 16.3,
+    "transfers_revenue_percentage": 83.7,
+    "personnel_expense_percentage_rcl": 53.7
+  },
+  "per_capita_breakdown": {
+    "health": 1175.0,
+    "education": 1233.7,
+    "urbanism": 712.6,
+    "administration": 354.9,
+    "legislative": 93.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4049.3,
+      "health_per_capita": 916.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4349.2,
+      "health_per_capita": 987.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4649.2,
+      "health_per_capita": 1057.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4899.1,
+      "health_per_capita": 1128.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4999.1,
+      "health_per_capita": 1175.0
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3170008",
+  "city_name": "Ubaí",
+  "uf": "MG",
+  "population": 11708,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 63409852.93,
+    "total_expense": 61528472.95,
+    "own_revenue_percentage": 11.7,
+    "transfers_revenue_percentage": 88.3,
+    "personnel_expense_percentage_rcl": 45.7
+  },
+  "per_capita_breakdown": {
+    "health": 1223.9,
+    "education": 1577.2,
+    "urbanism": 836.7,
+    "administration": 536.3,
+    "legislative": 117.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4256.8,
+      "health_per_capita": 954.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4572.1,
+      "health_per_capita": 1028.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4887.4,
+      "health_per_capita": 1101.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5150.2,
+      "health_per_capita": 1174.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5255.3,
+      "health_per_capita": 1223.9
+    }
+  ]
+}

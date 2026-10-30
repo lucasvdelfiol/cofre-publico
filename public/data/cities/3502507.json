@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3502507",
+  "city_name": "Aparecida",
+  "uf": "SP",
+  "population": 32569,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 137659972.0,
+    "total_expense": 136868237.95,
+    "own_revenue_percentage": 20.8,
+    "transfers_revenue_percentage": 79.2,
+    "personnel_expense_percentage_rcl": 52.0
+  },
+  "per_capita_breakdown": {
+    "health": 1051.0,
+    "education": 1251.9,
+    "urbanism": 578.2,
+    "administration": 326.8,
+    "legislative": 114.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3403.9,
+      "health_per_capita": 819.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3656.1,
+      "health_per_capita": 882.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3908.2,
+      "health_per_capita": 945.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4118.4,
+      "health_per_capita": 1009.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4202.4,
+      "health_per_capita": 1051.0
+    }
+  ]
+}

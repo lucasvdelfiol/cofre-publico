@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3135001",
+  "city_name": "Jaguaraçu",
+  "uf": "MG",
+  "population": 3092,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 16446932.32,
+    "total_expense": 16228828.68,
+    "own_revenue_percentage": 9.5,
+    "transfers_revenue_percentage": 90.5,
+    "personnel_expense_percentage_rcl": 46.3
+  },
+  "per_capita_breakdown": {
+    "health": 1407.1,
+    "education": 1577.0,
+    "urbanism": 779.2,
+    "administration": 320.4,
+    "legislative": 154.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4251.4,
+      "health_per_capita": 1097.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4566.4,
+      "health_per_capita": 1182.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4881.3,
+      "health_per_capita": 1266.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5143.7,
+      "health_per_capita": 1350.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5248.7,
+      "health_per_capita": 1407.1
+    }
+  ]
+}

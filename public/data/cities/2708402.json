@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2708402",
+  "city_name": "São José da Tapera",
+  "uf": "AL",
+  "population": 30604,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 152613931.23,
+    "total_expense": 146829469.04,
+    "own_revenue_percentage": 19.0,
+    "transfers_revenue_percentage": 81.0,
+    "personnel_expense_percentage_rcl": 50.7
+  },
+  "per_capita_breakdown": {
+    "health": 980.5,
+    "education": 1280.3,
+    "urbanism": 553.4,
+    "administration": 575.1,
+    "legislative": 144.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3886.1,
+      "health_per_capita": 764.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4174.0,
+      "health_per_capita": 823.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4461.9,
+      "health_per_capita": 882.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4701.7,
+      "health_per_capita": 941.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4797.7,
+      "health_per_capita": 980.5
+    }
+  ]
+}

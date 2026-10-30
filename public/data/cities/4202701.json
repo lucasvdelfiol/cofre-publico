@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4202701",
+  "city_name": "Botuverá",
+  "uf": "SC",
+  "population": 5363,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 24043922.3,
+    "total_expense": 24163954.06,
+    "own_revenue_percentage": 8.6,
+    "transfers_revenue_percentage": 91.4,
+    "personnel_expense_percentage_rcl": 47.8
+  },
+  "per_capita_breakdown": {
+    "health": 1192.5,
+    "education": 1277.2,
+    "urbanism": 540.9,
+    "administration": 442.8,
+    "legislative": 90.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3649.6,
+      "health_per_capita": 930.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3920.0,
+      "health_per_capita": 1001.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4190.3,
+      "health_per_capita": 1073.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4415.6,
+      "health_per_capita": 1144.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4505.7,
+      "health_per_capita": 1192.5
+    }
+  ]
+}

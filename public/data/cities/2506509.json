@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2506509",
+  "city_name": "Gurjão",
+  "uf": "PB",
+  "population": 3242,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 14843041.21,
+    "total_expense": 14401050.17,
+    "own_revenue_percentage": 20.0,
+    "transfers_revenue_percentage": 80.0,
+    "personnel_expense_percentage_rcl": 52.6
+  },
+  "per_capita_breakdown": {
+    "health": 1240.4,
+    "education": 1393.8,
+    "urbanism": 446.8,
+    "administration": 317.2,
+    "legislative": 70.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3598.0,
+      "health_per_capita": 967.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3864.5,
+      "health_per_capita": 1041.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4131.1,
+      "health_per_capita": 1116.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4353.2,
+      "health_per_capita": 1190.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4442.0,
+      "health_per_capita": 1240.4
+    }
+  ]
+}

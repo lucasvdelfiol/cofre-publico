@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2806800",
+  "city_name": "São Domingos",
+  "uf": "SE",
+  "population": 10327,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 46129166.52,
+    "total_expense": 45822882.32,
+    "own_revenue_percentage": 11.6,
+    "transfers_revenue_percentage": 88.4,
+    "personnel_expense_percentage_rcl": 52.3
+  },
+  "per_capita_breakdown": {
+    "health": 1195.9,
+    "education": 1376.7,
+    "urbanism": 501.1,
+    "administration": 359.2,
+    "legislative": 67.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3594.1,
+      "health_per_capita": 932.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3860.4,
+      "health_per_capita": 1004.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4126.6,
+      "health_per_capita": 1076.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4348.5,
+      "health_per_capita": 1148.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4437.2,
+      "health_per_capita": 1195.9
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2804102",
+  "city_name": "Moita Bonita",
+  "uf": "SE",
+  "population": 11050,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 48670067.0,
+    "total_expense": 48600456.42,
+    "own_revenue_percentage": 21.6,
+    "transfers_revenue_percentage": 78.4,
+    "personnel_expense_percentage_rcl": 47.6
+  },
+  "per_capita_breakdown": {
+    "health": 1189.0,
+    "education": 1125.8,
+    "urbanism": 361.9,
+    "administration": 467.3,
+    "legislative": 143.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3562.5,
+      "health_per_capita": 927.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3826.4,
+      "health_per_capita": 998.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4090.3,
+      "health_per_capita": 1070.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4310.2,
+      "health_per_capita": 1141.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4398.2,
+      "health_per_capita": 1189.0
+    }
+  ]
+}

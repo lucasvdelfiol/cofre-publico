@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2612604",
+  "city_name": "Santa Maria da Boa Vista",
+  "uf": "PE",
+  "population": 40578,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 200078056.52,
+    "total_expense": 195586749.86,
+    "own_revenue_percentage": 23.9,
+    "transfers_revenue_percentage": 76.1,
+    "personnel_expense_percentage_rcl": 48.2
+  },
+  "per_capita_breakdown": {
+    "health": 1324.6,
+    "education": 1310.8,
+    "urbanism": 631.7,
+    "administration": 482.5,
+    "legislative": 115.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3904.2,
+      "health_per_capita": 1033.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4193.4,
+      "health_per_capita": 1112.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4482.6,
+      "health_per_capita": 1192.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4723.6,
+      "health_per_capita": 1271.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4820.0,
+      "health_per_capita": 1324.6
+    }
+  ]
+}

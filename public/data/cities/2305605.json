@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2305605",
+  "city_name": "Independência",
+  "uf": "CE",
+  "population": 24024,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 104887599.97,
+    "total_expense": 101157592.91,
+    "own_revenue_percentage": 25.2,
+    "transfers_revenue_percentage": 74.8,
+    "personnel_expense_percentage_rcl": 50.8
+  },
+  "per_capita_breakdown": {
+    "health": 1102.8,
+    "education": 1260.1,
+    "urbanism": 347.5,
+    "administration": 299.7,
+    "legislative": 67.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3410.7,
+      "health_per_capita": 860.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3663.3,
+      "health_per_capita": 926.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3916.0,
+      "health_per_capita": 992.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4126.5,
+      "health_per_capita": 1058.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4210.7,
+      "health_per_capita": 1102.8
+    }
+  ]
+}

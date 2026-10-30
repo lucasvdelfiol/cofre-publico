@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4207106",
+  "city_name": "Ilhota",
+  "uf": "SC",
+  "population": 17046,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 83268605.56,
+    "total_expense": 81380270.13,
+    "own_revenue_percentage": 13.3,
+    "transfers_revenue_percentage": 86.7,
+    "personnel_expense_percentage_rcl": 48.5
+  },
+  "per_capita_breakdown": {
+    "health": 1279.2,
+    "education": 1175.3,
+    "urbanism": 417.4,
+    "administration": 309.5,
+    "legislative": 125.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3867.1,
+      "health_per_capita": 997.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4153.6,
+      "health_per_capita": 1074.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4440.0,
+      "health_per_capita": 1151.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4678.7,
+      "health_per_capita": 1228.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4774.2,
+      "health_per_capita": 1279.2
+    }
+  ]
+}

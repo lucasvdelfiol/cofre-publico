@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3131901",
+  "city_name": "Itabirito",
+  "uf": "MG",
+  "population": 53365,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 273718418.36,
+    "total_expense": 275945636.43,
+    "own_revenue_percentage": 41.7,
+    "transfers_revenue_percentage": 58.3,
+    "personnel_expense_percentage_rcl": 51.4
+  },
+  "per_capita_breakdown": {
+    "health": 1099.0,
+    "education": 1337.5,
+    "urbanism": 538.9,
+    "administration": 575.6,
+    "legislative": 121.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4188.4,
+      "health_per_capita": 857.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4498.7,
+      "health_per_capita": 923.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4808.9,
+      "health_per_capita": 989.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5067.5,
+      "health_per_capita": 1055.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5170.9,
+      "health_per_capita": 1099.0
+    }
+  ]
+}

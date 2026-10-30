@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3513504",
+  "city_name": "Cubatão",
+  "uf": "SP",
+  "population": 112476,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 650640219.21,
+    "total_expense": 630482255.87,
+    "own_revenue_percentage": 43.9,
+    "transfers_revenue_percentage": 56.1,
+    "personnel_expense_percentage_rcl": 50.1
+  },
+  "per_capita_breakdown": {
+    "health": 1333.9,
+    "education": 1728.9,
+    "urbanism": 562.4,
+    "administration": 571.5,
+    "legislative": 103.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4540.5,
+      "health_per_capita": 1040.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4876.8,
+      "health_per_capita": 1120.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5213.1,
+      "health_per_capita": 1200.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5493.4,
+      "health_per_capita": 1280.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5605.5,
+      "health_per_capita": 1333.9
+    }
+  ]
+}

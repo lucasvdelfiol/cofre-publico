@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2110500",
+  "city_name": "São Bento",
+  "uf": "MA",
+  "population": 46395,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 197617116.48,
+    "total_expense": 197602003.1,
+    "own_revenue_percentage": 31.1,
+    "transfers_revenue_percentage": 68.9,
+    "personnel_expense_percentage_rcl": 49.3
+  },
+  "per_capita_breakdown": {
+    "health": 1138.6,
+    "education": 1225.7,
+    "urbanism": 526.6,
+    "administration": 498.9,
+    "legislative": 128.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3449.9,
+      "health_per_capita": 888.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3705.4,
+      "health_per_capita": 956.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3961.0,
+      "health_per_capita": 1024.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4173.9,
+      "health_per_capita": 1093.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4259.1,
+      "health_per_capita": 1138.6
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2513901",
+  "city_name": "São Bento",
+  "uf": "PB",
+  "population": 32235,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 134561433.57,
+    "total_expense": 135141117.9,
+    "own_revenue_percentage": 26.1,
+    "transfers_revenue_percentage": 73.9,
+    "personnel_expense_percentage_rcl": 49.0
+  },
+  "per_capita_breakdown": {
+    "health": 1129.3,
+    "education": 1062.5,
+    "urbanism": 534.3,
+    "administration": 255.1,
+    "legislative": 131.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3395.8,
+      "health_per_capita": 880.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3647.4,
+      "health_per_capita": 948.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3898.9,
+      "health_per_capita": 1016.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4108.6,
+      "health_per_capita": 1084.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4192.4,
+      "health_per_capita": 1129.3
+    }
+  ]
+}

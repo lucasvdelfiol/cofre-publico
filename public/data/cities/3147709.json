@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3147709",
+  "city_name": "Passa Tempo",
+  "uf": "MG",
+  "population": 8473,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 39628334.88,
+    "total_expense": 38758302.16,
+    "own_revenue_percentage": 15.3,
+    "transfers_revenue_percentage": 84.7,
+    "personnel_expense_percentage_rcl": 52.7
+  },
+  "per_capita_breakdown": {
+    "health": 965.0,
+    "education": 1426.1,
+    "urbanism": 457.1,
+    "administration": 407.5,
+    "legislative": 140.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3705.2,
+      "health_per_capita": 752.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3979.6,
+      "health_per_capita": 810.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4254.1,
+      "health_per_capita": 868.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4482.8,
+      "health_per_capita": 926.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4574.3,
+      "health_per_capita": 965.0
+    }
+  ]
+}

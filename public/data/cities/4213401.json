@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4213401",
+  "city_name": "Ponte Serrada",
+  "uf": "SC",
+  "population": 10649,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 50096412.44,
+    "total_expense": 50151968.55,
+    "own_revenue_percentage": 17.3,
+    "transfers_revenue_percentage": 82.7,
+    "personnel_expense_percentage_rcl": 50.3
+  },
+  "per_capita_breakdown": {
+    "health": 964.2,
+    "education": 1236.3,
+    "urbanism": 384.5,
+    "administration": 301.9,
+    "legislative": 93.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3814.7,
+      "health_per_capita": 752.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4097.3,
+      "health_per_capita": 809.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4379.8,
+      "health_per_capita": 867.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4615.3,
+      "health_per_capita": 925.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4709.5,
+      "health_per_capita": 964.2
+    }
+  ]
+}

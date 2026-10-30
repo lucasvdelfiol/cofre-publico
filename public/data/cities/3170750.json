@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3170750",
+  "city_name": "Varjão de Minas",
+  "uf": "MG",
+  "population": 6969,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 32485567.59,
+    "total_expense": 32261609.91,
+    "own_revenue_percentage": 13.6,
+    "transfers_revenue_percentage": 86.4,
+    "personnel_expense_percentage_rcl": 49.4
+  },
+  "per_capita_breakdown": {
+    "health": 951.2,
+    "education": 1471.7,
+    "urbanism": 652.6,
+    "administration": 305.3,
+    "legislative": 137.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3749.7,
+      "health_per_capita": 741.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4027.5,
+      "health_per_capita": 799.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4305.2,
+      "health_per_capita": 856.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4536.7,
+      "health_per_capita": 913.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4629.3,
+      "health_per_capita": 951.2
+    }
+  ]
+}

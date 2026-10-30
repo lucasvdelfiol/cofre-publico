@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2103802",
+  "city_name": "Dom Pedro",
+  "uf": "MA",
+  "population": 23053,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 103048840.35,
+    "total_expense": 102134257.18,
+    "own_revenue_percentage": 31.0,
+    "transfers_revenue_percentage": 69.0,
+    "personnel_expense_percentage_rcl": 46.2
+  },
+  "per_capita_breakdown": {
+    "health": 1200.6,
+    "education": 1387.8,
+    "urbanism": 550.2,
+    "administration": 529.2,
+    "legislative": 124.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3588.6,
+      "health_per_capita": 936.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3854.4,
+      "health_per_capita": 1008.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4120.3,
+      "health_per_capita": 1080.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4341.8,
+      "health_per_capita": 1152.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4430.4,
+      "health_per_capita": 1200.6
+    }
+  ]
+}

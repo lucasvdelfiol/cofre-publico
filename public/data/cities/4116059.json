@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4116059",
+  "city_name": "Missal",
+  "uf": "PR",
+  "population": 11064,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 56472818.12,
+    "total_expense": 56392845.96,
+    "own_revenue_percentage": 12.0,
+    "transfers_revenue_percentage": 88.0,
+    "personnel_expense_percentage_rcl": 50.6
+  },
+  "per_capita_breakdown": {
+    "health": 1157.4,
+    "education": 1388.0,
+    "urbanism": 512.2,
+    "administration": 577.4,
+    "legislative": 105.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4128.6,
+      "health_per_capita": 902.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4434.4,
+      "health_per_capita": 972.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4740.2,
+      "health_per_capita": 1041.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4995.1,
+      "health_per_capita": 1111.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5097.0,
+      "health_per_capita": 1157.4
+    }
+  ]
+}

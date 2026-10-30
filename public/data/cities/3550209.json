@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3550209",
+  "city_name": "São Miguel Arcanjo",
+  "uf": "SP",
+  "population": 32039,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 153117427.39,
+    "total_expense": 150819626.85,
+    "own_revenue_percentage": 28.9,
+    "transfers_revenue_percentage": 71.1,
+    "personnel_expense_percentage_rcl": 46.2
+  },
+  "per_capita_breakdown": {
+    "health": 1134.8,
+    "education": 1281.6,
+    "urbanism": 567.3,
+    "administration": 310.7,
+    "legislative": 154.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3813.0,
+      "health_per_capita": 885.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4095.4,
+      "health_per_capita": 953.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4377.9,
+      "health_per_capita": 1021.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4613.3,
+      "health_per_capita": 1089.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4707.4,
+      "health_per_capita": 1134.8
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4123501",
+  "city_name": "Santa Helena",
+  "uf": "PR",
+  "population": 25492,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 115946972.9,
+    "total_expense": 116301130.41,
+    "own_revenue_percentage": 30.7,
+    "transfers_revenue_percentage": 69.3,
+    "personnel_expense_percentage_rcl": 50.2
+  },
+  "per_capita_breakdown": {
+    "health": 1170.7,
+    "education": 1294.7,
+    "urbanism": 675.6,
+    "administration": 320.9,
+    "legislative": 100.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3695.5,
+      "health_per_capita": 913.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3969.2,
+      "health_per_capita": 983.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4242.9,
+      "health_per_capita": 1053.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4471.1,
+      "health_per_capita": 1123.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4562.3,
+      "health_per_capita": 1170.7
+    }
+  ]
+}

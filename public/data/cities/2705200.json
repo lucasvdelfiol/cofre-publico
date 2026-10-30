@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2705200",
+  "city_name": "Messias",
+  "uf": "AL",
+  "population": 15405,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 83836857.22,
+    "total_expense": 82234359.02,
+    "own_revenue_percentage": 15.4,
+    "transfers_revenue_percentage": 84.6,
+    "personnel_expense_percentage_rcl": 50.4
+  },
+  "per_capita_breakdown": {
+    "health": 1213.6,
+    "education": 1350.4,
+    "urbanism": 732.6,
+    "administration": 636.6,
+    "legislative": 93.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4323.9,
+      "health_per_capita": 946.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4644.2,
+      "health_per_capita": 1019.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4964.5,
+      "health_per_capita": 1092.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5231.4,
+      "health_per_capita": 1165.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5338.2,
+      "health_per_capita": 1213.6
+    }
+  ]
+}

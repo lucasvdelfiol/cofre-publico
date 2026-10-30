@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2905008",
+  "city_name": "Caculé",
+  "uf": "BA",
+  "population": 22462,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 101845828.76,
+    "total_expense": 102475140.39,
+    "own_revenue_percentage": 29.0,
+    "transfers_revenue_percentage": 71.0,
+    "personnel_expense_percentage_rcl": 52.8
+  },
+  "per_capita_breakdown": {
+    "health": 1129.6,
+    "education": 1340.0,
+    "urbanism": 606.1,
+    "administration": 519.8,
+    "legislative": 88.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3695.4,
+      "health_per_capita": 881.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3969.1,
+      "health_per_capita": 948.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4242.8,
+      "health_per_capita": 1016.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4471.0,
+      "health_per_capita": 1084.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4562.2,
+      "health_per_capita": 1129.6
+    }
+  ]
+}

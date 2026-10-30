@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3543303",
+  "city_name": "Ribeirão Pires",
+  "uf": "SP",
+  "population": 115559,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 593336260.86,
+    "total_expense": 570879683.96,
+    "own_revenue_percentage": 47.4,
+    "transfers_revenue_percentage": 52.6,
+    "personnel_expense_percentage_rcl": 47.8
+  },
+  "per_capita_breakdown": {
+    "health": 1171.3,
+    "education": 1509.3,
+    "urbanism": 646.7,
+    "administration": 349.9,
+    "legislative": 131.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4001.6,
+      "health_per_capita": 913.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4298.0,
+      "health_per_capita": 983.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4594.4,
+      "health_per_capita": 1054.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4841.4,
+      "health_per_capita": 1124.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4940.2,
+      "health_per_capita": 1171.3
+    }
+  ]
+}

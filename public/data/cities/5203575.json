@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5203575",
+  "city_name": "Bonópolis",
+  "uf": "GO",
+  "population": 3299,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 15433182.61,
+    "total_expense": 15192022.74,
+    "own_revenue_percentage": 18.0,
+    "transfers_revenue_percentage": 82.0,
+    "personnel_expense_percentage_rcl": 51.2
+  },
+  "per_capita_breakdown": {
+    "health": 1007.0,
+    "education": 1210.2,
+    "urbanism": 680.0,
+    "administration": 499.0,
+    "legislative": 157.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3730.1,
+      "health_per_capita": 785.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4006.3,
+      "health_per_capita": 845.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4282.7,
+      "health_per_capita": 906.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4512.9,
+      "health_per_capita": 966.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4605.0,
+      "health_per_capita": 1007.0
+    }
+  ]
+}

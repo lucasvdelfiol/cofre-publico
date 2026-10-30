@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5210208",
+  "city_name": "Iporá",
+  "uf": "GO",
+  "population": 35684,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 162332737.74,
+    "total_expense": 159266479.18,
+    "own_revenue_percentage": 21.2,
+    "transfers_revenue_percentage": 78.8,
+    "personnel_expense_percentage_rcl": 51.1
+  },
+  "per_capita_breakdown": {
+    "health": 1172.5,
+    "education": 1364.3,
+    "urbanism": 609.5,
+    "administration": 459.0,
+    "legislative": 89.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3615.2,
+      "health_per_capita": 914.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3883.0,
+      "health_per_capita": 984.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4150.8,
+      "health_per_capita": 1055.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4373.9,
+      "health_per_capita": 1125.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4463.2,
+      "health_per_capita": 1172.5
+    }
+  ]
+}

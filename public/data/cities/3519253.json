@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3519253",
+  "city_name": "Iaras",
+  "uf": "SP",
+  "population": 8010,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 39127434.02,
+    "total_expense": 38791849.14,
+    "own_revenue_percentage": 9.2,
+    "transfers_revenue_percentage": 90.8,
+    "personnel_expense_percentage_rcl": 49.6
+  },
+  "per_capita_breakdown": {
+    "health": 1055.7,
+    "education": 1287.6,
+    "urbanism": 496.8,
+    "administration": 384.2,
+    "legislative": 116.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3922.7,
+      "health_per_capita": 823.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4213.3,
+      "health_per_capita": 886.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4503.9,
+      "health_per_capita": 950.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4746.0,
+      "health_per_capita": 1013.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4842.9,
+      "health_per_capita": 1055.7
+    }
+  ]
+}

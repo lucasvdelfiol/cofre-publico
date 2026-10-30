@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2906303",
+  "city_name": "Canavieiras",
+  "uf": "BA",
+  "population": 32683,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 140544830.93,
+    "total_expense": 135379855.82,
+    "own_revenue_percentage": 30.3,
+    "transfers_revenue_percentage": 69.7,
+    "personnel_expense_percentage_rcl": 49.2
+  },
+  "per_capita_breakdown": {
+    "health": 836.8,
+    "education": 1280.5,
+    "urbanism": 596.1,
+    "administration": 266.0,
+    "legislative": 78.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3355.2,
+      "health_per_capita": 652.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3603.7,
+      "health_per_capita": 702.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3852.2,
+      "health_per_capita": 753.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4059.4,
+      "health_per_capita": 803.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4142.2,
+      "health_per_capita": 836.8
+    }
+  ]
+}

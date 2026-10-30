@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3149507",
+  "city_name": "Pequeri",
+  "uf": "MG",
+  "population": 3351,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 15851300.6,
+    "total_expense": 15285201.41,
+    "own_revenue_percentage": 8.1,
+    "transfers_revenue_percentage": 91.9,
+    "personnel_expense_percentage_rcl": 51.6
+  },
+  "per_capita_breakdown": {
+    "health": 1165.4,
+    "education": 1403.0,
+    "urbanism": 614.4,
+    "administration": 361.2,
+    "legislative": 118.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3694.7,
+      "health_per_capita": 909.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3968.4,
+      "health_per_capita": 978.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4242.1,
+      "health_per_capita": 1048.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4470.2,
+      "health_per_capita": 1118.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4561.4,
+      "health_per_capita": 1165.4
+    }
+  ]
+}

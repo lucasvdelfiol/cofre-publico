@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4311007",
+  "city_name": "Jaguarão",
+  "uf": "RS",
+  "population": 26603,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 113229491.5,
+    "total_expense": 109479932.18,
+    "own_revenue_percentage": 25.5,
+    "transfers_revenue_percentage": 74.5,
+    "personnel_expense_percentage_rcl": 47.2
+  },
+  "per_capita_breakdown": {
+    "health": 1061.2,
+    "education": 1274.5,
+    "urbanism": 396.2,
+    "administration": 458.1,
+    "legislative": 88.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3333.4,
+      "health_per_capita": 827.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3580.3,
+      "health_per_capita": 891.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3827.2,
+      "health_per_capita": 955.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4033.0,
+      "health_per_capita": 1018.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4115.3,
+      "health_per_capita": 1061.2
+    }
+  ]
+}

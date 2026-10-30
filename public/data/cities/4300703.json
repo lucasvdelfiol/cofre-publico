@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4300703",
+  "city_name": "Anta Gorda",
+  "uf": "RS",
+  "population": 5957,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 26731734.86,
+    "total_expense": 26691485.17,
+    "own_revenue_percentage": 10.1,
+    "transfers_revenue_percentage": 89.9,
+    "personnel_expense_percentage_rcl": 51.2
+  },
+  "per_capita_breakdown": {
+    "health": 1114.9,
+    "education": 1088.6,
+    "urbanism": 566.0,
+    "administration": 444.4,
+    "legislative": 99.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3629.4,
+      "health_per_capita": 869.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3898.2,
+      "health_per_capita": 936.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4167.1,
+      "health_per_capita": 1003.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4391.1,
+      "health_per_capita": 1070.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4480.7,
+      "health_per_capita": 1114.9
+    }
+  ]
+}

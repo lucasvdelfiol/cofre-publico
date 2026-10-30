@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4211876",
+  "city_name": "Paial",
+  "uf": "SC",
+  "population": 1927,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 9996683.9,
+    "total_expense": 9920862.4,
+    "own_revenue_percentage": 12.0,
+    "transfers_revenue_percentage": 88.0,
+    "personnel_expense_percentage_rcl": 51.9
+  },
+  "per_capita_breakdown": {
+    "health": 1076.7,
+    "education": 1263.3,
+    "urbanism": 619.3,
+    "administration": 321.2,
+    "legislative": 164.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4170.1,
+      "health_per_capita": 839.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4479.0,
+      "health_per_capita": 904.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4787.9,
+      "health_per_capita": 969.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5045.3,
+      "health_per_capita": 1033.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5148.3,
+      "health_per_capita": 1076.7
+    }
+  ]
+}

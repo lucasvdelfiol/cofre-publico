@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4311429",
+  "city_name": "Lajeado do Bugre",
+  "uf": "RS",
+  "population": 2601,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 13504721.04,
+    "total_expense": 13371341.25,
+    "own_revenue_percentage": 18.3,
+    "transfers_revenue_percentage": 81.7,
+    "personnel_expense_percentage_rcl": 51.3
+  },
+  "per_capita_breakdown": {
+    "health": 1058.3,
+    "education": 1320.3,
+    "urbanism": 634.1,
+    "administration": 504.0,
+    "legislative": 173.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4164.0,
+      "health_per_capita": 825.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4472.5,
+      "health_per_capita": 889.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4780.9,
+      "health_per_capita": 952.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5038.0,
+      "health_per_capita": 1016.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5140.8,
+      "health_per_capita": 1058.3
+    }
+  ]
+}

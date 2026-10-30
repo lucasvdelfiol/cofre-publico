@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5212055",
+  "city_name": "Jesúpolis",
+  "uf": "GO",
+  "population": 2123,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 11137414.89,
+    "total_expense": 11010913.95,
+    "own_revenue_percentage": 8.2,
+    "transfers_revenue_percentage": 91.8,
+    "personnel_expense_percentage_rcl": 51.3
+  },
+  "per_capita_breakdown": {
+    "health": 1410.5,
+    "education": 1247.0,
+    "urbanism": 702.1,
+    "administration": 462.1,
+    "legislative": 171.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4201.1,
+      "health_per_capita": 1100.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4512.3,
+      "health_per_capita": 1184.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4823.4,
+      "health_per_capita": 1269.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5082.8,
+      "health_per_capita": 1354.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5186.5,
+      "health_per_capita": 1410.5
+    }
+  ]
+}

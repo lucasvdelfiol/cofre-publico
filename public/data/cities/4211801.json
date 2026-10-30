@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4211801",
+  "city_name": "Ouro",
+  "uf": "SC",
+  "population": 7032,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 34775032.96,
+    "total_expense": 34365913.45,
+    "own_revenue_percentage": 11.9,
+    "transfers_revenue_percentage": 88.1,
+    "personnel_expense_percentage_rcl": 52.3
+  },
+  "per_capita_breakdown": {
+    "health": 1265.3,
+    "education": 1198.3,
+    "urbanism": 512.5,
+    "administration": 488.7,
+    "legislative": 167.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3958.6,
+      "health_per_capita": 986.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4251.8,
+      "health_per_capita": 1062.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4545.0,
+      "health_per_capita": 1138.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4789.4,
+      "health_per_capita": 1214.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4887.1,
+      "health_per_capita": 1265.3
+    }
+  ]
+}

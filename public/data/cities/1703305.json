@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1703305",
+  "city_name": "Bom Jesus do Tocantins",
+  "uf": "TO",
+  "population": 4038,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 18233103.87,
+    "total_expense": 17921761.31,
+    "own_revenue_percentage": 15.3,
+    "transfers_revenue_percentage": 84.7,
+    "personnel_expense_percentage_rcl": 53.2
+  },
+  "per_capita_breakdown": {
+    "health": 934.9,
+    "education": 1420.2,
+    "urbanism": 537.4,
+    "administration": 419.0,
+    "legislative": 136.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3595.0,
+      "health_per_capita": 729.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3861.3,
+      "health_per_capita": 785.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4127.6,
+      "health_per_capita": 841.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4349.5,
+      "health_per_capita": 897.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4438.3,
+      "health_per_capita": 934.9
+    }
+  ]
+}

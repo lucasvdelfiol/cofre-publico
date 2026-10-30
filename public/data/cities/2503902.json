@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2503902",
+  "city_name": "Camalaú",
+  "uf": "PB",
+  "population": 6085,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 33596376.21,
+    "total_expense": 32409348.05,
+    "own_revenue_percentage": 19.2,
+    "transfers_revenue_percentage": 80.8,
+    "personnel_expense_percentage_rcl": 51.4
+  },
+  "per_capita_breakdown": {
+    "health": 1164.1,
+    "education": 1631.6,
+    "urbanism": 563.4,
+    "administration": 425.1,
+    "legislative": 101.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4314.1,
+      "health_per_capita": 908.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4633.7,
+      "health_per_capita": 977.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4953.3,
+      "health_per_capita": 1047.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5219.6,
+      "health_per_capita": 1117.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5326.1,
+      "health_per_capita": 1164.1
+    }
+  ]
+}

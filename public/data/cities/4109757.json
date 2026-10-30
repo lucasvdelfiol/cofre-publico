@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4109757",
+  "city_name": "Ibema",
+  "uf": "PR",
+  "population": 6218,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 27582241.36,
+    "total_expense": 27477060.27,
+    "own_revenue_percentage": 11.7,
+    "transfers_revenue_percentage": 88.3,
+    "personnel_expense_percentage_rcl": 51.4
+  },
+  "per_capita_breakdown": {
+    "health": 1014.2,
+    "education": 1308.0,
+    "urbanism": 398.1,
+    "administration": 420.4,
+    "legislative": 146.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3579.4,
+      "health_per_capita": 791.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3844.5,
+      "health_per_capita": 851.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4109.7,
+      "health_per_capita": 912.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4330.6,
+      "health_per_capita": 973.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4419.0,
+      "health_per_capita": 1014.2
+    }
+  ]
+}

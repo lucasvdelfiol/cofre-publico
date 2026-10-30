@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3518503",
+  "city_name": "Guareí",
+  "uf": "SP",
+  "population": 15013,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 67481314.82,
+    "total_expense": 67735364.63,
+    "own_revenue_percentage": 21.5,
+    "transfers_revenue_percentage": 78.5,
+    "personnel_expense_percentage_rcl": 48.0
+  },
+  "per_capita_breakdown": {
+    "health": 1017.8,
+    "education": 1194.3,
+    "urbanism": 572.6,
+    "administration": 333.0,
+    "legislative": 148.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3654.6,
+      "health_per_capita": 793.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3925.3,
+      "health_per_capita": 855.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4196.0,
+      "health_per_capita": 916.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4421.6,
+      "health_per_capita": 977.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4511.8,
+      "health_per_capita": 1017.8
+    }
+  ]
+}

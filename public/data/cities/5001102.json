@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5001102",
+  "city_name": "Aquidauana",
+  "uf": "MS",
+  "population": 46803,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 202773916.47,
+    "total_expense": 200913418.33,
+    "own_revenue_percentage": 25.2,
+    "transfers_revenue_percentage": 74.8,
+    "personnel_expense_percentage_rcl": 47.9
+  },
+  "per_capita_breakdown": {
+    "health": 940.7,
+    "education": 1154.3,
+    "urbanism": 571.4,
+    "administration": 418.1,
+    "legislative": 116.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3477.1,
+      "health_per_capita": 733.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3734.6,
+      "health_per_capita": 790.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3992.2,
+      "health_per_capita": 846.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4206.8,
+      "health_per_capita": 903.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4292.7,
+      "health_per_capita": 940.7
+    }
+  ]
+}

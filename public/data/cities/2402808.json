@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2402808",
+  "city_name": "Coronel Ezequiel",
+  "uf": "RN",
+  "population": 5117,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 24823935.29,
+    "total_expense": 24306002.12,
+    "own_revenue_percentage": 10.5,
+    "transfers_revenue_percentage": 89.5,
+    "personnel_expense_percentage_rcl": 47.1
+  },
+  "per_capita_breakdown": {
+    "health": 1316.8,
+    "education": 1170.5,
+    "urbanism": 684.3,
+    "administration": 527.4,
+    "legislative": 141.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3847.5,
+      "health_per_capita": 1027.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4132.5,
+      "health_per_capita": 1106.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4417.5,
+      "health_per_capita": 1185.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4655.0,
+      "health_per_capita": 1264.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4750.0,
+      "health_per_capita": 1316.8
+    }
+  ]
+}

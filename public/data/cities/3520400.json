@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3520400",
+  "city_name": "Ilhabela",
+  "uf": "SP",
+  "population": 34934,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 167461373.9,
+    "total_expense": 167583556.71,
+    "own_revenue_percentage": 31.9,
+    "transfers_revenue_percentage": 68.1,
+    "personnel_expense_percentage_rcl": 51.4
+  },
+  "per_capita_breakdown": {
+    "health": 982.0,
+    "education": 1420.4,
+    "urbanism": 729.8,
+    "administration": 441.8,
+    "legislative": 93.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3885.7,
+      "health_per_capita": 766.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4173.5,
+      "health_per_capita": 824.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4461.3,
+      "health_per_capita": 883.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4701.2,
+      "health_per_capita": 942.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4797.1,
+      "health_per_capita": 982.0
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3131208",
+  "city_name": "Ipanema",
+  "uf": "MG",
+  "population": 19522,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 92068773.11,
+    "total_expense": 89985503.43,
+    "own_revenue_percentage": 8.8,
+    "transfers_revenue_percentage": 91.2,
+    "personnel_expense_percentage_rcl": 46.5
+  },
+  "per_capita_breakdown": {
+    "health": 1099.9,
+    "education": 1169.7,
+    "urbanism": 458.6,
+    "administration": 303.7,
+    "legislative": 143.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3733.6,
+      "health_per_capita": 857.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4010.2,
+      "health_per_capita": 923.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4286.7,
+      "health_per_capita": 989.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4517.2,
+      "health_per_capita": 1055.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4609.4,
+      "health_per_capita": 1099.9
+    }
+  ]
+}

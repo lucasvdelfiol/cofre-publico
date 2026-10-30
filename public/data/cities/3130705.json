@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3130705",
+  "city_name": "Indianópolis",
+  "uf": "MG",
+  "population": 6171,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 31612146.32,
+    "total_expense": 31349697.06,
+    "own_revenue_percentage": 21.5,
+    "transfers_revenue_percentage": 78.5,
+    "personnel_expense_percentage_rcl": 51.9
+  },
+  "per_capita_breakdown": {
+    "health": 1140.9,
+    "education": 1479.1,
+    "urbanism": 620.8,
+    "administration": 505.8,
+    "legislative": 175.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4115.0,
+      "health_per_capita": 889.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4419.8,
+      "health_per_capita": 958.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4724.6,
+      "health_per_capita": 1026.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4978.6,
+      "health_per_capita": 1095.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5080.2,
+      "health_per_capita": 1140.9
+    }
+  ]
+}

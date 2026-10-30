@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2507606",
+  "city_name": "Juarez Távora",
+  "uf": "PB",
+  "population": 7796,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 36053837.11,
+    "total_expense": 36303950.75,
+    "own_revenue_percentage": 17.1,
+    "transfers_revenue_percentage": 82.9,
+    "personnel_expense_percentage_rcl": 47.7
+  },
+  "per_capita_breakdown": {
+    "health": 1268.1,
+    "education": 1432.8,
+    "urbanism": 597.6,
+    "administration": 317.1,
+    "legislative": 102.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3771.9,
+      "health_per_capita": 989.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4051.3,
+      "health_per_capita": 1065.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4330.7,
+      "health_per_capita": 1141.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4563.6,
+      "health_per_capita": 1217.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4656.7,
+      "health_per_capita": 1268.1
+    }
+  ]
+}

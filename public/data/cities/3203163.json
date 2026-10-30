@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3203163",
+  "city_name": "Laranja da Terra",
+  "uf": "ES",
+  "population": 11094,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 51076246.49,
+    "total_expense": 51100312.32,
+    "own_revenue_percentage": 19.4,
+    "transfers_revenue_percentage": 80.6,
+    "personnel_expense_percentage_rcl": 47.9
+  },
+  "per_capita_breakdown": {
+    "health": 1026.2,
+    "education": 1238.2,
+    "urbanism": 450.2,
+    "administration": 295.2,
+    "legislative": 137.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3730.9,
+      "health_per_capita": 800.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4007.3,
+      "health_per_capita": 862.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4283.7,
+      "health_per_capita": 923.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4514.0,
+      "health_per_capita": 985.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4606.1,
+      "health_per_capita": 1026.2
+    }
+  ]
+}

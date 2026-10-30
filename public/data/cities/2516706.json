@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2516706",
+  "city_name": "Teixeira",
+  "uf": "PB",
+  "population": 14631,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 65319749.22,
+    "total_expense": 65351871.52,
+    "own_revenue_percentage": 18.5,
+    "transfers_revenue_percentage": 81.5,
+    "personnel_expense_percentage_rcl": 50.2
+  },
+  "per_capita_breakdown": {
+    "health": 921.2,
+    "education": 1104.5,
+    "urbanism": 394.1,
+    "administration": 332.1,
+    "legislative": 95.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3618.0,
+      "health_per_capita": 718.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3886.0,
+      "health_per_capita": 773.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4154.0,
+      "health_per_capita": 829.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4377.4,
+      "health_per_capita": 884.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4466.7,
+      "health_per_capita": 921.2
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2905206",
+  "city_name": "Caetité",
+  "uf": "BA",
+  "population": 52012,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 227067349.78,
+    "total_expense": 221663388.69,
+    "own_revenue_percentage": 36.2,
+    "transfers_revenue_percentage": 63.8,
+    "personnel_expense_percentage_rcl": 51.7
+  },
+  "per_capita_breakdown": {
+    "health": 1012.7,
+    "education": 1023.1,
+    "urbanism": 520.2,
+    "administration": 291.0,
+    "legislative": 144.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3452.1,
+      "health_per_capita": 789.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3707.8,
+      "health_per_capita": 850.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3963.5,
+      "health_per_capita": 911.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4176.6,
+      "health_per_capita": 972.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4261.8,
+      "health_per_capita": 1012.7
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1507300",
+  "city_name": "São Félix do Xingu",
+  "uf": "PA",
+  "population": 65418,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 278828359.71,
+    "total_expense": 275948490.01,
+    "own_revenue_percentage": 36.9,
+    "transfers_revenue_percentage": 63.1,
+    "personnel_expense_percentage_rcl": 50.7
+  },
+  "per_capita_breakdown": {
+    "health": 1054.9,
+    "education": 1195.7,
+    "urbanism": 648.3,
+    "administration": 342.9,
+    "legislative": 117.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3416.7,
+      "health_per_capita": 822.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3669.8,
+      "health_per_capita": 886.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3922.9,
+      "health_per_capita": 949.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4133.8,
+      "health_per_capita": 1012.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4218.2,
+      "health_per_capita": 1054.9
+    }
+  ]
+}

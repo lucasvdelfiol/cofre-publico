@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4207700",
+  "city_name": "Ipumirim",
+  "uf": "SC",
+  "population": 7816,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 33740797.34,
+    "total_expense": 33682396.42,
+    "own_revenue_percentage": 19.1,
+    "transfers_revenue_percentage": 80.9,
+    "personnel_expense_percentage_rcl": 47.0
+  },
+  "per_capita_breakdown": {
+    "health": 1185.8,
+    "education": 1369.1,
+    "urbanism": 368.1,
+    "administration": 349.5,
+    "legislative": 71.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3490.6,
+      "health_per_capita": 924.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3749.2,
+      "health_per_capita": 996.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4007.7,
+      "health_per_capita": 1067.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4223.2,
+      "health_per_capita": 1138.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4309.4,
+      "health_per_capita": 1185.8
+    }
+  ]
+}

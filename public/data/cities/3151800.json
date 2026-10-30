@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3151800",
+  "city_name": "Poços de Caldas",
+  "uf": "MG",
+  "population": 163742,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 930161352.39,
+    "total_expense": 925758266.21,
+    "own_revenue_percentage": 47.6,
+    "transfers_revenue_percentage": 52.4,
+    "personnel_expense_percentage_rcl": 46.0
+  },
+  "per_capita_breakdown": {
+    "health": 1280.2,
+    "education": 1753.8,
+    "urbanism": 817.4,
+    "administration": 581.5,
+    "legislative": 154.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4579.6,
+      "health_per_capita": 998.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4918.8,
+      "health_per_capita": 1075.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5258.0,
+      "health_per_capita": 1152.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5540.7,
+      "health_per_capita": 1229.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5653.8,
+      "health_per_capita": 1280.2
+    }
+  ]
+}

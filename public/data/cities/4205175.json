@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4205175",
+  "city_name": "Entre Rios",
+  "uf": "SC",
+  "population": 3402,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 14874868.64,
+    "total_expense": 14811583.1,
+    "own_revenue_percentage": 18.1,
+    "transfers_revenue_percentage": 81.9,
+    "personnel_expense_percentage_rcl": 53.2
+  },
+  "per_capita_breakdown": {
+    "health": 1156.6,
+    "education": 1204.7,
+    "urbanism": 412.6,
+    "administration": 406.1,
+    "legislative": 70.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3526.6,
+      "health_per_capita": 902.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3787.8,
+      "health_per_capita": 971.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4049.0,
+      "health_per_capita": 1040.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4266.7,
+      "health_per_capita": 1110.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4353.8,
+      "health_per_capita": 1156.6
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2807501",
+  "city_name": "Tomar do Geru",
+  "uf": "SE",
+  "population": 12012,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 58684758.62,
+    "total_expense": 58191094.15,
+    "own_revenue_percentage": 18.7,
+    "transfers_revenue_percentage": 81.3,
+    "personnel_expense_percentage_rcl": 47.7
+  },
+  "per_capita_breakdown": {
+    "health": 1232.5,
+    "education": 1167.4,
+    "urbanism": 501.2,
+    "administration": 360.7,
+    "legislative": 111.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3924.0,
+      "health_per_capita": 961.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4214.6,
+      "health_per_capita": 1035.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4505.3,
+      "health_per_capita": 1109.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4747.5,
+      "health_per_capita": 1183.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4844.4,
+      "health_per_capita": 1232.5
+    }
+  ]
+}

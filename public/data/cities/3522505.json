@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3522505",
+  "city_name": "Itapevi",
+  "uf": "SP",
+  "population": 232297,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 1276548459.78,
+    "total_expense": 1262970272.66,
+    "own_revenue_percentage": 41.1,
+    "transfers_revenue_percentage": 58.9,
+    "personnel_expense_percentage_rcl": 47.1
+  },
+  "per_capita_breakdown": {
+    "health": 1233.0,
+    "education": 1348.0,
+    "urbanism": 712.4,
+    "administration": 419.1,
+    "legislative": 152.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4403.9,
+      "health_per_capita": 961.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4730.1,
+      "health_per_capita": 1035.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5056.3,
+      "health_per_capita": 1109.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5328.2,
+      "health_per_capita": 1183.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5436.9,
+      "health_per_capita": 1233.0
+    }
+  ]
+}

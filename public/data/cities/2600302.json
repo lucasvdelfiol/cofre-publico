@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2600302",
+  "city_name": "Agrestina",
+  "uf": "PE",
+  "population": 23779,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 117801327.07,
+    "total_expense": 115157439.58,
+    "own_revenue_percentage": 23.8,
+    "transfers_revenue_percentage": 76.2,
+    "personnel_expense_percentage_rcl": 52.3
+  },
+  "per_capita_breakdown": {
+    "health": 1181.3,
+    "education": 1353.2,
+    "urbanism": 578.9,
+    "administration": 497.5,
+    "legislative": 104.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3922.7,
+      "health_per_capita": 921.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4213.2,
+      "health_per_capita": 992.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4503.8,
+      "health_per_capita": 1063.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4745.9,
+      "health_per_capita": 1134.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4842.8,
+      "health_per_capita": 1181.3
+    }
+  ]
+}

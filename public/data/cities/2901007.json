@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2901007",
+  "city_name": "Amargosa",
+  "uf": "BA",
+  "population": 36521,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 179380595.05,
+    "total_expense": 176152795.87,
+    "own_revenue_percentage": 25.0,
+    "transfers_revenue_percentage": 75.0,
+    "personnel_expense_percentage_rcl": 53.2
+  },
+  "per_capita_breakdown": {
+    "health": 1073.0,
+    "education": 1501.2,
+    "urbanism": 732.1,
+    "administration": 520.0,
+    "legislative": 158.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3906.9,
+      "health_per_capita": 836.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4196.3,
+      "health_per_capita": 901.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4485.7,
+      "health_per_capita": 965.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4726.8,
+      "health_per_capita": 1030.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4823.3,
+      "health_per_capita": 1073.0
+    }
+  ]
+}

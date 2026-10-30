@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4107405",
+  "city_name": "Enéas Marques",
+  "uf": "PR",
+  "population": 5999,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 27882645.01,
+    "total_expense": 26949999.37,
+    "own_revenue_percentage": 19.3,
+    "transfers_revenue_percentage": 80.7,
+    "personnel_expense_percentage_rcl": 47.1
+  },
+  "per_capita_breakdown": {
+    "health": 1088.6,
+    "education": 1217.8,
+    "urbanism": 398.2,
+    "administration": 426.6,
+    "legislative": 96.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3638.8,
+      "health_per_capita": 849.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3908.4,
+      "health_per_capita": 914.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4177.9,
+      "health_per_capita": 979.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4402.6,
+      "health_per_capita": 1045.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4492.4,
+      "health_per_capita": 1088.6
+    }
+  ]
+}

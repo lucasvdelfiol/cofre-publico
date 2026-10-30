@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4118857",
+  "city_name": "Perobal",
+  "uf": "PR",
+  "population": 7189,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 37473621.94,
+    "total_expense": 37570379.93,
+    "own_revenue_percentage": 14.8,
+    "transfers_revenue_percentage": 85.2,
+    "personnel_expense_percentage_rcl": 51.0
+  },
+  "per_capita_breakdown": {
+    "health": 1298.8,
+    "education": 1391.9,
+    "urbanism": 743.5,
+    "administration": 442.4,
+    "legislative": 175.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4233.1,
+      "health_per_capita": 1013.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4546.7,
+      "health_per_capita": 1091.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4860.3,
+      "health_per_capita": 1168.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5121.6,
+      "health_per_capita": 1246.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5226.1,
+      "health_per_capita": 1298.8
+    }
+  ]
+}

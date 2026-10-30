@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4124707",
+  "city_name": "São Jerônimo da Serra",
+  "uf": "PR",
+  "population": 10830,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 54156537.58,
+    "total_expense": 52155693.37,
+    "own_revenue_percentage": 16.4,
+    "transfers_revenue_percentage": 83.6,
+    "personnel_expense_percentage_rcl": 48.0
+  },
+  "per_capita_breakdown": {
+    "health": 1164.0,
+    "education": 1194.6,
+    "urbanism": 447.6,
+    "administration": 573.2,
+    "legislative": 152.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3900.9,
+      "health_per_capita": 907.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4189.8,
+      "health_per_capita": 977.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4478.8,
+      "health_per_capita": 1047.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4719.6,
+      "health_per_capita": 1117.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4815.9,
+      "health_per_capita": 1164.0
+    }
+  ]
+}

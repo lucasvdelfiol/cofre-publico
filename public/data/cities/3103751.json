@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3103751",
+  "city_name": "Araporã",
+  "uf": "MG",
+  "population": 8479,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 44112411.42,
+    "total_expense": 43924199.87,
+    "own_revenue_percentage": 13.6,
+    "transfers_revenue_percentage": 86.4,
+    "personnel_expense_percentage_rcl": 46.3
+  },
+  "per_capita_breakdown": {
+    "health": 1072.6,
+    "education": 1561.9,
+    "urbanism": 517.2,
+    "administration": 364.5,
+    "legislative": 100.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4196.1,
+      "health_per_capita": 836.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4506.9,
+      "health_per_capita": 901.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4817.8,
+      "health_per_capita": 965.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5076.8,
+      "health_per_capita": 1029.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5180.4,
+      "health_per_capita": 1072.6
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5103403",
+  "city_name": "Cuiabá",
+  "uf": "MT",
+  "population": 650877,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 3155583026.55,
+    "total_expense": 3044040739.92,
+    "own_revenue_percentage": 43.1,
+    "transfers_revenue_percentage": 56.9,
+    "personnel_expense_percentage_rcl": 46.2
+  },
+  "per_capita_breakdown": {
+    "health": 1201.1,
+    "education": 1298.9,
+    "urbanism": 441.8,
+    "administration": 418.3,
+    "legislative": 75.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3788.2,
+      "health_per_capita": 936.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4068.8,
+      "health_per_capita": 1008.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4349.4,
+      "health_per_capita": 1081.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4583.3,
+      "health_per_capita": 1153.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4676.8,
+      "health_per_capita": 1201.1
+    }
+  ]
+}

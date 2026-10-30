@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4126678",
+  "city_name": "Tamarana",
+  "uf": "PR",
+  "population": 10707,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 52622257.3,
+    "total_expense": 52072972.65,
+    "own_revenue_percentage": 11.0,
+    "transfers_revenue_percentage": 89.0,
+    "personnel_expense_percentage_rcl": 51.3
+  },
+  "per_capita_breakdown": {
+    "health": 1008.1,
+    "education": 1186.3,
+    "urbanism": 734.9,
+    "administration": 360.4,
+    "legislative": 97.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3939.4,
+      "health_per_capita": 786.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4231.2,
+      "health_per_capita": 846.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4523.1,
+      "health_per_capita": 907.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4766.2,
+      "health_per_capita": 967.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4863.5,
+      "health_per_capita": 1008.1
+    }
+  ]
+}

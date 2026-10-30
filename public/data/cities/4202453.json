@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4202453",
+  "city_name": "Bombinhas",
+  "uf": "SC",
+  "population": 25058,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 121098364.44,
+    "total_expense": 120273029.3,
+    "own_revenue_percentage": 19.9,
+    "transfers_revenue_percentage": 80.1,
+    "personnel_expense_percentage_rcl": 53.3
+  },
+  "per_capita_breakdown": {
+    "health": 1148.9,
+    "education": 1224.5,
+    "urbanism": 402.2,
+    "administration": 341.0,
+    "legislative": 145.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3887.8,
+      "health_per_capita": 896.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4175.8,
+      "health_per_capita": 965.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4463.8,
+      "health_per_capita": 1034.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4703.8,
+      "health_per_capita": 1102.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4799.8,
+      "health_per_capita": 1148.9
+    }
+  ]
+}

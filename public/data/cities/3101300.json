@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3101300",
+  "city_name": "Alagoa",
+  "uf": "MG",
+  "population": 2749,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 15279748.6,
+    "total_expense": 15152096.17,
+    "own_revenue_percentage": 9.8,
+    "transfers_revenue_percentage": 90.2,
+    "personnel_expense_percentage_rcl": 52.1
+  },
+  "per_capita_breakdown": {
+    "health": 1134.0,
+    "education": 1616.5,
+    "urbanism": 504.3,
+    "administration": 551.1,
+    "legislative": 161.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4464.6,
+      "health_per_capita": 884.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4795.4,
+      "health_per_capita": 952.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5126.1,
+      "health_per_capita": 1020.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5401.7,
+      "health_per_capita": 1088.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5511.9,
+      "health_per_capita": 1134.0
+    }
+  ]
+}

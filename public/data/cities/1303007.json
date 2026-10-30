@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1303007",
+  "city_name": "Nhamundá",
+  "uf": "AM",
+  "population": 20136,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 88716540.57,
+    "total_expense": 87882778.81,
+    "own_revenue_percentage": 31.1,
+    "transfers_revenue_percentage": 68.9,
+    "personnel_expense_percentage_rcl": 53.1
+  },
+  "per_capita_breakdown": {
+    "health": 1096.7,
+    "education": 1253.9,
+    "urbanism": 425.5,
+    "administration": 329.3,
+    "legislative": 79.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3535.2,
+      "health_per_capita": 855.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3797.1,
+      "health_per_capita": 921.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4059.0,
+      "health_per_capita": 987.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4277.2,
+      "health_per_capita": 1052.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4364.5,
+      "health_per_capita": 1096.7
+    }
+  ]
+}

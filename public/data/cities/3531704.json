@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3531704",
+  "city_name": "Monteiro Lobato",
+  "uf": "SP",
+  "population": 4138,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 18559140.28,
+    "total_expense": 17848865.55,
+    "own_revenue_percentage": 21.2,
+    "transfers_revenue_percentage": 78.8,
+    "personnel_expense_percentage_rcl": 50.7
+  },
+  "per_capita_breakdown": {
+    "health": 1176.8,
+    "education": 1058.2,
+    "urbanism": 443.0,
+    "administration": 477.0,
+    "legislative": 141.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3493.9,
+      "health_per_capita": 917.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3752.7,
+      "health_per_capita": 988.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4011.5,
+      "health_per_capita": 1059.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4227.1,
+      "health_per_capita": 1129.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4313.4,
+      "health_per_capita": 1176.8
+    }
+  ]
+}

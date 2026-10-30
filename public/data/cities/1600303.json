@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1600303",
+  "city_name": "Macapá",
+  "uf": "AP",
+  "population": 442933,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 2097114457.19,
+    "total_expense": 2053369587.24,
+    "own_revenue_percentage": 44.0,
+    "transfers_revenue_percentage": 56.0,
+    "personnel_expense_percentage_rcl": 50.2
+  },
+  "per_capita_breakdown": {
+    "health": 1116.8,
+    "education": 1139.5,
+    "urbanism": 643.7,
+    "administration": 293.5,
+    "legislative": 73.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3755.0,
+      "health_per_capita": 871.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4033.1,
+      "health_per_capita": 938.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4311.3,
+      "health_per_capita": 1005.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4543.1,
+      "health_per_capita": 1072.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4635.8,
+      "health_per_capita": 1116.8
+    }
+  ]
+}

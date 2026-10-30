@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3204005",
+  "city_name": "Pancas",
+  "uf": "ES",
+  "population": 18893,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 99383413.09,
+    "total_expense": 96130936.09,
+    "own_revenue_percentage": 14.9,
+    "transfers_revenue_percentage": 85.1,
+    "personnel_expense_percentage_rcl": 51.7
+  },
+  "per_capita_breakdown": {
+    "health": 1072.8,
+    "education": 1496.9,
+    "urbanism": 556.7,
+    "administration": 389.9,
+    "legislative": 165.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4121.4,
+      "health_per_capita": 836.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4426.7,
+      "health_per_capita": 901.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4732.0,
+      "health_per_capita": 965.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4986.4,
+      "health_per_capita": 1029.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5088.2,
+      "health_per_capita": 1072.8
+    }
+  ]
+}

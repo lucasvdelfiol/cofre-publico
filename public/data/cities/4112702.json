@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4112702",
+  "city_name": "Jataizinho",
+  "uf": "PR",
+  "population": 11813,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 67372588.46,
+    "total_expense": 65800151.6,
+    "own_revenue_percentage": 9.7,
+    "transfers_revenue_percentage": 90.3,
+    "personnel_expense_percentage_rcl": 50.0
+  },
+  "per_capita_breakdown": {
+    "health": 1332.3,
+    "education": 1407.9,
+    "urbanism": 799.1,
+    "administration": 537.5,
+    "legislative": 135.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4511.8,
+      "health_per_capita": 1039.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4846.0,
+      "health_per_capita": 1119.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5180.2,
+      "health_per_capita": 1199.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5458.7,
+      "health_per_capita": 1279.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5570.1,
+      "health_per_capita": 1332.3
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2306256",
+  "city_name": "Itaitinga",
+  "uf": "CE",
+  "population": 64650,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 340020137.41,
+    "total_expense": 330603813.29,
+    "own_revenue_percentage": 33.4,
+    "transfers_revenue_percentage": 66.6,
+    "personnel_expense_percentage_rcl": 50.1
+  },
+  "per_capita_breakdown": {
+    "health": 1164.8,
+    "education": 1366.0,
+    "urbanism": 662.3,
+    "administration": 549.5,
+    "legislative": 82.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4142.1,
+      "health_per_capita": 908.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4448.9,
+      "health_per_capita": 978.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4755.7,
+      "health_per_capita": 1048.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5011.4,
+      "health_per_capita": 1118.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5113.7,
+      "health_per_capita": 1164.8
+    }
+  ]
+}

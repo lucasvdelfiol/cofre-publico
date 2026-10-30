@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5221452",
+  "city_name": "Trombas",
+  "uf": "GO",
+  "population": 3120,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 18050794.39,
+    "total_expense": 17361717.19,
+    "own_revenue_percentage": 13.0,
+    "transfers_revenue_percentage": 87.0,
+    "personnel_expense_percentage_rcl": 52.9
+  },
+  "per_capita_breakdown": {
+    "health": 1526.4,
+    "education": 1640.0,
+    "urbanism": 857.1,
+    "administration": 470.7,
+    "legislative": 93.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4507.4,
+      "health_per_capita": 1190.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4841.3,
+      "health_per_capita": 1282.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5175.2,
+      "health_per_capita": 1373.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5453.4,
+      "health_per_capita": 1465.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5564.7,
+      "health_per_capita": 1526.4
+    }
+  ]
+}

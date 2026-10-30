@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1100346",
+  "city_name": "Alvorada D'Oeste",
+  "uf": "RO",
+  "population": 13117,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 60566437.3,
+    "total_expense": 58926701.11,
+    "own_revenue_percentage": 9.4,
+    "transfers_revenue_percentage": 90.6,
+    "personnel_expense_percentage_rcl": 53.0
+  },
+  "per_capita_breakdown": {
+    "health": 1182.6,
+    "education": 1271.3,
+    "urbanism": 707.9,
+    "administration": 415.5,
+    "legislative": 153.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3638.8,
+      "health_per_capita": 922.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3908.4,
+      "health_per_capita": 993.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4177.9,
+      "health_per_capita": 1064.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4402.6,
+      "health_per_capita": 1135.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4492.4,
+      "health_per_capita": 1182.6
+    }
+  ]
+}

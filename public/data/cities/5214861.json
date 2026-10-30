@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5214861",
+  "city_name": "Nova Glória",
+  "uf": "GO",
+  "population": 8310,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 42472645.93,
+    "total_expense": 41591647.8,
+    "own_revenue_percentage": 12.8,
+    "transfers_revenue_percentage": 87.2,
+    "personnel_expense_percentage_rcl": 50.8
+  },
+  "per_capita_breakdown": {
+    "health": 1219.4,
+    "education": 1500.1,
+    "urbanism": 735.3,
+    "administration": 446.9,
+    "legislative": 146.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4054.1,
+      "health_per_capita": 951.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4354.4,
+      "health_per_capita": 1024.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4654.7,
+      "health_per_capita": 1097.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4904.9,
+      "health_per_capita": 1170.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5005.0,
+      "health_per_capita": 1219.4
+    }
+  ]
+}

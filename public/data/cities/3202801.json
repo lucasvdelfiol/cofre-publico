@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3202801",
+  "city_name": "Itapemirim",
+  "uf": "ES",
+  "population": 39832,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 164184847.08,
+    "total_expense": 163689193.12,
+    "own_revenue_percentage": 19.1,
+    "transfers_revenue_percentage": 80.9,
+    "personnel_expense_percentage_rcl": 51.6
+  },
+  "per_capita_breakdown": {
+    "health": 1149.9,
+    "education": 1209.9,
+    "urbanism": 602.6,
+    "administration": 464.0,
+    "legislative": 89.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3328.7,
+      "health_per_capita": 896.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3575.3,
+      "health_per_capita": 965.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3821.8,
+      "health_per_capita": 1034.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4027.3,
+      "health_per_capita": 1103.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4109.5,
+      "health_per_capita": 1149.9
+    }
+  ]
+}

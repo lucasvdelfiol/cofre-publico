@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3205002",
+  "city_name": "Serra",
+  "uf": "ES",
+  "population": 520653,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 2600214707.05,
+    "total_expense": 2514177018.26,
+    "own_revenue_percentage": 49.6,
+    "transfers_revenue_percentage": 50.4,
+    "personnel_expense_percentage_rcl": 50.0
+  },
+  "per_capita_breakdown": {
+    "health": 1334.9,
+    "education": 1228.7,
+    "urbanism": 700.8,
+    "administration": 501.0,
+    "legislative": 147.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3911.4,
+      "health_per_capita": 1041.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4201.1,
+      "health_per_capita": 1121.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4490.9,
+      "health_per_capita": 1201.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4732.3,
+      "health_per_capita": 1281.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4828.9,
+      "health_per_capita": 1334.9
+    }
+  ]
+}

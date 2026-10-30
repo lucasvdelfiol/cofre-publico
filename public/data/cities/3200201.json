@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3200201",
+  "city_name": "Alegre",
+  "uf": "ES",
+  "population": 29177,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 129668124.44,
+    "total_expense": 126256393.25,
+    "own_revenue_percentage": 19.2,
+    "transfers_revenue_percentage": 80.8,
+    "personnel_expense_percentage_rcl": 46.7
+  },
+  "per_capita_breakdown": {
+    "health": 1127.0,
+    "education": 1048.3,
+    "urbanism": 662.4,
+    "administration": 267.4,
+    "legislative": 96.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3505.1,
+      "health_per_capita": 879.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3764.8,
+      "health_per_capita": 946.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4024.4,
+      "health_per_capita": 1014.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4240.8,
+      "health_per_capita": 1081.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4327.3,
+      "health_per_capita": 1127.0
+    }
+  ]
+}

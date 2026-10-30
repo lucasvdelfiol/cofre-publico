@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2918357",
+  "city_name": "João Dourado",
+  "uf": "BA",
+  "population": 24854,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 115475240.88,
+    "total_expense": 114021602.8,
+    "own_revenue_percentage": 26.1,
+    "transfers_revenue_percentage": 73.9,
+    "personnel_expense_percentage_rcl": 47.6
+  },
+  "per_capita_breakdown": {
+    "health": 1003.9,
+    "education": 1425.6,
+    "urbanism": 716.2,
+    "administration": 310.2,
+    "legislative": 138.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3716.0,
+      "health_per_capita": 783.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3991.3,
+      "health_per_capita": 843.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4266.6,
+      "health_per_capita": 903.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4495.9,
+      "health_per_capita": 963.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4587.7,
+      "health_per_capita": 1003.9
+    }
+  ]
+}

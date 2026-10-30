@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3157708",
+  "city_name": "Santa Juliana",
+  "uf": "MG",
+  "population": 15734,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 76391423.83,
+    "total_expense": 74934448.9,
+    "own_revenue_percentage": 17.9,
+    "transfers_revenue_percentage": 82.1,
+    "personnel_expense_percentage_rcl": 48.7
+  },
+  "per_capita_breakdown": {
+    "health": 956.5,
+    "education": 1437.9,
+    "urbanism": 399.0,
+    "administration": 455.8,
+    "legislative": 78.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3857.7,
+      "health_per_capita": 746.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4143.5,
+      "health_per_capita": 803.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4429.2,
+      "health_per_capita": 860.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4667.3,
+      "health_per_capita": 918.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4762.6,
+      "health_per_capita": 956.5
+    }
+  ]
+}

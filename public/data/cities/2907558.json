@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2907558",
+  "city_name": "Caturama",
+  "uf": "BA",
+  "population": 8841,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 43162181.98,
+    "total_expense": 42932985.63,
+    "own_revenue_percentage": 13.8,
+    "transfers_revenue_percentage": 86.2,
+    "personnel_expense_percentage_rcl": 52.9
+  },
+  "per_capita_breakdown": {
+    "health": 1198.9,
+    "education": 1179.7,
+    "urbanism": 759.2,
+    "administration": 447.2,
+    "legislative": 86.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3933.4,
+      "health_per_capita": 935.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4224.8,
+      "health_per_capita": 1007.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4516.2,
+      "health_per_capita": 1079.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4759.0,
+      "health_per_capita": 1150.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4856.1,
+      "health_per_capita": 1198.9
+    }
+  ]
+}

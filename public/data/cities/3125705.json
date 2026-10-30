@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3125705",
+  "city_name": "Felixlândia",
+  "uf": "MG",
+  "population": 13978,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 70348403.21,
+    "total_expense": 69237905.18,
+    "own_revenue_percentage": 13.9,
+    "transfers_revenue_percentage": 86.1,
+    "personnel_expense_percentage_rcl": 50.2
+  },
+  "per_capita_breakdown": {
+    "health": 1063.9,
+    "education": 1384.3,
+    "urbanism": 642.0,
+    "administration": 484.5,
+    "legislative": 96.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4012.2,
+      "health_per_capita": 829.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4309.4,
+      "health_per_capita": 893.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4606.6,
+      "health_per_capita": 957.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4854.2,
+      "health_per_capita": 1021.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4953.3,
+      "health_per_capita": 1063.9
+    }
+  ]
+}

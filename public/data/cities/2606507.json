@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2606507",
+  "city_name": "Iati",
+  "uf": "PE",
+  "population": 17165,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 75837366.0,
+    "total_expense": 74402625.6,
+    "own_revenue_percentage": 20.3,
+    "transfers_revenue_percentage": 79.7,
+    "personnel_expense_percentage_rcl": 46.1
+  },
+  "per_capita_breakdown": {
+    "health": 1141.7,
+    "education": 1154.1,
+    "urbanism": 662.5,
+    "administration": 321.9,
+    "legislative": 70.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3511.0,
+      "health_per_capita": 890.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3771.1,
+      "health_per_capita": 959.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4031.2,
+      "health_per_capita": 1027.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4247.9,
+      "health_per_capita": 1096.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4334.6,
+      "health_per_capita": 1141.7
+    }
+  ]
+}

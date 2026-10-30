@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3503307",
+  "city_name": "Araras",
+  "uf": "SP",
+  "population": 130866,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 668498682.66,
+    "total_expense": 655671483.18,
+    "own_revenue_percentage": 52.2,
+    "transfers_revenue_percentage": 47.8,
+    "personnel_expense_percentage_rcl": 52.3
+  },
+  "per_capita_breakdown": {
+    "health": 1260.1,
+    "education": 1486.1,
+    "urbanism": 709.8,
+    "administration": 540.6,
+    "legislative": 151.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4058.3,
+      "health_per_capita": 982.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4359.0,
+      "health_per_capita": 1058.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4659.6,
+      "health_per_capita": 1134.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4910.1,
+      "health_per_capita": 1209.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5010.3,
+      "health_per_capita": 1260.1
+    }
+  ]
+}

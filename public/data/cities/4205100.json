@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4205100",
+  "city_name": "Dona Emma",
+  "uf": "SC",
+  "population": 4221,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 18883138.39,
+    "total_expense": 18512192.17,
+    "own_revenue_percentage": 16.4,
+    "transfers_revenue_percentage": 83.6,
+    "personnel_expense_percentage_rcl": 50.9
+  },
+  "per_capita_breakdown": {
+    "health": 1217.1,
+    "education": 1127.0,
+    "urbanism": 529.9,
+    "administration": 459.5,
+    "legislative": 110.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3552.4,
+      "health_per_capita": 949.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3815.6,
+      "health_per_capita": 1022.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4078.7,
+      "health_per_capita": 1095.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4298.0,
+      "health_per_capita": 1168.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4385.7,
+      "health_per_capita": 1217.1
+    }
+  ]
+}

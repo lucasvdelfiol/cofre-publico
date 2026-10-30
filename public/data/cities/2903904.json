@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2903904",
+  "city_name": "Bom Jesus da Lapa",
+  "uf": "BA",
+  "population": 65550,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 326799041.15,
+    "total_expense": 325137110.5,
+    "own_revenue_percentage": 32.7,
+    "transfers_revenue_percentage": 67.3,
+    "personnel_expense_percentage_rcl": 51.1
+  },
+  "per_capita_breakdown": {
+    "health": 1121.9,
+    "education": 1537.2,
+    "urbanism": 565.0,
+    "administration": 505.9,
+    "legislative": 91.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4017.7,
+      "health_per_capita": 875.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4315.3,
+      "health_per_capita": 942.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4612.9,
+      "health_per_capita": 1009.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4860.9,
+      "health_per_capita": 1077.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4960.1,
+      "health_per_capita": 1121.9
+    }
+  ]
+}

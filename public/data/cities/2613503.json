@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2613503",
+  "city_name": "São José do Belmonte",
+  "uf": "PE",
+  "population": 34843,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 166459267.49,
+    "total_expense": 160445980.56,
+    "own_revenue_percentage": 19.9,
+    "transfers_revenue_percentage": 80.1,
+    "personnel_expense_percentage_rcl": 48.3
+  },
+  "per_capita_breakdown": {
+    "health": 1260.1,
+    "education": 1221.2,
+    "urbanism": 705.7,
+    "administration": 487.7,
+    "legislative": 70.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3729.9,
+      "health_per_capita": 982.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4006.2,
+      "health_per_capita": 1058.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4282.5,
+      "health_per_capita": 1134.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4512.7,
+      "health_per_capita": 1209.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4604.8,
+      "health_per_capita": 1260.1
+    }
+  ]
+}

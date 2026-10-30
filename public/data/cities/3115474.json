@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3115474",
+  "city_name": "Catuti",
+  "uf": "MG",
+  "population": 4739,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 22860221.59,
+    "total_expense": 22200418.79,
+    "own_revenue_percentage": 13.4,
+    "transfers_revenue_percentage": 86.6,
+    "personnel_expense_percentage_rcl": 47.8
+  },
+  "per_capita_breakdown": {
+    "health": 1086.1,
+    "education": 1433.2,
+    "urbanism": 551.5,
+    "administration": 498.0,
+    "legislative": 91.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3794.5,
+      "health_per_capita": 847.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4075.6,
+      "health_per_capita": 912.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4356.7,
+      "health_per_capita": 977.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4590.9,
+      "health_per_capita": 1042.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4684.6,
+      "health_per_capita": 1086.1
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3117009",
+  "city_name": "Comercinho",
+  "uf": "MG",
+  "population": 6660,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 35802279.64,
+    "total_expense": 35070750.99,
+    "own_revenue_percentage": 10.1,
+    "transfers_revenue_percentage": 89.9,
+    "personnel_expense_percentage_rcl": 49.6
+  },
+  "per_capita_breakdown": {
+    "health": 1268.6,
+    "education": 1611.4,
+    "urbanism": 702.5,
+    "administration": 380.9,
+    "legislative": 143.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4265.4,
+      "health_per_capita": 989.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4581.3,
+      "health_per_capita": 1065.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4897.3,
+      "health_per_capita": 1141.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5160.6,
+      "health_per_capita": 1217.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5265.9,
+      "health_per_capita": 1268.6
+    }
+  ]
+}

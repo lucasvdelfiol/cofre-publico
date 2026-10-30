@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3150505",
+  "city_name": "Pimenta",
+  "uf": "MG",
+  "population": 8563,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 41231523.18,
+    "total_expense": 39943058.3,
+    "own_revenue_percentage": 12.5,
+    "transfers_revenue_percentage": 87.5,
+    "personnel_expense_percentage_rcl": 52.0
+  },
+  "per_capita_breakdown": {
+    "health": 1152.7,
+    "education": 1134.9,
+    "urbanism": 389.4,
+    "administration": 487.2,
+    "legislative": 82.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3778.3,
+      "health_per_capita": 899.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4058.2,
+      "health_per_capita": 968.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4338.1,
+      "health_per_capita": 1037.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4571.3,
+      "health_per_capita": 1106.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4664.6,
+      "health_per_capita": 1152.7
+    }
+  ]
+}

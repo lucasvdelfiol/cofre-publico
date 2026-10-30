@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1200138",
+  "city_name": "Bujari",
+  "uf": "AC",
+  "population": 12917,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 67316701.55,
+    "total_expense": 64818770.17,
+    "own_revenue_percentage": 9.6,
+    "transfers_revenue_percentage": 90.4,
+    "personnel_expense_percentage_rcl": 49.3
+  },
+  "per_capita_breakdown": {
+    "health": 1020.6,
+    "education": 1235.0,
+    "urbanism": 591.0,
+    "administration": 431.6,
+    "legislative": 85.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4064.7,
+      "health_per_capita": 796.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4365.7,
+      "health_per_capita": 857.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4666.8,
+      "health_per_capita": 918.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4917.7,
+      "health_per_capita": 979.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5018.1,
+      "health_per_capita": 1020.6
+    }
+  ]
+}

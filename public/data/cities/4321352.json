@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4321352",
+  "city_name": "Tavares",
+  "uf": "RS",
+  "population": 5212,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 26689681.79,
+    "total_expense": 26862211.28,
+    "own_revenue_percentage": 10.1,
+    "transfers_revenue_percentage": 89.9,
+    "personnel_expense_percentage_rcl": 52.2
+  },
+  "per_capita_breakdown": {
+    "health": 1178.2,
+    "education": 1445.7,
+    "urbanism": 646.2,
+    "administration": 554.9,
+    "legislative": 141.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4174.7,
+      "health_per_capita": 919.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4483.9,
+      "health_per_capita": 989.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4793.1,
+      "health_per_capita": 1060.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5050.8,
+      "health_per_capita": 1131.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5153.9,
+      "health_per_capita": 1178.2
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2604809",
+  "city_name": "Cortês",
+  "uf": "PE",
+  "population": 10198,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 54744166.06,
+    "total_expense": 55207729.79,
+    "own_revenue_percentage": 21.3,
+    "transfers_revenue_percentage": 78.7,
+    "personnel_expense_percentage_rcl": 49.6
+  },
+  "per_capita_breakdown": {
+    "health": 1187.6,
+    "education": 1562.5,
+    "urbanism": 674.8,
+    "administration": 451.9,
+    "legislative": 183.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4385.0,
+      "health_per_capita": 926.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4709.8,
+      "health_per_capita": 997.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5034.6,
+      "health_per_capita": 1068.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5305.3,
+      "health_per_capita": 1140.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5413.6,
+      "health_per_capita": 1187.6
+    }
+  ]
+}

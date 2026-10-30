@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4206751",
+  "city_name": "Ibiam",
+  "uf": "SC",
+  "population": 2008,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 10921293.73,
+    "total_expense": 10543446.25,
+    "own_revenue_percentage": 19.4,
+    "transfers_revenue_percentage": 80.6,
+    "personnel_expense_percentage_rcl": 46.9
+  },
+  "per_capita_breakdown": {
+    "health": 1176.6,
+    "education": 1350.4,
+    "urbanism": 541.6,
+    "administration": 614.5,
+    "legislative": 87.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4253.1,
+      "health_per_capita": 917.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4568.1,
+      "health_per_capita": 988.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4883.2,
+      "health_per_capita": 1058.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5145.7,
+      "health_per_capita": 1129.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5250.7,
+      "health_per_capita": 1176.6
+    }
+  ]
+}

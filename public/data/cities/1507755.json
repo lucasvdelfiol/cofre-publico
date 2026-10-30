@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1507755",
+  "city_name": "Sapucaia",
+  "uf": "PA",
+  "population": 5847,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 26646960.54,
+    "total_expense": 25989075.15,
+    "own_revenue_percentage": 15.2,
+    "transfers_revenue_percentage": 84.8,
+    "personnel_expense_percentage_rcl": 48.0
+  },
+  "per_capita_breakdown": {
+    "health": 910.8,
+    "education": 1190.9,
+    "urbanism": 459.7,
+    "administration": 409.8,
+    "legislative": 81.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3600.4,
+      "health_per_capita": 710.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3867.1,
+      "health_per_capita": 765.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4133.8,
+      "health_per_capita": 819.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4356.0,
+      "health_per_capita": 874.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4444.9,
+      "health_per_capita": 910.8
+    }
+  ]
+}

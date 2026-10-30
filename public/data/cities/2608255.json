@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2608255",
+  "city_name": "Jucati",
+  "uf": "PE",
+  "population": 11517,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 57154302.4,
+    "total_expense": 57197162.38,
+    "own_revenue_percentage": 9.0,
+    "transfers_revenue_percentage": 91.0,
+    "personnel_expense_percentage_rcl": 53.3
+  },
+  "per_capita_breakdown": {
+    "health": 1118.1,
+    "education": 1479.8,
+    "urbanism": 710.9,
+    "administration": 468.0,
+    "legislative": 139.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4022.7,
+      "health_per_capita": 872.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4320.7,
+      "health_per_capita": 939.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4618.7,
+      "health_per_capita": 1006.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4867.0,
+      "health_per_capita": 1073.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4966.3,
+      "health_per_capita": 1118.1
+    }
+  ]
+}

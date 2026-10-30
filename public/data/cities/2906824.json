@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2906824",
+  "city_name": "Canudos",
+  "uf": "BA",
+  "population": 16105,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 84105306.49,
+    "total_expense": 81719980.58,
+    "own_revenue_percentage": 21.3,
+    "transfers_revenue_percentage": 78.7,
+    "personnel_expense_percentage_rcl": 50.2
+  },
+  "per_capita_breakdown": {
+    "health": 1064.5,
+    "education": 1536.4,
+    "urbanism": 667.4,
+    "administration": 487.6,
+    "legislative": 168.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4110.1,
+      "health_per_capita": 830.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4414.6,
+      "health_per_capita": 894.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4719.0,
+      "health_per_capita": 958.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4972.7,
+      "health_per_capita": 1021.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5074.2,
+      "health_per_capita": 1064.5
+    }
+  ]
+}

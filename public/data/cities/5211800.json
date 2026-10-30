@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5211800",
+  "city_name": "Jaraguá",
+  "uf": "GO",
+  "population": 45223,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 211996167.25,
+    "total_expense": 204356012.26,
+    "own_revenue_percentage": 29.2,
+    "transfers_revenue_percentage": 70.8,
+    "personnel_expense_percentage_rcl": 49.0
+  },
+  "per_capita_breakdown": {
+    "health": 1208.3,
+    "education": 1279.4,
+    "urbanism": 408.8,
+    "administration": 476.9,
+    "legislative": 107.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3660.3,
+      "health_per_capita": 942.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3931.4,
+      "health_per_capita": 1015.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4202.6,
+      "health_per_capita": 1087.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4428.5,
+      "health_per_capita": 1160.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4518.9,
+      "health_per_capita": 1208.3
+    }
+  ]
+}

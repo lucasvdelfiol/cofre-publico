@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4219408",
+  "city_name": "Witmarsum",
+  "uf": "SC",
+  "population": 4255,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 19041341.92,
+    "total_expense": 18467078.53,
+    "own_revenue_percentage": 19.7,
+    "transfers_revenue_percentage": 80.3,
+    "personnel_expense_percentage_rcl": 45.7
+  },
+  "per_capita_breakdown": {
+    "health": 1129.9,
+    "education": 1355.2,
+    "urbanism": 612.3,
+    "administration": 518.4,
+    "legislative": 115.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3515.5,
+      "health_per_capita": 881.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3775.9,
+      "health_per_capita": 949.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4036.3,
+      "health_per_capita": 1016.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4253.3,
+      "health_per_capita": 1084.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4340.1,
+      "health_per_capita": 1129.9
+    }
+  ]
+}

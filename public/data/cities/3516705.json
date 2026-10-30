@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3516705",
+  "city_name": "Garça",
+  "uf": "SP",
+  "population": 42110,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 197343007.76,
+    "total_expense": 190876880.04,
+    "own_revenue_percentage": 23.2,
+    "transfers_revenue_percentage": 76.8,
+    "personnel_expense_percentage_rcl": 51.9
+  },
+  "per_capita_breakdown": {
+    "health": 1142.2,
+    "education": 1285.0,
+    "urbanism": 449.3,
+    "administration": 335.4,
+    "legislative": 87.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3671.6,
+      "health_per_capita": 890.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3943.5,
+      "health_per_capita": 959.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4215.5,
+      "health_per_capita": 1028.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4442.1,
+      "health_per_capita": 1096.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4532.8,
+      "health_per_capita": 1142.2
+    }
+  ]
+}

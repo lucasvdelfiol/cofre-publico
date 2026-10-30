@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4300471",
+  "city_name": "Almirante Tamandaré do Sul",
+  "uf": "RS",
+  "population": 1969,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 10088669.31,
+    "total_expense": 9789083.37,
+    "own_revenue_percentage": 9.0,
+    "transfers_revenue_percentage": 91.0,
+    "personnel_expense_percentage_rcl": 49.8
+  },
+  "per_capita_breakdown": {
+    "health": 1385.9,
+    "education": 1488.3,
+    "urbanism": 469.5,
+    "administration": 401.6,
+    "legislative": 98.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4027.0,
+      "health_per_capita": 1081.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4325.3,
+      "health_per_capita": 1164.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4623.6,
+      "health_per_capita": 1247.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4872.2,
+      "health_per_capita": 1330.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4971.6,
+      "health_per_capita": 1385.9
+    }
+  ]
+}

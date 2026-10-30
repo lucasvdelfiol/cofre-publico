@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3159605",
+  "city_name": "Santa Rita do Sapucaí",
+  "uf": "MG",
+  "population": 40635,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 197773716.79,
+    "total_expense": 191944890.7,
+    "own_revenue_percentage": 24.9,
+    "transfers_revenue_percentage": 75.1,
+    "personnel_expense_percentage_rcl": 49.3
+  },
+  "per_capita_breakdown": {
+    "health": 978.6,
+    "education": 1143.6,
+    "urbanism": 739.2,
+    "administration": 542.0,
+    "legislative": 101.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3826.1,
+      "health_per_capita": 763.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4109.5,
+      "health_per_capita": 822.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4392.9,
+      "health_per_capita": 880.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4629.1,
+      "health_per_capita": 939.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4723.6,
+      "health_per_capita": 978.6
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1715101",
+  "city_name": "Novo Acordo",
+  "uf": "TO",
+  "population": 3969,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 21650826.71,
+    "total_expense": 21739048.51,
+    "own_revenue_percentage": 8.8,
+    "transfers_revenue_percentage": 91.2,
+    "personnel_expense_percentage_rcl": 47.3
+  },
+  "per_capita_breakdown": {
+    "health": 1527.1,
+    "education": 1568.0,
+    "urbanism": 837.8,
+    "administration": 506.5,
+    "legislative": 171.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4436.5,
+      "health_per_capita": 1191.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4765.2,
+      "health_per_capita": 1282.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5093.8,
+      "health_per_capita": 1374.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5367.7,
+      "health_per_capita": 1466.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5477.2,
+      "health_per_capita": 1527.1
+    }
+  ]
+}

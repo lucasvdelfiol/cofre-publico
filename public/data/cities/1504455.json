@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1504455",
+  "city_name": "Medicilândia",
+  "uf": "PA",
+  "population": 27094,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 117238546.1,
+    "total_expense": 115186013.4,
+    "own_revenue_percentage": 21.7,
+    "transfers_revenue_percentage": 78.3,
+    "personnel_expense_percentage_rcl": 50.7
+  },
+  "per_capita_breakdown": {
+    "health": 861.8,
+    "education": 1023.3,
+    "urbanism": 343.4,
+    "administration": 327.6,
+    "legislative": 85.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3443.6,
+      "health_per_capita": 672.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3698.6,
+      "health_per_capita": 723.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3953.7,
+      "health_per_capita": 775.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4166.3,
+      "health_per_capita": 827.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4251.3,
+      "health_per_capita": 861.8
+    }
+  ]
+}

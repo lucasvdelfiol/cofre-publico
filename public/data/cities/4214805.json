@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4214805",
+  "city_name": "Rio do Sul",
+  "uf": "SC",
+  "population": 72587,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 331931177.44,
+    "total_expense": 327796748.31,
+    "own_revenue_percentage": 32.7,
+    "transfers_revenue_percentage": 67.3,
+    "personnel_expense_percentage_rcl": 49.6
+  },
+  "per_capita_breakdown": {
+    "health": 981.5,
+    "education": 1330.9,
+    "urbanism": 679.5,
+    "administration": 505.4,
+    "legislative": 83.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3657.9,
+      "health_per_capita": 765.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3928.8,
+      "health_per_capita": 824.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4199.8,
+      "health_per_capita": 883.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4425.6,
+      "health_per_capita": 942.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4515.9,
+      "health_per_capita": 981.5
+    }
+  ]
+}

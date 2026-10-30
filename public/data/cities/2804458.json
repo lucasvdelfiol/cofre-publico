@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2804458",
+  "city_name": "Nossa Senhora Aparecida",
+  "uf": "SE",
+  "population": 9232,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 51368227.36,
+    "total_expense": 51097582.46,
+    "own_revenue_percentage": 19.7,
+    "transfers_revenue_percentage": 80.3,
+    "personnel_expense_percentage_rcl": 53.4
+  },
+  "per_capita_breakdown": {
+    "health": 1228.5,
+    "education": 1570.4,
+    "urbanism": 649.0,
+    "administration": 350.0,
+    "legislative": 99.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4483.2,
+      "health_per_capita": 958.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4815.3,
+      "health_per_capita": 1031.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5147.4,
+      "health_per_capita": 1105.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5424.1,
+      "health_per_capita": 1179.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5534.8,
+      "health_per_capita": 1228.5
+    }
+  ]
+}

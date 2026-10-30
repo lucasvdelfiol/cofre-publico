@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2600500",
+  "city_name": "Águas Belas",
+  "uf": "PE",
+  "population": 41548,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 200434559.16,
+    "total_expense": 196642705.42,
+    "own_revenue_percentage": 28.8,
+    "transfers_revenue_percentage": 71.2,
+    "personnel_expense_percentage_rcl": 47.0
+  },
+  "per_capita_breakdown": {
+    "health": 1075.6,
+    "education": 1423.9,
+    "urbanism": 496.1,
+    "administration": 294.8,
+    "legislative": 95.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3833.6,
+      "health_per_capita": 839.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4117.6,
+      "health_per_capita": 903.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4401.6,
+      "health_per_capita": 968.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4638.2,
+      "health_per_capita": 1032.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4732.9,
+      "health_per_capita": 1075.6
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3553955",
+  "city_name": "Tarumã",
+  "uf": "SP",
+  "population": 14882,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 74777493.93,
+    "total_expense": 72844448.39,
+    "own_revenue_percentage": 14.4,
+    "transfers_revenue_percentage": 85.6,
+    "personnel_expense_percentage_rcl": 46.2
+  },
+  "per_capita_breakdown": {
+    "health": 1203.7,
+    "education": 1406.4,
+    "urbanism": 471.9,
+    "administration": 358.5,
+    "legislative": 145.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3964.8,
+      "health_per_capita": 938.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4258.5,
+      "health_per_capita": 1011.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4552.2,
+      "health_per_capita": 1083.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4796.9,
+      "health_per_capita": 1155.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4894.8,
+      "health_per_capita": 1203.7
+    }
+  ]
+}

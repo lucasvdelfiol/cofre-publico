@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2906204",
+  "city_name": "Canarana",
+  "uf": "BA",
+  "population": 24206,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 99603514.25,
+    "total_expense": 100558671.1,
+    "own_revenue_percentage": 23.3,
+    "transfers_revenue_percentage": 76.7,
+    "personnel_expense_percentage_rcl": 52.9
+  },
+  "per_capita_breakdown": {
+    "health": 1027.8,
+    "education": 1274.3,
+    "urbanism": 592.5,
+    "administration": 301.8,
+    "legislative": 66.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3365.0,
+      "health_per_capita": 801.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3614.2,
+      "health_per_capita": 863.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3863.5,
+      "health_per_capita": 925.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4071.2,
+      "health_per_capita": 986.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4154.3,
+      "health_per_capita": 1027.8
+    }
+  ]
+}

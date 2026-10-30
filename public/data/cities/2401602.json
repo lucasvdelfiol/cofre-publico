@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2401602",
+  "city_name": "Bento Fernandes",
+  "uf": "RN",
+  "population": 4807,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 23676063.37,
+    "total_expense": 22933281.85,
+    "own_revenue_percentage": 12.4,
+    "transfers_revenue_percentage": 87.6,
+    "personnel_expense_percentage_rcl": 48.8
+  },
+  "per_capita_breakdown": {
+    "health": 1195.3,
+    "education": 1146.8,
+    "urbanism": 696.4,
+    "administration": 446.0,
+    "legislative": 101.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3864.3,
+      "health_per_capita": 932.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4150.6,
+      "health_per_capita": 1004.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4436.8,
+      "health_per_capita": 1075.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4675.4,
+      "health_per_capita": 1147.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4770.8,
+      "health_per_capita": 1195.3
+    }
+  ]
+}

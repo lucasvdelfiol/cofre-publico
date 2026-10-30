@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2913507",
+  "city_name": "Iguaí",
+  "uf": "BA",
+  "population": 21491,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 100599987.1,
+    "total_expense": 100800487.91,
+    "own_revenue_percentage": 19.2,
+    "transfers_revenue_percentage": 80.8,
+    "personnel_expense_percentage_rcl": 50.2
+  },
+  "per_capita_breakdown": {
+    "health": 1254.9,
+    "education": 1184.0,
+    "urbanism": 544.6,
+    "administration": 380.0,
+    "legislative": 127.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3799.2,
+      "health_per_capita": 978.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4080.6,
+      "health_per_capita": 1054.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4362.1,
+      "health_per_capita": 1129.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4596.6,
+      "health_per_capita": 1204.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4690.4,
+      "health_per_capita": 1254.9
+    }
+  ]
+}

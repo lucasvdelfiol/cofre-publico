@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3114204",
+  "city_name": "Carmo do Cajuru",
+  "uf": "MG",
+  "population": 23479,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 101274246.33,
+    "total_expense": 100738699.15,
+    "own_revenue_percentage": 20.5,
+    "transfers_revenue_percentage": 79.5,
+    "personnel_expense_percentage_rcl": 52.5
+  },
+  "per_capita_breakdown": {
+    "health": 1021.3,
+    "education": 1144.0,
+    "urbanism": 403.0,
+    "administration": 425.8,
+    "legislative": 124.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3475.4,
+      "health_per_capita": 796.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3732.8,
+      "health_per_capita": 857.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3990.3,
+      "health_per_capita": 919.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4204.8,
+      "health_per_capita": 980.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4290.6,
+      "health_per_capita": 1021.3
+    }
+  ]
+}

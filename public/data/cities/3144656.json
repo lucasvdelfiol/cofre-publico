@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3144656",
+  "city_name": "Ninheira",
+  "uf": "MG",
+  "population": 10588,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 47906929.09,
+    "total_expense": 46477785.33,
+    "own_revenue_percentage": 10.3,
+    "transfers_revenue_percentage": 89.7,
+    "personnel_expense_percentage_rcl": 52.2
+  },
+  "per_capita_breakdown": {
+    "health": 1130.6,
+    "education": 1251.3,
+    "urbanism": 575.4,
+    "administration": 498.6,
+    "legislative": 149.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3555.7,
+      "health_per_capita": 881.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3819.0,
+      "health_per_capita": 949.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4082.4,
+      "health_per_capita": 1017.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4301.9,
+      "health_per_capita": 1085.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4389.7,
+      "health_per_capita": 1130.6
+    }
+  ]
+}

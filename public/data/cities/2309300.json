@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2309300",
+  "city_name": "Nova Russas",
+  "uf": "CE",
+  "population": 30699,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 127776752.24,
+    "total_expense": 126259019.85,
+    "own_revenue_percentage": 28.5,
+    "transfers_revenue_percentage": 71.5,
+    "personnel_expense_percentage_rcl": 46.3
+  },
+  "per_capita_breakdown": {
+    "health": 998.6,
+    "education": 1272.4,
+    "urbanism": 359.3,
+    "administration": 437.1,
+    "legislative": 91.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3331.4,
+      "health_per_capita": 778.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3578.1,
+      "health_per_capita": 838.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3824.9,
+      "health_per_capita": 898.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4030.5,
+      "health_per_capita": 958.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4112.8,
+      "health_per_capita": 998.6
+    }
+  ]
+}

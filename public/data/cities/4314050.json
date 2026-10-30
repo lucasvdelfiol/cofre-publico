@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4314050",
+  "city_name": "Parobé",
+  "uf": "RS",
+  "population": 52058,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 267273224.49,
+    "total_expense": 262745362.73,
+    "own_revenue_percentage": 33.7,
+    "transfers_revenue_percentage": 66.3,
+    "personnel_expense_percentage_rcl": 52.4
+  },
+  "per_capita_breakdown": {
+    "health": 1297.1,
+    "education": 1359.5,
+    "urbanism": 682.0,
+    "administration": 532.9,
+    "legislative": 92.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4088.2,
+      "health_per_capita": 1011.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4391.1,
+      "health_per_capita": 1089.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4693.9,
+      "health_per_capita": 1167.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4946.3,
+      "health_per_capita": 1245.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5047.2,
+      "health_per_capita": 1297.1
+    }
+  ]
+}

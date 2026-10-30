@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1703206",
+  "city_name": "Bernardo Sayão",
+  "uf": "TO",
+  "population": 4229,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 20572435.56,
+    "total_expense": 20047789.72,
+    "own_revenue_percentage": 20.2,
+    "transfers_revenue_percentage": 79.8,
+    "personnel_expense_percentage_rcl": 46.9
+  },
+  "per_capita_breakdown": {
+    "health": 1043.7,
+    "education": 1247.8,
+    "urbanism": 738.7,
+    "administration": 450.3,
+    "legislative": 154.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3839.9,
+      "health_per_capita": 814.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4124.3,
+      "health_per_capita": 876.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4408.8,
+      "health_per_capita": 939.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4645.8,
+      "health_per_capita": 1002.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4740.6,
+      "health_per_capita": 1043.7
+    }
+  ]
+}

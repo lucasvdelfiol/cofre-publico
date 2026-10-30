@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3101508",
+  "city_name": "Além Paraíba",
+  "uf": "MG",
+  "population": 30717,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 141097823.52,
+    "total_expense": 137720150.49,
+    "own_revenue_percentage": 20.5,
+    "transfers_revenue_percentage": 79.5,
+    "personnel_expense_percentage_rcl": 50.3
+  },
+  "per_capita_breakdown": {
+    "health": 1242.1,
+    "education": 1200.4,
+    "urbanism": 615.4,
+    "administration": 386.2,
+    "legislative": 143.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3631.6,
+      "health_per_capita": 968.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3900.6,
+      "health_per_capita": 1043.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4169.7,
+      "health_per_capita": 1117.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4393.8,
+      "health_per_capita": 1192.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4483.5,
+      "health_per_capita": 1242.1
+    }
+  ]
+}

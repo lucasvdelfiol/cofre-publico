@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4112751",
+  "city_name": "Jesuítas",
+  "uf": "PR",
+  "population": 10506,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 55331969.31,
+    "total_expense": 53440445.55,
+    "own_revenue_percentage": 8.2,
+    "transfers_revenue_percentage": 91.8,
+    "personnel_expense_percentage_rcl": 53.1
+  },
+  "per_capita_breakdown": {
+    "health": 1373.5,
+    "education": 1486.4,
+    "urbanism": 800.7,
+    "administration": 379.4,
+    "legislative": 155.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4120.2,
+      "health_per_capita": 1071.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4425.4,
+      "health_per_capita": 1153.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4730.6,
+      "health_per_capita": 1236.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4985.0,
+      "health_per_capita": 1318.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5086.7,
+      "health_per_capita": 1373.5
+    }
+  ]
+}

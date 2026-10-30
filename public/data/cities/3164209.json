@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3164209",
+  "city_name": "São Romão",
+  "uf": "MG",
+  "population": 10315,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 48799026.71,
+    "total_expense": 47795561.95,
+    "own_revenue_percentage": 14.1,
+    "transfers_revenue_percentage": 85.9,
+    "personnel_expense_percentage_rcl": 50.1
+  },
+  "per_capita_breakdown": {
+    "health": 1287.0,
+    "education": 1477.2,
+    "urbanism": 457.2,
+    "administration": 459.1,
+    "legislative": 117.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3753.2,
+      "health_per_capita": 1003.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4031.2,
+      "health_per_capita": 1081.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4309.2,
+      "health_per_capita": 1158.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4540.9,
+      "health_per_capita": 1235.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4633.6,
+      "health_per_capita": 1287.0
+    }
+  ]
+}

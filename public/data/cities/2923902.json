@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2923902",
+  "city_name": "Pau Brasil",
+  "uf": "BA",
+  "population": 9370,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 42856697.78,
+    "total_expense": 42441810.86,
+    "own_revenue_percentage": 18.5,
+    "transfers_revenue_percentage": 81.5,
+    "personnel_expense_percentage_rcl": 45.8
+  },
+  "per_capita_breakdown": {
+    "health": 1244.7,
+    "education": 1361.2,
+    "urbanism": 543.0,
+    "administration": 272.1,
+    "legislative": 96.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3668.9,
+      "health_per_capita": 970.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3940.7,
+      "health_per_capita": 1045.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4212.4,
+      "health_per_capita": 1120.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4438.9,
+      "health_per_capita": 1194.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4529.5,
+      "health_per_capita": 1244.7
+    }
+  ]
+}

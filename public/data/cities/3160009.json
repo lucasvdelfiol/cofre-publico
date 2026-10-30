@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3160009",
+  "city_name": "Santo Antônio do Aventureiro",
+  "uf": "MG",
+  "population": 3769,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 17942996.78,
+    "total_expense": 18023069.88,
+    "own_revenue_percentage": 13.4,
+    "transfers_revenue_percentage": 86.6,
+    "personnel_expense_percentage_rcl": 49.9
+  },
+  "per_capita_breakdown": {
+    "health": 1108.8,
+    "education": 1425.3,
+    "urbanism": 435.6,
+    "administration": 401.9,
+    "legislative": 76.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3873.3,
+      "health_per_capita": 864.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4160.3,
+      "health_per_capita": 931.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4447.2,
+      "health_per_capita": 997.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4686.3,
+      "health_per_capita": 1064.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4781.9,
+      "health_per_capita": 1108.8
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3533254",
+  "city_name": "Novais",
+  "uf": "SP",
+  "population": 4412,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 20036649.25,
+    "total_expense": 19398477.61,
+    "own_revenue_percentage": 17.9,
+    "transfers_revenue_percentage": 82.1,
+    "personnel_expense_percentage_rcl": 52.0
+  },
+  "per_capita_breakdown": {
+    "health": 1189.2,
+    "education": 1295.1,
+    "urbanism": 646.6,
+    "administration": 511.7,
+    "legislative": 122.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3561.4,
+      "health_per_capita": 927.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3825.2,
+      "health_per_capita": 998.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4089.0,
+      "health_per_capita": 1070.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4308.9,
+      "health_per_capita": 1141.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4396.8,
+      "health_per_capita": 1189.2
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5103353",
+  "city_name": "Confresa",
+  "uf": "MT",
+  "population": 35075,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 162022002.99,
+    "total_expense": 156258461.2,
+    "own_revenue_percentage": 29.1,
+    "transfers_revenue_percentage": 70.9,
+    "personnel_expense_percentage_rcl": 46.5
+  },
+  "per_capita_breakdown": {
+    "health": 1126.5,
+    "education": 1122.7,
+    "urbanism": 383.1,
+    "administration": 406.0,
+    "legislative": 103.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3608.6,
+      "health_per_capita": 878.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3875.8,
+      "health_per_capita": 946.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4143.2,
+      "health_per_capita": 1013.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4365.9,
+      "health_per_capita": 1081.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4455.0,
+      "health_per_capita": 1126.5
+    }
+  ]
+}

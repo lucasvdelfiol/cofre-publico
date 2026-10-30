@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4119905",
+  "city_name": "Ponta Grossa",
+  "uf": "PR",
+  "population": 358371,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 1710327188.93,
+    "total_expense": 1725538325.97,
+    "own_revenue_percentage": 48.3,
+    "transfers_revenue_percentage": 51.7,
+    "personnel_expense_percentage_rcl": 44.7
+  },
+  "per_capita_breakdown": {
+    "health": 1321.6,
+    "education": 1365.0,
+    "urbanism": 420.0,
+    "administration": 421.5,
+    "legislative": 112.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3900.1,
+      "health_per_capita": 1030.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4189.0,
+      "health_per_capita": 1110.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4477.9,
+      "health_per_capita": 1189.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4718.6,
+      "health_per_capita": 1268.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4814.9,
+      "health_per_capita": 1321.6
+    }
+  ]
+}

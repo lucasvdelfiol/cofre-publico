@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5106307",
+  "city_name": "Paranatinga",
+  "uf": "MT",
+  "population": 26423,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 119528864.16,
+    "total_expense": 115756412.49,
+    "own_revenue_percentage": 31.8,
+    "transfers_revenue_percentage": 68.2,
+    "personnel_expense_percentage_rcl": 50.7
+  },
+  "per_capita_breakdown": {
+    "health": 993.4,
+    "education": 1387.5,
+    "urbanism": 603.4,
+    "administration": 331.0,
+    "legislative": 145.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3548.5,
+      "health_per_capita": 774.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3811.4,
+      "health_per_capita": 834.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4074.2,
+      "health_per_capita": 894.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4293.3,
+      "health_per_capita": 953.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4380.9,
+      "health_per_capita": 993.4
+    }
+  ]
+}

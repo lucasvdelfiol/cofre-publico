@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1505403",
+  "city_name": "Ourém",
+  "uf": "PA",
+  "population": 17855,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 87156733.05,
+    "total_expense": 84092743.72,
+    "own_revenue_percentage": 8.6,
+    "transfers_revenue_percentage": 91.4,
+    "personnel_expense_percentage_rcl": 52.9
+  },
+  "per_capita_breakdown": {
+    "health": 1197.3,
+    "education": 1152.6,
+    "urbanism": 526.6,
+    "administration": 290.4,
+    "legislative": 164.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3814.9,
+      "health_per_capita": 933.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4097.5,
+      "health_per_capita": 1005.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4380.1,
+      "health_per_capita": 1077.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4615.6,
+      "health_per_capita": 1149.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4709.8,
+      "health_per_capita": 1197.3
+    }
+  ]
+}

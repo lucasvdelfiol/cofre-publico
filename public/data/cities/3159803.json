@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3159803",
+  "city_name": "Santa Vitória",
+  "uf": "MG",
+  "population": 20973,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 92107512.96,
+    "total_expense": 89224954.78,
+    "own_revenue_percentage": 22.2,
+    "transfers_revenue_percentage": 77.8,
+    "personnel_expense_percentage_rcl": 46.3
+  },
+  "per_capita_breakdown": {
+    "health": 904.6,
+    "education": 1034.9,
+    "urbanism": 630.4,
+    "administration": 287.0,
+    "legislative": 98.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3446.0,
+      "health_per_capita": 705.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3701.2,
+      "health_per_capita": 759.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3956.5,
+      "health_per_capita": 814.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4169.2,
+      "health_per_capita": 868.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4254.3,
+      "health_per_capita": 904.6
+    }
+  ]
+}

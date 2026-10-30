@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2514008",
+  "city_name": "São João do Cariri",
+  "uf": "PB",
+  "population": 4226,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 22420346.52,
+    "total_expense": 22539971.55,
+    "own_revenue_percentage": 18.8,
+    "transfers_revenue_percentage": 81.2,
+    "personnel_expense_percentage_rcl": 52.9
+  },
+  "per_capita_breakdown": {
+    "health": 1396.6,
+    "education": 1291.1,
+    "urbanism": 582.9,
+    "administration": 453.8,
+    "legislative": 160.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4320.2,
+      "health_per_capita": 1089.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4640.2,
+      "health_per_capita": 1173.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4960.2,
+      "health_per_capita": 1256.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5226.9,
+      "health_per_capita": 1340.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5333.6,
+      "health_per_capita": 1396.6
+    }
+  ]
+}

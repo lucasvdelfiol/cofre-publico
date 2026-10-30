@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2902906",
+  "city_name": "Barra do Choça",
+  "uf": "BA",
+  "population": 36539,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 163433777.78,
+    "total_expense": 160654008.28,
+    "own_revenue_percentage": 25.9,
+    "transfers_revenue_percentage": 74.1,
+    "personnel_expense_percentage_rcl": 51.6
+  },
+  "per_capita_breakdown": {
+    "health": 888.0,
+    "education": 1312.4,
+    "urbanism": 373.2,
+    "administration": 326.5,
+    "legislative": 114.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3561.4,
+      "health_per_capita": 692.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3825.2,
+      "health_per_capita": 745.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4089.0,
+      "health_per_capita": 799.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4308.9,
+      "health_per_capita": 852.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4396.8,
+      "health_per_capita": 888.0
+    }
+  ]
+}

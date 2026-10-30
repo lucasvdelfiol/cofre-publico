@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2208650",
+  "city_name": "Queimada Nova",
+  "uf": "PI",
+  "population": 8738,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 40318770.61,
+    "total_expense": 39183019.97,
+    "own_revenue_percentage": 9.1,
+    "transfers_revenue_percentage": 90.9,
+    "personnel_expense_percentage_rcl": 46.0
+  },
+  "per_capita_breakdown": {
+    "health": 985.9,
+    "education": 1433.7,
+    "urbanism": 394.7,
+    "administration": 440.2,
+    "legislative": 73.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3632.2,
+      "health_per_capita": 769.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3901.3,
+      "health_per_capita": 828.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4170.3,
+      "health_per_capita": 887.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4394.5,
+      "health_per_capita": 946.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4484.2,
+      "health_per_capita": 985.9
+    }
+  ]
+}

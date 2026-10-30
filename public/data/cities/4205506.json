@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4205506",
+  "city_name": "Fraiburgo",
+  "uf": "SC",
+  "population": 33481,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 147948917.0,
+    "total_expense": 145809581.73,
+    "own_revenue_percentage": 21.7,
+    "transfers_revenue_percentage": 78.3,
+    "personnel_expense_percentage_rcl": 47.8
+  },
+  "per_capita_breakdown": {
+    "health": 1097.5,
+    "education": 1078.2,
+    "urbanism": 399.2,
+    "administration": 442.6,
+    "legislative": 143.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3527.6,
+      "health_per_capita": 856.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3788.8,
+      "health_per_capita": 921.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4050.2,
+      "health_per_capita": 987.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4267.9,
+      "health_per_capita": 1053.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4355.0,
+      "health_per_capita": 1097.5
+    }
+  ]
+}

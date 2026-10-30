@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2306009",
+  "city_name": "Iracema",
+  "uf": "CE",
+  "population": 14001,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 75195649.39,
+    "total_expense": 75764839.56,
+    "own_revenue_percentage": 20.0,
+    "transfers_revenue_percentage": 80.0,
+    "personnel_expense_percentage_rcl": 49.5
+  },
+  "per_capita_breakdown": {
+    "health": 1368.8,
+    "education": 1543.7,
+    "urbanism": 477.0,
+    "administration": 412.8,
+    "legislative": 178.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4383.2,
+      "health_per_capita": 1067.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4707.9,
+      "health_per_capita": 1149.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5032.6,
+      "health_per_capita": 1231.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5303.2,
+      "health_per_capita": 1314.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5411.4,
+      "health_per_capita": 1368.8
+    }
+  ]
+}

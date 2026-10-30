@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3202900",
+  "city_name": "Itarana",
+  "uf": "ES",
+  "population": 10597,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 59646823.13,
+    "total_expense": 58171167.67,
+    "own_revenue_percentage": 9.5,
+    "transfers_revenue_percentage": 90.5,
+    "personnel_expense_percentage_rcl": 48.4
+  },
+  "per_capita_breakdown": {
+    "health": 1441.5,
+    "education": 1511.0,
+    "urbanism": 861.4,
+    "administration": 365.4,
+    "legislative": 134.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4446.4,
+      "health_per_capita": 1124.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4775.8,
+      "health_per_capita": 1210.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5105.1,
+      "health_per_capita": 1297.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5379.6,
+      "health_per_capita": 1383.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5489.4,
+      "health_per_capita": 1441.5
+    }
+  ]
+}

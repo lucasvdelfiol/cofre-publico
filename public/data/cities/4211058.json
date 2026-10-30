@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4211058",
+  "city_name": "Monte Carlo",
+  "uf": "SC",
+  "population": 9117,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 51175685.19,
+    "total_expense": 50196138.49,
+    "own_revenue_percentage": 8.5,
+    "transfers_revenue_percentage": 91.5,
+    "personnel_expense_percentage_rcl": 52.4
+  },
+  "per_capita_breakdown": {
+    "health": 1241.0,
+    "education": 1419.2,
+    "urbanism": 748.3,
+    "administration": 583.8,
+    "legislative": 103.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4459.7,
+      "health_per_capita": 968.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4790.0,
+      "health_per_capita": 1042.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5120.4,
+      "health_per_capita": 1116.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5395.7,
+      "health_per_capita": 1191.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5505.8,
+      "health_per_capita": 1241.0
+    }
+  ]
+}

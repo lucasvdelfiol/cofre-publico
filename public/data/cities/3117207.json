@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3117207",
+  "city_name": "Conceição das Pedras",
+  "uf": "MG",
+  "population": 2772,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 13720199.65,
+    "total_expense": 13736657.86,
+    "own_revenue_percentage": 8.6,
+    "transfers_revenue_percentage": 91.4,
+    "personnel_expense_percentage_rcl": 50.8
+  },
+  "per_capita_breakdown": {
+    "health": 1091.6,
+    "education": 1254.3,
+    "urbanism": 712.3,
+    "administration": 322.5,
+    "legislative": 118.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4014.0,
+      "health_per_capita": 851.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4311.3,
+      "health_per_capita": 916.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4608.6,
+      "health_per_capita": 982.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4856.4,
+      "health_per_capita": 1047.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4955.5,
+      "health_per_capita": 1091.6
+    }
+  ]
+}

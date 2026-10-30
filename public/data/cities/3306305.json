@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3306305",
+  "city_name": "Volta Redonda",
+  "uf": "RJ",
+  "population": 261563,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 1505352180.77,
+    "total_expense": 1456978625.59,
+    "own_revenue_percentage": 47.9,
+    "transfers_revenue_percentage": 52.1,
+    "personnel_expense_percentage_rcl": 47.9
+  },
+  "per_capita_breakdown": {
+    "health": 1490.9,
+    "education": 1655.2,
+    "urbanism": 752.3,
+    "administration": 630.8,
+    "legislative": 155.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4511.9,
+      "health_per_capita": 1162.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4846.2,
+      "health_per_capita": 1252.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5180.4,
+      "health_per_capita": 1341.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5458.9,
+      "health_per_capita": 1431.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5570.3,
+      "health_per_capita": 1490.9
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2205458",
+  "city_name": "Joca Marques",
+  "uf": "PI",
+  "population": 5394,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 27884382.9,
+    "total_expense": 27725075.51,
+    "own_revenue_percentage": 17.4,
+    "transfers_revenue_percentage": 82.6,
+    "personnel_expense_percentage_rcl": 47.7
+  },
+  "per_capita_breakdown": {
+    "health": 1366.1,
+    "education": 1533.2,
+    "urbanism": 464.9,
+    "administration": 611.7,
+    "legislative": 142.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4163.4,
+      "health_per_capita": 1065.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4471.8,
+      "health_per_capita": 1147.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4780.2,
+      "health_per_capita": 1229.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5037.2,
+      "health_per_capita": 1311.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5140.0,
+      "health_per_capita": 1366.1
+    }
+  ]
+}

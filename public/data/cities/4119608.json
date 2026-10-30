@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4119608",
+  "city_name": "Pitanga",
+  "uf": "PR",
+  "population": 33567,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 165580814.22,
+    "total_expense": 161628917.0,
+    "own_revenue_percentage": 25.4,
+    "transfers_revenue_percentage": 74.6,
+    "personnel_expense_percentage_rcl": 48.8
+  },
+  "per_capita_breakdown": {
+    "health": 1169.1,
+    "education": 1487.1,
+    "urbanism": 598.9,
+    "administration": 575.2,
+    "legislative": 145.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3900.2,
+      "health_per_capita": 911.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4189.1,
+      "health_per_capita": 982.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4478.0,
+      "health_per_capita": 1052.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4718.8,
+      "health_per_capita": 1122.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4815.1,
+      "health_per_capita": 1169.1
+    }
+  ]
+}

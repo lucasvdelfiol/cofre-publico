@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2905107",
+  "city_name": "Caém",
+  "uf": "BA",
+  "population": 10384,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 59843841.97,
+    "total_expense": 57636942.6,
+    "own_revenue_percentage": 16.8,
+    "transfers_revenue_percentage": 83.2,
+    "personnel_expense_percentage_rcl": 48.2
+  },
+  "per_capita_breakdown": {
+    "health": 1339.3,
+    "education": 1453.3,
+    "urbanism": 546.0,
+    "administration": 357.8,
+    "legislative": 107.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4496.0,
+      "health_per_capita": 1044.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4829.0,
+      "health_per_capita": 1125.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5162.1,
+      "health_per_capita": 1205.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5439.6,
+      "health_per_capita": 1285.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5550.6,
+      "health_per_capita": 1339.3
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2932002",
+  "city_name": "Uauá",
+  "uf": "BA",
+  "population": 24665,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 102185090.39,
+    "total_expense": 102129128.77,
+    "own_revenue_percentage": 24.0,
+    "transfers_revenue_percentage": 76.0,
+    "personnel_expense_percentage_rcl": 49.0
+  },
+  "per_capita_breakdown": {
+    "health": 1034.1,
+    "education": 1000.0,
+    "urbanism": 502.2,
+    "administration": 307.0,
+    "legislative": 121.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3353.9,
+      "health_per_capita": 806.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3602.3,
+      "health_per_capita": 868.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3850.8,
+      "health_per_capita": 930.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4057.8,
+      "health_per_capita": 992.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4140.6,
+      "health_per_capita": 1034.1
+    }
+  ]
+}

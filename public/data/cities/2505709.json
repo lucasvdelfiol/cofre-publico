@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2505709",
+  "city_name": "Dona Inês",
+  "uf": "PB",
+  "population": 10380,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 47618198.75,
+    "total_expense": 47310499.07,
+    "own_revenue_percentage": 19.1,
+    "transfers_revenue_percentage": 80.9,
+    "personnel_expense_percentage_rcl": 53.8
+  },
+  "per_capita_breakdown": {
+    "health": 1048.1,
+    "education": 1226.4,
+    "urbanism": 567.0,
+    "administration": 432.5,
+    "legislative": 159.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3691.9,
+      "health_per_capita": 817.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3965.4,
+      "health_per_capita": 880.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4238.8,
+      "health_per_capita": 943.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4466.7,
+      "health_per_capita": 1006.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4557.9,
+      "health_per_capita": 1048.1
+    }
+  ]
+}

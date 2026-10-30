@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4211454",
+  "city_name": "Nova Itaberaba",
+  "uf": "SC",
+  "population": 4536,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 22984068.61,
+    "total_expense": 22562187.57,
+    "own_revenue_percentage": 9.0,
+    "transfers_revenue_percentage": 91.0,
+    "personnel_expense_percentage_rcl": 49.8
+  },
+  "per_capita_breakdown": {
+    "health": 1139.4,
+    "education": 1457.3,
+    "urbanism": 458.0,
+    "administration": 477.6,
+    "legislative": 121.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4028.9,
+      "health_per_capita": 888.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4327.4,
+      "health_per_capita": 957.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4625.8,
+      "health_per_capita": 1025.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4874.5,
+      "health_per_capita": 1093.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4974.0,
+      "health_per_capita": 1139.4
+    }
+  ]
+}

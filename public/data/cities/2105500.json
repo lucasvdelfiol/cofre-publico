@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2105500",
+  "city_name": "João Lisboa",
+  "uf": "MA",
+  "population": 24709,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 106755698.25,
+    "total_expense": 105116693.37,
+    "own_revenue_percentage": 22.5,
+    "transfers_revenue_percentage": 77.5,
+    "personnel_expense_percentage_rcl": 51.3
+  },
+  "per_capita_breakdown": {
+    "health": 899.9,
+    "education": 1331.9,
+    "urbanism": 494.2,
+    "administration": 490.6,
+    "legislative": 80.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3445.9,
+      "health_per_capita": 701.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3701.2,
+      "health_per_capita": 755.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3956.4,
+      "health_per_capita": 809.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4169.1,
+      "health_per_capita": 863.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4254.2,
+      "health_per_capita": 899.9
+    }
+  ]
+}

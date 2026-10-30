@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4100806",
+  "city_name": "Alvorada do Sul",
+  "uf": "PR",
+  "population": 10326,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 52811034.49,
+    "total_expense": 51711067.28,
+    "own_revenue_percentage": 16.1,
+    "transfers_revenue_percentage": 83.9,
+    "personnel_expense_percentage_rcl": 51.0
+  },
+  "per_capita_breakdown": {
+    "health": 1261.2,
+    "education": 1476.0,
+    "urbanism": 800.2,
+    "administration": 314.5,
+    "legislative": 155.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4056.4,
+      "health_per_capita": 983.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4356.9,
+      "health_per_capita": 1059.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4657.3,
+      "health_per_capita": 1135.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4907.7,
+      "health_per_capita": 1210.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5007.9,
+      "health_per_capita": 1261.2
+    }
+  ]
+}

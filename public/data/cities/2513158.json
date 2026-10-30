@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2513158",
+  "city_name": "Santa Cecília",
+  "uf": "PB",
+  "population": 7670,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 36785507.49,
+    "total_expense": 35514123.03,
+    "own_revenue_percentage": 15.7,
+    "transfers_revenue_percentage": 84.3,
+    "personnel_expense_percentage_rcl": 49.8
+  },
+  "per_capita_breakdown": {
+    "health": 936.4,
+    "education": 1423.2,
+    "urbanism": 381.5,
+    "administration": 481.3,
+    "legislative": 103.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3750.5,
+      "health_per_capita": 730.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4028.4,
+      "health_per_capita": 786.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4306.2,
+      "health_per_capita": 842.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4537.7,
+      "health_per_capita": 898.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4630.3,
+      "health_per_capita": 936.4
+    }
+  ]
+}

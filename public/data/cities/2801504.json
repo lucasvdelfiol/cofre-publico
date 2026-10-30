@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2801504",
+  "city_name": "Carmópolis",
+  "uf": "SE",
+  "population": 13853,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 75177805.9,
+    "total_expense": 75655170.15,
+    "own_revenue_percentage": 21.2,
+    "transfers_revenue_percentage": 78.8,
+    "personnel_expense_percentage_rcl": 47.8
+  },
+  "per_capita_breakdown": {
+    "health": 1509.6,
+    "education": 1620.9,
+    "urbanism": 780.9,
+    "administration": 534.4,
+    "legislative": 159.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4423.7,
+      "health_per_capita": 1177.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4751.3,
+      "health_per_capita": 1268.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5079.0,
+      "health_per_capita": 1358.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5352.1,
+      "health_per_capita": 1449.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5461.3,
+      "health_per_capita": 1509.6
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3136207",
+  "city_name": "João Monlevade",
+  "uf": "MG",
+  "population": 80187,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 418243502.4,
+    "total_expense": 411703459.97,
+    "own_revenue_percentage": 29.4,
+    "transfers_revenue_percentage": 70.6,
+    "personnel_expense_percentage_rcl": 51.6
+  },
+  "per_capita_breakdown": {
+    "health": 1031.8,
+    "education": 1280.9,
+    "urbanism": 506.1,
+    "administration": 409.4,
+    "legislative": 132.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4158.8,
+      "health_per_capita": 804.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4466.8,
+      "health_per_capita": 866.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4774.9,
+      "health_per_capita": 928.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5031.6,
+      "health_per_capita": 990.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5134.3,
+      "health_per_capita": 1031.8
+    }
+  ]
+}

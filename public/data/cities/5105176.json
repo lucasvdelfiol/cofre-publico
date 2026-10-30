@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5105176",
+  "city_name": "Juruena",
+  "uf": "MT",
+  "population": 10213,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 55485676.31,
+    "total_expense": 54742288.98,
+    "own_revenue_percentage": 20.3,
+    "transfers_revenue_percentage": 79.7,
+    "personnel_expense_percentage_rcl": 46.8
+  },
+  "per_capita_breakdown": {
+    "health": 1287.8,
+    "education": 1712.2,
+    "urbanism": 835.2,
+    "administration": 440.8,
+    "legislative": 186.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4341.7,
+      "health_per_capita": 1004.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4663.3,
+      "health_per_capita": 1081.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4984.9,
+      "health_per_capita": 1159.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5252.9,
+      "health_per_capita": 1236.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5360.1,
+      "health_per_capita": 1287.8
+    }
+  ]
+}

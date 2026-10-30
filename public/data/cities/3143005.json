@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3143005",
+  "city_name": "Monte Belo",
+  "uf": "MG",
+  "population": 13046,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 67539711.25,
+    "total_expense": 66543515.1,
+    "own_revenue_percentage": 10.2,
+    "transfers_revenue_percentage": 89.8,
+    "personnel_expense_percentage_rcl": 45.6
+  },
+  "per_capita_breakdown": {
+    "health": 1043.9,
+    "education": 1631.7,
+    "urbanism": 473.8,
+    "administration": 569.3,
+    "legislative": 167.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4131.6,
+      "health_per_capita": 814.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4437.6,
+      "health_per_capita": 876.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4743.7,
+      "health_per_capita": 939.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4998.7,
+      "health_per_capita": 1002.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5100.7,
+      "health_per_capita": 1043.9
+    }
+  ]
+}

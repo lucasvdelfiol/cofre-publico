@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3153509",
+  "city_name": "Alto Jequitibá",
+  "uf": "MG",
+  "population": 8397,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 36952069.54,
+    "total_expense": 37320067.45,
+    "own_revenue_percentage": 9.3,
+    "transfers_revenue_percentage": 90.7,
+    "personnel_expense_percentage_rcl": 51.5
+  },
+  "per_capita_breakdown": {
+    "health": 1242.5,
+    "education": 1261.7,
+    "urbanism": 419.4,
+    "administration": 452.8,
+    "legislative": 104.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3600.0,
+      "health_per_capita": 969.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3866.7,
+      "health_per_capita": 1043.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4133.4,
+      "health_per_capita": 1118.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4355.6,
+      "health_per_capita": 1192.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4444.5,
+      "health_per_capita": 1242.5
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2109908",
+  "city_name": "Santa Inês",
+  "uf": "MA",
+  "population": 85014,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 362600977.85,
+    "total_expense": 358191386.14,
+    "own_revenue_percentage": 38.0,
+    "transfers_revenue_percentage": 62.0,
+    "personnel_expense_percentage_rcl": 52.6
+  },
+  "per_capita_breakdown": {
+    "health": 1101.0,
+    "education": 1166.2,
+    "urbanism": 489.5,
+    "administration": 365.8,
+    "legislative": 98.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3412.8,
+      "health_per_capita": 858.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3665.6,
+      "health_per_capita": 924.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3918.4,
+      "health_per_capita": 990.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4129.0,
+      "health_per_capita": 1057.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4213.3,
+      "health_per_capita": 1101.0
+    }
+  ]
+}

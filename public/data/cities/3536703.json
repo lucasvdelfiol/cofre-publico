@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3536703",
+  "city_name": "Pederneiras",
+  "uf": "SP",
+  "population": 44827,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 190403369.85,
+    "total_expense": 186492695.46,
+    "own_revenue_percentage": 31.8,
+    "transfers_revenue_percentage": 68.2,
+    "personnel_expense_percentage_rcl": 47.0
+  },
+  "per_capita_breakdown": {
+    "health": 882.8,
+    "education": 1241.0,
+    "urbanism": 529.7,
+    "administration": 275.3,
+    "legislative": 70.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3369.8,
+      "health_per_capita": 688.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3619.5,
+      "health_per_capita": 741.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3869.1,
+      "health_per_capita": 794.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4077.1,
+      "health_per_capita": 847.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4160.3,
+      "health_per_capita": 882.8
+    }
+  ]
+}

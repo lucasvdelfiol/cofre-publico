@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3541604",
+  "city_name": "Promissão",
+  "uf": "SP",
+  "population": 35131,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 147319633.71,
+    "total_expense": 146668427.85,
+    "own_revenue_percentage": 25.6,
+    "transfers_revenue_percentage": 74.4,
+    "personnel_expense_percentage_rcl": 52.3
+  },
+  "per_capita_breakdown": {
+    "health": 1109.4,
+    "education": 1124.6,
+    "urbanism": 644.2,
+    "administration": 433.1,
+    "legislative": 107.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3381.7,
+      "health_per_capita": 865.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3632.2,
+      "health_per_capita": 931.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3882.7,
+      "health_per_capita": 998.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4091.4,
+      "health_per_capita": 1065.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4174.9,
+      "health_per_capita": 1109.4
+    }
+  ]
+}

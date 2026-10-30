@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2106607",
+  "city_name": "Matões",
+  "uf": "MA",
+  "population": 32174,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 159467619.74,
+    "total_expense": 154616258.93,
+    "own_revenue_percentage": 27.1,
+    "transfers_revenue_percentage": 72.9,
+    "personnel_expense_percentage_rcl": 46.1
+  },
+  "per_capita_breakdown": {
+    "health": 1111.2,
+    "education": 1527.0,
+    "urbanism": 679.0,
+    "administration": 421.1,
+    "legislative": 105.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3892.5,
+      "health_per_capita": 866.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4180.9,
+      "health_per_capita": 933.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4469.2,
+      "health_per_capita": 1000.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4709.5,
+      "health_per_capita": 1066.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4805.6,
+      "health_per_capita": 1111.2
+    }
+  ]
+}

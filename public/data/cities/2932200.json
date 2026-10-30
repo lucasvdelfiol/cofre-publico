@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2932200",
+  "city_name": "Ubaitaba",
+  "uf": "BA",
+  "population": 17596,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 87942286.38,
+    "total_expense": 86803877.4,
+    "own_revenue_percentage": 20.9,
+    "transfers_revenue_percentage": 79.1,
+    "personnel_expense_percentage_rcl": 49.3
+  },
+  "per_capita_breakdown": {
+    "health": 1068.7,
+    "education": 1274.9,
+    "urbanism": 403.0,
+    "administration": 419.7,
+    "legislative": 85.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3995.9,
+      "health_per_capita": 833.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4291.9,
+      "health_per_capita": 897.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4587.9,
+      "health_per_capita": 961.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4834.5,
+      "health_per_capita": 1026.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4933.2,
+      "health_per_capita": 1068.7
+    }
+  ]
+}

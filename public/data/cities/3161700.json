@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3161700",
+  "city_name": "São Gonçalo do Abaeté",
+  "uf": "MG",
+  "population": 7375,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 40248382.03,
+    "total_expense": 39521940.0,
+    "own_revenue_percentage": 10.1,
+    "transfers_revenue_percentage": 89.9,
+    "personnel_expense_percentage_rcl": 51.3
+  },
+  "per_capita_breakdown": {
+    "health": 1235.0,
+    "education": 1579.4,
+    "urbanism": 532.6,
+    "administration": 540.8,
+    "legislative": 84.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4340.7,
+      "health_per_capita": 963.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4662.2,
+      "health_per_capita": 1037.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4983.8,
+      "health_per_capita": 1111.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5251.7,
+      "health_per_capita": 1185.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5358.9,
+      "health_per_capita": 1235.0
+    }
+  ]
+}

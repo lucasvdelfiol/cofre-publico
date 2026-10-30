@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2807006",
+  "city_name": "São Miguel do Aleixo",
+  "uf": "SE",
+  "population": 3434,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 16906476.44,
+    "total_expense": 16289910.7,
+    "own_revenue_percentage": 16.8,
+    "transfers_revenue_percentage": 83.2,
+    "personnel_expense_percentage_rcl": 47.6
+  },
+  "per_capita_breakdown": {
+    "health": 1133.9,
+    "education": 1332.8,
+    "urbanism": 444.4,
+    "administration": 347.4,
+    "legislative": 151.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3842.4,
+      "health_per_capita": 884.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4127.0,
+      "health_per_capita": 952.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4411.6,
+      "health_per_capita": 1020.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4648.8,
+      "health_per_capita": 1088.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4743.7,
+      "health_per_capita": 1133.9
+    }
+  ]
+}

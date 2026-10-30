@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1505700",
+  "city_name": "Ponta de Pedras",
+  "uf": "PA",
+  "population": 24984,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 105544369.19,
+    "total_expense": 106262665.15,
+    "own_revenue_percentage": 27.5,
+    "transfers_revenue_percentage": 72.5,
+    "personnel_expense_percentage_rcl": 46.9
+  },
+  "per_capita_breakdown": {
+    "health": 962.3,
+    "education": 1325.3,
+    "urbanism": 659.9,
+    "administration": 381.6,
+    "legislative": 87.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3445.1,
+      "health_per_capita": 750.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3700.3,
+      "health_per_capita": 808.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3955.5,
+      "health_per_capita": 866.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4168.1,
+      "health_per_capita": 923.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4253.2,
+      "health_per_capita": 962.3
+    }
+  ]
+}

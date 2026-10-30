@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2308302",
+  "city_name": "Milagres",
+  "uf": "CE",
+  "population": 25900,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 119853814.98,
+    "total_expense": 120879338.43,
+    "own_revenue_percentage": 29.7,
+    "transfers_revenue_percentage": 70.3,
+    "personnel_expense_percentage_rcl": 46.4
+  },
+  "per_capita_breakdown": {
+    "health": 1227.0,
+    "education": 1255.7,
+    "urbanism": 453.8,
+    "administration": 391.0,
+    "legislative": 80.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3780.4,
+      "health_per_capita": 957.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4060.5,
+      "health_per_capita": 1030.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4340.5,
+      "health_per_capita": 1104.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4573.9,
+      "health_per_capita": 1177.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4667.2,
+      "health_per_capita": 1227.0
+    }
+  ]
+}

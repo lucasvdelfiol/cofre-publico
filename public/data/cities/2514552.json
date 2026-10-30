@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2514552",
+  "city_name": "São José de Princesa",
+  "uf": "PB",
+  "population": 3416,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 18243979.83,
+    "total_expense": 18319665.06,
+    "own_revenue_percentage": 21.6,
+    "transfers_revenue_percentage": 78.4,
+    "personnel_expense_percentage_rcl": 47.2
+  },
+  "per_capita_breakdown": {
+    "health": 1160.1,
+    "education": 1588.5,
+    "urbanism": 805.0,
+    "administration": 413.0,
+    "legislative": 140.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4343.9,
+      "health_per_capita": 904.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4665.7,
+      "health_per_capita": 974.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4987.5,
+      "health_per_capita": 1044.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5255.6,
+      "health_per_capita": 1113.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5362.9,
+      "health_per_capita": 1160.1
+    }
+  ]
+}

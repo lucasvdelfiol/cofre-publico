@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5300108",
+  "city_name": "Brasília",
+  "uf": "DF",
+  "population": 2817068,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 34500000000.0,
+    "total_expense": 33100000000.0,
+    "own_revenue_percentage": 61.2,
+    "transfers_revenue_percentage": 38.8,
+    "personnel_expense_percentage_rcl": 43.5
+  },
+  "per_capita_breakdown": {
+    "health": 1950.0,
+    "education": 1820.0,
+    "urbanism": 1280.0,
+    "administration": 650.0,
+    "legislative": 95.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 9517.3,
+      "health_per_capita": 1521.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 10222.3,
+      "health_per_capita": 1638.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 10927.3,
+      "health_per_capita": 1755.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 11514.8,
+      "health_per_capita": 1872.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 11749.8,
+      "health_per_capita": 1950.0
+    }
+  ]
+}

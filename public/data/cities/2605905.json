@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2605905",
+  "city_name": "Gameleira",
+  "uf": "PE",
+  "population": 18214,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 90745682.57,
+    "total_expense": 91471324.96,
+    "own_revenue_percentage": 8.3,
+    "transfers_revenue_percentage": 91.7,
+    "personnel_expense_percentage_rcl": 46.7
+  },
+  "per_capita_breakdown": {
+    "health": 1096.6,
+    "education": 1518.6,
+    "urbanism": 419.9,
+    "administration": 569.1,
+    "legislative": 128.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4067.8,
+      "health_per_capita": 855.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4369.1,
+      "health_per_capita": 921.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4670.5,
+      "health_per_capita": 986.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4921.6,
+      "health_per_capita": 1052.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5022.0,
+      "health_per_capita": 1096.6
+    }
+  ]
+}

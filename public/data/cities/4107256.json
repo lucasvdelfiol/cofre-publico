@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4107256",
+  "city_name": "Douradina",
+  "uf": "PR",
+  "population": 9161,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 43291665.76,
+    "total_expense": 42697301.34,
+    "own_revenue_percentage": 19.0,
+    "transfers_revenue_percentage": 81.0,
+    "personnel_expense_percentage_rcl": 48.5
+  },
+  "per_capita_breakdown": {
+    "health": 1231.4,
+    "education": 1357.4,
+    "urbanism": 574.9,
+    "administration": 504.8,
+    "legislative": 85.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3775.2,
+      "health_per_capita": 960.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4054.9,
+      "health_per_capita": 1034.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4334.5,
+      "health_per_capita": 1108.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4567.6,
+      "health_per_capita": 1182.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4660.8,
+      "health_per_capita": 1231.4
+    }
+  ]
+}

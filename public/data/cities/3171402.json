@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3171402",
+  "city_name": "Vieiras",
+  "uf": "MG",
+  "population": 3700,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 18021391.93,
+    "total_expense": 17368583.64,
+    "own_revenue_percentage": 11.1,
+    "transfers_revenue_percentage": 88.9,
+    "personnel_expense_percentage_rcl": 47.7
+  },
+  "per_capita_breakdown": {
+    "health": 1198.8,
+    "education": 1419.0,
+    "urbanism": 450.0,
+    "administration": 309.8,
+    "legislative": 108.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3802.3,
+      "health_per_capita": 935.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4084.0,
+      "health_per_capita": 1007.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4365.6,
+      "health_per_capita": 1078.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4600.3,
+      "health_per_capita": 1150.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4694.2,
+      "health_per_capita": 1198.8
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4118105",
+  "city_name": "Paranacity",
+  "uf": "PR",
+  "population": 9557,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 44358126.39,
+    "total_expense": 43980467.7,
+    "own_revenue_percentage": 18.4,
+    "transfers_revenue_percentage": 81.6,
+    "personnel_expense_percentage_rcl": 46.6
+  },
+  "per_capita_breakdown": {
+    "health": 1109.7,
+    "education": 1244.8,
+    "urbanism": 671.3,
+    "administration": 479.1,
+    "legislative": 70.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3727.5,
+      "health_per_capita": 865.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4003.7,
+      "health_per_capita": 932.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4279.8,
+      "health_per_capita": 998.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4509.9,
+      "health_per_capita": 1065.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4601.9,
+      "health_per_capita": 1109.7
+    }
+  ]
+}

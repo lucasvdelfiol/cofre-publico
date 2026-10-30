@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2933257",
+  "city_name": "Vereda",
+  "uf": "BA",
+  "population": 6003,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 29764569.67,
+    "total_expense": 29643683.88,
+    "own_revenue_percentage": 13.7,
+    "transfers_revenue_percentage": 86.3,
+    "personnel_expense_percentage_rcl": 53.0
+  },
+  "per_capita_breakdown": {
+    "health": 1377.3,
+    "education": 1522.0,
+    "urbanism": 446.2,
+    "administration": 451.8,
+    "legislative": 162.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3999.9,
+      "health_per_capita": 1074.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4296.1,
+      "health_per_capita": 1156.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4592.4,
+      "health_per_capita": 1239.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4839.3,
+      "health_per_capita": 1322.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4938.1,
+      "health_per_capita": 1377.3
+    }
+  ]
+}

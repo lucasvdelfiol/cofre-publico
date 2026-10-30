@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2909406",
+  "city_name": "Cotegipe",
+  "uf": "BA",
+  "population": 13063,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 72786115.55,
+    "total_expense": 70235361.21,
+    "own_revenue_percentage": 17.6,
+    "transfers_revenue_percentage": 82.4,
+    "personnel_expense_percentage_rcl": 50.0
+  },
+  "per_capita_breakdown": {
+    "health": 1086.9,
+    "education": 1487.0,
+    "urbanism": 439.4,
+    "administration": 513.7,
+    "legislative": 136.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4355.1,
+      "health_per_capita": 847.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4677.7,
+      "health_per_capita": 913.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5000.3,
+      "health_per_capita": 978.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5269.2,
+      "health_per_capita": 1043.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5376.7,
+      "health_per_capita": 1086.9
+    }
+  ]
+}

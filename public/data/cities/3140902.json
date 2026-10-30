@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3140902",
+  "city_name": "Matipó",
+  "uf": "MG",
+  "population": 18552,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 96567453.23,
+    "total_expense": 93098642.72,
+    "own_revenue_percentage": 21.1,
+    "transfers_revenue_percentage": 78.9,
+    "personnel_expense_percentage_rcl": 48.4
+  },
+  "per_capita_breakdown": {
+    "health": 1396.1,
+    "education": 1497.5,
+    "urbanism": 431.2,
+    "administration": 461.2,
+    "legislative": 136.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4064.8,
+      "health_per_capita": 1089.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4365.9,
+      "health_per_capita": 1172.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4667.0,
+      "health_per_capita": 1256.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4917.9,
+      "health_per_capita": 1340.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5018.3,
+      "health_per_capita": 1396.1
+    }
+  ]
+}

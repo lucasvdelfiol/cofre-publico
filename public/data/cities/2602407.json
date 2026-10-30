@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2602407",
+  "city_name": "Brejão",
+  "uf": "PE",
+  "population": 9079,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 47564396.29,
+    "total_expense": 47801832.55,
+    "own_revenue_percentage": 8.1,
+    "transfers_revenue_percentage": 91.9,
+    "personnel_expense_percentage_rcl": 51.7
+  },
+  "per_capita_breakdown": {
+    "health": 1280.8,
+    "education": 1468.7,
+    "urbanism": 481.0,
+    "administration": 346.1,
+    "legislative": 86.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4264.7,
+      "health_per_capita": 999.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4580.6,
+      "health_per_capita": 1075.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4896.5,
+      "health_per_capita": 1152.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5159.8,
+      "health_per_capita": 1229.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5265.1,
+      "health_per_capita": 1280.8
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2412104",
+  "city_name": "São João do Sabugi",
+  "uf": "RN",
+  "population": 5956,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 32001527.87,
+    "total_expense": 31658689.17,
+    "own_revenue_percentage": 17.7,
+    "transfers_revenue_percentage": 82.3,
+    "personnel_expense_percentage_rcl": 45.7
+  },
+  "per_capita_breakdown": {
+    "health": 1144.0,
+    "education": 1473.3,
+    "urbanism": 556.8,
+    "administration": 636.9,
+    "legislative": 177.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4305.5,
+      "health_per_capita": 892.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4624.4,
+      "health_per_capita": 961.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4943.3,
+      "health_per_capita": 1029.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5209.1,
+      "health_per_capita": 1098.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5315.4,
+      "health_per_capita": 1144.0
+    }
+  ]
+}

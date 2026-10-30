@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3131505",
+  "city_name": "Ipuiúna",
+  "uf": "MG",
+  "population": 9135,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 39948448.11,
+    "total_expense": 39929182.66,
+    "own_revenue_percentage": 8.3,
+    "transfers_revenue_percentage": 91.7,
+    "personnel_expense_percentage_rcl": 47.0
+  },
+  "per_capita_breakdown": {
+    "health": 1098.6,
+    "education": 1318.5,
+    "urbanism": 357.4,
+    "administration": 442.4,
+    "legislative": 146.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3540.5,
+      "health_per_capita": 856.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3802.8,
+      "health_per_capita": 922.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4065.0,
+      "health_per_capita": 988.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4283.6,
+      "health_per_capita": 1054.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4371.0,
+      "health_per_capita": 1098.6
+    }
+  ]
+}

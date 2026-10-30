@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3550001",
+  "city_name": "São Luiz do Paraitinga",
+  "uf": "SP",
+  "population": 10337,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 51146241.74,
+    "total_expense": 50392134.43,
+    "own_revenue_percentage": 12.0,
+    "transfers_revenue_percentage": 88.0,
+    "personnel_expense_percentage_rcl": 47.0
+  },
+  "per_capita_breakdown": {
+    "health": 1191.0,
+    "education": 1288.9,
+    "urbanism": 556.7,
+    "administration": 430.0,
+    "legislative": 136.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3948.7,
+      "health_per_capita": 929.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4241.2,
+      "health_per_capita": 1000.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4533.7,
+      "health_per_capita": 1071.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4777.4,
+      "health_per_capita": 1143.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4874.9,
+      "health_per_capita": 1191.0
+    }
+  ]
+}

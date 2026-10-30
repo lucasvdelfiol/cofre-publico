@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2104503",
+  "city_name": "Governador Archer",
+  "uf": "MA",
+  "population": 10231,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 57596074.25,
+    "total_expense": 56528755.17,
+    "own_revenue_percentage": 21.2,
+    "transfers_revenue_percentage": 78.8,
+    "personnel_expense_percentage_rcl": 49.2
+  },
+  "per_capita_breakdown": {
+    "health": 1132.7,
+    "education": 1501.4,
+    "urbanism": 846.6,
+    "administration": 658.3,
+    "legislative": 161.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4475.4,
+      "health_per_capita": 883.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4806.9,
+      "health_per_capita": 951.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5138.4,
+      "health_per_capita": 1019.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5414.7,
+      "health_per_capita": 1087.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5525.2,
+      "health_per_capita": 1132.7
+    }
+  ]
+}

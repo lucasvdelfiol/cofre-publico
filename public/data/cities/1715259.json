@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1715259",
+  "city_name": "Novo Jardim",
+  "uf": "TO",
+  "population": 2230,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 11913384.19,
+    "total_expense": 11863861.03,
+    "own_revenue_percentage": 12.4,
+    "transfers_revenue_percentage": 87.6,
+    "personnel_expense_percentage_rcl": 46.7
+  },
+  "per_capita_breakdown": {
+    "health": 1228.0,
+    "education": 1617.2,
+    "urbanism": 801.7,
+    "administration": 607.9,
+    "legislative": 104.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4309.3,
+      "health_per_capita": 957.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4628.5,
+      "health_per_capita": 1031.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4947.7,
+      "health_per_capita": 1105.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5213.7,
+      "health_per_capita": 1178.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5320.1,
+      "health_per_capita": 1228.0
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4120606",
+  "city_name": "Prudentópolis",
+  "uf": "PR",
+  "population": 49393,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 230215304.44,
+    "total_expense": 230814822.07,
+    "own_revenue_percentage": 29.3,
+    "transfers_revenue_percentage": 70.7,
+    "personnel_expense_percentage_rcl": 51.8
+  },
+  "per_capita_breakdown": {
+    "health": 939.0,
+    "education": 1300.7,
+    "urbanism": 483.5,
+    "administration": 387.4,
+    "legislative": 77.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3785.1,
+      "health_per_capita": 732.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4065.5,
+      "health_per_capita": 788.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4345.9,
+      "health_per_capita": 845.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4579.5,
+      "health_per_capita": 901.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4673.0,
+      "health_per_capita": 939.0
+    }
+  ]
+}

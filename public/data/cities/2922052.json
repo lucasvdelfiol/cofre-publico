@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2922052",
+  "city_name": "Mulungu do Morro",
+  "uf": "BA",
+  "population": 13152,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 64200821.0,
+    "total_expense": 63043484.86,
+    "own_revenue_percentage": 16.8,
+    "transfers_revenue_percentage": 83.2,
+    "personnel_expense_percentage_rcl": 47.9
+  },
+  "per_capita_breakdown": {
+    "health": 1029.3,
+    "education": 1456.4,
+    "urbanism": 389.1,
+    "administration": 352.7,
+    "legislative": 153.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3882.7,
+      "health_per_capita": 802.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4170.3,
+      "health_per_capita": 864.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4458.0,
+      "health_per_capita": 926.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4697.6,
+      "health_per_capita": 988.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4793.5,
+      "health_per_capita": 1029.3
+    }
+  ]
+}

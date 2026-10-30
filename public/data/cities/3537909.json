@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3537909",
+  "city_name": "Pilar do Sul",
+  "uf": "SP",
+  "population": 27619,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 131861764.35,
+    "total_expense": 132783692.36,
+    "own_revenue_percentage": 27.8,
+    "transfers_revenue_percentage": 72.2,
+    "personnel_expense_percentage_rcl": 46.2
+  },
+  "per_capita_breakdown": {
+    "health": 1143.2,
+    "education": 1265.3,
+    "urbanism": 550.9,
+    "administration": 366.5,
+    "legislative": 155.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3894.2,
+      "health_per_capita": 891.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4182.7,
+      "health_per_capita": 960.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4471.2,
+      "health_per_capita": 1028.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4711.5,
+      "health_per_capita": 1097.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4807.7,
+      "health_per_capita": 1143.2
+    }
+  ]
+}

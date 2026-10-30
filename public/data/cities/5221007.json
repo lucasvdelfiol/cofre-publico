@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5221007",
+  "city_name": "Taquaral de Goiás",
+  "uf": "GO",
+  "population": 4026,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 22170068.89,
+    "total_expense": 22182437.18,
+    "own_revenue_percentage": 13.2,
+    "transfers_revenue_percentage": 86.8,
+    "personnel_expense_percentage_rcl": 51.7
+  },
+  "per_capita_breakdown": {
+    "health": 1149.7,
+    "education": 1651.2,
+    "urbanism": 638.5,
+    "administration": 552.5,
+    "legislative": 165.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4462.9,
+      "health_per_capita": 896.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4793.5,
+      "health_per_capita": 965.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5124.1,
+      "health_per_capita": 1034.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5399.6,
+      "health_per_capita": 1103.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5509.8,
+      "health_per_capita": 1149.7
+    }
+  ]
+}

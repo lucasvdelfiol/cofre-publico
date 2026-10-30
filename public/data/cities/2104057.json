@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2104057",
+  "city_name": "Estreito",
+  "uf": "MA",
+  "population": 33294,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 155895362.16,
+    "total_expense": 150029565.76,
+    "own_revenue_percentage": 24.5,
+    "transfers_revenue_percentage": 75.5,
+    "personnel_expense_percentage_rcl": 52.6
+  },
+  "per_capita_breakdown": {
+    "health": 993.3,
+    "education": 1422.7,
+    "urbanism": 412.8,
+    "administration": 380.8,
+    "legislative": 92.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3650.0,
+      "health_per_capita": 774.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3920.4,
+      "health_per_capita": 834.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4190.8,
+      "health_per_capita": 894.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4416.1,
+      "health_per_capita": 953.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4506.2,
+      "health_per_capita": 993.3
+    }
+  ]
+}

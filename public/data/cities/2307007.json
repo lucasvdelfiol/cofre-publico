@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2307007",
+  "city_name": "Jaguaruana",
+  "uf": "CE",
+  "population": 31701,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 141711580.96,
+    "total_expense": 140451944.65,
+    "own_revenue_percentage": 28.8,
+    "transfers_revenue_percentage": 71.2,
+    "personnel_expense_percentage_rcl": 46.6
+  },
+  "per_capita_breakdown": {
+    "health": 1177.7,
+    "education": 1085.7,
+    "urbanism": 672.9,
+    "administration": 494.9,
+    "legislative": 91.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3588.7,
+      "health_per_capita": 918.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3854.5,
+      "health_per_capita": 989.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4120.4,
+      "health_per_capita": 1059.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4341.9,
+      "health_per_capita": 1130.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4430.5,
+      "health_per_capita": 1177.7
+    }
+  ]
+}

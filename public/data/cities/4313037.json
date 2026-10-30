@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4313037",
+  "city_name": "Nova Esperança do Sul",
+  "uf": "RS",
+  "population": 4865,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 26394690.02,
+    "total_expense": 25910029.85,
+    "own_revenue_percentage": 20.9,
+    "transfers_revenue_percentage": 79.1,
+    "personnel_expense_percentage_rcl": 53.1
+  },
+  "per_capita_breakdown": {
+    "health": 1373.7,
+    "education": 1559.6,
+    "urbanism": 772.8,
+    "administration": 536.8,
+    "legislative": 161.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4313.9,
+      "health_per_capita": 1071.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4633.4,
+      "health_per_capita": 1153.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4953.0,
+      "health_per_capita": 1236.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5219.3,
+      "health_per_capita": 1318.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5325.8,
+      "health_per_capita": 1373.7
+    }
+  ]
+}

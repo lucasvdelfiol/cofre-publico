@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3114907",
+  "city_name": "Casa Grande",
+  "uf": "MG",
+  "population": 2214,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 11017446.76,
+    "total_expense": 11022623.11,
+    "own_revenue_percentage": 15.7,
+    "transfers_revenue_percentage": 84.3,
+    "personnel_expense_percentage_rcl": 46.8
+  },
+  "per_capita_breakdown": {
+    "health": 1370.8,
+    "education": 1209.8,
+    "urbanism": 619.9,
+    "administration": 461.1,
+    "legislative": 130.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4032.7,
+      "health_per_capita": 1069.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4331.4,
+      "health_per_capita": 1151.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4630.1,
+      "health_per_capita": 1233.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4879.0,
+      "health_per_capita": 1316.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4978.6,
+      "health_per_capita": 1370.8
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2307700",
+  "city_name": "Maranguape",
+  "uf": "CE",
+  "population": 105093,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 549293782.65,
+    "total_expense": 540636541.5,
+    "own_revenue_percentage": 49.9,
+    "transfers_revenue_percentage": 50.1,
+    "personnel_expense_percentage_rcl": 49.6
+  },
+  "per_capita_breakdown": {
+    "health": 1400.4,
+    "education": 1540.1,
+    "urbanism": 484.8,
+    "administration": 439.2,
+    "legislative": 79.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4167.0,
+      "health_per_capita": 1092.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4475.6,
+      "health_per_capita": 1176.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4784.3,
+      "health_per_capita": 1260.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5041.5,
+      "health_per_capita": 1344.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5144.4,
+      "health_per_capita": 1400.4
+    }
+  ]
+}

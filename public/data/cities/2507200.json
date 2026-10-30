@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2507200",
+  "city_name": "Itatuba",
+  "uf": "PB",
+  "population": 10499,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 48692075.59,
+    "total_expense": 47279994.36,
+    "own_revenue_percentage": 14.6,
+    "transfers_revenue_percentage": 85.4,
+    "personnel_expense_percentage_rcl": 52.0
+  },
+  "per_capita_breakdown": {
+    "health": 1224.0,
+    "education": 1299.0,
+    "urbanism": 600.1,
+    "administration": 283.7,
+    "legislative": 125.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3647.7,
+      "health_per_capita": 954.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3917.9,
+      "health_per_capita": 1028.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4188.1,
+      "health_per_capita": 1101.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4413.2,
+      "health_per_capita": 1175.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4503.3,
+      "health_per_capita": 1224.0
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2306702",
+  "city_name": "Jaguaretama",
+  "uf": "CE",
+  "population": 17232,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 83542578.63,
+    "total_expense": 83564728.34,
+    "own_revenue_percentage": 9.7,
+    "transfers_revenue_percentage": 90.3,
+    "personnel_expense_percentage_rcl": 48.4
+  },
+  "per_capita_breakdown": {
+    "health": 1324.8,
+    "education": 1209.5,
+    "urbanism": 603.2,
+    "administration": 370.8,
+    "legislative": 125.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3928.0,
+      "health_per_capita": 1033.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4219.0,
+      "health_per_capita": 1112.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4509.9,
+      "health_per_capita": 1192.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4752.4,
+      "health_per_capita": 1271.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4849.4,
+      "health_per_capita": 1324.8
+    }
+  ]
+}

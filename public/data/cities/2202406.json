@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2202406",
+  "city_name": "Capitão de Campos",
+  "uf": "PI",
+  "population": 11100,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 54924545.64,
+    "total_expense": 54624551.19,
+    "own_revenue_percentage": 15.9,
+    "transfers_revenue_percentage": 84.1,
+    "personnel_expense_percentage_rcl": 53.6
+  },
+  "per_capita_breakdown": {
+    "health": 1241.4,
+    "education": 1425.2,
+    "urbanism": 650.1,
+    "administration": 425.9,
+    "legislative": 128.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3986.1,
+      "health_per_capita": 968.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4281.4,
+      "health_per_capita": 1042.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4576.6,
+      "health_per_capita": 1117.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4822.7,
+      "health_per_capita": 1191.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4921.1,
+      "health_per_capita": 1241.4
+    }
+  ]
+}

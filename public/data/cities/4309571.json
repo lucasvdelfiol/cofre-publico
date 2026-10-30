@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4309571",
+  "city_name": "Herveiras",
+  "uf": "RS",
+  "population": 2565,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 12482653.96,
+    "total_expense": 12561071.6,
+    "own_revenue_percentage": 18.0,
+    "transfers_revenue_percentage": 82.0,
+    "personnel_expense_percentage_rcl": 51.5
+  },
+  "per_capita_breakdown": {
+    "health": 1131.8,
+    "education": 1354.3,
+    "urbanism": 483.8,
+    "administration": 401.8,
+    "legislative": 92.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3966.7,
+      "health_per_capita": 882.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4260.5,
+      "health_per_capita": 950.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4554.3,
+      "health_per_capita": 1018.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4799.2,
+      "health_per_capita": 1086.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4897.1,
+      "health_per_capita": 1131.8
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4305447",
+  "city_name": "Chuvisca",
+  "uf": "RS",
+  "population": 4597,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 26259339.21,
+    "total_expense": 25666676.7,
+    "own_revenue_percentage": 19.3,
+    "transfers_revenue_percentage": 80.7,
+    "personnel_expense_percentage_rcl": 49.0
+  },
+  "per_capita_breakdown": {
+    "health": 1411.2,
+    "education": 1456.6,
+    "urbanism": 505.6,
+    "administration": 615.0,
+    "legislative": 183.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4522.6,
+      "health_per_capita": 1100.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4857.6,
+      "health_per_capita": 1185.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5192.6,
+      "health_per_capita": 1270.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5471.7,
+      "health_per_capita": 1354.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5583.4,
+      "health_per_capita": 1411.2
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4115101",
+  "city_name": "Mariluz",
+  "uf": "PR",
+  "population": 9847,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 47752473.82,
+    "total_expense": 46461193.97,
+    "own_revenue_percentage": 8.7,
+    "transfers_revenue_percentage": 91.3,
+    "personnel_expense_percentage_rcl": 48.1
+  },
+  "per_capita_breakdown": {
+    "health": 1306.1,
+    "education": 1392.6,
+    "urbanism": 589.1,
+    "administration": 399.9,
+    "legislative": 107.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3821.8,
+      "health_per_capita": 1018.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4104.9,
+      "health_per_capita": 1097.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4388.0,
+      "health_per_capita": 1175.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4623.9,
+      "health_per_capita": 1253.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4718.3,
+      "health_per_capita": 1306.1
+    }
+  ]
+}

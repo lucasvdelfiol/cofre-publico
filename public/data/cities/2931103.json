@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2931103",
+  "city_name": "Tanquinho",
+  "uf": "BA",
+  "population": 7717,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 36090846.28,
+    "total_expense": 35619354.48,
+    "own_revenue_percentage": 15.4,
+    "transfers_revenue_percentage": 84.6,
+    "personnel_expense_percentage_rcl": 46.1
+  },
+  "per_capita_breakdown": {
+    "health": 1224.1,
+    "education": 1249.3,
+    "urbanism": 398.5,
+    "administration": 281.5,
+    "legislative": 155.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3738.7,
+      "health_per_capita": 954.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4015.7,
+      "health_per_capita": 1028.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4292.6,
+      "health_per_capita": 1101.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4523.4,
+      "health_per_capita": 1175.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4615.7,
+      "health_per_capita": 1224.1
+    }
+  ]
+}

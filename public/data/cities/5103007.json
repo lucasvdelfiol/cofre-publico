@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5103007",
+  "city_name": "Chapada dos Guimarães",
+  "uf": "MT",
+  "population": 18990,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 93317806.92,
+    "total_expense": 91476540.69,
+    "own_revenue_percentage": 11.4,
+    "transfers_revenue_percentage": 88.6,
+    "personnel_expense_percentage_rcl": 48.9
+  },
+  "per_capita_breakdown": {
+    "health": 1209.3,
+    "education": 1344.1,
+    "urbanism": 579.9,
+    "administration": 491.8,
+    "legislative": 159.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3901.9,
+      "health_per_capita": 943.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4190.9,
+      "health_per_capita": 1015.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4479.9,
+      "health_per_capita": 1088.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4720.8,
+      "health_per_capita": 1160.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4817.1,
+      "health_per_capita": 1209.3
+    }
+  ]
+}

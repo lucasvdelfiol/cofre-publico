@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4300208",
+  "city_name": "Ajuricaba",
+  "uf": "RS",
+  "population": 6720,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 34812185.62,
+    "total_expense": 33647424.67,
+    "own_revenue_percentage": 13.0,
+    "transfers_revenue_percentage": 87.0,
+    "personnel_expense_percentage_rcl": 46.8
+  },
+  "per_capita_breakdown": {
+    "health": 1027.6,
+    "education": 1432.1,
+    "urbanism": 482.1,
+    "administration": 473.7,
+    "legislative": 93.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4055.8,
+      "health_per_capita": 801.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4356.2,
+      "health_per_capita": 863.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4656.6,
+      "health_per_capita": 924.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4907.0,
+      "health_per_capita": 986.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5007.1,
+      "health_per_capita": 1027.6
+    }
+  ]
+}

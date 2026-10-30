@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1500503",
+  "city_name": "Almeirim",
+  "uf": "PA",
+  "population": 34280,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 167389377.86,
+    "total_expense": 161371294.42,
+    "own_revenue_percentage": 22.0,
+    "transfers_revenue_percentage": 78.0,
+    "personnel_expense_percentage_rcl": 47.4
+  },
+  "per_capita_breakdown": {
+    "health": 980.9,
+    "education": 1142.1,
+    "urbanism": 582.0,
+    "administration": 296.8,
+    "legislative": 98.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3813.0,
+      "health_per_capita": 765.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4095.4,
+      "health_per_capita": 824.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4377.9,
+      "health_per_capita": 882.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4613.3,
+      "health_per_capita": 941.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4707.4,
+      "health_per_capita": 980.9
+    }
+  ]
+}

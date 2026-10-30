@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2929404",
+  "city_name": "São Miguel das Matas",
+  "uf": "BA",
+  "population": 10334,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 51159111.34,
+    "total_expense": 50227363.06,
+    "own_revenue_percentage": 9.4,
+    "transfers_revenue_percentage": 90.6,
+    "personnel_expense_percentage_rcl": 51.8
+  },
+  "per_capita_breakdown": {
+    "health": 1115.6,
+    "education": 1182.0,
+    "urbanism": 705.0,
+    "administration": 331.5,
+    "legislative": 150.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3936.9,
+      "health_per_capita": 870.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4228.5,
+      "health_per_capita": 937.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4520.2,
+      "health_per_capita": 1004.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4763.2,
+      "health_per_capita": 1071.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4860.4,
+      "health_per_capita": 1115.6
+    }
+  ]
+}

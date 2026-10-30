@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2806909",
+  "city_name": "São Francisco",
+  "uf": "SE",
+  "population": 3243,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 16347618.01,
+    "total_expense": 15857181.34,
+    "own_revenue_percentage": 14.7,
+    "transfers_revenue_percentage": 85.3,
+    "personnel_expense_percentage_rcl": 50.3
+  },
+  "per_capita_breakdown": {
+    "health": 1287.3,
+    "education": 1243.8,
+    "urbanism": 407.3,
+    "administration": 397.3,
+    "legislative": 152.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3960.7,
+      "health_per_capita": 1004.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4254.0,
+      "health_per_capita": 1081.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4547.4,
+      "health_per_capita": 1158.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4791.9,
+      "health_per_capita": 1235.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4889.7,
+      "health_per_capita": 1287.3
+    }
+  ]
+}

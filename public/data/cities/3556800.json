@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3556800",
+  "city_name": "Viradouro",
+  "uf": "SP",
+  "population": 17414,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 99622104.62,
+    "total_expense": 96997701.22,
+    "own_revenue_percentage": 11.2,
+    "transfers_revenue_percentage": 88.8,
+    "personnel_expense_percentage_rcl": 52.1
+  },
+  "per_capita_breakdown": {
+    "health": 1379.0,
+    "education": 1488.3,
+    "urbanism": 617.5,
+    "administration": 462.1,
+    "legislative": 186.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4511.8,
+      "health_per_capita": 1075.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4846.0,
+      "health_per_capita": 1158.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5180.2,
+      "health_per_capita": 1241.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5458.7,
+      "health_per_capita": 1323.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5570.1,
+      "health_per_capita": 1379.0
+    }
+  ]
+}

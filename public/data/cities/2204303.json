@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2204303",
+  "city_name": "Fronteiras",
+  "uf": "PI",
+  "population": 10259,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 55135534.69,
+    "total_expense": 53095037.03,
+    "own_revenue_percentage": 11.8,
+    "transfers_revenue_percentage": 88.2,
+    "personnel_expense_percentage_rcl": 47.1
+  },
+  "per_capita_breakdown": {
+    "health": 1246.4,
+    "education": 1412.9,
+    "urbanism": 758.0,
+    "administration": 581.4,
+    "legislative": 165.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4192.2,
+      "health_per_capita": 972.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4502.7,
+      "health_per_capita": 1047.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4813.2,
+      "health_per_capita": 1121.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5072.0,
+      "health_per_capita": 1196.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5175.5,
+      "health_per_capita": 1246.4
+    }
+  ]
+}

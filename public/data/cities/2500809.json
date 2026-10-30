@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2500809",
+  "city_name": "Araçagi",
+  "uf": "PB",
+  "population": 16646,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 85064390.68,
+    "total_expense": 83987723.33,
+    "own_revenue_percentage": 11.3,
+    "transfers_revenue_percentage": 88.7,
+    "personnel_expense_percentage_rcl": 52.0
+  },
+  "per_capita_breakdown": {
+    "health": 1278.8,
+    "education": 1559.9,
+    "urbanism": 571.7,
+    "administration": 324.5,
+    "legislative": 155.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4086.9,
+      "health_per_capita": 997.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4389.6,
+      "health_per_capita": 1074.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4692.3,
+      "health_per_capita": 1150.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4944.6,
+      "health_per_capita": 1227.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5045.5,
+      "health_per_capita": 1278.8
+    }
+  ]
+}

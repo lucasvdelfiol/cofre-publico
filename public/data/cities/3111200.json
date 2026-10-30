@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3111200",
+  "city_name": "Campo Belo",
+  "uf": "MG",
+  "population": 52277,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 250326791.71,
+    "total_expense": 246681512.56,
+    "own_revenue_percentage": 35.3,
+    "transfers_revenue_percentage": 64.7,
+    "personnel_expense_percentage_rcl": 50.3
+  },
+  "per_capita_breakdown": {
+    "health": 969.2,
+    "education": 1480.0,
+    "urbanism": 436.0,
+    "administration": 394.6,
+    "legislative": 101.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3822.1,
+      "health_per_capita": 756.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4105.3,
+      "health_per_capita": 814.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4388.4,
+      "health_per_capita": 872.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4624.3,
+      "health_per_capita": 930.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4718.7,
+      "health_per_capita": 969.2
+    }
+  ]
+}

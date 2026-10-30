@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3160504",
+  "city_name": "Santo Antônio do Rio Abaixo",
+  "uf": "MG",
+  "population": 1808,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 9305055.24,
+    "total_expense": 9244910.35,
+    "own_revenue_percentage": 9.8,
+    "transfers_revenue_percentage": 90.2,
+    "personnel_expense_percentage_rcl": 46.0
+  },
+  "per_capita_breakdown": {
+    "health": 1149.8,
+    "education": 1399.4,
+    "urbanism": 557.9,
+    "administration": 540.3,
+    "legislative": 123.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4141.8,
+      "health_per_capita": 896.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4448.6,
+      "health_per_capita": 965.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4755.4,
+      "health_per_capita": 1034.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5011.0,
+      "health_per_capita": 1103.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5113.3,
+      "health_per_capita": 1149.8
+    }
+  ]
+}

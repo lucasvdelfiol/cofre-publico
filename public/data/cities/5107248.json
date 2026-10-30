@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5107248",
+  "city_name": "Santa Carmem",
+  "uf": "MT",
+  "population": 5374,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 25883047.42,
+    "total_expense": 25395490.21,
+    "own_revenue_percentage": 10.0,
+    "transfers_revenue_percentage": 90.0,
+    "personnel_expense_percentage_rcl": 51.5
+  },
+  "per_capita_breakdown": {
+    "health": 970.8,
+    "education": 1286.3,
+    "urbanism": 390.9,
+    "administration": 532.1,
+    "legislative": 76.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3827.7,
+      "health_per_capita": 757.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4111.3,
+      "health_per_capita": 815.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4394.8,
+      "health_per_capita": 873.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4631.1,
+      "health_per_capita": 932.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4725.6,
+      "health_per_capita": 970.8
+    }
+  ]
+}

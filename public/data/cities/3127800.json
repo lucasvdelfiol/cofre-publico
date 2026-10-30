@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3127800",
+  "city_name": "Grão Mogol",
+  "uf": "MG",
+  "population": 13901,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 63425259.14,
+    "total_expense": 61999713.5,
+    "own_revenue_percentage": 10.8,
+    "transfers_revenue_percentage": 89.2,
+    "personnel_expense_percentage_rcl": 52.4
+  },
+  "per_capita_breakdown": {
+    "health": 940.2,
+    "education": 1374.1,
+    "urbanism": 685.0,
+    "administration": 390.0,
+    "legislative": 132.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3612.7,
+      "health_per_capita": 733.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3880.3,
+      "health_per_capita": 789.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4147.9,
+      "health_per_capita": 846.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4370.9,
+      "health_per_capita": 902.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4460.1,
+      "health_per_capita": 940.2
+    }
+  ]
+}

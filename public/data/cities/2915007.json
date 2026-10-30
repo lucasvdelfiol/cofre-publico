@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2915007",
+  "city_name": "Itaeté",
+  "uf": "BA",
+  "population": 13472,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 68992905.9,
+    "total_expense": 68818075.33,
+    "own_revenue_percentage": 9.7,
+    "transfers_revenue_percentage": 90.3,
+    "personnel_expense_percentage_rcl": 46.1
+  },
+  "per_capita_breakdown": {
+    "health": 1186.0,
+    "education": 1481.6,
+    "urbanism": 754.4,
+    "administration": 421.6,
+    "legislative": 97.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4137.6,
+      "health_per_capita": 925.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4444.1,
+      "health_per_capita": 996.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4750.6,
+      "health_per_capita": 1067.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5006.0,
+      "health_per_capita": 1138.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5108.2,
+      "health_per_capita": 1186.0
+    }
+  ]
+}

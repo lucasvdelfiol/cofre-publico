@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5005806",
+  "city_name": "Nioaque",
+  "uf": "MS",
+  "population": 13220,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 68779576.07,
+    "total_expense": 67436132.13,
+    "own_revenue_percentage": 18.3,
+    "transfers_revenue_percentage": 81.7,
+    "personnel_expense_percentage_rcl": 51.8
+  },
+  "per_capita_breakdown": {
+    "health": 1281.0,
+    "education": 1533.6,
+    "urbanism": 484.2,
+    "administration": 570.5,
+    "legislative": 155.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4131.9,
+      "health_per_capita": 999.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4438.0,
+      "health_per_capita": 1076.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4744.0,
+      "health_per_capita": 1152.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4999.1,
+      "health_per_capita": 1229.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5101.1,
+      "health_per_capita": 1281.0
+    }
+  ]
+}

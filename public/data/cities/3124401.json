@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3124401",
+  "city_name": "Espírito Santo do Dourado",
+  "uf": "MG",
+  "population": 6611,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 32181857.22,
+    "total_expense": 32314443.1,
+    "own_revenue_percentage": 19.6,
+    "transfers_revenue_percentage": 80.4,
+    "personnel_expense_percentage_rcl": 48.9
+  },
+  "per_capita_breakdown": {
+    "health": 1127.6,
+    "education": 1223.5,
+    "urbanism": 644.7,
+    "administration": 507.4,
+    "legislative": 130.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3959.3,
+      "health_per_capita": 879.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4252.6,
+      "health_per_capita": 947.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4545.8,
+      "health_per_capita": 1014.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4790.2,
+      "health_per_capita": 1082.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4888.0,
+      "health_per_capita": 1127.6
+    }
+  ]
+}

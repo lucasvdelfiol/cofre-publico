@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3139904",
+  "city_name": "Maria da Fé",
+  "uf": "MG",
+  "population": 14247,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 78852992.07,
+    "total_expense": 78802306.04,
+    "own_revenue_percentage": 19.8,
+    "transfers_revenue_percentage": 80.2,
+    "personnel_expense_percentage_rcl": 50.1
+  },
+  "per_capita_breakdown": {
+    "health": 1408.1,
+    "education": 1499.3,
+    "urbanism": 491.9,
+    "administration": 395.5,
+    "legislative": 127.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4480.3,
+      "health_per_capita": 1098.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4812.1,
+      "health_per_capita": 1182.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5144.0,
+      "health_per_capita": 1267.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5420.6,
+      "health_per_capita": 1351.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5531.2,
+      "health_per_capita": 1408.1
+    }
+  ]
+}

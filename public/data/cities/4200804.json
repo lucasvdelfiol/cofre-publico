@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4200804",
+  "city_name": "Anchieta",
+  "uf": "SC",
+  "population": 5943,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 31725891.71,
+    "total_expense": 30908495.12,
+    "own_revenue_percentage": 13.9,
+    "transfers_revenue_percentage": 86.1,
+    "personnel_expense_percentage_rcl": 47.5
+  },
+  "per_capita_breakdown": {
+    "health": 1116.9,
+    "education": 1343.2,
+    "urbanism": 491.1,
+    "administration": 576.1,
+    "legislative": 131.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4212.6,
+      "health_per_capita": 871.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4524.7,
+      "health_per_capita": 938.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4836.7,
+      "health_per_capita": 1005.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5096.8,
+      "health_per_capita": 1072.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5200.8,
+      "health_per_capita": 1116.9
+    }
+  ]
+}

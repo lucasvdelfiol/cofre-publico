@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1712405",
+  "city_name": "Lizarda",
+  "uf": "TO",
+  "population": 2999,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 15625276.77,
+    "total_expense": 15196616.01,
+    "own_revenue_percentage": 10.7,
+    "transfers_revenue_percentage": 89.3,
+    "personnel_expense_percentage_rcl": 47.3
+  },
+  "per_capita_breakdown": {
+    "health": 1315.9,
+    "education": 1558.6,
+    "urbanism": 433.5,
+    "administration": 557.0,
+    "legislative": 85.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4104.4,
+      "health_per_capita": 1026.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4408.5,
+      "health_per_capita": 1105.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4712.5,
+      "health_per_capita": 1184.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4965.9,
+      "health_per_capita": 1263.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5067.2,
+      "health_per_capita": 1315.9
+    }
+  ]
+}

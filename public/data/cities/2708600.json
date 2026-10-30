@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2708600",
+  "city_name": "São Miguel dos Campos",
+  "uf": "AL",
+  "population": 51990,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 244070673.32,
+    "total_expense": 241626876.98,
+    "own_revenue_percentage": 40.6,
+    "transfers_revenue_percentage": 59.4,
+    "personnel_expense_percentage_rcl": 50.9
+  },
+  "per_capita_breakdown": {
+    "health": 1221.0,
+    "education": 1329.1,
+    "urbanism": 464.6,
+    "administration": 411.5,
+    "legislative": 80.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3764.6,
+      "health_per_capita": 952.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4043.4,
+      "health_per_capita": 1025.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4322.3,
+      "health_per_capita": 1098.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4554.6,
+      "health_per_capita": 1172.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4647.6,
+      "health_per_capita": 1221.0
+    }
+  ]
+}

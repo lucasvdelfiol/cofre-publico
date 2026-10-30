@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2606200",
+  "city_name": "Goiana",
+  "uf": "PE",
+  "population": 81055,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 416133461.4,
+    "total_expense": 416798433.67,
+    "own_revenue_percentage": 30.3,
+    "transfers_revenue_percentage": 69.7,
+    "personnel_expense_percentage_rcl": 45.4
+  },
+  "per_capita_breakdown": {
+    "health": 1359.9,
+    "education": 1360.7,
+    "urbanism": 413.7,
+    "administration": 530.4,
+    "legislative": 104.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4165.2,
+      "health_per_capita": 1060.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4473.7,
+      "health_per_capita": 1142.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4782.2,
+      "health_per_capita": 1223.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5039.4,
+      "health_per_capita": 1305.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5142.2,
+      "health_per_capita": 1359.9
+    }
+  ]
+}

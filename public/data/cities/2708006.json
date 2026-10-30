@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2708006",
+  "city_name": "Santana do Ipanema",
+  "uf": "AL",
+  "population": 46220,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 193481919.78,
+    "total_expense": 193641042.36,
+    "own_revenue_percentage": 31.9,
+    "transfers_revenue_percentage": 68.1,
+    "personnel_expense_percentage_rcl": 48.5
+  },
+  "per_capita_breakdown": {
+    "health": 946.8,
+    "education": 1184.7,
+    "urbanism": 451.1,
+    "administration": 445.9,
+    "legislative": 118.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3393.6,
+      "health_per_capita": 738.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3645.0,
+      "health_per_capita": 795.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3896.3,
+      "health_per_capita": 852.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4105.8,
+      "health_per_capita": 908.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4189.6,
+      "health_per_capita": 946.8
+    }
+  ]
+}

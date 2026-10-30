@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3203700",
+  "city_name": "Muniz Freire",
+  "uf": "ES",
+  "population": 18153,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 101337109.41,
+    "total_expense": 97495156.63,
+    "own_revenue_percentage": 10.5,
+    "transfers_revenue_percentage": 89.5,
+    "personnel_expense_percentage_rcl": 45.5
+  },
+  "per_capita_breakdown": {
+    "health": 1361.0,
+    "education": 1548.4,
+    "urbanism": 456.5,
+    "administration": 535.1,
+    "legislative": 101.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4350.3,
+      "health_per_capita": 1061.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4672.5,
+      "health_per_capita": 1143.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4994.8,
+      "health_per_capita": 1224.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5263.3,
+      "health_per_capita": 1306.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5370.7,
+      "health_per_capita": 1361.0
+    }
+  ]
+}

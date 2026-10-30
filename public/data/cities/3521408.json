@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3521408",
+  "city_name": "Iracemápolis",
+  "uf": "SP",
+  "population": 21967,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 96998962.22,
+    "total_expense": 95946379.24,
+    "own_revenue_percentage": 25.0,
+    "transfers_revenue_percentage": 75.0,
+    "personnel_expense_percentage_rcl": 49.3
+  },
+  "per_capita_breakdown": {
+    "health": 954.8,
+    "education": 1291.4,
+    "urbanism": 618.0,
+    "administration": 393.0,
+    "legislative": 68.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3537.9,
+      "health_per_capita": 744.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3800.0,
+      "health_per_capita": 802.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4062.1,
+      "health_per_capita": 859.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4280.4,
+      "health_per_capita": 916.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4367.8,
+      "health_per_capita": 954.8
+    }
+  ]
+}

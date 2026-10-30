@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2409803",
+  "city_name": "Pedro Velho",
+  "uf": "RN",
+  "population": 13824,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 70404487.38,
+    "total_expense": 68460534.69,
+    "own_revenue_percentage": 10.3,
+    "transfers_revenue_percentage": 89.7,
+    "personnel_expense_percentage_rcl": 50.0
+  },
+  "per_capita_breakdown": {
+    "health": 1358.9,
+    "education": 1511.2,
+    "urbanism": 540.7,
+    "administration": 351.7,
+    "legislative": 119.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4011.4,
+      "health_per_capita": 1059.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4308.5,
+      "health_per_capita": 1141.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4605.6,
+      "health_per_capita": 1223.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4853.3,
+      "health_per_capita": 1304.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4952.3,
+      "health_per_capita": 1358.9
+    }
+  ]
+}

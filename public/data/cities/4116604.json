@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4116604",
+  "city_name": "Nova América da Colina",
+  "uf": "PR",
+  "population": 3280,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 18040757.32,
+    "total_expense": 18119825.71,
+    "own_revenue_percentage": 18.1,
+    "transfers_revenue_percentage": 81.9,
+    "personnel_expense_percentage_rcl": 46.1
+  },
+  "per_capita_breakdown": {
+    "health": 1355.5,
+    "education": 1327.1,
+    "urbanism": 729.9,
+    "administration": 502.7,
+    "legislative": 109.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4474.7,
+      "health_per_capita": 1057.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4806.1,
+      "health_per_capita": 1138.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5137.6,
+      "health_per_capita": 1220.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5413.8,
+      "health_per_capita": 1301.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5524.3,
+      "health_per_capita": 1355.5
+    }
+  ]
+}

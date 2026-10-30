@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4216800",
+  "city_name": "São José do Cerrito",
+  "uf": "SC",
+  "population": 8708,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 45652168.35,
+    "total_expense": 46080163.26,
+    "own_revenue_percentage": 21.8,
+    "transfers_revenue_percentage": 78.2,
+    "personnel_expense_percentage_rcl": 47.6
+  },
+  "per_capita_breakdown": {
+    "health": 1166.4,
+    "education": 1454.9,
+    "urbanism": 700.3,
+    "administration": 337.2,
+    "legislative": 112.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4286.3,
+      "health_per_capita": 909.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4603.8,
+      "health_per_capita": 979.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4921.3,
+      "health_per_capita": 1049.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5185.9,
+      "health_per_capita": 1119.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5291.7,
+      "health_per_capita": 1166.4
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3119906",
+  "city_name": "Córrego do Bom Jesus",
+  "uf": "MG",
+  "population": 4272,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 18881392.74,
+    "total_expense": 18419108.97,
+    "own_revenue_percentage": 20.6,
+    "transfers_revenue_percentage": 79.4,
+    "personnel_expense_percentage_rcl": 47.7
+  },
+  "per_capita_breakdown": {
+    "health": 907.9,
+    "education": 1208.1,
+    "urbanism": 502.5,
+    "administration": 267.9,
+    "legislative": 75.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3492.4,
+      "health_per_capita": 708.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3751.1,
+      "health_per_capita": 762.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4009.8,
+      "health_per_capita": 817.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4225.4,
+      "health_per_capita": 871.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4311.6,
+      "health_per_capita": 907.9
+    }
+  ]
+}

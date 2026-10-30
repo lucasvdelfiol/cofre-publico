@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2514453",
+  "city_name": "São José dos Ramos",
+  "uf": "PB",
+  "population": 5891,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 29918611.53,
+    "total_expense": 29291272.97,
+    "own_revenue_percentage": 11.0,
+    "transfers_revenue_percentage": 89.0,
+    "personnel_expense_percentage_rcl": 49.6
+  },
+  "per_capita_breakdown": {
+    "health": 1148.2,
+    "education": 1297.9,
+    "urbanism": 440.5,
+    "administration": 331.3,
+    "legislative": 124.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4027.5,
+      "health_per_capita": 895.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4325.8,
+      "health_per_capita": 964.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4624.1,
+      "health_per_capita": 1033.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4872.8,
+      "health_per_capita": 1102.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4972.2,
+      "health_per_capita": 1148.2
+    }
+  ]
+}

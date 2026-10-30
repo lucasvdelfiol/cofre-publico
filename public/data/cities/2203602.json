@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2203602",
+  "city_name": "Eliseu Martins",
+  "uf": "PI",
+  "population": 4377,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 21105165.69,
+    "total_expense": 21019217.88,
+    "own_revenue_percentage": 11.4,
+    "transfers_revenue_percentage": 88.6,
+    "personnel_expense_percentage_rcl": 50.2
+  },
+  "per_capita_breakdown": {
+    "health": 1056.1,
+    "education": 1232.5,
+    "urbanism": 589.5,
+    "administration": 539.6,
+    "legislative": 86.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3889.8,
+      "health_per_capita": 823.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4177.9,
+      "health_per_capita": 887.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4466.0,
+      "health_per_capita": 950.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4706.2,
+      "health_per_capita": 1013.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4802.2,
+      "health_per_capita": 1056.1
+    }
+  ]
+}

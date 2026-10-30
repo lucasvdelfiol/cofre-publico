@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4112900",
+  "city_name": "Jundiaí do Sul",
+  "uf": "PR",
+  "population": 3333,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 19034199.5,
+    "total_expense": 18568144.73,
+    "own_revenue_percentage": 15.7,
+    "transfers_revenue_percentage": 84.3,
+    "personnel_expense_percentage_rcl": 51.1
+  },
+  "per_capita_breakdown": {
+    "health": 1221.9,
+    "education": 1699.9,
+    "urbanism": 525.1,
+    "administration": 430.0,
+    "legislative": 104.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4512.5,
+      "health_per_capita": 953.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4846.8,
+      "health_per_capita": 1026.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5181.0,
+      "health_per_capita": 1099.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5459.6,
+      "health_per_capita": 1173.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5571.0,
+      "health_per_capita": 1221.9
+    }
+  ]
+}

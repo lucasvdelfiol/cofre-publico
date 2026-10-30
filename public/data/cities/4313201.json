@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4313201",
+  "city_name": "Nova Petrópolis",
+  "uf": "RS",
+  "population": 23300,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 112873114.11,
+    "total_expense": 111213896.52,
+    "own_revenue_percentage": 26.8,
+    "transfers_revenue_percentage": 73.2,
+    "personnel_expense_percentage_rcl": 49.6
+  },
+  "per_capita_breakdown": {
+    "health": 1193.8,
+    "education": 1243.5,
+    "urbanism": 562.2,
+    "administration": 343.7,
+    "legislative": 71.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3866.2,
+      "health_per_capita": 931.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4152.6,
+      "health_per_capita": 1002.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4439.0,
+      "health_per_capita": 1074.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4677.6,
+      "health_per_capita": 1146.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4773.1,
+      "health_per_capita": 1193.8
+    }
+  ]
+}

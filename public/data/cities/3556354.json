@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3556354",
+  "city_name": "Vargem",
+  "uf": "SP",
+  "population": 10512,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 55916242.08,
+    "total_expense": 56247469.14,
+    "own_revenue_percentage": 15.7,
+    "transfers_revenue_percentage": 84.3,
+    "personnel_expense_percentage_rcl": 48.9
+  },
+  "per_capita_breakdown": {
+    "health": 1491.6,
+    "education": 1303.0,
+    "urbanism": 642.5,
+    "administration": 375.3,
+    "legislative": 110.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4334.1,
+      "health_per_capita": 1163.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4655.2,
+      "health_per_capita": 1252.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4976.2,
+      "health_per_capita": 1342.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5243.8,
+      "health_per_capita": 1431.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5350.8,
+      "health_per_capita": 1491.6
+    }
+  ]
+}

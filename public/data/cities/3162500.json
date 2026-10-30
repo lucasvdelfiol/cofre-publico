@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3162500",
+  "city_name": "São João del Rei",
+  "uf": "MG",
+  "population": 90225,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 458814231.84,
+    "total_expense": 447863708.56,
+    "own_revenue_percentage": 35.8,
+    "transfers_revenue_percentage": 64.2,
+    "personnel_expense_percentage_rcl": 47.7
+  },
+  "per_capita_breakdown": {
+    "health": 1189.2,
+    "education": 1307.5,
+    "urbanism": 782.2,
+    "administration": 491.4,
+    "legislative": 165.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4020.8,
+      "health_per_capita": 927.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4318.6,
+      "health_per_capita": 998.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4616.4,
+      "health_per_capita": 1070.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4864.6,
+      "health_per_capita": 1141.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4963.9,
+      "health_per_capita": 1189.2
+    }
+  ]
+}

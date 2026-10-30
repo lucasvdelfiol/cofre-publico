@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2608008",
+  "city_name": "Jataúba",
+  "uf": "PE",
+  "population": 15843,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 73415248.72,
+    "total_expense": 73125891.03,
+    "own_revenue_percentage": 21.7,
+    "transfers_revenue_percentage": 78.3,
+    "personnel_expense_percentage_rcl": 53.3
+  },
+  "per_capita_breakdown": {
+    "health": 981.2,
+    "education": 1164.3,
+    "urbanism": 632.5,
+    "administration": 512.8,
+    "legislative": 160.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3738.7,
+      "health_per_capita": 765.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4015.7,
+      "health_per_capita": 824.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4292.6,
+      "health_per_capita": 883.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4523.4,
+      "health_per_capita": 942.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4615.7,
+      "health_per_capita": 981.2
+    }
+  ]
+}

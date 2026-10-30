@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2301505",
+  "city_name": "Arneiroz",
+  "uf": "CE",
+  "population": 7429,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 33094763.54,
+    "total_expense": 31979157.7,
+    "own_revenue_percentage": 17.1,
+    "transfers_revenue_percentage": 82.9,
+    "personnel_expense_percentage_rcl": 46.9
+  },
+  "per_capita_breakdown": {
+    "health": 1012.3,
+    "education": 1345.8,
+    "urbanism": 419.9,
+    "administration": 502.5,
+    "legislative": 147.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3486.7,
+      "health_per_capita": 789.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3745.0,
+      "health_per_capita": 850.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4003.3,
+      "health_per_capita": 911.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4218.5,
+      "health_per_capita": 971.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4304.6,
+      "health_per_capita": 1012.3
+    }
+  ]
+}

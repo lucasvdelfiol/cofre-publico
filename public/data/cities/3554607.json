@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3554607",
+  "city_name": "Timburi",
+  "uf": "SP",
+  "population": 2464,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 11724124.73,
+    "total_expense": 11616672.35,
+    "own_revenue_percentage": 11.8,
+    "transfers_revenue_percentage": 88.2,
+    "personnel_expense_percentage_rcl": 53.4
+  },
+  "per_capita_breakdown": {
+    "health": 1242.5,
+    "education": 1376.3,
+    "urbanism": 602.8,
+    "administration": 469.4,
+    "legislative": 134.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3818.8,
+      "health_per_capita": 969.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4101.7,
+      "health_per_capita": 1043.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4384.6,
+      "health_per_capita": 1118.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4620.3,
+      "health_per_capita": 1192.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4714.6,
+      "health_per_capita": 1242.5
+    }
+  ]
+}

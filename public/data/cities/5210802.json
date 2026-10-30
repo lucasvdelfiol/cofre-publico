@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5210802",
+  "city_name": "Itajá",
+  "uf": "GO",
+  "population": 4380,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 19354104.38,
+    "total_expense": 19031661.15,
+    "own_revenue_percentage": 15.1,
+    "transfers_revenue_percentage": 84.9,
+    "personnel_expense_percentage_rcl": 53.4
+  },
+  "per_capita_breakdown": {
+    "health": 1119.8,
+    "education": 1350.2,
+    "urbanism": 642.6,
+    "administration": 356.1,
+    "legislative": 79.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3519.5,
+      "health_per_capita": 873.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3780.2,
+      "health_per_capita": 940.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4040.9,
+      "health_per_capita": 1007.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4258.2,
+      "health_per_capita": 1075.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4345.1,
+      "health_per_capita": 1119.8
+    }
+  ]
+}

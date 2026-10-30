@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2311009",
+  "city_name": "Poranga",
+  "uf": "CE",
+  "population": 12065,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 58427794.28,
+    "total_expense": 57064142.89,
+    "own_revenue_percentage": 14.5,
+    "transfers_revenue_percentage": 85.5,
+    "personnel_expense_percentage_rcl": 50.2
+  },
+  "per_capita_breakdown": {
+    "health": 987.8,
+    "education": 1396.9,
+    "urbanism": 711.0,
+    "administration": 423.3,
+    "legislative": 133.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3831.1,
+      "health_per_capita": 770.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4114.8,
+      "health_per_capita": 829.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4398.6,
+      "health_per_capita": 889.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4635.1,
+      "health_per_capita": 948.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4729.7,
+      "health_per_capita": 987.8
+    }
+  ]
+}

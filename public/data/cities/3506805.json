@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3506805",
+  "city_name": "Bocaina",
+  "uf": "SP",
+  "population": 11259,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 53577351.05,
+    "total_expense": 52054589.12,
+    "own_revenue_percentage": 15.4,
+    "transfers_revenue_percentage": 84.6,
+    "personnel_expense_percentage_rcl": 49.1
+  },
+  "per_capita_breakdown": {
+    "health": 1033.9,
+    "education": 1315.5,
+    "urbanism": 595.5,
+    "administration": 494.6,
+    "legislative": 73.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3745.0,
+      "health_per_capita": 806.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4022.4,
+      "health_per_capita": 868.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4299.8,
+      "health_per_capita": 930.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4530.9,
+      "health_per_capita": 992.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4623.4,
+      "health_per_capita": 1033.9
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2612505",
+  "city_name": "Santa Cruz do Capibaribe",
+  "uf": "PE",
+  "population": 98254,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 488053648.27,
+    "total_expense": 489074454.53,
+    "own_revenue_percentage": 30.2,
+    "transfers_revenue_percentage": 69.8,
+    "personnel_expense_percentage_rcl": 49.0
+  },
+  "per_capita_breakdown": {
+    "health": 1320.5,
+    "education": 1208.6,
+    "urbanism": 759.5,
+    "administration": 348.4,
+    "legislative": 143.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4031.9,
+      "health_per_capita": 1030.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4330.6,
+      "health_per_capita": 1109.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4629.3,
+      "health_per_capita": 1188.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4878.1,
+      "health_per_capita": 1267.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4977.7,
+      "health_per_capita": 1320.5
+    }
+  ]
+}

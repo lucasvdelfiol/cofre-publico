@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1100254",
+  "city_name": "Presidente Médici",
+  "uf": "RO",
+  "population": 19327,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 103004630.05,
+    "total_expense": 99244244.05,
+    "own_revenue_percentage": 8.8,
+    "transfers_revenue_percentage": 91.2,
+    "personnel_expense_percentage_rcl": 50.9
+  },
+  "per_capita_breakdown": {
+    "health": 1414.8,
+    "education": 1299.4,
+    "urbanism": 722.6,
+    "administration": 530.4,
+    "legislative": 122.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4159.4,
+      "health_per_capita": 1103.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4467.4,
+      "health_per_capita": 1188.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4775.6,
+      "health_per_capita": 1273.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5032.3,
+      "health_per_capita": 1358.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5135.0,
+      "health_per_capita": 1414.8
+    }
+  ]
+}

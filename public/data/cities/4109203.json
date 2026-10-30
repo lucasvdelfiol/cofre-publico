@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4109203",
+  "city_name": "Guaraci",
+  "uf": "PR",
+  "population": 4748,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 26866650.4,
+    "total_expense": 26392031.1,
+    "own_revenue_percentage": 18.1,
+    "transfers_revenue_percentage": 81.9,
+    "personnel_expense_percentage_rcl": 47.5
+  },
+  "per_capita_breakdown": {
+    "health": 1184.1,
+    "education": 1558.8,
+    "urbanism": 578.7,
+    "administration": 610.0,
+    "legislative": 90.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4502.5,
+      "health_per_capita": 923.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4836.0,
+      "health_per_capita": 994.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5169.5,
+      "health_per_capita": 1065.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5447.4,
+      "health_per_capita": 1136.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5558.6,
+      "health_per_capita": 1184.1
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2501351",
+  "city_name": "Assunção",
+  "uf": "PB",
+  "population": 4152,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 19125609.28,
+    "total_expense": 19296537.01,
+    "own_revenue_percentage": 11.5,
+    "transfers_revenue_percentage": 88.5,
+    "personnel_expense_percentage_rcl": 50.4
+  },
+  "per_capita_breakdown": {
+    "health": 1267.1,
+    "education": 1208.7,
+    "urbanism": 672.9,
+    "administration": 518.2,
+    "legislative": 96.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3764.5,
+      "health_per_capita": 988.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4043.3,
+      "health_per_capita": 1064.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4322.2,
+      "health_per_capita": 1140.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4554.6,
+      "health_per_capita": 1216.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4647.5,
+      "health_per_capita": 1267.1
+    }
+  ]
+}

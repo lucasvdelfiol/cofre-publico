@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2405702",
+  "city_name": "Jardim do Seridó",
+  "uf": "RN",
+  "population": 11655,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 65202755.99,
+    "total_expense": 64375467.39,
+    "own_revenue_percentage": 10.4,
+    "transfers_revenue_percentage": 89.6,
+    "personnel_expense_percentage_rcl": 51.1
+  },
+  "per_capita_breakdown": {
+    "health": 1388.9,
+    "education": 1386.3,
+    "urbanism": 491.7,
+    "administration": 552.6,
+    "legislative": 151.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4474.0,
+      "health_per_capita": 1083.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4805.4,
+      "health_per_capita": 1166.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5136.8,
+      "health_per_capita": 1250.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5412.9,
+      "health_per_capita": 1333.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5523.4,
+      "health_per_capita": 1388.9
+    }
+  ]
+}

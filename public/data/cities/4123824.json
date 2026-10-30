@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4123824",
+  "city_name": "Santa Lúcia",
+  "uf": "PR",
+  "population": 3644,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 20739947.03,
+    "total_expense": 20308673.22,
+    "own_revenue_percentage": 19.3,
+    "transfers_revenue_percentage": 80.7,
+    "personnel_expense_percentage_rcl": 49.3
+  },
+  "per_capita_breakdown": {
+    "health": 1241.1,
+    "education": 1360.5,
+    "urbanism": 831.4,
+    "administration": 429.1,
+    "legislative": 142.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4514.3,
+      "health_per_capita": 968.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4848.7,
+      "health_per_capita": 1042.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5183.1,
+      "health_per_capita": 1117.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5461.7,
+      "health_per_capita": 1191.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5573.2,
+      "health_per_capita": 1241.1
+    }
+  ]
+}

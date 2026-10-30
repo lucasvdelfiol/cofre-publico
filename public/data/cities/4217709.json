@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4217709",
+  "city_name": "Sombrio",
+  "uf": "SC",
+  "population": 29991,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 140444595.84,
+    "total_expense": 141475311.94,
+    "own_revenue_percentage": 28.9,
+    "transfers_revenue_percentage": 71.1,
+    "personnel_expense_percentage_rcl": 51.2
+  },
+  "per_capita_breakdown": {
+    "health": 1182.8,
+    "education": 1489.7,
+    "urbanism": 684.6,
+    "administration": 384.4,
+    "legislative": 108.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3821.0,
+      "health_per_capita": 922.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4104.1,
+      "health_per_capita": 993.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4387.1,
+      "health_per_capita": 1064.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4623.0,
+      "health_per_capita": 1135.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4717.3,
+      "health_per_capita": 1182.8
+    }
+  ]
+}

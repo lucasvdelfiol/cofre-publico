@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5219506",
+  "city_name": "Santa Rosa de Goiás",
+  "uf": "GO",
+  "population": 2820,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 13788166.09,
+    "total_expense": 13509560.5,
+    "own_revenue_percentage": 18.2,
+    "transfers_revenue_percentage": 81.8,
+    "personnel_expense_percentage_rcl": 51.7
+  },
+  "per_capita_breakdown": {
+    "health": 1340.4,
+    "education": 1400.8,
+    "urbanism": 600.6,
+    "administration": 417.0,
+    "legislative": 110.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3880.4,
+      "health_per_capita": 1045.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4167.8,
+      "health_per_capita": 1125.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4455.3,
+      "health_per_capita": 1206.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4694.8,
+      "health_per_capita": 1286.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4790.6,
+      "health_per_capita": 1340.4
+    }
+  ]
+}

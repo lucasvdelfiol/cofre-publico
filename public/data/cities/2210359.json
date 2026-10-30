@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2210359",
+  "city_name": "São Lourenço do Piauí",
+  "uf": "PI",
+  "population": 4410,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 21599231.61,
+    "total_expense": 20905823.87,
+    "own_revenue_percentage": 11.7,
+    "transfers_revenue_percentage": 88.3,
+    "personnel_expense_percentage_rcl": 50.7
+  },
+  "per_capita_breakdown": {
+    "health": 1272.2,
+    "education": 1215.5,
+    "urbanism": 737.4,
+    "administration": 447.5,
+    "legislative": 100.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3839.8,
+      "health_per_capita": 992.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4124.2,
+      "health_per_capita": 1068.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4408.7,
+      "health_per_capita": 1145.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4645.7,
+      "health_per_capita": 1221.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4740.5,
+      "health_per_capita": 1272.2
+    }
+  ]
+}

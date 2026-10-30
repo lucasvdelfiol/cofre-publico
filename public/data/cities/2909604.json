@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2909604",
+  "city_name": "Crisópolis",
+  "uf": "BA",
+  "population": 19729,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 100619581.03,
+    "total_expense": 97187497.21,
+    "own_revenue_percentage": 15.1,
+    "transfers_revenue_percentage": 84.9,
+    "personnel_expense_percentage_rcl": 49.8
+  },
+  "per_capita_breakdown": {
+    "health": 1119.2,
+    "education": 1461.4,
+    "urbanism": 705.2,
+    "administration": 361.7,
+    "legislative": 95.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3990.1,
+      "health_per_capita": 873.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4285.7,
+      "health_per_capita": 940.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4581.3,
+      "health_per_capita": 1007.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4827.6,
+      "health_per_capita": 1074.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4926.1,
+      "health_per_capita": 1119.2
+    }
+  ]
+}

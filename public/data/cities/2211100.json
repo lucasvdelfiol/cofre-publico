@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2211100",
+  "city_name": "União",
+  "uf": "PI",
+  "population": 46119,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 207503877.68,
+    "total_expense": 206204922.91,
+    "own_revenue_percentage": 27.8,
+    "transfers_revenue_percentage": 72.2,
+    "personnel_expense_percentage_rcl": 52.3
+  },
+  "per_capita_breakdown": {
+    "health": 918.3,
+    "education": 1213.5,
+    "urbanism": 447.2,
+    "administration": 387.2,
+    "legislative": 138.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3621.6,
+      "health_per_capita": 716.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3889.9,
+      "health_per_capita": 771.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4158.1,
+      "health_per_capita": 826.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4381.7,
+      "health_per_capita": 881.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4471.1,
+      "health_per_capita": 918.3
+    }
+  ]
+}

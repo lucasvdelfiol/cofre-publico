@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2916609",
+  "city_name": "Itapitanga",
+  "uf": "BA",
+  "population": 10279,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 52509991.69,
+    "total_expense": 52086961.69,
+    "own_revenue_percentage": 18.2,
+    "transfers_revenue_percentage": 81.8,
+    "personnel_expense_percentage_rcl": 47.8
+  },
+  "per_capita_breakdown": {
+    "health": 1060.0,
+    "education": 1405.5,
+    "urbanism": 623.2,
+    "administration": 485.8,
+    "legislative": 93.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4104.5,
+      "health_per_capita": 826.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4408.6,
+      "health_per_capita": 890.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4712.6,
+      "health_per_capita": 954.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4966.0,
+      "health_per_capita": 1017.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5067.3,
+      "health_per_capita": 1060.0
+    }
+  ]
+}

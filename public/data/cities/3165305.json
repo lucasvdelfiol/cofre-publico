@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3165305",
+  "city_name": "São Vicente de Minas",
+  "uf": "MG",
+  "population": 6804,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 33022844.14,
+    "total_expense": 32489523.63,
+    "own_revenue_percentage": 10.7,
+    "transfers_revenue_percentage": 89.3,
+    "personnel_expense_percentage_rcl": 52.8
+  },
+  "per_capita_breakdown": {
+    "health": 1143.6,
+    "education": 1202.4,
+    "urbanism": 647.2,
+    "administration": 551.7,
+    "legislative": 162.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3867.8,
+      "health_per_capita": 892.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4154.3,
+      "health_per_capita": 960.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4440.8,
+      "health_per_capita": 1029.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4679.6,
+      "health_per_capita": 1097.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4775.1,
+      "health_per_capita": 1143.6
+    }
+  ]
+}

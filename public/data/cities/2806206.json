@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2806206",
+  "city_name": "Salgado",
+  "uf": "SE",
+  "population": 20279,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 89279606.06,
+    "total_expense": 89315702.3,
+    "own_revenue_percentage": 23.6,
+    "transfers_revenue_percentage": 76.4,
+    "personnel_expense_percentage_rcl": 47.8
+  },
+  "per_capita_breakdown": {
+    "health": 882.4,
+    "education": 1121.0,
+    "urbanism": 593.7,
+    "administration": 387.7,
+    "legislative": 98.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3567.5,
+      "health_per_capita": 688.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3831.7,
+      "health_per_capita": 741.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4096.0,
+      "health_per_capita": 794.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4316.2,
+      "health_per_capita": 847.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4404.3,
+      "health_per_capita": 882.4
+    }
+  ]
+}

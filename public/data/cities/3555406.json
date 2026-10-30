@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3555406",
+  "city_name": "Ubatuba",
+  "uf": "SP",
+  "population": 92981,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 470039102.25,
+    "total_expense": 453783942.05,
+    "own_revenue_percentage": 32.5,
+    "transfers_revenue_percentage": 67.5,
+    "personnel_expense_percentage_rcl": 49.1
+  },
+  "per_capita_breakdown": {
+    "health": 1088.8,
+    "education": 1205.7,
+    "urbanism": 526.9,
+    "administration": 574.1,
+    "legislative": 99.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3953.1,
+      "health_per_capita": 849.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4245.9,
+      "health_per_capita": 914.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4538.8,
+      "health_per_capita": 979.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4782.8,
+      "health_per_capita": 1045.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4880.4,
+      "health_per_capita": 1088.8
+    }
+  ]
+}

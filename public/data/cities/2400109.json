@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2400109",
+  "city_name": "Acari",
+  "uf": "RN",
+  "population": 10597,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 50809342.22,
+    "total_expense": 49323462.16,
+    "own_revenue_percentage": 17.2,
+    "transfers_revenue_percentage": 82.8,
+    "personnel_expense_percentage_rcl": 51.7
+  },
+  "per_capita_breakdown": {
+    "health": 1211.0,
+    "education": 1393.1,
+    "urbanism": 508.6,
+    "administration": 327.0,
+    "legislative": 85.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3770.1,
+      "health_per_capita": 944.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4049.4,
+      "health_per_capita": 1017.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4328.7,
+      "health_per_capita": 1089.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4561.4,
+      "health_per_capita": 1162.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4654.5,
+      "health_per_capita": 1211.0
+    }
+  ]
+}

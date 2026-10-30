@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2924405",
+  "city_name": "Pilão Arcado",
+  "uf": "BA",
+  "population": 35357,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 170447157.6,
+    "total_expense": 171742841.27,
+    "own_revenue_percentage": 26.9,
+    "transfers_revenue_percentage": 73.1,
+    "personnel_expense_percentage_rcl": 48.2
+  },
+  "per_capita_breakdown": {
+    "health": 1011.4,
+    "education": 1378.6,
+    "urbanism": 772.8,
+    "administration": 438.9,
+    "legislative": 153.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3934.5,
+      "health_per_capita": 788.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4225.9,
+      "health_per_capita": 849.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4517.4,
+      "health_per_capita": 910.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4760.3,
+      "health_per_capita": 970.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4857.4,
+      "health_per_capita": 1011.4
+    }
+  ]
+}

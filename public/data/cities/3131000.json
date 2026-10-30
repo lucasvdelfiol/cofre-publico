@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3131000",
+  "city_name": "Inhaúma",
+  "uf": "MG",
+  "population": 6239,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 31013733.26,
+    "total_expense": 30995620.91,
+    "own_revenue_percentage": 10.9,
+    "transfers_revenue_percentage": 89.1,
+    "personnel_expense_percentage_rcl": 48.9
+  },
+  "per_capita_breakdown": {
+    "health": 1210.2,
+    "education": 1397.1,
+    "urbanism": 607.4,
+    "administration": 478.8,
+    "legislative": 140.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4024.1,
+      "health_per_capita": 944.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4322.2,
+      "health_per_capita": 1016.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4620.2,
+      "health_per_capita": 1089.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4868.6,
+      "health_per_capita": 1161.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4968.0,
+      "health_per_capita": 1210.2
+    }
+  ]
+}

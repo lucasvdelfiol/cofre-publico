@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3543204",
+  "city_name": "Ribeirão do Sul",
+  "uf": "SP",
+  "population": 4677,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 20668918.93,
+    "total_expense": 20742706.01,
+    "own_revenue_percentage": 18.2,
+    "transfers_revenue_percentage": 81.8,
+    "personnel_expense_percentage_rcl": 45.7
+  },
+  "per_capita_breakdown": {
+    "health": 1104.5,
+    "education": 1140.3,
+    "urbanism": 461.0,
+    "administration": 430.9,
+    "legislative": 134.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3592.4,
+      "health_per_capita": 861.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3858.4,
+      "health_per_capita": 927.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4124.6,
+      "health_per_capita": 994.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4346.3,
+      "health_per_capita": 1060.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4435.0,
+      "health_per_capita": 1104.5
+    }
+  ]
+}

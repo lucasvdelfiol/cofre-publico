@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4209102",
+  "city_name": "Joinville",
+  "uf": "SC",
+  "population": 616317,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 3012749867.06,
+    "total_expense": 2990619301.18,
+    "own_revenue_percentage": 52.9,
+    "transfers_revenue_percentage": 47.1,
+    "personnel_expense_percentage_rcl": 44.9
+  },
+  "per_capita_breakdown": {
+    "health": 1180.1,
+    "education": 1399.5,
+    "urbanism": 573.1,
+    "administration": 334.8,
+    "legislative": 106.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3930.4,
+      "health_per_capita": 920.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4221.6,
+      "health_per_capita": 991.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4512.7,
+      "health_per_capita": 1062.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4755.4,
+      "health_per_capita": 1132.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4852.4,
+      "health_per_capita": 1180.1
+    }
+  ]
+}

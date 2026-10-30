@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4115457",
+  "city_name": "Marquinho",
+  "uf": "PR",
+  "population": 4504,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 20835176.85,
+    "total_expense": 21000652.29,
+    "own_revenue_percentage": 8.8,
+    "transfers_revenue_percentage": 91.2,
+    "personnel_expense_percentage_rcl": 53.1
+  },
+  "per_capita_breakdown": {
+    "health": 1181.5,
+    "education": 1138.7,
+    "urbanism": 611.9,
+    "administration": 477.9,
+    "legislative": 122.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3776.8,
+      "health_per_capita": 921.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4056.5,
+      "health_per_capita": 992.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4336.3,
+      "health_per_capita": 1063.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4569.4,
+      "health_per_capita": 1134.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4662.7,
+      "health_per_capita": 1181.5
+    }
+  ]
+}

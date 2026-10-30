@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4301552",
+  "city_name": "Áurea",
+  "uf": "RS",
+  "population": 3396,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 15487600.44,
+    "total_expense": 15359172.29,
+    "own_revenue_percentage": 10.3,
+    "transfers_revenue_percentage": 89.7,
+    "personnel_expense_percentage_rcl": 49.7
+  },
+  "per_capita_breakdown": {
+    "health": 986.5,
+    "education": 1221.9,
+    "urbanism": 444.9,
+    "administration": 470.6,
+    "legislative": 76.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3663.4,
+      "health_per_capita": 769.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3934.7,
+      "health_per_capita": 828.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4206.1,
+      "health_per_capita": 887.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4432.2,
+      "health_per_capita": 947.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4522.7,
+      "health_per_capita": 986.5
+    }
+  ]
+}

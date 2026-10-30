@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4303905",
+  "city_name": "Campo Bom",
+  "uf": "RS",
+  "population": 62886,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 300307887.48,
+    "total_expense": 290299121.31,
+    "own_revenue_percentage": 29.8,
+    "transfers_revenue_percentage": 70.2,
+    "personnel_expense_percentage_rcl": 49.4
+  },
+  "per_capita_breakdown": {
+    "health": 1279.9,
+    "education": 1154.1,
+    "urbanism": 616.2,
+    "administration": 424.2,
+    "legislative": 145.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3739.2,
+      "health_per_capita": 998.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4016.2,
+      "health_per_capita": 1075.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4293.2,
+      "health_per_capita": 1151.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4524.0,
+      "health_per_capita": 1228.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4616.3,
+      "health_per_capita": 1279.9
+    }
+  ]
+}

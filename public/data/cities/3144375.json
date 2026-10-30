@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3144375",
+  "city_name": "Natalândia",
+  "uf": "MG",
+  "population": 3520,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 18067876.71,
+    "total_expense": 17822208.46,
+    "own_revenue_percentage": 10.8,
+    "transfers_revenue_percentage": 89.2,
+    "personnel_expense_percentage_rcl": 48.2
+  },
+  "per_capita_breakdown": {
+    "health": 1264.5,
+    "education": 1518.3,
+    "urbanism": 681.1,
+    "administration": 328.9,
+    "legislative": 110.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4101.1,
+      "health_per_capita": 986.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4404.9,
+      "health_per_capita": 1062.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4708.7,
+      "health_per_capita": 1138.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4961.8,
+      "health_per_capita": 1213.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5063.1,
+      "health_per_capita": 1264.5
+    }
+  ]
+}

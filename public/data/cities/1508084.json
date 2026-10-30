@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1508084",
+  "city_name": "Tucumã",
+  "uf": "PA",
+  "population": 39550,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 178378610.51,
+    "total_expense": 174233007.66,
+    "own_revenue_percentage": 22.6,
+    "transfers_revenue_percentage": 77.4,
+    "personnel_expense_percentage_rcl": 52.6
+  },
+  "per_capita_breakdown": {
+    "health": 1082.7,
+    "education": 1080.0,
+    "urbanism": 701.1,
+    "administration": 408.6,
+    "legislative": 133.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3568.4,
+      "health_per_capita": 844.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3832.7,
+      "health_per_capita": 909.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4097.0,
+      "health_per_capita": 974.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4317.3,
+      "health_per_capita": 1039.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4405.4,
+      "health_per_capita": 1082.7
+    }
+  ]
+}

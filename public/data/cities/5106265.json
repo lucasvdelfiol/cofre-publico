@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5106265",
+  "city_name": "Novo Mundo",
+  "uf": "MT",
+  "population": 6520,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 33857583.8,
+    "total_expense": 32877328.96,
+    "own_revenue_percentage": 11.9,
+    "transfers_revenue_percentage": 88.1,
+    "personnel_expense_percentage_rcl": 52.8
+  },
+  "per_capita_breakdown": {
+    "health": 1017.8,
+    "education": 1242.3,
+    "urbanism": 744.9,
+    "administration": 443.6,
+    "legislative": 112.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4084.4,
+      "health_per_capita": 793.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4387.0,
+      "health_per_capita": 855.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4689.5,
+      "health_per_capita": 916.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4941.6,
+      "health_per_capita": 977.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5042.5,
+      "health_per_capita": 1017.8
+    }
+  ]
+}

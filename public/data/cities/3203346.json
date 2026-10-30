@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3203346",
+  "city_name": "Marechal Floriano",
+  "uf": "ES",
+  "population": 17641,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 86375389.06,
+    "total_expense": 86271757.58,
+    "own_revenue_percentage": 17.1,
+    "transfers_revenue_percentage": 82.9,
+    "personnel_expense_percentage_rcl": 51.7
+  },
+  "per_capita_breakdown": {
+    "health": 1204.2,
+    "education": 1366.3,
+    "urbanism": 660.7,
+    "administration": 369.6,
+    "legislative": 73.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3961.2,
+      "health_per_capita": 939.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4254.6,
+      "health_per_capita": 1011.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4548.1,
+      "health_per_capita": 1083.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4792.6,
+      "health_per_capita": 1156.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4890.4,
+      "health_per_capita": 1204.2
+    }
+  ]
+}

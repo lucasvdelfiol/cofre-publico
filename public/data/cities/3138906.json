@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3138906",
+  "city_name": "Machacalis",
+  "uf": "MG",
+  "population": 6487,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 32953845.96,
+    "total_expense": 32368667.02,
+    "own_revenue_percentage": 21.9,
+    "transfers_revenue_percentage": 78.1,
+    "personnel_expense_percentage_rcl": 49.2
+  },
+  "per_capita_breakdown": {
+    "health": 1332.2,
+    "education": 1470.0,
+    "urbanism": 547.9,
+    "administration": 446.6,
+    "legislative": 76.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4041.7,
+      "health_per_capita": 1039.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4341.1,
+      "health_per_capita": 1119.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4640.5,
+      "health_per_capita": 1199.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4890.0,
+      "health_per_capita": 1278.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4989.8,
+      "health_per_capita": 1332.2
+    }
+  ]
+}

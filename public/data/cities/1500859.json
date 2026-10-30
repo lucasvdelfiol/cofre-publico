@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1500859",
+  "city_name": "Anapu",
+  "uf": "PA",
+  "population": 31850,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 136344042.17,
+    "total_expense": 136823892.85,
+    "own_revenue_percentage": 23.7,
+    "transfers_revenue_percentage": 76.3,
+    "personnel_expense_percentage_rcl": 49.2
+  },
+  "per_capita_breakdown": {
+    "health": 924.2,
+    "education": 1089.0,
+    "urbanism": 613.4,
+    "administration": 352.0,
+    "legislative": 138.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3479.7,
+      "health_per_capita": 720.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3737.4,
+      "health_per_capita": 776.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3995.2,
+      "health_per_capita": 831.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4210.0,
+      "health_per_capita": 887.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4295.9,
+      "health_per_capita": 924.2
+    }
+  ]
+}

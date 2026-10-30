@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2404309",
+  "city_name": "Governador Dix-Sept Rosado",
+  "uf": "RN",
+  "population": 11938,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 62277107.14,
+    "total_expense": 60878925.64,
+    "own_revenue_percentage": 17.1,
+    "transfers_revenue_percentage": 82.9,
+    "personnel_expense_percentage_rcl": 50.0
+  },
+  "per_capita_breakdown": {
+    "health": 1238.3,
+    "education": 1506.8,
+    "urbanism": 738.8,
+    "administration": 421.7,
+    "legislative": 138.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4130.7,
+      "health_per_capita": 965.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4436.7,
+      "health_per_capita": 1040.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4742.6,
+      "health_per_capita": 1114.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4997.6,
+      "health_per_capita": 1188.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5099.6,
+      "health_per_capita": 1238.3
+    }
+  ]
+}

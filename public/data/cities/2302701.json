@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2302701",
+  "city_name": "Campos Sales",
+  "uf": "CE",
+  "population": 25135,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 109869885.15,
+    "total_expense": 110814996.64,
+    "own_revenue_percentage": 31.0,
+    "transfers_revenue_percentage": 69.0,
+    "personnel_expense_percentage_rcl": 48.9
+  },
+  "per_capita_breakdown": {
+    "health": 1051.0,
+    "education": 1378.9,
+    "urbanism": 659.9,
+    "administration": 427.9,
+    "legislative": 109.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3571.1,
+      "health_per_capita": 819.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3835.7,
+      "health_per_capita": 882.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4100.2,
+      "health_per_capita": 945.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4320.6,
+      "health_per_capita": 1009.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4408.8,
+      "health_per_capita": 1051.0
+    }
+  ]
+}

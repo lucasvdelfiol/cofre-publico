@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4320909",
+  "city_name": "Tapejara",
+  "uf": "RS",
+  "population": 24557,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 110430684.79,
+    "total_expense": 109103892.86,
+    "own_revenue_percentage": 31.7,
+    "transfers_revenue_percentage": 68.3,
+    "personnel_expense_percentage_rcl": 47.8
+  },
+  "per_capita_breakdown": {
+    "health": 1212.5,
+    "education": 1272.9,
+    "urbanism": 363.2,
+    "administration": 330.5,
+    "legislative": 85.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3598.7,
+      "health_per_capita": 945.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3865.3,
+      "health_per_capita": 1018.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4131.9,
+      "health_per_capita": 1091.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4354.0,
+      "health_per_capita": 1164.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4442.9,
+      "health_per_capita": 1212.5
+    }
+  ]
+}

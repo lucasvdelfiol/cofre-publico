@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2504702",
+  "city_name": "Congo",
+  "uf": "PB",
+  "population": 4933,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 25678411.89,
+    "total_expense": 25872582.12,
+    "own_revenue_percentage": 9.2,
+    "transfers_revenue_percentage": 90.8,
+    "personnel_expense_percentage_rcl": 48.6
+  },
+  "per_capita_breakdown": {
+    "health": 1158.1,
+    "education": 1404.0,
+    "urbanism": 810.9,
+    "administration": 455.9,
+    "legislative": 84.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4248.3,
+      "health_per_capita": 903.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4563.0,
+      "health_per_capita": 972.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4877.7,
+      "health_per_capita": 1042.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5139.9,
+      "health_per_capita": 1111.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5244.8,
+      "health_per_capita": 1158.1
+    }
+  ]
+}

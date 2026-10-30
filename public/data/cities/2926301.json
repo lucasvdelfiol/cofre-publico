@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2926301",
+  "city_name": "Riachão do Jacuípe",
+  "uf": "BA",
+  "population": 33386,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 154841159.29,
+    "total_expense": 150454613.01,
+    "own_revenue_percentage": 23.8,
+    "transfers_revenue_percentage": 76.2,
+    "personnel_expense_percentage_rcl": 53.5
+  },
+  "per_capita_breakdown": {
+    "health": 1117.5,
+    "education": 1100.0,
+    "urbanism": 423.6,
+    "administration": 408.3,
+    "legislative": 105.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3650.3,
+      "health_per_capita": 871.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3920.7,
+      "health_per_capita": 938.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4191.0,
+      "health_per_capita": 1005.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4416.4,
+      "health_per_capita": 1072.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4506.5,
+      "health_per_capita": 1117.5
+    }
+  ]
+}

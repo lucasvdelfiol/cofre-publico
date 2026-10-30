@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2501575",
+  "city_name": "Barra de Santana",
+  "uf": "PB",
+  "population": 8059,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 42327952.48,
+    "total_expense": 42124486.98,
+    "own_revenue_percentage": 16.9,
+    "transfers_revenue_percentage": 83.1,
+    "personnel_expense_percentage_rcl": 50.7
+  },
+  "per_capita_breakdown": {
+    "health": 1400.2,
+    "education": 1552.4,
+    "urbanism": 530.1,
+    "administration": 487.6,
+    "legislative": 127.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4233.9,
+      "health_per_capita": 1092.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4547.5,
+      "health_per_capita": 1176.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4861.1,
+      "health_per_capita": 1260.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5122.5,
+      "health_per_capita": 1344.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5227.0,
+      "health_per_capita": 1400.2
+    }
+  ]
+}

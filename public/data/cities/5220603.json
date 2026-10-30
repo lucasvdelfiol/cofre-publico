@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5220603",
+  "city_name": "Silvânia",
+  "uf": "GO",
+  "population": 22245,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 96328433.36,
+    "total_expense": 96397735.62,
+    "own_revenue_percentage": 20.6,
+    "transfers_revenue_percentage": 79.4,
+    "personnel_expense_percentage_rcl": 46.8
+  },
+  "per_capita_breakdown": {
+    "health": 1023.8,
+    "education": 1273.6,
+    "urbanism": 583.3,
+    "administration": 403.2,
+    "legislative": 148.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3510.1,
+      "health_per_capita": 798.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3770.1,
+      "health_per_capita": 860.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4030.2,
+      "health_per_capita": 921.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4246.8,
+      "health_per_capita": 982.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4333.5,
+      "health_per_capita": 1023.8
+    }
+  ]
+}

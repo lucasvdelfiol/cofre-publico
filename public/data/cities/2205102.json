@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2205102",
+  "city_name": "Itaueira",
+  "uf": "PI",
+  "population": 10323,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 56579096.78,
+    "total_expense": 54461927.94,
+    "own_revenue_percentage": 11.3,
+    "transfers_revenue_percentage": 88.7,
+    "personnel_expense_percentage_rcl": 47.4
+  },
+  "per_capita_breakdown": {
+    "health": 1402.9,
+    "education": 1433.8,
+    "urbanism": 440.5,
+    "administration": 439.8,
+    "legislative": 167.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4273.4,
+      "health_per_capita": 1094.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4589.9,
+      "health_per_capita": 1178.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4906.5,
+      "health_per_capita": 1262.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5170.3,
+      "health_per_capita": 1346.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5275.8,
+      "health_per_capita": 1402.9
+    }
+  ]
+}

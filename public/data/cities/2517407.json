@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2517407",
+  "city_name": "Zabelê",
+  "uf": "PB",
+  "population": 2228,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 11029026.44,
+    "total_expense": 10913472.05,
+    "own_revenue_percentage": 9.6,
+    "transfers_revenue_percentage": 90.4,
+    "personnel_expense_percentage_rcl": 53.2
+  },
+  "per_capita_breakdown": {
+    "health": 1080.9,
+    "education": 1178.3,
+    "urbanism": 509.8,
+    "administration": 376.5,
+    "legislative": 114.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3967.6,
+      "health_per_capita": 843.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4261.5,
+      "health_per_capita": 908.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4555.4,
+      "health_per_capita": 972.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4800.3,
+      "health_per_capita": 1037.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4898.3,
+      "health_per_capita": 1080.9
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3124708",
+  "city_name": "Estrela do Indaiá",
+  "uf": "MG",
+  "population": 2772,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 14342907.29,
+    "total_expense": 14246499.8,
+    "own_revenue_percentage": 19.7,
+    "transfers_revenue_percentage": 80.3,
+    "personnel_expense_percentage_rcl": 48.2
+  },
+  "per_capita_breakdown": {
+    "health": 1318.5,
+    "education": 1317.3,
+    "urbanism": 666.4,
+    "administration": 602.5,
+    "legislative": 111.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4162.9,
+      "health_per_capita": 1028.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4471.3,
+      "health_per_capita": 1107.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4779.6,
+      "health_per_capita": 1186.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5036.6,
+      "health_per_capita": 1265.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5139.4,
+      "health_per_capita": 1318.5
+    }
+  ]
+}

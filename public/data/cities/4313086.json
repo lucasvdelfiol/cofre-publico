@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4313086",
+  "city_name": "Nova Pádua",
+  "uf": "RS",
+  "population": 2343,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 12637677.41,
+    "total_expense": 12272808.31,
+    "own_revenue_percentage": 14.6,
+    "transfers_revenue_percentage": 85.4,
+    "personnel_expense_percentage_rcl": 47.2
+  },
+  "per_capita_breakdown": {
+    "health": 1061.3,
+    "education": 1590.7,
+    "urbanism": 464.1,
+    "administration": 560.9,
+    "legislative": 103.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4242.9,
+      "health_per_capita": 827.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4557.1,
+      "health_per_capita": 891.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4871.4,
+      "health_per_capita": 955.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5133.3,
+      "health_per_capita": 1018.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5238.1,
+      "health_per_capita": 1061.3
+    }
+  ]
+}

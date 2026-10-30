@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2912202",
+  "city_name": "Ibicoara",
+  "uf": "BA",
+  "population": 20785,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 92128949.32,
+    "total_expense": 89177093.07,
+    "own_revenue_percentage": 21.8,
+    "transfers_revenue_percentage": 78.2,
+    "personnel_expense_percentage_rcl": 51.1
+  },
+  "per_capita_breakdown": {
+    "health": 1151.4,
+    "education": 1330.0,
+    "urbanism": 430.1,
+    "administration": 427.7,
+    "legislative": 80.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3475.3,
+      "health_per_capita": 898.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3732.7,
+      "health_per_capita": 967.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3990.2,
+      "health_per_capita": 1036.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4204.7,
+      "health_per_capita": 1105.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4290.5,
+      "health_per_capita": 1151.4
+    }
+  ]
+}

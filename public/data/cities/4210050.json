@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4210050",
+  "city_name": "Macieira",
+  "uf": "SC",
+  "population": 1778,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 9410515.47,
+    "total_expense": 9440700.06,
+    "own_revenue_percentage": 13.5,
+    "transfers_revenue_percentage": 86.5,
+    "personnel_expense_percentage_rcl": 50.2
+  },
+  "per_capita_breakdown": {
+    "health": 1224.9,
+    "education": 1464.8,
+    "urbanism": 498.7,
+    "administration": 389.9,
+    "legislative": 160.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4300.9,
+      "health_per_capita": 955.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4619.4,
+      "health_per_capita": 1028.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4938.0,
+      "health_per_capita": 1102.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5203.5,
+      "health_per_capita": 1175.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5309.7,
+      "health_per_capita": 1224.9
+    }
+  ]
+}

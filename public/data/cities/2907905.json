@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2907905",
+  "city_name": "Cipó",
+  "uf": "BA",
+  "population": 17230,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 92649762.85,
+    "total_expense": 89154703.11,
+    "own_revenue_percentage": 8.0,
+    "transfers_revenue_percentage": 92.0,
+    "personnel_expense_percentage_rcl": 45.9
+  },
+  "per_capita_breakdown": {
+    "health": 1162.2,
+    "education": 1361.4,
+    "urbanism": 552.0,
+    "administration": 437.2,
+    "legislative": 167.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4191.3,
+      "health_per_capita": 906.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4501.7,
+      "health_per_capita": 976.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4812.2,
+      "health_per_capita": 1046.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5070.9,
+      "health_per_capita": 1115.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5174.4,
+      "health_per_capita": 1162.2
+    }
+  ]
+}

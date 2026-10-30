@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4322558",
+  "city_name": "Vanini",
+  "uf": "RS",
+  "population": 2004,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 10905469.54,
+    "total_expense": 10962898.23,
+    "own_revenue_percentage": 17.2,
+    "transfers_revenue_percentage": 82.8,
+    "personnel_expense_percentage_rcl": 51.0
+  },
+  "per_capita_breakdown": {
+    "health": 1139.8,
+    "education": 1510.3,
+    "urbanism": 534.0,
+    "administration": 336.6,
+    "legislative": 82.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4431.1,
+      "health_per_capita": 889.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4759.3,
+      "health_per_capita": 957.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5087.6,
+      "health_per_capita": 1025.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5361.1,
+      "health_per_capita": 1094.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5470.5,
+      "health_per_capita": 1139.8
+    }
+  ]
+}

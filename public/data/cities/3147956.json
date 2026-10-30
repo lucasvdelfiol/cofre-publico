@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3147956",
+  "city_name": "Patis",
+  "uf": "MG",
+  "population": 4837,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 21303663.73,
+    "total_expense": 20826028.22,
+    "own_revenue_percentage": 12.5,
+    "transfers_revenue_percentage": 87.5,
+    "personnel_expense_percentage_rcl": 46.2
+  },
+  "per_capita_breakdown": {
+    "health": 1204.5,
+    "education": 1063.8,
+    "urbanism": 459.9,
+    "administration": 448.7,
+    "legislative": 81.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3487.5,
+      "health_per_capita": 939.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3745.9,
+      "health_per_capita": 1011.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4004.2,
+      "health_per_capita": 1084.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4219.5,
+      "health_per_capita": 1156.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4305.6,
+      "health_per_capita": 1204.5
+    }
+  ]
+}

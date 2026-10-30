@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5002100",
+  "city_name": "Bela Vista",
+  "uf": "MS",
+  "population": 21613,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 100977138.01,
+    "total_expense": 97344395.06,
+    "own_revenue_percentage": 25.8,
+    "transfers_revenue_percentage": 74.2,
+    "personnel_expense_percentage_rcl": 49.7
+  },
+  "per_capita_breakdown": {
+    "health": 1076.5,
+    "education": 1188.1,
+    "urbanism": 416.1,
+    "administration": 322.7,
+    "legislative": 75.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3648.2,
+      "health_per_capita": 839.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3918.5,
+      "health_per_capita": 904.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4188.7,
+      "health_per_capita": 968.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4413.9,
+      "health_per_capita": 1033.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4504.0,
+      "health_per_capita": 1076.5
+    }
+  ]
+}

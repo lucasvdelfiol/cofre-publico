@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4207403",
+  "city_name": "Imbuia",
+  "uf": "SC",
+  "population": 5982,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 25804518.48,
+    "total_expense": 26043311.12,
+    "own_revenue_percentage": 11.3,
+    "transfers_revenue_percentage": 88.7,
+    "personnel_expense_percentage_rcl": 48.4
+  },
+  "per_capita_breakdown": {
+    "health": 1155.4,
+    "education": 1350.3,
+    "urbanism": 501.8,
+    "administration": 288.3,
+    "legislative": 76.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3526.4,
+      "health_per_capita": 901.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3787.6,
+      "health_per_capita": 970.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4048.8,
+      "health_per_capita": 1039.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4266.5,
+      "health_per_capita": 1109.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4353.6,
+      "health_per_capita": 1155.4
+    }
+  ]
+}

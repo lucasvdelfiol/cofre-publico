@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2906006",
+  "city_name": "Campo Formoso",
+  "uf": "BA",
+  "population": 71377,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 300537412.68,
+    "total_expense": 303020071.36,
+    "own_revenue_percentage": 29.3,
+    "transfers_revenue_percentage": 70.7,
+    "personnel_expense_percentage_rcl": 51.8
+  },
+  "per_capita_breakdown": {
+    "health": 981.4,
+    "education": 1282.7,
+    "urbanism": 521.0,
+    "administration": 267.0,
+    "legislative": 71.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3438.7,
+      "health_per_capita": 765.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3693.4,
+      "health_per_capita": 824.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3948.1,
+      "health_per_capita": 883.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4160.4,
+      "health_per_capita": 942.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4245.3,
+      "health_per_capita": 981.4
+    }
+  ]
+}

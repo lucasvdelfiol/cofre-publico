@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1702208",
+  "city_name": "Araguatins",
+  "uf": "TO",
+  "population": 31918,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 151117274.68,
+    "total_expense": 147040141.73,
+    "own_revenue_percentage": 21.7,
+    "transfers_revenue_percentage": 78.3,
+    "personnel_expense_percentage_rcl": 50.9
+  },
+  "per_capita_breakdown": {
+    "health": 1120.1,
+    "education": 1390.0,
+    "urbanism": 726.0,
+    "administration": 388.8,
+    "legislative": 128.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3731.5,
+      "health_per_capita": 873.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4007.9,
+      "health_per_capita": 940.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4284.3,
+      "health_per_capita": 1008.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4514.7,
+      "health_per_capita": 1075.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4606.8,
+      "health_per_capita": 1120.1
+    }
+  ]
+}

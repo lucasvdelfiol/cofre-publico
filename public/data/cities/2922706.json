@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2922706",
+  "city_name": "Nova Canaã",
+  "uf": "BA",
+  "population": 13715,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 67500762.06,
+    "total_expense": 65756336.76,
+    "own_revenue_percentage": 18.7,
+    "transfers_revenue_percentage": 81.3,
+    "personnel_expense_percentage_rcl": 53.8
+  },
+  "per_capita_breakdown": {
+    "health": 997.1,
+    "education": 1254.7,
+    "urbanism": 527.2,
+    "administration": 407.3,
+    "legislative": 106.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3883.5,
+      "health_per_capita": 777.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4171.2,
+      "health_per_capita": 837.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4458.9,
+      "health_per_capita": 897.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4698.6,
+      "health_per_capita": 957.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4794.5,
+      "health_per_capita": 997.1
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3151909",
+  "city_name": "Pocrane",
+  "uf": "MG",
+  "population": 8350,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 46059685.59,
+    "total_expense": 46085550.46,
+    "own_revenue_percentage": 8.8,
+    "transfers_revenue_percentage": 91.2,
+    "personnel_expense_percentage_rcl": 52.2
+  },
+  "per_capita_breakdown": {
+    "health": 1228.4,
+    "education": 1519.7,
+    "urbanism": 462.9,
+    "administration": 482.0,
+    "legislative": 167.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4470.6,
+      "health_per_capita": 958.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4801.7,
+      "health_per_capita": 1031.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5132.9,
+      "health_per_capita": 1105.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5408.8,
+      "health_per_capita": 1179.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5519.2,
+      "health_per_capita": 1228.4
+    }
+  ]
+}

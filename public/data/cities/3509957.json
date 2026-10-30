@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3509957",
+  "city_name": "Canas",
+  "uf": "SP",
+  "population": 4931,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 24181091.87,
+    "total_expense": 23787173.56,
+    "own_revenue_percentage": 16.2,
+    "transfers_revenue_percentage": 83.8,
+    "personnel_expense_percentage_rcl": 50.4
+  },
+  "per_capita_breakdown": {
+    "health": 1057.8,
+    "education": 1241.0,
+    "urbanism": 649.4,
+    "administration": 352.4,
+    "legislative": 113.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3907.4,
+      "health_per_capita": 825.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4196.9,
+      "health_per_capita": 888.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4486.3,
+      "health_per_capita": 952.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4727.5,
+      "health_per_capita": 1015.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4824.0,
+      "health_per_capita": 1057.8
+    }
+  ]
+}

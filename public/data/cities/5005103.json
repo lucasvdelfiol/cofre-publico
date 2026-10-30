@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5005103",
+  "city_name": "Jateí",
+  "uf": "MS",
+  "population": 3586,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 15801993.97,
+    "total_expense": 15802983.42,
+    "own_revenue_percentage": 15.7,
+    "transfers_revenue_percentage": 84.3,
+    "personnel_expense_percentage_rcl": 52.0
+  },
+  "per_capita_breakdown": {
+    "health": 1181.1,
+    "education": 1130.8,
+    "urbanism": 648.0,
+    "administration": 489.1,
+    "legislative": 149.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3569.6,
+      "health_per_capita": 921.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3834.0,
+      "health_per_capita": 992.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4098.4,
+      "health_per_capita": 1063.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4318.8,
+      "health_per_capita": 1133.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4406.9,
+      "health_per_capita": 1181.1
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2205805",
+  "city_name": "Luzilândia",
+  "uf": "PI",
+  "population": 25375,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 122262212.55,
+    "total_expense": 118477331.25,
+    "own_revenue_percentage": 22.7,
+    "transfers_revenue_percentage": 77.3,
+    "personnel_expense_percentage_rcl": 48.8
+  },
+  "per_capita_breakdown": {
+    "health": 1060.1,
+    "education": 1146.7,
+    "urbanism": 609.5,
+    "administration": 286.3,
+    "legislative": 140.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3782.0,
+      "health_per_capita": 826.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4062.1,
+      "health_per_capita": 890.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4342.3,
+      "health_per_capita": 954.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4575.7,
+      "health_per_capita": 1017.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4669.1,
+      "health_per_capita": 1060.1
+    }
+  ]
+}

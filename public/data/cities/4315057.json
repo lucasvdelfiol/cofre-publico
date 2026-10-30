@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4315057",
+  "city_name": "Porto Mauá",
+  "uf": "RS",
+  "population": 2142,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 9810209.52,
+    "total_expense": 9843343.1,
+    "own_revenue_percentage": 10.0,
+    "transfers_revenue_percentage": 90.0,
+    "personnel_expense_percentage_rcl": 49.2
+  },
+  "per_capita_breakdown": {
+    "health": 1191.7,
+    "education": 1388.3,
+    "urbanism": 553.1,
+    "administration": 289.0,
+    "legislative": 72.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3722.3,
+      "health_per_capita": 929.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3998.0,
+      "health_per_capita": 1001.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4273.7,
+      "health_per_capita": 1072.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4503.5,
+      "health_per_capita": 1144.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4595.4,
+      "health_per_capita": 1191.7
+    }
+  ]
+}

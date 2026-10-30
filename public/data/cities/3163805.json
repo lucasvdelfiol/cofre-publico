@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3163805",
+  "city_name": "São Miguel do Anta",
+  "uf": "MG",
+  "population": 6334,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 29169644.41,
+    "total_expense": 28799979.5,
+    "own_revenue_percentage": 15.3,
+    "transfers_revenue_percentage": 84.7,
+    "personnel_expense_percentage_rcl": 53.5
+  },
+  "per_capita_breakdown": {
+    "health": 932.3,
+    "education": 1221.2,
+    "urbanism": 398.5,
+    "administration": 314.4,
+    "legislative": 100.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3683.0,
+      "health_per_capita": 727.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3955.8,
+      "health_per_capita": 783.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4228.6,
+      "health_per_capita": 839.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4456.0,
+      "health_per_capita": 895.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4546.9,
+      "health_per_capita": 932.3
+    }
+  ]
+}

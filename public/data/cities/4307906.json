@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4307906",
+  "city_name": "Farroupilha",
+  "uf": "RS",
+  "population": 70286,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 351922450.69,
+    "total_expense": 346926382.04,
+    "own_revenue_percentage": 28.7,
+    "transfers_revenue_percentage": 71.3,
+    "personnel_expense_percentage_rcl": 51.2
+  },
+  "per_capita_breakdown": {
+    "health": 1179.2,
+    "education": 1349.7,
+    "urbanism": 729.7,
+    "administration": 317.6,
+    "legislative": 156.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3998.1,
+      "health_per_capita": 919.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4294.2,
+      "health_per_capita": 990.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4590.4,
+      "health_per_capita": 1061.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4837.2,
+      "health_per_capita": 1132.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4935.9,
+      "health_per_capita": 1179.2
+    }
+  ]
+}

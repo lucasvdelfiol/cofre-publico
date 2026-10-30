@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2110609",
+  "city_name": "São Bernardo",
+  "uf": "MA",
+  "population": 26943,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 111473783.46,
+    "total_expense": 111439127.95,
+    "own_revenue_percentage": 29.8,
+    "transfers_revenue_percentage": 70.2,
+    "personnel_expense_percentage_rcl": 50.3
+  },
+  "per_capita_breakdown": {
+    "health": 841.3,
+    "education": 1208.9,
+    "urbanism": 347.3,
+    "administration": 303.3,
+    "legislative": 114.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3350.2,
+      "health_per_capita": 656.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3598.4,
+      "health_per_capita": 706.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3846.6,
+      "health_per_capita": 757.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4053.4,
+      "health_per_capita": 807.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4136.1,
+      "health_per_capita": 841.3
+    }
+  ]
+}

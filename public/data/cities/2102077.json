@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2102077",
+  "city_name": "Bom Lugar",
+  "uf": "MA",
+  "population": 12212,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 60731439.93,
+    "total_expense": 59252004.23,
+    "own_revenue_percentage": 13.0,
+    "transfers_revenue_percentage": 87.0,
+    "personnel_expense_percentage_rcl": 50.9
+  },
+  "per_capita_breakdown": {
+    "health": 1116.3,
+    "education": 1253.7,
+    "urbanism": 404.2,
+    "administration": 540.4,
+    "legislative": 89.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3930.0,
+      "health_per_capita": 870.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4221.2,
+      "health_per_capita": 937.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4512.3,
+      "health_per_capita": 1004.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4754.9,
+      "health_per_capita": 1071.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4851.9,
+      "health_per_capita": 1116.3
+    }
+  ]
+}

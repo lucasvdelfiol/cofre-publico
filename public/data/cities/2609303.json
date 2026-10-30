@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2609303",
+  "city_name": "Mirandiba",
+  "uf": "PE",
+  "population": 14166,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 77306273.93,
+    "total_expense": 77632318.2,
+    "own_revenue_percentage": 15.2,
+    "transfers_revenue_percentage": 84.8,
+    "personnel_expense_percentage_rcl": 53.2
+  },
+  "per_capita_breakdown": {
+    "health": 1142.6,
+    "education": 1449.8,
+    "urbanism": 613.8,
+    "administration": 548.5,
+    "legislative": 115.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4439.0,
+      "health_per_capita": 891.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4767.8,
+      "health_per_capita": 959.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5096.6,
+      "health_per_capita": 1028.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5370.6,
+      "health_per_capita": 1096.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5480.2,
+      "health_per_capita": 1142.6
+    }
+  ]
+}

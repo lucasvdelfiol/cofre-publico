@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4315503",
+  "city_name": "Restinga Sêca",
+  "uf": "RS",
+  "population": 14939,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 82520813.24,
+    "total_expense": 82946965.64,
+    "own_revenue_percentage": 19.4,
+    "transfers_revenue_percentage": 80.6,
+    "personnel_expense_percentage_rcl": 46.9
+  },
+  "per_capita_breakdown": {
+    "health": 1349.4,
+    "education": 1662.7,
+    "urbanism": 518.3,
+    "administration": 397.4,
+    "legislative": 186.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4497.4,
+      "health_per_capita": 1052.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4830.6,
+      "health_per_capita": 1133.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5163.7,
+      "health_per_capita": 1214.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5441.4,
+      "health_per_capita": 1295.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5552.4,
+      "health_per_capita": 1349.4
+    }
+  ]
+}

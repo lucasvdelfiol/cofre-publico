@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3159308",
+  "city_name": "Santa Rita de Jacutinga",
+  "uf": "MG",
+  "population": 4755,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 25789953.64,
+    "total_expense": 25436210.45,
+    "own_revenue_percentage": 8.8,
+    "transfers_revenue_percentage": 91.2,
+    "personnel_expense_percentage_rcl": 50.6
+  },
+  "per_capita_breakdown": {
+    "health": 1472.7,
+    "education": 1393.4,
+    "urbanism": 566.2,
+    "administration": 549.6,
+    "legislative": 149.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4333.0,
+      "health_per_capita": 1148.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4654.0,
+      "health_per_capita": 1237.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4974.9,
+      "health_per_capita": 1325.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5242.4,
+      "health_per_capita": 1413.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5349.4,
+      "health_per_capita": 1472.7
+    }
+  ]
+}

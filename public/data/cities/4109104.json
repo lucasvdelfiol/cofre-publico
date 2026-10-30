@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4109104",
+  "city_name": "Guaporema",
+  "uf": "PR",
+  "population": 2191,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 9813118.89,
+    "total_expense": 9752422.39,
+    "own_revenue_percentage": 11.4,
+    "transfers_revenue_percentage": 88.6,
+    "personnel_expense_percentage_rcl": 53.7
+  },
+  "per_capita_breakdown": {
+    "health": 990.3,
+    "education": 1152.6,
+    "urbanism": 673.7,
+    "administration": 313.7,
+    "legislative": 91.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3605.4,
+      "health_per_capita": 772.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3872.5,
+      "health_per_capita": 831.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4139.5,
+      "health_per_capita": 891.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4362.1,
+      "health_per_capita": 950.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4451.1,
+      "health_per_capita": 990.3
+    }
+  ]
+}

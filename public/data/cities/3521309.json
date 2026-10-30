@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3521309",
+  "city_name": "Ipuã",
+  "uf": "SP",
+  "population": 14454,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 79923993.33,
+    "total_expense": 78323132.37,
+    "own_revenue_percentage": 11.5,
+    "transfers_revenue_percentage": 88.5,
+    "personnel_expense_percentage_rcl": 49.8
+  },
+  "per_capita_breakdown": {
+    "health": 1485.4,
+    "education": 1632.2,
+    "urbanism": 588.1,
+    "administration": 523.7,
+    "legislative": 112.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4389.2,
+      "health_per_capita": 1158.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4714.4,
+      "health_per_capita": 1247.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5039.5,
+      "health_per_capita": 1336.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5310.4,
+      "health_per_capita": 1426.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5418.8,
+      "health_per_capita": 1485.4
+    }
+  ]
+}

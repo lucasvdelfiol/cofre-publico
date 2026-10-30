@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3535002",
+  "city_name": "Palestina",
+  "uf": "SP",
+  "population": 11476,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 56385291.35,
+    "total_expense": 55770787.58,
+    "own_revenue_percentage": 8.5,
+    "transfers_revenue_percentage": 91.5,
+    "personnel_expense_percentage_rcl": 53.1
+  },
+  "per_capita_breakdown": {
+    "health": 1193.8,
+    "education": 1291.7,
+    "urbanism": 620.2,
+    "administration": 535.0,
+    "legislative": 142.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3936.4,
+      "health_per_capita": 931.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4228.0,
+      "health_per_capita": 1002.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4519.6,
+      "health_per_capita": 1074.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4762.6,
+      "health_per_capita": 1146.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4859.8,
+      "health_per_capita": 1193.8
+    }
+  ]
+}

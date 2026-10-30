@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3518909",
+  "city_name": "Guzolândia",
+  "uf": "SP",
+  "population": 4246,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 20191719.54,
+    "total_expense": 20008940.08,
+    "own_revenue_percentage": 21.4,
+    "transfers_revenue_percentage": 78.6,
+    "personnel_expense_percentage_rcl": 47.3
+  },
+  "per_capita_breakdown": {
+    "health": 1155.9,
+    "education": 1217.3,
+    "urbanism": 497.1,
+    "administration": 355.1,
+    "legislative": 116.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3817.0,
+      "health_per_capita": 901.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4099.8,
+      "health_per_capita": 971.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4382.5,
+      "health_per_capita": 1040.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4618.2,
+      "health_per_capita": 1109.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4712.4,
+      "health_per_capita": 1155.9
+    }
+  ]
+}

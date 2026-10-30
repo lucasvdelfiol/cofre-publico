@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2305407",
+  "city_name": "Icó",
+  "uf": "CE",
+  "population": 62642,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 270949034.3,
+    "total_expense": 264941179.94,
+    "own_revenue_percentage": 28.4,
+    "transfers_revenue_percentage": 71.6,
+    "personnel_expense_percentage_rcl": 47.4
+  },
+  "per_capita_breakdown": {
+    "health": 1041.9,
+    "education": 1166.7,
+    "urbanism": 501.8,
+    "administration": 392.8,
+    "legislative": 122.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3425.8,
+      "health_per_capita": 812.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3679.6,
+      "health_per_capita": 875.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3933.3,
+      "health_per_capita": 937.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4144.8,
+      "health_per_capita": 1000.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4229.4,
+      "health_per_capita": 1041.9
+    }
+  ]
+}

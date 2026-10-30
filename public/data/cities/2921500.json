@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2921500",
+  "city_name": "Monte Santo",
+  "uf": "BA",
+  "population": 47780,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 206664963.76,
+    "total_expense": 208084114.93,
+    "own_revenue_percentage": 23.3,
+    "transfers_revenue_percentage": 76.7,
+    "personnel_expense_percentage_rcl": 52.4
+  },
+  "per_capita_breakdown": {
+    "health": 911.7,
+    "education": 1149.6,
+    "urbanism": 658.7,
+    "administration": 426.3,
+    "legislative": 108.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3527.6,
+      "health_per_capita": 711.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3788.8,
+      "health_per_capita": 765.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4050.2,
+      "health_per_capita": 820.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4267.9,
+      "health_per_capita": 875.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4355.0,
+      "health_per_capita": 911.7
+    }
+  ]
+}

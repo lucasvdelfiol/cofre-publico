@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2202174",
+  "city_name": "Campo Largo do Piauí",
+  "uf": "PI",
+  "population": 7419,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 37540614.01,
+    "total_expense": 37571995.55,
+    "own_revenue_percentage": 12.5,
+    "transfers_revenue_percentage": 87.5,
+    "personnel_expense_percentage_rcl": 48.0
+  },
+  "per_capita_breakdown": {
+    "health": 1331.7,
+    "education": 1288.1,
+    "urbanism": 777.9,
+    "administration": 558.4,
+    "legislative": 100.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4102.1,
+      "health_per_capita": 1038.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4405.9,
+      "health_per_capita": 1118.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4709.8,
+      "health_per_capita": 1198.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4963.0,
+      "health_per_capita": 1278.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5064.3,
+      "health_per_capita": 1331.7
+    }
+  ]
+}

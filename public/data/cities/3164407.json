@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3164407",
+  "city_name": "São Sebastião da Bela Vista",
+  "uf": "MG",
+  "population": 6387,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 31623295.14,
+    "total_expense": 31518742.24,
+    "own_revenue_percentage": 21.4,
+    "transfers_revenue_percentage": 78.6,
+    "personnel_expense_percentage_rcl": 47.0
+  },
+  "per_capita_breakdown": {
+    "health": 1236.9,
+    "education": 1340.0,
+    "urbanism": 700.9,
+    "administration": 321.0,
+    "legislative": 79.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3997.2,
+      "health_per_capita": 964.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4293.3,
+      "health_per_capita": 1039.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4589.4,
+      "health_per_capita": 1113.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4836.1,
+      "health_per_capita": 1187.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4934.8,
+      "health_per_capita": 1236.9
+    }
+  ]
+}

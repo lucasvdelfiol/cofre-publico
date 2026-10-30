@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3123809",
+  "city_name": "Engenheiro Navarro",
+  "uf": "MG",
+  "population": 6354,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 34068864.93,
+    "total_expense": 33544877.71,
+    "own_revenue_percentage": 9.8,
+    "transfers_revenue_percentage": 90.2,
+    "personnel_expense_percentage_rcl": 50.5
+  },
+  "per_capita_breakdown": {
+    "health": 1247.9,
+    "education": 1532.4,
+    "urbanism": 425.0,
+    "administration": 627.9,
+    "legislative": 165.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4276.2,
+      "health_per_capita": 973.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4593.0,
+      "health_per_capita": 1048.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4909.7,
+      "health_per_capita": 1123.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5173.7,
+      "health_per_capita": 1198.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5279.3,
+      "health_per_capita": 1247.9
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3113305",
+  "city_name": "Carangola",
+  "uf": "MG",
+  "population": 31240,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 145414411.81,
+    "total_expense": 143048703.95,
+    "own_revenue_percentage": 25.8,
+    "transfers_revenue_percentage": 74.2,
+    "personnel_expense_percentage_rcl": 53.2
+  },
+  "per_capita_breakdown": {
+    "health": 1123.0,
+    "education": 1350.5,
+    "urbanism": 437.8,
+    "administration": 546.4,
+    "legislative": 89.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3709.0,
+      "health_per_capita": 875.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3983.7,
+      "health_per_capita": 943.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4258.5,
+      "health_per_capita": 1010.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4487.4,
+      "health_per_capita": 1078.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4579.0,
+      "health_per_capita": 1123.0
+    }
+  ]
+}

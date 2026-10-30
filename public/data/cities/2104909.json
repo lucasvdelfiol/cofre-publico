@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2104909",
+  "city_name": "Guimarães",
+  "uf": "MA",
+  "population": 10290,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 48645353.86,
+    "total_expense": 48383668.4,
+    "own_revenue_percentage": 9.5,
+    "transfers_revenue_percentage": 90.5,
+    "personnel_expense_percentage_rcl": 47.9
+  },
+  "per_capita_breakdown": {
+    "health": 946.4,
+    "education": 1306.7,
+    "urbanism": 634.5,
+    "administration": 285.3,
+    "legislative": 164.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3808.6,
+      "health_per_capita": 738.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4090.7,
+      "health_per_capita": 795.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4372.9,
+      "health_per_capita": 851.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4608.0,
+      "health_per_capita": 908.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4702.0,
+      "health_per_capita": 946.4
+    }
+  ]
+}

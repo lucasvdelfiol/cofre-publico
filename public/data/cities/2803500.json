@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2803500",
+  "city_name": "Lagarto",
+  "uf": "SE",
+  "population": 101579,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 490973735.26,
+    "total_expense": 472956268.46,
+    "own_revenue_percentage": 38.4,
+    "transfers_revenue_percentage": 61.6,
+    "personnel_expense_percentage_rcl": 45.5
+  },
+  "per_capita_breakdown": {
+    "health": 1131.6,
+    "education": 1151.0,
+    "urbanism": 670.6,
+    "administration": 523.6,
+    "legislative": 152.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3771.4,
+      "health_per_capita": 882.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4050.7,
+      "health_per_capita": 950.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4330.1,
+      "health_per_capita": 1018.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4562.9,
+      "health_per_capita": 1086.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4656.0,
+      "health_per_capita": 1131.6
+    }
+  ]
+}

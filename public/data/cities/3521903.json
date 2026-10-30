@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3521903",
+  "city_name": "Itajobi",
+  "uf": "SP",
+  "population": 16989,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 80100042.97,
+    "total_expense": 78383237.79,
+    "own_revenue_percentage": 16.6,
+    "transfers_revenue_percentage": 83.4,
+    "personnel_expense_percentage_rcl": 48.2
+  },
+  "per_capita_breakdown": {
+    "health": 1228.1,
+    "education": 1259.4,
+    "urbanism": 539.8,
+    "administration": 368.7,
+    "legislative": 90.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3737.2,
+      "health_per_capita": 957.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4014.0,
+      "health_per_capita": 1031.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4290.8,
+      "health_per_capita": 1105.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4521.5,
+      "health_per_capita": 1179.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4613.8,
+      "health_per_capita": 1228.1
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3165909",
+  "city_name": "Senador Modestino Gonçalves",
+  "uf": "MG",
+  "population": 4008,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 17787084.22,
+    "total_expense": 17380714.96,
+    "own_revenue_percentage": 18.5,
+    "transfers_revenue_percentage": 81.5,
+    "personnel_expense_percentage_rcl": 51.3
+  },
+  "per_capita_breakdown": {
+    "health": 1162.6,
+    "education": 1276.9,
+    "urbanism": 502.6,
+    "administration": 262.4,
+    "legislative": 144.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3512.6,
+      "health_per_capita": 906.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3772.8,
+      "health_per_capita": 976.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4032.9,
+      "health_per_capita": 1046.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4249.8,
+      "health_per_capita": 1116.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4336.5,
+      "health_per_capita": 1162.6
+    }
+  ]
+}

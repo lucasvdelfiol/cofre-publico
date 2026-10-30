@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2608206",
+  "city_name": "Joaquim Nabuco",
+  "uf": "PE",
+  "population": 13269,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 66928375.27,
+    "total_expense": 65915636.04,
+    "own_revenue_percentage": 17.5,
+    "transfers_revenue_percentage": 82.5,
+    "personnel_expense_percentage_rcl": 48.4
+  },
+  "per_capita_breakdown": {
+    "health": 1211.7,
+    "education": 1509.7,
+    "urbanism": 603.0,
+    "administration": 547.4,
+    "legislative": 157.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4023.8,
+      "health_per_capita": 945.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4321.8,
+      "health_per_capita": 1017.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4619.9,
+      "health_per_capita": 1090.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4868.2,
+      "health_per_capita": 1163.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4967.6,
+      "health_per_capita": 1211.7
+    }
+  ]
+}

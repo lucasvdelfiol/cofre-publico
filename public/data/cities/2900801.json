@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2900801",
+  "city_name": "Alcobaça",
+  "uf": "BA",
+  "population": 24530,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 117200762.59,
+    "total_expense": 116576814.98,
+    "own_revenue_percentage": 20.5,
+    "transfers_revenue_percentage": 79.5,
+    "personnel_expense_percentage_rcl": 48.6
+  },
+  "per_capita_breakdown": {
+    "health": 1253.9,
+    "education": 1496.1,
+    "urbanism": 584.4,
+    "administration": 540.0,
+    "legislative": 145.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3849.4,
+      "health_per_capita": 978.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4134.6,
+      "health_per_capita": 1053.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4419.7,
+      "health_per_capita": 1128.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4657.4,
+      "health_per_capita": 1203.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4752.4,
+      "health_per_capita": 1253.9
+    }
+  ]
+}

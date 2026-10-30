@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2111631",
+  "city_name": "São Raimundo do Doca Bezerra",
+  "uf": "MA",
+  "population": 5650,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 28240886.13,
+    "total_expense": 28201160.17,
+    "own_revenue_percentage": 11.7,
+    "transfers_revenue_percentage": 88.3,
+    "personnel_expense_percentage_rcl": 53.1
+  },
+  "per_capita_breakdown": {
+    "health": 1174.1,
+    "education": 1549.8,
+    "urbanism": 644.9,
+    "administration": 426.5,
+    "legislative": 168.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4043.0,
+      "health_per_capita": 915.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4342.5,
+      "health_per_capita": 986.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4642.0,
+      "health_per_capita": 1056.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4891.6,
+      "health_per_capita": 1127.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4991.4,
+      "health_per_capita": 1174.1
+    }
+  ]
+}

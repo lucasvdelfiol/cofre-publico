@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3143302",
+  "city_name": "Montes Claros",
+  "uf": "MG",
+  "population": 414240,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 2237104375.73,
+    "total_expense": 2243978665.78,
+    "own_revenue_percentage": 53.4,
+    "transfers_revenue_percentage": 46.6,
+    "personnel_expense_percentage_rcl": 45.8
+  },
+  "per_capita_breakdown": {
+    "health": 1367.6,
+    "education": 1462.3,
+    "urbanism": 733.6,
+    "administration": 457.3,
+    "legislative": 162.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4387.9,
+      "health_per_capita": 1066.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4712.9,
+      "health_per_capita": 1148.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5037.9,
+      "health_per_capita": 1230.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5308.8,
+      "health_per_capita": 1312.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5417.1,
+      "health_per_capita": 1367.6
+    }
+  ]
+}

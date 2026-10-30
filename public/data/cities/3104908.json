@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3104908",
+  "city_name": "Baependi",
+  "uf": "MG",
+  "population": 18366,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 95791488.91,
+    "total_expense": 95174127.37,
+    "own_revenue_percentage": 18.9,
+    "transfers_revenue_percentage": 81.1,
+    "personnel_expense_percentage_rcl": 52.9
+  },
+  "per_capita_breakdown": {
+    "health": 1165.6,
+    "education": 1651.3,
+    "urbanism": 660.8,
+    "administration": 379.7,
+    "legislative": 174.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4197.5,
+      "health_per_capita": 909.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4508.4,
+      "health_per_capita": 979.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4819.4,
+      "health_per_capita": 1049.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5078.5,
+      "health_per_capita": 1119.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5182.1,
+      "health_per_capita": 1165.6
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2101509",
+  "city_name": "Barão de Grajaú",
+  "uf": "MA",
+  "population": 18984,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 102603395.69,
+    "total_expense": 101499623.63,
+    "own_revenue_percentage": 9.2,
+    "transfers_revenue_percentage": 90.8,
+    "personnel_expense_percentage_rcl": 47.4
+  },
+  "per_capita_breakdown": {
+    "health": 1434.7,
+    "education": 1588.9,
+    "urbanism": 547.3,
+    "administration": 356.0,
+    "legislative": 166.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4330.7,
+      "health_per_capita": 1119.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4651.5,
+      "health_per_capita": 1205.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4972.3,
+      "health_per_capita": 1291.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5239.7,
+      "health_per_capita": 1377.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5346.6,
+      "health_per_capita": 1434.7
+    }
+  ]
+}

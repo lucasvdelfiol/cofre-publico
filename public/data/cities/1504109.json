@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1504109",
+  "city_name": "Magalhães Barata",
+  "uf": "PA",
+  "population": 8115,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 46473929.75,
+    "total_expense": 44698680.87,
+    "own_revenue_percentage": 11.2,
+    "transfers_revenue_percentage": 88.8,
+    "personnel_expense_percentage_rcl": 48.7
+  },
+  "per_capita_breakdown": {
+    "health": 1118.8,
+    "education": 1339.3,
+    "urbanism": 734.0,
+    "administration": 362.0,
+    "legislative": 160.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4461.6,
+      "health_per_capita": 872.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4792.1,
+      "health_per_capita": 939.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5122.6,
+      "health_per_capita": 1006.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5398.0,
+      "health_per_capita": 1074.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5508.2,
+      "health_per_capita": 1118.8
+    }
+  ]
+}

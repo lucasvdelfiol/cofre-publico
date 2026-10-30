@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4123402",
+  "city_name": "Santa Fé",
+  "uf": "PR",
+  "population": 11378,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 63551964.52,
+    "total_expense": 62341793.11,
+    "own_revenue_percentage": 11.9,
+    "transfers_revenue_percentage": 88.1,
+    "personnel_expense_percentage_rcl": 49.1
+  },
+  "per_capita_breakdown": {
+    "health": 1273.4,
+    "education": 1345.1,
+    "urbanism": 683.1,
+    "administration": 356.6,
+    "legislative": 96.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4438.2,
+      "health_per_capita": 993.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4766.9,
+      "health_per_capita": 1069.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5095.7,
+      "health_per_capita": 1146.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5369.6,
+      "health_per_capita": 1222.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5479.2,
+      "health_per_capita": 1273.4
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4103305",
+  "city_name": "Borrazópolis",
+  "uf": "PR",
+  "population": 7735,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 36275620.36,
+    "total_expense": 36266655.75,
+    "own_revenue_percentage": 10.2,
+    "transfers_revenue_percentage": 89.8,
+    "personnel_expense_percentage_rcl": 47.6
+  },
+  "per_capita_breakdown": {
+    "health": 1227.8,
+    "education": 1188.0,
+    "urbanism": 544.9,
+    "administration": 366.8,
+    "legislative": 144.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3797.8,
+      "health_per_capita": 957.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4079.1,
+      "health_per_capita": 1031.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4360.4,
+      "health_per_capita": 1105.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4594.8,
+      "health_per_capita": 1178.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4688.6,
+      "health_per_capita": 1227.8
+    }
+  ]
+}

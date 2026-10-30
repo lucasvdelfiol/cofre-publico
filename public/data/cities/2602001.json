@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2602001",
+  "city_name": "Bodocó",
+  "uf": "PE",
+  "population": 34478,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 148283238.02,
+    "total_expense": 145325653.54,
+    "own_revenue_percentage": 24.9,
+    "transfers_revenue_percentage": 75.1,
+    "personnel_expense_percentage_rcl": 50.0
+  },
+  "per_capita_breakdown": {
+    "health": 1066.3,
+    "education": 1016.5,
+    "urbanism": 655.3,
+    "administration": 313.6,
+    "legislative": 79.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3414.2,
+      "health_per_capita": 831.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3667.1,
+      "health_per_capita": 895.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3920.0,
+      "health_per_capita": 959.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4130.7,
+      "health_per_capita": 1023.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4215.0,
+      "health_per_capita": 1066.3
+    }
+  ]
+}

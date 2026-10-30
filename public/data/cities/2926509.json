@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2926509",
+  "city_name": "Ribeira do Amparo",
+  "uf": "BA",
+  "population": 13841,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 68449226.78,
+    "total_expense": 69091748.7,
+    "own_revenue_percentage": 8.4,
+    "transfers_revenue_percentage": 91.6,
+    "personnel_expense_percentage_rcl": 53.2
+  },
+  "per_capita_breakdown": {
+    "health": 1104.7,
+    "education": 1232.0,
+    "urbanism": 472.4,
+    "administration": 539.3,
+    "legislative": 159.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4043.4,
+      "health_per_capita": 861.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4342.9,
+      "health_per_capita": 927.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4642.4,
+      "health_per_capita": 994.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4892.0,
+      "health_per_capita": 1060.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4991.8,
+      "health_per_capita": 1104.7
+    }
+  ]
+}

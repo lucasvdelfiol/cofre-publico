@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3139706",
+  "city_name": "Maravilhas",
+  "uf": "MG",
+  "population": 7333,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 38513656.22,
+    "total_expense": 37951670.04,
+    "own_revenue_percentage": 20.0,
+    "transfers_revenue_percentage": 80.0,
+    "personnel_expense_percentage_rcl": 52.7
+  },
+  "per_capita_breakdown": {
+    "health": 1222.5,
+    "education": 1572.2,
+    "urbanism": 715.9,
+    "administration": 413.8,
+    "legislative": 117.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4192.2,
+      "health_per_capita": 953.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4502.7,
+      "health_per_capita": 1026.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4813.2,
+      "health_per_capita": 1100.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5072.0,
+      "health_per_capita": 1173.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5175.5,
+      "health_per_capita": 1222.5
+    }
+  ]
+}

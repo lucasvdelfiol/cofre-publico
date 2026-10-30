@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3129301",
+  "city_name": "Iapu",
+  "uf": "MG",
+  "population": 12030,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 59646397.62,
+    "total_expense": 59976744.18,
+    "own_revenue_percentage": 19.8,
+    "transfers_revenue_percentage": 80.2,
+    "personnel_expense_percentage_rcl": 47.7
+  },
+  "per_capita_breakdown": {
+    "health": 1334.2,
+    "education": 1354.7,
+    "urbanism": 539.1,
+    "administration": 545.9,
+    "legislative": 108.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4038.3,
+      "health_per_capita": 1040.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4337.5,
+      "health_per_capita": 1120.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4636.6,
+      "health_per_capita": 1200.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4885.9,
+      "health_per_capita": 1280.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4985.6,
+      "health_per_capita": 1334.2
+    }
+  ]
+}

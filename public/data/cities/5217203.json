@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5217203",
+  "city_name": "Piranhas",
+  "uf": "GO",
+  "population": 11712,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 52756575.96,
+    "total_expense": 52943697.03,
+    "own_revenue_percentage": 11.4,
+    "transfers_revenue_percentage": 88.6,
+    "personnel_expense_percentage_rcl": 53.6
+  },
+  "per_capita_breakdown": {
+    "health": 1201.8,
+    "education": 1316.7,
+    "urbanism": 603.1,
+    "administration": 448.0,
+    "legislative": 75.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3661.6,
+      "health_per_capita": 937.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3932.8,
+      "health_per_capita": 1009.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4204.1,
+      "health_per_capita": 1081.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4430.1,
+      "health_per_capita": 1153.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4520.5,
+      "health_per_capita": 1201.8
+    }
+  ]
+}

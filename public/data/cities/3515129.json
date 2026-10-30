@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3515129",
+  "city_name": "Emilianópolis",
+  "uf": "SP",
+  "population": 3014,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 13295846.36,
+    "total_expense": 13358002.98,
+    "own_revenue_percentage": 15.2,
+    "transfers_revenue_percentage": 84.8,
+    "personnel_expense_percentage_rcl": 48.0
+  },
+  "per_capita_breakdown": {
+    "health": 1062.7,
+    "education": 1277.8,
+    "urbanism": 408.8,
+    "administration": 506.2,
+    "legislative": 134.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3589.9,
+      "health_per_capita": 828.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3855.8,
+      "health_per_capita": 892.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4121.8,
+      "health_per_capita": 956.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4343.4,
+      "health_per_capita": 1020.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4432.0,
+      "health_per_capita": 1062.7
+    }
+  ]
+}

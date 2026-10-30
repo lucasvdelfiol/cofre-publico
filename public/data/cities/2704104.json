@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2704104",
+  "city_name": "Lagoa da Canoa",
+  "uf": "AL",
+  "population": 18457,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 97573041.2,
+    "total_expense": 97710651.2,
+    "own_revenue_percentage": 13.4,
+    "transfers_revenue_percentage": 86.6,
+    "personnel_expense_percentage_rcl": 49.8
+  },
+  "per_capita_breakdown": {
+    "health": 1170.5,
+    "education": 1504.9,
+    "urbanism": 674.4,
+    "administration": 318.1,
+    "legislative": 165.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4288.1,
+      "health_per_capita": 913.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4605.8,
+      "health_per_capita": 983.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4923.4,
+      "health_per_capita": 1053.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5188.1,
+      "health_per_capita": 1123.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5294.0,
+      "health_per_capita": 1170.5
+    }
+  ]
+}

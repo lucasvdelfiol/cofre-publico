@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3205036",
+  "city_name": "Vargem Alta",
+  "uf": "ES",
+  "population": 19563,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 100677843.35,
+    "total_expense": 98815407.92,
+    "own_revenue_percentage": 12.5,
+    "transfers_revenue_percentage": 87.5,
+    "personnel_expense_percentage_rcl": 52.7
+  },
+  "per_capita_breakdown": {
+    "health": 1076.9,
+    "education": 1394.7,
+    "urbanism": 492.4,
+    "administration": 457.1,
+    "legislative": 175.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4091.4,
+      "health_per_capita": 840.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4394.5,
+      "health_per_capita": 904.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4697.5,
+      "health_per_capita": 969.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4950.1,
+      "health_per_capita": 1033.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5051.1,
+      "health_per_capita": 1076.9
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2922656",
+  "city_name": "Nordestina",
+  "uf": "BA",
+  "population": 18523,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 85378548.12,
+    "total_expense": 85245347.3,
+    "own_revenue_percentage": 11.2,
+    "transfers_revenue_percentage": 88.8,
+    "personnel_expense_percentage_rcl": 50.5
+  },
+  "per_capita_breakdown": {
+    "health": 988.4,
+    "education": 1367.1,
+    "urbanism": 602.5,
+    "administration": 334.4,
+    "legislative": 82.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3727.7,
+      "health_per_capita": 771.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4003.8,
+      "health_per_capita": 830.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4280.0,
+      "health_per_capita": 889.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4510.1,
+      "health_per_capita": 948.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4602.1,
+      "health_per_capita": 988.4
+    }
+  ]
+}

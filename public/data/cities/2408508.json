@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2408508",
+  "city_name": "Ouro Branco",
+  "uf": "RN",
+  "population": 4913,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 28090272.28,
+    "total_expense": 27339938.65,
+    "own_revenue_percentage": 17.6,
+    "transfers_revenue_percentage": 82.4,
+    "personnel_expense_percentage_rcl": 52.9
+  },
+  "per_capita_breakdown": {
+    "health": 1303.0,
+    "education": 1534.8,
+    "urbanism": 852.9,
+    "administration": 503.1,
+    "legislative": 162.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4507.5,
+      "health_per_capita": 1016.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4841.4,
+      "health_per_capita": 1094.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5175.3,
+      "health_per_capita": 1172.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5453.5,
+      "health_per_capita": 1250.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5564.8,
+      "health_per_capita": 1303.0
+    }
+  ]
+}

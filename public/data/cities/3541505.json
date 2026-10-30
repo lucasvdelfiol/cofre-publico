@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3541505",
+  "city_name": "Presidente Venceslau",
+  "uf": "SP",
+  "population": 35201,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 152187199.27,
+    "total_expense": 148817696.32,
+    "own_revenue_percentage": 23.7,
+    "transfers_revenue_percentage": 76.3,
+    "personnel_expense_percentage_rcl": 48.6
+  },
+  "per_capita_breakdown": {
+    "health": 1059.4,
+    "education": 1070.9,
+    "urbanism": 652.7,
+    "administration": 367.5,
+    "legislative": 76.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3424.4,
+      "health_per_capita": 826.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3678.1,
+      "health_per_capita": 889.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3931.8,
+      "health_per_capita": 953.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4143.1,
+      "health_per_capita": 1017.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4227.7,
+      "health_per_capita": 1059.4
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4311981",
+  "city_name": "Mariana Pimentel",
+  "uf": "RS",
+  "population": 3916,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 20560064.1,
+    "total_expense": 20713671.97,
+    "own_revenue_percentage": 20.4,
+    "transfers_revenue_percentage": 79.6,
+    "personnel_expense_percentage_rcl": 50.9
+  },
+  "per_capita_breakdown": {
+    "health": 1143.9,
+    "education": 1423.4,
+    "urbanism": 817.1,
+    "administration": 429.7,
+    "legislative": 108.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4284.5,
+      "health_per_capita": 892.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4601.9,
+      "health_per_capita": 960.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4919.2,
+      "health_per_capita": 1029.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5183.7,
+      "health_per_capita": 1098.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5289.5,
+      "health_per_capita": 1143.9
+    }
+  ]
+}

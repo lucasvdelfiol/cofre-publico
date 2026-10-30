@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1713601",
+  "city_name": "Monte do Carmo",
+  "uf": "TO",
+  "population": 5694,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 29231718.5,
+    "total_expense": 28587482.99,
+    "own_revenue_percentage": 19.6,
+    "transfers_revenue_percentage": 80.4,
+    "personnel_expense_percentage_rcl": 53.3
+  },
+  "per_capita_breakdown": {
+    "health": 1400.7,
+    "education": 1568.7,
+    "urbanism": 700.6,
+    "administration": 360.9,
+    "legislative": 90.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4066.7,
+      "health_per_capita": 1092.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4367.9,
+      "health_per_capita": 1176.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4669.2,
+      "health_per_capita": 1260.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4920.2,
+      "health_per_capita": 1344.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5020.6,
+      "health_per_capita": 1400.7
+    }
+  ]
+}

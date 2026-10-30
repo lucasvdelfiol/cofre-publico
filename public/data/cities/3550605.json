@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3550605",
+  "city_name": "São Roque",
+  "uf": "SP",
+  "population": 79484,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 335451297.62,
+    "total_expense": 338082589.06,
+    "own_revenue_percentage": 41.5,
+    "transfers_revenue_percentage": 58.5,
+    "personnel_expense_percentage_rcl": 50.0
+  },
+  "per_capita_breakdown": {
+    "health": 1042.9,
+    "education": 1174.0,
+    "urbanism": 674.6,
+    "administration": 419.9,
+    "legislative": 109.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3445.3,
+      "health_per_capita": 813.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3700.5,
+      "health_per_capita": 876.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3955.8,
+      "health_per_capita": 938.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4168.4,
+      "health_per_capita": 1001.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4253.5,
+      "health_per_capita": 1042.9
+    }
+  ]
+}

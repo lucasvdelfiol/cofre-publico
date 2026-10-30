@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2906402",
+  "city_name": "Candeal",
+  "uf": "BA",
+  "population": 7772,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 43857721.18,
+    "total_expense": 42515134.18,
+    "own_revenue_percentage": 10.7,
+    "transfers_revenue_percentage": 89.3,
+    "personnel_expense_percentage_rcl": 51.2
+  },
+  "per_capita_breakdown": {
+    "health": 1111.0,
+    "education": 1320.0,
+    "urbanism": 494.4,
+    "administration": 464.4,
+    "legislative": 184.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4430.9,
+      "health_per_capita": 866.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4759.2,
+      "health_per_capita": 933.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5087.4,
+      "health_per_capita": 999.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5360.9,
+      "health_per_capita": 1066.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5470.3,
+      "health_per_capita": 1111.0
+    }
+  ]
+}

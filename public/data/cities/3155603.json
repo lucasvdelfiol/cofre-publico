@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3155603",
+  "city_name": "Rio Pardo de Minas",
+  "uf": "MG",
+  "population": 28271,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 134588139.33,
+    "total_expense": 133780069.35,
+    "own_revenue_percentage": 23.8,
+    "transfers_revenue_percentage": 76.2,
+    "personnel_expense_percentage_rcl": 49.9
+  },
+  "per_capita_breakdown": {
+    "health": 1213.7,
+    "education": 1367.4,
+    "urbanism": 610.2,
+    "administration": 429.7,
+    "legislative": 144.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3833.0,
+      "health_per_capita": 946.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4116.9,
+      "health_per_capita": 1019.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4400.9,
+      "health_per_capita": 1092.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4637.5,
+      "health_per_capita": 1165.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4732.1,
+      "health_per_capita": 1213.7
+    }
+  ]
+}

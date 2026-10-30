@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2205532",
+  "city_name": "Jurema",
+  "uf": "PI",
+  "population": 4425,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 24642696.04,
+    "total_expense": 24065494.96,
+    "own_revenue_percentage": 11.7,
+    "transfers_revenue_percentage": 88.3,
+    "personnel_expense_percentage_rcl": 49.4
+  },
+  "per_capita_breakdown": {
+    "health": 1224.1,
+    "education": 1585.5,
+    "urbanism": 534.7,
+    "administration": 640.2,
+    "legislative": 183.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4405.2,
+      "health_per_capita": 954.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4731.5,
+      "health_per_capita": 1028.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5057.8,
+      "health_per_capita": 1101.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5329.7,
+      "health_per_capita": 1175.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5438.5,
+      "health_per_capita": 1224.1
+    }
+  ]
+}

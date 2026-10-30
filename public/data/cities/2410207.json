@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2410207",
+  "city_name": "Portalegre",
+  "uf": "RN",
+  "population": 7601,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 38056062.4,
+    "total_expense": 38177220.57,
+    "own_revenue_percentage": 20.0,
+    "transfers_revenue_percentage": 80.0,
+    "personnel_expense_percentage_rcl": 48.8
+  },
+  "per_capita_breakdown": {
+    "health": 1216.9,
+    "education": 1283.3,
+    "urbanism": 637.1,
+    "administration": 445.8,
+    "legislative": 125.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4068.4,
+      "health_per_capita": 949.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4369.7,
+      "health_per_capita": 1022.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4671.1,
+      "health_per_capita": 1095.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4922.2,
+      "health_per_capita": 1168.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5022.7,
+      "health_per_capita": 1216.9
+    }
+  ]
+}

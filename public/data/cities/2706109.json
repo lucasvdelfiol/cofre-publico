@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2706109",
+  "city_name": "Ouro Branco",
+  "uf": "AL",
+  "population": 11446,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 51551609.96,
+    "total_expense": 49757342.95,
+    "own_revenue_percentage": 8.4,
+    "transfers_revenue_percentage": 91.6,
+    "personnel_expense_percentage_rcl": 50.7
+  },
+  "per_capita_breakdown": {
+    "health": 1189.4,
+    "education": 1050.1,
+    "urbanism": 364.1,
+    "administration": 381.7,
+    "legislative": 111.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3521.2,
+      "health_per_capita": 927.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3782.0,
+      "health_per_capita": 999.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4042.8,
+      "health_per_capita": 1070.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4260.2,
+      "health_per_capita": 1141.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4347.1,
+      "health_per_capita": 1189.4
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5205802",
+  "city_name": "Corumbá de Goiás",
+  "uf": "GO",
+  "population": 10562,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 57651443.37,
+    "total_expense": 56198429.82,
+    "own_revenue_percentage": 16.5,
+    "transfers_revenue_percentage": 83.5,
+    "personnel_expense_percentage_rcl": 53.5
+  },
+  "per_capita_breakdown": {
+    "health": 1246.5,
+    "education": 1657.3,
+    "urbanism": 433.8,
+    "administration": 331.3,
+    "legislative": 129.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4309.8,
+      "health_per_capita": 972.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4629.1,
+      "health_per_capita": 1047.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4948.3,
+      "health_per_capita": 1121.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5214.4,
+      "health_per_capita": 1196.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5320.8,
+      "health_per_capita": 1246.5
+    }
+  ]
+}

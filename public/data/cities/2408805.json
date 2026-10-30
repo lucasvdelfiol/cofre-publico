@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2408805",
+  "city_name": "Parazinho",
+  "uf": "RN",
+  "population": 4801,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 25758996.51,
+    "total_expense": 24918607.89,
+    "own_revenue_percentage": 8.2,
+    "transfers_revenue_percentage": 91.8,
+    "personnel_expense_percentage_rcl": 50.6
+  },
+  "per_capita_breakdown": {
+    "health": 1093.4,
+    "education": 1627.6,
+    "urbanism": 563.1,
+    "administration": 355.4,
+    "legislative": 134.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4204.1,
+      "health_per_capita": 852.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4515.6,
+      "health_per_capita": 918.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4827.0,
+      "health_per_capita": 984.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5086.5,
+      "health_per_capita": 1049.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5190.3,
+      "health_per_capita": 1093.4
+    }
+  ]
+}

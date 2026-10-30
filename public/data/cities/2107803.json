@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2107803",
+  "city_name": "Parnarama",
+  "uf": "MA",
+  "population": 31250,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 140754493.99,
+    "total_expense": 135579677.18,
+    "own_revenue_percentage": 29.8,
+    "transfers_revenue_percentage": 70.2,
+    "personnel_expense_percentage_rcl": 47.9
+  },
+  "per_capita_breakdown": {
+    "health": 1188.4,
+    "education": 1074.4,
+    "urbanism": 591.7,
+    "administration": 283.6,
+    "legislative": 70.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3514.2,
+      "health_per_capita": 927.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3774.5,
+      "health_per_capita": 998.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4034.8,
+      "health_per_capita": 1069.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4251.7,
+      "health_per_capita": 1140.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4338.5,
+      "health_per_capita": 1188.4
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2207934",
+  "city_name": "Pedro Laurentino",
+  "uf": "PI",
+  "population": 2458,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 13489522.51,
+    "total_expense": 13485324.29,
+    "own_revenue_percentage": 12.1,
+    "transfers_revenue_percentage": 87.9,
+    "personnel_expense_percentage_rcl": 46.9
+  },
+  "per_capita_breakdown": {
+    "health": 1391.9,
+    "education": 1531.0,
+    "urbanism": 558.8,
+    "administration": 541.9,
+    "legislative": 88.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4443.9,
+      "health_per_capita": 1085.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4773.1,
+      "health_per_capita": 1169.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5102.3,
+      "health_per_capita": 1252.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5376.6,
+      "health_per_capita": 1336.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5486.3,
+      "health_per_capita": 1391.9
+    }
+  ]
+}

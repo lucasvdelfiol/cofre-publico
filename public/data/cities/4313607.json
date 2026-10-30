@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4313607",
+  "city_name": "Paim Filho",
+  "uf": "RS",
+  "population": 3629,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 20165364.8,
+    "total_expense": 20089176.66,
+    "own_revenue_percentage": 13.8,
+    "transfers_revenue_percentage": 86.2,
+    "personnel_expense_percentage_rcl": 50.4
+  },
+  "per_capita_breakdown": {
+    "health": 1491.2,
+    "education": 1404.6,
+    "urbanism": 808.6,
+    "administration": 451.0,
+    "legislative": 178.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4483.9,
+      "health_per_capita": 1163.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4816.1,
+      "health_per_capita": 1252.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5148.2,
+      "health_per_capita": 1342.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5425.0,
+      "health_per_capita": 1431.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5535.7,
+      "health_per_capita": 1491.2
+    }
+  ]
+}

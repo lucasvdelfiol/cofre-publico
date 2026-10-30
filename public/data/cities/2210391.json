@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2210391",
+  "city_name": "São Miguel do Fidalgo",
+  "uf": "PI",
+  "population": 2829,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 15655078.0,
+    "total_expense": 15567393.45,
+    "own_revenue_percentage": 9.9,
+    "transfers_revenue_percentage": 90.1,
+    "personnel_expense_percentage_rcl": 51.0
+  },
+  "per_capita_breakdown": {
+    "health": 1510.2,
+    "education": 1591.7,
+    "urbanism": 674.0,
+    "administration": 612.5,
+    "legislative": 151.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4457.3,
+      "health_per_capita": 1178.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4787.4,
+      "health_per_capita": 1268.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5117.6,
+      "health_per_capita": 1359.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5392.7,
+      "health_per_capita": 1449.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5502.8,
+      "health_per_capita": 1510.2
+    }
+  ]
+}

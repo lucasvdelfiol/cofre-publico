@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1507961",
+  "city_name": "Terra Alta",
+  "uf": "PA",
+  "population": 10400,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 46462896.86,
+    "total_expense": 46156804.86,
+    "own_revenue_percentage": 12.1,
+    "transfers_revenue_percentage": 87.9,
+    "personnel_expense_percentage_rcl": 47.8
+  },
+  "per_capita_breakdown": {
+    "health": 1058.4,
+    "education": 1278.1,
+    "urbanism": 667.9,
+    "administration": 450.9,
+    "legislative": 86.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3594.9,
+      "health_per_capita": 825.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3861.2,
+      "health_per_capita": 889.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4127.5,
+      "health_per_capita": 952.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4349.4,
+      "health_per_capita": 1016.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4438.2,
+      "health_per_capita": 1058.4
+    }
+  ]
+}

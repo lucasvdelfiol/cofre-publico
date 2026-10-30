@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3539202",
+  "city_name": "Pirapozinho",
+  "uf": "SP",
+  "population": 25348,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 112965551.28,
+    "total_expense": 111528752.4,
+    "own_revenue_percentage": 31.8,
+    "transfers_revenue_percentage": 68.2,
+    "personnel_expense_percentage_rcl": 46.3
+  },
+  "per_capita_breakdown": {
+    "health": 1070.0,
+    "education": 1398.7,
+    "urbanism": 530.4,
+    "administration": 506.1,
+    "legislative": 96.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3563.9,
+      "health_per_capita": 834.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3827.9,
+      "health_per_capita": 898.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4091.9,
+      "health_per_capita": 963.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4311.9,
+      "health_per_capita": 1027.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4399.9,
+      "health_per_capita": 1070.0
+    }
+  ]
+}

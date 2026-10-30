@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3527207",
+  "city_name": "Lorena",
+  "uf": "SP",
+  "population": 84855,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 377639977.65,
+    "total_expense": 369030283.57,
+    "own_revenue_percentage": 36.2,
+    "transfers_revenue_percentage": 63.8,
+    "personnel_expense_percentage_rcl": 50.9
+  },
+  "per_capita_breakdown": {
+    "health": 1177.3,
+    "education": 1119.7,
+    "urbanism": 492.9,
+    "administration": 490.3,
+    "legislative": 69.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3522.7,
+      "health_per_capita": 918.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3783.6,
+      "health_per_capita": 988.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4044.6,
+      "health_per_capita": 1059.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4262.0,
+      "health_per_capita": 1130.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4349.0,
+      "health_per_capita": 1177.3
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2702702",
+  "city_name": "Feliz Deserto",
+  "uf": "AL",
+  "population": 3963,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 19421208.46,
+    "total_expense": 19335995.17,
+    "own_revenue_percentage": 14.0,
+    "transfers_revenue_percentage": 86.0,
+    "personnel_expense_percentage_rcl": 50.2
+  },
+  "per_capita_breakdown": {
+    "health": 1154.3,
+    "education": 1279.5,
+    "urbanism": 549.8,
+    "administration": 387.7,
+    "legislative": 74.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3952.1,
+      "health_per_capita": 900.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4244.8,
+      "health_per_capita": 969.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4537.6,
+      "health_per_capita": 1038.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4781.5,
+      "health_per_capita": 1108.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4879.1,
+      "health_per_capita": 1154.3
+    }
+  ]
+}

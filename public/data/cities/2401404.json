@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2401404",
+  "city_name": "Baía Formosa",
+  "uf": "RN",
+  "population": 8825,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 49062154.98,
+    "total_expense": 49259545.89,
+    "own_revenue_percentage": 13.5,
+    "transfers_revenue_percentage": 86.5,
+    "personnel_expense_percentage_rcl": 51.8
+  },
+  "per_capita_breakdown": {
+    "health": 1329.2,
+    "education": 1765.4,
+    "urbanism": 589.8,
+    "administration": 393.9,
+    "legislative": 149.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4521.3,
+      "health_per_capita": 1036.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4856.2,
+      "health_per_capita": 1116.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5191.1,
+      "health_per_capita": 1196.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5470.2,
+      "health_per_capita": 1276.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5581.8,
+      "health_per_capita": 1329.2
+    }
+  ]
+}

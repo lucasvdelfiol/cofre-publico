@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5208905",
+  "city_name": "Goiás",
+  "uf": "GO",
+  "population": 24071,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 112913973.12,
+    "total_expense": 111311621.01,
+    "own_revenue_percentage": 30.7,
+    "transfers_revenue_percentage": 69.3,
+    "personnel_expense_percentage_rcl": 48.6
+  },
+  "per_capita_breakdown": {
+    "health": 1053.5,
+    "education": 1343.5,
+    "urbanism": 663.2,
+    "administration": 422.1,
+    "legislative": 138.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3745.7,
+      "health_per_capita": 821.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4023.1,
+      "health_per_capita": 884.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4300.6,
+      "health_per_capita": 948.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4531.8,
+      "health_per_capita": 1011.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4624.3,
+      "health_per_capita": 1053.5
+    }
+  ]
+}

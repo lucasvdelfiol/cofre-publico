@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3537008",
+  "city_name": "Pedregulho",
+  "uf": "SP",
+  "population": 15525,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 85341339.41,
+    "total_expense": 83537439.64,
+    "own_revenue_percentage": 11.3,
+    "transfers_revenue_percentage": 88.7,
+    "personnel_expense_percentage_rcl": 48.8
+  },
+  "per_capita_breakdown": {
+    "health": 1391.5,
+    "education": 1362.3,
+    "urbanism": 818.1,
+    "administration": 487.1,
+    "legislative": 153.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4358.4,
+      "health_per_capita": 1085.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4681.3,
+      "health_per_capita": 1168.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5004.1,
+      "health_per_capita": 1252.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5273.2,
+      "health_per_capita": 1335.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5380.8,
+      "health_per_capita": 1391.5
+    }
+  ]
+}

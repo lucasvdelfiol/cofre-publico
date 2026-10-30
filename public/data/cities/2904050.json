@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2904050",
+  "city_name": "Bonito",
+  "uf": "BA",
+  "population": 15844,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 80583072.1,
+    "total_expense": 79378908.36,
+    "own_revenue_percentage": 10.0,
+    "transfers_revenue_percentage": 90.0,
+    "personnel_expense_percentage_rcl": 46.8
+  },
+  "per_capita_breakdown": {
+    "health": 1048.4,
+    "education": 1292.0,
+    "urbanism": 762.8,
+    "administration": 556.0,
+    "legislative": 172.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4058.1,
+      "health_per_capita": 817.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4358.7,
+      "health_per_capita": 880.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4659.3,
+      "health_per_capita": 943.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4909.8,
+      "health_per_capita": 1006.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5010.0,
+      "health_per_capita": 1048.4
+    }
+  ]
+}

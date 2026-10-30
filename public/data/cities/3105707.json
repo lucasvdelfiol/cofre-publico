@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3105707",
+  "city_name": "Barra Longa",
+  "uf": "MG",
+  "population": 5666,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 27714025.42,
+    "total_expense": 27637868.87,
+    "own_revenue_percentage": 17.6,
+    "transfers_revenue_percentage": 82.4,
+    "personnel_expense_percentage_rcl": 53.4
+  },
+  "per_capita_breakdown": {
+    "health": 1218.7,
+    "education": 1331.6,
+    "urbanism": 507.1,
+    "administration": 321.0,
+    "legislative": 132.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3951.0,
+      "health_per_capita": 950.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4243.7,
+      "health_per_capita": 1023.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4536.4,
+      "health_per_capita": 1096.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4780.2,
+      "health_per_capita": 1170.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4877.8,
+      "health_per_capita": 1218.7
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4123600",
+  "city_name": "Santa Inês",
+  "uf": "PR",
+  "population": 1748,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 8203257.13,
+    "total_expense": 8087378.73,
+    "own_revenue_percentage": 17.5,
+    "transfers_revenue_percentage": 82.5,
+    "personnel_expense_percentage_rcl": 45.7
+  },
+  "per_capita_breakdown": {
+    "health": 1102.1,
+    "education": 1142.8,
+    "urbanism": 706.6,
+    "administration": 294.2,
+    "legislative": 81.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3747.5,
+      "health_per_capita": 859.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4025.1,
+      "health_per_capita": 925.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4302.7,
+      "health_per_capita": 991.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4534.1,
+      "health_per_capita": 1058.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4626.6,
+      "health_per_capita": 1102.1
+    }
+  ]
+}

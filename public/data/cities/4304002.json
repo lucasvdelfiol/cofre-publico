@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4304002",
+  "city_name": "Campo Novo",
+  "uf": "RS",
+  "population": 4975,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 27411777.82,
+    "total_expense": 27033249.9,
+    "own_revenue_percentage": 20.9,
+    "transfers_revenue_percentage": 79.1,
+    "personnel_expense_percentage_rcl": 49.2
+  },
+  "per_capita_breakdown": {
+    "health": 1334.4,
+    "education": 1611.8,
+    "urbanism": 753.7,
+    "administration": 446.4,
+    "legislative": 169.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4401.4,
+      "health_per_capita": 1040.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4727.4,
+      "health_per_capita": 1120.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5053.4,
+      "health_per_capita": 1201.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5325.1,
+      "health_per_capita": 1281.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5433.8,
+      "health_per_capita": 1334.4
+    }
+  ]
+}

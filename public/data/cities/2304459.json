@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2304459",
+  "city_name": "Fortim",
+  "uf": "CE",
+  "population": 17294,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 88906913.29,
+    "total_expense": 88694487.95,
+    "own_revenue_percentage": 12.0,
+    "transfers_revenue_percentage": 88.0,
+    "personnel_expense_percentage_rcl": 53.2
+  },
+  "per_capita_breakdown": {
+    "health": 1425.0,
+    "education": 1447.5,
+    "urbanism": 737.9,
+    "administration": 600.7,
+    "legislative": 143.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4154.2,
+      "health_per_capita": 1111.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4461.9,
+      "health_per_capita": 1197.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4769.6,
+      "health_per_capita": 1282.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5026.0,
+      "health_per_capita": 1368.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5128.6,
+      "health_per_capita": 1425.0
+    }
+  ]
+}

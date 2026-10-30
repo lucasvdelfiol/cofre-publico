@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3504107",
+  "city_name": "Atibaia",
+  "uf": "SP",
+  "population": 158647,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 837736730.25,
+    "total_expense": 825351258.67,
+    "own_revenue_percentage": 47.2,
+    "transfers_revenue_percentage": 52.8,
+    "personnel_expense_percentage_rcl": 44.9
+  },
+  "per_capita_breakdown": {
+    "health": 1046.6,
+    "education": 1398.5,
+    "urbanism": 773.4,
+    "administration": 557.0,
+    "legislative": 159.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4213.9,
+      "health_per_capita": 816.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4526.1,
+      "health_per_capita": 879.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4838.2,
+      "health_per_capita": 941.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5098.4,
+      "health_per_capita": 1004.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5202.4,
+      "health_per_capita": 1046.6
+    }
+  ]
+}

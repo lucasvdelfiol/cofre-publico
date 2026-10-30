@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2103406",
+  "city_name": "Coelho Neto",
+  "uf": "MA",
+  "population": 41658,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 180121594.4,
+    "total_expense": 174951416.5,
+    "own_revenue_percentage": 31.9,
+    "transfers_revenue_percentage": 68.1,
+    "personnel_expense_percentage_rcl": 49.6
+  },
+  "per_capita_breakdown": {
+    "health": 946.8,
+    "education": 1274.4,
+    "urbanism": 647.5,
+    "administration": 289.0,
+    "legislative": 105.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3401.8,
+      "health_per_capita": 738.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3653.7,
+      "health_per_capita": 795.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3905.7,
+      "health_per_capita": 852.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4115.7,
+      "health_per_capita": 908.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4199.7,
+      "health_per_capita": 946.8
+    }
+  ]
+}

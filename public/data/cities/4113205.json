@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4113205",
+  "city_name": "Lapa",
+  "uf": "PR",
+  "population": 45003,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 213835643.56,
+    "total_expense": 211224917.18,
+    "own_revenue_percentage": 19.9,
+    "transfers_revenue_percentage": 80.1,
+    "personnel_expense_percentage_rcl": 47.9
+  },
+  "per_capita_breakdown": {
+    "health": 1209.4,
+    "education": 1280.1,
+    "urbanism": 586.8,
+    "administration": 517.6,
+    "legislative": 143.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3801.8,
+      "health_per_capita": 943.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4083.4,
+      "health_per_capita": 1015.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4365.0,
+      "health_per_capita": 1088.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4599.7,
+      "health_per_capita": 1161.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4693.6,
+      "health_per_capita": 1209.4
+    }
+  ]
+}

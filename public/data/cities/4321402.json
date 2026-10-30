@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4321402",
+  "city_name": "Tenente Portela",
+  "uf": "RS",
+  "population": 14497,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 69775655.85,
+    "total_expense": 70234511.77,
+    "own_revenue_percentage": 20.6,
+    "transfers_revenue_percentage": 79.4,
+    "personnel_expense_percentage_rcl": 53.4
+  },
+  "per_capita_breakdown": {
+    "health": 994.3,
+    "education": 1352.2,
+    "urbanism": 404.7,
+    "administration": 368.2,
+    "legislative": 155.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3924.3,
+      "health_per_capita": 775.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4215.0,
+      "health_per_capita": 835.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4505.7,
+      "health_per_capita": 894.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4747.9,
+      "health_per_capita": 954.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4844.8,
+      "health_per_capita": 994.3
+    }
+  ]
+}

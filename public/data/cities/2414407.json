@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2414407",
+  "city_name": "Touros",
+  "uf": "RN",
+  "population": 33035,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 155608599.33,
+    "total_expense": 150731938.37,
+    "own_revenue_percentage": 31.7,
+    "transfers_revenue_percentage": 68.3,
+    "personnel_expense_percentage_rcl": 50.2
+  },
+  "per_capita_breakdown": {
+    "health": 1265.3,
+    "education": 1220.6,
+    "urbanism": 666.8,
+    "administration": 339.6,
+    "legislative": 119.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3695.9,
+      "health_per_capita": 986.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3969.6,
+      "health_per_capita": 1062.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4243.4,
+      "health_per_capita": 1138.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4471.5,
+      "health_per_capita": 1214.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4562.8,
+      "health_per_capita": 1265.3
+    }
+  ]
+}

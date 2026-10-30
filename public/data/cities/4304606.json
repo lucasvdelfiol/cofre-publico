@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4304606",
+  "city_name": "Canoas",
+  "uf": "RS",
+  "population": 347657,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 1695228008.6,
+    "total_expense": 1681522419.1,
+    "own_revenue_percentage": 54.0,
+    "transfers_revenue_percentage": 46.0,
+    "personnel_expense_percentage_rcl": 49.4
+  },
+  "per_capita_breakdown": {
+    "health": 1048.0,
+    "education": 1312.1,
+    "urbanism": 699.6,
+    "administration": 379.6,
+    "legislative": 158.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3917.7,
+      "health_per_capita": 817.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4207.9,
+      "health_per_capita": 880.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4498.1,
+      "health_per_capita": 943.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4740.0,
+      "health_per_capita": 1006.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4836.7,
+      "health_per_capita": 1048.0
+    }
+  ]
+}

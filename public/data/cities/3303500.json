@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3303500",
+  "city_name": "Nova Iguaçu",
+  "uf": "RJ",
+  "population": 785867,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 3867379059.56,
+    "total_expense": 3799203160.77,
+    "own_revenue_percentage": 42.1,
+    "transfers_revenue_percentage": 57.9,
+    "personnel_expense_percentage_rcl": 49.0
+  },
+  "per_capita_breakdown": {
+    "health": 1132.7,
+    "education": 1376.2,
+    "urbanism": 474.7,
+    "administration": 384.9,
+    "legislative": 132.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3915.9,
+      "health_per_capita": 883.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4205.9,
+      "health_per_capita": 951.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4496.0,
+      "health_per_capita": 1019.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4737.7,
+      "health_per_capita": 1087.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4834.4,
+      "health_per_capita": 1132.7
+    }
+  ]
+}

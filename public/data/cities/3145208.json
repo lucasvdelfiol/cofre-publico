@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3145208",
+  "city_name": "Nova Serrana",
+  "uf": "MG",
+  "population": 105552,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 604396372.68,
+    "total_expense": 591656888.78,
+    "own_revenue_percentage": 48.5,
+    "transfers_revenue_percentage": 51.5,
+    "personnel_expense_percentage_rcl": 48.7
+  },
+  "per_capita_breakdown": {
+    "health": 1315.8,
+    "education": 1389.2,
+    "urbanism": 747.3,
+    "administration": 432.8,
+    "legislative": 149.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4540.4,
+      "health_per_capita": 1026.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4876.7,
+      "health_per_capita": 1105.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5213.0,
+      "health_per_capita": 1184.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5493.3,
+      "health_per_capita": 1263.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5605.4,
+      "health_per_capita": 1315.8
+    }
+  ]
+}

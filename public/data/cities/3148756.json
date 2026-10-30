@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3148756",
+  "city_name": "Pedra Bonita",
+  "uf": "MG",
+  "population": 7320,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 31614745.89,
+    "total_expense": 31644762.48,
+    "own_revenue_percentage": 14.7,
+    "transfers_revenue_percentage": 85.3,
+    "personnel_expense_percentage_rcl": 48.2
+  },
+  "per_capita_breakdown": {
+    "health": 1121.9,
+    "education": 1328.7,
+    "urbanism": 601.7,
+    "administration": 259.9,
+    "legislative": 93.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3501.7,
+      "health_per_capita": 875.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3761.1,
+      "health_per_capita": 942.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4020.5,
+      "health_per_capita": 1009.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4236.6,
+      "health_per_capita": 1077.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4323.1,
+      "health_per_capita": 1121.9
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1200351",
+  "city_name": "Marechal Thaumaturgo",
+  "uf": "AC",
+  "population": 17093,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 85989829.06,
+    "total_expense": 83055126.7,
+    "own_revenue_percentage": 13.9,
+    "transfers_revenue_percentage": 86.1,
+    "personnel_expense_percentage_rcl": 48.9
+  },
+  "per_capita_breakdown": {
+    "health": 1106.8,
+    "education": 1517.7,
+    "urbanism": 770.7,
+    "administration": 393.6,
+    "legislative": 167.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3935.8,
+      "health_per_capita": 863.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4227.3,
+      "health_per_capita": 929.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4518.9,
+      "health_per_capita": 996.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4761.8,
+      "health_per_capita": 1062.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4859.0,
+      "health_per_capita": 1106.8
+    }
+  ]
+}

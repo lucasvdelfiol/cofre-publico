@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2608909",
+  "city_name": "Limoeiro",
+  "uf": "PE",
+  "population": 56510,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 238052097.95,
+    "total_expense": 238937607.68,
+    "own_revenue_percentage": 41.8,
+    "transfers_revenue_percentage": 58.2,
+    "personnel_expense_percentage_rcl": 52.5
+  },
+  "per_capita_breakdown": {
+    "health": 1169.6,
+    "education": 1158.4,
+    "urbanism": 373.1,
+    "administration": 279.9,
+    "legislative": 123.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3424.8,
+      "health_per_capita": 912.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3678.5,
+      "health_per_capita": 982.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3932.2,
+      "health_per_capita": 1052.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4143.6,
+      "health_per_capita": 1122.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4228.2,
+      "health_per_capita": 1169.6
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4104105",
+  "city_name": "Campo do Tenente",
+  "uf": "PR",
+  "population": 7508,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 37535574.41,
+    "total_expense": 36131207.72,
+    "own_revenue_percentage": 17.8,
+    "transfers_revenue_percentage": 82.2,
+    "personnel_expense_percentage_rcl": 46.9
+  },
+  "per_capita_breakdown": {
+    "health": 1237.0,
+    "education": 1415.4,
+    "urbanism": 503.3,
+    "administration": 391.6,
+    "legislative": 98.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3898.0,
+      "health_per_capita": 964.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4186.8,
+      "health_per_capita": 1039.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4475.5,
+      "health_per_capita": 1113.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4716.2,
+      "health_per_capita": 1187.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4812.4,
+      "health_per_capita": 1237.0
+    }
+  ]
+}

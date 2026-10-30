@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2904803",
+  "city_name": "Caatiba",
+  "uf": "BA",
+  "population": 6205,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 28847542.01,
+    "total_expense": 28419167.43,
+    "own_revenue_percentage": 14.8,
+    "transfers_revenue_percentage": 85.2,
+    "personnel_expense_percentage_rcl": 51.4
+  },
+  "per_capita_breakdown": {
+    "health": 945.3,
+    "education": 1132.5,
+    "urbanism": 720.7,
+    "administration": 309.4,
+    "legislative": 98.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3709.8,
+      "health_per_capita": 737.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3984.6,
+      "health_per_capita": 794.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4259.4,
+      "health_per_capita": 850.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4488.4,
+      "health_per_capita": 907.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4580.0,
+      "health_per_capita": 945.3
+    }
+  ]
+}

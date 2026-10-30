@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5003751",
+  "city_name": "Eldorado",
+  "uf": "MS",
+  "population": 11386,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 54233532.33,
+    "total_expense": 52530989.47,
+    "own_revenue_percentage": 21.0,
+    "transfers_revenue_percentage": 79.0,
+    "personnel_expense_percentage_rcl": 51.5
+  },
+  "per_capita_breakdown": {
+    "health": 1169.9,
+    "education": 1227.6,
+    "urbanism": 614.6,
+    "administration": 332.0,
+    "legislative": 86.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3737.0,
+      "health_per_capita": 912.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4013.8,
+      "health_per_capita": 982.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4290.6,
+      "health_per_capita": 1052.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4521.3,
+      "health_per_capita": 1123.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4613.6,
+      "health_per_capita": 1169.9
+    }
+  ]
+}

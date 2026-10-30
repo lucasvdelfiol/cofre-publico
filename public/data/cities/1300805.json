@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1300805",
+  "city_name": "Borba",
+  "uf": "AM",
+  "population": 33080,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 143996867.71,
+    "total_expense": 143288865.34,
+    "own_revenue_percentage": 24.6,
+    "transfers_revenue_percentage": 75.4,
+    "personnel_expense_percentage_rcl": 50.3
+  },
+  "per_capita_breakdown": {
+    "health": 1090.1,
+    "education": 1116.2,
+    "urbanism": 665.9,
+    "administration": 502.5,
+    "legislative": 89.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3508.6,
+      "health_per_capita": 850.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3768.5,
+      "health_per_capita": 915.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4028.4,
+      "health_per_capita": 981.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4245.0,
+      "health_per_capita": 1046.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4331.6,
+      "health_per_capita": 1090.1
+    }
+  ]
+}

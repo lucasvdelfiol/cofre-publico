@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2515104",
+  "city_name": "São Sebastião de Lagoa de Roça",
+  "uf": "PB",
+  "population": 11040,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 49399647.16,
+    "total_expense": 49823814.18,
+    "own_revenue_percentage": 20.0,
+    "transfers_revenue_percentage": 80.0,
+    "personnel_expense_percentage_rcl": 46.7
+  },
+  "per_capita_breakdown": {
+    "health": 927.2,
+    "education": 1095.2,
+    "urbanism": 570.6,
+    "administration": 479.4,
+    "legislative": 149.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3655.5,
+      "health_per_capita": 723.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3926.3,
+      "health_per_capita": 778.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4197.1,
+      "health_per_capita": 834.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4422.7,
+      "health_per_capita": 890.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4513.0,
+      "health_per_capita": 927.2
+    }
+  ]
+}

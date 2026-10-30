@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2516755",
+  "city_name": "Tenório",
+  "uf": "PB",
+  "population": 2966,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 15238427.1,
+    "total_expense": 15262606.71,
+    "own_revenue_percentage": 9.7,
+    "transfers_revenue_percentage": 90.3,
+    "personnel_expense_percentage_rcl": 50.4
+  },
+  "per_capita_breakdown": {
+    "health": 1148.0,
+    "education": 1368.3,
+    "urbanism": 815.2,
+    "administration": 595.2,
+    "legislative": 86.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4168.2,
+      "health_per_capita": 895.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4476.9,
+      "health_per_capita": 964.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4785.7,
+      "health_per_capita": 1033.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5043.0,
+      "health_per_capita": 1102.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5145.9,
+      "health_per_capita": 1148.0
+    }
+  ]
+}

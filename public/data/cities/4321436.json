@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4321436",
+  "city_name": "Terra de Areia",
+  "uf": "RS",
+  "population": 10334,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 51204263.27,
+    "total_expense": 50787648.95,
+    "own_revenue_percentage": 9.6,
+    "transfers_revenue_percentage": 90.4,
+    "personnel_expense_percentage_rcl": 46.5
+  },
+  "per_capita_breakdown": {
+    "health": 1218.1,
+    "education": 1524.1,
+    "urbanism": 701.9,
+    "administration": 487.9,
+    "legislative": 129.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3980.8,
+      "health_per_capita": 950.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4275.7,
+      "health_per_capita": 1023.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4570.6,
+      "health_per_capita": 1096.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4816.3,
+      "health_per_capita": 1169.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4914.6,
+      "health_per_capita": 1218.1
+    }
+  ]
+}

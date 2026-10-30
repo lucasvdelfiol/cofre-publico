@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2924306",
+  "city_name": "Piatã",
+  "uf": "BA",
+  "population": 20086,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 87673111.16,
+    "total_expense": 85407142.55,
+    "own_revenue_percentage": 26.5,
+    "transfers_revenue_percentage": 73.5,
+    "personnel_expense_percentage_rcl": 52.2
+  },
+  "per_capita_breakdown": {
+    "health": 1014.4,
+    "education": 1234.2,
+    "urbanism": 470.7,
+    "administration": 399.1,
+    "legislative": 112.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3444.2,
+      "health_per_capita": 791.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3699.3,
+      "health_per_capita": 852.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3954.5,
+      "health_per_capita": 913.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4167.1,
+      "health_per_capita": 973.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4252.1,
+      "health_per_capita": 1014.4
+    }
+  ]
+}

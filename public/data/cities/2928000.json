@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2928000",
+  "city_name": "Santaluz",
+  "uf": "BA",
+  "population": 37834,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 176163375.73,
+    "total_expense": 176588005.81,
+    "own_revenue_percentage": 27.5,
+    "transfers_revenue_percentage": 72.5,
+    "personnel_expense_percentage_rcl": 52.1
+  },
+  "per_capita_breakdown": {
+    "health": 1226.6,
+    "education": 1192.2,
+    "urbanism": 516.0,
+    "administration": 399.2,
+    "legislative": 120.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3780.6,
+      "health_per_capita": 956.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4060.6,
+      "health_per_capita": 1030.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4340.7,
+      "health_per_capita": 1103.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4574.1,
+      "health_per_capita": 1177.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4667.4,
+      "health_per_capita": 1226.6
+    }
+  ]
+}

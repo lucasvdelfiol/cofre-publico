@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2901700",
+  "city_name": "Antônio Cardoso",
+  "uf": "BA",
+  "population": 11146,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 53915120.91,
+    "total_expense": 53570674.66,
+    "own_revenue_percentage": 8.1,
+    "transfers_revenue_percentage": 91.9,
+    "personnel_expense_percentage_rcl": 49.4
+  },
+  "per_capita_breakdown": {
+    "health": 1178.2,
+    "education": 1478.1,
+    "urbanism": 677.3,
+    "administration": 439.9,
+    "legislative": 156.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3893.1,
+      "health_per_capita": 919.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4181.5,
+      "health_per_capita": 989.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4469.9,
+      "health_per_capita": 1060.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4710.2,
+      "health_per_capita": 1131.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4806.3,
+      "health_per_capita": 1178.2
+    }
+  ]
+}

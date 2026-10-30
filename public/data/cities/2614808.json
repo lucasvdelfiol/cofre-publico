@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2614808",
+  "city_name": "Tacaratu",
+  "uf": "PE",
+  "population": 23902,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 107549415.66,
+    "total_expense": 103571979.08,
+    "own_revenue_percentage": 30.8,
+    "transfers_revenue_percentage": 69.2,
+    "personnel_expense_percentage_rcl": 46.8
+  },
+  "per_capita_breakdown": {
+    "health": 892.8,
+    "education": 1125.6,
+    "urbanism": 473.8,
+    "administration": 271.3,
+    "legislative": 104.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3509.9,
+      "health_per_capita": 696.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3769.9,
+      "health_per_capita": 750.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4029.9,
+      "health_per_capita": 803.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4246.5,
+      "health_per_capita": 857.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4333.2,
+      "health_per_capita": 892.8
+    }
+  ]
+}

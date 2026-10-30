@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2926657",
+  "city_name": "Ribeirão do Largo",
+  "uf": "BA",
+  "population": 9740,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 54439998.09,
+    "total_expense": 53127774.99,
+    "own_revenue_percentage": 13.8,
+    "transfers_revenue_percentage": 86.2,
+    "personnel_expense_percentage_rcl": 51.8
+  },
+  "per_capita_breakdown": {
+    "health": 1485.0,
+    "education": 1547.7,
+    "urbanism": 658.8,
+    "administration": 527.3,
+    "legislative": 122.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4418.2,
+      "health_per_capita": 1158.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4745.5,
+      "health_per_capita": 1247.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5072.8,
+      "health_per_capita": 1336.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5345.5,
+      "health_per_capita": 1425.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5454.6,
+      "health_per_capita": 1485.0
+    }
+  ]
+}

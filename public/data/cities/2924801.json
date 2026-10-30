@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2924801",
+  "city_name": "Piritiba",
+  "uf": "BA",
+  "population": 17566,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 88968200.76,
+    "total_expense": 89081993.82,
+    "own_revenue_percentage": 20.5,
+    "transfers_revenue_percentage": 79.5,
+    "personnel_expense_percentage_rcl": 45.6
+  },
+  "per_capita_breakdown": {
+    "health": 1188.5,
+    "education": 1343.6,
+    "urbanism": 628.3,
+    "administration": 376.3,
+    "legislative": 119.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4107.8,
+      "health_per_capita": 927.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4412.0,
+      "health_per_capita": 998.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4716.3,
+      "health_per_capita": 1069.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4969.9,
+      "health_per_capita": 1141.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5071.3,
+      "health_per_capita": 1188.5
+    }
+  ]
+}

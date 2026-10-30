@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3203106",
+  "city_name": "Jerônimo Monteiro",
+  "uf": "ES",
+  "population": 11575,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 65136884.87,
+    "total_expense": 62810835.56,
+    "own_revenue_percentage": 14.9,
+    "transfers_revenue_percentage": 85.1,
+    "personnel_expense_percentage_rcl": 50.1
+  },
+  "per_capita_breakdown": {
+    "health": 1144.3,
+    "education": 1563.5,
+    "urbanism": 769.8,
+    "administration": 551.7,
+    "legislative": 117.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4395.4,
+      "health_per_capita": 892.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4721.0,
+      "health_per_capita": 961.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5046.6,
+      "health_per_capita": 1029.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5317.9,
+      "health_per_capita": 1098.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5426.4,
+      "health_per_capita": 1144.3
+    }
+  ]
+}

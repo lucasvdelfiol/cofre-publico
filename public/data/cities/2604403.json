@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2604403",
+  "city_name": "Chã de Alegria",
+  "uf": "PE",
+  "population": 12984,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 66495403.26,
+    "total_expense": 66249572.9,
+    "own_revenue_percentage": 14.3,
+    "transfers_revenue_percentage": 85.7,
+    "personnel_expense_percentage_rcl": 48.3
+  },
+  "per_capita_breakdown": {
+    "health": 1328.7,
+    "education": 1411.9,
+    "urbanism": 435.7,
+    "administration": 611.2,
+    "legislative": 97.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4132.9,
+      "health_per_capita": 1036.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4439.1,
+      "health_per_capita": 1116.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4745.2,
+      "health_per_capita": 1195.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5000.4,
+      "health_per_capita": 1275.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5102.4,
+      "health_per_capita": 1328.7
+    }
+  ]
+}

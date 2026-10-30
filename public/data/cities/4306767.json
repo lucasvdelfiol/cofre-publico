@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4306767",
+  "city_name": "Eldorado do Sul",
+  "uf": "RS",
+  "population": 39559,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 172171346.98,
+    "total_expense": 173504221.75,
+    "own_revenue_percentage": 23.7,
+    "transfers_revenue_percentage": 76.3,
+    "personnel_expense_percentage_rcl": 53.0
+  },
+  "per_capita_breakdown": {
+    "health": 1113.3,
+    "education": 1387.0,
+    "urbanism": 692.3,
+    "administration": 394.4,
+    "legislative": 86.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3552.7,
+      "health_per_capita": 868.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3815.8,
+      "health_per_capita": 935.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4079.0,
+      "health_per_capita": 1002.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4298.3,
+      "health_per_capita": 1068.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4386.0,
+      "health_per_capita": 1113.3
+    }
+  ]
+}

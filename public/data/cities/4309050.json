@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4309050",
+  "city_name": "Glorinha",
+  "uf": "RS",
+  "population": 7658,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 41126580.33,
+    "total_expense": 40243346.99,
+    "own_revenue_percentage": 11.6,
+    "transfers_revenue_percentage": 88.4,
+    "personnel_expense_percentage_rcl": 52.7
+  },
+  "per_capita_breakdown": {
+    "health": 1391.2,
+    "education": 1454.8,
+    "urbanism": 758.4,
+    "administration": 601.5,
+    "legislative": 154.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4256.6,
+      "health_per_capita": 1085.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4571.9,
+      "health_per_capita": 1168.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4887.2,
+      "health_per_capita": 1252.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5150.0,
+      "health_per_capita": 1335.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5255.1,
+      "health_per_capita": 1391.2
+    }
+  ]
+}

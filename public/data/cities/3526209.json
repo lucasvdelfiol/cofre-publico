@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3526209",
+  "city_name": "Juquitiba",
+  "uf": "SP",
+  "population": 27404,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 121228273.08,
+    "total_expense": 119001063.96,
+    "own_revenue_percentage": 27.0,
+    "transfers_revenue_percentage": 73.0,
+    "personnel_expense_percentage_rcl": 49.9
+  },
+  "per_capita_breakdown": {
+    "health": 992.1,
+    "education": 1180.9,
+    "urbanism": 441.4,
+    "administration": 265.8,
+    "legislative": 68.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3517.4,
+      "health_per_capita": 773.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3778.0,
+      "health_per_capita": 833.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4038.5,
+      "health_per_capita": 892.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4255.6,
+      "health_per_capita": 952.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4342.5,
+      "health_per_capita": 992.1
+    }
+  ]
+}

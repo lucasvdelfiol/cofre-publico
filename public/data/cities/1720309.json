@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1720309",
+  "city_name": "São Sebastião do Tocantins",
+  "uf": "TO",
+  "population": 4100,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 21390454.44,
+    "total_expense": 21399447.35,
+    "own_revenue_percentage": 14.9,
+    "transfers_revenue_percentage": 85.1,
+    "personnel_expense_percentage_rcl": 53.0
+  },
+  "per_capita_breakdown": {
+    "health": 1137.9,
+    "education": 1466.0,
+    "urbanism": 472.9,
+    "administration": 515.2,
+    "legislative": 151.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4227.7,
+      "health_per_capita": 887.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4540.9,
+      "health_per_capita": 955.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4854.0,
+      "health_per_capita": 1024.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5115.0,
+      "health_per_capita": 1092.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5219.4,
+      "health_per_capita": 1137.9
+    }
+  ]
+}

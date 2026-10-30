@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1600600",
+  "city_name": "Santana",
+  "uf": "AP",
+  "population": 107618,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 511487204.0,
+    "total_expense": 513353755.68,
+    "own_revenue_percentage": 48.7,
+    "transfers_revenue_percentage": 51.3,
+    "personnel_expense_percentage_rcl": 46.6
+  },
+  "per_capita_breakdown": {
+    "health": 1211.2,
+    "education": 1344.2,
+    "urbanism": 641.1,
+    "administration": 521.3,
+    "legislative": 142.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3863.8,
+      "health_per_capita": 944.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4150.0,
+      "health_per_capita": 1017.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4436.2,
+      "health_per_capita": 1090.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4674.7,
+      "health_per_capita": 1162.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4770.1,
+      "health_per_capita": 1211.2
+    }
+  ]
+}

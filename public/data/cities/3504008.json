@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3504008",
+  "city_name": "Assis",
+  "uf": "SP",
+  "population": 101409,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 545399623.89,
+    "total_expense": 543147372.69,
+    "own_revenue_percentage": 42.4,
+    "transfers_revenue_percentage": 57.6,
+    "personnel_expense_percentage_rcl": 52.1
+  },
+  "per_capita_breakdown": {
+    "health": 1470.2,
+    "education": 1440.9,
+    "urbanism": 706.7,
+    "administration": 481.3,
+    "legislative": 156.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4338.4,
+      "health_per_capita": 1146.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4659.7,
+      "health_per_capita": 1235.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4981.1,
+      "health_per_capita": 1323.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5248.9,
+      "health_per_capita": 1411.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5356.0,
+      "health_per_capita": 1470.2
+    }
+  ]
+}

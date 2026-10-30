@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4101150",
+  "city_name": "Ângulo",
+  "uf": "PR",
+  "population": 3235,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 14846522.07,
+    "total_expense": 14384533.06,
+    "own_revenue_percentage": 15.7,
+    "transfers_revenue_percentage": 84.3,
+    "personnel_expense_percentage_rcl": 50.7
+  },
+  "per_capita_breakdown": {
+    "health": 913.6,
+    "education": 1327.2,
+    "urbanism": 513.2,
+    "administration": 386.1,
+    "legislative": 125.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3601.7,
+      "health_per_capita": 712.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3868.5,
+      "health_per_capita": 767.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4135.2,
+      "health_per_capita": 822.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4357.6,
+      "health_per_capita": 877.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4446.5,
+      "health_per_capita": 913.6
+    }
+  ]
+}

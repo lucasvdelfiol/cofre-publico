@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3118908",
+  "city_name": "Cordisburgo",
+  "uf": "MG",
+  "population": 7547,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 37484541.2,
+    "total_expense": 36909890.51,
+    "own_revenue_percentage": 13.6,
+    "transfers_revenue_percentage": 86.4,
+    "personnel_expense_percentage_rcl": 50.1
+  },
+  "per_capita_breakdown": {
+    "health": 1303.0,
+    "education": 1329.6,
+    "urbanism": 471.7,
+    "administration": 577.3,
+    "legislative": 80.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3961.5,
+      "health_per_capita": 1016.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4254.9,
+      "health_per_capita": 1094.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4548.4,
+      "health_per_capita": 1172.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4792.9,
+      "health_per_capita": 1250.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4890.7,
+      "health_per_capita": 1303.0
+    }
+  ]
+}

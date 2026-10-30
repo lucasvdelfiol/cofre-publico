@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3150570",
+  "city_name": "Pintópolis",
+  "uf": "MG",
+  "population": 7084,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 39470643.54,
+    "total_expense": 39203547.59,
+    "own_revenue_percentage": 12.3,
+    "transfers_revenue_percentage": 87.7,
+    "personnel_expense_percentage_rcl": 53.7
+  },
+  "per_capita_breakdown": {
+    "health": 1428.3,
+    "education": 1457.2,
+    "urbanism": 875.3,
+    "administration": 612.8,
+    "legislative": 117.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4482.6,
+      "health_per_capita": 1114.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4814.7,
+      "health_per_capita": 1199.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5146.7,
+      "health_per_capita": 1285.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5423.4,
+      "health_per_capita": 1371.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5534.1,
+      "health_per_capita": 1428.3
+    }
+  ]
+}

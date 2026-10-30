@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2303600",
+  "city_name": "Catarina",
+  "uf": "CE",
+  "population": 10243,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 49203342.17,
+    "total_expense": 47600442.14,
+    "own_revenue_percentage": 16.9,
+    "transfers_revenue_percentage": 83.1,
+    "personnel_expense_percentage_rcl": 53.1
+  },
+  "per_capita_breakdown": {
+    "health": 1027.9,
+    "education": 1420.0,
+    "urbanism": 674.1,
+    "administration": 335.9,
+    "legislative": 98.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3764.2,
+      "health_per_capita": 801.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4043.0,
+      "health_per_capita": 863.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4321.8,
+      "health_per_capita": 925.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4554.2,
+      "health_per_capita": 986.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4647.1,
+      "health_per_capita": 1027.9
+    }
+  ]
+}

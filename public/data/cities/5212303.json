@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5212303",
+  "city_name": "Leopoldo de Bulhões",
+  "uf": "GO",
+  "population": 8745,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 47181478.41,
+    "total_expense": 45482346.78,
+    "own_revenue_percentage": 10.8,
+    "transfers_revenue_percentage": 89.2,
+    "personnel_expense_percentage_rcl": 50.1
+  },
+  "per_capita_breakdown": {
+    "health": 1202.1,
+    "education": 1442.5,
+    "urbanism": 455.2,
+    "administration": 557.5,
+    "legislative": 152.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4212.8,
+      "health_per_capita": 937.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4524.9,
+      "health_per_capita": 1009.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4836.9,
+      "health_per_capita": 1081.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5097.0,
+      "health_per_capita": 1154.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5201.0,
+      "health_per_capita": 1202.1
+    }
+  ]
+}

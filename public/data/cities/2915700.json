@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2915700",
+  "city_name": "Itamari",
+  "uf": "BA",
+  "population": 7051,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 36457696.0,
+    "total_expense": 35275153.82,
+    "own_revenue_percentage": 16.6,
+    "transfers_revenue_percentage": 83.4,
+    "personnel_expense_percentage_rcl": 47.4
+  },
+  "per_capita_breakdown": {
+    "health": 1105.9,
+    "education": 1503.2,
+    "urbanism": 560.4,
+    "administration": 433.4,
+    "legislative": 101.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4052.3,
+      "health_per_capita": 862.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4352.5,
+      "health_per_capita": 929.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4652.7,
+      "health_per_capita": 995.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4902.8,
+      "health_per_capita": 1061.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5002.9,
+      "health_per_capita": 1105.9
+    }
+  ]
+}

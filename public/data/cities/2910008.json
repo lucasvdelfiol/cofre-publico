@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2910008",
+  "city_name": "Dário Meira",
+  "uf": "BA",
+  "population": 10820,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 60444203.29,
+    "total_expense": 59605844.24,
+    "own_revenue_percentage": 12.5,
+    "transfers_revenue_percentage": 87.5,
+    "personnel_expense_percentage_rcl": 48.0
+  },
+  "per_capita_breakdown": {
+    "health": 1536.0,
+    "education": 1501.5,
+    "urbanism": 721.3,
+    "administration": 502.5,
+    "legislative": 150.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4462.2,
+      "health_per_capita": 1198.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4792.7,
+      "health_per_capita": 1290.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5123.3,
+      "health_per_capita": 1382.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5398.7,
+      "health_per_capita": 1474.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5508.9,
+      "health_per_capita": 1536.0
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2706505",
+  "city_name": "Passo de Camaragibe",
+  "uf": "AL",
+  "population": 13804,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 66336255.77,
+    "total_expense": 65452352.9,
+    "own_revenue_percentage": 9.6,
+    "transfers_revenue_percentage": 90.4,
+    "personnel_expense_percentage_rcl": 50.4
+  },
+  "per_capita_breakdown": {
+    "health": 1037.8,
+    "education": 1240.3,
+    "urbanism": 689.1,
+    "administration": 413.9,
+    "legislative": 126.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3840.6,
+      "health_per_capita": 809.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4125.1,
+      "health_per_capita": 871.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4409.6,
+      "health_per_capita": 934.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4646.7,
+      "health_per_capita": 996.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4741.5,
+      "health_per_capita": 1037.8
+    }
+  ]
+}

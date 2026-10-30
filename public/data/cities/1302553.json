@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1302553",
+  "city_name": "Manaquiri",
+  "uf": "AM",
+  "population": 17107,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 81720838.6,
+    "total_expense": 79496070.51,
+    "own_revenue_percentage": 17.7,
+    "transfers_revenue_percentage": 82.3,
+    "personnel_expense_percentage_rcl": 45.8
+  },
+  "per_capita_breakdown": {
+    "health": 1294.7,
+    "education": 1179.1,
+    "urbanism": 436.5,
+    "administration": 297.2,
+    "legislative": 107.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3764.1,
+      "health_per_capita": 1009.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4042.9,
+      "health_per_capita": 1087.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4321.7,
+      "health_per_capita": 1165.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4554.1,
+      "health_per_capita": 1242.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4647.0,
+      "health_per_capita": 1294.7
+    }
+  ]
+}

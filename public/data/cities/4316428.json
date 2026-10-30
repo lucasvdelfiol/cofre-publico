@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4316428",
+  "city_name": "Sagrada Família",
+  "uf": "RS",
+  "population": 2480,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 12499993.17,
+    "total_expense": 12130908.87,
+    "own_revenue_percentage": 16.9,
+    "transfers_revenue_percentage": 83.1,
+    "personnel_expense_percentage_rcl": 47.4
+  },
+  "per_capita_breakdown": {
+    "health": 1057.3,
+    "education": 1399.5,
+    "urbanism": 555.6,
+    "administration": 434.6,
+    "legislative": 136.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3962.1,
+      "health_per_capita": 824.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4255.6,
+      "health_per_capita": 888.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4549.1,
+      "health_per_capita": 951.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4793.7,
+      "health_per_capita": 1015.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4891.5,
+      "health_per_capita": 1057.3
+    }
+  ]
+}

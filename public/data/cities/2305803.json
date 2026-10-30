@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2305803",
+  "city_name": "Ipu",
+  "uf": "CE",
+  "population": 41081,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 203641601.66,
+    "total_expense": 199168605.52,
+    "own_revenue_percentage": 28.3,
+    "transfers_revenue_percentage": 71.7,
+    "personnel_expense_percentage_rcl": 49.1
+  },
+  "per_capita_breakdown": {
+    "health": 1244.2,
+    "education": 1238.0,
+    "urbanism": 729.2,
+    "administration": 408.7,
+    "legislative": 93.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3927.0,
+      "health_per_capita": 970.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4217.9,
+      "health_per_capita": 1045.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4508.8,
+      "health_per_capita": 1119.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4751.2,
+      "health_per_capita": 1194.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4848.2,
+      "health_per_capita": 1244.2
+    }
+  ]
+}

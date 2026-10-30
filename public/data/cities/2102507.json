@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2102507",
+  "city_name": "Cajari",
+  "uf": "MA",
+  "population": 16412,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 79110963.76,
+    "total_expense": 78229728.33,
+    "own_revenue_percentage": 13.0,
+    "transfers_revenue_percentage": 87.0,
+    "personnel_expense_percentage_rcl": 47.8
+  },
+  "per_capita_breakdown": {
+    "health": 999.3,
+    "education": 1392.8,
+    "urbanism": 496.4,
+    "administration": 294.9,
+    "legislative": 125.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3860.9,
+      "health_per_capita": 779.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4146.9,
+      "health_per_capita": 839.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4432.9,
+      "health_per_capita": 899.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4671.3,
+      "health_per_capita": 959.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4766.6,
+      "health_per_capita": 999.3
+    }
+  ]
+}

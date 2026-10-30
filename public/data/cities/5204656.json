@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5204656",
+  "city_name": "Campinaçu",
+  "uf": "GO",
+  "population": 3708,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 17392571.16,
+    "total_expense": 17350181.61,
+    "own_revenue_percentage": 19.8,
+    "transfers_revenue_percentage": 80.2,
+    "personnel_expense_percentage_rcl": 45.7
+  },
+  "per_capita_breakdown": {
+    "health": 954.0,
+    "education": 1182.3,
+    "urbanism": 624.1,
+    "administration": 314.8,
+    "legislative": 150.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3790.1,
+      "health_per_capita": 744.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4070.8,
+      "health_per_capita": 801.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4351.6,
+      "health_per_capita": 858.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4585.5,
+      "health_per_capita": 915.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4679.1,
+      "health_per_capita": 954.0
+    }
+  ]
+}

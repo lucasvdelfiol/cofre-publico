@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5203609",
+  "city_name": "Brazabrantes",
+  "uf": "GO",
+  "population": 3992,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 22168532.1,
+    "total_expense": 21934629.66,
+    "own_revenue_percentage": 18.7,
+    "transfers_revenue_percentage": 81.3,
+    "personnel_expense_percentage_rcl": 47.8
+  },
+  "per_capita_breakdown": {
+    "health": 1236.3,
+    "education": 1682.4,
+    "urbanism": 465.1,
+    "administration": 348.9,
+    "legislative": 162.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4450.6,
+      "health_per_capita": 964.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4780.3,
+      "health_per_capita": 1038.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5110.0,
+      "health_per_capita": 1112.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5384.7,
+      "health_per_capita": 1186.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5494.6,
+      "health_per_capita": 1236.3
+    }
+  ]
+}

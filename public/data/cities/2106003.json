@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2106003",
+  "city_name": "Lima Campos",
+  "uf": "MA",
+  "population": 11297,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 63175125.9,
+    "total_expense": 62387773.54,
+    "own_revenue_percentage": 20.2,
+    "transfers_revenue_percentage": 79.8,
+    "personnel_expense_percentage_rcl": 51.9
+  },
+  "per_capita_breakdown": {
+    "health": 1243.1,
+    "education": 1722.0,
+    "urbanism": 677.2,
+    "administration": 553.1,
+    "legislative": 105.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4473.2,
+      "health_per_capita": 969.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4804.6,
+      "health_per_capita": 1044.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5135.9,
+      "health_per_capita": 1118.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5412.1,
+      "health_per_capita": 1193.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5522.5,
+      "health_per_capita": 1243.1
+    }
+  ]
+}

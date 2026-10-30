@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2922508",
+  "city_name": "Nazaré",
+  "uf": "BA",
+  "population": 27060,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 129924968.75,
+    "total_expense": 125657071.64,
+    "own_revenue_percentage": 24.1,
+    "transfers_revenue_percentage": 75.9,
+    "personnel_expense_percentage_rcl": 47.5
+  },
+  "per_capita_breakdown": {
+    "health": 997.4,
+    "education": 1316.4,
+    "urbanism": 520.0,
+    "administration": 317.1,
+    "legislative": 103.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3761.3,
+      "health_per_capita": 778.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4039.9,
+      "health_per_capita": 837.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4318.5,
+      "health_per_capita": 897.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4550.7,
+      "health_per_capita": 957.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4643.6,
+      "health_per_capita": 997.4
+    }
+  ]
+}

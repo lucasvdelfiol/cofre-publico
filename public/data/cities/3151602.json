@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3151602",
+  "city_name": "Planura",
+  "uf": "MG",
+  "population": 11145,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 62827829.24,
+    "total_expense": 62001124.87,
+    "own_revenue_percentage": 14.9,
+    "transfers_revenue_percentage": 85.1,
+    "personnel_expense_percentage_rcl": 52.0
+  },
+  "per_capita_breakdown": {
+    "health": 1213.2,
+    "education": 1672.7,
+    "urbanism": 776.4,
+    "administration": 361.7,
+    "legislative": 128.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4506.1,
+      "health_per_capita": 946.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4839.9,
+      "health_per_capita": 1019.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5173.7,
+      "health_per_capita": 1091.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5451.8,
+      "health_per_capita": 1164.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5563.1,
+      "health_per_capita": 1213.2
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3149200",
+  "city_name": "Pedrinópolis",
+  "uf": "MG",
+  "population": 3344,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 16832882.44,
+    "total_expense": 16993655.34,
+    "own_revenue_percentage": 20.4,
+    "transfers_revenue_percentage": 79.6,
+    "personnel_expense_percentage_rcl": 47.1
+  },
+  "per_capita_breakdown": {
+    "health": 1259.1,
+    "education": 1314.5,
+    "urbanism": 795.3,
+    "administration": 537.6,
+    "legislative": 144.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4116.3,
+      "health_per_capita": 982.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4421.2,
+      "health_per_capita": 1057.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4726.1,
+      "health_per_capita": 1133.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4980.2,
+      "health_per_capita": 1208.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5081.8,
+      "health_per_capita": 1259.1
+    }
+  ]
+}

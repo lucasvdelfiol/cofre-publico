@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4300646",
+  "city_name": "Ametista do Sul",
+  "uf": "RS",
+  "population": 7650,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 38951308.83,
+    "total_expense": 38978009.99,
+    "own_revenue_percentage": 10.8,
+    "transfers_revenue_percentage": 89.2,
+    "personnel_expense_percentage_rcl": 47.8
+  },
+  "per_capita_breakdown": {
+    "health": 1183.1,
+    "education": 1527.5,
+    "urbanism": 553.0,
+    "administration": 366.1,
+    "legislative": 166.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4127.1,
+      "health_per_capita": 922.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4432.8,
+      "health_per_capita": 993.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4738.5,
+      "health_per_capita": 1064.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4993.3,
+      "health_per_capita": 1135.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5095.2,
+      "health_per_capita": 1183.1
+    }
+  ]
+}

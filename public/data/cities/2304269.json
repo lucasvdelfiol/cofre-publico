@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2304269",
+  "city_name": "Deputado Irapuan Pinheiro",
+  "uf": "CE",
+  "population": 8932,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 48493890.09,
+    "total_expense": 46781855.62,
+    "own_revenue_percentage": 8.3,
+    "transfers_revenue_percentage": 91.7,
+    "personnel_expense_percentage_rcl": 47.2
+  },
+  "per_capita_breakdown": {
+    "health": 1127.9,
+    "education": 1261.7,
+    "urbanism": 577.2,
+    "administration": 620.8,
+    "legislative": 96.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4242.5,
+      "health_per_capita": 879.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4556.7,
+      "health_per_capita": 947.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4871.0,
+      "health_per_capita": 1015.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5132.8,
+      "health_per_capita": 1082.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5237.6,
+      "health_per_capita": 1127.9
+    }
+  ]
+}

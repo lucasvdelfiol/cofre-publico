@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3145703",
+  "city_name": "Oliveira Fortes",
+  "uf": "MG",
+  "population": 2027,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 10411538.06,
+    "total_expense": 10043834.94,
+    "own_revenue_percentage": 16.7,
+    "transfers_revenue_percentage": 83.3,
+    "personnel_expense_percentage_rcl": 51.4
+  },
+  "per_capita_breakdown": {
+    "health": 1125.8,
+    "education": 1557.7,
+    "urbanism": 480.7,
+    "administration": 384.3,
+    "legislative": 83.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4013.6,
+      "health_per_capita": 878.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4310.9,
+      "health_per_capita": 945.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4608.2,
+      "health_per_capita": 1013.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4855.9,
+      "health_per_capita": 1080.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4955.0,
+      "health_per_capita": 1125.8
+    }
+  ]
+}

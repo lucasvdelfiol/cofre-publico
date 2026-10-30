@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2910800",
+  "city_name": "Feira de Santana",
+  "uf": "BA",
+  "population": 616272,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 3132978637.23,
+    "total_expense": 3014611160.73,
+    "own_revenue_percentage": 43.8,
+    "transfers_revenue_percentage": 56.2,
+    "personnel_expense_percentage_rcl": 48.0
+  },
+  "per_capita_breakdown": {
+    "health": 1277.0,
+    "education": 1394.3,
+    "urbanism": 633.0,
+    "administration": 361.2,
+    "legislative": 138.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3962.3,
+      "health_per_capita": 996.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4255.8,
+      "health_per_capita": 1072.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4549.3,
+      "health_per_capita": 1149.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4793.9,
+      "health_per_capita": 1225.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4891.7,
+      "health_per_capita": 1277.0
+    }
+  ]
+}

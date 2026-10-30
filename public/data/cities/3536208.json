@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3536208",
+  "city_name": "Pariquera-Açu",
+  "uf": "SP",
+  "population": 19233,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 92773419.71,
+    "total_expense": 91469446.73,
+    "own_revenue_percentage": 21.6,
+    "transfers_revenue_percentage": 78.4,
+    "personnel_expense_percentage_rcl": 46.7
+  },
+  "per_capita_breakdown": {
+    "health": 982.0,
+    "education": 1255.6,
+    "urbanism": 574.7,
+    "administration": 515.8,
+    "legislative": 95.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3852.3,
+      "health_per_capita": 766.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4137.6,
+      "health_per_capita": 824.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4423.0,
+      "health_per_capita": 883.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4660.8,
+      "health_per_capita": 942.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4755.9,
+      "health_per_capita": 982.0
+    }
+  ]
+}

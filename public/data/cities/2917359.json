@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2917359",
+  "city_name": "Jaborandi",
+  "uf": "BA",
+  "population": 9275,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 51781116.9,
+    "total_expense": 51536035.36,
+    "own_revenue_percentage": 10.7,
+    "transfers_revenue_percentage": 89.3,
+    "personnel_expense_percentage_rcl": 48.7
+  },
+  "per_capita_breakdown": {
+    "health": 1209.0,
+    "education": 1375.5,
+    "urbanism": 831.5,
+    "administration": 453.6,
+    "legislative": 83.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4500.7,
+      "health_per_capita": 943.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4834.1,
+      "health_per_capita": 1015.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5167.5,
+      "health_per_capita": 1088.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5445.3,
+      "health_per_capita": 1160.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5556.4,
+      "health_per_capita": 1209.0
+    }
+  ]
+}

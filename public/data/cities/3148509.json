@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3148509",
+  "city_name": "Pavão",
+  "uf": "MG",
+  "population": 8047,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 41015404.47,
+    "total_expense": 40553518.73,
+    "own_revenue_percentage": 13.0,
+    "transfers_revenue_percentage": 87.0,
+    "personnel_expense_percentage_rcl": 49.2
+  },
+  "per_capita_breakdown": {
+    "health": 1035.7,
+    "education": 1476.8,
+    "urbanism": 541.0,
+    "administration": 501.4,
+    "legislative": 158.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4082.1,
+      "health_per_capita": 807.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4384.5,
+      "health_per_capita": 870.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4686.8,
+      "health_per_capita": 932.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4938.8,
+      "health_per_capita": 994.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5039.6,
+      "health_per_capita": 1035.7
+    }
+  ]
+}

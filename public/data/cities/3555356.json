@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3555356",
+  "city_name": "Ubarana",
+  "uf": "SP",
+  "population": 5365,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 30231215.29,
+    "total_expense": 29203363.57,
+    "own_revenue_percentage": 14.0,
+    "transfers_revenue_percentage": 86.0,
+    "personnel_expense_percentage_rcl": 53.4
+  },
+  "per_capita_breakdown": {
+    "health": 1420.2,
+    "education": 1555.8,
+    "urbanism": 854.2,
+    "administration": 636.2,
+    "legislative": 168.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4409.1,
+      "health_per_capita": 1107.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4735.7,
+      "health_per_capita": 1193.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5062.3,
+      "health_per_capita": 1278.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5334.4,
+      "health_per_capita": 1363.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5443.3,
+      "health_per_capita": 1420.2
+    }
+  ]
+}

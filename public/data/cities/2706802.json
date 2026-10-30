@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2706802",
+  "city_name": "Piaçabuçu",
+  "uf": "AL",
+  "population": 15908,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 79759051.25,
+    "total_expense": 78465042.31,
+    "own_revenue_percentage": 21.6,
+    "transfers_revenue_percentage": 78.4,
+    "personnel_expense_percentage_rcl": 51.7
+  },
+  "per_capita_breakdown": {
+    "health": 1194.8,
+    "education": 1497.4,
+    "urbanism": 536.1,
+    "administration": 405.3,
+    "legislative": 124.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3995.2,
+      "health_per_capita": 931.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4291.2,
+      "health_per_capita": 1003.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4587.1,
+      "health_per_capita": 1075.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4833.8,
+      "health_per_capita": 1147.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4932.4,
+      "health_per_capita": 1194.8
+    }
+  ]
+}

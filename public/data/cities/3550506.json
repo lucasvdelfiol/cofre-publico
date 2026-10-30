@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3550506",
+  "city_name": "São Pedro do Turvo",
+  "uf": "SP",
+  "population": 7217,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 40938283.74,
+    "total_expense": 39562507.57,
+    "own_revenue_percentage": 9.4,
+    "transfers_revenue_percentage": 90.6,
+    "personnel_expense_percentage_rcl": 52.2
+  },
+  "per_capita_breakdown": {
+    "health": 1381.3,
+    "education": 1514.7,
+    "urbanism": 585.3,
+    "administration": 427.7,
+    "legislative": 100.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4440.3,
+      "health_per_capita": 1077.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4769.2,
+      "health_per_capita": 1160.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5098.1,
+      "health_per_capita": 1243.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5372.2,
+      "health_per_capita": 1326.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5481.8,
+      "health_per_capita": 1381.3
+    }
+  ]
+}

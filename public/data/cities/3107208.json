@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3107208",
+  "city_name": "Bocaina de Minas",
+  "uf": "MG",
+  "population": 5348,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 25157468.71,
+    "total_expense": 24348854.72,
+    "own_revenue_percentage": 13.6,
+    "transfers_revenue_percentage": 86.4,
+    "personnel_expense_percentage_rcl": 51.7
+  },
+  "per_capita_breakdown": {
+    "health": 1065.4,
+    "education": 1408.5,
+    "urbanism": 706.2,
+    "administration": 467.6,
+    "legislative": 144.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3687.8,
+      "health_per_capita": 831.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3961.0,
+      "health_per_capita": 894.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4234.2,
+      "health_per_capita": 958.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4461.8,
+      "health_per_capita": 1022.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4552.9,
+      "health_per_capita": 1065.4
+    }
+  ]
+}

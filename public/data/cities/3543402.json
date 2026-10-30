@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3543402",
+  "city_name": "Ribeirão Preto",
+  "uf": "SP",
+  "population": 698642,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 4044885752.99,
+    "total_expense": 3919963701.14,
+    "own_revenue_percentage": 47.5,
+    "transfers_revenue_percentage": 52.5,
+    "personnel_expense_percentage_rcl": 47.1
+  },
+  "per_capita_breakdown": {
+    "health": 1384.2,
+    "education": 1503.1,
+    "urbanism": 644.7,
+    "administration": 400.1,
+    "legislative": 168.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4544.7,
+      "health_per_capita": 1079.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4881.4,
+      "health_per_capita": 1162.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5218.0,
+      "health_per_capita": 1245.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5498.6,
+      "health_per_capita": 1328.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5610.8,
+      "health_per_capita": 1384.2
+    }
+  ]
+}

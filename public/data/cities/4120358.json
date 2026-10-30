@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4120358",
+  "city_name": "Pranchita",
+  "uf": "PR",
+  "population": 5737,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 26071620.48,
+    "total_expense": 25696900.03,
+    "own_revenue_percentage": 14.4,
+    "transfers_revenue_percentage": 85.6,
+    "personnel_expense_percentage_rcl": 52.2
+  },
+  "per_capita_breakdown": {
+    "health": 979.0,
+    "education": 1155.8,
+    "urbanism": 425.0,
+    "administration": 471.9,
+    "legislative": 70.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3628.2,
+      "health_per_capita": 763.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3896.9,
+      "health_per_capita": 822.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4165.7,
+      "health_per_capita": 881.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4389.6,
+      "health_per_capita": 939.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4479.2,
+      "health_per_capita": 979.0
+    }
+  ]
+}

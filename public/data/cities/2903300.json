@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2903300",
+  "city_name": "Barro Preto",
+  "uf": "BA",
+  "population": 5833,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 26545225.32,
+    "total_expense": 26018712.82,
+    "own_revenue_percentage": 15.3,
+    "transfers_revenue_percentage": 84.7,
+    "personnel_expense_percentage_rcl": 49.5
+  },
+  "per_capita_breakdown": {
+    "health": 909.0,
+    "education": 1268.2,
+    "urbanism": 638.4,
+    "administration": 504.9,
+    "legislative": 137.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3613.1,
+      "health_per_capita": 709.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3880.7,
+      "health_per_capita": 763.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4148.4,
+      "health_per_capita": 818.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4371.4,
+      "health_per_capita": 872.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4460.6,
+      "health_per_capita": 909.0
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2610301",
+  "city_name": "Paranatama",
+  "uf": "PE",
+  "population": 12199,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 57996246.84,
+    "total_expense": 57504841.42,
+    "own_revenue_percentage": 9.9,
+    "transfers_revenue_percentage": 90.1,
+    "personnel_expense_percentage_rcl": 53.3
+  },
+  "per_capita_breakdown": {
+    "health": 1135.3,
+    "education": 1335.4,
+    "urbanism": 527.8,
+    "administration": 396.5,
+    "legislative": 87.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3818.3,
+      "health_per_capita": 885.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4101.1,
+      "health_per_capita": 953.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4383.9,
+      "health_per_capita": 1021.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4619.6,
+      "health_per_capita": 1089.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4713.9,
+      "health_per_capita": 1135.3
+    }
+  ]
+}

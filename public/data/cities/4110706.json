@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4110706",
+  "city_name": "Irati",
+  "uf": "PR",
+  "population": 59250,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 284206972.79,
+    "total_expense": 283903843.76,
+    "own_revenue_percentage": 33.6,
+    "transfers_revenue_percentage": 66.4,
+    "personnel_expense_percentage_rcl": 50.7
+  },
+  "per_capita_breakdown": {
+    "health": 1251.2,
+    "education": 1501.2,
+    "urbanism": 430.4,
+    "administration": 402.4,
+    "legislative": 93.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3881.2,
+      "health_per_capita": 975.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4168.7,
+      "health_per_capita": 1051.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4456.2,
+      "health_per_capita": 1126.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4695.8,
+      "health_per_capita": 1201.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4791.6,
+      "health_per_capita": 1251.2
+    }
+  ]
+}

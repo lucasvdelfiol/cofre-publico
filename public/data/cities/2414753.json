@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2414753",
+  "city_name": "Venha-Ver",
+  "uf": "RN",
+  "population": 3014,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 15505840.19,
+    "total_expense": 15291036.53,
+    "own_revenue_percentage": 11.9,
+    "transfers_revenue_percentage": 88.1,
+    "personnel_expense_percentage_rcl": 47.3
+  },
+  "per_capita_breakdown": {
+    "health": 1182.7,
+    "education": 1264.8,
+    "urbanism": 740.1,
+    "administration": 410.2,
+    "legislative": 149.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4109.4,
+      "health_per_capita": 922.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4413.8,
+      "health_per_capita": 993.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4718.2,
+      "health_per_capita": 1064.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4971.8,
+      "health_per_capita": 1135.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5073.3,
+      "health_per_capita": 1182.7
+    }
+  ]
+}

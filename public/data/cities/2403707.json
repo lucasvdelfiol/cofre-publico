@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2403707",
+  "city_name": "Felipe Guerra",
+  "uf": "RN",
+  "population": 5944,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 32843016.28,
+    "total_expense": 32738816.37,
+    "own_revenue_percentage": 20.3,
+    "transfers_revenue_percentage": 79.7,
+    "personnel_expense_percentage_rcl": 45.6
+  },
+  "per_capita_breakdown": {
+    "health": 1156.8,
+    "education": 1330.7,
+    "urbanism": 495.2,
+    "administration": 453.5,
+    "legislative": 137.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4461.4,
+      "health_per_capita": 902.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4791.9,
+      "health_per_capita": 971.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5122.3,
+      "health_per_capita": 1041.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5397.7,
+      "health_per_capita": 1110.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5507.9,
+      "health_per_capita": 1156.8
+    }
+  ]
+}

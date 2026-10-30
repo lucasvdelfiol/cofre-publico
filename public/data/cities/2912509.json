@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2912509",
+  "city_name": "Ibipitanga",
+  "uf": "BA",
+  "population": 13863,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 62496759.33,
+    "total_expense": 60685586.41,
+    "own_revenue_percentage": 18.7,
+    "transfers_revenue_percentage": 81.3,
+    "personnel_expense_percentage_rcl": 46.8
+  },
+  "per_capita_breakdown": {
+    "health": 1159.1,
+    "education": 1358.0,
+    "urbanism": 613.4,
+    "administration": 370.6,
+    "legislative": 116.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3545.8,
+      "health_per_capita": 904.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3808.4,
+      "health_per_capita": 973.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4071.1,
+      "health_per_capita": 1043.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4289.9,
+      "health_per_capita": 1112.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4377.5,
+      "health_per_capita": 1159.1
+    }
+  ]
+}

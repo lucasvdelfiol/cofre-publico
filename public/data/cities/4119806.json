@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4119806",
+  "city_name": "Planalto",
+  "uf": "PR",
+  "population": 14374,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 80736494.96,
+    "total_expense": 78895067.01,
+    "own_revenue_percentage": 11.5,
+    "transfers_revenue_percentage": 88.5,
+    "personnel_expense_percentage_rcl": 46.7
+  },
+  "per_capita_breakdown": {
+    "health": 1234.7,
+    "education": 1464.0,
+    "urbanism": 844.6,
+    "administration": 383.7,
+    "legislative": 89.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4445.8,
+      "health_per_capita": 963.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4775.2,
+      "health_per_capita": 1037.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5104.5,
+      "health_per_capita": 1111.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5378.9,
+      "health_per_capita": 1185.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5488.7,
+      "health_per_capita": 1234.7
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2310605",
+  "city_name": "Penaforte",
+  "uf": "CE",
+  "population": 8972,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 47191873.62,
+    "total_expense": 47446872.62,
+    "own_revenue_percentage": 9.1,
+    "transfers_revenue_percentage": 90.9,
+    "personnel_expense_percentage_rcl": 51.9
+  },
+  "per_capita_breakdown": {
+    "health": 1126.7,
+    "education": 1323.6,
+    "urbanism": 531.6,
+    "administration": 573.3,
+    "legislative": 122.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4283.5,
+      "health_per_capita": 878.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4600.8,
+      "health_per_capita": 946.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4918.1,
+      "health_per_capita": 1014.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5182.5,
+      "health_per_capita": 1081.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5288.3,
+      "health_per_capita": 1126.7
+    }
+  ]
+}

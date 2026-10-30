@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3526100",
+  "city_name": "Juquiá",
+  "uf": "SP",
+  "population": 17154,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 91306707.63,
+    "total_expense": 89247022.92,
+    "own_revenue_percentage": 21.7,
+    "transfers_revenue_percentage": 78.3,
+    "personnel_expense_percentage_rcl": 47.1
+  },
+  "per_capita_breakdown": {
+    "health": 1222.5,
+    "education": 1291.2,
+    "urbanism": 601.0,
+    "administration": 429.3,
+    "legislative": 111.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4214.2,
+      "health_per_capita": 953.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4526.3,
+      "health_per_capita": 1026.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4838.5,
+      "health_per_capita": 1100.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5098.6,
+      "health_per_capita": 1173.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5202.7,
+      "health_per_capita": 1222.5
+    }
+  ]
+}

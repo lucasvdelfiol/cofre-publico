@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3161007",
+  "city_name": "São Domingos do Prata",
+  "uf": "MG",
+  "population": 17392,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 97114117.78,
+    "total_expense": 93936198.66,
+    "own_revenue_percentage": 19.0,
+    "transfers_revenue_percentage": 81.0,
+    "personnel_expense_percentage_rcl": 50.1
+  },
+  "per_capita_breakdown": {
+    "health": 1251.9,
+    "education": 1589.0,
+    "urbanism": 741.7,
+    "administration": 483.4,
+    "legislative": 152.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4374.9,
+      "health_per_capita": 976.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4699.0,
+      "health_per_capita": 1051.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5023.0,
+      "health_per_capita": 1126.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5293.1,
+      "health_per_capita": 1201.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5401.1,
+      "health_per_capita": 1251.9
+    }
+  ]
+}

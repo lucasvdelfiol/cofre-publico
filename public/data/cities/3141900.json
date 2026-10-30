@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3141900",
+  "city_name": "Minduri",
+  "uf": "MG",
+  "population": 3741,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 18146522.6,
+    "total_expense": 17849428.07,
+    "own_revenue_percentage": 13.0,
+    "transfers_revenue_percentage": 87.0,
+    "personnel_expense_percentage_rcl": 50.0
+  },
+  "per_capita_breakdown": {
+    "health": 1187.5,
+    "education": 1436.6,
+    "urbanism": 582.7,
+    "administration": 329.0,
+    "legislative": 164.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3864.8,
+      "health_per_capita": 926.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4151.0,
+      "health_per_capita": 997.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4437.3,
+      "health_per_capita": 1068.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4675.9,
+      "health_per_capita": 1140.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4771.3,
+      "health_per_capita": 1187.5
+    }
+  ]
+}

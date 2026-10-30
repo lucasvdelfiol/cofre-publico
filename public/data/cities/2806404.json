@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2806404",
+  "city_name": "Santana do São Francisco",
+  "uf": "SE",
+  "population": 7346,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 42418985.97,
+    "total_expense": 41077104.58,
+    "own_revenue_percentage": 12.8,
+    "transfers_revenue_percentage": 87.2,
+    "personnel_expense_percentage_rcl": 51.2
+  },
+  "per_capita_breakdown": {
+    "health": 1131.8,
+    "education": 1738.1,
+    "urbanism": 552.7,
+    "administration": 421.2,
+    "legislative": 180.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4529.4,
+      "health_per_capita": 882.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4864.9,
+      "health_per_capita": 950.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5200.4,
+      "health_per_capita": 1018.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5480.0,
+      "health_per_capita": 1086.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5591.8,
+      "health_per_capita": 1131.8
+    }
+  ]
+}

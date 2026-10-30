@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4302006",
+  "city_name": "Barros Cassal",
+  "uf": "RS",
+  "population": 9296,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 44643465.05,
+    "total_expense": 43004011.62,
+    "own_revenue_percentage": 20.8,
+    "transfers_revenue_percentage": 79.2,
+    "personnel_expense_percentage_rcl": 47.5
+  },
+  "per_capita_breakdown": {
+    "health": 1130.3,
+    "education": 1453.6,
+    "urbanism": 666.8,
+    "administration": 371.2,
+    "legislative": 79.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3747.1,
+      "health_per_capita": 881.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4024.7,
+      "health_per_capita": 949.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4302.3,
+      "health_per_capita": 1017.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4533.6,
+      "health_per_capita": 1085.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4626.1,
+      "health_per_capita": 1130.3
+    }
+  ]
+}

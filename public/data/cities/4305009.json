@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4305009",
+  "city_name": "Catuípe",
+  "uf": "RS",
+  "population": 8674,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 38323592.32,
+    "total_expense": 37716166.52,
+    "own_revenue_percentage": 21.9,
+    "transfers_revenue_percentage": 78.1,
+    "personnel_expense_percentage_rcl": 53.1
+  },
+  "per_capita_breakdown": {
+    "health": 1002.5,
+    "education": 1149.0,
+    "urbanism": 384.0,
+    "administration": 348.5,
+    "legislative": 108.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3522.0,
+      "health_per_capita": 782.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3782.9,
+      "health_per_capita": 842.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4043.8,
+      "health_per_capita": 902.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4261.2,
+      "health_per_capita": 962.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4348.2,
+      "health_per_capita": 1002.5
+    }
+  ]
+}

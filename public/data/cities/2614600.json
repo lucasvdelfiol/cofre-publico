@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2614600",
+  "city_name": "Tabira",
+  "uf": "PE",
+  "population": 27681,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 135946636.19,
+    "total_expense": 131221913.09,
+    "own_revenue_percentage": 28.5,
+    "transfers_revenue_percentage": 71.5,
+    "personnel_expense_percentage_rcl": 48.5
+  },
+  "per_capita_breakdown": {
+    "health": 1185.5,
+    "education": 1270.1,
+    "urbanism": 392.1,
+    "administration": 336.2,
+    "legislative": 84.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3839.8,
+      "health_per_capita": 924.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4124.2,
+      "health_per_capita": 995.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4408.7,
+      "health_per_capita": 1067.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4645.7,
+      "health_per_capita": 1138.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4740.5,
+      "health_per_capita": 1185.5
+    }
+  ]
+}

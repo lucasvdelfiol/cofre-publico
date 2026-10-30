@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3162609",
+  "city_name": "São João do Oriente",
+  "uf": "MG",
+  "population": 7070,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 31363686.41,
+    "total_expense": 30762848.47,
+    "own_revenue_percentage": 17.5,
+    "transfers_revenue_percentage": 82.5,
+    "personnel_expense_percentage_rcl": 46.2
+  },
+  "per_capita_breakdown": {
+    "health": 1159.7,
+    "education": 1152.3,
+    "urbanism": 631.6,
+    "administration": 398.0,
+    "legislative": 94.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3524.5,
+      "health_per_capita": 904.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3785.5,
+      "health_per_capita": 974.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4046.6,
+      "health_per_capita": 1043.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4264.2,
+      "health_per_capita": 1113.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4351.2,
+      "health_per_capita": 1159.7
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5100508",
+  "city_name": "Alto Paraguai",
+  "uf": "MT",
+  "population": 8009,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 44982728.06,
+    "total_expense": 44626684.1,
+    "own_revenue_percentage": 20.9,
+    "transfers_revenue_percentage": 79.1,
+    "personnel_expense_percentage_rcl": 52.7
+  },
+  "per_capita_breakdown": {
+    "health": 1485.7,
+    "education": 1732.8,
+    "urbanism": 643.6,
+    "administration": 371.8,
+    "legislative": 178.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4513.4,
+      "health_per_capita": 1158.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4847.7,
+      "health_per_capita": 1248.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5182.1,
+      "health_per_capita": 1337.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5460.7,
+      "health_per_capita": 1426.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5572.1,
+      "health_per_capita": 1485.7
+    }
+  ]
+}

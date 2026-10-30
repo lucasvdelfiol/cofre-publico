@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4322376",
+  "city_name": "Unistalda",
+  "uf": "RS",
+  "population": 1995,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 9504434.08,
+    "total_expense": 9316106.4,
+    "own_revenue_percentage": 19.9,
+    "transfers_revenue_percentage": 80.1,
+    "personnel_expense_percentage_rcl": 48.2
+  },
+  "per_capita_breakdown": {
+    "health": 1089.5,
+    "education": 1387.5,
+    "urbanism": 436.5,
+    "administration": 288.3,
+    "legislative": 162.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3782.5,
+      "health_per_capita": 849.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4062.6,
+      "health_per_capita": 915.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4342.8,
+      "health_per_capita": 980.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4576.3,
+      "health_per_capita": 1045.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4669.7,
+      "health_per_capita": 1089.5
+    }
+  ]
+}

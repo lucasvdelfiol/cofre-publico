@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4312054",
+  "city_name": "Marques de Souza",
+  "uf": "RS",
+  "population": 3969,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 19486634.78,
+    "total_expense": 19671626.18,
+    "own_revenue_percentage": 8.5,
+    "transfers_revenue_percentage": 91.5,
+    "personnel_expense_percentage_rcl": 50.6
+  },
+  "per_capita_breakdown": {
+    "health": 1193.6,
+    "education": 1255.1,
+    "urbanism": 614.7,
+    "administration": 510.2,
+    "legislative": 169.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4014.6,
+      "health_per_capita": 931.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4312.0,
+      "health_per_capita": 1002.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4609.4,
+      "health_per_capita": 1074.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4857.2,
+      "health_per_capita": 1145.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4956.3,
+      "health_per_capita": 1193.6
+    }
+  ]
+}

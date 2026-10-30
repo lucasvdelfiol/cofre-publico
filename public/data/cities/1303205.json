@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1303205",
+  "city_name": "Novo Airão",
+  "uf": "AM",
+  "population": 15761,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 80937876.03,
+    "total_expense": 79490844.1,
+    "own_revenue_percentage": 8.4,
+    "transfers_revenue_percentage": 91.6,
+    "personnel_expense_percentage_rcl": 46.6
+  },
+  "per_capita_breakdown": {
+    "health": 1314.5,
+    "education": 1274.9,
+    "urbanism": 500.2,
+    "administration": 577.1,
+    "legislative": 172.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4085.2,
+      "health_per_capita": 1025.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4387.8,
+      "health_per_capita": 1104.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4690.5,
+      "health_per_capita": 1183.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4942.6,
+      "health_per_capita": 1261.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5043.5,
+      "health_per_capita": 1314.5
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2112407",
+  "city_name": "Turiaçu",
+  "uf": "MA",
+  "population": 37491,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 186799521.18,
+    "total_expense": 181300226.17,
+    "own_revenue_percentage": 31.6,
+    "transfers_revenue_percentage": 68.4,
+    "personnel_expense_percentage_rcl": 52.6
+  },
+  "per_capita_breakdown": {
+    "health": 1035.8,
+    "education": 1260.4,
+    "urbanism": 675.6,
+    "administration": 337.0,
+    "legislative": 125.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3917.0,
+      "health_per_capita": 807.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4207.1,
+      "health_per_capita": 870.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4497.3,
+      "health_per_capita": 932.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4739.1,
+      "health_per_capita": 994.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4835.8,
+      "health_per_capita": 1035.8
+    }
+  ]
+}

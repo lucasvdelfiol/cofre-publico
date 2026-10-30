@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2407609",
+  "city_name": "Messias Targino",
+  "uf": "RN",
+  "population": 4274,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 18775745.34,
+    "total_expense": 18569010.44,
+    "own_revenue_percentage": 15.1,
+    "transfers_revenue_percentage": 84.9,
+    "personnel_expense_percentage_rcl": 48.9
+  },
+  "per_capita_breakdown": {
+    "health": 886.3,
+    "education": 1112.1,
+    "urbanism": 400.9,
+    "administration": 327.1,
+    "legislative": 136.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3519.1,
+      "health_per_capita": 691.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3779.8,
+      "health_per_capita": 744.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4040.5,
+      "health_per_capita": 797.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4257.7,
+      "health_per_capita": 850.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4344.6,
+      "health_per_capita": 886.3
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2111052",
+  "city_name": "São João do Paraíso",
+  "uf": "MA",
+  "population": 9904,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 47284407.68,
+    "total_expense": 45786050.57,
+    "own_revenue_percentage": 11.9,
+    "transfers_revenue_percentage": 88.1,
+    "personnel_expense_percentage_rcl": 49.3
+  },
+  "per_capita_breakdown": {
+    "health": 1000.3,
+    "education": 1138.2,
+    "urbanism": 453.8,
+    "administration": 386.9,
+    "legislative": 117.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3744.6,
+      "health_per_capita": 780.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4022.0,
+      "health_per_capita": 840.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4299.4,
+      "health_per_capita": 900.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4530.5,
+      "health_per_capita": 960.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4623.0,
+      "health_per_capita": 1000.3
+    }
+  ]
+}

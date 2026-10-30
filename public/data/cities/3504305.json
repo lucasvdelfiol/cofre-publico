@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3504305",
+  "city_name": "Avaí",
+  "uf": "SP",
+  "population": 4483,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 23062894.72,
+    "total_expense": 23083280.35,
+    "own_revenue_percentage": 16.2,
+    "transfers_revenue_percentage": 83.8,
+    "personnel_expense_percentage_rcl": 47.2
+  },
+  "per_capita_breakdown": {
+    "health": 1188.6,
+    "education": 1431.0,
+    "urbanism": 771.2,
+    "administration": 535.6,
+    "legislative": 166.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4170.8,
+      "health_per_capita": 927.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4479.7,
+      "health_per_capita": 998.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4788.7,
+      "health_per_capita": 1069.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5046.1,
+      "health_per_capita": 1141.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5149.1,
+      "health_per_capita": 1188.6
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3113800",
+  "city_name": "Carmésia",
+  "uf": "MG",
+  "population": 2605,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 13675772.83,
+    "total_expense": 13284072.14,
+    "own_revenue_percentage": 8.6,
+    "transfers_revenue_percentage": 91.4,
+    "personnel_expense_percentage_rcl": 51.5
+  },
+  "per_capita_breakdown": {
+    "health": 1086.4,
+    "education": 1588.3,
+    "urbanism": 790.8,
+    "administration": 562.3,
+    "legislative": 82.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4130.6,
+      "health_per_capita": 847.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4436.6,
+      "health_per_capita": 912.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4742.5,
+      "health_per_capita": 977.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4997.5,
+      "health_per_capita": 1042.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5099.5,
+      "health_per_capita": 1086.4
+    }
+  ]
+}

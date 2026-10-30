@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3162104",
+  "city_name": "São Gotardo",
+  "uf": "MG",
+  "population": 40910,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 178947186.69,
+    "total_expense": 177379066.66,
+    "own_revenue_percentage": 21.1,
+    "transfers_revenue_percentage": 78.9,
+    "personnel_expense_percentage_rcl": 50.0
+  },
+  "per_capita_breakdown": {
+    "health": 1030.2,
+    "education": 1290.3,
+    "urbanism": 421.0,
+    "administration": 313.8,
+    "legislative": 66.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3512.0,
+      "health_per_capita": 803.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3772.1,
+      "health_per_capita": 865.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4032.3,
+      "health_per_capita": 927.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4249.1,
+      "health_per_capita": 989.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4335.8,
+      "health_per_capita": 1030.2
+    }
+  ]
+}

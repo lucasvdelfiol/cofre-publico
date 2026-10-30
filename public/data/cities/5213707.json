@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5213707",
+  "city_name": "Montes Claros de Goiás",
+  "uf": "GO",
+  "population": 8756,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 44887981.0,
+    "total_expense": 44195880.78,
+    "own_revenue_percentage": 8.0,
+    "transfers_revenue_percentage": 92.0,
+    "personnel_expense_percentage_rcl": 46.4
+  },
+  "per_capita_breakdown": {
+    "health": 1010.1,
+    "education": 1248.6,
+    "urbanism": 417.2,
+    "administration": 412.9,
+    "legislative": 134.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4088.5,
+      "health_per_capita": 787.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4391.3,
+      "health_per_capita": 848.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4694.2,
+      "health_per_capita": 909.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4946.6,
+      "health_per_capita": 969.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5047.5,
+      "health_per_capita": 1010.1
+    }
+  ]
+}

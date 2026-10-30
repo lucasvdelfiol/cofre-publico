@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3140555",
+  "city_name": "Mata Verde",
+  "uf": "MG",
+  "population": 9112,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 45896176.51,
+    "total_expense": 44195401.64,
+    "own_revenue_percentage": 12.5,
+    "transfers_revenue_percentage": 87.5,
+    "personnel_expense_percentage_rcl": 53.2
+  },
+  "per_capita_breakdown": {
+    "health": 1085.9,
+    "education": 1305.8,
+    "urbanism": 522.6,
+    "administration": 551.6,
+    "legislative": 80.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3928.7,
+      "health_per_capita": 847.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4219.7,
+      "health_per_capita": 912.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4510.7,
+      "health_per_capita": 977.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4753.2,
+      "health_per_capita": 1042.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4850.2,
+      "health_per_capita": 1085.9
+    }
+  ]
+}

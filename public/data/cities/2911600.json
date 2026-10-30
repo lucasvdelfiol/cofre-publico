@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2911600",
+  "city_name": "Governador Mangabeira",
+  "uf": "BA",
+  "population": 20605,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 89663314.98,
+    "total_expense": 88096852.45,
+    "own_revenue_percentage": 22.3,
+    "transfers_revenue_percentage": 77.7,
+    "personnel_expense_percentage_rcl": 53.4
+  },
+  "per_capita_breakdown": {
+    "health": 1029.1,
+    "education": 1029.7,
+    "urbanism": 659.9,
+    "administration": 433.0,
+    "legislative": 99.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3463.2,
+      "health_per_capita": 802.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3719.7,
+      "health_per_capita": 864.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3976.2,
+      "health_per_capita": 926.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4190.0,
+      "health_per_capita": 987.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4275.5,
+      "health_per_capita": 1029.1
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4303509",
+  "city_name": "Camaquã",
+  "uf": "RS",
+  "population": 62200,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 284055831.78,
+    "total_expense": 284268856.33,
+    "own_revenue_percentage": 33.1,
+    "transfers_revenue_percentage": 66.9,
+    "personnel_expense_percentage_rcl": 47.4
+  },
+  "per_capita_breakdown": {
+    "health": 1144.8,
+    "education": 1244.6,
+    "urbanism": 438.2,
+    "administration": 299.5,
+    "legislative": 154.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3701.9,
+      "health_per_capita": 892.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3976.1,
+      "health_per_capita": 961.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4250.3,
+      "health_per_capita": 1030.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4478.8,
+      "health_per_capita": 1099.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4570.2,
+      "health_per_capita": 1144.8
+    }
+  ]
+}

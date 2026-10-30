@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2506301",
+  "city_name": "Guarabira",
+  "uf": "PB",
+  "population": 57484,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 263031491.25,
+    "total_expense": 264522320.95,
+    "own_revenue_percentage": 42.0,
+    "transfers_revenue_percentage": 58.0,
+    "personnel_expense_percentage_rcl": 47.4
+  },
+  "per_capita_breakdown": {
+    "health": 1184.8,
+    "education": 1382.0,
+    "urbanism": 518.4,
+    "administration": 469.3,
+    "legislative": 159.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3727.4,
+      "health_per_capita": 924.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4003.5,
+      "health_per_capita": 995.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4279.6,
+      "health_per_capita": 1066.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4509.7,
+      "health_per_capita": 1137.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4601.7,
+      "health_per_capita": 1184.8
+    }
+  ]
+}

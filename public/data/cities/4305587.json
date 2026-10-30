@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4305587",
+  "city_name": "Colinas",
+  "uf": "RS",
+  "population": 2423,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 12006839.11,
+    "total_expense": 12046659.06,
+    "own_revenue_percentage": 8.3,
+    "transfers_revenue_percentage": 91.7,
+    "personnel_expense_percentage_rcl": 53.0
+  },
+  "per_capita_breakdown": {
+    "health": 1171.4,
+    "education": 1304.4,
+    "urbanism": 600.1,
+    "administration": 492.4,
+    "legislative": 123.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4027.2,
+      "health_per_capita": 913.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4325.5,
+      "health_per_capita": 984.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4623.8,
+      "health_per_capita": 1054.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4872.4,
+      "health_per_capita": 1124.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4971.8,
+      "health_per_capita": 1171.4
+    }
+  ]
+}

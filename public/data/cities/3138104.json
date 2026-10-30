@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3138104",
+  "city_name": "Lassance",
+  "uf": "MG",
+  "population": 7124,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 34099108.49,
+    "total_expense": 33468021.59,
+    "own_revenue_percentage": 15.5,
+    "transfers_revenue_percentage": 84.5,
+    "personnel_expense_percentage_rcl": 52.8
+  },
+  "per_capita_breakdown": {
+    "health": 943.2,
+    "education": 1315.8,
+    "urbanism": 538.2,
+    "administration": 370.8,
+    "legislative": 89.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3805.3,
+      "health_per_capita": 735.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4087.2,
+      "health_per_capita": 792.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4369.0,
+      "health_per_capita": 848.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4603.9,
+      "health_per_capita": 905.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4697.9,
+      "health_per_capita": 943.2
+    }
+  ]
+}

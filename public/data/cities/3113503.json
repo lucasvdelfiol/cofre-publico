@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3113503",
+  "city_name": "Carbonita",
+  "uf": "MG",
+  "population": 8512,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 38560822.24,
+    "total_expense": 38276976.73,
+    "own_revenue_percentage": 10.7,
+    "transfers_revenue_percentage": 89.3,
+    "personnel_expense_percentage_rcl": 45.6
+  },
+  "per_capita_breakdown": {
+    "health": 1045.5,
+    "education": 1268.4,
+    "urbanism": 440.8,
+    "administration": 507.8,
+    "legislative": 155.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3642.4,
+      "health_per_capita": 815.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3912.2,
+      "health_per_capita": 878.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4182.0,
+      "health_per_capita": 941.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4406.9,
+      "health_per_capita": 1003.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4496.8,
+      "health_per_capita": 1045.5
+    }
+  ]
+}

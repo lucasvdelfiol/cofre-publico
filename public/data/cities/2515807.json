@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2515807",
+  "city_name": "Serra Redonda",
+  "uf": "PB",
+  "population": 6828,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 35939073.93,
+    "total_expense": 36208318.48,
+    "own_revenue_percentage": 18.3,
+    "transfers_revenue_percentage": 81.7,
+    "personnel_expense_percentage_rcl": 49.4
+  },
+  "per_capita_breakdown": {
+    "health": 1379.5,
+    "education": 1589.8,
+    "urbanism": 831.7,
+    "administration": 470.8,
+    "legislative": 183.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4295.3,
+      "health_per_capita": 1076.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4613.5,
+      "health_per_capita": 1158.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4931.7,
+      "health_per_capita": 1241.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5196.8,
+      "health_per_capita": 1324.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5302.9,
+      "health_per_capita": 1379.5
+    }
+  ]
+}

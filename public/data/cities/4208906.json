@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4208906",
+  "city_name": "Jaraguá do Sul",
+  "uf": "SC",
+  "population": 182660,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 1028308321.89,
+    "total_expense": 1021599483.05,
+    "own_revenue_percentage": 47.2,
+    "transfers_revenue_percentage": 52.8,
+    "personnel_expense_percentage_rcl": 44.5
+  },
+  "per_capita_breakdown": {
+    "health": 1296.5,
+    "education": 1763.2,
+    "urbanism": 837.9,
+    "administration": 645.1,
+    "legislative": 154.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4530.2,
+      "health_per_capita": 1011.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4865.8,
+      "health_per_capita": 1089.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5201.4,
+      "health_per_capita": 1166.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5481.0,
+      "health_per_capita": 1244.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5592.9,
+      "health_per_capita": 1296.5
+    }
+  ]
+}

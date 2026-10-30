@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3511508",
+  "city_name": "Cerquilho",
+  "uf": "SP",
+  "population": 44695,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 213864011.01,
+    "total_expense": 206877694.99,
+    "own_revenue_percentage": 19.0,
+    "transfers_revenue_percentage": 81.0,
+    "personnel_expense_percentage_rcl": 52.3
+  },
+  "per_capita_breakdown": {
+    "health": 1139.6,
+    "education": 1260.3,
+    "urbanism": 524.9,
+    "administration": 425.7,
+    "legislative": 95.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3749.2,
+      "health_per_capita": 888.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4027.0,
+      "health_per_capita": 957.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4304.7,
+      "health_per_capita": 1025.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4536.1,
+      "health_per_capita": 1094.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4628.7,
+      "health_per_capita": 1139.6
+    }
+  ]
+}

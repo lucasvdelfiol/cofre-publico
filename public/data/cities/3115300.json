@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3115300",
+  "city_name": "Cataguases",
+  "uf": "MG",
+  "population": 66261,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 291331932.85,
+    "total_expense": 292859438.02,
+    "own_revenue_percentage": 42.0,
+    "transfers_revenue_percentage": 58.0,
+    "personnel_expense_percentage_rcl": 51.5
+  },
+  "per_capita_breakdown": {
+    "health": 1200.7,
+    "education": 1287.9,
+    "urbanism": 670.1,
+    "administration": 360.4,
+    "legislative": 150.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3580.0,
+      "health_per_capita": 936.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3845.2,
+      "health_per_capita": 1008.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4110.4,
+      "health_per_capita": 1080.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4331.4,
+      "health_per_capita": 1152.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4419.8,
+      "health_per_capita": 1200.7
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3538105",
+  "city_name": "Pindorama",
+  "uf": "SP",
+  "population": 14542,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 81260467.55,
+    "total_expense": 80374435.86,
+    "own_revenue_percentage": 13.8,
+    "transfers_revenue_percentage": 86.2,
+    "personnel_expense_percentage_rcl": 52.6
+  },
+  "per_capita_breakdown": {
+    "health": 1382.3,
+    "education": 1502.1,
+    "urbanism": 810.5,
+    "administration": 509.2,
+    "legislative": 101.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4477.0,
+      "health_per_capita": 1078.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4808.6,
+      "health_per_capita": 1161.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5140.2,
+      "health_per_capita": 1244.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5416.6,
+      "health_per_capita": 1327.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5527.1,
+      "health_per_capita": 1382.3
+    }
+  ]
+}

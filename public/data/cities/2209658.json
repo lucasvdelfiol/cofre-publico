@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2209658",
+  "city_name": "São Francisco de Assis do Piauí",
+  "uf": "PI",
+  "population": 5572,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 29321049.53,
+    "total_expense": 28425865.93,
+    "own_revenue_percentage": 13.2,
+    "transfers_revenue_percentage": 86.8,
+    "personnel_expense_percentage_rcl": 49.7
+  },
+  "per_capita_breakdown": {
+    "health": 1104.8,
+    "education": 1312.5,
+    "urbanism": 617.2,
+    "administration": 473.1,
+    "legislative": 123.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4132.3,
+      "health_per_capita": 861.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4438.4,
+      "health_per_capita": 928.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4744.5,
+      "health_per_capita": 994.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4999.6,
+      "health_per_capita": 1060.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5101.6,
+      "health_per_capita": 1104.8
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4317905",
+  "city_name": "Santo Cristo",
+  "uf": "RS",
+  "population": 15320,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 82715112.61,
+    "total_expense": 82551653.23,
+    "own_revenue_percentage": 9.8,
+    "transfers_revenue_percentage": 90.2,
+    "personnel_expense_percentage_rcl": 48.3
+  },
+  "per_capita_breakdown": {
+    "health": 1168.3,
+    "education": 1684.0,
+    "urbanism": 755.4,
+    "administration": 581.4,
+    "legislative": 118.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4364.7,
+      "health_per_capita": 911.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4688.0,
+      "health_per_capita": 981.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5011.3,
+      "health_per_capita": 1051.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5280.7,
+      "health_per_capita": 1121.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5388.5,
+      "health_per_capita": 1168.3
+    }
+  ]
+}

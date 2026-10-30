@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2930006",
+  "city_name": "Sebastião Laranjeiras",
+  "uf": "BA",
+  "population": 9360,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 45761922.45,
+    "total_expense": 45789346.5,
+    "own_revenue_percentage": 18.7,
+    "transfers_revenue_percentage": 81.3,
+    "personnel_expense_percentage_rcl": 51.8
+  },
+  "per_capita_breakdown": {
+    "health": 1298.6,
+    "education": 1338.7,
+    "urbanism": 639.1,
+    "administration": 414.1,
+    "legislative": 84.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3962.5,
+      "health_per_capita": 1012.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4256.0,
+      "health_per_capita": 1090.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4549.6,
+      "health_per_capita": 1168.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4794.2,
+      "health_per_capita": 1246.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4892.0,
+      "health_per_capita": 1298.6
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3150000",
+  "city_name": "Pescador",
+  "uf": "MG",
+  "population": 3570,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 17237666.54,
+    "total_expense": 16884269.1,
+    "own_revenue_percentage": 10.2,
+    "transfers_revenue_percentage": 89.8,
+    "personnel_expense_percentage_rcl": 52.2
+  },
+  "per_capita_breakdown": {
+    "health": 1156.0,
+    "education": 1366.3,
+    "urbanism": 439.8,
+    "administration": 350.5,
+    "legislative": 124.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3830.9,
+      "health_per_capita": 901.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4114.7,
+      "health_per_capita": 971.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4398.4,
+      "health_per_capita": 1040.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4634.9,
+      "health_per_capita": 1109.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4729.5,
+      "health_per_capita": 1156.0
+    }
+  ]
+}

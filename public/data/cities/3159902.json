@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3159902",
+  "city_name": "Santo Antônio do Amparo",
+  "uf": "MG",
+  "population": 17285,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 87962100.79,
+    "total_expense": 86194423.56,
+    "own_revenue_percentage": 13.2,
+    "transfers_revenue_percentage": 86.8,
+    "personnel_expense_percentage_rcl": 48.5
+  },
+  "per_capita_breakdown": {
+    "health": 1202.8,
+    "education": 1595.3,
+    "urbanism": 454.0,
+    "administration": 514.8,
+    "legislative": 113.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4039.2,
+      "health_per_capita": 938.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4338.4,
+      "health_per_capita": 1010.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4637.6,
+      "health_per_capita": 1082.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4887.0,
+      "health_per_capita": 1154.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4986.7,
+      "health_per_capita": 1202.8
+    }
+  ]
+}

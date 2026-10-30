@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3131703",
+  "city_name": "Itabira",
+  "uf": "MG",
+  "population": 113343,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 567813984.77,
+    "total_expense": 551927714.89,
+    "own_revenue_percentage": 45.9,
+    "transfers_revenue_percentage": 54.1,
+    "personnel_expense_percentage_rcl": 46.5
+  },
+  "per_capita_breakdown": {
+    "health": 1030.7,
+    "education": 1450.5,
+    "urbanism": 579.5,
+    "administration": 526.1,
+    "legislative": 109.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3944.3,
+      "health_per_capita": 803.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4236.5,
+      "health_per_capita": 865.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4528.6,
+      "health_per_capita": 927.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4772.1,
+      "health_per_capita": 989.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4869.5,
+      "health_per_capita": 1030.7
+    }
+  ]
+}

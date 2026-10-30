@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5107354",
+  "city_name": "São José do Xingu",
+  "uf": "MT",
+  "population": 5964,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 30735465.43,
+    "total_expense": 29776775.86,
+    "own_revenue_percentage": 15.2,
+    "transfers_revenue_percentage": 84.8,
+    "personnel_expense_percentage_rcl": 50.0
+  },
+  "per_capita_breakdown": {
+    "health": 1066.5,
+    "education": 1536.4,
+    "urbanism": 682.1,
+    "administration": 348.0,
+    "legislative": 153.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4044.2,
+      "health_per_capita": 831.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4343.7,
+      "health_per_capita": 895.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4643.3,
+      "health_per_capita": 959.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4892.9,
+      "health_per_capita": 1023.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4992.8,
+      "health_per_capita": 1066.5
+    }
+  ]
+}

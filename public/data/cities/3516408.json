@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3516408",
+  "city_name": "Franco da Rocha",
+  "uf": "SP",
+  "population": 144849,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 764347644.65,
+    "total_expense": 741898222.68,
+    "own_revenue_percentage": 52.7,
+    "transfers_revenue_percentage": 47.3,
+    "personnel_expense_percentage_rcl": 52.1
+  },
+  "per_capita_breakdown": {
+    "health": 1148.0,
+    "education": 1563.8,
+    "urbanism": 504.4,
+    "administration": 333.2,
+    "legislative": 147.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4148.7,
+      "health_per_capita": 895.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4456.1,
+      "health_per_capita": 964.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4763.4,
+      "health_per_capita": 1033.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5019.5,
+      "health_per_capita": 1102.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5121.9,
+      "health_per_capita": 1148.0
+    }
+  ]
+}

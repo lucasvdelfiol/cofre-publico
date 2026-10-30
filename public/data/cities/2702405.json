@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2702405",
+  "city_name": "Delmiro Gouveia",
+  "uf": "AL",
+  "population": 51318,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 234606557.2,
+    "total_expense": 229143228.75,
+    "own_revenue_percentage": 40.2,
+    "transfers_revenue_percentage": 59.8,
+    "personnel_expense_percentage_rcl": 51.7
+  },
+  "per_capita_breakdown": {
+    "health": 1216.5,
+    "education": 1184.4,
+    "urbanism": 451.7,
+    "administration": 506.7,
+    "legislative": 102.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3616.8,
+      "health_per_capita": 948.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3884.7,
+      "health_per_capita": 1021.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4152.6,
+      "health_per_capita": 1094.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4375.9,
+      "health_per_capita": 1167.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4465.2,
+      "health_per_capita": 1216.5
+    }
+  ]
+}

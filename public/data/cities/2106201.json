@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2106201",
+  "city_name": "Luís Domingues",
+  "uf": "MA",
+  "population": 7161,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 39053680.01,
+    "total_expense": 38641671.81,
+    "own_revenue_percentage": 20.4,
+    "transfers_revenue_percentage": 79.6,
+    "personnel_expense_percentage_rcl": 53.4
+  },
+  "per_capita_breakdown": {
+    "health": 1407.9,
+    "education": 1692.7,
+    "urbanism": 484.0,
+    "administration": 356.6,
+    "legislative": 127.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4370.8,
+      "health_per_capita": 1098.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4694.6,
+      "health_per_capita": 1182.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5018.4,
+      "health_per_capita": 1267.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5288.2,
+      "health_per_capita": 1351.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5396.1,
+      "health_per_capita": 1407.9
+    }
+  ]
+}

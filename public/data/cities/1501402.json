@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1501402",
+  "city_name": "Belém",
+  "uf": "PA",
+  "population": 1303403,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 9424372178.75,
+    "total_expense": 9480986635.18,
+    "own_revenue_percentage": 60.2,
+    "transfers_revenue_percentage": 39.8,
+    "personnel_expense_percentage_rcl": 43.8
+  },
+  "per_capita_breakdown": {
+    "health": 2028.9,
+    "education": 1892.6,
+    "urbanism": 806.1,
+    "administration": 685.8,
+    "legislative": 173.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 5891.9,
+      "health_per_capita": 1582.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 6328.4,
+      "health_per_capita": 1704.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 6764.8,
+      "health_per_capita": 1826.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 7128.5,
+      "health_per_capita": 1947.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 7274.0,
+      "health_per_capita": 2028.9
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2206696",
+  "city_name": "Murici dos Portelas",
+  "uf": "PI",
+  "population": 9797,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 42940907.31,
+    "total_expense": 43095976.03,
+    "own_revenue_percentage": 8.1,
+    "transfers_revenue_percentage": 91.9,
+    "personnel_expense_percentage_rcl": 51.5
+  },
+  "per_capita_breakdown": {
+    "health": 1161.1,
+    "education": 1335.6,
+    "urbanism": 665.4,
+    "administration": 333.8,
+    "legislative": 77.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3563.1,
+      "health_per_capita": 905.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3827.0,
+      "health_per_capita": 975.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4091.0,
+      "health_per_capita": 1045.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4310.9,
+      "health_per_capita": 1114.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4398.9,
+      "health_per_capita": 1161.1
+    }
+  ]
+}

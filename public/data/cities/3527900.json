@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3527900",
+  "city_name": "Lutécia",
+  "uf": "SP",
+  "population": 2661,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 14011610.14,
+    "total_expense": 13800308.27,
+    "own_revenue_percentage": 10.1,
+    "transfers_revenue_percentage": 89.9,
+    "personnel_expense_percentage_rcl": 46.9
+  },
+  "per_capita_breakdown": {
+    "health": 1057.1,
+    "education": 1260.0,
+    "urbanism": 819.4,
+    "administration": 497.5,
+    "legislative": 113.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4200.7,
+      "health_per_capita": 824.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4511.9,
+      "health_per_capita": 888.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4823.1,
+      "health_per_capita": 951.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5082.4,
+      "health_per_capita": 1014.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5186.1,
+      "health_per_capita": 1057.1
+    }
+  ]
+}

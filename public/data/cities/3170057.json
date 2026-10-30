@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3170057",
+  "city_name": "Ubaporanga",
+  "uf": "MG",
+  "population": 13017,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 70171437.06,
+    "total_expense": 70023510.37,
+    "own_revenue_percentage": 11.8,
+    "transfers_revenue_percentage": 88.2,
+    "personnel_expense_percentage_rcl": 51.5
+  },
+  "per_capita_breakdown": {
+    "health": 1216.7,
+    "education": 1611.3,
+    "urbanism": 481.1,
+    "administration": 534.7,
+    "legislative": 172.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4357.3,
+      "health_per_capita": 949.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4680.1,
+      "health_per_capita": 1022.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5002.8,
+      "health_per_capita": 1095.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5271.8,
+      "health_per_capita": 1168.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5379.4,
+      "health_per_capita": 1216.7
+    }
+  ]
+}

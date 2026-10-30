@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5004809",
+  "city_name": "Japorã",
+  "uf": "MS",
+  "population": 8148,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 43366422.82,
+    "total_expense": 43785534.45,
+    "own_revenue_percentage": 19.8,
+    "transfers_revenue_percentage": 80.2,
+    "personnel_expense_percentage_rcl": 51.2
+  },
+  "per_capita_breakdown": {
+    "health": 1321.7,
+    "education": 1471.9,
+    "urbanism": 503.3,
+    "administration": 632.8,
+    "legislative": 143.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4352.8,
+      "health_per_capita": 1030.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4675.2,
+      "health_per_capita": 1110.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4997.6,
+      "health_per_capita": 1189.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5266.3,
+      "health_per_capita": 1268.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5373.8,
+      "health_per_capita": 1321.7
+    }
+  ]
+}

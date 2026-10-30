@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2925758",
+  "city_name": "Presidente Tancredo Neves",
+  "uf": "BA",
+  "population": 27734,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 134067865.5,
+    "total_expense": 133036968.29,
+    "own_revenue_percentage": 27.7,
+    "transfers_revenue_percentage": 72.3,
+    "personnel_expense_percentage_rcl": 47.6
+  },
+  "per_capita_breakdown": {
+    "health": 999.7,
+    "education": 1197.3,
+    "urbanism": 463.8,
+    "administration": 481.7,
+    "legislative": 158.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3885.5,
+      "health_per_capita": 779.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4173.3,
+      "health_per_capita": 839.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4461.1,
+      "health_per_capita": 899.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4701.0,
+      "health_per_capita": 959.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4796.9,
+      "health_per_capita": 999.7
+    }
+  ]
+}

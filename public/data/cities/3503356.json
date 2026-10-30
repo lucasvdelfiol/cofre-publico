@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3503356",
+  "city_name": "Arco-Íris",
+  "uf": "SP",
+  "population": 2044,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 9635139.1,
+    "total_expense": 9664101.16,
+    "own_revenue_percentage": 18.5,
+    "transfers_revenue_percentage": 81.5,
+    "personnel_expense_percentage_rcl": 47.2
+  },
+  "per_capita_breakdown": {
+    "health": 1097.1,
+    "education": 1339.6,
+    "urbanism": 531.9,
+    "administration": 459.6,
+    "legislative": 82.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3829.7,
+      "health_per_capita": 855.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4113.4,
+      "health_per_capita": 921.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4397.0,
+      "health_per_capita": 987.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4633.4,
+      "health_per_capita": 1053.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4728.0,
+      "health_per_capita": 1097.1
+    }
+  ]
+}

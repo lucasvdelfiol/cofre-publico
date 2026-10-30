@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2919108",
+  "city_name": "Lamarão",
+  "uf": "BA",
+  "population": 9015,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 44292512.51,
+    "total_expense": 42933570.49,
+    "own_revenue_percentage": 14.8,
+    "transfers_revenue_percentage": 85.2,
+    "personnel_expense_percentage_rcl": 53.1
+  },
+  "per_capita_breakdown": {
+    "health": 1305.6,
+    "education": 1487.3,
+    "urbanism": 563.4,
+    "administration": 357.1,
+    "legislative": 94.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3857.6,
+      "health_per_capita": 1018.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4143.4,
+      "health_per_capita": 1096.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4429.1,
+      "health_per_capita": 1175.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4667.2,
+      "health_per_capita": 1253.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4762.5,
+      "health_per_capita": 1305.6
+    }
+  ]
+}

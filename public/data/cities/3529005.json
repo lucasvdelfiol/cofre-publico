@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3529005",
+  "city_name": "Marília",
+  "uf": "SP",
+  "population": 237627,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 1143764436.27,
+    "total_expense": 1132715098.34,
+    "own_revenue_percentage": 44.1,
+    "transfers_revenue_percentage": 55.9,
+    "personnel_expense_percentage_rcl": 44.4
+  },
+  "per_capita_breakdown": {
+    "health": 1110.2,
+    "education": 1239.2,
+    "urbanism": 574.3,
+    "administration": 569.8,
+    "legislative": 164.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3861.1,
+      "health_per_capita": 866.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4147.1,
+      "health_per_capita": 932.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4433.1,
+      "health_per_capita": 999.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4671.5,
+      "health_per_capita": 1065.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4766.8,
+      "health_per_capita": 1110.2
+    }
+  ]
+}

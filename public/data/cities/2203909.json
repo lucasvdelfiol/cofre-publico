@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2203909",
+  "city_name": "Floriano",
+  "uf": "PI",
+  "population": 62036,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 286396953.63,
+    "total_expense": 286804095.31,
+    "own_revenue_percentage": 31.4,
+    "transfers_revenue_percentage": 68.6,
+    "personnel_expense_percentage_rcl": 49.4
+  },
+  "per_capita_breakdown": {
+    "health": 1011.4,
+    "education": 1365.0,
+    "urbanism": 600.2,
+    "administration": 390.8,
+    "legislative": 103.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3744.8,
+      "health_per_capita": 788.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4022.2,
+      "health_per_capita": 849.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4299.6,
+      "health_per_capita": 910.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4530.7,
+      "health_per_capita": 970.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4623.2,
+      "health_per_capita": 1011.4
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2100550",
+  "city_name": "Amapá do Maranhão",
+  "uf": "MA",
+  "population": 7170,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 34723354.01,
+    "total_expense": 34833910.78,
+    "own_revenue_percentage": 20.7,
+    "transfers_revenue_percentage": 79.3,
+    "personnel_expense_percentage_rcl": 50.0
+  },
+  "per_capita_breakdown": {
+    "health": 1347.3,
+    "education": 1426.4,
+    "urbanism": 691.8,
+    "administration": 403.9,
+    "legislative": 99.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3935.2,
+      "health_per_capita": 1050.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4226.7,
+      "health_per_capita": 1131.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4518.2,
+      "health_per_capita": 1212.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4761.1,
+      "health_per_capita": 1293.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4858.3,
+      "health_per_capita": 1347.3
+    }
+  ]
+}

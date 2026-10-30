@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2909703",
+  "city_name": "Cristópolis",
+  "uf": "BA",
+  "population": 13993,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 69732690.56,
+    "total_expense": 68346361.07,
+    "own_revenue_percentage": 19.6,
+    "transfers_revenue_percentage": 80.4,
+    "personnel_expense_percentage_rcl": 48.2
+  },
+  "per_capita_breakdown": {
+    "health": 1325.6,
+    "education": 1422.8,
+    "urbanism": 496.0,
+    "administration": 330.2,
+    "legislative": 131.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3956.3,
+      "health_per_capita": 1034.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4249.3,
+      "health_per_capita": 1113.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4542.4,
+      "health_per_capita": 1193.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4786.6,
+      "health_per_capita": 1272.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4884.3,
+      "health_per_capita": 1325.6
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2918407",
+  "city_name": "Juazeiro",
+  "uf": "BA",
+  "population": 237821,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 1310102628.63,
+    "total_expense": 1318146714.22,
+    "own_revenue_percentage": 50.9,
+    "transfers_revenue_percentage": 49.1,
+    "personnel_expense_percentage_rcl": 46.3
+  },
+  "per_capita_breakdown": {
+    "health": 1408.9,
+    "education": 1717.9,
+    "urbanism": 840.0,
+    "administration": 494.2,
+    "legislative": 150.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4489.5,
+      "health_per_capita": 1098.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4822.1,
+      "health_per_capita": 1183.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5154.6,
+      "health_per_capita": 1268.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5431.7,
+      "health_per_capita": 1352.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5542.6,
+      "health_per_capita": 1408.9
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4101408",
+  "city_name": "Apucarana",
+  "uf": "PR",
+  "population": 130134,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 738999952.95,
+    "total_expense": 736737156.24,
+    "own_revenue_percentage": 46.3,
+    "transfers_revenue_percentage": 53.7,
+    "personnel_expense_percentage_rcl": 47.1
+  },
+  "per_capita_breakdown": {
+    "health": 1162.9,
+    "education": 1407.0,
+    "urbanism": 842.7,
+    "administration": 618.4,
+    "legislative": 187.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4585.7,
+      "health_per_capita": 907.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4925.4,
+      "health_per_capita": 976.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5265.1,
+      "health_per_capita": 1046.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5548.2,
+      "health_per_capita": 1116.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5661.4,
+      "health_per_capita": 1162.9
+    }
+  ]
+}

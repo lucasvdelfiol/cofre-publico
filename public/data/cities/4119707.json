@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4119707",
+  "city_name": "Planaltina do Paraná",
+  "uf": "PR",
+  "population": 4070,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 20151126.96,
+    "total_expense": 20156687.09,
+    "own_revenue_percentage": 15.6,
+    "transfers_revenue_percentage": 84.4,
+    "personnel_expense_percentage_rcl": 52.2
+  },
+  "per_capita_breakdown": {
+    "health": 1327.4,
+    "education": 1558.4,
+    "urbanism": 461.9,
+    "administration": 335.7,
+    "legislative": 108.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4011.5,
+      "health_per_capita": 1035.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4308.7,
+      "health_per_capita": 1115.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4605.8,
+      "health_per_capita": 1194.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4853.4,
+      "health_per_capita": 1274.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4952.5,
+      "health_per_capita": 1327.4
+    }
+  ]
+}

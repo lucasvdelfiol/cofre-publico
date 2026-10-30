@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4313466",
+  "city_name": "Novo Xingu",
+  "uf": "RS",
+  "population": 1646,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 7359941.3,
+    "total_expense": 7234133.56,
+    "own_revenue_percentage": 8.7,
+    "transfers_revenue_percentage": 91.3,
+    "personnel_expense_percentage_rcl": 49.7
+  },
+  "per_capita_breakdown": {
+    "health": 909.1,
+    "education": 1324.3,
+    "urbanism": 361.3,
+    "administration": 450.5,
+    "legislative": 67.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3560.0,
+      "health_per_capita": 709.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3823.7,
+      "health_per_capita": 763.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4087.4,
+      "health_per_capita": 818.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4307.1,
+      "health_per_capita": 872.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4395.0,
+      "health_per_capita": 909.1
+    }
+  ]
+}

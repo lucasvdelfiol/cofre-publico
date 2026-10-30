@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3537206",
+  "city_name": "Pedro de Toledo",
+  "uf": "SP",
+  "population": 11281,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 51713344.09,
+    "total_expense": 50590626.12,
+    "own_revenue_percentage": 13.4,
+    "transfers_revenue_percentage": 86.6,
+    "personnel_expense_percentage_rcl": 51.4
+  },
+  "per_capita_breakdown": {
+    "health": 967.4,
+    "education": 1212.3,
+    "urbanism": 698.3,
+    "administration": 405.5,
+    "legislative": 150.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3632.5,
+      "health_per_capita": 754.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3901.6,
+      "health_per_capita": 812.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4170.7,
+      "health_per_capita": 870.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4394.9,
+      "health_per_capita": 928.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4484.6,
+      "health_per_capita": 967.4
+    }
+  ]
+}

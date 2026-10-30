@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5212006",
+  "city_name": "Jaupaci",
+  "uf": "GO",
+  "population": 2924,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 16299850.35,
+    "total_expense": 16193385.18,
+    "own_revenue_percentage": 10.0,
+    "transfers_revenue_percentage": 90.0,
+    "personnel_expense_percentage_rcl": 51.9
+  },
+  "per_capita_breakdown": {
+    "health": 1451.3,
+    "education": 1489.8,
+    "urbanism": 453.9,
+    "administration": 557.3,
+    "legislative": 152.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4485.9,
+      "health_per_capita": 1132.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4818.1,
+      "health_per_capita": 1219.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5150.4,
+      "health_per_capita": 1306.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5427.3,
+      "health_per_capita": 1393.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5538.1,
+      "health_per_capita": 1451.3
+    }
+  ]
+}

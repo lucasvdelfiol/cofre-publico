@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2500908",
+  "city_name": "Arara",
+  "uf": "PB",
+  "population": 12212,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 59900867.39,
+    "total_expense": 60011088.05,
+    "own_revenue_percentage": 18.9,
+    "transfers_revenue_percentage": 81.1,
+    "personnel_expense_percentage_rcl": 46.8
+  },
+  "per_capita_breakdown": {
+    "health": 1030.9,
+    "education": 1192.4,
+    "urbanism": 450.2,
+    "administration": 388.0,
+    "legislative": 98.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3980.4,
+      "health_per_capita": 804.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4275.3,
+      "health_per_capita": 866.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4570.1,
+      "health_per_capita": 927.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4815.8,
+      "health_per_capita": 989.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4914.1,
+      "health_per_capita": 1030.9
+    }
+  ]
+}

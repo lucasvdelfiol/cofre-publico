@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1200054",
+  "city_name": "Assis Brasil",
+  "uf": "AC",
+  "population": 8100,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 39109452.93,
+    "total_expense": 39309408.21,
+    "own_revenue_percentage": 10.4,
+    "transfers_revenue_percentage": 89.6,
+    "personnel_expense_percentage_rcl": 45.6
+  },
+  "per_capita_breakdown": {
+    "health": 1285.3,
+    "education": 1503.2,
+    "urbanism": 577.3,
+    "administration": 538.5,
+    "legislative": 108.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3930.9,
+      "health_per_capita": 1002.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4222.1,
+      "health_per_capita": 1079.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4513.3,
+      "health_per_capita": 1156.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4755.9,
+      "health_per_capita": 1233.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4853.0,
+      "health_per_capita": 1285.3
+    }
+  ]
+}

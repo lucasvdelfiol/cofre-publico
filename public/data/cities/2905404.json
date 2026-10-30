@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2905404",
+  "city_name": "Cairu",
+  "uf": "BA",
+  "population": 17761,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 79964862.5,
+    "total_expense": 80199299.97,
+    "own_revenue_percentage": 17.3,
+    "transfers_revenue_percentage": 82.7,
+    "personnel_expense_percentage_rcl": 50.7
+  },
+  "per_capita_breakdown": {
+    "health": 1022.0,
+    "education": 1349.0,
+    "urbanism": 489.8,
+    "administration": 459.1,
+    "legislative": 149.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3657.6,
+      "health_per_capita": 797.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3928.5,
+      "health_per_capita": 858.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4199.4,
+      "health_per_capita": 919.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4425.2,
+      "health_per_capita": 981.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4515.5,
+      "health_per_capita": 1022.0
+    }
+  ]
+}

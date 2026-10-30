@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3203320",
+  "city_name": "Marataízes",
+  "uf": "ES",
+  "population": 41929,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 204909289.88,
+    "total_expense": 202881602.57,
+    "own_revenue_percentage": 30.6,
+    "transfers_revenue_percentage": 69.4,
+    "personnel_expense_percentage_rcl": 46.3
+  },
+  "per_capita_breakdown": {
+    "health": 1207.0,
+    "education": 1494.1,
+    "urbanism": 705.3,
+    "administration": 542.4,
+    "legislative": 144.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3919.3,
+      "health_per_capita": 941.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4209.7,
+      "health_per_capita": 1013.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4500.0,
+      "health_per_capita": 1086.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4741.9,
+      "health_per_capita": 1158.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4838.7,
+      "health_per_capita": 1207.0
+    }
+  ]
+}

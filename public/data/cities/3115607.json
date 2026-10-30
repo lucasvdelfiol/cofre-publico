@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3115607",
+  "city_name": "Cedro do Abaeté",
+  "uf": "MG",
+  "population": 1500,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 7755943.34,
+    "total_expense": 7631976.91,
+    "own_revenue_percentage": 13.1,
+    "transfers_revenue_percentage": 86.9,
+    "personnel_expense_percentage_rcl": 52.7
+  },
+  "per_capita_breakdown": {
+    "health": 1376.8,
+    "education": 1514.5,
+    "urbanism": 783.1,
+    "administration": 567.2,
+    "legislative": 78.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4121.3,
+      "health_per_capita": 1073.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4426.6,
+      "health_per_capita": 1156.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4731.8,
+      "health_per_capita": 1239.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4986.2,
+      "health_per_capita": 1321.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5088.0,
+      "health_per_capita": 1376.8
+    }
+  ]
+}

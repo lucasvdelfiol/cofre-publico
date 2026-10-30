@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3548807",
+  "city_name": "São Caetano do Sul",
+  "uf": "SP",
+  "population": 165655,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 922820495.37,
+    "total_expense": 915113890.46,
+    "own_revenue_percentage": 53.6,
+    "transfers_revenue_percentage": 46.4,
+    "personnel_expense_percentage_rcl": 51.2
+  },
+  "per_capita_breakdown": {
+    "health": 1328.5,
+    "education": 1339.9,
+    "urbanism": 876.9,
+    "administration": 369.8,
+    "legislative": 94.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4474.6,
+      "health_per_capita": 1036.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4806.1,
+      "health_per_capita": 1115.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5137.5,
+      "health_per_capita": 1195.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5413.7,
+      "health_per_capita": 1275.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5524.2,
+      "health_per_capita": 1328.5
+    }
+  ]
+}

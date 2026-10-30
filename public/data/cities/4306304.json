@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4306304",
+  "city_name": "David Canabarro",
+  "uf": "RS",
+  "population": 4321,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 21434464.75,
+    "total_expense": 21083363.05,
+    "own_revenue_percentage": 17.9,
+    "transfers_revenue_percentage": 82.1,
+    "personnel_expense_percentage_rcl": 45.8
+  },
+  "per_capita_breakdown": {
+    "health": 1330.8,
+    "education": 1211.1,
+    "urbanism": 482.4,
+    "administration": 391.1,
+    "legislative": 97.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3952.2,
+      "health_per_capita": 1038.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4245.0,
+      "health_per_capita": 1117.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4537.7,
+      "health_per_capita": 1197.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4781.7,
+      "health_per_capita": 1277.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4879.3,
+      "health_per_capita": 1330.8
+    }
+  ]
+}

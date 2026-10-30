@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4321501",
+  "city_name": "Torres",
+  "uf": "RS",
+  "population": 41751,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 179752482.4,
+    "total_expense": 180611311.78,
+    "own_revenue_percentage": 22.0,
+    "transfers_revenue_percentage": 78.0,
+    "personnel_expense_percentage_rcl": 53.3
+  },
+  "per_capita_breakdown": {
+    "health": 961.8,
+    "education": 1307.6,
+    "urbanism": 374.9,
+    "administration": 318.4,
+    "legislative": 142.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3504.0,
+      "health_per_capita": 750.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3763.5,
+      "health_per_capita": 807.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4023.1,
+      "health_per_capita": 865.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4239.4,
+      "health_per_capita": 923.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4325.9,
+      "health_per_capita": 961.8
+    }
+  ]
+}

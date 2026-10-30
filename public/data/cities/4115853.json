@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4115853",
+  "city_name": "Mercedes",
+  "uf": "PR",
+  "population": 5931,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 33652561.02,
+    "total_expense": 33061952.66,
+    "own_revenue_percentage": 15.1,
+    "transfers_revenue_percentage": 84.9,
+    "personnel_expense_percentage_rcl": 47.3
+  },
+  "per_capita_breakdown": {
+    "health": 1226.2,
+    "education": 1654.2,
+    "urbanism": 670.4,
+    "administration": 491.3,
+    "legislative": 174.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4515.3,
+      "health_per_capita": 956.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4849.7,
+      "health_per_capita": 1030.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5184.2,
+      "health_per_capita": 1103.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5462.9,
+      "health_per_capita": 1177.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5574.4,
+      "health_per_capita": 1226.2
+    }
+  ]
+}

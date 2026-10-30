@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4304408",
+  "city_name": "Canela",
+  "uf": "RS",
+  "population": 48946,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 227670219.65,
+    "total_expense": 220554362.29,
+    "own_revenue_percentage": 23.8,
+    "transfers_revenue_percentage": 76.2,
+    "personnel_expense_percentage_rcl": 53.4
+  },
+  "per_capita_breakdown": {
+    "health": 1136.8,
+    "education": 1272.9,
+    "urbanism": 436.0,
+    "administration": 477.1,
+    "legislative": 109.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3649.9,
+      "health_per_capita": 886.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3920.3,
+      "health_per_capita": 954.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4190.7,
+      "health_per_capita": 1023.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4416.0,
+      "health_per_capita": 1091.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4506.1,
+      "health_per_capita": 1136.8
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4319356",
+  "city_name": "São Pedro da Serra",
+  "uf": "RS",
+  "population": 3548,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 18346476.96,
+    "total_expense": 17928196.93,
+    "own_revenue_percentage": 19.5,
+    "transfers_revenue_percentage": 80.5,
+    "personnel_expense_percentage_rcl": 50.8
+  },
+  "per_capita_breakdown": {
+    "health": 1410.4,
+    "education": 1416.0,
+    "urbanism": 670.2,
+    "administration": 388.3,
+    "legislative": 154.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4092.9,
+      "health_per_capita": 1100.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4396.1,
+      "health_per_capita": 1184.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4699.3,
+      "health_per_capita": 1269.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4951.9,
+      "health_per_capita": 1354.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5053.0,
+      "health_per_capita": 1410.4
+    }
+  ]
+}

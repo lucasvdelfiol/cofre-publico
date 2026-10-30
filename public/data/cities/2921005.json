@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2921005",
+  "city_name": "Mata de São João",
+  "uf": "BA",
+  "population": 42566,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 201364411.3,
+    "total_expense": 195777540.12,
+    "own_revenue_percentage": 30.2,
+    "transfers_revenue_percentage": 69.8,
+    "personnel_expense_percentage_rcl": 48.3
+  },
+  "per_capita_breakdown": {
+    "health": 920.8,
+    "education": 1109.4,
+    "urbanism": 510.6,
+    "administration": 354.9,
+    "legislative": 78.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3725.5,
+      "health_per_capita": 718.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4001.5,
+      "health_per_capita": 773.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4277.4,
+      "health_per_capita": 828.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4507.4,
+      "health_per_capita": 884.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4599.4,
+      "health_per_capita": 920.8
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3172004",
+  "city_name": "Visconde do Rio Branco",
+  "uf": "MG",
+  "population": 39160,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 190311321.24,
+    "total_expense": 184235449.62,
+    "own_revenue_percentage": 26.7,
+    "transfers_revenue_percentage": 73.3,
+    "personnel_expense_percentage_rcl": 49.3
+  },
+  "per_capita_breakdown": {
+    "health": 1279.9,
+    "education": 1329.4,
+    "urbanism": 661.7,
+    "administration": 299.1,
+    "legislative": 109.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3810.8,
+      "health_per_capita": 998.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4093.1,
+      "health_per_capita": 1075.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4375.4,
+      "health_per_capita": 1151.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4610.6,
+      "health_per_capita": 1228.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4704.7,
+      "health_per_capita": 1279.9
+    }
+  ]
+}

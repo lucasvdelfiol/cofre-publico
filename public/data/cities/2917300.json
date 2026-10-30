@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2917300",
+  "city_name": "Ituberá",
+  "uf": "BA",
+  "population": 21902,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 109458430.34,
+    "total_expense": 106038286.67,
+    "own_revenue_percentage": 27.6,
+    "transfers_revenue_percentage": 72.4,
+    "personnel_expense_percentage_rcl": 48.4
+  },
+  "per_capita_breakdown": {
+    "health": 1347.1,
+    "education": 1184.7,
+    "urbanism": 734.7,
+    "administration": 306.2,
+    "legislative": 110.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3921.6,
+      "health_per_capita": 1050.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4212.1,
+      "health_per_capita": 1131.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4502.6,
+      "health_per_capita": 1212.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4744.7,
+      "health_per_capita": 1293.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4841.5,
+      "health_per_capita": 1347.1
+    }
+  ]
+}

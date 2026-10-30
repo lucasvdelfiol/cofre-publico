@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3500105",
+  "city_name": "Adamantina",
+  "uf": "SP",
+  "population": 34687,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 167932952.55,
+    "total_expense": 161828978.9,
+    "own_revenue_percentage": 24.5,
+    "transfers_revenue_percentage": 75.5,
+    "personnel_expense_percentage_rcl": 46.5
+  },
+  "per_capita_breakdown": {
+    "health": 1035.6,
+    "education": 1427.6,
+    "urbanism": 507.8,
+    "administration": 480.1,
+    "legislative": 99.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3779.0,
+      "health_per_capita": 807.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4058.9,
+      "health_per_capita": 869.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4338.8,
+      "health_per_capita": 932.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4572.1,
+      "health_per_capita": 994.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4665.4,
+      "health_per_capita": 1035.6
+    }
+  ]
+}

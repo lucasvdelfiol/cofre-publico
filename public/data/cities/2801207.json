@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2801207",
+  "city_name": "Canindé de São Francisco",
+  "uf": "SE",
+  "population": 26834,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 131955007.44,
+    "total_expense": 129826399.89,
+    "own_revenue_percentage": 23.6,
+    "transfers_revenue_percentage": 76.4,
+    "personnel_expense_percentage_rcl": 46.8
+  },
+  "per_capita_breakdown": {
+    "health": 1024.9,
+    "education": 1200.7,
+    "urbanism": 578.7,
+    "administration": 577.7,
+    "legislative": 164.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3918.9,
+      "health_per_capita": 799.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4209.1,
+      "health_per_capita": 860.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4499.4,
+      "health_per_capita": 922.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4741.3,
+      "health_per_capita": 983.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4838.1,
+      "health_per_capita": 1024.9
+    }
+  ]
+}

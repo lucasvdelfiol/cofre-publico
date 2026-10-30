@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2206753",
+  "city_name": "Nossa Senhora de Nazaré",
+  "uf": "PI",
+  "population": 5228,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 26371147.92,
+    "total_expense": 25553092.58,
+    "own_revenue_percentage": 11.3,
+    "transfers_revenue_percentage": 88.7,
+    "personnel_expense_percentage_rcl": 51.3
+  },
+  "per_capita_breakdown": {
+    "health": 1182.4,
+    "education": 1199.7,
+    "urbanism": 771.4,
+    "administration": 323.9,
+    "legislative": 142.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3959.0,
+      "health_per_capita": 922.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4252.3,
+      "health_per_capita": 993.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4545.6,
+      "health_per_capita": 1064.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4789.9,
+      "health_per_capita": 1135.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4887.7,
+      "health_per_capita": 1182.4
+    }
+  ]
+}

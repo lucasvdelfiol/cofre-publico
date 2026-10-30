@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5214408",
+  "city_name": "Nazário",
+  "uf": "GO",
+  "population": 8189,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 38478996.08,
+    "total_expense": 37103748.83,
+    "own_revenue_percentage": 8.8,
+    "transfers_revenue_percentage": 91.2,
+    "personnel_expense_percentage_rcl": 48.8
+  },
+  "per_capita_breakdown": {
+    "health": 1236.1,
+    "education": 1139.1,
+    "urbanism": 478.6,
+    "administration": 349.4,
+    "legislative": 75.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3670.0,
+      "health_per_capita": 964.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3941.9,
+      "health_per_capita": 1038.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4213.7,
+      "health_per_capita": 1112.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4440.3,
+      "health_per_capita": 1186.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4530.9,
+      "health_per_capita": 1236.1
+    }
+  ]
+}

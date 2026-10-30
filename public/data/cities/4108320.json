@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4108320",
+  "city_name": "Francisco Alves",
+  "uf": "PR",
+  "population": 8116,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 40143199.62,
+    "total_expense": 39170191.3,
+    "own_revenue_percentage": 11.5,
+    "transfers_revenue_percentage": 88.5,
+    "personnel_expense_percentage_rcl": 52.6
+  },
+  "per_capita_breakdown": {
+    "health": 1028.2,
+    "education": 1163.8,
+    "urbanism": 586.7,
+    "administration": 573.9,
+    "legislative": 149.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3909.3,
+      "health_per_capita": 802.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4198.9,
+      "health_per_capita": 863.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4488.5,
+      "health_per_capita": 925.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4729.8,
+      "health_per_capita": 987.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4826.3,
+      "health_per_capita": 1028.2
+    }
+  ]
+}

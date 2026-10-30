@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3554706",
+  "city_name": "Torrinha",
+  "uf": "SP",
+  "population": 9335,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 52340149.72,
+    "total_expense": 50709085.47,
+    "own_revenue_percentage": 12.3,
+    "transfers_revenue_percentage": 87.7,
+    "personnel_expense_percentage_rcl": 50.9
+  },
+  "per_capita_breakdown": {
+    "health": 1477.5,
+    "education": 1581.4,
+    "urbanism": 547.9,
+    "administration": 471.5,
+    "legislative": 159.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4400.0,
+      "health_per_capita": 1152.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4725.9,
+      "health_per_capita": 1241.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5051.9,
+      "health_per_capita": 1329.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5323.5,
+      "health_per_capita": 1418.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5432.1,
+      "health_per_capita": 1477.5
+    }
+  ]
+}

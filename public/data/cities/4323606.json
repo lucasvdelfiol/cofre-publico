@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4323606",
+  "city_name": "Vista Alegre do Prata",
+  "uf": "RS",
+  "population": 1590,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 7831737.39,
+    "total_expense": 7676683.37,
+    "own_revenue_percentage": 15.4,
+    "transfers_revenue_percentage": 84.6,
+    "personnel_expense_percentage_rcl": 47.8
+  },
+  "per_capita_breakdown": {
+    "health": 1049.3,
+    "education": 1352.6,
+    "urbanism": 683.8,
+    "administration": 402.7,
+    "legislative": 135.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3910.8,
+      "health_per_capita": 818.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4200.4,
+      "health_per_capita": 881.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4490.1,
+      "health_per_capita": 944.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4731.5,
+      "health_per_capita": 1007.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4828.1,
+      "health_per_capita": 1049.3
+    }
+  ]
+}

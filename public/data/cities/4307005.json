@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4307005",
+  "city_name": "Erechim",
+  "uf": "RS",
+  "population": 105705,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 522488040.05,
+    "total_expense": 507017554.73,
+    "own_revenue_percentage": 43.9,
+    "transfers_revenue_percentage": 56.1,
+    "personnel_expense_percentage_rcl": 46.9
+  },
+  "per_capita_breakdown": {
+    "health": 975.2,
+    "education": 1322.9,
+    "urbanism": 590.5,
+    "administration": 367.2,
+    "legislative": 97.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3885.2,
+      "health_per_capita": 760.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4173.0,
+      "health_per_capita": 819.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4460.7,
+      "health_per_capita": 877.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4700.6,
+      "health_per_capita": 936.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4796.5,
+      "health_per_capita": 975.2
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4105607",
+  "city_name": "Cidade Gaúcha",
+  "uf": "PR",
+  "population": 11467,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 51711272.54,
+    "total_expense": 51650283.67,
+    "own_revenue_percentage": 8.0,
+    "transfers_revenue_percentage": 92.0,
+    "personnel_expense_percentage_rcl": 51.7
+  },
+  "per_capita_breakdown": {
+    "health": 953.6,
+    "education": 1192.1,
+    "urbanism": 486.7,
+    "administration": 388.0,
+    "legislative": 112.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3648.5,
+      "health_per_capita": 743.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3918.7,
+      "health_per_capita": 801.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4189.0,
+      "health_per_capita": 858.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4414.2,
+      "health_per_capita": 915.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4504.3,
+      "health_per_capita": 953.6
+    }
+  ]
+}

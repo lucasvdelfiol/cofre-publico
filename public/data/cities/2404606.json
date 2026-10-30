@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2404606",
+  "city_name": "Ielmo Marinho",
+  "uf": "RN",
+  "population": 11615,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 56865404.21,
+    "total_expense": 57088389.63,
+    "own_revenue_percentage": 15.5,
+    "transfers_revenue_percentage": 84.5,
+    "personnel_expense_percentage_rcl": 51.6
+  },
+  "per_capita_breakdown": {
+    "health": 1293.1,
+    "education": 1452.7,
+    "urbanism": 737.2,
+    "administration": 369.0,
+    "legislative": 159.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3981.2,
+      "health_per_capita": 1008.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4276.1,
+      "health_per_capita": 1086.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4571.0,
+      "health_per_capita": 1163.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4816.8,
+      "health_per_capita": 1241.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4915.1,
+      "health_per_capita": 1293.1
+    }
+  ]
+}

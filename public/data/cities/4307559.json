@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4307559",
+  "city_name": "Estação",
+  "uf": "RS",
+  "population": 5582,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 28094648.08,
+    "total_expense": 27621019.01,
+    "own_revenue_percentage": 17.1,
+    "transfers_revenue_percentage": 82.9,
+    "personnel_expense_percentage_rcl": 51.2
+  },
+  "per_capita_breakdown": {
+    "health": 1360.2,
+    "education": 1490.5,
+    "urbanism": 513.7,
+    "administration": 490.3,
+    "legislative": 164.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4008.0,
+      "health_per_capita": 1061.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4304.9,
+      "health_per_capita": 1142.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4601.8,
+      "health_per_capita": 1224.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4849.2,
+      "health_per_capita": 1305.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4948.2,
+      "health_per_capita": 1360.2
+    }
+  ]
+}

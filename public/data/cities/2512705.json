@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2512705",
+  "city_name": "Remígio",
+  "uf": "PB",
+  "population": 17885,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 98318754.46,
+    "total_expense": 95212023.44,
+    "own_revenue_percentage": 10.0,
+    "transfers_revenue_percentage": 90.0,
+    "personnel_expense_percentage_rcl": 52.0
+  },
+  "per_capita_breakdown": {
+    "health": 1385.3,
+    "education": 1545.1,
+    "urbanism": 677.0,
+    "administration": 476.6,
+    "legislative": 88.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4312.1,
+      "health_per_capita": 1080.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4631.5,
+      "health_per_capita": 1163.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4950.9,
+      "health_per_capita": 1246.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5217.1,
+      "health_per_capita": 1329.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5323.6,
+      "health_per_capita": 1385.3
+    }
+  ]
+}

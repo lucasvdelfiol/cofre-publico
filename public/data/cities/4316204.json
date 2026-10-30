@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4316204",
+  "city_name": "Rondinha",
+  "uf": "RS",
+  "population": 4991,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 23065648.1,
+    "total_expense": 22585708.32,
+    "own_revenue_percentage": 12.4,
+    "transfers_revenue_percentage": 87.6,
+    "personnel_expense_percentage_rcl": 52.2
+  },
+  "per_capita_breakdown": {
+    "health": 1106.8,
+    "education": 1295.9,
+    "urbanism": 444.1,
+    "administration": 406.2,
+    "legislative": 127.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3665.5,
+      "health_per_capita": 863.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3937.0,
+      "health_per_capita": 929.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4208.5,
+      "health_per_capita": 996.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4434.8,
+      "health_per_capita": 1062.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4525.3,
+      "health_per_capita": 1106.8
+    }
+  ]
+}

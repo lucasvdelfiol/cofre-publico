@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3152303",
+  "city_name": "Porto Firme",
+  "uf": "MG",
+  "population": 10569,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 57688474.13,
+    "total_expense": 56224141.25,
+    "own_revenue_percentage": 20.3,
+    "transfers_revenue_percentage": 79.7,
+    "personnel_expense_percentage_rcl": 53.6
+  },
+  "per_capita_breakdown": {
+    "health": 1213.7,
+    "education": 1290.2,
+    "urbanism": 433.3,
+    "administration": 353.2,
+    "legislative": 135.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4309.0,
+      "health_per_capita": 946.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4628.1,
+      "health_per_capita": 1019.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4947.3,
+      "health_per_capita": 1092.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5213.3,
+      "health_per_capita": 1165.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5319.7,
+      "health_per_capita": 1213.7
+    }
+  ]
+}

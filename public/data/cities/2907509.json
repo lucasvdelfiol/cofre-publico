@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2907509",
+  "city_name": "Catu",
+  "uf": "BA",
+  "population": 48148,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 226242253.95,
+    "total_expense": 218953036.69,
+    "own_revenue_percentage": 30.8,
+    "transfers_revenue_percentage": 69.2,
+    "personnel_expense_percentage_rcl": 52.4
+  },
+  "per_capita_breakdown": {
+    "health": 1212.0,
+    "education": 1358.3,
+    "urbanism": 697.9,
+    "administration": 372.3,
+    "legislative": 132.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3683.5,
+      "health_per_capita": 945.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3956.3,
+      "health_per_capita": 1018.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4229.2,
+      "health_per_capita": 1090.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4456.6,
+      "health_per_capita": 1163.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4547.5,
+      "health_per_capita": 1212.0
+    }
+  ]
+}

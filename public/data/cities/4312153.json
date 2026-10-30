@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4312153",
+  "city_name": "Mato Leitão",
+  "uf": "RS",
+  "population": 4859,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 24387643.09,
+    "total_expense": 24219952.29,
+    "own_revenue_percentage": 15.1,
+    "transfers_revenue_percentage": 84.9,
+    "personnel_expense_percentage_rcl": 46.3
+  },
+  "per_capita_breakdown": {
+    "health": 1340.2,
+    "education": 1592.8,
+    "urbanism": 740.6,
+    "administration": 525.9,
+    "legislative": 167.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4037.5,
+      "health_per_capita": 1045.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4336.6,
+      "health_per_capita": 1125.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4635.7,
+      "health_per_capita": 1206.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4884.9,
+      "health_per_capita": 1286.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4984.6,
+      "health_per_capita": 1340.2
+    }
+  ]
+}

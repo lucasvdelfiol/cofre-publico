@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4210100",
+  "city_name": "Mafra",
+  "uf": "SC",
+  "population": 55286,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 272994636.73,
+    "total_expense": 262564639.68,
+    "own_revenue_percentage": 30.7,
+    "transfers_revenue_percentage": 69.3,
+    "personnel_expense_percentage_rcl": 50.3
+  },
+  "per_capita_breakdown": {
+    "health": 1034.9,
+    "education": 1192.2,
+    "urbanism": 673.8,
+    "administration": 412.5,
+    "legislative": 93.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3846.9,
+      "health_per_capita": 807.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4131.8,
+      "health_per_capita": 869.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4416.8,
+      "health_per_capita": 931.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4654.2,
+      "health_per_capita": 993.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4749.2,
+      "health_per_capita": 1034.9
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3100807",
+  "city_name": "Aguanil",
+  "uf": "MG",
+  "population": 4357,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 20414052.43,
+    "total_expense": 19837368.27,
+    "own_revenue_percentage": 14.5,
+    "transfers_revenue_percentage": 85.5,
+    "personnel_expense_percentage_rcl": 52.7
+  },
+  "per_capita_breakdown": {
+    "health": 924.8,
+    "education": 1249.0,
+    "urbanism": 617.0,
+    "administration": 486.7,
+    "legislative": 154.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3687.9,
+      "health_per_capita": 721.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3961.1,
+      "health_per_capita": 776.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4234.3,
+      "health_per_capita": 832.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4461.9,
+      "health_per_capita": 887.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4553.0,
+      "health_per_capita": 924.8
+    }
+  ]
+}

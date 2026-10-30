@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1101708",
+  "city_name": "Urupá",
+  "uf": "RO",
+  "population": 10725,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 50370651.99,
+    "total_expense": 50512593.35,
+    "own_revenue_percentage": 11.6,
+    "transfers_revenue_percentage": 88.4,
+    "personnel_expense_percentage_rcl": 51.8
+  },
+  "per_capita_breakdown": {
+    "health": 1220.9,
+    "education": 1198.1,
+    "urbanism": 526.4,
+    "administration": 504.0,
+    "legislative": 74.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3814.9,
+      "health_per_capita": 952.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4097.5,
+      "health_per_capita": 1025.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4380.1,
+      "health_per_capita": 1098.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4615.6,
+      "health_per_capita": 1172.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4709.8,
+      "health_per_capita": 1220.9
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4103909",
+  "city_name": "Campina da Lagoa",
+  "uf": "PR",
+  "population": 15723,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 74147617.68,
+    "total_expense": 71324345.04,
+    "own_revenue_percentage": 13.3,
+    "transfers_revenue_percentage": 86.7,
+    "personnel_expense_percentage_rcl": 47.7
+  },
+  "per_capita_breakdown": {
+    "health": 964.4,
+    "education": 1311.4,
+    "urbanism": 633.2,
+    "administration": 500.4,
+    "legislative": 125.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3674.4,
+      "health_per_capita": 752.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3946.6,
+      "health_per_capita": 810.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4218.8,
+      "health_per_capita": 868.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4445.6,
+      "health_per_capita": 925.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4536.3,
+      "health_per_capita": 964.4
+    }
+  ]
+}

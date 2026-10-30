@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3305000",
+  "city_name": "São João da Barra",
+  "uf": "RJ",
+  "population": 36573,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 167455517.63,
+    "total_expense": 162098565.8,
+    "own_revenue_percentage": 19.8,
+    "transfers_revenue_percentage": 80.2,
+    "personnel_expense_percentage_rcl": 51.4
+  },
+  "per_capita_breakdown": {
+    "health": 1192.4,
+    "education": 1324.0,
+    "urbanism": 651.4,
+    "administration": 448.2,
+    "legislative": 77.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3590.1,
+      "health_per_capita": 930.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3856.0,
+      "health_per_capita": 1001.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4121.9,
+      "health_per_capita": 1073.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4343.6,
+      "health_per_capita": 1144.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4432.2,
+      "health_per_capita": 1192.4
+    }
+  ]
+}

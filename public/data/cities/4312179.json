@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4312179",
+  "city_name": "Mato Queimado",
+  "uf": "RS",
+  "population": 1795,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 9562966.29,
+    "total_expense": 9598677.62,
+    "own_revenue_percentage": 21.7,
+    "transfers_revenue_percentage": 78.3,
+    "personnel_expense_percentage_rcl": 51.7
+  },
+  "per_capita_breakdown": {
+    "health": 1334.4,
+    "education": 1434.8,
+    "urbanism": 534.1,
+    "administration": 596.6,
+    "legislative": 122.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4331.5,
+      "health_per_capita": 1040.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4652.3,
+      "health_per_capita": 1120.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4973.2,
+      "health_per_capita": 1201.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5240.6,
+      "health_per_capita": 1281.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5347.5,
+      "health_per_capita": 1334.4
+    }
+  ]
+}

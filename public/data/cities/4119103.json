@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4119103",
+  "city_name": "Piên",
+  "uf": "PR",
+  "population": 13655,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 61425742.2,
+    "total_expense": 60524875.75,
+    "own_revenue_percentage": 11.6,
+    "transfers_revenue_percentage": 88.4,
+    "personnel_expense_percentage_rcl": 50.0
+  },
+  "per_capita_breakdown": {
+    "health": 950.5,
+    "education": 1331.8,
+    "urbanism": 666.8,
+    "administration": 409.5,
+    "legislative": 100.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3590.2,
+      "health_per_capita": 741.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3856.2,
+      "health_per_capita": 798.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4122.1,
+      "health_per_capita": 855.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4343.8,
+      "health_per_capita": 912.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4432.4,
+      "health_per_capita": 950.5
+    }
+  ]
+}

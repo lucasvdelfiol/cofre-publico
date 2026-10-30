@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2403756",
+  "city_name": "Fernando Pedroza",
+  "uf": "RN",
+  "population": 2938,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 15664780.99,
+    "total_expense": 15772841.06,
+    "own_revenue_percentage": 15.7,
+    "transfers_revenue_percentage": 84.3,
+    "personnel_expense_percentage_rcl": 49.5
+  },
+  "per_capita_breakdown": {
+    "health": 1479.3,
+    "education": 1558.2,
+    "urbanism": 545.5,
+    "administration": 612.5,
+    "legislative": 112.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4348.6,
+      "health_per_capita": 1153.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4670.7,
+      "health_per_capita": 1242.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4992.8,
+      "health_per_capita": 1331.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5261.2,
+      "health_per_capita": 1420.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5368.6,
+      "health_per_capita": 1479.3
+    }
+  ]
+}

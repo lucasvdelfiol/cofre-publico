@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3124609",
+  "city_name": "Estrela Dalva",
+  "uf": "MG",
+  "population": 2186,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 10306470.27,
+    "total_expense": 10113652.05,
+    "own_revenue_percentage": 16.7,
+    "transfers_revenue_percentage": 83.3,
+    "personnel_expense_percentage_rcl": 48.9
+  },
+  "per_capita_breakdown": {
+    "health": 1247.0,
+    "education": 1445.0,
+    "urbanism": 602.9,
+    "administration": 319.2,
+    "legislative": 137.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3747.5,
+      "health_per_capita": 972.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4025.1,
+      "health_per_capita": 1047.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4302.7,
+      "health_per_capita": 1122.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4534.1,
+      "health_per_capita": 1197.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4626.6,
+      "health_per_capita": 1247.0
+    }
+  ]
+}

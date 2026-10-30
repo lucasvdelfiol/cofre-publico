@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5210109",
+  "city_name": "Ipameri",
+  "uf": "GO",
+  "population": 25548,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 111310010.37,
+    "total_expense": 111449731.71,
+    "own_revenue_percentage": 18.8,
+    "transfers_revenue_percentage": 81.2,
+    "personnel_expense_percentage_rcl": 49.2
+  },
+  "per_capita_breakdown": {
+    "health": 907.1,
+    "education": 1321.2,
+    "urbanism": 422.3,
+    "administration": 460.0,
+    "legislative": 127.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3533.5,
+      "health_per_capita": 707.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3795.3,
+      "health_per_capita": 762.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4057.0,
+      "health_per_capita": 816.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4275.2,
+      "health_per_capita": 870.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4362.4,
+      "health_per_capita": 907.1
+    }
+  ]
+}

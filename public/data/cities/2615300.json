@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2615300",
+  "city_name": "Timbaúba",
+  "uf": "PE",
+  "population": 46147,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 220430750.78,
+    "total_expense": 214126340.7,
+    "own_revenue_percentage": 25.4,
+    "transfers_revenue_percentage": 74.6,
+    "personnel_expense_percentage_rcl": 50.1
+  },
+  "per_capita_breakdown": {
+    "health": 1008.6,
+    "education": 1240.0,
+    "urbanism": 446.4,
+    "administration": 454.8,
+    "legislative": 153.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3758.5,
+      "health_per_capita": 786.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4036.9,
+      "health_per_capita": 847.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4315.3,
+      "health_per_capita": 907.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4547.3,
+      "health_per_capita": 968.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4640.1,
+      "health_per_capita": 1008.6
+    }
+  ]
+}

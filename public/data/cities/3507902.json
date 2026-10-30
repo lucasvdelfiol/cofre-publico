@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3507902",
+  "city_name": "Brotas",
+  "uf": "SP",
+  "population": 23898,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 108155750.88,
+    "total_expense": 104743796.78,
+    "own_revenue_percentage": 25.3,
+    "transfers_revenue_percentage": 74.7,
+    "personnel_expense_percentage_rcl": 53.5
+  },
+  "per_capita_breakdown": {
+    "health": 1193.2,
+    "education": 1131.0,
+    "urbanism": 517.9,
+    "administration": 338.2,
+    "legislative": 66.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3550.2,
+      "health_per_capita": 930.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3813.2,
+      "health_per_capita": 1002.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4076.2,
+      "health_per_capita": 1073.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4295.3,
+      "health_per_capita": 1145.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4383.0,
+      "health_per_capita": 1193.2
+    }
+  ]
+}

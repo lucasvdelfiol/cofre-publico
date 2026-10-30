@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2916500",
+  "city_name": "Itapicuru",
+  "uf": "BA",
+  "population": 31679,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 141021873.4,
+    "total_expense": 139154218.82,
+    "own_revenue_percentage": 31.5,
+    "transfers_revenue_percentage": 68.5,
+    "personnel_expense_percentage_rcl": 49.0
+  },
+  "per_capita_breakdown": {
+    "health": 986.3,
+    "education": 1101.4,
+    "urbanism": 372.1,
+    "administration": 495.7,
+    "legislative": 70.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3558.0,
+      "health_per_capita": 769.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3821.6,
+      "health_per_capita": 828.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4085.1,
+      "health_per_capita": 887.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4304.7,
+      "health_per_capita": 946.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4392.6,
+      "health_per_capita": 986.3
+    }
+  ]
+}

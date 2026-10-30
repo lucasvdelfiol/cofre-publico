@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5107578",
+  "city_name": "Rondolândia",
+  "uf": "MT",
+  "population": 3505,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 17092448.6,
+    "total_expense": 16505824.02,
+    "own_revenue_percentage": 19.0,
+    "transfers_revenue_percentage": 81.0,
+    "personnel_expense_percentage_rcl": 49.7
+  },
+  "per_capita_breakdown": {
+    "health": 1124.2,
+    "education": 1468.1,
+    "urbanism": 749.9,
+    "administration": 361.0,
+    "legislative": 100.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3814.5,
+      "health_per_capita": 876.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4097.0,
+      "health_per_capita": 944.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4379.6,
+      "health_per_capita": 1011.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4615.0,
+      "health_per_capita": 1079.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4709.2,
+      "health_per_capita": 1124.2
+    }
+  ]
+}

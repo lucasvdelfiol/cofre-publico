@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2109270",
+  "city_name": "Presidente Sarney",
+  "uf": "MA",
+  "population": 17511,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 84965389.11,
+    "total_expense": 85623332.14,
+    "own_revenue_percentage": 11.9,
+    "transfers_revenue_percentage": 88.1,
+    "personnel_expense_percentage_rcl": 48.7
+  },
+  "per_capita_breakdown": {
+    "health": 1279.0,
+    "education": 1184.1,
+    "urbanism": 718.0,
+    "administration": 473.4,
+    "legislative": 141.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3960.7,
+      "health_per_capita": 997.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4254.0,
+      "health_per_capita": 1074.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4547.4,
+      "health_per_capita": 1151.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4791.9,
+      "health_per_capita": 1227.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4889.7,
+      "health_per_capita": 1279.0
+    }
+  ]
+}

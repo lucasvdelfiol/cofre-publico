@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3528809",
+  "city_name": "Maracaí",
+  "uf": "SP",
+  "population": 12673,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 70852939.36,
+    "total_expense": 70123747.78,
+    "own_revenue_percentage": 9.6,
+    "transfers_revenue_percentage": 90.4,
+    "personnel_expense_percentage_rcl": 52.2
+  },
+  "per_capita_breakdown": {
+    "health": 1502.8,
+    "education": 1753.3,
+    "urbanism": 458.1,
+    "administration": 657.1,
+    "legislative": 117.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4482.0,
+      "health_per_capita": 1172.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4814.0,
+      "health_per_capita": 1262.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5146.0,
+      "health_per_capita": 1352.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5422.6,
+      "health_per_capita": 1442.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5533.3,
+      "health_per_capita": 1502.8
+    }
+  ]
+}

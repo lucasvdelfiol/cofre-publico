@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4121604",
+  "city_name": "Renascença",
+  "uf": "PR",
+  "population": 6845,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 36820023.46,
+    "total_expense": 36970505.31,
+    "own_revenue_percentage": 14.3,
+    "transfers_revenue_percentage": 85.7,
+    "personnel_expense_percentage_rcl": 53.6
+  },
+  "per_capita_breakdown": {
+    "health": 1470.9,
+    "education": 1595.0,
+    "urbanism": 591.0,
+    "administration": 365.2,
+    "legislative": 96.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4374.9,
+      "health_per_capita": 1147.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4699.0,
+      "health_per_capita": 1235.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5023.0,
+      "health_per_capita": 1323.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5293.1,
+      "health_per_capita": 1412.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5401.1,
+      "health_per_capita": 1470.9
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2301851",
+  "city_name": "Banabuiú",
+  "uf": "CE",
+  "population": 17195,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 99025341.87,
+    "total_expense": 96252606.86,
+    "own_revenue_percentage": 8.9,
+    "transfers_revenue_percentage": 91.1,
+    "personnel_expense_percentage_rcl": 46.1
+  },
+  "per_capita_breakdown": {
+    "health": 1216.4,
+    "education": 1399.8,
+    "urbanism": 552.9,
+    "administration": 612.9,
+    "legislative": 108.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4534.1,
+      "health_per_capita": 948.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4870.0,
+      "health_per_capita": 1021.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5205.9,
+      "health_per_capita": 1094.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5485.7,
+      "health_per_capita": 1167.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5597.7,
+      "health_per_capita": 1216.4
+    }
+  ]
+}

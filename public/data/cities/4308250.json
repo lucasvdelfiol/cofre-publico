@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4308250",
+  "city_name": "Floriano Peixoto",
+  "uf": "RS",
+  "population": 1668,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 7706092.57,
+    "total_expense": 7465383.67,
+    "own_revenue_percentage": 16.1,
+    "transfers_revenue_percentage": 83.9,
+    "personnel_expense_percentage_rcl": 47.6
+  },
+  "per_capita_breakdown": {
+    "health": 1145.1,
+    "education": 1095.7,
+    "urbanism": 595.9,
+    "administration": 479.3,
+    "legislative": 145.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3625.2,
+      "health_per_capita": 893.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3893.8,
+      "health_per_capita": 961.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4162.3,
+      "health_per_capita": 1030.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4386.1,
+      "health_per_capita": 1099.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4475.6,
+      "health_per_capita": 1145.1
+    }
+  ]
+}

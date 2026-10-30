@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3167301",
+  "city_name": "Silveirânia",
+  "uf": "MG",
+  "population": 2323,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 11989455.38,
+    "total_expense": 12001192.57,
+    "own_revenue_percentage": 19.4,
+    "transfers_revenue_percentage": 80.6,
+    "personnel_expense_percentage_rcl": 50.3
+  },
+  "per_capita_breakdown": {
+    "health": 1186.2,
+    "education": 1372.7,
+    "urbanism": 779.3,
+    "administration": 342.8,
+    "legislative": 145.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4184.6,
+      "health_per_capita": 925.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4494.6,
+      "health_per_capita": 996.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4804.6,
+      "health_per_capita": 1067.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5062.9,
+      "health_per_capita": 1138.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5166.2,
+      "health_per_capita": 1186.2
+    }
+  ]
+}

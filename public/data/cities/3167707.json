@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3167707",
+  "city_name": "Sobrália",
+  "uf": "MG",
+  "population": 5137,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 22419622.18,
+    "total_expense": 22213630.06,
+    "own_revenue_percentage": 16.1,
+    "transfers_revenue_percentage": 83.9,
+    "personnel_expense_percentage_rcl": 46.4
+  },
+  "per_capita_breakdown": {
+    "health": 1156.7,
+    "education": 1200.1,
+    "urbanism": 605.7,
+    "administration": 468.7,
+    "legislative": 83.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3502.6,
+      "health_per_capita": 902.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3762.1,
+      "health_per_capita": 971.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4021.5,
+      "health_per_capita": 1041.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4237.7,
+      "health_per_capita": 1110.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4324.2,
+      "health_per_capita": 1156.7
+    }
+  ]
+}

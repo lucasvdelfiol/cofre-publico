@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3140308",
+  "city_name": "Marliéria",
+  "uf": "MG",
+  "population": 4592,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 23992830.53,
+    "total_expense": 23367571.72,
+    "own_revenue_percentage": 8.2,
+    "transfers_revenue_percentage": 91.8,
+    "personnel_expense_percentage_rcl": 51.1
+  },
+  "per_capita_breakdown": {
+    "health": 1072.6,
+    "education": 1573.1,
+    "urbanism": 703.3,
+    "administration": 368.3,
+    "legislative": 163.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4121.9,
+      "health_per_capita": 836.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4427.3,
+      "health_per_capita": 901.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4732.6,
+      "health_per_capita": 965.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4987.0,
+      "health_per_capita": 1029.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5088.8,
+      "health_per_capita": 1072.6
+    }
+  ]
+}

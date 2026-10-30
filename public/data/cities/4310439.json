@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4310439",
+  "city_name": "Ipê",
+  "uf": "RS",
+  "population": 5399,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 29210149.34,
+    "total_expense": 28295467.39,
+    "own_revenue_percentage": 16.1,
+    "transfers_revenue_percentage": 83.9,
+    "personnel_expense_percentage_rcl": 48.4
+  },
+  "per_capita_breakdown": {
+    "health": 1334.8,
+    "education": 1352.2,
+    "urbanism": 818.2,
+    "administration": 520.0,
+    "legislative": 116.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4245.1,
+      "health_per_capita": 1041.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4559.6,
+      "health_per_capita": 1121.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4874.0,
+      "health_per_capita": 1201.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5136.1,
+      "health_per_capita": 1281.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5240.9,
+      "health_per_capita": 1334.8
+    }
+  ]
+}

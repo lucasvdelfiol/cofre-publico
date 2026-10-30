@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2405801",
+  "city_name": "João Câmara",
+  "uf": "RN",
+  "population": 33290,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 150323585.39,
+    "total_expense": 148274658.49,
+    "own_revenue_percentage": 29.2,
+    "transfers_revenue_percentage": 70.8,
+    "personnel_expense_percentage_rcl": 48.4
+  },
+  "per_capita_breakdown": {
+    "health": 1217.2,
+    "education": 1261.5,
+    "urbanism": 544.0,
+    "administration": 457.2,
+    "legislative": 124.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3607.7,
+      "health_per_capita": 949.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3875.0,
+      "health_per_capita": 1022.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4142.2,
+      "health_per_capita": 1095.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4364.9,
+      "health_per_capita": 1168.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4454.0,
+      "health_per_capita": 1217.2
+    }
+  ]
+}

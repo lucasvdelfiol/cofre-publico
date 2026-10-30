@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3524600",
+  "city_name": "Jacupiranga",
+  "uf": "SP",
+  "population": 16097,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 91400404.96,
+    "total_expense": 88133575.17,
+    "own_revenue_percentage": 17.5,
+    "transfers_revenue_percentage": 82.5,
+    "personnel_expense_percentage_rcl": 52.5
+  },
+  "per_capita_breakdown": {
+    "health": 1485.4,
+    "education": 1453.9,
+    "urbanism": 447.1,
+    "administration": 386.8,
+    "legislative": 101.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4434.9,
+      "health_per_capita": 1158.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4763.4,
+      "health_per_capita": 1247.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5091.9,
+      "health_per_capita": 1336.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5365.7,
+      "health_per_capita": 1426.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5475.2,
+      "health_per_capita": 1485.4
+    }
+  ]
+}

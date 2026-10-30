@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4322541",
+  "city_name": "Vale Real",
+  "uf": "RS",
+  "population": 6058,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 31610706.91,
+    "total_expense": 30935304.07,
+    "own_revenue_percentage": 20.4,
+    "transfers_revenue_percentage": 79.6,
+    "personnel_expense_percentage_rcl": 53.5
+  },
+  "per_capita_breakdown": {
+    "health": 1140.5,
+    "education": 1245.4,
+    "urbanism": 771.0,
+    "administration": 547.5,
+    "legislative": 132.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4136.3,
+      "health_per_capita": 889.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4442.7,
+      "health_per_capita": 958.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4749.0,
+      "health_per_capita": 1026.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5004.4,
+      "health_per_capita": 1094.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5106.5,
+      "health_per_capita": 1140.5
+    }
+  ]
+}

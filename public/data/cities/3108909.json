@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3108909",
+  "city_name": "Brazópolis",
+  "uf": "MG",
+  "population": 14246,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 69173692.89,
+    "total_expense": 69212098.18,
+    "own_revenue_percentage": 13.2,
+    "transfers_revenue_percentage": 86.8,
+    "personnel_expense_percentage_rcl": 47.4
+  },
+  "per_capita_breakdown": {
+    "health": 996.6,
+    "education": 1538.4,
+    "urbanism": 428.4,
+    "administration": 558.8,
+    "legislative": 124.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3935.3,
+      "health_per_capita": 777.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4226.8,
+      "health_per_capita": 837.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4518.3,
+      "health_per_capita": 896.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4761.2,
+      "health_per_capita": 956.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4858.4,
+      "health_per_capita": 996.6
+    }
+  ]
+}

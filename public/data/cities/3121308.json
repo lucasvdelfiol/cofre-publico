@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3121308",
+  "city_name": "Descoberto",
+  "uf": "MG",
+  "population": 4928,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 27550000.83,
+    "total_expense": 27434139.72,
+    "own_revenue_percentage": 21.6,
+    "transfers_revenue_percentage": 78.4,
+    "personnel_expense_percentage_rcl": 52.2
+  },
+  "per_capita_breakdown": {
+    "health": 1369.1,
+    "education": 1598.6,
+    "urbanism": 614.9,
+    "administration": 375.9,
+    "legislative": 122.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4509.3,
+      "health_per_capita": 1067.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4843.3,
+      "health_per_capita": 1150.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5177.3,
+      "health_per_capita": 1232.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5455.7,
+      "health_per_capita": 1314.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5567.0,
+      "health_per_capita": 1369.1
+    }
+  ]
+}

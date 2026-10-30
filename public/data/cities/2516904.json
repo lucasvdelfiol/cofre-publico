@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2516904",
+  "city_name": "Uiraúna",
+  "uf": "PB",
+  "population": 14930,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 80167742.02,
+    "total_expense": 78704327.4,
+    "own_revenue_percentage": 20.1,
+    "transfers_revenue_percentage": 79.9,
+    "personnel_expense_percentage_rcl": 50.4
+  },
+  "per_capita_breakdown": {
+    "health": 1271.1,
+    "education": 1452.1,
+    "urbanism": 454.0,
+    "administration": 392.6,
+    "legislative": 87.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4270.0,
+      "health_per_capita": 991.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4586.3,
+      "health_per_capita": 1067.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4902.6,
+      "health_per_capita": 1144.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5166.2,
+      "health_per_capita": 1220.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5271.6,
+      "health_per_capita": 1271.1
+    }
+  ]
+}

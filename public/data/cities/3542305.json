@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3542305",
+  "city_name": "Redenção da Serra",
+  "uf": "SP",
+  "population": 4494,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 23378815.37,
+    "total_expense": 23546289.82,
+    "own_revenue_percentage": 12.5,
+    "transfers_revenue_percentage": 87.5,
+    "personnel_expense_percentage_rcl": 49.4
+  },
+  "per_capita_breakdown": {
+    "health": 1280.2,
+    "education": 1476.9,
+    "urbanism": 745.5,
+    "administration": 520.5,
+    "legislative": 155.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4244.0,
+      "health_per_capita": 998.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4558.4,
+      "health_per_capita": 1075.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4872.7,
+      "health_per_capita": 1152.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5134.7,
+      "health_per_capita": 1229.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5239.5,
+      "health_per_capita": 1280.2
+    }
+  ]
+}

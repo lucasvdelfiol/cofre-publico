@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3134004",
+  "city_name": "Itinga",
+  "uf": "MG",
+  "population": 13745,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 77072725.21,
+    "total_expense": 76321272.63,
+    "own_revenue_percentage": 14.2,
+    "transfers_revenue_percentage": 85.8,
+    "personnel_expense_percentage_rcl": 53.5
+  },
+  "per_capita_breakdown": {
+    "health": 1255.2,
+    "education": 1709.5,
+    "urbanism": 611.7,
+    "administration": 515.1,
+    "legislative": 179.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4497.7,
+      "health_per_capita": 979.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4830.8,
+      "health_per_capita": 1054.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5164.0,
+      "health_per_capita": 1129.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5441.6,
+      "health_per_capita": 1205.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5552.7,
+      "health_per_capita": 1255.2
+    }
+  ]
+}

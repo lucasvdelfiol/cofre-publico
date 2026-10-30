@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3127206",
+  "city_name": "Funilândia",
+  "uf": "MG",
+  "population": 4686,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 20754115.46,
+    "total_expense": 20776803.36,
+    "own_revenue_percentage": 15.7,
+    "transfers_revenue_percentage": 84.3,
+    "personnel_expense_percentage_rcl": 51.9
+  },
+  "per_capita_breakdown": {
+    "health": 894.5,
+    "education": 1271.7,
+    "urbanism": 600.0,
+    "administration": 384.0,
+    "legislative": 86.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3591.4,
+      "health_per_capita": 697.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3857.4,
+      "health_per_capita": 751.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4123.4,
+      "health_per_capita": 805.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4345.1,
+      "health_per_capita": 858.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4433.8,
+      "health_per_capita": 894.5
+    }
+  ]
+}

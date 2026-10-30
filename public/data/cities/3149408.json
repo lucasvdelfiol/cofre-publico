@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3149408",
+  "city_name": "Pedro Teixeira",
+  "uf": "MG",
+  "population": 1810,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 8204319.51,
+    "total_expense": 7896574.07,
+    "own_revenue_percentage": 12.4,
+    "transfers_revenue_percentage": 87.6,
+    "personnel_expense_percentage_rcl": 50.7
+  },
+  "per_capita_breakdown": {
+    "health": 909.8,
+    "education": 1195.9,
+    "urbanism": 631.4,
+    "administration": 288.4,
+    "legislative": 89.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3533.8,
+      "health_per_capita": 709.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3795.5,
+      "health_per_capita": 764.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4057.3,
+      "health_per_capita": 818.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4275.4,
+      "health_per_capita": 873.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4362.7,
+      "health_per_capita": 909.8
+    }
+  ]
+}

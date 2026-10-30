@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2113009",
+  "city_name": "Vitorino Freire",
+  "uf": "MA",
+  "population": 30845,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 136825643.72,
+    "total_expense": 136202304.62,
+    "own_revenue_percentage": 21.8,
+    "transfers_revenue_percentage": 78.2,
+    "personnel_expense_percentage_rcl": 47.1
+  },
+  "per_capita_breakdown": {
+    "health": 968.4,
+    "education": 1324.5,
+    "urbanism": 418.9,
+    "administration": 346.5,
+    "legislative": 103.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3576.7,
+      "health_per_capita": 755.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3841.7,
+      "health_per_capita": 813.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4106.6,
+      "health_per_capita": 871.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4327.4,
+      "health_per_capita": 929.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4415.7,
+      "health_per_capita": 968.4
+    }
+  ]
+}

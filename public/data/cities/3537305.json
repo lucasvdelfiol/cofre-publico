@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3537305",
+  "city_name": "Penápolis",
+  "uf": "SP",
+  "population": 61679,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 313544384.02,
+    "total_expense": 305115012.94,
+    "own_revenue_percentage": 35.7,
+    "transfers_revenue_percentage": 64.3,
+    "personnel_expense_percentage_rcl": 47.9
+  },
+  "per_capita_breakdown": {
+    "health": 1331.4,
+    "education": 1534.7,
+    "urbanism": 660.5,
+    "administration": 432.7,
+    "legislative": 165.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4006.9,
+      "health_per_capita": 1038.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4303.7,
+      "health_per_capita": 1118.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4600.5,
+      "health_per_capita": 1198.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4847.9,
+      "health_per_capita": 1278.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4946.8,
+      "health_per_capita": 1331.4
+    }
+  ]
+}

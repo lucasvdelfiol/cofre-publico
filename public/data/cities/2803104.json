@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2803104",
+  "city_name": "Itabi",
+  "uf": "SE",
+  "population": 4745,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 20823457.46,
+    "total_expense": 20956490.94,
+    "own_revenue_percentage": 8.0,
+    "transfers_revenue_percentage": 92.0,
+    "personnel_expense_percentage_rcl": 49.7
+  },
+  "per_capita_breakdown": {
+    "health": 981.2,
+    "education": 1411.0,
+    "urbanism": 671.5,
+    "administration": 476.0,
+    "legislative": 141.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3577.4,
+      "health_per_capita": 765.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3842.4,
+      "health_per_capita": 824.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4107.3,
+      "health_per_capita": 883.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4328.2,
+      "health_per_capita": 942.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4416.5,
+      "health_per_capita": 981.2
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5210307",
+  "city_name": "Israelândia",
+  "uf": "GO",
+  "population": 2560,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 13811550.79,
+    "total_expense": 13298642.4,
+    "own_revenue_percentage": 19.9,
+    "transfers_revenue_percentage": 80.1,
+    "personnel_expense_percentage_rcl": 45.6
+  },
+  "per_capita_breakdown": {
+    "health": 1139.6,
+    "education": 1337.1,
+    "urbanism": 652.3,
+    "administration": 622.0,
+    "legislative": 120.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4207.8,
+      "health_per_capita": 888.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4519.5,
+      "health_per_capita": 957.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4831.2,
+      "health_per_capita": 1025.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5090.9,
+      "health_per_capita": 1094.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5194.8,
+      "health_per_capita": 1139.6
+    }
+  ]
+}

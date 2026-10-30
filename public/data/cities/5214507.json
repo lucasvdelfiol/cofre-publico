@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5214507",
+  "city_name": "Nerópolis",
+  "uf": "GO",
+  "population": 31932,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 145761017.46,
+    "total_expense": 144932927.19,
+    "own_revenue_percentage": 30.4,
+    "transfers_revenue_percentage": 69.6,
+    "personnel_expense_percentage_rcl": 46.7
+  },
+  "per_capita_breakdown": {
+    "health": 1103.4,
+    "education": 1167.1,
+    "urbanism": 559.8,
+    "administration": 376.7,
+    "legislative": 156.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3676.4,
+      "health_per_capita": 860.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3948.8,
+      "health_per_capita": 926.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4221.1,
+      "health_per_capita": 993.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4448.0,
+      "health_per_capita": 1059.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4538.8,
+      "health_per_capita": 1103.4
+    }
+  ]
+}

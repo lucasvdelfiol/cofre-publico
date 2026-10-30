@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4111704",
+  "city_name": "Jaboti",
+  "uf": "PR",
+  "population": 5427,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 26250393.26,
+    "total_expense": 25295263.29,
+    "own_revenue_percentage": 20.3,
+    "transfers_revenue_percentage": 79.7,
+    "personnel_expense_percentage_rcl": 46.3
+  },
+  "per_capita_breakdown": {
+    "health": 1096.1,
+    "education": 1314.1,
+    "urbanism": 683.0,
+    "administration": 538.6,
+    "legislative": 153.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3775.4,
+      "health_per_capita": 855.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4055.1,
+      "health_per_capita": 920.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4334.7,
+      "health_per_capita": 986.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4567.8,
+      "health_per_capita": 1052.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4661.0,
+      "health_per_capita": 1096.1
+    }
+  ]
+}

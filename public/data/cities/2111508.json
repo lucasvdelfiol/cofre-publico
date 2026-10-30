@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2111508",
+  "city_name": "São Mateus do Maranhão",
+  "uf": "MA",
+  "population": 38829,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 189834651.68,
+    "total_expense": 189378215.02,
+    "own_revenue_percentage": 18.0,
+    "transfers_revenue_percentage": 82.0,
+    "personnel_expense_percentage_rcl": 48.3
+  },
+  "per_capita_breakdown": {
+    "health": 993.2,
+    "education": 1507.8,
+    "urbanism": 537.1,
+    "administration": 570.9,
+    "legislative": 73.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3950.5,
+      "health_per_capita": 774.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4243.2,
+      "health_per_capita": 834.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4535.8,
+      "health_per_capita": 893.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4779.7,
+      "health_per_capita": 953.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4877.2,
+      "health_per_capita": 993.2
+    }
+  ]
+}

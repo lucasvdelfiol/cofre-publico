@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2929255",
+  "city_name": "São Gabriel",
+  "uf": "BA",
+  "population": 18600,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 86245539.4,
+    "total_expense": 85240099.88,
+    "own_revenue_percentage": 12.4,
+    "transfers_revenue_percentage": 87.6,
+    "personnel_expense_percentage_rcl": 48.9
+  },
+  "per_capita_breakdown": {
+    "health": 1073.0,
+    "education": 1355.7,
+    "urbanism": 653.5,
+    "administration": 412.8,
+    "legislative": 150.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3712.1,
+      "health_per_capita": 836.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3987.0,
+      "health_per_capita": 901.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4262.0,
+      "health_per_capita": 965.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4491.1,
+      "health_per_capita": 1030.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4582.8,
+      "health_per_capita": 1073.0
+    }
+  ]
+}

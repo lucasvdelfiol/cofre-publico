@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3134608",
+  "city_name": "Jaboticatubas",
+  "uf": "MG",
+  "population": 20406,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 87743529.42,
+    "total_expense": 85482128.49,
+    "own_revenue_percentage": 30.8,
+    "transfers_revenue_percentage": 69.2,
+    "personnel_expense_percentage_rcl": 53.1
+  },
+  "per_capita_breakdown": {
+    "health": 1169.3,
+    "education": 1229.2,
+    "urbanism": 477.8,
+    "administration": 375.8,
+    "legislative": 66.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3393.2,
+      "health_per_capita": 912.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3644.5,
+      "health_per_capita": 982.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3895.9,
+      "health_per_capita": 1052.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4105.3,
+      "health_per_capita": 1122.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4189.1,
+      "health_per_capita": 1169.3
+    }
+  ]
+}

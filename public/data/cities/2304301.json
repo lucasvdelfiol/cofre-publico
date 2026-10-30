@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2304301",
+  "city_name": "Farias Brito",
+  "uf": "CE",
+  "population": 18217,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 101848117.29,
+    "total_expense": 100826289.51,
+    "own_revenue_percentage": 18.2,
+    "transfers_revenue_percentage": 81.8,
+    "personnel_expense_percentage_rcl": 49.5
+  },
+  "per_capita_breakdown": {
+    "health": 1279.8,
+    "education": 1473.8,
+    "urbanism": 789.3,
+    "administration": 619.6,
+    "legislative": 107.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4483.1,
+      "health_per_capita": 998.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4815.2,
+      "health_per_capita": 1075.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5147.3,
+      "health_per_capita": 1151.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5424.0,
+      "health_per_capita": 1228.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5534.7,
+      "health_per_capita": 1279.8
+    }
+  ]
+}

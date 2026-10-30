@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2707602",
+  "city_name": "Quebrangulo",
+  "uf": "AL",
+  "population": 11080,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 50299452.59,
+    "total_expense": 48411814.67,
+    "own_revenue_percentage": 16.5,
+    "transfers_revenue_percentage": 83.5,
+    "personnel_expense_percentage_rcl": 52.2
+  },
+  "per_capita_breakdown": {
+    "health": 886.0,
+    "education": 1054.4,
+    "urbanism": 391.0,
+    "administration": 295.4,
+    "legislative": 121.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3539.1,
+      "health_per_capita": 691.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3801.3,
+      "health_per_capita": 744.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4063.4,
+      "health_per_capita": 797.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4281.9,
+      "health_per_capita": 850.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4369.3,
+      "health_per_capita": 886.0
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3163508",
+  "city_name": "São José do Jacuri",
+  "uf": "MG",
+  "population": 6197,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 34806888.42,
+    "total_expense": 34658390.22,
+    "own_revenue_percentage": 16.0,
+    "transfers_revenue_percentage": 84.0,
+    "personnel_expense_percentage_rcl": 49.3
+  },
+  "per_capita_breakdown": {
+    "health": 1531.2,
+    "education": 1736.7,
+    "urbanism": 692.2,
+    "administration": 478.6,
+    "legislative": 114.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4530.2,
+      "health_per_capita": 1194.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4865.7,
+      "health_per_capita": 1286.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5201.3,
+      "health_per_capita": 1378.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5480.9,
+      "health_per_capita": 1470.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5592.8,
+      "health_per_capita": 1531.2
+    }
+  ]
+}

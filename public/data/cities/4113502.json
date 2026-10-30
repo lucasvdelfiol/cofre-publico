@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4113502",
+  "city_name": "Loanda",
+  "uf": "PR",
+  "population": 23225,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 104796850.99,
+    "total_expense": 100866610.5,
+    "own_revenue_percentage": 22.8,
+    "transfers_revenue_percentage": 77.2,
+    "personnel_expense_percentage_rcl": 52.0
+  },
+  "per_capita_breakdown": {
+    "health": 887.3,
+    "education": 1142.5,
+    "urbanism": 474.8,
+    "administration": 464.7,
+    "legislative": 71.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3517.8,
+      "health_per_capita": 692.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3778.4,
+      "health_per_capita": 745.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4039.0,
+      "health_per_capita": 798.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4256.1,
+      "health_per_capita": 851.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4343.0,
+      "health_per_capita": 887.3
+    }
+  ]
+}

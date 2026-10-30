@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3546405",
+  "city_name": "Santa Cruz do Rio Pardo",
+  "uf": "SP",
+  "population": 46442,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 215547190.66,
+    "total_expense": 207555196.83,
+    "own_revenue_percentage": 23.8,
+    "transfers_revenue_percentage": 76.2,
+    "personnel_expense_percentage_rcl": 49.8
+  },
+  "per_capita_breakdown": {
+    "health": 904.5,
+    "education": 1330.5,
+    "urbanism": 401.7,
+    "administration": 524.9,
+    "legislative": 108.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3620.0,
+      "health_per_capita": 705.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3888.1,
+      "health_per_capita": 759.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4156.3,
+      "health_per_capita": 814.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4379.7,
+      "health_per_capita": 868.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4469.1,
+      "health_per_capita": 904.5
+    }
+  ]
+}

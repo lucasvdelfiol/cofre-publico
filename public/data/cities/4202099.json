@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4202099",
+  "city_name": "Barra Bonita",
+  "uf": "SC",
+  "population": 1668,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 9260026.41,
+    "total_expense": 9009694.58,
+    "own_revenue_percentage": 13.2,
+    "transfers_revenue_percentage": 86.8,
+    "personnel_expense_percentage_rcl": 50.8
+  },
+  "per_capita_breakdown": {
+    "health": 1133.6,
+    "education": 1608.7,
+    "urbanism": 708.2,
+    "administration": 563.0,
+    "legislative": 181.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4375.2,
+      "health_per_capita": 884.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4699.3,
+      "health_per_capita": 952.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5023.4,
+      "health_per_capita": 1020.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5293.5,
+      "health_per_capita": 1088.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5401.5,
+      "health_per_capita": 1133.6
+    }
+  ]
+}

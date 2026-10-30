@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2207850",
+  "city_name": "Pavussu",
+  "uf": "PI",
+  "population": 3628,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 17232864.27,
+    "total_expense": 17290807.0,
+    "own_revenue_percentage": 21.4,
+    "transfers_revenue_percentage": 78.6,
+    "personnel_expense_percentage_rcl": 47.9
+  },
+  "per_capita_breakdown": {
+    "health": 1046.4,
+    "education": 1195.3,
+    "urbanism": 512.2,
+    "administration": 546.7,
+    "legislative": 92.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3860.4,
+      "health_per_capita": 816.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4146.3,
+      "health_per_capita": 879.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4432.3,
+      "health_per_capita": 941.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4670.6,
+      "health_per_capita": 1004.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4765.9,
+      "health_per_capita": 1046.4
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3539905",
+  "city_name": "Poloni",
+  "uf": "SP",
+  "population": 5592,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 24683447.74,
+    "total_expense": 24686918.92,
+    "own_revenue_percentage": 10.6,
+    "transfers_revenue_percentage": 89.4,
+    "personnel_expense_percentage_rcl": 46.8
+  },
+  "per_capita_breakdown": {
+    "health": 1188.4,
+    "education": 1280.5,
+    "urbanism": 678.6,
+    "administration": 495.5,
+    "legislative": 91.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3575.9,
+      "health_per_capita": 927.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3840.8,
+      "health_per_capita": 998.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4105.7,
+      "health_per_capita": 1069.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4326.4,
+      "health_per_capita": 1140.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4414.7,
+      "health_per_capita": 1188.4
+    }
+  ]
+}

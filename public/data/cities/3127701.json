@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3127701",
+  "city_name": "Governador Valadares",
+  "uf": "MG",
+  "population": 257171,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 1230564875.37,
+    "total_expense": 1221118084.61,
+    "own_revenue_percentage": 38.4,
+    "transfers_revenue_percentage": 61.6,
+    "personnel_expense_percentage_rcl": 51.6
+  },
+  "per_capita_breakdown": {
+    "health": 1228.8,
+    "education": 1350.2,
+    "urbanism": 518.8,
+    "administration": 553.7,
+    "legislative": 74.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3846.1,
+      "health_per_capita": 958.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4131.0,
+      "health_per_capita": 1032.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4415.9,
+      "health_per_capita": 1105.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4653.3,
+      "health_per_capita": 1179.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4748.3,
+      "health_per_capita": 1228.8
+    }
+  ]
+}

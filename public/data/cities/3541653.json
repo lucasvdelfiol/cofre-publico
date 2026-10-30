@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3541653",
+  "city_name": "Quadra",
+  "uf": "SP",
+  "population": 3405,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 16855358.07,
+    "total_expense": 16642944.07,
+    "own_revenue_percentage": 10.0,
+    "transfers_revenue_percentage": 90.0,
+    "personnel_expense_percentage_rcl": 45.9
+  },
+  "per_capita_breakdown": {
+    "health": 1222.6,
+    "education": 1477.6,
+    "urbanism": 494.4,
+    "administration": 510.5,
+    "legislative": 78.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3959.1,
+      "health_per_capita": 953.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4252.4,
+      "health_per_capita": 1027.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4545.7,
+      "health_per_capita": 1100.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4790.0,
+      "health_per_capita": 1173.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4887.8,
+      "health_per_capita": 1222.6
+    }
+  ]
+}

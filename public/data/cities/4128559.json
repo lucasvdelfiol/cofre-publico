@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4128559",
+  "city_name": "Vera Cruz do Oeste",
+  "uf": "PR",
+  "population": 8215,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 39230169.74,
+    "total_expense": 39011963.78,
+    "own_revenue_percentage": 20.1,
+    "transfers_revenue_percentage": 79.9,
+    "personnel_expense_percentage_rcl": 51.6
+  },
+  "per_capita_breakdown": {
+    "health": 951.1,
+    "education": 1266.2,
+    "urbanism": 434.4,
+    "administration": 512.0,
+    "legislative": 116.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3846.6,
+      "health_per_capita": 741.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4131.5,
+      "health_per_capita": 798.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4416.5,
+      "health_per_capita": 856.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4653.9,
+      "health_per_capita": 913.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4748.9,
+      "health_per_capita": 951.1
+    }
+  ]
+}

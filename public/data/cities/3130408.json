@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3130408",
+  "city_name": "Ijaci",
+  "uf": "MG",
+  "population": 7003,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 39761405.85,
+    "total_expense": 38763113.32,
+    "own_revenue_percentage": 21.4,
+    "transfers_revenue_percentage": 78.6,
+    "personnel_expense_percentage_rcl": 51.4
+  },
+  "per_capita_breakdown": {
+    "health": 1116.7,
+    "education": 1765.7,
+    "urbanism": 722.1,
+    "administration": 451.1,
+    "legislative": 180.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4483.5,
+      "health_per_capita": 871.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4815.6,
+      "health_per_capita": 938.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5147.7,
+      "health_per_capita": 1005.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5424.5,
+      "health_per_capita": 1072.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5535.2,
+      "health_per_capita": 1116.7
+    }
+  ]
+}

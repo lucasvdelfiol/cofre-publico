@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2914505",
+  "city_name": "Irará",
+  "uf": "BA",
+  "population": 28043,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 119247991.0,
+    "total_expense": 115685525.94,
+    "own_revenue_percentage": 27.1,
+    "transfers_revenue_percentage": 72.9,
+    "personnel_expense_percentage_rcl": 49.7
+  },
+  "per_capita_breakdown": {
+    "health": 877.8,
+    "education": 1213.8,
+    "urbanism": 436.8,
+    "administration": 422.1,
+    "legislative": 92.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3341.5,
+      "health_per_capita": 684.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3589.0,
+      "health_per_capita": 737.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3836.5,
+      "health_per_capita": 790.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4042.8,
+      "health_per_capita": 842.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4125.3,
+      "health_per_capita": 877.8
+    }
+  ]
+}

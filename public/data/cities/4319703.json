@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4319703",
+  "city_name": "São Valentim",
+  "uf": "RS",
+  "population": 3264,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 17081119.08,
+    "total_expense": 16445654.46,
+    "own_revenue_percentage": 17.0,
+    "transfers_revenue_percentage": 83.0,
+    "personnel_expense_percentage_rcl": 45.7
+  },
+  "per_capita_breakdown": {
+    "health": 1036.9,
+    "education": 1365.0,
+    "urbanism": 477.1,
+    "administration": 595.2,
+    "legislative": 168.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4081.2,
+      "health_per_capita": 808.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4383.5,
+      "health_per_capita": 871.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4685.8,
+      "health_per_capita": 933.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4937.7,
+      "health_per_capita": 995.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5038.5,
+      "health_per_capita": 1036.9
+    }
+  ]
+}

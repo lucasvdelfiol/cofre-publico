@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2603207",
+  "city_name": "Caetés",
+  "uf": "PE",
+  "population": 28827,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 118230975.47,
+    "total_expense": 119368745.27,
+    "own_revenue_percentage": 24.9,
+    "transfers_revenue_percentage": 75.1,
+    "personnel_expense_percentage_rcl": 47.2
+  },
+  "per_capita_breakdown": {
+    "health": 1067.9,
+    "education": 1292.5,
+    "urbanism": 507.1,
+    "administration": 452.0,
+    "legislative": 67.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3354.1,
+      "health_per_capita": 833.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3602.6,
+      "health_per_capita": 897.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3851.0,
+      "health_per_capita": 961.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4058.1,
+      "health_per_capita": 1025.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4140.9,
+      "health_per_capita": 1067.9
+    }
+  ]
+}

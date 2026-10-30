@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3532827",
+  "city_name": "Nova Campina",
+  "uf": "SP",
+  "population": 8497,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 41217287.4,
+    "total_expense": 40192990.96,
+    "own_revenue_percentage": 19.4,
+    "transfers_revenue_percentage": 80.6,
+    "personnel_expense_percentage_rcl": 49.9
+  },
+  "per_capita_breakdown": {
+    "health": 1234.1,
+    "education": 1166.9,
+    "urbanism": 738.1,
+    "administration": 432.3,
+    "legislative": 128.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3831.5,
+      "health_per_capita": 962.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4115.4,
+      "health_per_capita": 1036.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4399.2,
+      "health_per_capita": 1110.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4635.7,
+      "health_per_capita": 1184.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4730.3,
+      "health_per_capita": 1234.1
+    }
+  ]
+}

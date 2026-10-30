@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2308807",
+  "city_name": "Moraújo",
+  "uf": "CE",
+  "population": 8254,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 43427665.74,
+    "total_expense": 42491823.63,
+    "own_revenue_percentage": 19.0,
+    "transfers_revenue_percentage": 81.0,
+    "personnel_expense_percentage_rcl": 47.9
+  },
+  "per_capita_breakdown": {
+    "health": 1304.4,
+    "education": 1525.6,
+    "urbanism": 588.5,
+    "administration": 330.2,
+    "legislative": 165.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4169.9,
+      "health_per_capita": 1017.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4478.8,
+      "health_per_capita": 1095.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4787.6,
+      "health_per_capita": 1174.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5045.0,
+      "health_per_capita": 1252.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5148.0,
+      "health_per_capita": 1304.4
+    }
+  ]
+}

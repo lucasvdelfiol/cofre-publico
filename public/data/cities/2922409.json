@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2922409",
+  "city_name": "Mutuípe",
+  "uf": "BA",
+  "population": 20037,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 95494450.82,
+    "total_expense": 95144911.02,
+    "own_revenue_percentage": 24.0,
+    "transfers_revenue_percentage": 76.0,
+    "personnel_expense_percentage_rcl": 51.4
+  },
+  "per_capita_breakdown": {
+    "health": 1210.8,
+    "education": 1450.6,
+    "urbanism": 601.8,
+    "administration": 482.0,
+    "legislative": 120.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3846.3,
+      "health_per_capita": 944.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4131.2,
+      "health_per_capita": 1017.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4416.1,
+      "health_per_capita": 1089.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4653.5,
+      "health_per_capita": 1162.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4748.5,
+      "health_per_capita": 1210.8
+    }
+  ]
+}

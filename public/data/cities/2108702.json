@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2108702",
+  "city_name": "Pio XII",
+  "uf": "MA",
+  "population": 21886,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 99843377.8,
+    "total_expense": 96263798.86,
+    "own_revenue_percentage": 20.9,
+    "transfers_revenue_percentage": 79.1,
+    "personnel_expense_percentage_rcl": 50.6
+  },
+  "per_capita_breakdown": {
+    "health": 1221.3,
+    "education": 1362.9,
+    "urbanism": 500.4,
+    "administration": 314.2,
+    "legislative": 150.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3562.7,
+      "health_per_capita": 952.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3826.6,
+      "health_per_capita": 1025.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4090.5,
+      "health_per_capita": 1099.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4310.4,
+      "health_per_capita": 1172.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4398.4,
+      "health_per_capita": 1221.3
+    }
+  ]
+}

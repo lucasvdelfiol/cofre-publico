@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1716307",
+  "city_name": "Pau D'Arco",
+  "uf": "TO",
+  "population": 4043,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 19410611.7,
+    "total_expense": 19022380.83,
+    "own_revenue_percentage": 10.6,
+    "transfers_revenue_percentage": 89.4,
+    "personnel_expense_percentage_rcl": 46.6
+  },
+  "per_capita_breakdown": {
+    "health": 1262.4,
+    "education": 1162.7,
+    "urbanism": 663.8,
+    "administration": 406.3,
+    "legislative": 120.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3811.1,
+      "health_per_capita": 984.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4093.3,
+      "health_per_capita": 1060.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4375.7,
+      "health_per_capita": 1136.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4610.9,
+      "health_per_capita": 1211.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4705.0,
+      "health_per_capita": 1262.4
+    }
+  ]
+}

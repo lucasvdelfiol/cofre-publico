@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3519402",
+  "city_name": "Ibirá",
+  "uf": "SP",
+  "population": 11690,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 61585181.57,
+    "total_expense": 61679114.29,
+    "own_revenue_percentage": 16.4,
+    "transfers_revenue_percentage": 83.6,
+    "personnel_expense_percentage_rcl": 46.8
+  },
+  "per_capita_breakdown": {
+    "health": 1302.4,
+    "education": 1326.1,
+    "urbanism": 718.0,
+    "administration": 395.0,
+    "legislative": 112.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4273.7,
+      "health_per_capita": 1015.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4590.3,
+      "health_per_capita": 1094.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4906.9,
+      "health_per_capita": 1172.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5170.7,
+      "health_per_capita": 1250.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5276.2,
+      "health_per_capita": 1302.4
+    }
+  ]
+}

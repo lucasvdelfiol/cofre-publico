@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3124104",
+  "city_name": "Esmeraldas",
+  "uf": "MG",
+  "population": 85598,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 429818321.96,
+    "total_expense": 432595614.86,
+    "own_revenue_percentage": 40.0,
+    "transfers_revenue_percentage": 60.0,
+    "personnel_expense_percentage_rcl": 46.2
+  },
+  "per_capita_breakdown": {
+    "health": 1112.4,
+    "education": 1237.1,
+    "urbanism": 773.0,
+    "administration": 426.5,
+    "legislative": 125.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4093.6,
+      "health_per_capita": 867.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4396.8,
+      "health_per_capita": 934.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4700.0,
+      "health_per_capita": 1001.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4952.7,
+      "health_per_capita": 1067.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5053.8,
+      "health_per_capita": 1112.4
+    }
+  ]
+}

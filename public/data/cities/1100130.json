@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1100130",
+  "city_name": "Machadinho D'Oeste",
+  "uf": "RO",
+  "population": 30707,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 129452215.09,
+    "total_expense": 126702166.76,
+    "own_revenue_percentage": 29.8,
+    "transfers_revenue_percentage": 70.2,
+    "personnel_expense_percentage_rcl": 47.7
+  },
+  "per_capita_breakdown": {
+    "health": 1061.7,
+    "education": 1048.9,
+    "urbanism": 640.2,
+    "administration": 382.8,
+    "legislative": 96.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3342.2,
+      "health_per_capita": 828.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3589.8,
+      "health_per_capita": 891.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3837.4,
+      "health_per_capita": 955.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4043.7,
+      "health_per_capita": 1019.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4126.2,
+      "health_per_capita": 1061.7
+    }
+  ]
+}

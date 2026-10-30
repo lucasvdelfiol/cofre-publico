@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1501451",
+  "city_name": "Belterra",
+  "uf": "PA",
+  "population": 18099,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 99927493.1,
+    "total_expense": 98064769.27,
+    "own_revenue_percentage": 17.4,
+    "transfers_revenue_percentage": 82.6,
+    "personnel_expense_percentage_rcl": 45.9
+  },
+  "per_capita_breakdown": {
+    "health": 1129.4,
+    "education": 1372.3,
+    "urbanism": 780.0,
+    "administration": 509.5,
+    "legislative": 122.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4388.7,
+      "health_per_capita": 880.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4713.8,
+      "health_per_capita": 948.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5038.9,
+      "health_per_capita": 1016.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5309.8,
+      "health_per_capita": 1084.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5418.2,
+      "health_per_capita": 1129.4
+    }
+  ]
+}

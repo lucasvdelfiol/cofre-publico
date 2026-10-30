@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2913200",
+  "city_name": "Ibotirama",
+  "uf": "BA",
+  "population": 26309,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 114927896.98,
+    "total_expense": 110753729.69,
+    "own_revenue_percentage": 24.4,
+    "transfers_revenue_percentage": 75.6,
+    "personnel_expense_percentage_rcl": 47.0
+  },
+  "per_capita_breakdown": {
+    "health": 876.8,
+    "education": 1213.6,
+    "urbanism": 515.7,
+    "administration": 445.8,
+    "legislative": 121.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3409.9,
+      "health_per_capita": 683.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3662.4,
+      "health_per_capita": 736.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3915.0,
+      "health_per_capita": 789.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4125.5,
+      "health_per_capita": 841.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4209.7,
+      "health_per_capita": 876.8
+    }
+  ]
+}

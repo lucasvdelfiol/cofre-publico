@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4315149",
+  "city_name": "Presidente Lucena",
+  "uf": "RS",
+  "population": 3077,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 16258462.0,
+    "total_expense": 16378994.58,
+    "own_revenue_percentage": 16.4,
+    "transfers_revenue_percentage": 83.6,
+    "personnel_expense_percentage_rcl": 48.3
+  },
+  "per_capita_breakdown": {
+    "health": 1371.6,
+    "education": 1599.6,
+    "urbanism": 434.5,
+    "administration": 359.3,
+    "legislative": 99.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4311.6,
+      "health_per_capita": 1069.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4631.0,
+      "health_per_capita": 1152.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4950.4,
+      "health_per_capita": 1234.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5216.5,
+      "health_per_capita": 1316.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5323.0,
+      "health_per_capita": 1371.6
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2205300",
+  "city_name": "Jerumenha",
+  "uf": "PI",
+  "population": 4497,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 24547403.11,
+    "total_expense": 23846794.06,
+    "own_revenue_percentage": 18.3,
+    "transfers_revenue_percentage": 81.7,
+    "personnel_expense_percentage_rcl": 51.5
+  },
+  "per_capita_breakdown": {
+    "health": 1363.9,
+    "education": 1423.0,
+    "urbanism": 588.4,
+    "administration": 400.8,
+    "legislative": 100.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4295.3,
+      "health_per_capita": 1063.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4613.4,
+      "health_per_capita": 1145.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4931.6,
+      "health_per_capita": 1227.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5196.7,
+      "health_per_capita": 1309.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5302.8,
+      "health_per_capita": 1363.9
+    }
+  ]
+}

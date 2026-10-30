@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4323705",
+  "city_name": "Vista Gaúcha",
+  "uf": "RS",
+  "population": 2783,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 14093534.72,
+    "total_expense": 13609678.72,
+    "own_revenue_percentage": 21.4,
+    "transfers_revenue_percentage": 78.6,
+    "personnel_expense_percentage_rcl": 53.8
+  },
+  "per_capita_breakdown": {
+    "health": 1164.9,
+    "education": 1260.2,
+    "urbanism": 718.5,
+    "administration": 583.6,
+    "legislative": 95.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3961.1,
+      "health_per_capita": 908.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4254.6,
+      "health_per_capita": 978.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4548.0,
+      "health_per_capita": 1048.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4792.5,
+      "health_per_capita": 1118.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4890.3,
+      "health_per_capita": 1164.9
+    }
+  ]
+}

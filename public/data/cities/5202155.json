@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5202155",
+  "city_name": "Araguapaz",
+  "uf": "GO",
+  "population": 7153,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 33770059.26,
+    "total_expense": 33383331.34,
+    "own_revenue_percentage": 13.5,
+    "transfers_revenue_percentage": 86.5,
+    "personnel_expense_percentage_rcl": 52.8
+  },
+  "per_capita_breakdown": {
+    "health": 974.0,
+    "education": 1478.3,
+    "urbanism": 423.7,
+    "administration": 528.0,
+    "legislative": 89.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3780.3,
+      "health_per_capita": 759.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4060.3,
+      "health_per_capita": 818.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4340.3,
+      "health_per_capita": 876.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4573.7,
+      "health_per_capita": 935.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4667.0,
+      "health_per_capita": 974.0
+    }
+  ]
+}

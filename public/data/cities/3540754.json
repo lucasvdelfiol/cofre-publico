@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3540754",
+  "city_name": "Potim",
+  "uf": "SP",
+  "population": 20392,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 99216374.97,
+    "total_expense": 97949145.2,
+    "own_revenue_percentage": 19.0,
+    "transfers_revenue_percentage": 81.0,
+    "personnel_expense_percentage_rcl": 49.3
+  },
+  "per_capita_breakdown": {
+    "health": 1105.5,
+    "education": 1426.7,
+    "urbanism": 717.8,
+    "administration": 353.9,
+    "legislative": 88.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3890.7,
+      "health_per_capita": 862.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4178.9,
+      "health_per_capita": 928.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4467.1,
+      "health_per_capita": 995.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4707.2,
+      "health_per_capita": 1061.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4803.3,
+      "health_per_capita": 1105.5
+    }
+  ]
+}

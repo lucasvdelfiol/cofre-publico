@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4321600",
+  "city_name": "Tramandaí",
+  "uf": "RS",
+  "population": 54387,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 266389671.85,
+    "total_expense": 256293907.72,
+    "own_revenue_percentage": 35.2,
+    "transfers_revenue_percentage": 64.8,
+    "personnel_expense_percentage_rcl": 48.4
+  },
+  "per_capita_breakdown": {
+    "health": 1118.6,
+    "education": 1302.4,
+    "urbanism": 496.7,
+    "administration": 380.0,
+    "legislative": 115.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3817.0,
+      "health_per_capita": 872.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4099.8,
+      "health_per_capita": 939.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4382.5,
+      "health_per_capita": 1006.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4618.2,
+      "health_per_capita": 1073.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4712.4,
+      "health_per_capita": 1118.6
+    }
+  ]
+}

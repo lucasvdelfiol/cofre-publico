@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5215306",
+  "city_name": "Orizona",
+  "uf": "GO",
+  "population": 16399,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 86985261.2,
+    "total_expense": 87656904.82,
+    "own_revenue_percentage": 8.7,
+    "transfers_revenue_percentage": 91.3,
+    "personnel_expense_percentage_rcl": 49.0
+  },
+  "per_capita_breakdown": {
+    "health": 1122.6,
+    "education": 1325.0,
+    "urbanism": 767.1,
+    "administration": 395.7,
+    "legislative": 113.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4329.7,
+      "health_per_capita": 875.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4650.4,
+      "health_per_capita": 943.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4971.1,
+      "health_per_capita": 1010.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5238.4,
+      "health_per_capita": 1077.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5345.3,
+      "health_per_capita": 1122.6
+    }
+  ]
+}

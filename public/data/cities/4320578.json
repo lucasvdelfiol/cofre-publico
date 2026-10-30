@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4320578",
+  "city_name": "Sete de Setembro",
+  "uf": "RS",
+  "population": 1830,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 9320797.76,
+    "total_expense": 9271604.45,
+    "own_revenue_percentage": 20.4,
+    "transfers_revenue_percentage": 79.6,
+    "personnel_expense_percentage_rcl": 49.4
+  },
+  "per_capita_breakdown": {
+    "health": 1172.9,
+    "education": 1240.0,
+    "urbanism": 758.5,
+    "administration": 416.3,
+    "legislative": 100.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4103.9,
+      "health_per_capita": 914.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4407.9,
+      "health_per_capita": 985.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4711.8,
+      "health_per_capita": 1055.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4965.2,
+      "health_per_capita": 1126.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5066.5,
+      "health_per_capita": 1172.9
+    }
+  ]
+}

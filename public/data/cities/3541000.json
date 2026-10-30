@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3541000",
+  "city_name": "Praia Grande",
+  "uf": "SP",
+  "population": 349935,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 1796422878.07,
+    "total_expense": 1730899801.65,
+    "own_revenue_percentage": 51.7,
+    "transfers_revenue_percentage": 48.3,
+    "personnel_expense_percentage_rcl": 50.2
+  },
+  "per_capita_breakdown": {
+    "health": 1251.7,
+    "education": 1579.6,
+    "urbanism": 724.5,
+    "administration": 419.0,
+    "legislative": 146.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4006.5,
+      "health_per_capita": 976.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4303.3,
+      "health_per_capita": 1051.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4600.1,
+      "health_per_capita": 1126.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4847.4,
+      "health_per_capita": 1201.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4946.3,
+      "health_per_capita": 1251.7
+    }
+  ]
+}

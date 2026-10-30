@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2111300",
+  "city_name": "São Luís",
+  "uf": "MA",
+  "population": 1037775,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 7995972188.55,
+    "total_expense": 7864194467.4,
+    "own_revenue_percentage": 58.7,
+    "transfers_revenue_percentage": 41.3,
+    "personnel_expense_percentage_rcl": 45.8
+  },
+  "per_capita_breakdown": {
+    "health": 1682.7,
+    "education": 1945.1,
+    "urbanism": 900.6,
+    "administration": 649.2,
+    "legislative": 142.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 6138.1,
+      "health_per_capita": 1312.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 6592.8,
+      "health_per_capita": 1413.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 7047.4,
+      "health_per_capita": 1514.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 7426.3,
+      "health_per_capita": 1615.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 7577.9,
+      "health_per_capita": 1682.7
+    }
+  ]
+}

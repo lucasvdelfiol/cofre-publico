@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3154002",
+  "city_name": "Raul Soares",
+  "uf": "MG",
+  "population": 23423,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 101624733.48,
+    "total_expense": 98805249.18,
+    "own_revenue_percentage": 27.2,
+    "transfers_revenue_percentage": 72.8,
+    "personnel_expense_percentage_rcl": 51.0
+  },
+  "per_capita_breakdown": {
+    "health": 902.1,
+    "education": 1320.3,
+    "urbanism": 476.7,
+    "administration": 342.8,
+    "legislative": 79.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3416.8,
+      "health_per_capita": 703.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3669.9,
+      "health_per_capita": 757.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3923.0,
+      "health_per_capita": 811.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4133.9,
+      "health_per_capita": 866.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4218.3,
+      "health_per_capita": 902.1
+    }
+  ]
+}

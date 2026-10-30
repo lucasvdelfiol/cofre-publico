@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2205599",
+  "city_name": "Lagoa do Sítio",
+  "uf": "PI",
+  "population": 4520,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 22841947.68,
+    "total_expense": 22389303.29,
+    "own_revenue_percentage": 14.4,
+    "transfers_revenue_percentage": 85.6,
+    "personnel_expense_percentage_rcl": 53.4
+  },
+  "per_capita_breakdown": {
+    "health": 991.6,
+    "education": 1505.4,
+    "urbanism": 459.0,
+    "administration": 592.0,
+    "legislative": 157.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4012.3,
+      "health_per_capita": 773.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4309.5,
+      "health_per_capita": 832.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4606.7,
+      "health_per_capita": 892.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4854.3,
+      "health_per_capita": 951.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4953.4,
+      "health_per_capita": 991.6
+    }
+  ]
+}

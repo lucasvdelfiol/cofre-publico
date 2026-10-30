@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5004403",
+  "city_name": "Inocência",
+  "uf": "MS",
+  "population": 8404,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 38025031.91,
+    "total_expense": 38098897.5,
+    "own_revenue_percentage": 18.8,
+    "transfers_revenue_percentage": 81.2,
+    "personnel_expense_percentage_rcl": 47.2
+  },
+  "per_capita_breakdown": {
+    "health": 1174.6,
+    "education": 1111.1,
+    "urbanism": 477.6,
+    "administration": 367.5,
+    "legislative": 154.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3672.1,
+      "health_per_capita": 916.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3944.1,
+      "health_per_capita": 986.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4216.1,
+      "health_per_capita": 1057.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4442.7,
+      "health_per_capita": 1127.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4533.4,
+      "health_per_capita": 1174.6
+    }
+  ]
+}

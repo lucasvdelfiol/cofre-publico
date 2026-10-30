@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5221197",
+  "city_name": "Terezópolis de Goiás",
+  "uf": "GO",
+  "population": 7944,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 39696082.41,
+    "total_expense": 38906240.37,
+    "own_revenue_percentage": 9.7,
+    "transfers_revenue_percentage": 90.3,
+    "personnel_expense_percentage_rcl": 47.2
+  },
+  "per_capita_breakdown": {
+    "health": 1297.7,
+    "education": 1529.2,
+    "urbanism": 497.9,
+    "administration": 351.2,
+    "legislative": 101.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3967.1,
+      "health_per_capita": 1012.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4260.9,
+      "health_per_capita": 1090.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4554.8,
+      "health_per_capita": 1167.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4799.6,
+      "health_per_capita": 1245.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4897.6,
+      "health_per_capita": 1297.7
+    }
+  ]
+}

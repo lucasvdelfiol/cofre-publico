@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5204607",
+  "city_name": "Campestre de Goiás",
+  "uf": "GO",
+  "population": 3755,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 20654170.43,
+    "total_expense": 20085251.03,
+    "own_revenue_percentage": 10.6,
+    "transfers_revenue_percentage": 89.4,
+    "personnel_expense_percentage_rcl": 47.1
+  },
+  "per_capita_breakdown": {
+    "health": 1080.2,
+    "education": 1298.3,
+    "urbanism": 482.8,
+    "administration": 497.5,
+    "legislative": 183.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4332.6,
+      "health_per_capita": 842.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4653.5,
+      "health_per_capita": 907.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4974.5,
+      "health_per_capita": 972.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5241.9,
+      "health_per_capita": 1037.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5348.9,
+      "health_per_capita": 1080.2
+    }
+  ]
+}

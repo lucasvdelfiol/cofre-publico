@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2405504",
+  "city_name": "Jardim de Angicos",
+  "uf": "RN",
+  "population": 2437,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 11170655.0,
+    "total_expense": 10983334.22,
+    "own_revenue_percentage": 15.0,
+    "transfers_revenue_percentage": 85.0,
+    "personnel_expense_percentage_rcl": 52.1
+  },
+  "per_capita_breakdown": {
+    "health": 1190.1,
+    "education": 1099.9,
+    "urbanism": 548.3,
+    "administration": 496.0,
+    "legislative": 76.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3650.6,
+      "health_per_capita": 928.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3921.0,
+      "health_per_capita": 999.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4191.4,
+      "health_per_capita": 1071.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4416.8,
+      "health_per_capita": 1142.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4506.9,
+      "health_per_capita": 1190.1
+    }
+  ]
+}

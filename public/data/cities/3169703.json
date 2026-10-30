@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3169703",
+  "city_name": "Turmalina",
+  "uf": "MG",
+  "population": 20000,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 82839743.54,
+    "total_expense": 82043125.54,
+    "own_revenue_percentage": 26.8,
+    "transfers_revenue_percentage": 73.2,
+    "personnel_expense_percentage_rcl": 49.7
+  },
+  "per_capita_breakdown": {
+    "health": 967.6,
+    "education": 1292.0,
+    "urbanism": 357.8,
+    "administration": 455.7,
+    "legislative": 98.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3322.8,
+      "health_per_capita": 754.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3568.9,
+      "health_per_capita": 812.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3815.0,
+      "health_per_capita": 870.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4020.2,
+      "health_per_capita": 928.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4102.2,
+      "health_per_capita": 967.6
+    }
+  ]
+}

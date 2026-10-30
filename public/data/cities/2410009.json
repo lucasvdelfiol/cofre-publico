@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2410009",
+  "city_name": "Pilões",
+  "uf": "RN",
+  "population": 2965,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 14854926.35,
+    "total_expense": 14514746.18,
+    "own_revenue_percentage": 16.2,
+    "transfers_revenue_percentage": 83.8,
+    "personnel_expense_percentage_rcl": 47.1
+  },
+  "per_capita_breakdown": {
+    "health": 1214.2,
+    "education": 1562.8,
+    "urbanism": 538.9,
+    "administration": 309.0,
+    "legislative": 113.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3965.3,
+      "health_per_capita": 947.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4259.0,
+      "health_per_capita": 1019.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4552.7,
+      "health_per_capita": 1092.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4797.5,
+      "health_per_capita": 1165.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4895.4,
+      "health_per_capita": 1214.2
+    }
+  ]
+}

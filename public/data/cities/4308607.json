@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4308607",
+  "city_name": "Garibaldi",
+  "uf": "RS",
+  "population": 34335,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 152566537.22,
+    "total_expense": 148972211.43,
+    "own_revenue_percentage": 21.6,
+    "transfers_revenue_percentage": 78.4,
+    "personnel_expense_percentage_rcl": 51.0
+  },
+  "per_capita_breakdown": {
+    "health": 897.5,
+    "education": 1072.0,
+    "urbanism": 634.9,
+    "administration": 266.8,
+    "legislative": 68.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3514.4,
+      "health_per_capita": 700.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3774.8,
+      "health_per_capita": 753.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4035.1,
+      "health_per_capita": 807.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4252.0,
+      "health_per_capita": 861.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4338.8,
+      "health_per_capita": 897.5
+    }
+  ]
+}

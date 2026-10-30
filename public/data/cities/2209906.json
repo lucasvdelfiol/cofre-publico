@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2209906",
+  "city_name": "São João da Serra",
+  "uf": "PI",
+  "population": 6114,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 27446856.43,
+    "total_expense": 27367921.45,
+    "own_revenue_percentage": 21.8,
+    "transfers_revenue_percentage": 78.2,
+    "personnel_expense_percentage_rcl": 51.1
+  },
+  "per_capita_breakdown": {
+    "health": 1039.1,
+    "education": 1380.7,
+    "urbanism": 705.6,
+    "administration": 289.9,
+    "legislative": 135.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3625.8,
+      "health_per_capita": 810.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3894.4,
+      "health_per_capita": 872.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4163.0,
+      "health_per_capita": 935.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4386.8,
+      "health_per_capita": 997.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4476.3,
+      "health_per_capita": 1039.1
+    }
+  ]
+}

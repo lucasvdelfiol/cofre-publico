@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1500305",
+  "city_name": "Afuá",
+  "uf": "PA",
+  "population": 37765,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 161896166.08,
+    "total_expense": 157571413.07,
+    "own_revenue_percentage": 26.6,
+    "transfers_revenue_percentage": 73.4,
+    "personnel_expense_percentage_rcl": 51.1
+  },
+  "per_capita_breakdown": {
+    "health": 860.3,
+    "education": 1139.9,
+    "urbanism": 432.0,
+    "administration": 293.6,
+    "legislative": 73.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3379.6,
+      "health_per_capita": 671.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3630.0,
+      "health_per_capita": 722.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3880.3,
+      "health_per_capita": 774.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4089.0,
+      "health_per_capita": 825.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4172.4,
+      "health_per_capita": 860.3
+    }
+  ]
+}

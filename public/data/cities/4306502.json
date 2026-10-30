@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4306502",
+  "city_name": "Dom Feliciano",
+  "uf": "RS",
+  "population": 13051,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 69375034.52,
+    "total_expense": 68626798.79,
+    "own_revenue_percentage": 21.7,
+    "transfers_revenue_percentage": 78.3,
+    "personnel_expense_percentage_rcl": 52.9
+  },
+  "per_capita_breakdown": {
+    "health": 1235.4,
+    "education": 1285.7,
+    "urbanism": 472.5,
+    "administration": 615.5,
+    "legislative": 129.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4259.3,
+      "health_per_capita": 963.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4574.8,
+      "health_per_capita": 1037.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4890.3,
+      "health_per_capita": 1111.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5153.2,
+      "health_per_capita": 1186.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5258.4,
+      "health_per_capita": 1235.4
+    }
+  ]
+}

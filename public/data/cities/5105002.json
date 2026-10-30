@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5105002",
+  "city_name": "Jauru",
+  "uf": "MT",
+  "population": 8367,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 46895387.4,
+    "total_expense": 45786805.32,
+    "own_revenue_percentage": 18.7,
+    "transfers_revenue_percentage": 81.3,
+    "personnel_expense_percentage_rcl": 52.8
+  },
+  "per_capita_breakdown": {
+    "health": 1396.4,
+    "education": 1628.3,
+    "urbanism": 746.7,
+    "administration": 421.8,
+    "legislative": 153.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4432.6,
+      "health_per_capita": 1089.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4760.9,
+      "health_per_capita": 1173.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5089.2,
+      "health_per_capita": 1256.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5362.9,
+      "health_per_capita": 1340.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5472.3,
+      "health_per_capita": 1396.4
+    }
+  ]
+}

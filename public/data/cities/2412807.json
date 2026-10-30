@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2412807",
+  "city_name": "São Rafael",
+  "uf": "RN",
+  "population": 7711,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 37144260.49,
+    "total_expense": 36149610.21,
+    "own_revenue_percentage": 17.7,
+    "transfers_revenue_percentage": 82.3,
+    "personnel_expense_percentage_rcl": 45.7
+  },
+  "per_capita_breakdown": {
+    "health": 1143.5,
+    "education": 1376.9,
+    "urbanism": 724.9,
+    "administration": 505.5,
+    "legislative": 125.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3797.4,
+      "health_per_capita": 891.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4078.6,
+      "health_per_capita": 960.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4359.9,
+      "health_per_capita": 1029.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4594.3,
+      "health_per_capita": 1097.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4688.1,
+      "health_per_capita": 1143.5
+    }
+  ]
+}

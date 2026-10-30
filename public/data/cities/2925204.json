@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2925204",
+  "city_name": "Pojuca",
+  "uf": "BA",
+  "population": 32136,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 137131500.33,
+    "total_expense": 136057887.14,
+    "own_revenue_percentage": 23.1,
+    "transfers_revenue_percentage": 76.9,
+    "personnel_expense_percentage_rcl": 47.4
+  },
+  "per_capita_breakdown": {
+    "health": 893.5,
+    "education": 1243.0,
+    "urbanism": 447.6,
+    "administration": 274.2,
+    "legislative": 129.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3429.4,
+      "health_per_capita": 696.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3683.4,
+      "health_per_capita": 750.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3937.4,
+      "health_per_capita": 804.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4149.1,
+      "health_per_capita": 857.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4233.8,
+      "health_per_capita": 893.5
+    }
+  ]
+}

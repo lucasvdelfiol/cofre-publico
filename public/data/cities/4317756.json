@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4317756",
+  "city_name": "Santo Antônio do Planalto",
+  "uf": "RS",
+  "population": 2089,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 9959578.16,
+    "total_expense": 9717204.5,
+    "own_revenue_percentage": 12.7,
+    "transfers_revenue_percentage": 87.3,
+    "personnel_expense_percentage_rcl": 52.8
+  },
+  "per_capita_breakdown": {
+    "health": 955.9,
+    "education": 1212.5,
+    "urbanism": 668.7,
+    "administration": 326.8,
+    "legislative": 73.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3767.8,
+      "health_per_capita": 745.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4046.9,
+      "health_per_capita": 803.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4326.0,
+      "health_per_capita": 860.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4558.6,
+      "health_per_capita": 917.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4651.6,
+      "health_per_capita": 955.9
+    }
+  ]
+}

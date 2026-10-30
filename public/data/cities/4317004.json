@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4317004",
+  "city_name": "Santana da Boa Vista",
+  "uf": "RS",
+  "population": 7024,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 34421657.36,
+    "total_expense": 33948355.62,
+    "own_revenue_percentage": 17.0,
+    "transfers_revenue_percentage": 83.0,
+    "personnel_expense_percentage_rcl": 47.3
+  },
+  "per_capita_breakdown": {
+    "health": 1309.8,
+    "education": 1273.9,
+    "urbanism": 563.7,
+    "administration": 421.5,
+    "legislative": 137.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3914.9,
+      "health_per_capita": 1021.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4204.9,
+      "health_per_capita": 1100.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4494.9,
+      "health_per_capita": 1178.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4736.5,
+      "health_per_capita": 1257.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4833.2,
+      "health_per_capita": 1309.8
+    }
+  ]
+}

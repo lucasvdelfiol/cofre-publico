@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3126950",
+  "city_name": "Frei Lagonegro",
+  "uf": "MG",
+  "population": 3391,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 15185567.02,
+    "total_expense": 14845616.54,
+    "own_revenue_percentage": 18.8,
+    "transfers_revenue_percentage": 81.2,
+    "personnel_expense_percentage_rcl": 53.3
+  },
+  "per_capita_breakdown": {
+    "health": 1221.9,
+    "education": 1262.1,
+    "urbanism": 350.7,
+    "administration": 465.3,
+    "legislative": 143.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3546.1,
+      "health_per_capita": 953.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3808.8,
+      "health_per_capita": 1026.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4071.4,
+      "health_per_capita": 1099.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4290.3,
+      "health_per_capita": 1173.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4377.9,
+      "health_per_capita": 1221.9
+    }
+  ]
+}

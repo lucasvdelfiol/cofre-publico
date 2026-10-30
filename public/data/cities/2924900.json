@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2924900",
+  "city_name": "Planaltino",
+  "uf": "BA",
+  "population": 8022,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 43909825.88,
+    "total_expense": 44110438.34,
+    "own_revenue_percentage": 15.6,
+    "transfers_revenue_percentage": 84.4,
+    "personnel_expense_percentage_rcl": 51.5
+  },
+  "per_capita_breakdown": {
+    "health": 1536.8,
+    "education": 1489.9,
+    "urbanism": 541.0,
+    "administration": 369.5,
+    "legislative": 97.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4453.9,
+      "health_per_capita": 1198.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4783.9,
+      "health_per_capita": 1290.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5113.8,
+      "health_per_capita": 1383.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5388.7,
+      "health_per_capita": 1475.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5498.7,
+      "health_per_capita": 1536.8
+    }
+  ]
+}

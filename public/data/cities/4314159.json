@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4314159",
+  "city_name": "Paverama",
+  "uf": "RS",
+  "population": 7978,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 36722806.68,
+    "total_expense": 35945030.89,
+    "own_revenue_percentage": 12.6,
+    "transfers_revenue_percentage": 87.4,
+    "personnel_expense_percentage_rcl": 46.3
+  },
+  "per_capita_breakdown": {
+    "health": 1043.1,
+    "education": 1302.7,
+    "urbanism": 427.0,
+    "administration": 456.2,
+    "legislative": 102.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3649.5,
+      "health_per_capita": 813.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3919.8,
+      "health_per_capita": 876.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4190.1,
+      "health_per_capita": 938.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4415.4,
+      "health_per_capita": 1001.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4505.5,
+      "health_per_capita": 1043.1
+    }
+  ]
+}

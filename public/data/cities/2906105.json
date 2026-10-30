@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2906105",
+  "city_name": "Canápolis",
+  "uf": "BA",
+  "population": 10225,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 46470667.51,
+    "total_expense": 46608607.15,
+    "own_revenue_percentage": 8.6,
+    "transfers_revenue_percentage": 91.4,
+    "personnel_expense_percentage_rcl": 46.9
+  },
+  "per_capita_breakdown": {
+    "health": 1156.3,
+    "education": 1159.5,
+    "urbanism": 516.7,
+    "administration": 524.1,
+    "legislative": 159.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3692.2,
+      "health_per_capita": 901.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3965.7,
+      "health_per_capita": 971.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4239.2,
+      "health_per_capita": 1040.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4467.1,
+      "health_per_capita": 1110.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4558.3,
+      "health_per_capita": 1156.3
+    }
+  ]
+}

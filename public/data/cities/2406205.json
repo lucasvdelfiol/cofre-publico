@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2406205",
+  "city_name": "Lagoa d'Anta",
+  "uf": "RN",
+  "population": 6654,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 32100412.56,
+    "total_expense": 31647472.29,
+    "own_revenue_percentage": 14.5,
+    "transfers_revenue_percentage": 85.5,
+    "personnel_expense_percentage_rcl": 50.5
+  },
+  "per_capita_breakdown": {
+    "health": 1330.1,
+    "education": 1514.5,
+    "urbanism": 444.5,
+    "administration": 379.4,
+    "legislative": 141.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3852.5,
+      "health_per_capita": 1037.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4137.9,
+      "health_per_capita": 1117.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4423.3,
+      "health_per_capita": 1197.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4661.1,
+      "health_per_capita": 1276.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4756.2,
+      "health_per_capita": 1330.1
+    }
+  ]
+}

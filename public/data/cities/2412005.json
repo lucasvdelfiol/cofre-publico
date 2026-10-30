@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2412005",
+  "city_name": "São Gonçalo do Amarante",
+  "uf": "RN",
+  "population": 115838,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 671142060.89,
+    "total_expense": 670846887.97,
+    "own_revenue_percentage": 48.4,
+    "transfers_revenue_percentage": 51.6,
+    "personnel_expense_percentage_rcl": 48.5
+  },
+  "per_capita_breakdown": {
+    "health": 1494.9,
+    "education": 1760.8,
+    "urbanism": 527.2,
+    "administration": 668.5,
+    "legislative": 92.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4691.0,
+      "health_per_capita": 1166.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 5038.4,
+      "health_per_capita": 1255.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5385.9,
+      "health_per_capita": 1345.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5675.5,
+      "health_per_capita": 1435.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5791.3,
+      "health_per_capita": 1494.9
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4106308",
+  "city_name": "Corbélia",
+  "uf": "PR",
+  "population": 17470,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 84055316.56,
+    "total_expense": 83493499.76,
+    "own_revenue_percentage": 17.9,
+    "transfers_revenue_percentage": 82.1,
+    "personnel_expense_percentage_rcl": 45.7
+  },
+  "per_capita_breakdown": {
+    "health": 1097.2,
+    "education": 1150.4,
+    "urbanism": 508.6,
+    "administration": 526.9,
+    "legislative": 155.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3871.2,
+      "health_per_capita": 855.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4158.0,
+      "health_per_capita": 921.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4444.7,
+      "health_per_capita": 987.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4683.7,
+      "health_per_capita": 1053.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4779.3,
+      "health_per_capita": 1097.2
+    }
+  ]
+}

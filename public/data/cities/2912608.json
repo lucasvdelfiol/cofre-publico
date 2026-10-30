@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2912608",
+  "city_name": "Ibiquera",
+  "uf": "BA",
+  "population": 3725,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 18943953.25,
+    "total_expense": 18548576.98,
+    "own_revenue_percentage": 16.8,
+    "transfers_revenue_percentage": 83.2,
+    "personnel_expense_percentage_rcl": 48.0
+  },
+  "per_capita_breakdown": {
+    "health": 1029.4,
+    "education": 1240.0,
+    "urbanism": 704.9,
+    "administration": 350.0,
+    "legislative": 110.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4033.4,
+      "health_per_capita": 802.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4332.2,
+      "health_per_capita": 864.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4630.9,
+      "health_per_capita": 926.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4879.9,
+      "health_per_capita": 988.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4979.5,
+      "health_per_capita": 1029.4
+    }
+  ]
+}

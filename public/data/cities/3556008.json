@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3556008",
+  "city_name": "Urupês",
+  "uf": "SP",
+  "population": 13744,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 64930090.76,
+    "total_expense": 64218010.42,
+    "own_revenue_percentage": 17.3,
+    "transfers_revenue_percentage": 82.7,
+    "personnel_expense_percentage_rcl": 47.4
+  },
+  "per_capita_breakdown": {
+    "health": 992.5,
+    "education": 1455.3,
+    "urbanism": 562.8,
+    "administration": 350.7,
+    "legislative": 155.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3784.6,
+      "health_per_capita": 774.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4065.0,
+      "health_per_capita": 833.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4345.3,
+      "health_per_capita": 893.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4579.0,
+      "health_per_capita": 952.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4672.4,
+      "health_per_capita": 992.5
+    }
+  ]
+}

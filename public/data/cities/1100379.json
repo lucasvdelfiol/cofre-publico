@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1100379",
+  "city_name": "Alto Alegre dos Parecis",
+  "uf": "RO",
+  "population": 11479,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 64992113.24,
+    "total_expense": 62955173.65,
+    "own_revenue_percentage": 19.9,
+    "transfers_revenue_percentage": 80.1,
+    "personnel_expense_percentage_rcl": 51.9
+  },
+  "per_capita_breakdown": {
+    "health": 1505.1,
+    "education": 1641.3,
+    "urbanism": 762.5,
+    "administration": 404.1,
+    "legislative": 165.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4442.4,
+      "health_per_capita": 1174.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4771.4,
+      "health_per_capita": 1264.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5100.5,
+      "health_per_capita": 1354.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5374.7,
+      "health_per_capita": 1444.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5484.4,
+      "health_per_capita": 1505.1
+    }
+  ]
+}

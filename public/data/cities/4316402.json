@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4316402",
+  "city_name": "Rosário do Sul",
+  "uf": "RS",
+  "population": 36630,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 160292837.1,
+    "total_expense": 161816904.84,
+    "own_revenue_percentage": 29.9,
+    "transfers_revenue_percentage": 70.1,
+    "personnel_expense_percentage_rcl": 46.9
+  },
+  "per_capita_breakdown": {
+    "health": 917.0,
+    "education": 1258.5,
+    "urbanism": 558.2,
+    "administration": 507.2,
+    "legislative": 79.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3578.3,
+      "health_per_capita": 715.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3843.3,
+      "health_per_capita": 770.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4108.4,
+      "health_per_capita": 825.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4329.2,
+      "health_per_capita": 880.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4417.6,
+      "health_per_capita": 917.0
+    }
+  ]
+}

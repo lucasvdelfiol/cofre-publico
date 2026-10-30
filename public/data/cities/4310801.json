@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4310801",
+  "city_name": "Ivoti",
+  "uf": "RS",
+  "population": 22983,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 107503927.51,
+    "total_expense": 103639306.15,
+    "own_revenue_percentage": 30.3,
+    "transfers_revenue_percentage": 69.7,
+    "personnel_expense_percentage_rcl": 52.7
+  },
+  "per_capita_breakdown": {
+    "health": 1250.6,
+    "education": 1163.1,
+    "urbanism": 383.2,
+    "administration": 423.6,
+    "legislative": 137.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3652.6,
+      "health_per_capita": 975.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3923.2,
+      "health_per_capita": 1050.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4193.7,
+      "health_per_capita": 1125.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4419.2,
+      "health_per_capita": 1200.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4509.4,
+      "health_per_capita": 1250.6
+    }
+  ]
+}

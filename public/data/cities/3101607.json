@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3101607",
+  "city_name": "Alfenas",
+  "uf": "MG",
+  "population": 78970,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 352346464.86,
+    "total_expense": 342709397.76,
+    "own_revenue_percentage": 34.6,
+    "transfers_revenue_percentage": 65.4,
+    "personnel_expense_percentage_rcl": 45.8
+  },
+  "per_capita_breakdown": {
+    "health": 997.4,
+    "education": 1252.3,
+    "urbanism": 476.1,
+    "administration": 297.1,
+    "legislative": 78.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3515.2,
+      "health_per_capita": 778.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3775.5,
+      "health_per_capita": 837.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4035.9,
+      "health_per_capita": 897.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4252.9,
+      "health_per_capita": 957.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4339.7,
+      "health_per_capita": 997.4
+    }
+  ]
+}

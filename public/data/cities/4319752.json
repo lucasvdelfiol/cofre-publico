@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4319752",
+  "city_name": "São Vendelino",
+  "uf": "RS",
+  "population": 2251,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 10452919.66,
+    "total_expense": 10147772.5,
+    "own_revenue_percentage": 14.5,
+    "transfers_revenue_percentage": 85.5,
+    "personnel_expense_percentage_rcl": 51.1
+  },
+  "per_capita_breakdown": {
+    "health": 1069.7,
+    "education": 1290.7,
+    "urbanism": 436.5,
+    "administration": 275.1,
+    "legislative": 106.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3651.6,
+      "health_per_capita": 834.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3922.0,
+      "health_per_capita": 898.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4192.5,
+      "health_per_capita": 962.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4417.9,
+      "health_per_capita": 1026.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4508.1,
+      "health_per_capita": 1069.7
+    }
+  ]
+}

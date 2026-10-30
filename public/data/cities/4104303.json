@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4104303",
+  "city_name": "Campo Mourão",
+  "uf": "PR",
+  "population": 99432,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 443525594.63,
+    "total_expense": 427765634.44,
+    "own_revenue_percentage": 35.2,
+    "transfers_revenue_percentage": 64.8,
+    "personnel_expense_percentage_rcl": 52.8
+  },
+  "per_capita_breakdown": {
+    "health": 1049.4,
+    "education": 1081.3,
+    "urbanism": 489.4,
+    "administration": 417.2,
+    "legislative": 138.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3484.7,
+      "health_per_capita": 818.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3742.8,
+      "health_per_capita": 881.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4001.0,
+      "health_per_capita": 944.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4216.1,
+      "health_per_capita": 1007.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4302.1,
+      "health_per_capita": 1049.4
+    }
+  ]
+}

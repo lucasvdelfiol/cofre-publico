@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3200136",
+  "city_name": "Águia Branca",
+  "uf": "ES",
+  "population": 9711,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 50511815.27,
+    "total_expense": 49216894.85,
+    "own_revenue_percentage": 20.9,
+    "transfers_revenue_percentage": 79.1,
+    "personnel_expense_percentage_rcl": 48.6
+  },
+  "per_capita_breakdown": {
+    "health": 1168.7,
+    "education": 1245.4,
+    "urbanism": 676.3,
+    "administration": 545.2,
+    "legislative": 160.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4105.2,
+      "health_per_capita": 911.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4409.3,
+      "health_per_capita": 981.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4713.4,
+      "health_per_capita": 1051.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4966.8,
+      "health_per_capita": 1122.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5068.2,
+      "health_per_capita": 1168.7
+    }
+  ]
+}

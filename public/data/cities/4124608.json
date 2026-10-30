@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4124608",
+  "city_name": "São Carlos do Ivaí",
+  "uf": "PR",
+  "population": 6587,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 35745286.39,
+    "total_expense": 35851275.92,
+    "own_revenue_percentage": 15.9,
+    "transfers_revenue_percentage": 84.1,
+    "personnel_expense_percentage_rcl": 46.9
+  },
+  "per_capita_breakdown": {
+    "health": 1484.0,
+    "education": 1396.7,
+    "urbanism": 656.8,
+    "administration": 599.8,
+    "legislative": 111.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4408.6,
+      "health_per_capita": 1157.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4735.1,
+      "health_per_capita": 1246.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5061.7,
+      "health_per_capita": 1335.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5333.8,
+      "health_per_capita": 1424.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5442.7,
+      "health_per_capita": 1484.0
+    }
+  ]
+}

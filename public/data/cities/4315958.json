@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4315958",
+  "city_name": "Rolador",
+  "uf": "RS",
+  "population": 2291,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 10053863.15,
+    "total_expense": 10033427.71,
+    "own_revenue_percentage": 10.8,
+    "transfers_revenue_percentage": 89.2,
+    "personnel_expense_percentage_rcl": 52.3
+  },
+  "per_capita_breakdown": {
+    "health": 1042.5,
+    "education": 1091.2,
+    "urbanism": 375.1,
+    "administration": 306.7,
+    "legislative": 144.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3547.4,
+      "health_per_capita": 813.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3810.2,
+      "health_per_capita": 875.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4072.9,
+      "health_per_capita": 938.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4291.9,
+      "health_per_capita": 1000.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4379.5,
+      "health_per_capita": 1042.5
+    }
+  ]
+}

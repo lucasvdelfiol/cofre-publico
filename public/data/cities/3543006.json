@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3543006",
+  "city_name": "Ribeirão Branco",
+  "uf": "SP",
+  "population": 18627,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 90433983.7,
+    "total_expense": 88173106.43,
+    "own_revenue_percentage": 12.3,
+    "transfers_revenue_percentage": 87.7,
+    "personnel_expense_percentage_rcl": 47.4
+  },
+  "per_capita_breakdown": {
+    "health": 1118.3,
+    "education": 1397.2,
+    "urbanism": 698.8,
+    "administration": 454.4,
+    "legislative": 152.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3834.2,
+      "health_per_capita": 872.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4118.2,
+      "health_per_capita": 939.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4402.2,
+      "health_per_capita": 1006.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4638.9,
+      "health_per_capita": 1073.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4733.6,
+      "health_per_capita": 1118.3
+    }
+  ]
+}

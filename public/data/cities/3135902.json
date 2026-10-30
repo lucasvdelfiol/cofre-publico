@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3135902",
+  "city_name": "Jesuânia",
+  "uf": "MG",
+  "population": 5138,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 27974997.11,
+    "total_expense": 27645124.89,
+    "own_revenue_percentage": 21.6,
+    "transfers_revenue_percentage": 78.4,
+    "personnel_expense_percentage_rcl": 51.1
+  },
+  "per_capita_breakdown": {
+    "health": 1274.1,
+    "education": 1423.6,
+    "urbanism": 462.2,
+    "administration": 337.8,
+    "legislative": 154.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4358.2,
+      "health_per_capita": 993.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4681.0,
+      "health_per_capita": 1070.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5003.9,
+      "health_per_capita": 1146.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5272.9,
+      "health_per_capita": 1223.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5380.5,
+      "health_per_capita": 1274.1
+    }
+  ]
+}

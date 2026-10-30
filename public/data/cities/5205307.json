@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5205307",
+  "city_name": "Cavalcante",
+  "uf": "GO",
+  "population": 9583,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 44461797.52,
+    "total_expense": 44520253.94,
+    "own_revenue_percentage": 9.6,
+    "transfers_revenue_percentage": 90.4,
+    "personnel_expense_percentage_rcl": 52.7
+  },
+  "per_capita_breakdown": {
+    "health": 1234.6,
+    "education": 1303.2,
+    "urbanism": 716.0,
+    "administration": 322.0,
+    "legislative": 154.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3763.1,
+      "health_per_capita": 963.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4041.8,
+      "health_per_capita": 1037.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4320.6,
+      "health_per_capita": 1111.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4552.9,
+      "health_per_capita": 1185.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4645.8,
+      "health_per_capita": 1234.6
+    }
+  ]
+}

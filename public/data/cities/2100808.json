@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2100808",
+  "city_name": "Anapurus",
+  "uf": "MA",
+  "population": 13793,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 63371633.1,
+    "total_expense": 61873177.01,
+    "own_revenue_percentage": 12.1,
+    "transfers_revenue_percentage": 87.9,
+    "personnel_expense_percentage_rcl": 49.8
+  },
+  "per_capita_breakdown": {
+    "health": 1059.2,
+    "education": 1299.6,
+    "urbanism": 533.2,
+    "administration": 520.0,
+    "legislative": 131.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3633.5,
+      "health_per_capita": 826.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3902.6,
+      "health_per_capita": 889.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4171.8,
+      "health_per_capita": 953.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4396.1,
+      "health_per_capita": 1016.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4485.8,
+      "health_per_capita": 1059.2
+    }
+  ]
+}

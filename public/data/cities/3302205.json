@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3302205",
+  "city_name": "Itaperuna",
+  "uf": "RJ",
+  "population": 101041,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 563897892.6,
+    "total_expense": 565695502.85,
+    "own_revenue_percentage": 45.7,
+    "transfers_revenue_percentage": 54.3,
+    "personnel_expense_percentage_rcl": 51.3
+  },
+  "per_capita_breakdown": {
+    "health": 1565.9,
+    "education": 1647.2,
+    "urbanism": 745.2,
+    "administration": 475.0,
+    "legislative": 123.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4534.9,
+      "health_per_capita": 1221.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4870.9,
+      "health_per_capita": 1315.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5206.8,
+      "health_per_capita": 1409.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5486.7,
+      "health_per_capita": 1503.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5598.7,
+      "health_per_capita": 1565.9
+    }
+  ]
+}

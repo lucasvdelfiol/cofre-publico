@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4106555",
+  "city_name": "Corumbataí do Sul",
+  "uf": "PR",
+  "population": 3760,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 19650731.39,
+    "total_expense": 19640119.01,
+    "own_revenue_percentage": 20.4,
+    "transfers_revenue_percentage": 79.6,
+    "personnel_expense_percentage_rcl": 47.5
+  },
+  "per_capita_breakdown": {
+    "health": 1391.8,
+    "education": 1551.5,
+    "urbanism": 457.6,
+    "administration": 548.4,
+    "legislative": 119.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4231.0,
+      "health_per_capita": 1085.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4544.4,
+      "health_per_capita": 1169.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4857.8,
+      "health_per_capita": 1252.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5118.9,
+      "health_per_capita": 1336.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5223.4,
+      "health_per_capita": 1391.8
+    }
+  ]
+}

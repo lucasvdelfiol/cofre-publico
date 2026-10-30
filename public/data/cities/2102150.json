@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2102150",
+  "city_name": "Brejo de Areia",
+  "uf": "MA",
+  "population": 9218,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 44522520.81,
+    "total_expense": 42887683.2,
+    "own_revenue_percentage": 19.3,
+    "transfers_revenue_percentage": 80.7,
+    "personnel_expense_percentage_rcl": 53.0
+  },
+  "per_capita_breakdown": {
+    "health": 1252.2,
+    "education": 1120.4,
+    "urbanism": 727.3,
+    "administration": 466.7,
+    "legislative": 88.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3768.6,
+      "health_per_capita": 976.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4047.8,
+      "health_per_capita": 1051.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4326.9,
+      "health_per_capita": 1127.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4559.5,
+      "health_per_capita": 1202.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4652.6,
+      "health_per_capita": 1252.2
+    }
+  ]
+}

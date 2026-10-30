@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2100709",
+  "city_name": "Anajatuba",
+  "uf": "MA",
+  "population": 25322,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 113163369.95,
+    "total_expense": 114015336.45,
+    "own_revenue_percentage": 20.1,
+    "transfers_revenue_percentage": 79.9,
+    "personnel_expense_percentage_rcl": 49.5
+  },
+  "per_capita_breakdown": {
+    "health": 1015.3,
+    "education": 1384.9,
+    "urbanism": 368.5,
+    "administration": 304.0,
+    "legislative": 87.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3647.1,
+      "health_per_capita": 791.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3917.3,
+      "health_per_capita": 852.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4187.4,
+      "health_per_capita": 913.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4412.5,
+      "health_per_capita": 974.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4502.6,
+      "health_per_capita": 1015.3
+    }
+  ]
+}

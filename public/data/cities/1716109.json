@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1716109",
+  "city_name": "Paraíso do Tocantins",
+  "uf": "TO",
+  "population": 52360,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 259259713.73,
+    "total_expense": 259223468.71,
+    "own_revenue_percentage": 29.7,
+    "transfers_revenue_percentage": 70.3,
+    "personnel_expense_percentage_rcl": 46.2
+  },
+  "per_capita_breakdown": {
+    "health": 1162.1,
+    "education": 1286.0,
+    "urbanism": 765.3,
+    "administration": 406.0,
+    "legislative": 107.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4010.1,
+      "health_per_capita": 906.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4307.2,
+      "health_per_capita": 976.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4604.2,
+      "health_per_capita": 1045.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4851.8,
+      "health_per_capita": 1115.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4950.8,
+      "health_per_capita": 1162.1
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2513000",
+  "city_name": "Salgadinho",
+  "uf": "PB",
+  "population": 3355,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 17833015.0,
+    "total_expense": 17925980.58,
+    "own_revenue_percentage": 12.0,
+    "transfers_revenue_percentage": 88.0,
+    "personnel_expense_percentage_rcl": 52.3
+  },
+  "per_capita_breakdown": {
+    "health": 1155.5,
+    "education": 1421.7,
+    "urbanism": 563.4,
+    "administration": 435.6,
+    "legislative": 175.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4327.9,
+      "health_per_capita": 901.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4648.5,
+      "health_per_capita": 970.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4969.1,
+      "health_per_capita": 1040.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5236.2,
+      "health_per_capita": 1109.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5343.1,
+      "health_per_capita": 1155.5
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2306207",
+  "city_name": "Itaiçaba",
+  "uf": "CE",
+  "population": 7536,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 42752218.76,
+    "total_expense": 41111497.6,
+    "own_revenue_percentage": 15.2,
+    "transfers_revenue_percentage": 84.8,
+    "personnel_expense_percentage_rcl": 53.0
+  },
+  "per_capita_breakdown": {
+    "health": 1323.3,
+    "education": 1546.2,
+    "urbanism": 572.0,
+    "administration": 631.4,
+    "legislative": 107.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4418.8,
+      "health_per_capita": 1032.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4746.1,
+      "health_per_capita": 1111.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5073.4,
+      "health_per_capita": 1191.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5346.2,
+      "health_per_capita": 1270.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5455.3,
+      "health_per_capita": 1323.3
+    }
+  ]
+}

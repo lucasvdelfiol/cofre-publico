@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5222054",
+  "city_name": "Vicentinópolis",
+  "uf": "GO",
+  "population": 8768,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 47229984.73,
+    "total_expense": 47067171.93,
+    "own_revenue_percentage": 21.5,
+    "transfers_revenue_percentage": 78.5,
+    "personnel_expense_percentage_rcl": 47.7
+  },
+  "per_capita_breakdown": {
+    "health": 1135.5,
+    "education": 1338.7,
+    "urbanism": 713.2,
+    "administration": 378.1,
+    "legislative": 144.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4348.2,
+      "health_per_capita": 885.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4670.2,
+      "health_per_capita": 953.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4992.3,
+      "health_per_capita": 1022.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5260.7,
+      "health_per_capita": 1090.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5368.1,
+      "health_per_capita": 1135.5
+    }
+  ]
+}

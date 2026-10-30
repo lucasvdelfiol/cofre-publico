@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1505601",
+  "city_name": "Peixe-Boi",
+  "uf": "PA",
+  "population": 8285,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 44821427.14,
+    "total_expense": 45208590.47,
+    "own_revenue_percentage": 11.2,
+    "transfers_revenue_percentage": 88.8,
+    "personnel_expense_percentage_rcl": 52.3
+  },
+  "per_capita_breakdown": {
+    "health": 1264.4,
+    "education": 1330.4,
+    "urbanism": 850.9,
+    "administration": 605.8,
+    "legislative": 89.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4419.9,
+      "health_per_capita": 986.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4747.3,
+      "health_per_capita": 1062.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5074.7,
+      "health_per_capita": 1138.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5347.6,
+      "health_per_capita": 1213.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5456.7,
+      "health_per_capita": 1264.4
+    }
+  ]
+}

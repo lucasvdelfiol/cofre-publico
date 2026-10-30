@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3556701",
+  "city_name": "Vinhedo",
+  "uf": "SP",
+  "population": 76540,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 362408993.44,
+    "total_expense": 352849018.1,
+    "own_revenue_percentage": 31.9,
+    "transfers_revenue_percentage": 68.1,
+    "personnel_expense_percentage_rcl": 52.6
+  },
+  "per_capita_breakdown": {
+    "health": 1270.5,
+    "education": 1377.5,
+    "urbanism": 539.9,
+    "administration": 465.7,
+    "legislative": 86.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3734.1,
+      "health_per_capita": 991.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4010.7,
+      "health_per_capita": 1067.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4287.3,
+      "health_per_capita": 1143.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4517.8,
+      "health_per_capita": 1219.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4610.0,
+      "health_per_capita": 1270.5
+    }
+  ]
+}

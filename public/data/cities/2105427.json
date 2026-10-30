@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2105427",
+  "city_name": "Itinga do Maranhão",
+  "uf": "MA",
+  "population": 22513,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 99995342.85,
+    "total_expense": 99506510.46,
+    "own_revenue_percentage": 27.2,
+    "transfers_revenue_percentage": 72.8,
+    "personnel_expense_percentage_rcl": 48.4
+  },
+  "per_capita_breakdown": {
+    "health": 1146.9,
+    "education": 1294.7,
+    "urbanism": 482.5,
+    "administration": 512.2,
+    "legislative": 69.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3580.2,
+      "health_per_capita": 894.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3845.4,
+      "health_per_capita": 963.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4110.6,
+      "health_per_capita": 1032.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4331.6,
+      "health_per_capita": 1101.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4420.0,
+      "health_per_capita": 1146.9
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1718865",
+  "city_name": "Santa Fé do Araguaia",
+  "uf": "TO",
+  "population": 7216,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 40404775.96,
+    "total_expense": 39374600.9,
+    "own_revenue_percentage": 12.7,
+    "transfers_revenue_percentage": 87.3,
+    "personnel_expense_percentage_rcl": 48.6
+  },
+  "per_capita_breakdown": {
+    "health": 1215.6,
+    "education": 1574.0,
+    "urbanism": 707.2,
+    "administration": 376.3,
+    "legislative": 92.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4419.8,
+      "health_per_capita": 948.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4747.2,
+      "health_per_capita": 1021.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5074.6,
+      "health_per_capita": 1094.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5347.5,
+      "health_per_capita": 1167.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5456.6,
+      "health_per_capita": 1215.6
+    }
+  ]
+}

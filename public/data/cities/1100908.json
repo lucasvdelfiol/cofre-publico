@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1100908",
+  "city_name": "Castanheiras",
+  "uf": "RO",
+  "population": 3233,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 15382523.15,
+    "total_expense": 15267959.93,
+    "own_revenue_percentage": 15.8,
+    "transfers_revenue_percentage": 84.2,
+    "personnel_expense_percentage_rcl": 49.1
+  },
+  "per_capita_breakdown": {
+    "health": 1094.3,
+    "education": 1450.1,
+    "urbanism": 383.5,
+    "administration": 514.6,
+    "legislative": 73.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3825.2,
+      "health_per_capita": 853.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4108.6,
+      "health_per_capita": 919.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4391.9,
+      "health_per_capita": 984.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4628.1,
+      "health_per_capita": 1050.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4722.5,
+      "health_per_capita": 1094.3
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3541802",
+  "city_name": "Queiroz",
+  "uf": "SP",
+  "population": 3265,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 17881599.55,
+    "total_expense": 18025470.44,
+    "own_revenue_percentage": 20.1,
+    "transfers_revenue_percentage": 79.9,
+    "personnel_expense_percentage_rcl": 46.7
+  },
+  "per_capita_breakdown": {
+    "health": 1178.0,
+    "education": 1659.8,
+    "urbanism": 867.0,
+    "administration": 471.3,
+    "legislative": 142.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4471.8,
+      "health_per_capita": 918.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4803.1,
+      "health_per_capita": 989.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5134.3,
+      "health_per_capita": 1060.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5410.4,
+      "health_per_capita": 1130.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5520.8,
+      "health_per_capita": 1178.0
+    }
+  ]
+}

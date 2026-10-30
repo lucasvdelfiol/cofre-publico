@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4320859",
+  "city_name": "Tabaí",
+  "uf": "RS",
+  "population": 4461,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 22505167.64,
+    "total_expense": 22143337.27,
+    "own_revenue_percentage": 16.3,
+    "transfers_revenue_percentage": 83.7,
+    "personnel_expense_percentage_rcl": 53.0
+  },
+  "per_capita_breakdown": {
+    "health": 1297.9,
+    "education": 1424.4,
+    "urbanism": 631.5,
+    "administration": 583.9,
+    "legislative": 171.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4020.7,
+      "health_per_capita": 1012.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4318.5,
+      "health_per_capita": 1090.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4616.3,
+      "health_per_capita": 1168.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4864.5,
+      "health_per_capita": 1246.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4963.8,
+      "health_per_capita": 1297.9
+    }
+  ]
+}

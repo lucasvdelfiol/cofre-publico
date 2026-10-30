@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5105234",
+  "city_name": "Lambari D'Oeste",
+  "uf": "MT",
+  "population": 4790,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 24529268.53,
+    "total_expense": 23976995.17,
+    "own_revenue_percentage": 8.3,
+    "transfers_revenue_percentage": 91.7,
+    "personnel_expense_percentage_rcl": 47.1
+  },
+  "per_capita_breakdown": {
+    "health": 1388.6,
+    "education": 1356.2,
+    "urbanism": 711.0,
+    "administration": 348.1,
+    "legislative": 169.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4054.5,
+      "health_per_capita": 1083.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4354.9,
+      "health_per_capita": 1166.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4655.2,
+      "health_per_capita": 1249.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4905.5,
+      "health_per_capita": 1333.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5005.6,
+      "health_per_capita": 1388.6
+    }
+  ]
+}

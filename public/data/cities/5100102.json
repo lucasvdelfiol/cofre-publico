@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5100102",
+  "city_name": "Acorizal",
+  "uf": "MT",
+  "population": 5014,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 26297565.66,
+    "total_expense": 25948706.22,
+    "own_revenue_percentage": 12.5,
+    "transfers_revenue_percentage": 87.5,
+    "personnel_expense_percentage_rcl": 51.7
+  },
+  "per_capita_breakdown": {
+    "health": 1068.4,
+    "education": 1561.1,
+    "urbanism": 673.0,
+    "administration": 568.6,
+    "legislative": 77.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4192.0,
+      "health_per_capita": 833.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4502.5,
+      "health_per_capita": 897.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4813.0,
+      "health_per_capita": 961.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5071.8,
+      "health_per_capita": 1025.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5175.3,
+      "health_per_capita": 1068.4
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3557154",
+  "city_name": "Zacarias",
+  "uf": "SP",
+  "population": 2692,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 12332490.71,
+    "total_expense": 12106028.83,
+    "own_revenue_percentage": 17.6,
+    "transfers_revenue_percentage": 82.4,
+    "personnel_expense_percentage_rcl": 49.7
+  },
+  "per_capita_breakdown": {
+    "health": 1222.1,
+    "education": 1429.1,
+    "urbanism": 717.9,
+    "administration": 492.9,
+    "legislative": 78.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3642.6,
+      "health_per_capita": 953.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3912.4,
+      "health_per_capita": 1026.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4182.2,
+      "health_per_capita": 1099.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4407.1,
+      "health_per_capita": 1173.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4497.0,
+      "health_per_capita": 1222.1
+    }
+  ]
+}

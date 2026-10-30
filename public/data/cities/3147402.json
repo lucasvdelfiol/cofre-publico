@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3147402",
+  "city_name": "Paraopeba",
+  "uf": "MG",
+  "population": 24107,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 108232902.17,
+    "total_expense": 107386671.57,
+    "own_revenue_percentage": 31.1,
+    "transfers_revenue_percentage": 68.9,
+    "personnel_expense_percentage_rcl": 52.3
+  },
+  "per_capita_breakdown": {
+    "health": 1020.9,
+    "education": 1190.2,
+    "urbanism": 554.4,
+    "administration": 462.9,
+    "legislative": 111.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3608.2,
+      "health_per_capita": 796.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3875.5,
+      "health_per_capita": 857.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4142.8,
+      "health_per_capita": 918.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4365.5,
+      "health_per_capita": 980.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4454.6,
+      "health_per_capita": 1020.9
+    }
+  ]
+}

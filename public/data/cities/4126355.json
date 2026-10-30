@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4126355",
+  "city_name": "Serranópolis do Iguaçu",
+  "uf": "PR",
+  "population": 5007,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 25660128.08,
+    "total_expense": 25817886.08,
+    "own_revenue_percentage": 8.1,
+    "transfers_revenue_percentage": 91.9,
+    "personnel_expense_percentage_rcl": 46.5
+  },
+  "per_capita_breakdown": {
+    "health": 1072.7,
+    "education": 1389.0,
+    "urbanism": 798.7,
+    "administration": 496.2,
+    "legislative": 138.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4176.7,
+      "health_per_capita": 836.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4486.1,
+      "health_per_capita": 901.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4795.5,
+      "health_per_capita": 965.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5053.3,
+      "health_per_capita": 1029.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5156.4,
+      "health_per_capita": 1072.7
+    }
+  ]
+}

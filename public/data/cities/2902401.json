@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2902401",
+  "city_name": "Aurelino Leal",
+  "uf": "BA",
+  "population": 11179,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 49708395.64,
+    "total_expense": 48562167.15,
+    "own_revenue_percentage": 9.9,
+    "transfers_revenue_percentage": 90.1,
+    "personnel_expense_percentage_rcl": 52.3
+  },
+  "per_capita_breakdown": {
+    "health": 1054.0,
+    "education": 1145.0,
+    "urbanism": 396.6,
+    "administration": 326.3,
+    "legislative": 76.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3518.7,
+      "health_per_capita": 822.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3779.4,
+      "health_per_capita": 885.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4040.0,
+      "health_per_capita": 948.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4257.2,
+      "health_per_capita": 1011.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4344.1,
+      "health_per_capita": 1054.0
+    }
+  ]
+}

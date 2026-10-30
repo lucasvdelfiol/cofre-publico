@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2905909",
+  "city_name": "Campo Alegre de Lourdes",
+  "uf": "BA",
+  "population": 30671,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 146837854.93,
+    "total_expense": 142018661.31,
+    "own_revenue_percentage": 24.6,
+    "transfers_revenue_percentage": 75.4,
+    "personnel_expense_percentage_rcl": 50.1
+  },
+  "per_capita_breakdown": {
+    "health": 1062.1,
+    "education": 1246.4,
+    "urbanism": 603.1,
+    "administration": 356.3,
+    "legislative": 103.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3750.6,
+      "health_per_capita": 828.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4028.4,
+      "health_per_capita": 892.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4306.3,
+      "health_per_capita": 955.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4537.8,
+      "health_per_capita": 1019.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4630.4,
+      "health_per_capita": 1062.1
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2112209",
+  "city_name": "Timon",
+  "uf": "MA",
+  "population": 174465,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 938461425.95,
+    "total_expense": 911642204.27,
+    "own_revenue_percentage": 50.0,
+    "transfers_revenue_percentage": 50.0,
+    "personnel_expense_percentage_rcl": 50.7
+  },
+  "per_capita_breakdown": {
+    "health": 1235.8,
+    "education": 1516.6,
+    "urbanism": 792.3,
+    "administration": 584.0,
+    "legislative": 100.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4232.6,
+      "health_per_capita": 963.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4546.1,
+      "health_per_capita": 1038.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4859.6,
+      "health_per_capita": 1112.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5120.9,
+      "health_per_capita": 1186.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5225.4,
+      "health_per_capita": 1235.8
+    }
+  ]
+}

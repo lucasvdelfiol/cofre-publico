@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1101500",
+  "city_name": "Seringueiras",
+  "uf": "RO",
+  "population": 11171,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 57708074.0,
+    "total_expense": 57002138.6,
+    "own_revenue_percentage": 21.6,
+    "transfers_revenue_percentage": 78.4,
+    "personnel_expense_percentage_rcl": 48.0
+  },
+  "per_capita_breakdown": {
+    "health": 1213.3,
+    "education": 1586.3,
+    "urbanism": 460.3,
+    "administration": 336.8,
+    "legislative": 160.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4133.2,
+      "health_per_capita": 946.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4439.3,
+      "health_per_capita": 1019.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4745.5,
+      "health_per_capita": 1092.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5000.6,
+      "health_per_capita": 1164.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5102.7,
+      "health_per_capita": 1213.3
+    }
+  ]
+}

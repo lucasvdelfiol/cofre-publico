@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1702158",
+  "city_name": "Araguanã",
+  "uf": "TO",
+  "population": 4310,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 18876309.61,
+    "total_expense": 19004113.73,
+    "own_revenue_percentage": 15.5,
+    "transfers_revenue_percentage": 84.5,
+    "personnel_expense_percentage_rcl": 45.7
+  },
+  "per_capita_breakdown": {
+    "health": 1009.0,
+    "education": 1320.3,
+    "urbanism": 494.7,
+    "administration": 344.5,
+    "legislative": 74.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3571.5,
+      "health_per_capita": 787.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3836.1,
+      "health_per_capita": 847.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4100.6,
+      "health_per_capita": 908.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4321.1,
+      "health_per_capita": 968.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4409.3,
+      "health_per_capita": 1009.0
+    }
+  ]
+}

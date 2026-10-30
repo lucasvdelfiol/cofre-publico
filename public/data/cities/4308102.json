@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4308102",
+  "city_name": "Feliz",
+  "uf": "RS",
+  "population": 13764,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 77698251.74,
+    "total_expense": 75140575.15,
+    "own_revenue_percentage": 17.4,
+    "transfers_revenue_percentage": 82.6,
+    "personnel_expense_percentage_rcl": 52.1
+  },
+  "per_capita_breakdown": {
+    "health": 1365.0,
+    "education": 1340.2,
+    "urbanism": 778.1,
+    "administration": 372.1,
+    "legislative": 97.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4422.0,
+      "health_per_capita": 1064.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4749.5,
+      "health_per_capita": 1146.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5077.1,
+      "health_per_capita": 1228.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5350.0,
+      "health_per_capita": 1310.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5459.2,
+      "health_per_capita": 1365.0
+    }
+  ]
+}

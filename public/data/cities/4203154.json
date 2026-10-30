@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4203154",
+  "city_name": "Calmon",
+  "uf": "SC",
+  "population": 3443,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 18843201.97,
+    "total_expense": 18170326.55,
+    "own_revenue_percentage": 15.5,
+    "transfers_revenue_percentage": 84.5,
+    "personnel_expense_percentage_rcl": 53.4
+  },
+  "per_capita_breakdown": {
+    "health": 1473.5,
+    "education": 1338.5,
+    "urbanism": 838.0,
+    "administration": 448.1,
+    "legislative": 157.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4274.8,
+      "health_per_capita": 1149.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4591.4,
+      "health_per_capita": 1237.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4908.1,
+      "health_per_capita": 1326.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5171.9,
+      "health_per_capita": 1414.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5277.5,
+      "health_per_capita": 1473.5
+    }
+  ]
+}

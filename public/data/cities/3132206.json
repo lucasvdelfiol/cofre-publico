@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3132206",
+  "city_name": "Itaguara",
+  "uf": "MG",
+  "population": 13846,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 71900935.23,
+    "total_expense": 70936567.42,
+    "own_revenue_percentage": 18.7,
+    "transfers_revenue_percentage": 81.3,
+    "personnel_expense_percentage_rcl": 51.6
+  },
+  "per_capita_breakdown": {
+    "health": 1345.0,
+    "education": 1314.1,
+    "urbanism": 574.9,
+    "administration": 578.5,
+    "legislative": 93.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4149.9,
+      "health_per_capita": 1049.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4457.3,
+      "health_per_capita": 1129.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4764.7,
+      "health_per_capita": 1210.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5020.8,
+      "health_per_capita": 1291.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5123.3,
+      "health_per_capita": 1345.0
+    }
+  ]
+}

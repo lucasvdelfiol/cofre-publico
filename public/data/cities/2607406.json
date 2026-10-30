@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2607406",
+  "city_name": "Itacuruba",
+  "uf": "PE",
+  "population": 4284,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 22919636.97,
+    "total_expense": 22979226.65,
+    "own_revenue_percentage": 9.0,
+    "transfers_revenue_percentage": 91.0,
+    "personnel_expense_percentage_rcl": 51.8
+  },
+  "per_capita_breakdown": {
+    "health": 1440.4,
+    "education": 1314.6,
+    "urbanism": 516.5,
+    "administration": 527.7,
+    "legislative": 86.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4344.8,
+      "health_per_capita": 1123.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4666.7,
+      "health_per_capita": 1209.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4988.5,
+      "health_per_capita": 1296.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5256.7,
+      "health_per_capita": 1382.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5364.0,
+      "health_per_capita": 1440.4
+    }
+  ]
+}

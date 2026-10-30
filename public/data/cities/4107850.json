@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4107850",
+  "city_name": "Flor da Serra do Sul",
+  "uf": "PR",
+  "population": 4364,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 24782457.42,
+    "total_expense": 23946593.4,
+    "own_revenue_percentage": 14.6,
+    "transfers_revenue_percentage": 85.4,
+    "personnel_expense_percentage_rcl": 46.4
+  },
+  "per_capita_breakdown": {
+    "health": 1378.6,
+    "education": 1700.2,
+    "urbanism": 806.5,
+    "administration": 535.1,
+    "legislative": 188.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4444.7,
+      "health_per_capita": 1075.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4774.0,
+      "health_per_capita": 1158.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5103.2,
+      "health_per_capita": 1240.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5377.6,
+      "health_per_capita": 1323.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5487.3,
+      "health_per_capita": 1378.6
+    }
+  ]
+}

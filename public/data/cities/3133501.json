@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3133501",
+  "city_name": "Itapecerica",
+  "uf": "MG",
+  "population": 21046,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 103414152.43,
+    "total_expense": 99870339.4,
+    "own_revenue_percentage": 23.8,
+    "transfers_revenue_percentage": 76.2,
+    "personnel_expense_percentage_rcl": 47.0
+  },
+  "per_capita_breakdown": {
+    "health": 1074.6,
+    "education": 1504.0,
+    "urbanism": 399.4,
+    "administration": 437.8,
+    "legislative": 103.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3843.7,
+      "health_per_capita": 838.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4128.4,
+      "health_per_capita": 902.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4413.1,
+      "health_per_capita": 967.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4650.4,
+      "health_per_capita": 1031.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4745.3,
+      "health_per_capita": 1074.6
+    }
+  ]
+}

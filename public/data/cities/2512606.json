@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2512606",
+  "city_name": "Quixaba",
+  "uf": "PB",
+  "population": 1743,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 9011269.16,
+    "total_expense": 8800759.77,
+    "own_revenue_percentage": 10.2,
+    "transfers_revenue_percentage": 89.8,
+    "personnel_expense_percentage_rcl": 48.4
+  },
+  "per_capita_breakdown": {
+    "health": 1079.1,
+    "education": 1326.6,
+    "urbanism": 472.7,
+    "administration": 577.6,
+    "legislative": 165.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4089.9,
+      "health_per_capita": 841.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4392.8,
+      "health_per_capita": 906.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4695.8,
+      "health_per_capita": 971.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4948.2,
+      "health_per_capita": 1035.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5049.2,
+      "health_per_capita": 1079.1
+    }
+  ]
+}

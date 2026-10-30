@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3114402",
+  "city_name": "Carmo do Rio Claro",
+  "uf": "MG",
+  "population": 20954,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 100708249.58,
+    "total_expense": 98739905.11,
+    "own_revenue_percentage": 18.4,
+    "transfers_revenue_percentage": 81.6,
+    "personnel_expense_percentage_rcl": 53.3
+  },
+  "per_capita_breakdown": {
+    "health": 992.4,
+    "education": 1443.4,
+    "urbanism": 400.5,
+    "administration": 385.1,
+    "legislative": 119.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3816.9,
+      "health_per_capita": 774.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4099.6,
+      "health_per_capita": 833.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4382.3,
+      "health_per_capita": 893.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4618.0,
+      "health_per_capita": 952.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4712.2,
+      "health_per_capita": 992.4
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1706001",
+  "city_name": "Couto Magalhães",
+  "uf": "TO",
+  "population": 5331,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 29907913.89,
+    "total_expense": 28937302.37,
+    "own_revenue_percentage": 8.2,
+    "transfers_revenue_percentage": 91.8,
+    "personnel_expense_percentage_rcl": 48.0
+  },
+  "per_capita_breakdown": {
+    "health": 1167.7,
+    "education": 1457.0,
+    "urbanism": 606.9,
+    "administration": 490.7,
+    "legislative": 113.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4396.8,
+      "health_per_capita": 910.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4722.4,
+      "health_per_capita": 980.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5048.1,
+      "health_per_capita": 1050.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5319.5,
+      "health_per_capita": 1121.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5428.1,
+      "health_per_capita": 1167.7
+    }
+  ]
+}

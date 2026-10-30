@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3542404",
+  "city_name": "Regente Feijó",
+  "uf": "SP",
+  "population": 20145,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 89347343.7,
+    "total_expense": 90030203.93,
+    "own_revenue_percentage": 20.0,
+    "transfers_revenue_percentage": 80.0,
+    "personnel_expense_percentage_rcl": 52.0
+  },
+  "per_capita_breakdown": {
+    "health": 1118.4,
+    "education": 1429.7,
+    "urbanism": 583.7,
+    "administration": 309.0,
+    "legislative": 115.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3620.0,
+      "health_per_capita": 872.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3888.1,
+      "health_per_capita": 939.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4156.3,
+      "health_per_capita": 1006.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4379.7,
+      "health_per_capita": 1073.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4469.1,
+      "health_per_capita": 1118.4
+    }
+  ]
+}

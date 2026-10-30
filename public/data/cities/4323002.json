@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4323002",
+  "city_name": "Viamão",
+  "uf": "RS",
+  "population": 224112,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 1100074611.08,
+    "total_expense": 1095690602.56,
+    "own_revenue_percentage": 50.2,
+    "transfers_revenue_percentage": 49.8,
+    "personnel_expense_percentage_rcl": 47.4
+  },
+  "per_capita_breakdown": {
+    "health": 1161.0,
+    "education": 1324.4,
+    "urbanism": 526.3,
+    "administration": 365.0,
+    "legislative": 117.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3960.1,
+      "health_per_capita": 905.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4253.4,
+      "health_per_capita": 975.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4546.8,
+      "health_per_capita": 1044.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4791.2,
+      "health_per_capita": 1114.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4889.0,
+      "health_per_capita": 1161.0
+    }
+  ]
+}

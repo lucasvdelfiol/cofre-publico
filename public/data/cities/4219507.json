@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4219507",
+  "city_name": "Xanxerê",
+  "uf": "SC",
+  "population": 51607,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 246188842.44,
+    "total_expense": 243132845.02,
+    "own_revenue_percentage": 32.6,
+    "transfers_revenue_percentage": 67.4,
+    "personnel_expense_percentage_rcl": 46.9
+  },
+  "per_capita_breakdown": {
+    "health": 1216.0,
+    "education": 1387.9,
+    "urbanism": 552.2,
+    "administration": 507.1,
+    "legislative": 105.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3816.1,
+      "health_per_capita": 948.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4098.7,
+      "health_per_capita": 1021.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4381.4,
+      "health_per_capita": 1094.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4617.0,
+      "health_per_capita": 1167.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4711.2,
+      "health_per_capita": 1216.0
+    }
+  ]
+}

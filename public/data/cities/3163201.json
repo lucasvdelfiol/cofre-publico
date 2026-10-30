@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3163201",
+  "city_name": "São José do Alegre",
+  "uf": "MG",
+  "population": 4133,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 19521264.65,
+    "total_expense": 19020391.6,
+    "own_revenue_percentage": 9.0,
+    "transfers_revenue_percentage": 91.0,
+    "personnel_expense_percentage_rcl": 48.2
+  },
+  "per_capita_breakdown": {
+    "health": 964.3,
+    "education": 1363.8,
+    "urbanism": 485.4,
+    "administration": 316.5,
+    "legislative": 79.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3727.7,
+      "health_per_capita": 752.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4003.8,
+      "health_per_capita": 810.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4280.0,
+      "health_per_capita": 867.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4510.1,
+      "health_per_capita": 925.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4602.1,
+      "health_per_capita": 964.3
+    }
+  ]
+}

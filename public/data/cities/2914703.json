@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2914703",
+  "city_name": "Itaberaba",
+  "uf": "BA",
+  "population": 65073,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 279920716.69,
+    "total_expense": 275045979.75,
+    "own_revenue_percentage": 31.7,
+    "transfers_revenue_percentage": 68.3,
+    "personnel_expense_percentage_rcl": 49.3
+  },
+  "per_capita_breakdown": {
+    "health": 868.8,
+    "education": 1069.1,
+    "urbanism": 539.3,
+    "administration": 442.2,
+    "legislative": 124.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3423.6,
+      "health_per_capita": 677.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3677.2,
+      "health_per_capita": 729.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3930.8,
+      "health_per_capita": 781.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4142.2,
+      "health_per_capita": 834.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4226.7,
+      "health_per_capita": 868.8
+    }
+  ]
+}

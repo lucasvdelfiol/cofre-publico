@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3129707",
+  "city_name": "Ibiraci",
+  "uf": "MG",
+  "population": 10948,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 48532370.67,
+    "total_expense": 47176337.04,
+    "own_revenue_percentage": 17.7,
+    "transfers_revenue_percentage": 82.3,
+    "personnel_expense_percentage_rcl": 46.3
+  },
+  "per_capita_breakdown": {
+    "health": 1076.5,
+    "education": 1098.6,
+    "urbanism": 450.7,
+    "administration": 324.7,
+    "legislative": 76.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3490.4,
+      "health_per_capita": 839.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3748.9,
+      "health_per_capita": 904.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4007.5,
+      "health_per_capita": 968.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4222.9,
+      "health_per_capita": 1033.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4309.1,
+      "health_per_capita": 1076.5
+    }
+  ]
+}

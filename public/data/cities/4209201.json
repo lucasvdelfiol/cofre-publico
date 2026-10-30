@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4209201",
+  "city_name": "Lacerdópolis",
+  "uf": "SC",
+  "population": 2248,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 12190651.6,
+    "total_expense": 12030522.33,
+    "own_revenue_percentage": 17.8,
+    "transfers_revenue_percentage": 82.2,
+    "personnel_expense_percentage_rcl": 47.1
+  },
+  "per_capita_breakdown": {
+    "health": 1279.4,
+    "education": 1593.8,
+    "urbanism": 486.4,
+    "administration": 471.1,
+    "legislative": 122.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4334.9,
+      "health_per_capita": 997.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4656.0,
+      "health_per_capita": 1074.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4977.1,
+      "health_per_capita": 1151.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5244.7,
+      "health_per_capita": 1228.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5351.7,
+      "health_per_capita": 1279.4
+    }
+  ]
+}

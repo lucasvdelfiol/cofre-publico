@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3551108",
+  "city_name": "Sarapuí",
+  "uf": "SP",
+  "population": 10369,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 54036034.81,
+    "total_expense": 52208995.37,
+    "own_revenue_percentage": 8.7,
+    "transfers_revenue_percentage": 91.3,
+    "personnel_expense_percentage_rcl": 51.4
+  },
+  "per_capita_breakdown": {
+    "health": 1251.8,
+    "education": 1393.0,
+    "urbanism": 406.8,
+    "administration": 555.5,
+    "legislative": 148.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4078.4,
+      "health_per_capita": 976.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4380.5,
+      "health_per_capita": 1051.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4682.6,
+      "health_per_capita": 1126.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4934.4,
+      "health_per_capita": 1201.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5035.1,
+      "health_per_capita": 1251.8
+    }
+  ]
+}

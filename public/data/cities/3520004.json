@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3520004",
+  "city_name": "Igaraçu do Tietê",
+  "uf": "SP",
+  "population": 23106,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 104152742.67,
+    "total_expense": 101638902.98,
+    "own_revenue_percentage": 24.9,
+    "transfers_revenue_percentage": 75.1,
+    "personnel_expense_percentage_rcl": 51.9
+  },
+  "per_capita_breakdown": {
+    "health": 1189.4,
+    "education": 1365.6,
+    "urbanism": 665.4,
+    "administration": 527.4,
+    "legislative": 105.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3563.0,
+      "health_per_capita": 927.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3827.0,
+      "health_per_capita": 999.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4090.9,
+      "health_per_capita": 1070.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4310.8,
+      "health_per_capita": 1141.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4398.8,
+      "health_per_capita": 1189.4
+    }
+  ]
+}

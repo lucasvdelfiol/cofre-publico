@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4216602",
+  "city_name": "São José",
+  "uf": "SC",
+  "population": 270299,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 1354885687.65,
+    "total_expense": 1363801990.42,
+    "own_revenue_percentage": 45.0,
+    "transfers_revenue_percentage": 55.0,
+    "personnel_expense_percentage_rcl": 49.9
+  },
+  "per_capita_breakdown": {
+    "health": 1345.1,
+    "education": 1542.3,
+    "urbanism": 433.7,
+    "administration": 470.6,
+    "legislative": 147.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4086.9,
+      "health_per_capita": 1049.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4389.6,
+      "health_per_capita": 1129.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4692.3,
+      "health_per_capita": 1210.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4944.6,
+      "health_per_capita": 1291.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5045.5,
+      "health_per_capita": 1345.1
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2926400",
+  "city_name": "Riacho de Santana",
+  "uf": "BA",
+  "population": 30711,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 139844643.92,
+    "total_expense": 134840399.61,
+    "own_revenue_percentage": 18.1,
+    "transfers_revenue_percentage": 81.9,
+    "personnel_expense_percentage_rcl": 52.4
+  },
+  "per_capita_breakdown": {
+    "health": 999.7,
+    "education": 1395.2,
+    "urbanism": 391.6,
+    "administration": 346.7,
+    "legislative": 148.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3556.4,
+      "health_per_capita": 779.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3819.8,
+      "health_per_capita": 839.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4083.3,
+      "health_per_capita": 899.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4302.8,
+      "health_per_capita": 959.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4390.6,
+      "health_per_capita": 999.7
+    }
+  ]
+}

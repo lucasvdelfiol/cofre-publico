@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5217708",
+  "city_name": "Pontalina",
+  "uf": "GO",
+  "population": 18309,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 99513381.07,
+    "total_expense": 98694792.19,
+    "own_revenue_percentage": 19.7,
+    "transfers_revenue_percentage": 80.3,
+    "personnel_expense_percentage_rcl": 50.6
+  },
+  "per_capita_breakdown": {
+    "health": 1107.7,
+    "education": 1362.0,
+    "urbanism": 762.1,
+    "administration": 353.8,
+    "legislative": 135.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4366.3,
+      "health_per_capita": 864.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4689.7,
+      "health_per_capita": 930.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5013.2,
+      "health_per_capita": 996.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5282.7,
+      "health_per_capita": 1063.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5390.5,
+      "health_per_capita": 1107.7
+    }
+  ]
+}

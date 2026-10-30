@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5000856",
+  "city_name": "Angélica",
+  "uf": "MS",
+  "population": 10729,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 48598040.48,
+    "total_expense": 47241886.61,
+    "own_revenue_percentage": 19.9,
+    "transfers_revenue_percentage": 80.1,
+    "personnel_expense_percentage_rcl": 49.9
+  },
+  "per_capita_breakdown": {
+    "health": 1134.8,
+    "education": 1254.0,
+    "urbanism": 454.2,
+    "administration": 271.6,
+    "legislative": 86.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3566.6,
+      "health_per_capita": 885.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3830.8,
+      "health_per_capita": 953.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4095.0,
+      "health_per_capita": 1021.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4315.1,
+      "health_per_capita": 1089.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4403.2,
+      "health_per_capita": 1134.8
+    }
+  ]
+}

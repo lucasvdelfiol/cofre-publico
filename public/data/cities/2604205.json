@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2604205",
+  "city_name": "Catende",
+  "uf": "PE",
+  "population": 32156,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 141129220.46,
+    "total_expense": 142027775.47,
+    "own_revenue_percentage": 18.8,
+    "transfers_revenue_percentage": 81.2,
+    "personnel_expense_percentage_rcl": 47.5
+  },
+  "per_capita_breakdown": {
+    "health": 1041.6,
+    "education": 1218.8,
+    "urbanism": 518.1,
+    "administration": 340.8,
+    "legislative": 76.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3577.6,
+      "health_per_capita": 812.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3842.6,
+      "health_per_capita": 874.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4107.6,
+      "health_per_capita": 937.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4328.5,
+      "health_per_capita": 999.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4416.8,
+      "health_per_capita": 1041.6
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2913408",
+  "city_name": "Igaporã",
+  "uf": "BA",
+  "population": 15527,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 86047675.59,
+    "total_expense": 86738565.13,
+    "own_revenue_percentage": 10.1,
+    "transfers_revenue_percentage": 89.9,
+    "personnel_expense_percentage_rcl": 51.4
+  },
+  "per_capita_breakdown": {
+    "health": 1152.4,
+    "education": 1632.6,
+    "urbanism": 735.7,
+    "administration": 362.5,
+    "legislative": 85.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4524.9,
+      "health_per_capita": 898.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4860.1,
+      "health_per_capita": 968.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5195.3,
+      "health_per_capita": 1037.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5474.6,
+      "health_per_capita": 1106.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5586.3,
+      "health_per_capita": 1152.4
+    }
+  ]
+}

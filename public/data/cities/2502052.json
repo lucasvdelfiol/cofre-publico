@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2502052",
+  "city_name": "Bernardino Batista",
+  "uf": "PB",
+  "population": 3504,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 17516150.09,
+    "total_expense": 17624444.33,
+    "own_revenue_percentage": 16.1,
+    "transfers_revenue_percentage": 83.9,
+    "personnel_expense_percentage_rcl": 53.3
+  },
+  "per_capita_breakdown": {
+    "health": 1228.3,
+    "education": 1566.1,
+    "urbanism": 731.1,
+    "administration": 422.8,
+    "legislative": 159.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4074.1,
+      "health_per_capita": 958.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4375.9,
+      "health_per_capita": 1031.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4677.7,
+      "health_per_capita": 1105.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4929.2,
+      "health_per_capita": 1179.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5029.8,
+      "health_per_capita": 1228.3
+    }
+  ]
+}

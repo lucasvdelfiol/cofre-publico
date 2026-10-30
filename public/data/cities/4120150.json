@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4120150",
+  "city_name": "Porto Barreiro",
+  "uf": "PR",
+  "population": 3110,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 15429718.07,
+    "total_expense": 14849830.35,
+    "own_revenue_percentage": 14.9,
+    "transfers_revenue_percentage": 85.1,
+    "personnel_expense_percentage_rcl": 52.5
+  },
+  "per_capita_breakdown": {
+    "health": 1162.0,
+    "education": 1343.9,
+    "urbanism": 594.4,
+    "administration": 453.0,
+    "legislative": 108.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3867.7,
+      "health_per_capita": 906.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4154.2,
+      "health_per_capita": 976.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4440.7,
+      "health_per_capita": 1045.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4679.4,
+      "health_per_capita": 1115.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4774.9,
+      "health_per_capita": 1162.0
+    }
+  ]
+}

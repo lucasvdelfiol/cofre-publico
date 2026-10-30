@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3130309",
+  "city_name": "Iguatama",
+  "uf": "MG",
+  "population": 6826,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 32653018.39,
+    "total_expense": 32775352.79,
+    "own_revenue_percentage": 14.1,
+    "transfers_revenue_percentage": 85.9,
+    "personnel_expense_percentage_rcl": 47.7
+  },
+  "per_capita_breakdown": {
+    "health": 1265.4,
+    "education": 1482.6,
+    "urbanism": 527.6,
+    "administration": 463.1,
+    "legislative": 76.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3889.2,
+      "health_per_capita": 987.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4177.3,
+      "health_per_capita": 1062.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4465.4,
+      "health_per_capita": 1138.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4705.5,
+      "health_per_capita": 1214.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4801.5,
+      "health_per_capita": 1265.4
+    }
+  ]
+}

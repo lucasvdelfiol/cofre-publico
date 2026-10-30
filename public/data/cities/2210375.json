@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2210375",
+  "city_name": "São Luis do Piauí",
+  "uf": "PI",
+  "population": 2309,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 10929345.42,
+    "total_expense": 10516735.58,
+    "own_revenue_percentage": 14.2,
+    "transfers_revenue_percentage": 85.8,
+    "personnel_expense_percentage_rcl": 52.5
+  },
+  "per_capita_breakdown": {
+    "health": 1142.8,
+    "education": 1114.1,
+    "urbanism": 505.4,
+    "administration": 526.6,
+    "legislative": 71.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3689.3,
+      "health_per_capita": 891.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3962.6,
+      "health_per_capita": 960.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4235.9,
+      "health_per_capita": 1028.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4463.6,
+      "health_per_capita": 1097.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4554.7,
+      "health_per_capita": 1142.8
+    }
+  ]
+}

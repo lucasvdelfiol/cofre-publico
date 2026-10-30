@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3512407",
+  "city_name": "Cordeirópolis",
+  "uf": "SP",
+  "population": 24514,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 123013418.3,
+    "total_expense": 118533111.03,
+    "own_revenue_percentage": 20.0,
+    "transfers_revenue_percentage": 80.0,
+    "personnel_expense_percentage_rcl": 52.6
+  },
+  "per_capita_breakdown": {
+    "health": 1267.6,
+    "education": 1379.4,
+    "urbanism": 530.3,
+    "administration": 486.5,
+    "legislative": 87.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3916.6,
+      "health_per_capita": 988.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4206.7,
+      "health_per_capita": 1064.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4496.8,
+      "health_per_capita": 1140.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4738.6,
+      "health_per_capita": 1216.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4835.3,
+      "health_per_capita": 1267.6
+    }
+  ]
+}

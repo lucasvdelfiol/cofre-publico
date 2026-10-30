@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5106778",
+  "city_name": "Porto Alegre do Norte",
+  "uf": "MT",
+  "population": 12127,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 53875735.67,
+    "total_expense": 53065527.47,
+    "own_revenue_percentage": 9.2,
+    "transfers_revenue_percentage": 90.8,
+    "personnel_expense_percentage_rcl": 48.6
+  },
+  "per_capita_breakdown": {
+    "health": 1184.8,
+    "education": 1192.5,
+    "urbanism": 361.4,
+    "administration": 328.6,
+    "legislative": 99.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3544.4,
+      "health_per_capita": 924.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3806.9,
+      "health_per_capita": 995.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4069.5,
+      "health_per_capita": 1066.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4288.3,
+      "health_per_capita": 1137.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4375.8,
+      "health_per_capita": 1184.8
+    }
+  ]
+}

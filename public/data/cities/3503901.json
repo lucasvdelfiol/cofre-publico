@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3503901",
+  "city_name": "Arujá",
+  "uf": "SP",
+  "population": 86678,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 431247356.36,
+    "total_expense": 418360855.29,
+    "own_revenue_percentage": 29.9,
+    "transfers_revenue_percentage": 70.1,
+    "personnel_expense_percentage_rcl": 51.0
+  },
+  "per_capita_breakdown": {
+    "health": 1215.8,
+    "education": 1254.7,
+    "urbanism": 741.9,
+    "administration": 525.6,
+    "legislative": 153.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3909.5,
+      "health_per_capita": 948.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4199.1,
+      "health_per_capita": 1021.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4488.7,
+      "health_per_capita": 1094.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4730.1,
+      "health_per_capita": 1167.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4826.6,
+      "health_per_capita": 1215.8
+    }
+  ]
+}

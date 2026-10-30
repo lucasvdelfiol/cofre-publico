@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5206305",
+  "city_name": "Cristianópolis",
+  "uf": "GO",
+  "population": 3504,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 16177249.15,
+    "total_expense": 15828903.63,
+    "own_revenue_percentage": 16.2,
+    "transfers_revenue_percentage": 83.8,
+    "personnel_expense_percentage_rcl": 48.8
+  },
+  "per_capita_breakdown": {
+    "health": 1216.5,
+    "education": 1137.8,
+    "urbanism": 472.5,
+    "administration": 299.1,
+    "legislative": 149.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3659.1,
+      "health_per_capita": 948.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3930.1,
+      "health_per_capita": 1021.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4201.2,
+      "health_per_capita": 1094.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4427.1,
+      "health_per_capita": 1167.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4517.4,
+      "health_per_capita": 1216.5
+    }
+  ]
+}

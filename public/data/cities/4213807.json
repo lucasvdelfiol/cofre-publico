@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4213807",
+  "city_name": "Praia Grande",
+  "uf": "SC",
+  "population": 8270,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 43107654.0,
+    "total_expense": 43343058.14,
+    "own_revenue_percentage": 19.2,
+    "transfers_revenue_percentage": 80.8,
+    "personnel_expense_percentage_rcl": 50.7
+  },
+  "per_capita_breakdown": {
+    "health": 1396.5,
+    "education": 1589.5,
+    "urbanism": 821.4,
+    "administration": 384.9,
+    "legislative": 148.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4245.2,
+      "health_per_capita": 1089.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4559.7,
+      "health_per_capita": 1173.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4874.1,
+      "health_per_capita": 1256.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5136.2,
+      "health_per_capita": 1340.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5241.0,
+      "health_per_capita": 1396.5
+    }
+  ]
+}

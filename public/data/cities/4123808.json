@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4123808",
+  "city_name": "Santa Izabel do Oeste",
+  "uf": "PR",
+  "population": 14070,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 69237686.96,
+    "total_expense": 69704624.5,
+    "own_revenue_percentage": 19.2,
+    "transfers_revenue_percentage": 80.8,
+    "personnel_expense_percentage_rcl": 52.6
+  },
+  "per_capita_breakdown": {
+    "health": 1368.6,
+    "education": 1296.3,
+    "urbanism": 632.3,
+    "administration": 373.9,
+    "legislative": 125.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4012.8,
+      "health_per_capita": 1067.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4310.1,
+      "health_per_capita": 1149.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4607.3,
+      "health_per_capita": 1231.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4855.0,
+      "health_per_capita": 1313.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4954.1,
+      "health_per_capita": 1368.6
+    }
+  ]
+}

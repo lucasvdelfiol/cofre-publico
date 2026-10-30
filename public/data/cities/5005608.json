@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5005608",
+  "city_name": "Miranda",
+  "uf": "MS",
+  "population": 25536,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 114555548.1,
+    "total_expense": 113824123.63,
+    "own_revenue_percentage": 26.1,
+    "transfers_revenue_percentage": 73.9,
+    "personnel_expense_percentage_rcl": 47.0
+  },
+  "per_capita_breakdown": {
+    "health": 1095.2,
+    "education": 1174.5,
+    "urbanism": 364.6,
+    "administration": 426.3,
+    "legislative": 145.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3610.5,
+      "health_per_capita": 854.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3877.9,
+      "health_per_capita": 920.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4145.4,
+      "health_per_capita": 985.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4368.3,
+      "health_per_capita": 1051.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4457.4,
+      "health_per_capita": 1095.2
+    }
+  ]
+}

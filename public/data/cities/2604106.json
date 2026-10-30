@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2604106",
+  "city_name": "Caruaru",
+  "uf": "PE",
+  "population": 378048,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 1933160163.61,
+    "total_expense": 1928105846.49,
+    "own_revenue_percentage": 47.1,
+    "transfers_revenue_percentage": 52.9,
+    "personnel_expense_percentage_rcl": 50.2
+  },
+  "per_capita_breakdown": {
+    "health": 1072.5,
+    "education": 1624.4,
+    "urbanism": 574.5,
+    "administration": 481.3,
+    "legislative": 94.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4131.2,
+      "health_per_capita": 836.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4437.2,
+      "health_per_capita": 900.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4743.2,
+      "health_per_capita": 965.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4998.2,
+      "health_per_capita": 1029.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5100.2,
+      "health_per_capita": 1072.5
+    }
+  ]
+}

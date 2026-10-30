@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4201109",
+  "city_name": "Anitápolis",
+  "uf": "SC",
+  "population": 3593,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 17261359.39,
+    "total_expense": 16785199.92,
+    "own_revenue_percentage": 16.1,
+    "transfers_revenue_percentage": 83.9,
+    "personnel_expense_percentage_rcl": 45.6
+  },
+  "per_capita_breakdown": {
+    "health": 975.4,
+    "education": 1341.3,
+    "urbanism": 571.3,
+    "administration": 343.7,
+    "legislative": 159.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3784.0,
+      "health_per_capita": 760.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4064.3,
+      "health_per_capita": 819.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4344.6,
+      "health_per_capita": 877.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4578.2,
+      "health_per_capita": 936.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4671.6,
+      "health_per_capita": 975.4
+    }
+  ]
+}

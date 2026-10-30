@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4312203",
+  "city_name": "Maximiliano de Almeida",
+  "uf": "RS",
+  "population": 4191,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 18540061.3,
+    "total_expense": 18247648.34,
+    "own_revenue_percentage": 20.7,
+    "transfers_revenue_percentage": 79.3,
+    "personnel_expense_percentage_rcl": 47.7
+  },
+  "per_capita_breakdown": {
+    "health": 889.7,
+    "education": 1143.0,
+    "urbanism": 361.4,
+    "administration": 365.4,
+    "legislative": 78.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3526.7,
+      "health_per_capita": 694.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3788.0,
+      "health_per_capita": 747.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4049.2,
+      "health_per_capita": 800.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4266.9,
+      "health_per_capita": 854.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4354.0,
+      "health_per_capita": 889.7
+    }
+  ]
+}

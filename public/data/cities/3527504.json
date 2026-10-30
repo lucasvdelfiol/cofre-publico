@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3527504",
+  "city_name": "Lucianópolis",
+  "uf": "SP",
+  "population": 2372,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 11605493.19,
+    "total_expense": 11185421.51,
+    "own_revenue_percentage": 12.4,
+    "transfers_revenue_percentage": 87.6,
+    "personnel_expense_percentage_rcl": 47.6
+  },
+  "per_capita_breakdown": {
+    "health": 1006.9,
+    "education": 1246.5,
+    "urbanism": 679.0,
+    "administration": 319.7,
+    "legislative": 110.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3819.6,
+      "health_per_capita": 785.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4102.6,
+      "health_per_capita": 845.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4385.5,
+      "health_per_capita": 906.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4621.3,
+      "health_per_capita": 966.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4715.6,
+      "health_per_capita": 1006.9
+    }
+  ]
+}

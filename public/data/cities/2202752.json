@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2202752",
+  "city_name": "Colônia do Gurguéia",
+  "uf": "PI",
+  "population": 6150,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 34014907.17,
+    "total_expense": 32797585.37,
+    "own_revenue_percentage": 18.9,
+    "transfers_revenue_percentage": 81.1,
+    "personnel_expense_percentage_rcl": 52.2
+  },
+  "per_capita_breakdown": {
+    "health": 1292.7,
+    "education": 1678.9,
+    "urbanism": 676.6,
+    "administration": 512.5,
+    "legislative": 139.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4319.6,
+      "health_per_capita": 1008.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4639.6,
+      "health_per_capita": 1085.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4959.6,
+      "health_per_capita": 1163.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5226.2,
+      "health_per_capita": 1241.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5332.9,
+      "health_per_capita": 1292.7
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2910727",
+  "city_name": "Eunápolis",
+  "uf": "BA",
+  "population": 113710,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 559799775.91,
+    "total_expense": 553464104.15,
+    "own_revenue_percentage": 50.0,
+    "transfers_revenue_percentage": 50.0,
+    "personnel_expense_percentage_rcl": 47.2
+  },
+  "per_capita_breakdown": {
+    "health": 1135.8,
+    "education": 1284.5,
+    "urbanism": 418.5,
+    "administration": 481.2,
+    "legislative": 73.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3942.5,
+      "health_per_capita": 885.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4234.6,
+      "health_per_capita": 954.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4526.6,
+      "health_per_capita": 1022.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4770.0,
+      "health_per_capita": 1090.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4867.3,
+      "health_per_capita": 1135.8
+    }
+  ]
+}

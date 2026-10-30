@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2612000",
+  "city_name": "Sairé",
+  "uf": "PE",
+  "population": 10887,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 48887411.39,
+    "total_expense": 48260914.68,
+    "own_revenue_percentage": 16.0,
+    "transfers_revenue_percentage": 84.0,
+    "personnel_expense_percentage_rcl": 46.7
+  },
+  "per_capita_breakdown": {
+    "health": 904.2,
+    "education": 1376.4,
+    "urbanism": 563.8,
+    "administration": 431.6,
+    "legislative": 88.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3590.6,
+      "health_per_capita": 705.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3856.6,
+      "health_per_capita": 759.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4122.6,
+      "health_per_capita": 813.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4344.2,
+      "health_per_capita": 868.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4432.9,
+      "health_per_capita": 904.2
+    }
+  ]
+}

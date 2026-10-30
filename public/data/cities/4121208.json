@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4121208",
+  "city_name": "Quitandinha",
+  "uf": "PR",
+  "population": 18398,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 91973718.18,
+    "total_expense": 91548269.27,
+    "own_revenue_percentage": 20.3,
+    "transfers_revenue_percentage": 79.7,
+    "personnel_expense_percentage_rcl": 47.1
+  },
+  "per_capita_breakdown": {
+    "health": 1246.9,
+    "education": 1207.5,
+    "urbanism": 406.8,
+    "administration": 510.4,
+    "legislative": 96.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4030.6,
+      "health_per_capita": 972.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4329.1,
+      "health_per_capita": 1047.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4627.7,
+      "health_per_capita": 1122.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4876.5,
+      "health_per_capita": 1197.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4976.0,
+      "health_per_capita": 1246.9
+    }
+  ]
+}

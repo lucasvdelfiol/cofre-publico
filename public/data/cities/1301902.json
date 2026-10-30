@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1301902",
+  "city_name": "Itacoatiara",
+  "uf": "AM",
+  "population": 103598,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 554541863.99,
+    "total_expense": 539707444.55,
+    "own_revenue_percentage": 48.5,
+    "transfers_revenue_percentage": 51.5,
+    "personnel_expense_percentage_rcl": 46.4
+  },
+  "per_capita_breakdown": {
+    "health": 1451.0,
+    "education": 1307.9,
+    "urbanism": 595.1,
+    "administration": 552.7,
+    "legislative": 180.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4219.8,
+      "health_per_capita": 1131.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4532.4,
+      "health_per_capita": 1218.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4844.9,
+      "health_per_capita": 1305.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5105.4,
+      "health_per_capita": 1393.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5209.6,
+      "health_per_capita": 1451.0
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5008404",
+  "city_name": "Vicentina",
+  "uf": "MS",
+  "population": 6336,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 29159362.92,
+    "total_expense": 28259982.17,
+    "own_revenue_percentage": 20.5,
+    "transfers_revenue_percentage": 79.5,
+    "personnel_expense_percentage_rcl": 46.7
+  },
+  "per_capita_breakdown": {
+    "health": 1223.1,
+    "education": 1396.4,
+    "urbanism": 463.5,
+    "administration": 515.7,
+    "legislative": 121.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3612.8,
+      "health_per_capita": 954.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3880.4,
+      "health_per_capita": 1027.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4148.0,
+      "health_per_capita": 1100.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4371.0,
+      "health_per_capita": 1174.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4460.2,
+      "health_per_capita": 1223.1
+    }
+  ]
+}

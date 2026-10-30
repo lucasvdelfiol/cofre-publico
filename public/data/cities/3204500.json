@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3204500",
+  "city_name": "Santa Leopoldina",
+  "uf": "ES",
+  "population": 13106,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 57511927.53,
+    "total_expense": 57406945.16,
+    "own_revenue_percentage": 17.4,
+    "transfers_revenue_percentage": 82.6,
+    "personnel_expense_percentage_rcl": 49.8
+  },
+  "per_capita_breakdown": {
+    "health": 1191.7,
+    "education": 1099.6,
+    "urbanism": 574.8,
+    "administration": 473.4,
+    "legislative": 98.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3548.0,
+      "health_per_capita": 929.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3810.8,
+      "health_per_capita": 1001.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4073.6,
+      "health_per_capita": 1072.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4292.6,
+      "health_per_capita": 1144.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4380.2,
+      "health_per_capita": 1191.7
+    }
+  ]
+}

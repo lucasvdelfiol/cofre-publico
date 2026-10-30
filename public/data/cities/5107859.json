@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5107859",
+  "city_name": "São Félix do Araguaia",
+  "uf": "MT",
+  "population": 13621,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 75945162.45,
+    "total_expense": 73667651.31,
+    "own_revenue_percentage": 19.1,
+    "transfers_revenue_percentage": 80.9,
+    "personnel_expense_percentage_rcl": 53.2
+  },
+  "per_capita_breakdown": {
+    "health": 1372.1,
+    "education": 1311.8,
+    "urbanism": 645.3,
+    "administration": 538.0,
+    "legislative": 165.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4380.8,
+      "health_per_capita": 1070.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4705.3,
+      "health_per_capita": 1152.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5029.8,
+      "health_per_capita": 1234.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5300.2,
+      "health_per_capita": 1317.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5408.4,
+      "health_per_capita": 1372.1
+    }
+  ]
+}

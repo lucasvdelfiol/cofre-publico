@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5206602",
+  "city_name": "Cumari",
+  "uf": "GO",
+  "population": 2927,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 16427430.35,
+    "total_expense": 16220135.48,
+    "own_revenue_percentage": 12.4,
+    "transfers_revenue_percentage": 87.6,
+    "personnel_expense_percentage_rcl": 52.2
+  },
+  "per_capita_breakdown": {
+    "health": 1440.3,
+    "education": 1731.5,
+    "urbanism": 556.5,
+    "administration": 441.0,
+    "legislative": 168.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4488.7,
+      "health_per_capita": 1123.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4821.2,
+      "health_per_capita": 1209.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5153.7,
+      "health_per_capita": 1296.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5430.8,
+      "health_per_capita": 1382.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5541.6,
+      "health_per_capita": 1440.3
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3157609",
+  "city_name": "Santa Fé de Minas",
+  "uf": "MG",
+  "population": 3522,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 18421838.61,
+    "total_expense": 18026526.27,
+    "own_revenue_percentage": 12.0,
+    "transfers_revenue_percentage": 88.0,
+    "personnel_expense_percentage_rcl": 51.9
+  },
+  "per_capita_breakdown": {
+    "health": 1222.9,
+    "education": 1477.6,
+    "urbanism": 661.3,
+    "administration": 455.3,
+    "legislative": 134.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4145.8,
+      "health_per_capita": 953.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4452.9,
+      "health_per_capita": 1027.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4760.0,
+      "health_per_capita": 1100.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5015.9,
+      "health_per_capita": 1174.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5118.3,
+      "health_per_capita": 1222.9
+    }
+  ]
+}

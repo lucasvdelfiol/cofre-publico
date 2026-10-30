@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2600906",
+  "city_name": "Amaraji",
+  "uf": "PE",
+  "population": 18205,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 86474642.06,
+    "total_expense": 84945778.59,
+    "own_revenue_percentage": 13.6,
+    "transfers_revenue_percentage": 86.4,
+    "personnel_expense_percentage_rcl": 47.4
+  },
+  "per_capita_breakdown": {
+    "health": 1075.0,
+    "education": 1391.7,
+    "urbanism": 380.4,
+    "administration": 313.7,
+    "legislative": 162.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3779.5,
+      "health_per_capita": 838.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4059.5,
+      "health_per_capita": 903.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4339.5,
+      "health_per_capita": 967.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4572.8,
+      "health_per_capita": 1032.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4666.1,
+      "health_per_capita": 1075.0
+    }
+  ]
+}

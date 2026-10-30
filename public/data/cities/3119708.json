@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3119708",
+  "city_name": "Coronel Xavier Chaves",
+  "uf": "MG",
+  "population": 3486,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 15802044.15,
+    "total_expense": 15289922.63,
+    "own_revenue_percentage": 11.5,
+    "transfers_revenue_percentage": 88.5,
+    "personnel_expense_percentage_rcl": 49.5
+  },
+  "per_capita_breakdown": {
+    "health": 1068.3,
+    "education": 1211.5,
+    "urbanism": 604.5,
+    "administration": 386.7,
+    "legislative": 131.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3552.7,
+      "health_per_capita": 833.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3815.9,
+      "health_per_capita": 897.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4079.1,
+      "health_per_capita": 961.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4298.4,
+      "health_per_capita": 1025.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4386.1,
+      "health_per_capita": 1068.3
+    }
+  ]
+}

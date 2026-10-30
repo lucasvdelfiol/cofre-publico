@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4316451",
+  "city_name": "Salto do Jacuí",
+  "uf": "RS",
+  "population": 10203,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 46020818.96,
+    "total_expense": 45231378.85,
+    "own_revenue_percentage": 20.5,
+    "transfers_revenue_percentage": 79.5,
+    "personnel_expense_percentage_rcl": 51.6
+  },
+  "per_capita_breakdown": {
+    "health": 1074.7,
+    "education": 1390.9,
+    "urbanism": 421.5,
+    "administration": 378.8,
+    "legislative": 131.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3590.8,
+      "health_per_capita": 838.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3856.8,
+      "health_per_capita": 902.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4122.8,
+      "health_per_capita": 967.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4344.4,
+      "health_per_capita": 1031.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4433.1,
+      "health_per_capita": 1074.7
+    }
+  ]
+}

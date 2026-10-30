@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2802403",
+  "city_name": "Gararu",
+  "uf": "SE",
+  "population": 11096,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 62102950.87,
+    "total_expense": 61671823.79,
+    "own_revenue_percentage": 14.8,
+    "transfers_revenue_percentage": 85.2,
+    "personnel_expense_percentage_rcl": 52.1
+  },
+  "per_capita_breakdown": {
+    "health": 1273.4,
+    "education": 1650.5,
+    "urbanism": 463.2,
+    "administration": 388.7,
+    "legislative": 169.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4502.0,
+      "health_per_capita": 993.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4835.5,
+      "health_per_capita": 1069.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5168.9,
+      "health_per_capita": 1146.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5446.8,
+      "health_per_capita": 1222.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5558.0,
+      "health_per_capita": 1273.4
+    }
+  ]
+}

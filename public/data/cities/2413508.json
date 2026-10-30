@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2413508",
+  "city_name": "Serrinha",
+  "uf": "RN",
+  "population": 6436,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 32691598.09,
+    "total_expense": 31897871.45,
+    "own_revenue_percentage": 15.9,
+    "transfers_revenue_percentage": 84.1,
+    "personnel_expense_percentage_rcl": 50.8
+  },
+  "per_capita_breakdown": {
+    "health": 1346.0,
+    "education": 1343.8,
+    "urbanism": 712.2,
+    "administration": 527.7,
+    "legislative": 120.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4014.5,
+      "health_per_capita": 1049.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4311.9,
+      "health_per_capita": 1130.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4609.3,
+      "health_per_capita": 1211.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4857.1,
+      "health_per_capita": 1292.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4956.2,
+      "health_per_capita": 1346.0
+    }
+  ]
+}

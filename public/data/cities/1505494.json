@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1505494",
+  "city_name": "Palestina do Pará",
+  "uf": "PA",
+  "population": 6885,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 35425323.99,
+    "total_expense": 34742955.65,
+    "own_revenue_percentage": 21.0,
+    "transfers_revenue_percentage": 79.0,
+    "personnel_expense_percentage_rcl": 52.9
+  },
+  "per_capita_breakdown": {
+    "health": 1281.6,
+    "education": 1273.3,
+    "urbanism": 787.2,
+    "administration": 491.6,
+    "legislative": 171.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4087.4,
+      "health_per_capita": 999.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4390.2,
+      "health_per_capita": 1076.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4693.0,
+      "health_per_capita": 1153.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4945.3,
+      "health_per_capita": 1230.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5046.2,
+      "health_per_capita": 1281.6
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3120607",
+  "city_name": "Crucilândia",
+  "uf": "MG",
+  "population": 5434,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 25997966.38,
+    "total_expense": 25861102.52,
+    "own_revenue_percentage": 17.3,
+    "transfers_revenue_percentage": 82.7,
+    "personnel_expense_percentage_rcl": 50.3
+  },
+  "per_capita_breakdown": {
+    "health": 1210.1,
+    "education": 1359.7,
+    "urbanism": 403.1,
+    "administration": 345.8,
+    "legislative": 82.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3854.9,
+      "health_per_capita": 943.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4140.4,
+      "health_per_capita": 1016.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4426.0,
+      "health_per_capita": 1089.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4663.9,
+      "health_per_capita": 1161.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4759.1,
+      "health_per_capita": 1210.1
+    }
+  ]
+}

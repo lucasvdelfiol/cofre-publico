@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4319000",
+  "city_name": "São Marcos",
+  "uf": "RS",
+  "population": 21084,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 105144125.89,
+    "total_expense": 101659920.62,
+    "own_revenue_percentage": 23.2,
+    "transfers_revenue_percentage": 76.8,
+    "personnel_expense_percentage_rcl": 46.6
+  },
+  "per_capita_breakdown": {
+    "health": 1244.6,
+    "education": 1328.3,
+    "urbanism": 615.6,
+    "administration": 484.0,
+    "legislative": 135.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3905.6,
+      "health_per_capita": 970.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4194.9,
+      "health_per_capita": 1045.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4484.2,
+      "health_per_capita": 1120.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4725.3,
+      "health_per_capita": 1194.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4821.7,
+      "health_per_capita": 1244.6
+    }
+  ]
+}

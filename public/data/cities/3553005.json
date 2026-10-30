@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3553005",
+  "city_name": "Taguaí",
+  "uf": "SP",
+  "population": 12669,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 61491162.57,
+    "total_expense": 61139928.84,
+    "own_revenue_percentage": 19.2,
+    "transfers_revenue_percentage": 80.8,
+    "personnel_expense_percentage_rcl": 50.4
+  },
+  "per_capita_breakdown": {
+    "health": 980.6,
+    "education": 1379.7,
+    "urbanism": 625.0,
+    "administration": 471.2,
+    "legislative": 92.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3909.0,
+      "health_per_capita": 764.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4198.5,
+      "health_per_capita": 823.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4488.1,
+      "health_per_capita": 882.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4729.4,
+      "health_per_capita": 941.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4825.9,
+      "health_per_capita": 980.6
+    }
+  ]
+}

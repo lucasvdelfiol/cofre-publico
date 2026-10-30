@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2918704",
+  "city_name": "Lafaiete Coutinho",
+  "uf": "BA",
+  "population": 4075,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 17544655.81,
+    "total_expense": 17707254.9,
+    "own_revenue_percentage": 19.8,
+    "transfers_revenue_percentage": 80.2,
+    "personnel_expense_percentage_rcl": 52.4
+  },
+  "per_capita_breakdown": {
+    "health": 978.8,
+    "education": 1277.0,
+    "urbanism": 613.5,
+    "administration": 397.2,
+    "legislative": 74.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3519.7,
+      "health_per_capita": 763.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3780.4,
+      "health_per_capita": 822.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4041.1,
+      "health_per_capita": 880.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4258.4,
+      "health_per_capita": 939.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4345.3,
+      "health_per_capita": 978.8
+    }
+  ]
+}

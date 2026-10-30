@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2616308",
+  "city_name": "Vicência",
+  "uf": "PE",
+  "population": 26359,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 118314656.47,
+    "total_expense": 115232479.11,
+    "own_revenue_percentage": 26.0,
+    "transfers_revenue_percentage": 74.0,
+    "personnel_expense_percentage_rcl": 53.1
+  },
+  "per_capita_breakdown": {
+    "health": 1053.8,
+    "education": 1186.2,
+    "urbanism": 389.3,
+    "administration": 407.9,
+    "legislative": 79.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3541.1,
+      "health_per_capita": 822.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3803.4,
+      "health_per_capita": 885.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4065.7,
+      "health_per_capita": 948.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4284.3,
+      "health_per_capita": 1011.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4371.7,
+      "health_per_capita": 1053.8
+    }
+  ]
+}

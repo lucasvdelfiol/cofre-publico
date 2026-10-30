@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2304251",
+  "city_name": "Cruz",
+  "uf": "CE",
+  "population": 29761,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 149672189.66,
+    "total_expense": 145721909.71,
+    "own_revenue_percentage": 25.9,
+    "transfers_revenue_percentage": 74.1,
+    "personnel_expense_percentage_rcl": 48.2
+  },
+  "per_capita_breakdown": {
+    "health": 1184.5,
+    "education": 1292.8,
+    "urbanism": 448.6,
+    "administration": 537.0,
+    "legislative": 123.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3966.1,
+      "health_per_capita": 923.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4259.9,
+      "health_per_capita": 995.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4553.7,
+      "health_per_capita": 1066.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4798.5,
+      "health_per_capita": 1137.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4896.4,
+      "health_per_capita": 1184.5
+    }
+  ]
+}

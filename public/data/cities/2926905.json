@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2926905",
+  "city_name": "Rio do Pires",
+  "uf": "BA",
+  "population": 10497,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 56779582.53,
+    "total_expense": 56602345.82,
+    "own_revenue_percentage": 8.1,
+    "transfers_revenue_percentage": 91.9,
+    "personnel_expense_percentage_rcl": 46.7
+  },
+  "per_capita_breakdown": {
+    "health": 1345.3,
+    "education": 1536.3,
+    "urbanism": 729.9,
+    "administration": 414.9,
+    "legislative": 167.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4367.7,
+      "health_per_capita": 1049.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4691.2,
+      "health_per_capita": 1130.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5014.7,
+      "health_per_capita": 1210.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5284.4,
+      "health_per_capita": 1291.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5392.2,
+      "health_per_capita": 1345.3
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3159001",
+  "city_name": "Santana do Riacho",
+  "uf": "MG",
+  "population": 5313,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 30161818.11,
+    "total_expense": 29099301.46,
+    "own_revenue_percentage": 19.3,
+    "transfers_revenue_percentage": 80.7,
+    "personnel_expense_percentage_rcl": 50.1
+  },
+  "per_capita_breakdown": {
+    "health": 1306.8,
+    "education": 1670.3,
+    "urbanism": 797.0,
+    "administration": 620.4,
+    "legislative": 105.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4436.4,
+      "health_per_capita": 1019.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4765.0,
+      "health_per_capita": 1097.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5093.6,
+      "health_per_capita": 1176.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5367.5,
+      "health_per_capita": 1254.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5477.0,
+      "health_per_capita": 1306.8
+    }
+  ]
+}

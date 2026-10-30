@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3156700",
+  "city_name": "Sabará",
+  "uf": "MG",
+  "population": 129380,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 617732174.43,
+    "total_expense": 621014099.99,
+    "own_revenue_percentage": 41.6,
+    "transfers_revenue_percentage": 58.4,
+    "personnel_expense_percentage_rcl": 52.3
+  },
+  "per_capita_breakdown": {
+    "health": 1150.9,
+    "education": 1283.7,
+    "urbanism": 666.1,
+    "administration": 290.2,
+    "legislative": 100.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3887.9,
+      "health_per_capita": 897.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4175.9,
+      "health_per_capita": 966.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4463.9,
+      "health_per_capita": 1035.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4703.9,
+      "health_per_capita": 1104.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4799.9,
+      "health_per_capita": 1150.9
+    }
+  ]
+}

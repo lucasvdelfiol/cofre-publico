@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2916807",
+  "city_name": "Itarantim",
+  "uf": "BA",
+  "population": 17052,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 84252428.48,
+    "total_expense": 83562317.77,
+    "own_revenue_percentage": 21.1,
+    "transfers_revenue_percentage": 78.9,
+    "personnel_expense_percentage_rcl": 49.2
+  },
+  "per_capita_breakdown": {
+    "health": 1098.6,
+    "education": 1499.6,
+    "urbanism": 550.0,
+    "administration": 317.5,
+    "legislative": 122.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3969.3,
+      "health_per_capita": 856.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4263.3,
+      "health_per_capita": 922.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4557.4,
+      "health_per_capita": 988.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4802.4,
+      "health_per_capita": 1054.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4900.4,
+      "health_per_capita": 1098.6
+    }
+  ]
+}

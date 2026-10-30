@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1720655",
+  "city_name": "Silvanópolis",
+  "uf": "TO",
+  "population": 5108,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 26870072.35,
+    "total_expense": 25900491.41,
+    "own_revenue_percentage": 9.0,
+    "transfers_revenue_percentage": 91.0,
+    "personnel_expense_percentage_rcl": 45.6
+  },
+  "per_capita_breakdown": {
+    "health": 1391.3,
+    "education": 1427.3,
+    "urbanism": 805.5,
+    "administration": 581.5,
+    "legislative": 127.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4107.2,
+      "health_per_capita": 1085.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4411.4,
+      "health_per_capita": 1168.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4715.7,
+      "health_per_capita": 1252.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4969.2,
+      "health_per_capita": 1335.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5070.6,
+      "health_per_capita": 1391.3
+    }
+  ]
+}

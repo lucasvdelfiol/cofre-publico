@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4203808",
+  "city_name": "Canoinhas",
+  "uf": "SC",
+  "population": 55016,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 269270510.12,
+    "total_expense": 270200443.61,
+    "own_revenue_percentage": 32.0,
+    "transfers_revenue_percentage": 68.0,
+    "personnel_expense_percentage_rcl": 52.2
+  },
+  "per_capita_breakdown": {
+    "health": 1314.5,
+    "education": 1471.4,
+    "urbanism": 545.5,
+    "administration": 413.9,
+    "legislative": 77.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3978.2,
+      "health_per_capita": 1025.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4272.8,
+      "health_per_capita": 1104.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4567.5,
+      "health_per_capita": 1183.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4813.1,
+      "health_per_capita": 1261.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4911.3,
+      "health_per_capita": 1314.5
+    }
+  ]
+}

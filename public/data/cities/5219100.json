@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5219100",
+  "city_name": "Santa Bárbara de Goiás",
+  "uf": "GO",
+  "population": 6149,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 34486840.08,
+    "total_expense": 33268248.33,
+    "own_revenue_percentage": 17.6,
+    "transfers_revenue_percentage": 82.4,
+    "personnel_expense_percentage_rcl": 52.8
+  },
+  "per_capita_breakdown": {
+    "health": 1209.2,
+    "education": 1431.9,
+    "urbanism": 760.3,
+    "administration": 458.8,
+    "legislative": 99.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4382.4,
+      "health_per_capita": 943.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4707.0,
+      "health_per_capita": 1015.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5031.7,
+      "health_per_capita": 1088.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5302.2,
+      "health_per_capita": 1160.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5410.4,
+      "health_per_capita": 1209.2
+    }
+  ]
+}

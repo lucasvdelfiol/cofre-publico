@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2904407",
+  "city_name": "Brejolândia",
+  "uf": "BA",
+  "population": 9108,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 47523344.5,
+    "total_expense": 46570365.58,
+    "own_revenue_percentage": 9.8,
+    "transfers_revenue_percentage": 90.2,
+    "personnel_expense_percentage_rcl": 48.4
+  },
+  "per_capita_breakdown": {
+    "health": 1279.8,
+    "education": 1566.2,
+    "urbanism": 409.8,
+    "administration": 395.3,
+    "legislative": 154.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4141.6,
+      "health_per_capita": 998.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4448.4,
+      "health_per_capita": 1075.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4755.2,
+      "health_per_capita": 1151.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5010.8,
+      "health_per_capita": 1228.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5113.1,
+      "health_per_capita": 1279.8
+    }
+  ]
+}

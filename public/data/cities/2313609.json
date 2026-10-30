@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2313609",
+  "city_name": "Ubajara",
+  "uf": "CE",
+  "population": 32767,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 158481240.02,
+    "total_expense": 156704606.1,
+    "own_revenue_percentage": 30.8,
+    "transfers_revenue_percentage": 69.2,
+    "personnel_expense_percentage_rcl": 49.2
+  },
+  "per_capita_breakdown": {
+    "health": 1077.5,
+    "education": 1438.5,
+    "urbanism": 723.5,
+    "administration": 343.1,
+    "legislative": 103.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3873.7,
+      "health_per_capita": 840.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4160.7,
+      "health_per_capita": 905.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4447.6,
+      "health_per_capita": 969.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4686.8,
+      "health_per_capita": 1034.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4782.4,
+      "health_per_capita": 1077.5
+    }
+  ]
+}

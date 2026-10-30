@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1501501",
+  "city_name": "Benevides",
+  "uf": "PA",
+  "population": 63567,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 276503732.26,
+    "total_expense": 276025214.26,
+    "own_revenue_percentage": 33.4,
+    "transfers_revenue_percentage": 66.6,
+    "personnel_expense_percentage_rcl": 46.1
+  },
+  "per_capita_breakdown": {
+    "health": 908.6,
+    "education": 1190.0,
+    "urbanism": 681.5,
+    "administration": 344.1,
+    "legislative": 106.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3517.3,
+      "health_per_capita": 708.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3777.8,
+      "health_per_capita": 763.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4038.3,
+      "health_per_capita": 817.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4255.5,
+      "health_per_capita": 872.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4342.3,
+      "health_per_capita": 908.6
+    }
+  ]
+}

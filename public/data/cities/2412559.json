@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2412559",
+  "city_name": "São Miguel do Gostoso",
+  "uf": "RN",
+  "population": 10221,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 57903452.15,
+    "total_expense": 56069259.17,
+    "own_revenue_percentage": 18.3,
+    "transfers_revenue_percentage": 81.7,
+    "personnel_expense_percentage_rcl": 46.3
+  },
+  "per_capita_breakdown": {
+    "health": 1172.3,
+    "education": 1392.5,
+    "urbanism": 474.5,
+    "administration": 455.2,
+    "legislative": 102.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4443.4,
+      "health_per_capita": 914.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4772.6,
+      "health_per_capita": 984.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5101.7,
+      "health_per_capita": 1055.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5376.0,
+      "health_per_capita": 1125.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5485.7,
+      "health_per_capita": 1172.3
+    }
+  ]
+}

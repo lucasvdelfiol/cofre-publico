@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3129004",
+  "city_name": "Guiricema",
+  "uf": "MG",
+  "population": 7778,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 40978914.16,
+    "total_expense": 40835307.6,
+    "own_revenue_percentage": 19.1,
+    "transfers_revenue_percentage": 80.9,
+    "personnel_expense_percentage_rcl": 50.3
+  },
+  "per_capita_breakdown": {
+    "health": 1420.9,
+    "education": 1507.8,
+    "urbanism": 795.4,
+    "administration": 423.6,
+    "legislative": 94.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4252.6,
+      "health_per_capita": 1108.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4567.6,
+      "health_per_capita": 1193.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4882.6,
+      "health_per_capita": 1278.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5145.1,
+      "health_per_capita": 1364.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5250.1,
+      "health_per_capita": 1420.9
+    }
+  ]
+}

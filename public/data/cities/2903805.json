@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2903805",
+  "city_name": "Boa Vista do Tupim",
+  "uf": "BA",
+  "population": 16873,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 79908387.71,
+    "total_expense": 79358505.98,
+    "own_revenue_percentage": 10.2,
+    "transfers_revenue_percentage": 89.8,
+    "personnel_expense_percentage_rcl": 49.6
+  },
+  "per_capita_breakdown": {
+    "health": 1153.5,
+    "education": 1404.0,
+    "urbanism": 690.4,
+    "administration": 458.2,
+    "legislative": 86.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3809.7,
+      "health_per_capita": 899.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4091.9,
+      "health_per_capita": 968.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4374.1,
+      "health_per_capita": 1038.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4609.2,
+      "health_per_capita": 1107.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4703.3,
+      "health_per_capita": 1153.5
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2707305",
+  "city_name": "Porto Calvo",
+  "uf": "AL",
+  "population": 24071,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 116863907.04,
+    "total_expense": 115316172.31,
+    "own_revenue_percentage": 19.4,
+    "transfers_revenue_percentage": 80.6,
+    "personnel_expense_percentage_rcl": 47.6
+  },
+  "per_capita_breakdown": {
+    "health": 1318.6,
+    "education": 1427.7,
+    "urbanism": 628.1,
+    "administration": 329.0,
+    "legislative": 154.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3880.5,
+      "health_per_capita": 1028.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4167.9,
+      "health_per_capita": 1107.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4455.4,
+      "health_per_capita": 1186.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4694.9,
+      "health_per_capita": 1265.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4790.7,
+      "health_per_capita": 1318.6
+    }
+  ]
+}

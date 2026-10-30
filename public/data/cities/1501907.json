@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1501907",
+  "city_name": "Bujaru",
+  "uf": "PA",
+  "population": 24383,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 109165232.94,
+    "total_expense": 107625062.28,
+    "own_revenue_percentage": 24.5,
+    "transfers_revenue_percentage": 75.5,
+    "personnel_expense_percentage_rcl": 47.9
+  },
+  "per_capita_breakdown": {
+    "health": 1117.2,
+    "education": 1176.2,
+    "urbanism": 486.5,
+    "administration": 420.1,
+    "legislative": 98.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3575.3,
+      "health_per_capita": 871.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3840.1,
+      "health_per_capita": 938.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4104.9,
+      "health_per_capita": 1005.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4325.6,
+      "health_per_capita": 1072.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4413.9,
+      "health_per_capita": 1117.2
+    }
+  ]
+}

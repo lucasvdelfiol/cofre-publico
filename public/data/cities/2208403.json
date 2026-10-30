@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2208403",
+  "city_name": "Piripiri",
+  "uf": "PI",
+  "population": 65538,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 290365533.48,
+    "total_expense": 288233261.8,
+    "own_revenue_percentage": 29.9,
+    "transfers_revenue_percentage": 70.1,
+    "personnel_expense_percentage_rcl": 47.5
+  },
+  "per_capita_breakdown": {
+    "health": 1086.3,
+    "education": 1104.1,
+    "urbanism": 553.7,
+    "administration": 454.2,
+    "legislative": 132.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3562.4,
+      "health_per_capita": 847.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3826.3,
+      "health_per_capita": 912.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4090.1,
+      "health_per_capita": 977.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4310.0,
+      "health_per_capita": 1042.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4398.0,
+      "health_per_capita": 1086.3
+    }
+  ]
+}

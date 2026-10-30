@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4204707",
+  "city_name": "Cunha Porã",
+  "uf": "SC",
+  "population": 10953,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 52836992.7,
+    "total_expense": 51936525.44,
+    "own_revenue_percentage": 17.6,
+    "transfers_revenue_percentage": 82.4,
+    "personnel_expense_percentage_rcl": 48.7
+  },
+  "per_capita_breakdown": {
+    "health": 988.7,
+    "education": 1401.6,
+    "urbanism": 492.9,
+    "administration": 488.8,
+    "legislative": 130.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3840.9,
+      "health_per_capita": 771.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4125.4,
+      "health_per_capita": 830.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4409.9,
+      "health_per_capita": 889.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4647.0,
+      "health_per_capita": 949.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4741.8,
+      "health_per_capita": 988.7
+    }
+  ]
+}

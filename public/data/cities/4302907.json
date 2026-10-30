@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4302907",
+  "city_name": "Cacequi",
+  "uf": "RS",
+  "population": 11157,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 64916834.39,
+    "total_expense": 62445908.24,
+    "own_revenue_percentage": 8.9,
+    "transfers_revenue_percentage": 91.1,
+    "personnel_expense_percentage_rcl": 52.1
+  },
+  "per_capita_breakdown": {
+    "health": 1557.3,
+    "education": 1384.8,
+    "urbanism": 847.9,
+    "administration": 477.2,
+    "legislative": 117.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4533.6,
+      "health_per_capita": 1214.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4869.4,
+      "health_per_capita": 1308.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5205.2,
+      "health_per_capita": 1401.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5485.1,
+      "health_per_capita": 1495.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5597.0,
+      "health_per_capita": 1557.3
+    }
+  ]
+}

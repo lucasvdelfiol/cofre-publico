@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1505031",
+  "city_name": "Novo Progresso",
+  "uf": "PA",
+  "population": 33638,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 167770277.15,
+    "total_expense": 161486854.75,
+    "own_revenue_percentage": 25.2,
+    "transfers_revenue_percentage": 74.8,
+    "personnel_expense_percentage_rcl": 53.3
+  },
+  "per_capita_breakdown": {
+    "health": 1199.5,
+    "education": 1378.7,
+    "urbanism": 542.1,
+    "administration": 314.9,
+    "legislative": 135.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3888.6,
+      "health_per_capita": 935.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4176.6,
+      "health_per_capita": 1007.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4464.7,
+      "health_per_capita": 1079.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4704.7,
+      "health_per_capita": 1151.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4800.7,
+      "health_per_capita": 1199.5
+    }
+  ]
+}

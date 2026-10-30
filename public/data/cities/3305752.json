@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3305752",
+  "city_name": "Tanguá",
+  "uf": "RJ",
+  "population": 31086,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 143070874.21,
+    "total_expense": 140446077.74,
+    "own_revenue_percentage": 26.0,
+    "transfers_revenue_percentage": 74.0,
+    "personnel_expense_percentage_rcl": 51.3
+  },
+  "per_capita_breakdown": {
+    "health": 1217.2,
+    "education": 1339.3,
+    "urbanism": 597.6,
+    "administration": 436.7,
+    "legislative": 147.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3659.6,
+      "health_per_capita": 949.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3930.7,
+      "health_per_capita": 1022.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4201.7,
+      "health_per_capita": 1095.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4427.6,
+      "health_per_capita": 1168.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4518.0,
+      "health_per_capita": 1217.2
+    }
+  ]
+}

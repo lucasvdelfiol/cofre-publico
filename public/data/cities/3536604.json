@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3536604",
+  "city_name": "Paulo de Faria",
+  "uf": "SP",
+  "population": 7400,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 40208112.58,
+    "total_expense": 39005921.3,
+    "own_revenue_percentage": 9.9,
+    "transfers_revenue_percentage": 90.1,
+    "personnel_expense_percentage_rcl": 45.7
+  },
+  "per_capita_breakdown": {
+    "health": 1173.6,
+    "education": 1445.4,
+    "urbanism": 582.8,
+    "administration": 505.8,
+    "legislative": 168.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4269.6,
+      "health_per_capita": 915.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4585.9,
+      "health_per_capita": 985.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4902.1,
+      "health_per_capita": 1056.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5165.7,
+      "health_per_capita": 1126.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5271.1,
+      "health_per_capita": 1173.6
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2917003",
+  "city_name": "Itiúba",
+  "uf": "BA",
+  "population": 33872,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 155314687.84,
+    "total_expense": 151130800.14,
+    "own_revenue_percentage": 25.6,
+    "transfers_revenue_percentage": 74.4,
+    "personnel_expense_percentage_rcl": 51.1
+  },
+  "per_capita_breakdown": {
+    "health": 974.7,
+    "education": 1083.9,
+    "urbanism": 654.1,
+    "administration": 350.5,
+    "legislative": 102.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3614.1,
+      "health_per_capita": 760.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3881.8,
+      "health_per_capita": 818.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4149.5,
+      "health_per_capita": 877.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4372.6,
+      "health_per_capita": 935.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4461.8,
+      "health_per_capita": 974.7
+    }
+  ]
+}

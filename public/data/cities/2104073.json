@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2104073",
+  "city_name": "Feira Nova do Maranhão",
+  "uf": "MA",
+  "population": 8048,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 44153684.97,
+    "total_expense": 43661709.0,
+    "own_revenue_percentage": 16.2,
+    "transfers_revenue_percentage": 83.8,
+    "personnel_expense_percentage_rcl": 53.0
+  },
+  "per_capita_breakdown": {
+    "health": 1298.4,
+    "education": 1563.0,
+    "urbanism": 793.7,
+    "administration": 410.5,
+    "legislative": 136.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4394.4,
+      "health_per_capita": 1012.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4719.9,
+      "health_per_capita": 1090.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5045.4,
+      "health_per_capita": 1168.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5316.7,
+      "health_per_capita": 1246.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5425.2,
+      "health_per_capita": 1298.4
+    }
+  ]
+}

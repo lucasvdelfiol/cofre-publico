@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2202711",
+  "city_name": "Cocal de Telha",
+  "uf": "PI",
+  "population": 4911,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 23019779.06,
+    "total_expense": 22299614.01,
+    "own_revenue_percentage": 16.1,
+    "transfers_revenue_percentage": 83.9,
+    "personnel_expense_percentage_rcl": 52.5
+  },
+  "per_capita_breakdown": {
+    "health": 1124.3,
+    "education": 1286.0,
+    "urbanism": 706.5,
+    "administration": 353.6,
+    "legislative": 70.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3678.0,
+      "health_per_capita": 877.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3950.4,
+      "health_per_capita": 944.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4222.9,
+      "health_per_capita": 1011.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4449.9,
+      "health_per_capita": 1079.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4540.7,
+      "health_per_capita": 1124.3
+    }
+  ]
+}

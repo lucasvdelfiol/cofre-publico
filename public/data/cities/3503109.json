@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3503109",
+  "city_name": "Arandu",
+  "uf": "SP",
+  "population": 6885,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 37710745.69,
+    "total_expense": 36613822.35,
+    "own_revenue_percentage": 11.2,
+    "transfers_revenue_percentage": 88.8,
+    "personnel_expense_percentage_rcl": 52.1
+  },
+  "per_capita_breakdown": {
+    "health": 1462.3,
+    "education": 1278.9,
+    "urbanism": 796.5,
+    "administration": 406.3,
+    "legislative": 156.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4307.5,
+      "health_per_capita": 1140.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4626.6,
+      "health_per_capita": 1228.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4945.6,
+      "health_per_capita": 1316.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5211.5,
+      "health_per_capita": 1403.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5317.9,
+      "health_per_capita": 1462.3
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4113304",
+  "city_name": "Laranjeiras do Sul",
+  "uf": "PR",
+  "population": 32227,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 163273941.4,
+    "total_expense": 157094847.55,
+    "own_revenue_percentage": 27.9,
+    "transfers_revenue_percentage": 72.1,
+    "personnel_expense_percentage_rcl": 49.3
+  },
+  "per_capita_breakdown": {
+    "health": 1306.4,
+    "education": 1550.1,
+    "urbanism": 418.6,
+    "administration": 327.3,
+    "legislative": 163.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3948.4,
+      "health_per_capita": 1019.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4240.9,
+      "health_per_capita": 1097.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4533.4,
+      "health_per_capita": 1175.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4777.1,
+      "health_per_capita": 1254.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4874.6,
+      "health_per_capita": 1306.4
+    }
+  ]
+}

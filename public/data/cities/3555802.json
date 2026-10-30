@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3555802",
+  "city_name": "Urânia",
+  "uf": "SP",
+  "population": 8833,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 46452370.83,
+    "total_expense": 45783573.26,
+    "own_revenue_percentage": 13.4,
+    "transfers_revenue_percentage": 86.6,
+    "personnel_expense_percentage_rcl": 53.5
+  },
+  "per_capita_breakdown": {
+    "health": 1410.1,
+    "education": 1641.2,
+    "urbanism": 731.7,
+    "administration": 495.9,
+    "legislative": 96.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4198.4,
+      "health_per_capita": 1099.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4509.4,
+      "health_per_capita": 1184.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4820.4,
+      "health_per_capita": 1269.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5079.5,
+      "health_per_capita": 1353.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5183.2,
+      "health_per_capita": 1410.1
+    }
+  ]
+}

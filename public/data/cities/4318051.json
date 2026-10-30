@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4318051",
+  "city_name": "São Domingos do Sul",
+  "uf": "RS",
+  "population": 2754,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 12158296.48,
+    "total_expense": 12066538.45,
+    "own_revenue_percentage": 17.7,
+    "transfers_revenue_percentage": 82.3,
+    "personnel_expense_percentage_rcl": 46.4
+  },
+  "per_capita_breakdown": {
+    "health": 958.8,
+    "education": 1082.7,
+    "urbanism": 500.2,
+    "administration": 498.4,
+    "legislative": 79.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3549.0,
+      "health_per_capita": 747.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3811.9,
+      "health_per_capita": 805.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4074.8,
+      "health_per_capita": 862.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4293.9,
+      "health_per_capita": 920.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4381.5,
+      "health_per_capita": 958.8
+    }
+  ]
+}

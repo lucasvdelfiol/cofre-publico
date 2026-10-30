@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4322905",
+  "city_name": "Viadutos",
+  "uf": "RS",
+  "population": 4769,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 22947640.06,
+    "total_expense": 22618291.01,
+    "own_revenue_percentage": 13.3,
+    "transfers_revenue_percentage": 86.7,
+    "personnel_expense_percentage_rcl": 50.9
+  },
+  "per_capita_breakdown": {
+    "health": 1119.1,
+    "education": 1286.8,
+    "urbanism": 586.1,
+    "administration": 399.7,
+    "legislative": 122.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3841.7,
+      "health_per_capita": 872.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4126.2,
+      "health_per_capita": 940.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4410.8,
+      "health_per_capita": 1007.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4647.9,
+      "health_per_capita": 1074.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4742.8,
+      "health_per_capita": 1119.1
+    }
+  ]
+}

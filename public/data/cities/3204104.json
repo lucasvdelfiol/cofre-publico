@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3204104",
+  "city_name": "Pinheiros",
+  "uf": "ES",
+  "population": 23915,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 109139405.8,
+    "total_expense": 107630593.69,
+    "own_revenue_percentage": 24.8,
+    "transfers_revenue_percentage": 75.2,
+    "personnel_expense_percentage_rcl": 50.3
+  },
+  "per_capita_breakdown": {
+    "health": 1246.2,
+    "education": 1253.0,
+    "urbanism": 608.1,
+    "administration": 391.0,
+    "legislative": 123.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3645.4,
+      "health_per_capita": 972.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3915.4,
+      "health_per_capita": 1046.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4185.5,
+      "health_per_capita": 1121.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4410.5,
+      "health_per_capita": 1196.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4500.5,
+      "health_per_capita": 1246.2
+    }
+  ]
+}

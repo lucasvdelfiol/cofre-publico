@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3204955",
+  "city_name": "São Roque do Canaã",
+  "uf": "ES",
+  "population": 10886,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 58387607.85,
+    "total_expense": 58142675.98,
+    "own_revenue_percentage": 9.4,
+    "transfers_revenue_percentage": 90.6,
+    "personnel_expense_percentage_rcl": 53.7
+  },
+  "per_capita_breakdown": {
+    "health": 1387.3,
+    "education": 1283.5,
+    "urbanism": 832.1,
+    "administration": 373.2,
+    "legislative": 172.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4326.3,
+      "health_per_capita": 1082.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4646.8,
+      "health_per_capita": 1165.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4967.2,
+      "health_per_capita": 1248.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5234.3,
+      "health_per_capita": 1331.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5341.1,
+      "health_per_capita": 1387.3
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2403400",
+  "city_name": "Equador",
+  "uf": "RN",
+  "population": 5360,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 24575643.59,
+    "total_expense": 24648843.82,
+    "own_revenue_percentage": 13.6,
+    "transfers_revenue_percentage": 86.4,
+    "personnel_expense_percentage_rcl": 49.6
+  },
+  "per_capita_breakdown": {
+    "health": 1102.9,
+    "education": 1163.5,
+    "urbanism": 601.0,
+    "administration": 343.8,
+    "legislative": 141.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3724.9,
+      "health_per_capita": 860.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4000.9,
+      "health_per_capita": 926.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4276.8,
+      "health_per_capita": 992.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4506.7,
+      "health_per_capita": 1058.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4598.7,
+      "health_per_capita": 1102.9
+    }
+  ]
+}

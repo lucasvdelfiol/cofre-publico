@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3125200",
+  "city_name": "Fama",
+  "uf": "MG",
+  "population": 2578,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 13325995.24,
+    "total_expense": 13247392.87,
+    "own_revenue_percentage": 21.5,
+    "transfers_revenue_percentage": 78.5,
+    "personnel_expense_percentage_rcl": 51.4
+  },
+  "per_capita_breakdown": {
+    "health": 1407.8,
+    "education": 1307.7,
+    "urbanism": 641.8,
+    "administration": 613.2,
+    "legislative": 168.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4162.3,
+      "health_per_capita": 1098.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4470.6,
+      "health_per_capita": 1182.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4778.9,
+      "health_per_capita": 1267.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5035.8,
+      "health_per_capita": 1351.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5138.6,
+      "health_per_capita": 1407.8
+    }
+  ]
+}

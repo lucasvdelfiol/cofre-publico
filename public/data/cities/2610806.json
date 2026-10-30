@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2610806",
+  "city_name": "Pedra",
+  "uf": "PE",
+  "population": 22795,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 106135701.65,
+    "total_expense": 105192319.97,
+    "own_revenue_percentage": 30.2,
+    "transfers_revenue_percentage": 69.8,
+    "personnel_expense_percentage_rcl": 50.7
+  },
+  "per_capita_breakdown": {
+    "health": 1181.5,
+    "education": 1305.6,
+    "urbanism": 637.7,
+    "administration": 374.9,
+    "legislative": 82.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3737.9,
+      "health_per_capita": 921.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4014.8,
+      "health_per_capita": 992.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4291.7,
+      "health_per_capita": 1063.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4522.4,
+      "health_per_capita": 1134.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4614.7,
+      "health_per_capita": 1181.5
+    }
+  ]
+}

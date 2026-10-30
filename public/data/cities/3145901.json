@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3145901",
+  "city_name": "Ouro Branco",
+  "uf": "MG",
+  "population": 38724,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 174066725.88,
+    "total_expense": 170713939.98,
+    "own_revenue_percentage": 19.4,
+    "transfers_revenue_percentage": 80.6,
+    "personnel_expense_percentage_rcl": 46.2
+  },
+  "per_capita_breakdown": {
+    "health": 1077.2,
+    "education": 1069.1,
+    "urbanism": 593.0,
+    "administration": 473.9,
+    "legislative": 129.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3570.9,
+      "health_per_capita": 840.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3835.4,
+      "health_per_capita": 904.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4099.9,
+      "health_per_capita": 969.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4320.3,
+      "health_per_capita": 1034.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4408.5,
+      "health_per_capita": 1077.2
+    }
+  ]
+}

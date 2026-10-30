@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3540705",
+  "city_name": "Porto Ferreira",
+  "uf": "SP",
+  "population": 52649,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 270224201.66,
+    "total_expense": 263496646.33,
+    "own_revenue_percentage": 34.6,
+    "transfers_revenue_percentage": 65.4,
+    "personnel_expense_percentage_rcl": 52.6
+  },
+  "per_capita_breakdown": {
+    "health": 1378.1,
+    "education": 1578.4,
+    "urbanism": 746.4,
+    "administration": 531.0,
+    "legislative": 142.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4053.9,
+      "health_per_capita": 1074.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4354.2,
+      "health_per_capita": 1157.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4654.5,
+      "health_per_capita": 1240.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4904.7,
+      "health_per_capita": 1323.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5004.8,
+      "health_per_capita": 1378.1
+    }
+  ]
+}

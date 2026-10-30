@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3136504",
+  "city_name": "Jordânia",
+  "uf": "MG",
+  "population": 10304,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 55531577.94,
+    "total_expense": 55820173.8,
+    "own_revenue_percentage": 20.8,
+    "transfers_revenue_percentage": 79.2,
+    "personnel_expense_percentage_rcl": 47.3
+  },
+  "per_capita_breakdown": {
+    "health": 1263.2,
+    "education": 1487.1,
+    "urbanism": 828.3,
+    "administration": 460.6,
+    "legislative": 149.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4388.0,
+      "health_per_capita": 985.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4713.1,
+      "health_per_capita": 1061.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5038.1,
+      "health_per_capita": 1136.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5309.0,
+      "health_per_capita": 1212.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5417.3,
+      "health_per_capita": 1263.2
+    }
+  ]
+}

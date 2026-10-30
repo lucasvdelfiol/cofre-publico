@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2513802",
+  "city_name": "Santa Teresinha",
+  "uf": "PB",
+  "population": 4402,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 19775424.33,
+    "total_expense": 19434968.75,
+    "own_revenue_percentage": 20.8,
+    "transfers_revenue_percentage": 79.2,
+    "personnel_expense_percentage_rcl": 48.8
+  },
+  "per_capita_breakdown": {
+    "health": 957.5,
+    "education": 1199.0,
+    "urbanism": 499.4,
+    "administration": 362.4,
+    "legislative": 126.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3576.2,
+      "health_per_capita": 746.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3841.1,
+      "health_per_capita": 804.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4105.9,
+      "health_per_capita": 861.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4326.7,
+      "health_per_capita": 919.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4415.0,
+      "health_per_capita": 957.5
+    }
+  ]
+}

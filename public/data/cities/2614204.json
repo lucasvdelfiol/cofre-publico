@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2614204",
+  "city_name": "Sirinhaém",
+  "uf": "PE",
+  "population": 37596,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 167190258.87,
+    "total_expense": 160982951.11,
+    "own_revenue_percentage": 24.8,
+    "transfers_revenue_percentage": 75.2,
+    "personnel_expense_percentage_rcl": 49.4
+  },
+  "per_capita_breakdown": {
+    "health": 1126.6,
+    "education": 1202.5,
+    "urbanism": 639.2,
+    "administration": 331.9,
+    "legislative": 125.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3468.3,
+      "health_per_capita": 878.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3725.3,
+      "health_per_capita": 946.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3982.2,
+      "health_per_capita": 1013.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4196.3,
+      "health_per_capita": 1081.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4281.9,
+      "health_per_capita": 1126.6
+    }
+  ]
+}

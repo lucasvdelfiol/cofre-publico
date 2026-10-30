@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4112306",
+  "city_name": "Japira",
+  "uf": "PR",
+  "population": 4972,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 26237207.46,
+    "total_expense": 25916702.94,
+    "own_revenue_percentage": 8.1,
+    "transfers_revenue_percentage": 91.9,
+    "personnel_expense_percentage_rcl": 45.6
+  },
+  "per_capita_breakdown": {
+    "health": 1220.1,
+    "education": 1381.3,
+    "urbanism": 507.0,
+    "administration": 319.3,
+    "legislative": 104.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4222.1,
+      "health_per_capita": 951.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4534.9,
+      "health_per_capita": 1024.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4847.6,
+      "health_per_capita": 1098.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5108.2,
+      "health_per_capita": 1171.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5212.5,
+      "health_per_capita": 1220.1
+    }
+  ]
+}

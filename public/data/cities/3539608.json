@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3539608",
+  "city_name": "Planalto",
+  "uf": "SP",
+  "population": 4389,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 20817183.53,
+    "total_expense": 20318350.13,
+    "own_revenue_percentage": 18.4,
+    "transfers_revenue_percentage": 81.6,
+    "personnel_expense_percentage_rcl": 53.5
+  },
+  "per_capita_breakdown": {
+    "health": 1056.0,
+    "education": 1205.4,
+    "urbanism": 586.8,
+    "administration": 390.5,
+    "legislative": 146.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3749.8,
+      "health_per_capita": 823.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4027.6,
+      "health_per_capita": 887.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4305.3,
+      "health_per_capita": 950.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4536.8,
+      "health_per_capita": 1013.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4629.4,
+      "health_per_capita": 1056.0
+    }
+  ]
+}

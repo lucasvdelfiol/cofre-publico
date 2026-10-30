@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2100832",
+  "city_name": "Apicum-Açu",
+  "uf": "MA",
+  "population": 17519,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 92625617.0,
+    "total_expense": 89577646.54,
+    "own_revenue_percentage": 14.3,
+    "transfers_revenue_percentage": 85.7,
+    "personnel_expense_percentage_rcl": 49.0
+  },
+  "per_capita_breakdown": {
+    "health": 1028.6,
+    "education": 1548.8,
+    "urbanism": 422.7,
+    "administration": 512.5,
+    "legislative": 113.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4141.7,
+      "health_per_capita": 802.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4448.5,
+      "health_per_capita": 864.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4755.3,
+      "health_per_capita": 925.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5010.9,
+      "health_per_capita": 987.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5113.2,
+      "health_per_capita": 1028.6
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3530508",
+  "city_name": "Mococa",
+  "uf": "SP",
+  "population": 67681,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 328388191.15,
+    "total_expense": 325498175.96,
+    "own_revenue_percentage": 36.7,
+    "transfers_revenue_percentage": 63.3,
+    "personnel_expense_percentage_rcl": 45.1
+  },
+  "per_capita_breakdown": {
+    "health": 983.5,
+    "education": 1310.0,
+    "urbanism": 506.5,
+    "administration": 555.9,
+    "legislative": 73.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3895.5,
+      "health_per_capita": 767.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4184.1,
+      "health_per_capita": 826.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4472.6,
+      "health_per_capita": 885.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4713.1,
+      "health_per_capita": 944.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4809.3,
+      "health_per_capita": 983.5
+    }
+  ]
+}

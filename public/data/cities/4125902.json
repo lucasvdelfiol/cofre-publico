@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4125902",
+  "city_name": "São Pedro do Paraná",
+  "uf": "PR",
+  "population": 2661,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 14551861.33,
+    "total_expense": 14159773.15,
+    "own_revenue_percentage": 8.3,
+    "transfers_revenue_percentage": 91.7,
+    "personnel_expense_percentage_rcl": 49.7
+  },
+  "per_capita_breakdown": {
+    "health": 1293.2,
+    "education": 1668.0,
+    "urbanism": 668.1,
+    "administration": 607.0,
+    "legislative": 181.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4310.2,
+      "health_per_capita": 1008.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4629.4,
+      "health_per_capita": 1086.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4948.7,
+      "health_per_capita": 1163.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5214.8,
+      "health_per_capita": 1241.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5321.2,
+      "health_per_capita": 1293.2
+    }
+  ]
+}

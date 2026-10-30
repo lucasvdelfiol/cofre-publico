@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4316501",
+  "city_name": "Salvador do Sul",
+  "uf": "RS",
+  "population": 6879,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 35758072.14,
+    "total_expense": 35944438.68,
+    "own_revenue_percentage": 12.5,
+    "transfers_revenue_percentage": 87.5,
+    "personnel_expense_percentage_rcl": 46.2
+  },
+  "per_capita_breakdown": {
+    "health": 1091.9,
+    "education": 1531.2,
+    "urbanism": 521.4,
+    "administration": 404.6,
+    "legislative": 115.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4232.4,
+      "health_per_capita": 851.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4545.9,
+      "health_per_capita": 917.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4859.4,
+      "health_per_capita": 982.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5120.7,
+      "health_per_capita": 1048.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5225.2,
+      "health_per_capita": 1091.9
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2407500",
+  "city_name": "Maxaranguape",
+  "uf": "RN",
+  "population": 10255,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 52107669.67,
+    "total_expense": 52030522.65,
+    "own_revenue_percentage": 16.5,
+    "transfers_revenue_percentage": 83.5,
+    "personnel_expense_percentage_rcl": 47.8
+  },
+  "per_capita_breakdown": {
+    "health": 1053.9,
+    "education": 1509.7,
+    "urbanism": 421.9,
+    "administration": 558.6,
+    "legislative": 83.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4109.7,
+      "health_per_capita": 822.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4414.1,
+      "health_per_capita": 885.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4718.5,
+      "health_per_capita": 948.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4972.2,
+      "health_per_capita": 1011.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5073.7,
+      "health_per_capita": 1053.9
+    }
+  ]
+}

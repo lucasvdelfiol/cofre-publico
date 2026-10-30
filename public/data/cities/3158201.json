@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3158201",
+  "city_name": "Santa Maria do Suaçuí",
+  "uf": "MG",
+  "population": 12788,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 64992632.16,
+    "total_expense": 64572861.88,
+    "own_revenue_percentage": 14.6,
+    "transfers_revenue_percentage": 85.4,
+    "personnel_expense_percentage_rcl": 53.1
+  },
+  "per_capita_breakdown": {
+    "health": 1047.2,
+    "education": 1615.4,
+    "urbanism": 769.1,
+    "administration": 484.0,
+    "legislative": 121.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4090.1,
+      "health_per_capita": 816.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4393.1,
+      "health_per_capita": 879.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4696.0,
+      "health_per_capita": 942.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4948.5,
+      "health_per_capita": 1005.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5049.5,
+      "health_per_capita": 1047.2
+    }
+  ]
+}

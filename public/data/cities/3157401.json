@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3157401",
+  "city_name": "Santa Cruz do Escalvado",
+  "uf": "MG",
+  "population": 4673,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 21232130.07,
+    "total_expense": 21420310.95,
+    "own_revenue_percentage": 18.5,
+    "transfers_revenue_percentage": 81.5,
+    "personnel_expense_percentage_rcl": 50.0
+  },
+  "per_capita_breakdown": {
+    "health": 1052.8,
+    "education": 1170.7,
+    "urbanism": 375.8,
+    "administration": 367.6,
+    "legislative": 119.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3712.9,
+      "health_per_capita": 821.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3987.9,
+      "health_per_capita": 884.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4262.9,
+      "health_per_capita": 947.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4492.1,
+      "health_per_capita": 1010.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4583.8,
+      "health_per_capita": 1052.8
+    }
+  ]
+}

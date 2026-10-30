@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5208608",
+  "city_name": "Goianésia",
+  "uf": "GO",
+  "population": 73707,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 324799731.46,
+    "total_expense": 322887562.18,
+    "own_revenue_percentage": 38.7,
+    "transfers_revenue_percentage": 61.3,
+    "personnel_expense_percentage_rcl": 51.1
+  },
+  "per_capita_breakdown": {
+    "health": 1032.4,
+    "education": 1263.6,
+    "urbanism": 532.7,
+    "administration": 318.4,
+    "legislative": 110.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3548.4,
+      "health_per_capita": 805.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3811.2,
+      "health_per_capita": 867.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4074.1,
+      "health_per_capita": 929.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4293.1,
+      "health_per_capita": 991.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4380.7,
+      "health_per_capita": 1032.4
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4121802",
+  "city_name": "Ribeirão Claro",
+  "uf": "PR",
+  "population": 12364,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 53192048.76,
+    "total_expense": 53448282.52,
+    "own_revenue_percentage": 22.0,
+    "transfers_revenue_percentage": 78.0,
+    "personnel_expense_percentage_rcl": 51.7
+  },
+  "per_capita_breakdown": {
+    "health": 1113.7,
+    "education": 1113.5,
+    "urbanism": 619.3,
+    "administration": 288.6,
+    "legislative": 84.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3501.5,
+      "health_per_capita": 868.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3760.9,
+      "health_per_capita": 935.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4020.3,
+      "health_per_capita": 1002.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4236.4,
+      "health_per_capita": 1069.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4322.9,
+      "health_per_capita": 1113.7
+    }
+  ]
+}

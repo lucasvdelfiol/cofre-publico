@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1506500",
+  "city_name": "Santa Izabel do Pará",
+  "uf": "PA",
+  "population": 73019,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 337383815.29,
+    "total_expense": 331796612.61,
+    "own_revenue_percentage": 37.0,
+    "transfers_revenue_percentage": 63.0,
+    "personnel_expense_percentage_rcl": 46.3
+  },
+  "per_capita_breakdown": {
+    "health": 977.8,
+    "education": 1139.6,
+    "urbanism": 435.4,
+    "administration": 284.6,
+    "legislative": 134.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3680.6,
+      "health_per_capita": 762.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3953.3,
+      "health_per_capita": 821.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4225.9,
+      "health_per_capita": 880.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4453.1,
+      "health_per_capita": 938.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4544.0,
+      "health_per_capita": 977.8
+    }
+  ]
+}

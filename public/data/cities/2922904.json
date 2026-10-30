@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2922904",
+  "city_name": "Nova Soure",
+  "uf": "BA",
+  "population": 24236,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 109637596.9,
+    "total_expense": 110256031.29,
+    "own_revenue_percentage": 23.3,
+    "transfers_revenue_percentage": 76.7,
+    "personnel_expense_percentage_rcl": 48.3
+  },
+  "per_capita_breakdown": {
+    "health": 1114.0,
+    "education": 1395.3,
+    "urbanism": 426.1,
+    "administration": 386.2,
+    "legislative": 115.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3684.9,
+      "health_per_capita": 868.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3957.9,
+      "health_per_capita": 935.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4230.8,
+      "health_per_capita": 1002.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4458.3,
+      "health_per_capita": 1069.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4549.3,
+      "health_per_capita": 1114.0
+    }
+  ]
+}

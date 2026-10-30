@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3305109",
+  "city_name": "São João de Meriti",
+  "uf": "RJ",
+  "population": 440962,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 2508927877.26,
+    "total_expense": 2436642666.34,
+    "own_revenue_percentage": 47.7,
+    "transfers_revenue_percentage": 52.3,
+    "personnel_expense_percentage_rcl": 47.7
+  },
+  "per_capita_breakdown": {
+    "health": 1429.8,
+    "education": 1563.4,
+    "urbanism": 516.2,
+    "administration": 560.5,
+    "legislative": 124.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4475.8,
+      "health_per_capita": 1115.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4807.4,
+      "health_per_capita": 1201.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5138.9,
+      "health_per_capita": 1286.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5415.2,
+      "health_per_capita": 1372.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5525.7,
+      "health_per_capita": 1429.8
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2102200",
+  "city_name": "Buriti",
+  "uf": "MA",
+  "population": 29685,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 138397821.85,
+    "total_expense": 133576519.84,
+    "own_revenue_percentage": 29.0,
+    "transfers_revenue_percentage": 71.0,
+    "personnel_expense_percentage_rcl": 48.1
+  },
+  "per_capita_breakdown": {
+    "health": 1222.5,
+    "education": 1287.7,
+    "urbanism": 695.3,
+    "administration": 335.0,
+    "legislative": 153.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3644.8,
+      "health_per_capita": 953.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3914.8,
+      "health_per_capita": 1026.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4184.8,
+      "health_per_capita": 1100.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4409.8,
+      "health_per_capita": 1173.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4499.8,
+      "health_per_capita": 1222.5
+    }
+  ]
+}

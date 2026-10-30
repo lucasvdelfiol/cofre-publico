@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2615508",
+  "city_name": "Tracunhaém",
+  "uf": "PE",
+  "population": 13867,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 63671241.08,
+    "total_expense": 63848985.12,
+    "own_revenue_percentage": 10.7,
+    "transfers_revenue_percentage": 89.3,
+    "personnel_expense_percentage_rcl": 50.9
+  },
+  "per_capita_breakdown": {
+    "health": 1089.2,
+    "education": 1345.8,
+    "urbanism": 648.2,
+    "administration": 322.1,
+    "legislative": 109.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3729.6,
+      "health_per_capita": 849.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4005.8,
+      "health_per_capita": 914.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4282.1,
+      "health_per_capita": 980.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4512.3,
+      "health_per_capita": 1045.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4604.4,
+      "health_per_capita": 1089.2
+    }
+  ]
+}

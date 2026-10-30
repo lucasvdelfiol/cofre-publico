@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2303006",
+  "city_name": "Caridade",
+  "uf": "CE",
+  "population": 16377,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 84377485.81,
+    "total_expense": 82196809.01,
+    "own_revenue_percentage": 11.3,
+    "transfers_revenue_percentage": 88.7,
+    "personnel_expense_percentage_rcl": 52.7
+  },
+  "per_capita_breakdown": {
+    "health": 1139.3,
+    "education": 1338.4,
+    "urbanism": 426.2,
+    "administration": 595.1,
+    "legislative": 155.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4065.4,
+      "health_per_capita": 888.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4366.5,
+      "health_per_capita": 957.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4667.7,
+      "health_per_capita": 1025.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4918.6,
+      "health_per_capita": 1093.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5019.0,
+      "health_per_capita": 1139.3
+    }
+  ]
+}

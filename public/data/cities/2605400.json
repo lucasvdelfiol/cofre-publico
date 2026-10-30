@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2605400",
+  "city_name": "Feira Nova",
+  "uf": "PE",
+  "population": 21427,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 101781613.64,
+    "total_expense": 100770530.11,
+    "own_revenue_percentage": 30.4,
+    "transfers_revenue_percentage": 69.6,
+    "personnel_expense_percentage_rcl": 47.8
+  },
+  "per_capita_breakdown": {
+    "health": 1139.6,
+    "education": 1253.3,
+    "urbanism": 656.6,
+    "administration": 563.3,
+    "legislative": 97.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3809.4,
+      "health_per_capita": 888.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4091.6,
+      "health_per_capita": 957.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4373.8,
+      "health_per_capita": 1025.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4608.9,
+      "health_per_capita": 1094.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4703.0,
+      "health_per_capita": 1139.6
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3501400",
+  "city_name": "Álvaro de Carvalho",
+  "uf": "SP",
+  "population": 4808,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 26701293.25,
+    "total_expense": 26751949.69,
+    "own_revenue_percentage": 12.6,
+    "transfers_revenue_percentage": 87.4,
+    "personnel_expense_percentage_rcl": 46.6
+  },
+  "per_capita_breakdown": {
+    "health": 1328.4,
+    "education": 1749.0,
+    "urbanism": 620.9,
+    "administration": 575.3,
+    "legislative": 146.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4506.8,
+      "health_per_capita": 1036.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4840.7,
+      "health_per_capita": 1115.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5174.5,
+      "health_per_capita": 1195.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5452.7,
+      "health_per_capita": 1275.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5564.0,
+      "health_per_capita": 1328.4
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2209757",
+  "city_name": "São Gonçalo do Gurguéia",
+  "uf": "PI",
+  "population": 2947,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 15221499.56,
+    "total_expense": 15148555.57,
+    "own_revenue_percentage": 12.3,
+    "transfers_revenue_percentage": 87.7,
+    "personnel_expense_percentage_rcl": 49.8
+  },
+  "per_capita_breakdown": {
+    "health": 1397.0,
+    "education": 1300.6,
+    "urbanism": 414.8,
+    "administration": 349.3,
+    "legislative": 104.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4163.6,
+      "health_per_capita": 1089.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4472.1,
+      "health_per_capita": 1173.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4780.5,
+      "health_per_capita": 1257.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5037.5,
+      "health_per_capita": 1341.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5140.3,
+      "health_per_capita": 1397.0
+    }
+  ]
+}

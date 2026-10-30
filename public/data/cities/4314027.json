@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4314027",
+  "city_name": "Paraíso do Sul",
+  "uf": "RS",
+  "population": 6519,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 32822270.09,
+    "total_expense": 31663430.04,
+    "own_revenue_percentage": 12.7,
+    "transfers_revenue_percentage": 87.3,
+    "personnel_expense_percentage_rcl": 50.4
+  },
+  "per_capita_breakdown": {
+    "health": 1052.3,
+    "education": 1209.0,
+    "urbanism": 636.1,
+    "administration": 311.4,
+    "legislative": 162.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3934.3,
+      "health_per_capita": 820.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4225.7,
+      "health_per_capita": 883.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4517.1,
+      "health_per_capita": 947.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4760.0,
+      "health_per_capita": 1010.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4857.1,
+      "health_per_capita": 1052.3
+    }
+  ]
+}

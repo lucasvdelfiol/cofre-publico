@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2402709",
+  "city_name": "Cerro Corá",
+  "uf": "RN",
+  "population": 11000,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 57937417.68,
+    "total_expense": 58403431.13,
+    "own_revenue_percentage": 20.0,
+    "transfers_revenue_percentage": 80.0,
+    "personnel_expense_percentage_rcl": 48.2
+  },
+  "per_capita_breakdown": {
+    "health": 1408.1,
+    "education": 1511.3,
+    "urbanism": 579.5,
+    "administration": 331.7,
+    "legislative": 109.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4300.6,
+      "health_per_capita": 1098.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4619.2,
+      "health_per_capita": 1182.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4937.7,
+      "health_per_capita": 1267.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5203.2,
+      "health_per_capita": 1351.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5309.4,
+      "health_per_capita": 1408.1
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5211909",
+  "city_name": "Jataí",
+  "uf": "GO",
+  "population": 105729,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 594554436.17,
+    "total_expense": 578516274.69,
+    "own_revenue_percentage": 46.4,
+    "transfers_revenue_percentage": 53.6,
+    "personnel_expense_percentage_rcl": 50.3
+  },
+  "per_capita_breakdown": {
+    "health": 1400.2,
+    "education": 1661.8,
+    "urbanism": 840.6,
+    "administration": 630.1,
+    "legislative": 157.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4432.1,
+      "health_per_capita": 1092.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4760.4,
+      "health_per_capita": 1176.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5088.7,
+      "health_per_capita": 1260.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5362.3,
+      "health_per_capita": 1344.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5471.7,
+      "health_per_capita": 1400.2
+    }
+  ]
+}

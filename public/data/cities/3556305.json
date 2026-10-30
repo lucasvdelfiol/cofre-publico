@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3556305",
+  "city_name": "Valparaíso",
+  "uf": "SP",
+  "population": 24241,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 111951218.75,
+    "total_expense": 108516481.93,
+    "own_revenue_percentage": 28.2,
+    "transfers_revenue_percentage": 71.8,
+    "personnel_expense_percentage_rcl": 53.2
+  },
+  "per_capita_breakdown": {
+    "health": 912.8,
+    "education": 1187.5,
+    "urbanism": 572.1,
+    "administration": 462.2,
+    "legislative": 135.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3626.0,
+      "health_per_capita": 712.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3894.6,
+      "health_per_capita": 766.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4163.2,
+      "health_per_capita": 821.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4387.1,
+      "health_per_capita": 876.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4476.6,
+      "health_per_capita": 912.8
+    }
+  ]
+}

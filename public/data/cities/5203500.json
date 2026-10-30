@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5203500",
+  "city_name": "Bom Jesus de Goiás",
+  "uf": "GO",
+  "population": 23958,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 109833836.74,
+    "total_expense": 109325536.23,
+    "own_revenue_percentage": 23.1,
+    "transfers_revenue_percentage": 76.9,
+    "personnel_expense_percentage_rcl": 51.0
+  },
+  "per_capita_breakdown": {
+    "health": 1141.5,
+    "education": 1101.9,
+    "urbanism": 417.4,
+    "administration": 423.4,
+    "legislative": 144.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3696.2,
+      "health_per_capita": 890.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3970.0,
+      "health_per_capita": 958.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4243.8,
+      "health_per_capita": 1027.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4471.9,
+      "health_per_capita": 1095.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4563.2,
+      "health_per_capita": 1141.5
+    }
+  ]
+}

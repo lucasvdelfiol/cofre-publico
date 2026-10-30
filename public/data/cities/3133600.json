@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3133600",
+  "city_name": "Itapeva",
+  "uf": "MG",
+  "population": 12692,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 58817984.19,
+    "total_expense": 58963915.95,
+    "own_revenue_percentage": 16.1,
+    "transfers_revenue_percentage": 83.9,
+    "personnel_expense_percentage_rcl": 47.9
+  },
+  "per_capita_breakdown": {
+    "health": 1143.7,
+    "education": 1475.8,
+    "urbanism": 380.5,
+    "administration": 514.9,
+    "legislative": 136.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3763.1,
+      "health_per_capita": 892.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4041.8,
+      "health_per_capita": 960.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4320.6,
+      "health_per_capita": 1029.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4552.9,
+      "health_per_capita": 1098.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4645.8,
+      "health_per_capita": 1143.7
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2615409",
+  "city_name": "Toritama",
+  "uf": "PE",
+  "population": 41137,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 175966130.02,
+    "total_expense": 174298291.84,
+    "own_revenue_percentage": 21.1,
+    "transfers_revenue_percentage": 78.9,
+    "personnel_expense_percentage_rcl": 50.7
+  },
+  "per_capita_breakdown": {
+    "health": 930.9,
+    "education": 1260.2,
+    "urbanism": 446.7,
+    "administration": 259.9,
+    "legislative": 110.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3432.0,
+      "health_per_capita": 726.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3686.2,
+      "health_per_capita": 782.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3940.4,
+      "health_per_capita": 837.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4152.3,
+      "health_per_capita": 893.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4237.0,
+      "health_per_capita": 930.9
+    }
+  ]
+}

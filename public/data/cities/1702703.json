@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1702703",
+  "city_name": "Aurora do Tocantins",
+  "uf": "TO",
+  "population": 3342,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 19211376.47,
+    "total_expense": 18666545.25,
+    "own_revenue_percentage": 21.3,
+    "transfers_revenue_percentage": 78.7,
+    "personnel_expense_percentage_rcl": 46.1
+  },
+  "per_capita_breakdown": {
+    "health": 1273.0,
+    "education": 1458.2,
+    "urbanism": 630.1,
+    "administration": 459.0,
+    "legislative": 148.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4524.2,
+      "health_per_capita": 992.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4859.3,
+      "health_per_capita": 1069.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5194.4,
+      "health_per_capita": 1145.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5473.7,
+      "health_per_capita": 1222.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5585.4,
+      "health_per_capita": 1273.0
+    }
+  ]
+}

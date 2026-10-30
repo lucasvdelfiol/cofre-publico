@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4111100",
+  "city_name": "Itambé",
+  "uf": "PR",
+  "population": 6111,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 28003694.46,
+    "total_expense": 27948807.08,
+    "own_revenue_percentage": 9.2,
+    "transfers_revenue_percentage": 90.8,
+    "personnel_expense_percentage_rcl": 45.8
+  },
+  "per_capita_breakdown": {
+    "health": 1097.8,
+    "education": 1334.0,
+    "urbanism": 498.1,
+    "administration": 520.9,
+    "legislative": 157.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3704.5,
+      "health_per_capita": 856.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3978.9,
+      "health_per_capita": 922.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4253.4,
+      "health_per_capita": 988.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4482.0,
+      "health_per_capita": 1053.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4573.5,
+      "health_per_capita": 1097.8
+    }
+  ]
+}

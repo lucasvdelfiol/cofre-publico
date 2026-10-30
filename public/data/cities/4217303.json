@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4217303",
+  "city_name": "Saudades",
+  "uf": "SC",
+  "population": 10265,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 43989643.72,
+    "total_expense": 44321220.44,
+    "own_revenue_percentage": 15.0,
+    "transfers_revenue_percentage": 85.0,
+    "personnel_expense_percentage_rcl": 53.7
+  },
+  "per_capita_breakdown": {
+    "health": 884.1,
+    "education": 1368.3,
+    "urbanism": 366.6,
+    "administration": 458.5,
+    "legislative": 119.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3497.3,
+      "health_per_capita": 689.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3756.4,
+      "health_per_capita": 742.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4015.5,
+      "health_per_capita": 795.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4231.3,
+      "health_per_capita": 848.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4317.7,
+      "health_per_capita": 884.1
+    }
+  ]
+}

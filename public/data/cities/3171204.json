@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3171204",
+  "city_name": "Vespasiano",
+  "uf": "MG",
+  "population": 129246,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 740349695.43,
+    "total_expense": 733230563.2,
+    "own_revenue_percentage": 53.2,
+    "transfers_revenue_percentage": 46.8,
+    "personnel_expense_percentage_rcl": 52.3
+  },
+  "per_capita_breakdown": {
+    "health": 1406.8,
+    "education": 1667.5,
+    "urbanism": 636.9,
+    "administration": 655.3,
+    "legislative": 114.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4595.2,
+      "health_per_capita": 1097.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4935.6,
+      "health_per_capita": 1181.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5276.0,
+      "health_per_capita": 1266.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5559.6,
+      "health_per_capita": 1350.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5673.1,
+      "health_per_capita": 1406.8
+    }
+  ]
+}

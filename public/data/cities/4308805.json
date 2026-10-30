@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4308805",
+  "city_name": "General Câmara",
+  "uf": "RS",
+  "population": 7612,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 34443940.06,
+    "total_expense": 34549601.16,
+    "own_revenue_percentage": 10.1,
+    "transfers_revenue_percentage": 89.9,
+    "personnel_expense_percentage_rcl": 46.0
+  },
+  "per_capita_breakdown": {
+    "health": 1016.9,
+    "education": 1253.3,
+    "urbanism": 560.0,
+    "administration": 416.9,
+    "legislative": 122.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3676.4,
+      "health_per_capita": 793.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3948.8,
+      "health_per_capita": 854.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4221.1,
+      "health_per_capita": 915.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4448.0,
+      "health_per_capita": 976.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4538.8,
+      "health_per_capita": 1016.9
+    }
+  ]
+}

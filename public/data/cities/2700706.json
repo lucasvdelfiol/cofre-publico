@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2700706",
+  "city_name": "Batalha",
+  "uf": "AL",
+  "population": 16448,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 83174266.61,
+    "total_expense": 83868511.21,
+    "own_revenue_percentage": 10.5,
+    "transfers_revenue_percentage": 89.5,
+    "personnel_expense_percentage_rcl": 52.4
+  },
+  "per_capita_breakdown": {
+    "health": 1116.2,
+    "education": 1617.7,
+    "urbanism": 520.6,
+    "administration": 348.2,
+    "legislative": 108.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4130.2,
+      "health_per_capita": 870.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4436.1,
+      "health_per_capita": 937.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4742.1,
+      "health_per_capita": 1004.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4997.0,
+      "health_per_capita": 1071.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5099.0,
+      "health_per_capita": 1116.2
+    }
+  ]
+}

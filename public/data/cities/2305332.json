@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2305332",
+  "city_name": "Ibicuitinga",
+  "uf": "CE",
+  "population": 11611,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 67147338.63,
+    "total_expense": 64837728.14,
+    "own_revenue_percentage": 10.6,
+    "transfers_revenue_percentage": 89.4,
+    "personnel_expense_percentage_rcl": 46.0
+  },
+  "per_capita_breakdown": {
+    "health": 1139.4,
+    "education": 1605.0,
+    "urbanism": 799.3,
+    "administration": 462.7,
+    "legislative": 110.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4523.2,
+      "health_per_capita": 888.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4858.3,
+      "health_per_capita": 957.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5193.3,
+      "health_per_capita": 1025.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5472.5,
+      "health_per_capita": 1093.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5584.2,
+      "health_per_capita": 1139.4
+    }
+  ]
+}

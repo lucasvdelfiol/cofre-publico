@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2208205",
+  "city_name": "Pio IX",
+  "uf": "PI",
+  "population": 17613,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 83936944.91,
+    "total_expense": 81854635.59,
+    "own_revenue_percentage": 21.5,
+    "transfers_revenue_percentage": 78.5,
+    "personnel_expense_percentage_rcl": 51.5
+  },
+  "per_capita_breakdown": {
+    "health": 1093.0,
+    "education": 1230.9,
+    "urbanism": 625.0,
+    "administration": 531.1,
+    "legislative": 114.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3764.4,
+      "health_per_capita": 852.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4043.2,
+      "health_per_capita": 918.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4322.1,
+      "health_per_capita": 983.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4554.5,
+      "health_per_capita": 1049.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4647.4,
+      "health_per_capita": 1093.0
+    }
+  ]
+}

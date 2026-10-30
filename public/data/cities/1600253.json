@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1600253",
+  "city_name": "Itaubal",
+  "uf": "AP",
+  "population": 5599,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 28639433.26,
+    "total_expense": 28532894.43,
+    "own_revenue_percentage": 15.8,
+    "transfers_revenue_percentage": 84.2,
+    "personnel_expense_percentage_rcl": 48.8
+  },
+  "per_capita_breakdown": {
+    "health": 1163.5,
+    "education": 1484.3,
+    "urbanism": 661.4,
+    "administration": 603.2,
+    "legislative": 143.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4127.8,
+      "health_per_capita": 907.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4433.6,
+      "health_per_capita": 977.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4739.4,
+      "health_per_capita": 1047.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4994.2,
+      "health_per_capita": 1117.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5096.1,
+      "health_per_capita": 1163.5
+    }
+  ]
+}

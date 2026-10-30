@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2902054",
+  "city_name": "Araçás",
+  "uf": "BA",
+  "population": 11557,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 64974853.54,
+    "total_expense": 64536693.45,
+    "own_revenue_percentage": 9.5,
+    "transfers_revenue_percentage": 90.5,
+    "personnel_expense_percentage_rcl": 49.0
+  },
+  "per_capita_breakdown": {
+    "health": 1176.8,
+    "education": 1518.7,
+    "urbanism": 641.8,
+    "administration": 369.4,
+    "legislative": 102.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4523.2,
+      "health_per_capita": 917.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4858.3,
+      "health_per_capita": 988.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5193.3,
+      "health_per_capita": 1059.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5472.5,
+      "health_per_capita": 1129.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5584.2,
+      "health_per_capita": 1176.8
+    }
+  ]
+}

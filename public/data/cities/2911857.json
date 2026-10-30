@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2911857",
+  "city_name": "Heliópolis",
+  "uf": "BA",
+  "population": 12309,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 59213839.76,
+    "total_expense": 58051900.61,
+    "own_revenue_percentage": 18.9,
+    "transfers_revenue_percentage": 81.1,
+    "personnel_expense_percentage_rcl": 47.0
+  },
+  "per_capita_breakdown": {
+    "health": 1268.8,
+    "education": 1384.8,
+    "urbanism": 559.4,
+    "administration": 364.9,
+    "legislative": 148.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3820.1,
+      "health_per_capita": 989.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4103.1,
+      "health_per_capita": 1065.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4386.1,
+      "health_per_capita": 1141.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4621.9,
+      "health_per_capita": 1218.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4716.2,
+      "health_per_capita": 1268.8
+    }
+  ]
+}

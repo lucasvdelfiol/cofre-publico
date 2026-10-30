@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4207601",
+  "city_name": "Ipira",
+  "uf": "SC",
+  "population": 4578,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 22438790.66,
+    "total_expense": 22528457.81,
+    "own_revenue_percentage": 19.6,
+    "transfers_revenue_percentage": 80.4,
+    "personnel_expense_percentage_rcl": 52.7
+  },
+  "per_capita_breakdown": {
+    "health": 1207.6,
+    "education": 1551.6,
+    "urbanism": 736.4,
+    "administration": 552.0,
+    "legislative": 164.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3986.0,
+      "health_per_capita": 941.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4281.3,
+      "health_per_capita": 1014.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4576.5,
+      "health_per_capita": 1086.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4822.6,
+      "health_per_capita": 1159.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4921.0,
+      "health_per_capita": 1207.6
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3538709",
+  "city_name": "Piracicaba",
+  "uf": "SP",
+  "population": 423323,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 2412582360.06,
+    "total_expense": 2325282803.1,
+    "own_revenue_percentage": 45.0,
+    "transfers_revenue_percentage": 55.0,
+    "personnel_expense_percentage_rcl": 46.5
+  },
+  "per_capita_breakdown": {
+    "health": 1530.1,
+    "education": 1396.2,
+    "urbanism": 618.3,
+    "administration": 367.2,
+    "legislative": 182.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4449.2,
+      "health_per_capita": 1193.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4778.8,
+      "health_per_capita": 1285.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5108.4,
+      "health_per_capita": 1377.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5383.0,
+      "health_per_capita": 1468.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5492.9,
+      "health_per_capita": 1530.1
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2111672",
+  "city_name": "São Roberto",
+  "uf": "MA",
+  "population": 4544,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 21055703.6,
+    "total_expense": 20363855.11,
+    "own_revenue_percentage": 12.2,
+    "transfers_revenue_percentage": 87.8,
+    "personnel_expense_percentage_rcl": 50.3
+  },
+  "per_capita_breakdown": {
+    "health": 1133.9,
+    "education": 1159.2,
+    "urbanism": 412.6,
+    "administration": 526.3,
+    "legislative": 121.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3630.0,
+      "health_per_capita": 884.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3898.9,
+      "health_per_capita": 952.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4167.8,
+      "health_per_capita": 1020.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4391.9,
+      "health_per_capita": 1088.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4481.5,
+      "health_per_capita": 1133.9
+    }
+  ]
+}

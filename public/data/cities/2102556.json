@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2102556",
+  "city_name": "Campestre do Maranhão",
+  "uf": "MA",
+  "population": 12301,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 62708156.99,
+    "total_expense": 61711362.25,
+    "own_revenue_percentage": 17.3,
+    "transfers_revenue_percentage": 82.7,
+    "personnel_expense_percentage_rcl": 46.1
+  },
+  "per_capita_breakdown": {
+    "health": 1258.1,
+    "education": 1212.3,
+    "urbanism": 540.5,
+    "administration": 362.1,
+    "legislative": 136.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4063.6,
+      "health_per_capita": 981.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4364.6,
+      "health_per_capita": 1056.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4665.6,
+      "health_per_capita": 1132.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4916.5,
+      "health_per_capita": 1207.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5016.8,
+      "health_per_capita": 1258.1
+    }
+  ]
+}

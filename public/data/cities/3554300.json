@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3554300",
+  "city_name": "Teodoro Sampaio",
+  "uf": "SP",
+  "population": 22173,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 98719487.71,
+    "total_expense": 99599301.78,
+    "own_revenue_percentage": 18.2,
+    "transfers_revenue_percentage": 81.8,
+    "personnel_expense_percentage_rcl": 50.7
+  },
+  "per_capita_breakdown": {
+    "health": 1242.6,
+    "education": 1182.3,
+    "urbanism": 512.5,
+    "administration": 384.1,
+    "legislative": 109.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3638.4,
+      "health_per_capita": 969.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3908.0,
+      "health_per_capita": 1043.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4177.5,
+      "health_per_capita": 1118.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4402.1,
+      "health_per_capita": 1192.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4491.9,
+      "health_per_capita": 1242.6
+    }
+  ]
+}

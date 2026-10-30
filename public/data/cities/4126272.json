@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4126272",
+  "city_name": "Saudade do Iguaçu",
+  "uf": "PR",
+  "population": 6108,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 33681383.72,
+    "total_expense": 33179476.32,
+    "own_revenue_percentage": 8.4,
+    "transfers_revenue_percentage": 91.6,
+    "personnel_expense_percentage_rcl": 50.8
+  },
+  "per_capita_breakdown": {
+    "health": 1306.7,
+    "education": 1546.3,
+    "urbanism": 511.2,
+    "administration": 433.8,
+    "legislative": 120.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4400.0,
+      "health_per_capita": 1019.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4725.9,
+      "health_per_capita": 1097.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5051.9,
+      "health_per_capita": 1176.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5323.5,
+      "health_per_capita": 1254.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5432.1,
+      "health_per_capita": 1306.7
+    }
+  ]
+}

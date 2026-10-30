@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2204204",
+  "city_name": "Francisco Santos",
+  "uf": "PI",
+  "population": 8237,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 42861735.0,
+    "total_expense": 42732596.28,
+    "own_revenue_percentage": 12.0,
+    "transfers_revenue_percentage": 88.0,
+    "personnel_expense_percentage_rcl": 51.8
+  },
+  "per_capita_breakdown": {
+    "health": 1043.2,
+    "education": 1658.2,
+    "urbanism": 476.3,
+    "administration": 379.8,
+    "legislative": 94.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4202.2,
+      "health_per_capita": 813.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4513.5,
+      "health_per_capita": 876.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4824.7,
+      "health_per_capita": 938.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5084.1,
+      "health_per_capita": 1001.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5187.9,
+      "health_per_capita": 1043.2
+    }
+  ]
+}

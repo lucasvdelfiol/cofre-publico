@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3519105",
+  "city_name": "Iacanga",
+  "uf": "SP",
+  "population": 10437,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 52548741.24,
+    "total_expense": 52575081.05,
+    "own_revenue_percentage": 19.3,
+    "transfers_revenue_percentage": 80.7,
+    "personnel_expense_percentage_rcl": 46.9
+  },
+  "per_capita_breakdown": {
+    "health": 1142.8,
+    "education": 1267.9,
+    "urbanism": 524.2,
+    "administration": 398.1,
+    "legislative": 90.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4080.3,
+      "health_per_capita": 891.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4382.5,
+      "health_per_capita": 960.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4684.8,
+      "health_per_capita": 1028.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4936.7,
+      "health_per_capita": 1097.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5037.4,
+      "health_per_capita": 1142.8
+    }
+  ]
+}

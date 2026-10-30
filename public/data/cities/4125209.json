@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4125209",
+  "city_name": "São Jorge d'Oeste",
+  "uf": "PR",
+  "population": 9378,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 53075274.96,
+    "total_expense": 52228637.19,
+    "own_revenue_percentage": 17.9,
+    "transfers_revenue_percentage": 82.1,
+    "personnel_expense_percentage_rcl": 46.7
+  },
+  "per_capita_breakdown": {
+    "health": 1389.3,
+    "education": 1535.7,
+    "urbanism": 546.1,
+    "administration": 375.0,
+    "legislative": 155.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4511.1,
+      "health_per_capita": 1083.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4845.3,
+      "health_per_capita": 1167.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5179.4,
+      "health_per_capita": 1250.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5457.9,
+      "health_per_capita": 1333.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5569.3,
+      "health_per_capita": 1389.3
+    }
+  ]
+}

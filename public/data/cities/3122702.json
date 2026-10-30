@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3122702",
+  "city_name": "Dom Silvério",
+  "uf": "MG",
+  "population": 5228,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 28698844.92,
+    "total_expense": 28748209.95,
+    "own_revenue_percentage": 15.2,
+    "transfers_revenue_percentage": 84.8,
+    "personnel_expense_percentage_rcl": 53.6
+  },
+  "per_capita_breakdown": {
+    "health": 1318.8,
+    "education": 1326.2,
+    "urbanism": 547.3,
+    "administration": 487.8,
+    "legislative": 84.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4454.1,
+      "health_per_capita": 1028.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4784.0,
+      "health_per_capita": 1107.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5114.0,
+      "health_per_capita": 1186.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5388.9,
+      "health_per_capita": 1266.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5498.9,
+      "health_per_capita": 1318.8
+    }
+  ]
+}

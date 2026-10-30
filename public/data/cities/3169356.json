@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3169356",
+  "city_name": "Três Marias",
+  "uf": "MG",
+  "population": 28895,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 144433075.49,
+    "total_expense": 140788551.24,
+    "own_revenue_percentage": 29.5,
+    "transfers_revenue_percentage": 70.5,
+    "personnel_expense_percentage_rcl": 52.8
+  },
+  "per_capita_breakdown": {
+    "health": 1197.2,
+    "education": 1489.7,
+    "urbanism": 768.8,
+    "administration": 464.3,
+    "legislative": 166.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3946.6,
+      "health_per_capita": 933.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4239.0,
+      "health_per_capita": 1005.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4531.3,
+      "health_per_capita": 1077.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4775.0,
+      "health_per_capita": 1149.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4872.4,
+      "health_per_capita": 1197.2
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3137536",
+  "city_name": "Lagoa Grande",
+  "uf": "MG",
+  "population": 8969,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 45006084.7,
+    "total_expense": 44477307.22,
+    "own_revenue_percentage": 20.4,
+    "transfers_revenue_percentage": 79.6,
+    "personnel_expense_percentage_rcl": 46.7
+  },
+  "per_capita_breakdown": {
+    "health": 1369.9,
+    "education": 1261.5,
+    "urbanism": 398.1,
+    "administration": 446.5,
+    "legislative": 129.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4016.8,
+      "health_per_capita": 1068.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4314.3,
+      "health_per_capita": 1150.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4611.9,
+      "health_per_capita": 1232.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4859.8,
+      "health_per_capita": 1315.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4959.0,
+      "health_per_capita": 1369.9
+    }
+  ]
+}

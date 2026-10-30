@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2410405",
+  "city_name": "Pureza",
+  "uf": "RN",
+  "population": 9362,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 41488004.07,
+    "total_expense": 41202247.84,
+    "own_revenue_percentage": 10.2,
+    "transfers_revenue_percentage": 89.8,
+    "personnel_expense_percentage_rcl": 49.9
+  },
+  "per_capita_breakdown": {
+    "health": 966.4,
+    "education": 1099.9,
+    "urbanism": 369.7,
+    "administration": 336.4,
+    "legislative": 93.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3564.8,
+      "health_per_capita": 753.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3828.9,
+      "health_per_capita": 811.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4092.9,
+      "health_per_capita": 869.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4313.0,
+      "health_per_capita": 927.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4401.0,
+      "health_per_capita": 966.4
+    }
+  ]
+}

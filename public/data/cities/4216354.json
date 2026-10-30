@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4216354",
+  "city_name": "São João do Itaperiú",
+  "uf": "SC",
+  "population": 4463,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 19768911.67,
+    "total_expense": 19944632.42,
+    "own_revenue_percentage": 12.5,
+    "transfers_revenue_percentage": 87.5,
+    "personnel_expense_percentage_rcl": 47.1
+  },
+  "per_capita_breakdown": {
+    "health": 1180.0,
+    "education": 1170.0,
+    "urbanism": 635.0,
+    "administration": 441.6,
+    "legislative": 74.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3619.8,
+      "health_per_capita": 920.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3887.9,
+      "health_per_capita": 991.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4156.1,
+      "health_per_capita": 1062.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4379.5,
+      "health_per_capita": 1132.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4468.9,
+      "health_per_capita": 1180.0
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4121505",
+  "city_name": "Rebouças",
+  "uf": "PR",
+  "population": 14514,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 78942846.47,
+    "total_expense": 76297177.64,
+    "own_revenue_percentage": 14.4,
+    "transfers_revenue_percentage": 85.6,
+    "personnel_expense_percentage_rcl": 51.3
+  },
+  "per_capita_breakdown": {
+    "health": 1118.2,
+    "education": 1674.3,
+    "urbanism": 653.5,
+    "administration": 557.2,
+    "legislative": 151.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4258.0,
+      "health_per_capita": 872.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4573.4,
+      "health_per_capita": 939.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4888.8,
+      "health_per_capita": 1006.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5151.7,
+      "health_per_capita": 1073.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5256.8,
+      "health_per_capita": 1118.2
+    }
+  ]
+}

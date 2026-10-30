@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5219209",
+  "city_name": "Santa Cruz de Goiás",
+  "uf": "GO",
+  "population": 3002,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 13873202.92,
+    "total_expense": 13542464.73,
+    "own_revenue_percentage": 12.6,
+    "transfers_revenue_percentage": 87.4,
+    "personnel_expense_percentage_rcl": 48.4
+  },
+  "per_capita_breakdown": {
+    "health": 1148.1,
+    "education": 1186.2,
+    "urbanism": 637.4,
+    "administration": 476.4,
+    "legislative": 84.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3654.0,
+      "health_per_capita": 895.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3924.7,
+      "health_per_capita": 964.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4195.3,
+      "health_per_capita": 1033.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4420.9,
+      "health_per_capita": 1102.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4511.1,
+      "health_per_capita": 1148.1
+    }
+  ]
+}

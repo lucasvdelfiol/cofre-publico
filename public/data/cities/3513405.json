@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3513405",
+  "city_name": "Cruzeiro",
+  "uf": "SP",
+  "population": 74961,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 356219361.97,
+    "total_expense": 351923230.72,
+    "own_revenue_percentage": 32.8,
+    "transfers_revenue_percentage": 67.2,
+    "personnel_expense_percentage_rcl": 45.7
+  },
+  "per_capita_breakdown": {
+    "health": 1228.5,
+    "education": 1292.5,
+    "urbanism": 731.9,
+    "administration": 375.1,
+    "legislative": 116.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3802.8,
+      "health_per_capita": 958.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4084.5,
+      "health_per_capita": 1031.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4366.2,
+      "health_per_capita": 1105.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4600.9,
+      "health_per_capita": 1179.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4694.8,
+      "health_per_capita": 1228.5
+    }
+  ]
+}

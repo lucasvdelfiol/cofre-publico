@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2103158",
+  "city_name": "Centro do Guilherme",
+  "uf": "MA",
+  "population": 12342,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 63155059.29,
+    "total_expense": 61094832.57,
+    "own_revenue_percentage": 14.6,
+    "transfers_revenue_percentage": 85.4,
+    "personnel_expense_percentage_rcl": 46.8
+  },
+  "per_capita_breakdown": {
+    "health": 1313.8,
+    "education": 1217.0,
+    "urbanism": 720.7,
+    "administration": 387.7,
+    "legislative": 132.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4009.7,
+      "health_per_capita": 1024.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4306.7,
+      "health_per_capita": 1103.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4603.7,
+      "health_per_capita": 1182.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4851.2,
+      "health_per_capita": 1261.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4950.2,
+      "health_per_capita": 1313.8
+    }
+  ]
+}

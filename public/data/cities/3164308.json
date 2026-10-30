@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3164308",
+  "city_name": "São Roque de Minas",
+  "uf": "MG",
+  "population": 7129,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 36131481.74,
+    "total_expense": 35916190.74,
+    "own_revenue_percentage": 21.6,
+    "transfers_revenue_percentage": 78.4,
+    "personnel_expense_percentage_rcl": 48.9
+  },
+  "per_capita_breakdown": {
+    "health": 1015.4,
+    "education": 1483.1,
+    "urbanism": 449.1,
+    "administration": 519.9,
+    "legislative": 169.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4080.8,
+      "health_per_capita": 792.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4383.1,
+      "health_per_capita": 852.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4685.3,
+      "health_per_capita": 913.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4937.2,
+      "health_per_capita": 974.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5038.0,
+      "health_per_capita": 1015.4
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2930105",
+  "city_name": "Senhor do Bonfim",
+  "uf": "BA",
+  "population": 74523,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 320690463.38,
+    "total_expense": 316376734.08,
+    "own_revenue_percentage": 33.2,
+    "transfers_revenue_percentage": 66.8,
+    "personnel_expense_percentage_rcl": 46.7
+  },
+  "per_capita_breakdown": {
+    "health": 1088.1,
+    "education": 1185.6,
+    "urbanism": 670.6,
+    "administration": 260.0,
+    "legislative": 118.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3438.8,
+      "health_per_capita": 848.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3693.5,
+      "health_per_capita": 914.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3948.2,
+      "health_per_capita": 979.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4160.5,
+      "health_per_capita": 1044.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4245.4,
+      "health_per_capita": 1088.1
+    }
+  ]
+}

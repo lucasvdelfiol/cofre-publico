@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3172202",
+  "city_name": "Wenceslau Braz",
+  "uf": "MG",
+  "population": 2356,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 11874237.72,
+    "total_expense": 11526563.18,
+    "own_revenue_percentage": 9.2,
+    "transfers_revenue_percentage": 90.8,
+    "personnel_expense_percentage_rcl": 51.4
+  },
+  "per_capita_breakdown": {
+    "health": 1288.4,
+    "education": 1474.3,
+    "urbanism": 397.8,
+    "administration": 559.4,
+    "legislative": 133.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3962.8,
+      "health_per_capita": 1005.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4256.4,
+      "health_per_capita": 1082.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4549.9,
+      "health_per_capita": 1159.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4794.6,
+      "health_per_capita": 1236.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4892.4,
+      "health_per_capita": 1288.4
+    }
+  ]
+}

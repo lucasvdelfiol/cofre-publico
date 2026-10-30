@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4116109",
+  "city_name": "Moreira Sales",
+  "uf": "PR",
+  "population": 11175,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 54719699.72,
+    "total_expense": 52833624.3,
+    "own_revenue_percentage": 20.6,
+    "transfers_revenue_percentage": 79.4,
+    "personnel_expense_percentage_rcl": 48.2
+  },
+  "per_capita_breakdown": {
+    "health": 1268.0,
+    "education": 1240.0,
+    "urbanism": 690.8,
+    "administration": 551.5,
+    "legislative": 149.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3829.5,
+      "health_per_capita": 989.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4113.2,
+      "health_per_capita": 1065.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4396.9,
+      "health_per_capita": 1141.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4633.2,
+      "health_per_capita": 1217.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4727.8,
+      "health_per_capita": 1268.0
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2211209",
+  "city_name": "Uruçuí",
+  "uf": "PI",
+  "population": 25203,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 107552085.76,
+    "total_expense": 107399436.3,
+    "own_revenue_percentage": 20.6,
+    "transfers_revenue_percentage": 79.4,
+    "personnel_expense_percentage_rcl": 53.3
+  },
+  "per_capita_breakdown": {
+    "health": 1123.6,
+    "education": 1230.1,
+    "urbanism": 457.5,
+    "administration": 430.5,
+    "legislative": 130.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3451.7,
+      "health_per_capita": 876.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3707.4,
+      "health_per_capita": 943.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3963.1,
+      "health_per_capita": 1011.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4176.2,
+      "health_per_capita": 1078.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4261.4,
+      "health_per_capita": 1123.6
+    }
+  ]
+}

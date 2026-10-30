@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5201454",
+  "city_name": "Aparecida do Rio Doce",
+  "uf": "GO",
+  "population": 2907,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 14312935.74,
+    "total_expense": 13943537.39,
+    "own_revenue_percentage": 15.5,
+    "transfers_revenue_percentage": 84.5,
+    "personnel_expense_percentage_rcl": 52.6
+  },
+  "per_capita_breakdown": {
+    "health": 1219.3,
+    "education": 1241.3,
+    "urbanism": 414.3,
+    "administration": 504.1,
+    "legislative": 118.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3885.2,
+      "health_per_capita": 951.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4173.0,
+      "health_per_capita": 1024.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4460.7,
+      "health_per_capita": 1097.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4700.6,
+      "health_per_capita": 1170.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4796.5,
+      "health_per_capita": 1219.3
+    }
+  ]
+}

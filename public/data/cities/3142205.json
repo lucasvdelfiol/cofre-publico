@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3142205",
+  "city_name": "Miraí",
+  "uf": "MG",
+  "population": 13633,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 76077630.04,
+    "total_expense": 74230281.63,
+    "own_revenue_percentage": 14.3,
+    "transfers_revenue_percentage": 85.7,
+    "personnel_expense_percentage_rcl": 47.8
+  },
+  "per_capita_breakdown": {
+    "health": 1224.8,
+    "education": 1718.0,
+    "urbanism": 540.0,
+    "administration": 461.9,
+    "legislative": 86.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4410.4,
+      "health_per_capita": 955.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4737.1,
+      "health_per_capita": 1028.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5063.8,
+      "health_per_capita": 1102.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5336.0,
+      "health_per_capita": 1175.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5444.9,
+      "health_per_capita": 1224.8
+    }
+  ]
+}

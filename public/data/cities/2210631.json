@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2210631",
+  "city_name": "Sebastião Leal",
+  "uf": "PI",
+  "population": 4446,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 20142584.65,
+    "total_expense": 20188661.14,
+    "own_revenue_percentage": 14.9,
+    "transfers_revenue_percentage": 85.1,
+    "personnel_expense_percentage_rcl": 48.0
+  },
+  "per_capita_breakdown": {
+    "health": 1167.8,
+    "education": 1330.9,
+    "urbanism": 414.5,
+    "administration": 325.2,
+    "legislative": 152.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3678.1,
+      "health_per_capita": 910.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3950.6,
+      "health_per_capita": 981.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4223.0,
+      "health_per_capita": 1051.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4450.1,
+      "health_per_capita": 1121.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4540.9,
+      "health_per_capita": 1167.8
+    }
+  ]
+}

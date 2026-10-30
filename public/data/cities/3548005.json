@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3548005",
+  "city_name": "Santo Antônio de Posse",
+  "uf": "SP",
+  "population": 23244,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 108591786.39,
+    "total_expense": 108996018.88,
+    "own_revenue_percentage": 26.6,
+    "transfers_revenue_percentage": 73.4,
+    "personnel_expense_percentage_rcl": 46.4
+  },
+  "per_capita_breakdown": {
+    "health": 1032.4,
+    "education": 1171.3,
+    "urbanism": 474.9,
+    "administration": 474.7,
+    "legislative": 79.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3798.3,
+      "health_per_capita": 805.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4079.6,
+      "health_per_capita": 867.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4361.0,
+      "health_per_capita": 929.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4595.4,
+      "health_per_capita": 991.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4689.2,
+      "health_per_capita": 1032.4
+    }
+  ]
+}

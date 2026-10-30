@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5211008",
+  "city_name": "Itapirapuã",
+  "uf": "GO",
+  "population": 8007,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 37338145.13,
+    "total_expense": 36393022.29,
+    "own_revenue_percentage": 13.1,
+    "transfers_revenue_percentage": 86.9,
+    "personnel_expense_percentage_rcl": 49.0
+  },
+  "per_capita_breakdown": {
+    "health": 1238.2,
+    "education": 1187.7,
+    "urbanism": 695.4,
+    "administration": 524.7,
+    "legislative": 83.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3681.6,
+      "health_per_capita": 965.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3954.3,
+      "health_per_capita": 1040.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4227.0,
+      "health_per_capita": 1114.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4454.3,
+      "health_per_capita": 1188.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4545.2,
+      "health_per_capita": 1238.2
+    }
+  ]
+}

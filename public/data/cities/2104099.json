@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2104099",
+  "city_name": "Formosa da Serra Negra",
+  "uf": "MA",
+  "population": 17719,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 76154083.56,
+    "total_expense": 76321468.97,
+    "own_revenue_percentage": 17.7,
+    "transfers_revenue_percentage": 82.3,
+    "personnel_expense_percentage_rcl": 45.6
+  },
+  "per_capita_breakdown": {
+    "health": 1200.2,
+    "education": 1206.2,
+    "urbanism": 365.5,
+    "administration": 305.6,
+    "legislative": 68.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3488.9,
+      "health_per_capita": 936.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3747.4,
+      "health_per_capita": 1008.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4005.8,
+      "health_per_capita": 1080.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4221.2,
+      "health_per_capita": 1152.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4307.3,
+      "health_per_capita": 1200.2
+    }
+  ]
+}

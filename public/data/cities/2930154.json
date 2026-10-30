@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2930154",
+  "city_name": "Serra do Ramalho",
+  "uf": "BA",
+  "population": 34222,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 151360682.72,
+    "total_expense": 146527167.37,
+    "own_revenue_percentage": 30.1,
+    "transfers_revenue_percentage": 69.9,
+    "personnel_expense_percentage_rcl": 49.9
+  },
+  "per_capita_breakdown": {
+    "health": 858.5,
+    "education": 1115.5,
+    "urbanism": 517.1,
+    "administration": 465.2,
+    "legislative": 73.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3468.2,
+      "health_per_capita": 669.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3725.1,
+      "health_per_capita": 721.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3982.0,
+      "health_per_capita": 772.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4196.1,
+      "health_per_capita": 824.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4281.7,
+      "health_per_capita": 858.5
+    }
+  ]
+}

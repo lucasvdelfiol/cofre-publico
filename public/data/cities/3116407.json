@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3116407",
+  "city_name": "Claraval",
+  "uf": "MG",
+  "population": 4658,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 22636723.41,
+    "total_expense": 22093217.26,
+    "own_revenue_percentage": 20.9,
+    "transfers_revenue_percentage": 79.1,
+    "personnel_expense_percentage_rcl": 46.4
+  },
+  "per_capita_breakdown": {
+    "health": 1197.3,
+    "education": 1325.0,
+    "urbanism": 515.1,
+    "administration": 565.5,
+    "legislative": 135.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3841.9,
+      "health_per_capita": 933.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4126.5,
+      "health_per_capita": 1005.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4411.1,
+      "health_per_capita": 1077.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4648.2,
+      "health_per_capita": 1149.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4743.1,
+      "health_per_capita": 1197.3
+    }
+  ]
+}

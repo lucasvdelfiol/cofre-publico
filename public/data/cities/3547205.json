@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3547205",
+  "city_name": "Santana da Ponte Pensa",
+  "uf": "SP",
+  "population": 1670,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 7662891.82,
+    "total_expense": 7709993.18,
+    "own_revenue_percentage": 10.4,
+    "transfers_revenue_percentage": 89.6,
+    "personnel_expense_percentage_rcl": 51.5
+  },
+  "per_capita_breakdown": {
+    "health": 1101.6,
+    "education": 1131.8,
+    "urbanism": 733.3,
+    "administration": 436.3,
+    "legislative": 140.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3739.6,
+      "health_per_capita": 859.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4016.6,
+      "health_per_capita": 925.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4293.6,
+      "health_per_capita": 991.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4524.5,
+      "health_per_capita": 1057.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4616.8,
+      "health_per_capita": 1101.6
+    }
+  ]
+}

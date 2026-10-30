@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2709152",
+  "city_name": "Teotônio Vilela",
+  "uf": "AL",
+  "population": 38053,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 175518543.01,
+    "total_expense": 171157150.11,
+    "own_revenue_percentage": 31.4,
+    "transfers_revenue_percentage": 68.6,
+    "personnel_expense_percentage_rcl": 49.6
+  },
+  "per_capita_breakdown": {
+    "health": 1005.8,
+    "education": 1123.8,
+    "urbanism": 606.2,
+    "administration": 464.5,
+    "legislative": 135.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3643.3,
+      "health_per_capita": 784.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3913.2,
+      "health_per_capita": 844.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4183.0,
+      "health_per_capita": 905.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4407.9,
+      "health_per_capita": 965.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4497.9,
+      "health_per_capita": 1005.8
+    }
+  ]
+}

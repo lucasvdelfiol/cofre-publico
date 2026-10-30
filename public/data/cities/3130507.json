@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3130507",
+  "city_name": "Ilicínea",
+  "uf": "MG",
+  "population": 12741,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 66190020.75,
+    "total_expense": 63927059.65,
+    "own_revenue_percentage": 10.5,
+    "transfers_revenue_percentage": 89.5,
+    "personnel_expense_percentage_rcl": 51.2
+  },
+  "per_capita_breakdown": {
+    "health": 1306.9,
+    "education": 1206.1,
+    "urbanism": 452.6,
+    "administration": 403.8,
+    "legislative": 143.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4064.1,
+      "health_per_capita": 1019.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4365.1,
+      "health_per_capita": 1097.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4666.2,
+      "health_per_capita": 1176.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4917.1,
+      "health_per_capita": 1254.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5017.4,
+      "health_per_capita": 1306.9
+    }
+  ]
+}

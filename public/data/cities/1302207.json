@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1302207",
+  "city_name": "Juruá",
+  "uf": "AM",
+  "population": 10742,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 49663283.94,
+    "total_expense": 48974873.03,
+    "own_revenue_percentage": 19.3,
+    "transfers_revenue_percentage": 80.7,
+    "personnel_expense_percentage_rcl": 51.7
+  },
+  "per_capita_breakdown": {
+    "health": 1158.4,
+    "education": 1149.3,
+    "urbanism": 372.6,
+    "administration": 500.0,
+    "legislative": 108.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3693.0,
+      "health_per_capita": 903.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3966.5,
+      "health_per_capita": 973.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4240.1,
+      "health_per_capita": 1042.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4468.0,
+      "health_per_capita": 1112.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4559.2,
+      "health_per_capita": 1158.4
+    }
+  ]
+}

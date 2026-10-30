@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3527009",
+  "city_name": "Lindóia",
+  "uf": "SP",
+  "population": 7014,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 39718527.52,
+    "total_expense": 38806670.26,
+    "own_revenue_percentage": 8.8,
+    "transfers_revenue_percentage": 91.2,
+    "personnel_expense_percentage_rcl": 52.9
+  },
+  "per_capita_breakdown": {
+    "health": 1514.1,
+    "education": 1706.7,
+    "urbanism": 659.4,
+    "administration": 542.5,
+    "legislative": 134.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4481.5,
+      "health_per_capita": 1181.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4813.4,
+      "health_per_capita": 1271.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5145.4,
+      "health_per_capita": 1362.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5422.0,
+      "health_per_capita": 1453.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5532.7,
+      "health_per_capita": 1514.1
+    }
+  ]
+}

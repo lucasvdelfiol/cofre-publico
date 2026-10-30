@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3300902",
+  "city_name": "Cambuci",
+  "uf": "RJ",
+  "population": 14616,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 65220548.77,
+    "total_expense": 65303631.39,
+    "own_revenue_percentage": 19.0,
+    "transfers_revenue_percentage": 81.0,
+    "personnel_expense_percentage_rcl": 47.2
+  },
+  "per_capita_breakdown": {
+    "health": 1136.0,
+    "education": 1265.6,
+    "urbanism": 404.9,
+    "administration": 381.1,
+    "legislative": 136.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3619.1,
+      "health_per_capita": 886.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3887.2,
+      "health_per_capita": 954.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4155.2,
+      "health_per_capita": 1022.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4378.6,
+      "health_per_capita": 1090.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4468.0,
+      "health_per_capita": 1136.0
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4101705",
+  "city_name": "Araruna",
+  "uf": "PR",
+  "population": 14485,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 71364523.37,
+    "total_expense": 71816983.61,
+    "own_revenue_percentage": 8.7,
+    "transfers_revenue_percentage": 91.3,
+    "personnel_expense_percentage_rcl": 47.7
+  },
+  "per_capita_breakdown": {
+    "health": 1297.5,
+    "education": 1285.1,
+    "urbanism": 737.3,
+    "administration": 361.2,
+    "legislative": 153.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4016.0,
+      "health_per_capita": 1012.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4313.5,
+      "health_per_capita": 1089.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4610.9,
+      "health_per_capita": 1167.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4858.8,
+      "health_per_capita": 1245.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4958.0,
+      "health_per_capita": 1297.5
+    }
+  ]
+}

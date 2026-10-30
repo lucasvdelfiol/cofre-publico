@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2406700",
+  "city_name": "Lajes",
+  "uf": "RN",
+  "population": 9866,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 46271486.15,
+    "total_expense": 44754393.0,
+    "own_revenue_percentage": 13.7,
+    "transfers_revenue_percentage": 86.3,
+    "personnel_expense_percentage_rcl": 45.6
+  },
+  "per_capita_breakdown": {
+    "health": 1142.4,
+    "education": 1138.1,
+    "urbanism": 640.9,
+    "administration": 492.8,
+    "legislative": 100.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3674.3,
+      "health_per_capita": 891.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3946.5,
+      "health_per_capita": 959.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4218.7,
+      "health_per_capita": 1028.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4445.5,
+      "health_per_capita": 1096.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4536.2,
+      "health_per_capita": 1142.4
+    }
+  ]
+}

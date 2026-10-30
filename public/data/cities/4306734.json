@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4306734",
+  "city_name": "Doutor Maurício Cardoso",
+  "uf": "RS",
+  "population": 4470,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 24081604.29,
+    "total_expense": 23711220.46,
+    "own_revenue_percentage": 19.4,
+    "transfers_revenue_percentage": 80.6,
+    "personnel_expense_percentage_rcl": 52.1
+  },
+  "per_capita_breakdown": {
+    "health": 1136.3,
+    "education": 1607.3,
+    "urbanism": 456.9,
+    "administration": 466.8,
+    "legislative": 120.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4296.6,
+      "health_per_capita": 886.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4614.9,
+      "health_per_capita": 954.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4933.2,
+      "health_per_capita": 1022.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5198.4,
+      "health_per_capita": 1090.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5304.5,
+      "health_per_capita": 1136.3
+    }
+  ]
+}

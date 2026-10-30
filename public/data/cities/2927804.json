@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2927804",
+  "city_name": "Santa Cruz da Vitória",
+  "uf": "BA",
+  "population": 4681,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 23158980.79,
+    "total_expense": 23201919.41,
+    "own_revenue_percentage": 13.4,
+    "transfers_revenue_percentage": 86.6,
+    "personnel_expense_percentage_rcl": 50.1
+  },
+  "per_capita_breakdown": {
+    "health": 1237.8,
+    "education": 1381.5,
+    "urbanism": 639.7,
+    "administration": 363.0,
+    "legislative": 108.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4014.8,
+      "health_per_capita": 965.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4312.2,
+      "health_per_capita": 1039.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4609.6,
+      "health_per_capita": 1114.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4857.5,
+      "health_per_capita": 1188.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4956.6,
+      "health_per_capita": 1237.8
+    }
+  ]
+}

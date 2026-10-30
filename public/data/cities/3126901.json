@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3126901",
+  "city_name": "Frei Inocêncio",
+  "uf": "MG",
+  "population": 8226,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 36601181.1,
+    "total_expense": 35699713.84,
+    "own_revenue_percentage": 17.5,
+    "transfers_revenue_percentage": 82.5,
+    "personnel_expense_percentage_rcl": 53.2
+  },
+  "per_capita_breakdown": {
+    "health": 1053.5,
+    "education": 1067.0,
+    "urbanism": 375.6,
+    "administration": 269.8,
+    "legislative": 116.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3515.3,
+      "health_per_capita": 821.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3775.7,
+      "health_per_capita": 884.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4036.1,
+      "health_per_capita": 948.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4253.1,
+      "health_per_capita": 1011.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4339.9,
+      "health_per_capita": 1053.5
+    }
+  ]
+}

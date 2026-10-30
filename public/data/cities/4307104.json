@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4307104",
+  "city_name": "Herval",
+  "uf": "RS",
+  "population": 6191,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 27534629.96,
+    "total_expense": 27291689.11,
+    "own_revenue_percentage": 9.8,
+    "transfers_revenue_percentage": 90.2,
+    "personnel_expense_percentage_rcl": 45.6
+  },
+  "per_capita_breakdown": {
+    "health": 1081.8,
+    "education": 1213.1,
+    "urbanism": 371.2,
+    "administration": 415.5,
+    "legislative": 95.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3570.7,
+      "health_per_capita": 843.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3835.2,
+      "health_per_capita": 908.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4099.7,
+      "health_per_capita": 973.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4320.1,
+      "health_per_capita": 1038.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4408.3,
+      "health_per_capita": 1081.8
+    }
+  ]
+}

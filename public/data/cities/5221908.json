@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5221908",
+  "city_name": "Varjão",
+  "uf": "GO",
+  "population": 3716,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 18506411.58,
+    "total_expense": 17839504.26,
+    "own_revenue_percentage": 9.8,
+    "transfers_revenue_percentage": 90.2,
+    "personnel_expense_percentage_rcl": 48.7
+  },
+  "per_capita_breakdown": {
+    "health": 1229.7,
+    "education": 1452.6,
+    "urbanism": 473.3,
+    "administration": 471.1,
+    "legislative": 116.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3888.6,
+      "health_per_capita": 959.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4176.6,
+      "health_per_capita": 1032.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4464.7,
+      "health_per_capita": 1106.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4704.7,
+      "health_per_capita": 1180.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4800.7,
+      "health_per_capita": 1229.7
+    }
+  ]
+}

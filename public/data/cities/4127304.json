@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4127304",
+  "city_name": "Terra Rica",
+  "uf": "PR",
+  "population": 14842,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 80293555.32,
+    "total_expense": 79888648.4,
+    "own_revenue_percentage": 20.4,
+    "transfers_revenue_percentage": 79.6,
+    "personnel_expense_percentage_rcl": 51.6
+  },
+  "per_capita_breakdown": {
+    "health": 1205.9,
+    "education": 1483.0,
+    "urbanism": 641.4,
+    "administration": 363.0,
+    "legislative": 142.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4359.9,
+      "health_per_capita": 940.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4682.9,
+      "health_per_capita": 1013.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5005.8,
+      "health_per_capita": 1085.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5274.9,
+      "health_per_capita": 1157.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5382.6,
+      "health_per_capita": 1205.9
+    }
+  ]
+}

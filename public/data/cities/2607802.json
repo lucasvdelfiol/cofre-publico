@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2607802",
+  "city_name": "Itaquitinga",
+  "uf": "PE",
+  "population": 16554,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 86318489.23,
+    "total_expense": 86050612.6,
+    "own_revenue_percentage": 15.0,
+    "transfers_revenue_percentage": 85.0,
+    "personnel_expense_percentage_rcl": 52.4
+  },
+  "per_capita_breakdown": {
+    "health": 1075.6,
+    "education": 1563.1,
+    "urbanism": 783.8,
+    "administration": 560.4,
+    "legislative": 141.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4210.5,
+      "health_per_capita": 839.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4522.4,
+      "health_per_capita": 903.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4834.3,
+      "health_per_capita": 968.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5094.2,
+      "health_per_capita": 1032.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5198.2,
+      "health_per_capita": 1075.6
+    }
+  ]
+}

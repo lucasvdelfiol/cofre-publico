@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3300100",
+  "city_name": "Angra dos Reis",
+  "uf": "RJ",
+  "population": 167434,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 930027029.91,
+    "total_expense": 932688649.98,
+    "own_revenue_percentage": 48.8,
+    "transfers_revenue_percentage": 51.2,
+    "personnel_expense_percentage_rcl": 46.1
+  },
+  "per_capita_breakdown": {
+    "health": 1236.8,
+    "education": 1675.4,
+    "urbanism": 592.5,
+    "administration": 507.4,
+    "legislative": 126.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4512.1,
+      "health_per_capita": 964.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4846.3,
+      "health_per_capita": 1038.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5180.6,
+      "health_per_capita": 1113.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5459.1,
+      "health_per_capita": 1187.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5570.5,
+      "health_per_capita": 1236.8
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3146107",
+  "city_name": "Ouro Preto",
+  "uf": "MG",
+  "population": 74821,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 336147384.5,
+    "total_expense": 326338435.0,
+    "own_revenue_percentage": 37.3,
+    "transfers_revenue_percentage": 62.7,
+    "personnel_expense_percentage_rcl": 45.7
+  },
+  "per_capita_breakdown": {
+    "health": 884.0,
+    "education": 1363.9,
+    "urbanism": 565.1,
+    "administration": 383.5,
+    "legislative": 68.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3532.9,
+      "health_per_capita": 689.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3794.6,
+      "health_per_capita": 742.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4056.3,
+      "health_per_capita": 795.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4274.4,
+      "health_per_capita": 848.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4361.6,
+      "health_per_capita": 884.0
+    }
+  ]
+}

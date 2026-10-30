@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4203204",
+  "city_name": "Camboriú",
+  "uf": "SC",
+  "population": 103074,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 582093303.67,
+    "total_expense": 569569019.49,
+    "own_revenue_percentage": 45.6,
+    "transfers_revenue_percentage": 54.4,
+    "personnel_expense_percentage_rcl": 49.2
+  },
+  "per_capita_breakdown": {
+    "health": 1244.0,
+    "education": 1376.6,
+    "urbanism": 785.9,
+    "administration": 645.8,
+    "legislative": 182.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4475.9,
+      "health_per_capita": 970.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4807.4,
+      "health_per_capita": 1045.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5139.0,
+      "health_per_capita": 1119.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5415.3,
+      "health_per_capita": 1194.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5525.8,
+      "health_per_capita": 1244.0
+    }
+  ]
+}

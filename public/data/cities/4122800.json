@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4122800",
+  "city_name": "Salgado Filho",
+  "uf": "PR",
+  "population": 4075,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 17786117.35,
+    "total_expense": 17788939.72,
+    "own_revenue_percentage": 17.9,
+    "transfers_revenue_percentage": 82.1,
+    "personnel_expense_percentage_rcl": 52.6
+  },
+  "per_capita_breakdown": {
+    "health": 941.6,
+    "education": 1094.8,
+    "urbanism": 492.1,
+    "administration": 483.5,
+    "legislative": 152.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3536.0,
+      "health_per_capita": 734.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3797.9,
+      "health_per_capita": 790.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4059.8,
+      "health_per_capita": 847.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4278.1,
+      "health_per_capita": 903.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4365.4,
+      "health_per_capita": 941.6
+    }
+  ]
+}

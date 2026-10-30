@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2601052",
+  "city_name": "Araçoiaba",
+  "uf": "PE",
+  "population": 19243,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 97708112.82,
+    "total_expense": 95619128.71,
+    "own_revenue_percentage": 14.9,
+    "transfers_revenue_percentage": 85.1,
+    "personnel_expense_percentage_rcl": 49.0
+  },
+  "per_capita_breakdown": {
+    "health": 1308.6,
+    "education": 1508.7,
+    "urbanism": 422.4,
+    "administration": 400.0,
+    "legislative": 97.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4024.9,
+      "health_per_capita": 1020.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4323.0,
+      "health_per_capita": 1099.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4621.2,
+      "health_per_capita": 1177.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4869.6,
+      "health_per_capita": 1256.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4969.0,
+      "health_per_capita": 1308.6
+    }
+  ]
+}

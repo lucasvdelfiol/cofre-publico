@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2200905",
+  "city_name": "Aroazes",
+  "uf": "PI",
+  "population": 5369,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 26004000.02,
+    "total_expense": 26119379.66,
+    "own_revenue_percentage": 9.7,
+    "transfers_revenue_percentage": 90.3,
+    "personnel_expense_percentage_rcl": 46.3
+  },
+  "per_capita_breakdown": {
+    "health": 1329.2,
+    "education": 1235.3,
+    "urbanism": 543.6,
+    "administration": 303.7,
+    "legislative": 147.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3940.6,
+      "health_per_capita": 1036.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4232.5,
+      "health_per_capita": 1116.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4524.4,
+      "health_per_capita": 1196.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4767.6,
+      "health_per_capita": 1276.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4864.9,
+      "health_per_capita": 1329.2
+    }
+  ]
+}

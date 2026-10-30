@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3548500",
+  "city_name": "Santos",
+  "uf": "SP",
+  "population": 418608,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 2323105634.91,
+    "total_expense": 2298523022.89,
+    "own_revenue_percentage": 46.1,
+    "transfers_revenue_percentage": 53.9,
+    "personnel_expense_percentage_rcl": 51.1
+  },
+  "per_capita_breakdown": {
+    "health": 1532.4,
+    "education": 1554.2,
+    "urbanism": 540.9,
+    "administration": 412.9,
+    "legislative": 154.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4447.6,
+      "health_per_capita": 1195.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4777.1,
+      "health_per_capita": 1287.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5106.5,
+      "health_per_capita": 1379.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5381.1,
+      "health_per_capita": 1471.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5490.9,
+      "health_per_capita": 1532.4
+    }
+  ]
+}

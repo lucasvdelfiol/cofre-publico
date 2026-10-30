@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2409332",
+  "city_name": "Santa Maria",
+  "uf": "RN",
+  "population": 4847,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 24680716.24,
+    "total_expense": 24506466.0,
+    "own_revenue_percentage": 15.6,
+    "transfers_revenue_percentage": 84.4,
+    "personnel_expense_percentage_rcl": 46.0
+  },
+  "per_capita_breakdown": {
+    "health": 1192.4,
+    "education": 1470.3,
+    "urbanism": 509.3,
+    "administration": 458.1,
+    "legislative": 172.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4095.4,
+      "health_per_capita": 930.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4398.7,
+      "health_per_capita": 1001.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4702.1,
+      "health_per_capita": 1073.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4954.9,
+      "health_per_capita": 1144.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5056.0,
+      "health_per_capita": 1192.4
+    }
+  ]
+}

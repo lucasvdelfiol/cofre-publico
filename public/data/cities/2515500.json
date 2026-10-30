@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2515500",
+  "city_name": "Serra Branca",
+  "uf": "PB",
+  "population": 13614,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 76590179.56,
+    "total_expense": 75932585.24,
+    "own_revenue_percentage": 18.0,
+    "transfers_revenue_percentage": 82.0,
+    "personnel_expense_percentage_rcl": 52.7
+  },
+  "per_capita_breakdown": {
+    "health": 1268.3,
+    "education": 1516.4,
+    "urbanism": 703.5,
+    "administration": 620.6,
+    "legislative": 140.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4517.8,
+      "health_per_capita": 989.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4852.4,
+      "health_per_capita": 1065.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5187.1,
+      "health_per_capita": 1141.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5465.9,
+      "health_per_capita": 1217.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5577.5,
+      "health_per_capita": 1268.3
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3505807",
+  "city_name": "Bastos",
+  "uf": "SP",
+  "population": 21503,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 98063857.57,
+    "total_expense": 96784297.8,
+    "own_revenue_percentage": 23.7,
+    "transfers_revenue_percentage": 76.3,
+    "personnel_expense_percentage_rcl": 47.5
+  },
+  "per_capita_breakdown": {
+    "health": 906.4,
+    "education": 1147.0,
+    "urbanism": 447.0,
+    "administration": 281.7,
+    "legislative": 71.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3645.8,
+      "health_per_capita": 707.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3915.9,
+      "health_per_capita": 761.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4185.9,
+      "health_per_capita": 815.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4411.0,
+      "health_per_capita": 870.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4501.0,
+      "health_per_capita": 906.4
+    }
+  ]
+}

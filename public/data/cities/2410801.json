@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2410801",
+  "city_name": "Riacho de Santana",
+  "uf": "RN",
+  "population": 4127,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 18473990.06,
+    "total_expense": 18202682.53,
+    "own_revenue_percentage": 15.8,
+    "transfers_revenue_percentage": 84.2,
+    "personnel_expense_percentage_rcl": 48.9
+  },
+  "per_capita_breakdown": {
+    "health": 1117.3,
+    "education": 1292.0,
+    "urbanism": 537.8,
+    "administration": 265.7,
+    "legislative": 67.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3572.6,
+      "health_per_capita": 871.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3837.2,
+      "health_per_capita": 938.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4101.9,
+      "health_per_capita": 1005.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4322.4,
+      "health_per_capita": 1072.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4410.6,
+      "health_per_capita": 1117.3
+    }
+  ]
+}

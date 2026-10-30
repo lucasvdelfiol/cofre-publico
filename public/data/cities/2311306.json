@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2311306",
+  "city_name": "Quixadá",
+  "uf": "CE",
+  "population": 84168,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 364091597.18,
+    "total_expense": 367617419.16,
+    "own_revenue_percentage": 37.2,
+    "transfers_revenue_percentage": 62.8,
+    "personnel_expense_percentage_rcl": 47.8
+  },
+  "per_capita_breakdown": {
+    "health": 877.1,
+    "education": 1048.5,
+    "urbanism": 460.7,
+    "administration": 478.8,
+    "legislative": 135.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3537.8,
+      "health_per_capita": 684.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3799.9,
+      "health_per_capita": 736.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4062.0,
+      "health_per_capita": 789.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4280.3,
+      "health_per_capita": 842.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4367.7,
+      "health_per_capita": 877.1
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4305959",
+  "city_name": "Cotiporã",
+  "uf": "RS",
+  "population": 3846,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 20383459.56,
+    "total_expense": 19792226.61,
+    "own_revenue_percentage": 10.7,
+    "transfers_revenue_percentage": 89.3,
+    "personnel_expense_percentage_rcl": 51.5
+  },
+  "per_capita_breakdown": {
+    "health": 1164.6,
+    "education": 1419.7,
+    "urbanism": 462.2,
+    "administration": 321.0,
+    "legislative": 105.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4168.4,
+      "health_per_capita": 908.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4477.2,
+      "health_per_capita": 978.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4786.0,
+      "health_per_capita": 1048.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5043.3,
+      "health_per_capita": 1118.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5146.2,
+      "health_per_capita": 1164.6
+    }
+  ]
+}

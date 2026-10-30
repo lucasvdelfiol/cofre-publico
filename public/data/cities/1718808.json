@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1718808",
+  "city_name": "Sampaio",
+  "uf": "TO",
+  "population": 4215,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 19311585.83,
+    "total_expense": 18759985.63,
+    "own_revenue_percentage": 11.0,
+    "transfers_revenue_percentage": 89.0,
+    "personnel_expense_percentage_rcl": 47.1
+  },
+  "per_capita_breakdown": {
+    "health": 1074.2,
+    "education": 1316.9,
+    "urbanism": 488.2,
+    "administration": 328.6,
+    "legislative": 125.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3605.1,
+      "health_per_capita": 837.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3872.2,
+      "health_per_capita": 902.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4139.2,
+      "health_per_capita": 966.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4361.8,
+      "health_per_capita": 1031.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4450.8,
+      "health_per_capita": 1074.2
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4316758",
+  "city_name": "Santa Clara do Sul",
+  "uf": "RS",
+  "population": 6887,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 32071753.93,
+    "total_expense": 30937698.98,
+    "own_revenue_percentage": 8.6,
+    "transfers_revenue_percentage": 91.4,
+    "personnel_expense_percentage_rcl": 49.7
+  },
+  "per_capita_breakdown": {
+    "health": 1199.6,
+    "education": 1156.3,
+    "urbanism": 449.3,
+    "administration": 492.4,
+    "legislative": 142.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3638.7,
+      "health_per_capita": 935.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3908.2,
+      "health_per_capita": 1007.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4177.7,
+      "health_per_capita": 1079.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4402.4,
+      "health_per_capita": 1151.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4492.2,
+      "health_per_capita": 1199.6
+    }
+  ]
+}

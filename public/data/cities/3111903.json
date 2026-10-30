@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3111903",
+  "city_name": "Cana Verde",
+  "uf": "MG",
+  "population": 5272,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 28920605.46,
+    "total_expense": 28753190.04,
+    "own_revenue_percentage": 17.0,
+    "transfers_revenue_percentage": 83.0,
+    "personnel_expense_percentage_rcl": 52.9
+  },
+  "per_capita_breakdown": {
+    "health": 1488.0,
+    "education": 1369.4,
+    "urbanism": 600.0,
+    "administration": 350.7,
+    "legislative": 182.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4417.7,
+      "health_per_capita": 1160.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4744.9,
+      "health_per_capita": 1249.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5072.1,
+      "health_per_capita": 1339.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5344.8,
+      "health_per_capita": 1428.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5453.9,
+      "health_per_capita": 1488.0
+    }
+  ]
+}

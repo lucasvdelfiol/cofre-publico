@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4305173",
+  "city_name": "Cerro Grande do Sul",
+  "uf": "RS",
+  "population": 9178,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 50395360.12,
+    "total_expense": 49428548.47,
+    "own_revenue_percentage": 16.8,
+    "transfers_revenue_percentage": 83.2,
+    "personnel_expense_percentage_rcl": 45.7
+  },
+  "per_capita_breakdown": {
+    "health": 1302.9,
+    "education": 1603.5,
+    "urbanism": 475.8,
+    "administration": 392.9,
+    "legislative": 91.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4362.3,
+      "health_per_capita": 1016.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4685.4,
+      "health_per_capita": 1094.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5008.5,
+      "health_per_capita": 1172.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5277.8,
+      "health_per_capita": 1250.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5385.5,
+      "health_per_capita": 1302.9
+    }
+  ]
+}

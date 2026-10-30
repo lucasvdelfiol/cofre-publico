@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2203008",
+  "city_name": "Cristalândia do Piauí",
+  "uf": "PI",
+  "population": 7356,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 36757639.56,
+    "total_expense": 35865162.04,
+    "own_revenue_percentage": 15.6,
+    "transfers_revenue_percentage": 84.4,
+    "personnel_expense_percentage_rcl": 48.5
+  },
+  "per_capita_breakdown": {
+    "health": 1031.2,
+    "education": 1397.0,
+    "urbanism": 555.3,
+    "administration": 476.5,
+    "legislative": 131.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3949.2,
+      "health_per_capita": 804.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4241.8,
+      "health_per_capita": 866.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4534.3,
+      "health_per_capita": 928.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4778.1,
+      "health_per_capita": 990.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4875.6,
+      "health_per_capita": 1031.2
+    }
+  ]
+}

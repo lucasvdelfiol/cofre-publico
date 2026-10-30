@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3551207",
+  "city_name": "Sarutaiá",
+  "uf": "SP",
+  "population": 3704,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 17903186.48,
+    "total_expense": 18000936.9,
+    "own_revenue_percentage": 20.1,
+    "transfers_revenue_percentage": 79.9,
+    "personnel_expense_percentage_rcl": 52.0
+  },
+  "per_capita_breakdown": {
+    "health": 1075.7,
+    "education": 1401.0,
+    "urbanism": 515.9,
+    "administration": 567.1,
+    "legislative": 110.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3936.5,
+      "health_per_capita": 839.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4228.1,
+      "health_per_capita": 903.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4519.7,
+      "health_per_capita": 968.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4762.7,
+      "health_per_capita": 1032.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4859.9,
+      "health_per_capita": 1075.7
+    }
+  ]
+}

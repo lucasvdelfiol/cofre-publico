@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3203601",
+  "city_name": "Mucurici",
+  "uf": "ES",
+  "population": 5466,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 26989455.58,
+    "total_expense": 26203205.01,
+    "own_revenue_percentage": 19.2,
+    "transfers_revenue_percentage": 80.8,
+    "personnel_expense_percentage_rcl": 53.5
+  },
+  "per_capita_breakdown": {
+    "health": 1163.1,
+    "education": 1532.5,
+    "urbanism": 509.5,
+    "administration": 319.3,
+    "legislative": 96.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3883.1,
+      "health_per_capita": 907.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4170.7,
+      "health_per_capita": 977.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4458.3,
+      "health_per_capita": 1046.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4698.0,
+      "health_per_capita": 1116.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4793.9,
+      "health_per_capita": 1163.1
+    }
+  ]
+}

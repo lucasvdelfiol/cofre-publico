@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1101807",
+  "city_name": "Vale do Paraíso",
+  "uf": "RO",
+  "population": 6479,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 30001293.51,
+    "total_expense": 30268908.28,
+    "own_revenue_percentage": 9.3,
+    "transfers_revenue_percentage": 90.7,
+    "personnel_expense_percentage_rcl": 51.7
+  },
+  "per_capita_breakdown": {
+    "health": 1101.9,
+    "education": 1435.0,
+    "urbanism": 611.7,
+    "administration": 280.4,
+    "legislative": 93.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3784.2,
+      "health_per_capita": 859.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4064.5,
+      "health_per_capita": 925.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4344.8,
+      "health_per_capita": 991.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4578.4,
+      "health_per_capita": 1057.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4671.8,
+      "health_per_capita": 1101.9
+    }
+  ]
+}

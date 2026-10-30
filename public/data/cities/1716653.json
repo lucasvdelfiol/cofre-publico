@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1716653",
+  "city_name": "Pequizeiro",
+  "uf": "TO",
+  "population": 4921,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 25740818.56,
+    "total_expense": 25037613.68,
+    "own_revenue_percentage": 11.8,
+    "transfers_revenue_percentage": 88.2,
+    "personnel_expense_percentage_rcl": 46.6
+  },
+  "per_capita_breakdown": {
+    "health": 1395.7,
+    "education": 1252.0,
+    "urbanism": 791.8,
+    "administration": 518.7,
+    "legislative": 124.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4121.2,
+      "health_per_capita": 1088.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4426.5,
+      "health_per_capita": 1172.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4731.7,
+      "health_per_capita": 1256.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4986.1,
+      "health_per_capita": 1339.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5087.9,
+      "health_per_capita": 1395.7
+    }
+  ]
+}

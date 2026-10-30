@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2905503",
+  "city_name": "Caldeirão Grande",
+  "uf": "BA",
+  "population": 13080,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 68270421.86,
+    "total_expense": 68791921.39,
+    "own_revenue_percentage": 8.2,
+    "transfers_revenue_percentage": 91.8,
+    "personnel_expense_percentage_rcl": 47.5
+  },
+  "per_capita_breakdown": {
+    "health": 1356.7,
+    "education": 1510.3,
+    "urbanism": 788.1,
+    "administration": 407.6,
+    "legislative": 104.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4260.0,
+      "health_per_capita": 1058.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4575.6,
+      "health_per_capita": 1139.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4891.1,
+      "health_per_capita": 1221.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5154.1,
+      "health_per_capita": 1302.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5259.3,
+      "health_per_capita": 1356.7
+    }
+  ]
+}

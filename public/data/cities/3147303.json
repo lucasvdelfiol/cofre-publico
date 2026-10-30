@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3147303",
+  "city_name": "Paraisópolis",
+  "uf": "MG",
+  "population": 20445,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 95709432.05,
+    "total_expense": 94950525.6,
+    "own_revenue_percentage": 23.6,
+    "transfers_revenue_percentage": 76.4,
+    "personnel_expense_percentage_rcl": 50.3
+  },
+  "per_capita_breakdown": {
+    "health": 1003.3,
+    "education": 1279.1,
+    "urbanism": 706.2,
+    "administration": 305.9,
+    "legislative": 129.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3761.8,
+      "health_per_capita": 782.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4040.5,
+      "health_per_capita": 842.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4319.1,
+      "health_per_capita": 903.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4551.3,
+      "health_per_capita": 963.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4644.2,
+      "health_per_capita": 1003.3
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5204250",
+  "city_name": "Cachoeira Dourada",
+  "uf": "GO",
+  "population": 7782,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 39174666.75,
+    "total_expense": 39352568.11,
+    "own_revenue_percentage": 14.0,
+    "transfers_revenue_percentage": 86.0,
+    "personnel_expense_percentage_rcl": 53.5
+  },
+  "per_capita_breakdown": {
+    "health": 1105.1,
+    "education": 1483.7,
+    "urbanism": 751.9,
+    "administration": 556.9,
+    "legislative": 116.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4096.1,
+      "health_per_capita": 862.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4399.5,
+      "health_per_capita": 928.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4702.9,
+      "health_per_capita": 994.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4955.8,
+      "health_per_capita": 1060.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5056.9,
+      "health_per_capita": 1105.1
+    }
+  ]
+}

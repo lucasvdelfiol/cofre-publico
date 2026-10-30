@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2911808",
+  "city_name": "Guaratinga",
+  "uf": "BA",
+  "population": 19049,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 89056336.56,
+    "total_expense": 85870762.86,
+    "own_revenue_percentage": 16.1,
+    "transfers_revenue_percentage": 83.9,
+    "personnel_expense_percentage_rcl": 49.0
+  },
+  "per_capita_breakdown": {
+    "health": 1084.6,
+    "education": 1408.1,
+    "urbanism": 515.8,
+    "administration": 357.9,
+    "legislative": 83.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3651.4,
+      "health_per_capita": 846.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3921.9,
+      "health_per_capita": 911.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4192.3,
+      "health_per_capita": 976.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4417.7,
+      "health_per_capita": 1041.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4507.9,
+      "health_per_capita": 1084.6
+    }
+  ]
+}

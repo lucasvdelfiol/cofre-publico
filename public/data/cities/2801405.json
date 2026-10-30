@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2801405",
+  "city_name": "Carira",
+  "uf": "SE",
+  "population": 19939,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 86294989.59,
+    "total_expense": 86983812.41,
+    "own_revenue_percentage": 11.2,
+    "transfers_revenue_percentage": 88.8,
+    "personnel_expense_percentage_rcl": 48.1
+  },
+  "per_capita_breakdown": {
+    "health": 1184.8,
+    "education": 1102.6,
+    "urbanism": 696.2,
+    "administration": 293.1,
+    "legislative": 119.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3533.6,
+      "health_per_capita": 924.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3795.4,
+      "health_per_capita": 995.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4057.1,
+      "health_per_capita": 1066.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4275.2,
+      "health_per_capita": 1137.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4362.5,
+      "health_per_capita": 1184.8
+    }
+  ]
+}

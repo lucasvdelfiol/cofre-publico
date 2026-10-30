@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4300406",
+  "city_name": "Alegrete",
+  "uf": "RS",
+  "population": 72409,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 321801340.77,
+    "total_expense": 325040775.5,
+    "own_revenue_percentage": 36.4,
+    "transfers_revenue_percentage": 63.6,
+    "personnel_expense_percentage_rcl": 48.2
+  },
+  "per_capita_breakdown": {
+    "health": 907.8,
+    "education": 1175.6,
+    "urbanism": 603.1,
+    "administration": 319.4,
+    "legislative": 76.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3636.1,
+      "health_per_capita": 708.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3905.4,
+      "health_per_capita": 762.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4174.8,
+      "health_per_capita": 817.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4399.2,
+      "health_per_capita": 871.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4489.0,
+      "health_per_capita": 907.8
+    }
+  ]
+}

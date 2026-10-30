@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3126307",
+  "city_name": "Fortaleza de Minas",
+  "uf": "MG",
+  "population": 3477,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 18384975.4,
+    "total_expense": 18460793.0,
+    "own_revenue_percentage": 17.0,
+    "transfers_revenue_percentage": 83.0,
+    "personnel_expense_percentage_rcl": 49.3
+  },
+  "per_capita_breakdown": {
+    "health": 1462.2,
+    "education": 1599.7,
+    "urbanism": 769.7,
+    "administration": 323.2,
+    "legislative": 92.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4300.6,
+      "health_per_capita": 1140.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4619.2,
+      "health_per_capita": 1228.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4937.7,
+      "health_per_capita": 1316.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5203.2,
+      "health_per_capita": 1403.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5309.4,
+      "health_per_capita": 1462.2
+    }
+  ]
+}

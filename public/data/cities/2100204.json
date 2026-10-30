@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2100204",
+  "city_name": "Alcântara",
+  "uf": "MA",
+  "population": 18467,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 88304753.63,
+    "total_expense": 85321676.78,
+    "own_revenue_percentage": 13.1,
+    "transfers_revenue_percentage": 86.9,
+    "personnel_expense_percentage_rcl": 50.4
+  },
+  "per_capita_breakdown": {
+    "health": 1078.5,
+    "education": 1157.4,
+    "urbanism": 641.3,
+    "administration": 460.7,
+    "legislative": 109.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3742.4,
+      "health_per_capita": 841.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4019.6,
+      "health_per_capita": 905.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4296.8,
+      "health_per_capita": 970.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4527.8,
+      "health_per_capita": 1035.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4620.2,
+      "health_per_capita": 1078.5
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4319372",
+  "city_name": "São Pedro do Butiá",
+  "uf": "RS",
+  "population": 3070,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 15003164.36,
+    "total_expense": 15129199.29,
+    "own_revenue_percentage": 20.3,
+    "transfers_revenue_percentage": 79.7,
+    "personnel_expense_percentage_rcl": 50.5
+  },
+  "per_capita_breakdown": {
+    "health": 1164.4,
+    "education": 1542.4,
+    "urbanism": 500.3,
+    "administration": 494.3,
+    "legislative": 131.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3991.8,
+      "health_per_capita": 908.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4287.4,
+      "health_per_capita": 978.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4583.1,
+      "health_per_capita": 1048.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4829.5,
+      "health_per_capita": 1117.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4928.1,
+      "health_per_capita": 1164.4
+    }
+  ]
+}

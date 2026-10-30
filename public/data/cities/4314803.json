@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4314803",
+  "city_name": "Portão",
+  "uf": "RS",
+  "population": 34071,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 153188645.05,
+    "total_expense": 148957210.78,
+    "own_revenue_percentage": 31.2,
+    "transfers_revenue_percentage": 68.8,
+    "personnel_expense_percentage_rcl": 52.5
+  },
+  "per_capita_breakdown": {
+    "health": 1037.6,
+    "education": 1358.1,
+    "urbanism": 689.2,
+    "administration": 497.7,
+    "legislative": 72.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3541.3,
+      "health_per_capita": 809.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3803.6,
+      "health_per_capita": 871.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4066.0,
+      "health_per_capita": 933.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4284.6,
+      "health_per_capita": 996.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4372.0,
+      "health_per_capita": 1037.6
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2414100",
+  "city_name": "Tenente Ananias",
+  "uf": "RN",
+  "population": 10262,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 50876429.46,
+    "total_expense": 49119812.99,
+    "own_revenue_percentage": 17.8,
+    "transfers_revenue_percentage": 82.2,
+    "personnel_expense_percentage_rcl": 48.2
+  },
+  "per_capita_breakdown": {
+    "health": 1061.1,
+    "education": 1170.2,
+    "urbanism": 410.7,
+    "administration": 380.4,
+    "legislative": 150.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3877.1,
+      "health_per_capita": 827.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4164.3,
+      "health_per_capita": 891.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4451.5,
+      "health_per_capita": 955.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4690.9,
+      "health_per_capita": 1018.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4786.6,
+      "health_per_capita": 1061.1
+    }
+  ]
+}

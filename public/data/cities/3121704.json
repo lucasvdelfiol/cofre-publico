@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3121704",
+  "city_name": "Diogo de Vasconcelos",
+  "uf": "MG",
+  "population": 3549,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 19414183.86,
+    "total_expense": 19325664.94,
+    "own_revenue_percentage": 14.0,
+    "transfers_revenue_percentage": 86.0,
+    "personnel_expense_percentage_rcl": 46.1
+  },
+  "per_capita_breakdown": {
+    "health": 1459.1,
+    "education": 1379.7,
+    "urbanism": 784.2,
+    "administration": 501.5,
+    "legislative": 137.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4410.8,
+      "health_per_capita": 1138.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4737.5,
+      "health_per_capita": 1225.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5064.2,
+      "health_per_capita": 1313.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5336.5,
+      "health_per_capita": 1400.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5445.4,
+      "health_per_capita": 1459.1
+    }
+  ]
+}

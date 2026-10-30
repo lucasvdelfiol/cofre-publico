@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1716208",
+  "city_name": "Paranã",
+  "uf": "TO",
+  "population": 10542,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 55910097.36,
+    "total_expense": 56397776.9,
+    "own_revenue_percentage": 21.5,
+    "transfers_revenue_percentage": 78.5,
+    "personnel_expense_percentage_rcl": 46.3
+  },
+  "per_capita_breakdown": {
+    "health": 1356.9,
+    "education": 1435.5,
+    "urbanism": 819.9,
+    "administration": 404.5,
+    "legislative": 150.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4333.3,
+      "health_per_capita": 1058.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4654.3,
+      "health_per_capita": 1139.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4975.3,
+      "health_per_capita": 1221.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5242.8,
+      "health_per_capita": 1302.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5349.8,
+      "health_per_capita": 1356.9
+    }
+  ]
+}

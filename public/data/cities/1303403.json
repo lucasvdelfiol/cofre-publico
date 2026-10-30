@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1303403",
+  "city_name": "Parintins",
+  "uf": "AM",
+  "population": 96372,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 498464107.33,
+    "total_expense": 489803383.58,
+    "own_revenue_percentage": 36.6,
+    "transfers_revenue_percentage": 63.4,
+    "personnel_expense_percentage_rcl": 46.6
+  },
+  "per_capita_breakdown": {
+    "health": 1272.7,
+    "education": 1492.6,
+    "urbanism": 638.7,
+    "administration": 559.8,
+    "legislative": 169.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4116.7,
+      "health_per_capita": 992.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4421.7,
+      "health_per_capita": 1069.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4726.6,
+      "health_per_capita": 1145.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4980.8,
+      "health_per_capita": 1221.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5082.4,
+      "health_per_capita": 1272.7
+    }
+  ]
+}

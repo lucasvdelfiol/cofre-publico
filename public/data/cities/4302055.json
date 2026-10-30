@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4302055",
+  "city_name": "Benjamin Constant do Sul",
+  "uf": "RS",
+  "population": 2082,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 9697269.31,
+    "total_expense": 9446318.68,
+    "own_revenue_percentage": 9.3,
+    "transfers_revenue_percentage": 90.7,
+    "personnel_expense_percentage_rcl": 47.9
+  },
+  "per_capita_breakdown": {
+    "health": 1244.0,
+    "education": 1293.4,
+    "urbanism": 576.3,
+    "administration": 299.1,
+    "legislative": 94.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3675.1,
+      "health_per_capita": 970.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3947.3,
+      "health_per_capita": 1045.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4219.5,
+      "health_per_capita": 1119.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4446.4,
+      "health_per_capita": 1194.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4537.1,
+      "health_per_capita": 1244.0
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3135308",
+  "city_name": "Japaraíba",
+  "uf": "MG",
+  "population": 4506,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 22181454.8,
+    "total_expense": 21782299.75,
+    "own_revenue_percentage": 18.1,
+    "transfers_revenue_percentage": 81.9,
+    "personnel_expense_percentage_rcl": 50.7
+  },
+  "per_capita_breakdown": {
+    "health": 993.3,
+    "education": 1357.4,
+    "urbanism": 514.7,
+    "administration": 467.2,
+    "legislative": 73.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3915.6,
+      "health_per_capita": 774.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4205.7,
+      "health_per_capita": 834.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4495.7,
+      "health_per_capita": 894.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4737.4,
+      "health_per_capita": 953.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4834.1,
+      "health_per_capita": 993.3
+    }
+  ]
+}

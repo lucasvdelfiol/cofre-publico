@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3535200",
+  "city_name": "Palmeira d'Oeste",
+  "uf": "SP",
+  "population": 8903,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 50021654.8,
+    "total_expense": 48444832.45,
+    "own_revenue_percentage": 17.5,
+    "transfers_revenue_percentage": 82.5,
+    "personnel_expense_percentage_rcl": 53.0
+  },
+  "per_capita_breakdown": {
+    "health": 1402.1,
+    "education": 1398.0,
+    "urbanism": 748.1,
+    "administration": 360.4,
+    "legislative": 178.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4407.5,
+      "health_per_capita": 1093.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4734.0,
+      "health_per_capita": 1177.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5060.5,
+      "health_per_capita": 1261.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5332.6,
+      "health_per_capita": 1346.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5441.4,
+      "health_per_capita": 1402.1
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3527702",
+  "city_name": "Luiziânia",
+  "uf": "SP",
+  "population": 4701,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 24604438.45,
+    "total_expense": 24110571.06,
+    "own_revenue_percentage": 8.9,
+    "transfers_revenue_percentage": 91.1,
+    "personnel_expense_percentage_rcl": 49.2
+  },
+  "per_capita_breakdown": {
+    "health": 1297.4,
+    "education": 1244.7,
+    "urbanism": 446.3,
+    "administration": 358.5,
+    "legislative": 109.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4154.3,
+      "health_per_capita": 1012.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4462.1,
+      "health_per_capita": 1089.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4769.8,
+      "health_per_capita": 1167.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5026.2,
+      "health_per_capita": 1245.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5128.8,
+      "health_per_capita": 1297.4
+    }
+  ]
+}

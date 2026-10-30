@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2502151",
+  "city_name": "Boa Vista",
+  "uf": "PB",
+  "population": 6377,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 33656263.95,
+    "total_expense": 33726505.4,
+    "own_revenue_percentage": 15.0,
+    "transfers_revenue_percentage": 85.0,
+    "personnel_expense_percentage_rcl": 47.2
+  },
+  "per_capita_breakdown": {
+    "health": 1164.9,
+    "education": 1692.2,
+    "urbanism": 551.0,
+    "administration": 465.1,
+    "legislative": 126.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4283.9,
+      "health_per_capita": 908.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4601.3,
+      "health_per_capita": 978.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4918.6,
+      "health_per_capita": 1048.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5183.0,
+      "health_per_capita": 1118.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5288.8,
+      "health_per_capita": 1164.9
+    }
+  ]
+}

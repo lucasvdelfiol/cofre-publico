@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3520905",
+  "city_name": "Ipaussu",
+  "uf": "SP",
+  "population": 13712,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 63703456.09,
+    "total_expense": 63047951.01,
+    "own_revenue_percentage": 15.3,
+    "transfers_revenue_percentage": 84.7,
+    "personnel_expense_percentage_rcl": 51.8
+  },
+  "per_capita_breakdown": {
+    "health": 1056.6,
+    "education": 1378.7,
+    "urbanism": 582.8,
+    "administration": 540.9,
+    "legislative": 129.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3724.4,
+      "health_per_capita": 824.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4000.3,
+      "health_per_capita": 887.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4276.1,
+      "health_per_capita": 950.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4506.0,
+      "health_per_capita": 1014.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4598.0,
+      "health_per_capita": 1056.6
+    }
+  ]
+}

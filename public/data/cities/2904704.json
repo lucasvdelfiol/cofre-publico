@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2904704",
+  "city_name": "Buerarema",
+  "uf": "BA",
+  "population": 14804,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 70028750.05,
+    "total_expense": 70174061.97,
+    "own_revenue_percentage": 20.1,
+    "transfers_revenue_percentage": 79.9,
+    "personnel_expense_percentage_rcl": 47.5
+  },
+  "per_capita_breakdown": {
+    "health": 1295.9,
+    "education": 1224.6,
+    "urbanism": 642.2,
+    "administration": 449.9,
+    "legislative": 102.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3839.6,
+      "health_per_capita": 1010.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4124.0,
+      "health_per_capita": 1088.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4408.4,
+      "health_per_capita": 1166.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4645.4,
+      "health_per_capita": 1244.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4740.2,
+      "health_per_capita": 1295.9
+    }
+  ]
+}

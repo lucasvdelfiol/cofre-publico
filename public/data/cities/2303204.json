@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2303204",
+  "city_name": "Caririaçu",
+  "uf": "CE",
+  "population": 26320,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 118327091.96,
+    "total_expense": 113932405.62,
+    "own_revenue_percentage": 18.8,
+    "transfers_revenue_percentage": 81.2,
+    "personnel_expense_percentage_rcl": 50.1
+  },
+  "per_capita_breakdown": {
+    "health": 957.5,
+    "education": 1298.9,
+    "urbanism": 363.6,
+    "administration": 277.3,
+    "legislative": 98.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3506.2,
+      "health_per_capita": 746.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3766.0,
+      "health_per_capita": 804.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4025.7,
+      "health_per_capita": 861.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4242.1,
+      "health_per_capita": 919.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4328.7,
+      "health_per_capita": 957.5
+    }
+  ]
+}

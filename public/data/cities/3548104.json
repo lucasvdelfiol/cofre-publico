@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3548104",
+  "city_name": "Santo Antônio do Jardim",
+  "uf": "SP",
+  "population": 6126,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 27382473.87,
+    "total_expense": 27576539.51,
+    "own_revenue_percentage": 20.1,
+    "transfers_revenue_percentage": 79.9,
+    "personnel_expense_percentage_rcl": 49.9
+  },
+  "per_capita_breakdown": {
+    "health": 910.5,
+    "education": 1084.5,
+    "urbanism": 379.5,
+    "administration": 455.2,
+    "legislative": 96.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3646.3,
+      "health_per_capita": 710.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3916.4,
+      "health_per_capita": 764.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4186.5,
+      "health_per_capita": 819.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4411.6,
+      "health_per_capita": 874.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4501.6,
+      "health_per_capita": 910.5
+    }
+  ]
+}

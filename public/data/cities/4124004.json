@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4124004",
+  "city_name": "Santana do Itararé",
+  "uf": "PR",
+  "population": 5514,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 30391456.32,
+    "total_expense": 29646940.5,
+    "own_revenue_percentage": 8.8,
+    "transfers_revenue_percentage": 91.2,
+    "personnel_expense_percentage_rcl": 52.0
+  },
+  "per_capita_breakdown": {
+    "health": 1318.7,
+    "education": 1328.1,
+    "urbanism": 602.1,
+    "administration": 329.9,
+    "legislative": 132.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4355.1,
+      "health_per_capita": 1028.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4677.7,
+      "health_per_capita": 1107.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5000.3,
+      "health_per_capita": 1186.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5269.2,
+      "health_per_capita": 1266.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5376.7,
+      "health_per_capita": 1318.7
+    }
+  ]
+}

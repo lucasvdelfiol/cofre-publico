@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2402907",
+  "city_name": "Coronel João Pessoa",
+  "uf": "RN",
+  "population": 4237,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 19204482.36,
+    "total_expense": 19001632.65,
+    "own_revenue_percentage": 12.1,
+    "transfers_revenue_percentage": 87.9,
+    "personnel_expense_percentage_rcl": 46.6
+  },
+  "per_capita_breakdown": {
+    "health": 1188.0,
+    "education": 1371.7,
+    "urbanism": 496.4,
+    "administration": 325.8,
+    "legislative": 138.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3632.6,
+      "health_per_capita": 926.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3901.7,
+      "health_per_capita": 997.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4170.8,
+      "health_per_capita": 1069.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4395.0,
+      "health_per_capita": 1140.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4484.7,
+      "health_per_capita": 1188.0
+    }
+  ]
+}

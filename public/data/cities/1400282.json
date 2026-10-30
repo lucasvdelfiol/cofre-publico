@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1400282",
+  "city_name": "Iracema",
+  "uf": "RR",
+  "population": 10023,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 54221624.17,
+    "total_expense": 53657567.03,
+    "own_revenue_percentage": 15.5,
+    "transfers_revenue_percentage": 84.5,
+    "personnel_expense_percentage_rcl": 49.5
+  },
+  "per_capita_breakdown": {
+    "health": 1495.9,
+    "education": 1679.7,
+    "urbanism": 556.3,
+    "administration": 579.7,
+    "legislative": 108.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4336.3,
+      "health_per_capita": 1166.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4657.5,
+      "health_per_capita": 1256.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4978.7,
+      "health_per_capita": 1346.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5246.3,
+      "health_per_capita": 1436.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5353.4,
+      "health_per_capita": 1495.9
+    }
+  ]
+}

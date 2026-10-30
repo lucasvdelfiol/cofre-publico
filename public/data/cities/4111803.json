@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4111803",
+  "city_name": "Jacarezinho",
+  "uf": "PR",
+  "population": 40375,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 188116874.7,
+    "total_expense": 181048434.57,
+    "own_revenue_percentage": 18.4,
+    "transfers_revenue_percentage": 81.6,
+    "personnel_expense_percentage_rcl": 47.2
+  },
+  "per_capita_breakdown": {
+    "health": 1212.7,
+    "education": 1114.4,
+    "urbanism": 667.9,
+    "administration": 422.0,
+    "legislative": 148.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3632.2,
+      "health_per_capita": 945.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3901.3,
+      "health_per_capita": 1018.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4170.3,
+      "health_per_capita": 1091.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4394.5,
+      "health_per_capita": 1164.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4484.2,
+      "health_per_capita": 1212.7
+    }
+  ]
+}

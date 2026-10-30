@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4203303",
+  "city_name": "Campo Alegre",
+  "uf": "SC",
+  "population": 12501,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 60628804.96,
+    "total_expense": 59732086.24,
+    "own_revenue_percentage": 21.0,
+    "transfers_revenue_percentage": 79.0,
+    "personnel_expense_percentage_rcl": 52.7
+  },
+  "per_capita_breakdown": {
+    "health": 1275.8,
+    "education": 1248.6,
+    "urbanism": 439.8,
+    "administration": 452.6,
+    "legislative": 115.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3870.3,
+      "health_per_capita": 995.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4157.0,
+      "health_per_capita": 1071.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4443.7,
+      "health_per_capita": 1148.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4682.6,
+      "health_per_capita": 1224.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4778.2,
+      "health_per_capita": 1275.8
+    }
+  ]
+}

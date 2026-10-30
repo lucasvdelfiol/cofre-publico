@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3500709",
+  "city_name": "Agudos",
+  "uf": "SP",
+  "population": 37680,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 174594424.15,
+    "total_expense": 171749066.72,
+    "own_revenue_percentage": 27.1,
+    "transfers_revenue_percentage": 72.9,
+    "personnel_expense_percentage_rcl": 47.6
+  },
+  "per_capita_breakdown": {
+    "health": 1141.8,
+    "education": 1435.6,
+    "urbanism": 703.6,
+    "administration": 481.5,
+    "legislative": 126.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3692.1,
+      "health_per_capita": 890.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3965.5,
+      "health_per_capita": 959.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4239.0,
+      "health_per_capita": 1027.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4466.9,
+      "health_per_capita": 1096.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4558.1,
+      "health_per_capita": 1141.8
+    }
+  ]
+}

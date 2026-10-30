@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2501708",
+  "city_name": "Barra de São Miguel",
+  "uf": "PB",
+  "population": 5906,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 27213073.68,
+    "total_expense": 26606849.26,
+    "own_revenue_percentage": 11.8,
+    "transfers_revenue_percentage": 88.2,
+    "personnel_expense_percentage_rcl": 51.3
+  },
+  "per_capita_breakdown": {
+    "health": 908.2,
+    "education": 1096.7,
+    "urbanism": 377.7,
+    "administration": 509.4,
+    "legislative": 137.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3649.1,
+      "health_per_capita": 708.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3919.4,
+      "health_per_capita": 762.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4189.7,
+      "health_per_capita": 817.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4415.0,
+      "health_per_capita": 871.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4505.1,
+      "health_per_capita": 908.2
+    }
+  ]
+}

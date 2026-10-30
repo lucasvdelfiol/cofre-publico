@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4302220",
+  "city_name": "Boa Vista do Cadeado",
+  "uf": "RS",
+  "population": 2229,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 11500103.18,
+    "total_expense": 11393679.63,
+    "own_revenue_percentage": 13.7,
+    "transfers_revenue_percentage": 86.3,
+    "personnel_expense_percentage_rcl": 49.8
+  },
+  "per_capita_breakdown": {
+    "health": 1243.6,
+    "education": 1500.2,
+    "urbanism": 609.7,
+    "administration": 603.4,
+    "legislative": 87.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4140.4,
+      "health_per_capita": 970.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4447.1,
+      "health_per_capita": 1044.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4753.8,
+      "health_per_capita": 1119.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5009.4,
+      "health_per_capita": 1193.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5111.6,
+      "health_per_capita": 1243.6
+    }
+  ]
+}

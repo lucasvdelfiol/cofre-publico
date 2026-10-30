@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2513943",
+  "city_name": "São Domingos do Cariri",
+  "uf": "PB",
+  "population": 2585,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 14334208.8,
+    "total_expense": 14194058.82,
+    "own_revenue_percentage": 17.7,
+    "transfers_revenue_percentage": 82.3,
+    "personnel_expense_percentage_rcl": 47.3
+  },
+  "per_capita_breakdown": {
+    "health": 1254.6,
+    "education": 1675.2,
+    "urbanism": 517.4,
+    "administration": 544.6,
+    "legislative": 152.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4447.6,
+      "health_per_capita": 978.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4777.1,
+      "health_per_capita": 1053.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5106.5,
+      "health_per_capita": 1129.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5381.1,
+      "health_per_capita": 1204.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5490.9,
+      "health_per_capita": 1254.6
+    }
+  ]
+}

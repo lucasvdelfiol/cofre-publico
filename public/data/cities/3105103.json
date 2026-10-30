@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3105103",
+  "city_name": "Bambuí",
+  "uf": "MG",
+  "population": 23546,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 97001933.95,
+    "total_expense": 97763894.5,
+    "own_revenue_percentage": 24.5,
+    "transfers_revenue_percentage": 75.5,
+    "personnel_expense_percentage_rcl": 47.2
+  },
+  "per_capita_breakdown": {
+    "health": 958.4,
+    "education": 1305.1,
+    "urbanism": 421.3,
+    "administration": 394.9,
+    "legislative": 126.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3363.1,
+      "health_per_capita": 747.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3612.2,
+      "health_per_capita": 805.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3861.4,
+      "health_per_capita": 862.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4069.0,
+      "health_per_capita": 920.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4152.0,
+      "health_per_capita": 958.4
+    }
+  ]
+}

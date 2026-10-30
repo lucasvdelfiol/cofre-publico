@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4127403",
+  "city_name": "Terra Roxa",
+  "uf": "PR",
+  "population": 18119,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 86269406.99,
+    "total_expense": 85174757.1,
+    "own_revenue_percentage": 15.5,
+    "transfers_revenue_percentage": 84.5,
+    "personnel_expense_percentage_rcl": 48.6
+  },
+  "per_capita_breakdown": {
+    "health": 1266.5,
+    "education": 1431.3,
+    "urbanism": 676.0,
+    "administration": 395.8,
+    "legislative": 159.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3807.7,
+      "health_per_capita": 987.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4089.8,
+      "health_per_capita": 1063.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4371.8,
+      "health_per_capita": 1139.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4606.9,
+      "health_per_capita": 1215.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4700.9,
+      "health_per_capita": 1266.5
+    }
+  ]
+}

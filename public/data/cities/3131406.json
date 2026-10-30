@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3131406",
+  "city_name": "Ipiaçu",
+  "uf": "MG",
+  "population": 3775,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 20959218.66,
+    "total_expense": 20986625.46,
+    "own_revenue_percentage": 13.8,
+    "transfers_revenue_percentage": 86.2,
+    "personnel_expense_percentage_rcl": 49.4
+  },
+  "per_capita_breakdown": {
+    "health": 1214.1,
+    "education": 1462.3,
+    "urbanism": 738.2,
+    "administration": 654.5,
+    "legislative": 99.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4503.1,
+      "health_per_capita": 947.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4836.7,
+      "health_per_capita": 1019.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5170.2,
+      "health_per_capita": 1092.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5448.2,
+      "health_per_capita": 1165.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5559.4,
+      "health_per_capita": 1214.1
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2414209",
+  "city_name": "Tibau do Sul",
+  "uf": "RN",
+  "population": 16929,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 88210324.88,
+    "total_expense": 86992182.03,
+    "own_revenue_percentage": 14.4,
+    "transfers_revenue_percentage": 85.6,
+    "personnel_expense_percentage_rcl": 46.2
+  },
+  "per_capita_breakdown": {
+    "health": 1434.3,
+    "education": 1335.9,
+    "urbanism": 638.2,
+    "administration": 566.5,
+    "legislative": 139.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4162.3,
+      "health_per_capita": 1118.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4470.6,
+      "health_per_capita": 1204.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4778.9,
+      "health_per_capita": 1290.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5035.8,
+      "health_per_capita": 1376.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5138.6,
+      "health_per_capita": 1434.3
+    }
+  ]
+}

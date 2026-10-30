@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4322350",
+  "city_name": "União da Serra",
+  "uf": "RS",
+  "population": 1500,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 7937923.15,
+    "total_expense": 7934128.78,
+    "own_revenue_percentage": 9.7,
+    "transfers_revenue_percentage": 90.3,
+    "personnel_expense_percentage_rcl": 48.0
+  },
+  "per_capita_breakdown": {
+    "health": 1310.2,
+    "education": 1658.1,
+    "urbanism": 765.9,
+    "administration": 339.4,
+    "legislative": 146.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4284.4,
+      "health_per_capita": 1022.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4601.8,
+      "health_per_capita": 1100.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4919.1,
+      "health_per_capita": 1179.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5183.6,
+      "health_per_capita": 1257.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5289.4,
+      "health_per_capita": 1310.2
+    }
+  ]
+}

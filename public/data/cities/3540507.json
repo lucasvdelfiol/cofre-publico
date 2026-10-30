@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3540507",
+  "city_name": "Porangaba",
+  "uf": "SP",
+  "population": 10451,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 54762485.78,
+    "total_expense": 53383615.19,
+    "own_revenue_percentage": 10.7,
+    "transfers_revenue_percentage": 89.3,
+    "personnel_expense_percentage_rcl": 51.1
+  },
+  "per_capita_breakdown": {
+    "health": 1184.3,
+    "education": 1262.7,
+    "urbanism": 566.6,
+    "administration": 328.5,
+    "legislative": 97.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4137.5,
+      "health_per_capita": 923.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4444.0,
+      "health_per_capita": 994.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4750.4,
+      "health_per_capita": 1065.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5005.8,
+      "health_per_capita": 1136.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5108.0,
+      "health_per_capita": 1184.3
+    }
+  ]
+}

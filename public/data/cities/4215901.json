@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4215901",
+  "city_name": "São Bonifácio",
+  "uf": "SC",
+  "population": 2946,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 14068203.37,
+    "total_expense": 14135225.73,
+    "own_revenue_percentage": 17.4,
+    "transfers_revenue_percentage": 82.6,
+    "personnel_expense_percentage_rcl": 46.3
+  },
+  "per_capita_breakdown": {
+    "health": 1148.4,
+    "education": 1207.1,
+    "urbanism": 569.4,
+    "administration": 454.8,
+    "legislative": 90.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3886.5,
+      "health_per_capita": 895.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4174.3,
+      "health_per_capita": 964.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4462.2,
+      "health_per_capita": 1033.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4702.1,
+      "health_per_capita": 1102.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4798.1,
+      "health_per_capita": 1148.4
+    }
+  ]
+}

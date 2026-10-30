@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2929305",
+  "city_name": "São Gonçalo dos Campos",
+  "uf": "BA",
+  "population": 39513,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 171458724.85,
+    "total_expense": 168310826.18,
+    "own_revenue_percentage": 29.3,
+    "transfers_revenue_percentage": 70.7,
+    "personnel_expense_percentage_rcl": 47.3
+  },
+  "per_capita_breakdown": {
+    "health": 1145.7,
+    "education": 1340.1,
+    "urbanism": 368.2,
+    "administration": 333.5,
+    "legislative": 100.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3450.3,
+      "health_per_capita": 893.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3705.9,
+      "health_per_capita": 962.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3961.4,
+      "health_per_capita": 1031.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4174.4,
+      "health_per_capita": 1099.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4259.6,
+      "health_per_capita": 1145.7
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5200506",
+  "city_name": "Aloândia",
+  "uf": "GO",
+  "population": 1973,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 8847714.46,
+    "total_expense": 8603872.42,
+    "own_revenue_percentage": 8.9,
+    "transfers_revenue_percentage": 91.1,
+    "personnel_expense_percentage_rcl": 52.1
+  },
+  "per_capita_breakdown": {
+    "health": 1174.9,
+    "education": 1107.4,
+    "urbanism": 373.9,
+    "administration": 505.0,
+    "legislative": 136.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3532.2,
+      "health_per_capita": 916.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3793.9,
+      "health_per_capita": 986.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4055.5,
+      "health_per_capita": 1057.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4273.6,
+      "health_per_capita": 1127.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4360.8,
+      "health_per_capita": 1174.9
+    }
+  ]
+}

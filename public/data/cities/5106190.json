@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5106190",
+  "city_name": "Nova Santa Helena",
+  "uf": "MT",
+  "population": 4239,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 18772037.54,
+    "total_expense": 18343093.3,
+    "own_revenue_percentage": 13.7,
+    "transfers_revenue_percentage": 86.3,
+    "personnel_expense_percentage_rcl": 45.7
+  },
+  "per_capita_breakdown": {
+    "health": 1133.2,
+    "education": 1208.3,
+    "urbanism": 357.7,
+    "administration": 438.6,
+    "legislative": 113.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3505.0,
+      "health_per_capita": 883.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3764.7,
+      "health_per_capita": 951.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4024.3,
+      "health_per_capita": 1019.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4240.7,
+      "health_per_capita": 1087.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4327.2,
+      "health_per_capita": 1133.2
+    }
+  ]
+}

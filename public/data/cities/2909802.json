@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2909802",
+  "city_name": "Cruz das Almas",
+  "uf": "BA",
+  "population": 60348,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 295881817.44,
+    "total_expense": 294783402.79,
+    "own_revenue_percentage": 30.3,
+    "transfers_revenue_percentage": 69.7,
+    "personnel_expense_percentage_rcl": 51.6
+  },
+  "per_capita_breakdown": {
+    "health": 1172.7,
+    "education": 1503.7,
+    "urbanism": 569.1,
+    "administration": 397.5,
+    "legislative": 140.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3956.6,
+      "health_per_capita": 914.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4249.7,
+      "health_per_capita": 985.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4542.8,
+      "health_per_capita": 1055.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4787.0,
+      "health_per_capita": 1125.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4884.7,
+      "health_per_capita": 1172.7
+    }
+  ]
+}

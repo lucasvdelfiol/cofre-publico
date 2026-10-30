@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3521705",
+  "city_name": "Itaberá",
+  "uf": "SP",
+  "population": 17983,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 92056280.95,
+    "total_expense": 88730973.53,
+    "own_revenue_percentage": 17.3,
+    "transfers_revenue_percentage": 82.7,
+    "personnel_expense_percentage_rcl": 50.9
+  },
+  "per_capita_breakdown": {
+    "health": 1089.3,
+    "education": 1372.4,
+    "urbanism": 542.8,
+    "administration": 411.9,
+    "legislative": 122.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3996.7,
+      "health_per_capita": 849.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4292.8,
+      "health_per_capita": 915.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4588.8,
+      "health_per_capita": 980.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4835.5,
+      "health_per_capita": 1045.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4934.2,
+      "health_per_capita": 1089.3
+    }
+  ]
+}

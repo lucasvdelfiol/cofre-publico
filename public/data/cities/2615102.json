@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2615102",
+  "city_name": "Terezinha",
+  "uf": "PE",
+  "population": 6513,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 31929056.81,
+    "total_expense": 31981828.82,
+    "own_revenue_percentage": 9.5,
+    "transfers_revenue_percentage": 90.5,
+    "personnel_expense_percentage_rcl": 52.3
+  },
+  "per_capita_breakdown": {
+    "health": 988.7,
+    "education": 1306.0,
+    "urbanism": 681.4,
+    "administration": 487.8,
+    "legislative": 132.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3977.5,
+      "health_per_capita": 771.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4272.1,
+      "health_per_capita": 830.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4566.8,
+      "health_per_capita": 889.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4812.3,
+      "health_per_capita": 949.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4910.5,
+      "health_per_capita": 988.7
+    }
+  ]
+}

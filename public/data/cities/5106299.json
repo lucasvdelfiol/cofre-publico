@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5106299",
+  "city_name": "Paranaíta",
+  "uf": "MT",
+  "population": 11671,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 58849552.54,
+    "total_expense": 57292355.57,
+    "own_revenue_percentage": 15.7,
+    "transfers_revenue_percentage": 84.3,
+    "personnel_expense_percentage_rcl": 50.1
+  },
+  "per_capita_breakdown": {
+    "health": 1156.4,
+    "education": 1559.9,
+    "urbanism": 783.8,
+    "administration": 376.6,
+    "legislative": 168.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3976.3,
+      "health_per_capita": 902.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4270.8,
+      "health_per_capita": 971.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4565.4,
+      "health_per_capita": 1040.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4810.8,
+      "health_per_capita": 1110.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4909.0,
+      "health_per_capita": 1156.4
+    }
+  ]
+}

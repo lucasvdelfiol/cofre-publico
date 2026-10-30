@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2111706",
+  "city_name": "São Vicente Ferrer",
+  "uf": "MA",
+  "population": 19498,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 109301871.32,
+    "total_expense": 105451308.16,
+    "own_revenue_percentage": 17.5,
+    "transfers_revenue_percentage": 82.5,
+    "personnel_expense_percentage_rcl": 51.5
+  },
+  "per_capita_breakdown": {
+    "health": 1170.4,
+    "education": 1386.0,
+    "urbanism": 792.3,
+    "administration": 465.0,
+    "legislative": 150.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4380.7,
+      "health_per_capita": 912.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4705.2,
+      "health_per_capita": 983.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5029.7,
+      "health_per_capita": 1053.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5300.1,
+      "health_per_capita": 1123.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5408.3,
+      "health_per_capita": 1170.4
+    }
+  ]
+}

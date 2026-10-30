@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3556503",
+  "city_name": "Várzea Paulista",
+  "uf": "SP",
+  "population": 115771,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 583476117.3,
+    "total_expense": 565173796.97,
+    "own_revenue_percentage": 51.6,
+    "transfers_revenue_percentage": 48.4,
+    "personnel_expense_percentage_rcl": 47.1
+  },
+  "per_capita_breakdown": {
+    "health": 1354.3,
+    "education": 1550.2,
+    "urbanism": 622.2,
+    "administration": 436.5,
+    "legislative": 98.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3954.3,
+      "health_per_capita": 1056.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4247.2,
+      "health_per_capita": 1137.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4540.1,
+      "health_per_capita": 1218.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4784.2,
+      "health_per_capita": 1300.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4881.8,
+      "health_per_capita": 1354.3
+    }
+  ]
+}

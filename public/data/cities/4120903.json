@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4120903",
+  "city_name": "Quedas do Iguaçu",
+  "uf": "PR",
+  "population": 30738,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 129509048.97,
+    "total_expense": 127418780.22,
+    "own_revenue_percentage": 30.0,
+    "transfers_revenue_percentage": 70.0,
+    "personnel_expense_percentage_rcl": 50.2
+  },
+  "per_capita_breakdown": {
+    "health": 993.8,
+    "education": 1177.0,
+    "urbanism": 545.1,
+    "administration": 325.7,
+    "legislative": 81.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3357.7,
+      "health_per_capita": 775.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3606.4,
+      "health_per_capita": 834.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3855.1,
+      "health_per_capita": 894.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4062.4,
+      "health_per_capita": 954.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4145.3,
+      "health_per_capita": 993.8
+    }
+  ]
+}

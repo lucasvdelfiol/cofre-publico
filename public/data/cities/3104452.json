@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3104452",
+  "city_name": "Aricanduva",
+  "uf": "MG",
+  "population": 4719,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 25281692.39,
+    "total_expense": 24491341.26,
+    "own_revenue_percentage": 8.5,
+    "transfers_revenue_percentage": 91.5,
+    "personnel_expense_percentage_rcl": 53.6
+  },
+  "per_capita_breakdown": {
+    "health": 1338.7,
+    "education": 1269.3,
+    "urbanism": 536.2,
+    "administration": 334.6,
+    "legislative": 121.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4203.8,
+      "health_per_capita": 1044.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4515.2,
+      "health_per_capita": 1124.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4826.6,
+      "health_per_capita": 1204.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5086.1,
+      "health_per_capita": 1285.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5189.9,
+      "health_per_capita": 1338.7
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2208601",
+  "city_name": "Prata do Piauí",
+  "uf": "PI",
+  "population": 3042,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 15918945.32,
+    "total_expense": 15984260.78,
+    "own_revenue_percentage": 13.5,
+    "transfers_revenue_percentage": 86.5,
+    "personnel_expense_percentage_rcl": 52.3
+  },
+  "per_capita_breakdown": {
+    "health": 1171.8,
+    "education": 1659.1,
+    "urbanism": 665.8,
+    "administration": 406.0,
+    "legislative": 147.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4256.1,
+      "health_per_capita": 914.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4571.4,
+      "health_per_capita": 984.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4886.7,
+      "health_per_capita": 1054.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5149.4,
+      "health_per_capita": 1124.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5254.5,
+      "health_per_capita": 1171.8
+    }
+  ]
+}

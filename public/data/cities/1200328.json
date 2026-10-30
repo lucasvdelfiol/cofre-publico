@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1200328",
+  "city_name": "Jordão",
+  "uf": "AC",
+  "population": 9222,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 48770997.65,
+    "total_expense": 49245914.28,
+    "own_revenue_percentage": 15.1,
+    "transfers_revenue_percentage": 84.9,
+    "personnel_expense_percentage_rcl": 49.6
+  },
+  "per_capita_breakdown": {
+    "health": 1190.0,
+    "education": 1509.9,
+    "urbanism": 822.7,
+    "administration": 323.1,
+    "legislative": 86.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4325.4,
+      "health_per_capita": 928.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4645.8,
+      "health_per_capita": 999.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4966.2,
+      "health_per_capita": 1071.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5233.2,
+      "health_per_capita": 1142.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5340.0,
+      "health_per_capita": 1190.0
+    }
+  ]
+}

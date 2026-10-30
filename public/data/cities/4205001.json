@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4205001",
+  "city_name": "Dionísio Cerqueira",
+  "uf": "SC",
+  "population": 15008,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 65851388.64,
+    "total_expense": 64735009.96,
+    "own_revenue_percentage": 14.7,
+    "transfers_revenue_percentage": 85.3,
+    "personnel_expense_percentage_rcl": 49.5
+  },
+  "per_capita_breakdown": {
+    "health": 1165.7,
+    "education": 1101.6,
+    "urbanism": 364.6,
+    "administration": 283.0,
+    "legislative": 126.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3493.9,
+      "health_per_capita": 909.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3752.7,
+      "health_per_capita": 979.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4011.5,
+      "health_per_capita": 1049.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4227.1,
+      "health_per_capita": 1119.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4313.4,
+      "health_per_capita": 1165.7
+    }
+  ]
+}

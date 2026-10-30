@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3130903",
+  "city_name": "Inhapim",
+  "uf": "MG",
+  "population": 22692,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 97344759.54,
+    "total_expense": 97489506.73,
+    "own_revenue_percentage": 18.5,
+    "transfers_revenue_percentage": 81.5,
+    "personnel_expense_percentage_rcl": 53.1
+  },
+  "per_capita_breakdown": {
+    "health": 1101.8,
+    "education": 1140.7,
+    "urbanism": 352.7,
+    "administration": 296.6,
+    "legislative": 116.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3479.9,
+      "health_per_capita": 859.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3737.7,
+      "health_per_capita": 925.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3995.5,
+      "health_per_capita": 991.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4210.3,
+      "health_per_capita": 1057.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4296.2,
+      "health_per_capita": 1101.8
+    }
+  ]
+}

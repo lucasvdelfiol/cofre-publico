@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1712454",
+  "city_name": "Luzinópolis",
+  "uf": "TO",
+  "population": 2717,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 12162155.94,
+    "total_expense": 11704689.33,
+    "own_revenue_percentage": 17.5,
+    "transfers_revenue_percentage": 82.5,
+    "personnel_expense_percentage_rcl": 48.5
+  },
+  "per_capita_breakdown": {
+    "health": 1058.9,
+    "education": 1357.4,
+    "urbanism": 383.4,
+    "administration": 469.0,
+    "legislative": 65.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3489.4,
+      "health_per_capita": 825.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3747.9,
+      "health_per_capita": 889.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4006.3,
+      "health_per_capita": 953.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4221.7,
+      "health_per_capita": 1016.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4307.9,
+      "health_per_capita": 1058.9
+    }
+  ]
+}

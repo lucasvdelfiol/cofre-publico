@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2911105",
+  "city_name": "Formosa do Rio Preto",
+  "uf": "BA",
+  "population": 25899,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 110127532.64,
+    "total_expense": 107844268.49,
+    "own_revenue_percentage": 21.6,
+    "transfers_revenue_percentage": 78.4,
+    "personnel_expense_percentage_rcl": 52.8
+  },
+  "per_capita_breakdown": {
+    "health": 1055.0,
+    "education": 1233.6,
+    "urbanism": 548.8,
+    "administration": 410.8,
+    "legislative": 67.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3372.8,
+      "health_per_capita": 822.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3622.7,
+      "health_per_capita": 886.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3872.5,
+      "health_per_capita": 949.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4080.7,
+      "health_per_capita": 1012.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4164.0,
+      "health_per_capita": 1055.0
+    }
+  ]
+}

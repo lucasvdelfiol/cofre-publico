@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2412302",
+  "city_name": "São José do Campestre",
+  "uf": "RN",
+  "population": 11121,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 50693854.72,
+    "total_expense": 50430144.99,
+    "own_revenue_percentage": 21.9,
+    "transfers_revenue_percentage": 78.1,
+    "personnel_expense_percentage_rcl": 51.2
+  },
+  "per_capita_breakdown": {
+    "health": 1078.0,
+    "education": 1382.3,
+    "urbanism": 378.4,
+    "administration": 472.8,
+    "legislative": 77.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3673.1,
+      "health_per_capita": 840.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3945.2,
+      "health_per_capita": 905.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4217.3,
+      "health_per_capita": 970.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4444.0,
+      "health_per_capita": 1034.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4534.7,
+      "health_per_capita": 1078.0
+    }
+  ]
+}

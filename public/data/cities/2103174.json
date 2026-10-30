@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2103174",
+  "city_name": "Centro Novo do Maranhão",
+  "uf": "MA",
+  "population": 16267,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 87716775.88,
+    "total_expense": 86783875.83,
+    "own_revenue_percentage": 9.5,
+    "transfers_revenue_percentage": 90.5,
+    "personnel_expense_percentage_rcl": 46.8
+  },
+  "per_capita_breakdown": {
+    "health": 1194.7,
+    "education": 1699.0,
+    "urbanism": 602.0,
+    "administration": 482.7,
+    "legislative": 158.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4321.4,
+      "health_per_capita": 931.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4641.4,
+      "health_per_capita": 1003.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4961.6,
+      "health_per_capita": 1075.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5228.3,
+      "health_per_capita": 1146.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5335.0,
+      "health_per_capita": 1194.7
+    }
+  ]
+}

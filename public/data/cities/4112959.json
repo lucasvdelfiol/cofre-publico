@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4112959",
+  "city_name": "Juranda",
+  "uf": "PR",
+  "population": 7771,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 37540174.14,
+    "total_expense": 36505387.35,
+    "own_revenue_percentage": 19.9,
+    "transfers_revenue_percentage": 80.1,
+    "personnel_expense_percentage_rcl": 48.3
+  },
+  "per_capita_breakdown": {
+    "health": 1141.1,
+    "education": 1448.0,
+    "urbanism": 654.8,
+    "administration": 309.5,
+    "legislative": 109.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3805.1,
+      "health_per_capita": 890.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4086.9,
+      "health_per_capita": 958.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4368.8,
+      "health_per_capita": 1027.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4603.6,
+      "health_per_capita": 1095.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4697.6,
+      "health_per_capita": 1141.1
+    }
+  ]
+}

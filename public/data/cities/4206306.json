@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4206306",
+  "city_name": "Guabiruba",
+  "uf": "SC",
+  "population": 24543,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 112544533.73,
+    "total_expense": 112142176.02,
+    "own_revenue_percentage": 28.9,
+    "transfers_revenue_percentage": 71.1,
+    "personnel_expense_percentage_rcl": 53.4
+  },
+  "per_capita_breakdown": {
+    "health": 1263.2,
+    "education": 1355.4,
+    "urbanism": 709.0,
+    "administration": 277.9,
+    "legislative": 81.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3701.1,
+      "health_per_capita": 985.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3975.2,
+      "health_per_capita": 1061.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4249.4,
+      "health_per_capita": 1136.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4477.8,
+      "health_per_capita": 1212.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4569.2,
+      "health_per_capita": 1263.2
+    }
+  ]
+}

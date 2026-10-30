@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2406601",
+  "city_name": "Lagoa Salgada",
+  "uf": "RN",
+  "population": 8319,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 39968818.46,
+    "total_expense": 38834483.55,
+    "own_revenue_percentage": 14.4,
+    "transfers_revenue_percentage": 85.6,
+    "personnel_expense_percentage_rcl": 47.2
+  },
+  "per_capita_breakdown": {
+    "health": 1183.5,
+    "education": 1262.2,
+    "urbanism": 489.8,
+    "administration": 320.6,
+    "legislative": 148.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3781.2,
+      "health_per_capita": 923.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4061.3,
+      "health_per_capita": 994.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4341.4,
+      "health_per_capita": 1065.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4574.8,
+      "health_per_capita": 1136.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4668.2,
+      "health_per_capita": 1183.5
+    }
+  ]
+}

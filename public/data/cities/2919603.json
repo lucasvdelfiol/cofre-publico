@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2919603",
+  "city_name": "Macajuba",
+  "uf": "BA",
+  "population": 10454,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 58388247.17,
+    "total_expense": 58068243.06,
+    "own_revenue_percentage": 20.1,
+    "transfers_revenue_percentage": 79.9,
+    "personnel_expense_percentage_rcl": 53.0
+  },
+  "per_capita_breakdown": {
+    "health": 1491.8,
+    "education": 1524.9,
+    "urbanism": 547.3,
+    "administration": 374.9,
+    "legislative": 125.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4499.2,
+      "health_per_capita": 1163.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4832.5,
+      "health_per_capita": 1253.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5165.8,
+      "health_per_capita": 1342.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5443.5,
+      "health_per_capita": 1432.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5554.6,
+      "health_per_capita": 1491.8
+    }
+  ]
+}

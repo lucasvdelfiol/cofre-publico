@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2203404",
+  "city_name": "Dom Expedito Lopes",
+  "uf": "PI",
+  "population": 6320,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 35469763.02,
+    "total_expense": 34982104.3,
+    "own_revenue_percentage": 9.1,
+    "transfers_revenue_percentage": 90.9,
+    "personnel_expense_percentage_rcl": 52.0
+  },
+  "per_capita_breakdown": {
+    "health": 1229.2,
+    "education": 1462.4,
+    "urbanism": 874.9,
+    "administration": 342.9,
+    "legislative": 153.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4483.4,
+      "health_per_capita": 958.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4815.5,
+      "health_per_capita": 1032.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5147.6,
+      "health_per_capita": 1106.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5424.4,
+      "health_per_capita": 1180.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5535.1,
+      "health_per_capita": 1229.2
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4321329",
+  "city_name": "Taquaruçu do Sul",
+  "uf": "RS",
+  "population": 3119,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 17279054.85,
+    "total_expense": 17430737.1,
+    "own_revenue_percentage": 12.0,
+    "transfers_revenue_percentage": 88.0,
+    "personnel_expense_percentage_rcl": 51.2
+  },
+  "per_capita_breakdown": {
+    "health": 1320.8,
+    "education": 1753.3,
+    "urbanism": 707.1,
+    "administration": 579.6,
+    "legislative": 157.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4526.8,
+      "health_per_capita": 1030.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4862.1,
+      "health_per_capita": 1109.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5197.4,
+      "health_per_capita": 1188.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5476.8,
+      "health_per_capita": 1268.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5588.6,
+      "health_per_capita": 1320.8
+    }
+  ]
+}

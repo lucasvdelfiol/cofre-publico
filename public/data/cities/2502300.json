@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2502300",
+  "city_name": "Bom Sucesso",
+  "uf": "PB",
+  "population": 4661,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 24079221.82,
+    "total_expense": 23164607.15,
+    "own_revenue_percentage": 15.9,
+    "transfers_revenue_percentage": 84.1,
+    "personnel_expense_percentage_rcl": 48.6
+  },
+  "per_capita_breakdown": {
+    "health": 1154.3,
+    "education": 1230.2,
+    "urbanism": 399.6,
+    "administration": 324.6,
+    "legislative": 113.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4025.6,
+      "health_per_capita": 900.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4323.8,
+      "health_per_capita": 969.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4622.0,
+      "health_per_capita": 1038.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4870.5,
+      "health_per_capita": 1108.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4969.9,
+      "health_per_capita": 1154.3
+    }
+  ]
+}

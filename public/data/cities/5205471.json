@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5205471",
+  "city_name": "Chapadão do Céu",
+  "uf": "GO",
+  "population": 12870,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 57340422.67,
+    "total_expense": 56957986.25,
+    "own_revenue_percentage": 16.6,
+    "transfers_revenue_percentage": 83.4,
+    "personnel_expense_percentage_rcl": 51.1
+  },
+  "per_capita_breakdown": {
+    "health": 1223.1,
+    "education": 1260.1,
+    "urbanism": 669.0,
+    "administration": 350.3,
+    "legislative": 153.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3584.7,
+      "health_per_capita": 954.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3850.3,
+      "health_per_capita": 1027.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4115.8,
+      "health_per_capita": 1100.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4337.1,
+      "health_per_capita": 1174.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4425.6,
+      "health_per_capita": 1223.1
+    }
+  ]
+}

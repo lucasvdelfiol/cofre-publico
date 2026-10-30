@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3119500",
+  "city_name": "Coronel Murta",
+  "uf": "MG",
+  "population": 8200,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 41999789.63,
+    "total_expense": 41028998.12,
+    "own_revenue_percentage": 20.2,
+    "transfers_revenue_percentage": 79.8,
+    "personnel_expense_percentage_rcl": 52.0
+  },
+  "per_capita_breakdown": {
+    "health": 1143.0,
+    "education": 1359.1,
+    "urbanism": 579.0,
+    "administration": 395.4,
+    "legislative": 115.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4052.8,
+      "health_per_capita": 891.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4353.0,
+      "health_per_capita": 960.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4653.3,
+      "health_per_capita": 1028.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4903.4,
+      "health_per_capita": 1097.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5003.5,
+      "health_per_capita": 1143.0
+    }
+  ]
+}

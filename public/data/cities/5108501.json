@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5108501",
+  "city_name": "Vera",
+  "uf": "MT",
+  "population": 12800,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 70852109.23,
+    "total_expense": 71467410.14,
+    "own_revenue_percentage": 17.4,
+    "transfers_revenue_percentage": 82.6,
+    "personnel_expense_percentage_rcl": 52.6
+  },
+  "per_capita_breakdown": {
+    "health": 1203.8,
+    "education": 1447.0,
+    "urbanism": 650.5,
+    "administration": 431.2,
+    "legislative": 157.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4522.6,
+      "health_per_capita": 939.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4857.6,
+      "health_per_capita": 1011.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5192.6,
+      "health_per_capita": 1083.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5471.7,
+      "health_per_capita": 1155.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5583.4,
+      "health_per_capita": 1203.8
+    }
+  ]
+}

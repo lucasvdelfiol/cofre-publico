@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4126504",
+  "city_name": "Sertanópolis",
+  "uf": "PR",
+  "population": 15930,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 81966037.69,
+    "total_expense": 79968192.67,
+    "own_revenue_percentage": 17.0,
+    "transfers_revenue_percentage": 83.0,
+    "personnel_expense_percentage_rcl": 46.9
+  },
+  "per_capita_breakdown": {
+    "health": 1111.6,
+    "education": 1226.7,
+    "urbanism": 638.6,
+    "administration": 426.1,
+    "legislative": 152.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4066.2,
+      "health_per_capita": 867.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4367.4,
+      "health_per_capita": 933.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4668.6,
+      "health_per_capita": 1000.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4919.6,
+      "health_per_capita": 1067.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5020.0,
+      "health_per_capita": 1111.6
+    }
+  ]
+}

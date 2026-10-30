@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2211605",
+  "city_name": "Vila Nova do Piauí",
+  "uf": "PI",
+  "population": 2935,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 13689405.73,
+    "total_expense": 13432516.14,
+    "own_revenue_percentage": 12.3,
+    "transfers_revenue_percentage": 87.7,
+    "personnel_expense_percentage_rcl": 46.9
+  },
+  "per_capita_breakdown": {
+    "health": 1075.9,
+    "education": 1322.3,
+    "urbanism": 512.8,
+    "administration": 386.3,
+    "legislative": 76.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3707.1,
+      "health_per_capita": 839.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3981.7,
+      "health_per_capita": 903.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4256.3,
+      "health_per_capita": 968.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4485.2,
+      "health_per_capita": 1032.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4576.7,
+      "health_per_capita": 1075.9
+    }
+  ]
+}

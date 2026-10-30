@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4207304",
+  "city_name": "Imbituba",
+  "uf": "SC",
+  "population": 52579,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 223683143.62,
+    "total_expense": 224517505.97,
+    "own_revenue_percentage": 29.2,
+    "transfers_revenue_percentage": 70.8,
+    "personnel_expense_percentage_rcl": 52.3
+  },
+  "per_capita_breakdown": {
+    "health": 1163.0,
+    "education": 1362.6,
+    "urbanism": 592.6,
+    "administration": 265.6,
+    "legislative": 104.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3458.8,
+      "health_per_capita": 907.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3715.0,
+      "health_per_capita": 976.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3971.2,
+      "health_per_capita": 1046.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4184.7,
+      "health_per_capita": 1116.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4270.1,
+      "health_per_capita": 1163.0
+    }
+  ]
+}

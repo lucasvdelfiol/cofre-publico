@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4213906",
+  "city_name": "Presidente Castello Branco",
+  "uf": "SC",
+  "population": 1689,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 8593907.16,
+    "total_expense": 8618145.93,
+    "own_revenue_percentage": 15.7,
+    "transfers_revenue_percentage": 84.3,
+    "personnel_expense_percentage_rcl": 45.6
+  },
+  "per_capita_breakdown": {
+    "health": 1227.3,
+    "education": 1405.5,
+    "urbanism": 726.1,
+    "administration": 509.6,
+    "legislative": 157.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4133.0,
+      "health_per_capita": 957.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4439.2,
+      "health_per_capita": 1030.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4745.3,
+      "health_per_capita": 1104.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5000.4,
+      "health_per_capita": 1178.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5102.5,
+      "health_per_capita": 1227.3
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2923704",
+  "city_name": "Paratinga",
+  "uf": "BA",
+  "population": 29252,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 132617456.25,
+    "total_expense": 133201116.74,
+    "own_revenue_percentage": 30.7,
+    "transfers_revenue_percentage": 69.3,
+    "personnel_expense_percentage_rcl": 49.4
+  },
+  "per_capita_breakdown": {
+    "health": 957.9,
+    "education": 1419.2,
+    "urbanism": 723.2,
+    "administration": 297.2,
+    "legislative": 153.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3688.4,
+      "health_per_capita": 747.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3961.6,
+      "health_per_capita": 804.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4234.8,
+      "health_per_capita": 862.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4462.5,
+      "health_per_capita": 919.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4553.6,
+      "health_per_capita": 957.9
+    }
+  ]
+}

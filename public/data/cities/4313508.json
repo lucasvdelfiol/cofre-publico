@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4313508",
+  "city_name": "Osório",
+  "uf": "RS",
+  "population": 47396,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 204064141.79,
+    "total_expense": 205667726.66,
+    "own_revenue_percentage": 31.0,
+    "transfers_revenue_percentage": 69.0,
+    "personnel_expense_percentage_rcl": 51.1
+  },
+  "per_capita_breakdown": {
+    "health": 1185.4,
+    "education": 1079.9,
+    "urbanism": 596.4,
+    "administration": 419.0,
+    "legislative": 99.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3514.8,
+      "health_per_capita": 924.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3775.2,
+      "health_per_capita": 995.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4035.5,
+      "health_per_capita": 1066.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4252.5,
+      "health_per_capita": 1138.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4339.3,
+      "health_per_capita": 1185.4
+    }
+  ]
+}

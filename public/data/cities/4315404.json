@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4315404",
+  "city_name": "Redentora",
+  "uf": "RS",
+  "population": 9738,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 48516773.3,
+    "total_expense": 48639989.34,
+    "own_revenue_percentage": 15.2,
+    "transfers_revenue_percentage": 84.8,
+    "personnel_expense_percentage_rcl": 49.1
+  },
+  "per_capita_breakdown": {
+    "health": 1327.1,
+    "education": 1474.3,
+    "urbanism": 569.1,
+    "administration": 362.6,
+    "legislative": 123.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4045.9,
+      "health_per_capita": 1035.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4345.6,
+      "health_per_capita": 1114.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4645.3,
+      "health_per_capita": 1194.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4895.0,
+      "health_per_capita": 1274.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4994.9,
+      "health_per_capita": 1327.1
+    }
+  ]
+}

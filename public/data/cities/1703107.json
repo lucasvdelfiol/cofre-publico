@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1703107",
+  "city_name": "Barrolândia",
+  "uf": "TO",
+  "population": 4846,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 27694111.41,
+    "total_expense": 26819792.39,
+    "own_revenue_percentage": 13.9,
+    "transfers_revenue_percentage": 86.1,
+    "personnel_expense_percentage_rcl": 51.7
+  },
+  "per_capita_breakdown": {
+    "health": 1456.9,
+    "education": 1412.0,
+    "urbanism": 833.8,
+    "administration": 497.8,
+    "legislative": 192.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4482.9,
+      "health_per_capita": 1136.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4814.9,
+      "health_per_capita": 1223.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5147.0,
+      "health_per_capita": 1311.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5423.7,
+      "health_per_capita": 1398.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5534.4,
+      "health_per_capita": 1456.9
+    }
+  ]
+}

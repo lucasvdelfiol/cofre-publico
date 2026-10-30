@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3520608",
+  "city_name": "Indiana",
+  "uf": "SP",
+  "population": 5090,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 26811061.76,
+    "total_expense": 26550052.53,
+    "own_revenue_percentage": 10.9,
+    "transfers_revenue_percentage": 89.1,
+    "personnel_expense_percentage_rcl": 49.0
+  },
+  "per_capita_breakdown": {
+    "health": 1362.7,
+    "education": 1337.7,
+    "urbanism": 590.6,
+    "administration": 527.1,
+    "legislative": 106.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4225.0,
+      "health_per_capita": 1062.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4538.0,
+      "health_per_capita": 1144.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4851.0,
+      "health_per_capita": 1226.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5111.8,
+      "health_per_capita": 1308.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5216.1,
+      "health_per_capita": 1362.7
+    }
+  ]
+}

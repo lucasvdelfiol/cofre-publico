@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2105948",
+  "city_name": "Lago dos Rodrigues",
+  "uf": "MA",
+  "population": 8758,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 40714380.39,
+    "total_expense": 39805686.01,
+    "own_revenue_percentage": 16.7,
+    "transfers_revenue_percentage": 83.3,
+    "personnel_expense_percentage_rcl": 51.1
+  },
+  "per_capita_breakdown": {
+    "health": 1231.1,
+    "education": 1316.3,
+    "urbanism": 630.8,
+    "administration": 519.8,
+    "legislative": 154.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3681.5,
+      "health_per_capita": 960.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3954.2,
+      "health_per_capita": 1034.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4226.9,
+      "health_per_capita": 1108.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4454.2,
+      "health_per_capita": 1181.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4545.1,
+      "health_per_capita": 1231.1
+    }
+  ]
+}

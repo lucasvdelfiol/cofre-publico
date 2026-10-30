@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1705102",
+  "city_name": "Chapada da Natividade",
+  "uf": "TO",
+  "population": 3117,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 15907041.4,
+    "total_expense": 15730251.27,
+    "own_revenue_percentage": 10.7,
+    "transfers_revenue_percentage": 89.3,
+    "personnel_expense_percentage_rcl": 52.4
+  },
+  "per_capita_breakdown": {
+    "health": 1228.1,
+    "education": 1391.7,
+    "urbanism": 517.3,
+    "administration": 518.8,
+    "legislative": 135.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4087.7,
+      "health_per_capita": 957.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4390.5,
+      "health_per_capita": 1031.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4693.3,
+      "health_per_capita": 1105.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4945.7,
+      "health_per_capita": 1179.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5046.6,
+      "health_per_capita": 1228.1
+    }
+  ]
+}

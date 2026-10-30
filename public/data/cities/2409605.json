@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2409605",
+  "city_name": "Pedra Preta",
+  "uf": "RN",
+  "population": 2441,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 12768206.49,
+    "total_expense": 12798245.35,
+    "own_revenue_percentage": 16.4,
+    "transfers_revenue_percentage": 83.6,
+    "personnel_expense_percentage_rcl": 50.0
+  },
+  "per_capita_breakdown": {
+    "health": 1284.9,
+    "education": 1414.4,
+    "urbanism": 696.6,
+    "administration": 376.7,
+    "legislative": 157.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4246.8,
+      "health_per_capita": 1002.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4561.4,
+      "health_per_capita": 1079.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4876.0,
+      "health_per_capita": 1156.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5138.1,
+      "health_per_capita": 1233.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5243.0,
+      "health_per_capita": 1284.9
+    }
+  ]
+}

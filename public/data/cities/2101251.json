@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2101251",
+  "city_name": "Bacabeira",
+  "uf": "MA",
+  "population": 16966,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 85256902.97,
+    "total_expense": 84239823.69,
+    "own_revenue_percentage": 15.3,
+    "transfers_revenue_percentage": 84.7,
+    "personnel_expense_percentage_rcl": 47.4
+  },
+  "per_capita_breakdown": {
+    "health": 1132.9,
+    "education": 1406.3,
+    "urbanism": 470.8,
+    "administration": 300.6,
+    "legislative": 85.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4021.8,
+      "health_per_capita": 883.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4319.7,
+      "health_per_capita": 951.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4617.6,
+      "health_per_capita": 1019.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4865.9,
+      "health_per_capita": 1087.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4965.2,
+      "health_per_capita": 1132.9
+    }
+  ]
+}

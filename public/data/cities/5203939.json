@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5203939",
+  "city_name": "Buriti de Goiás",
+  "uf": "GO",
+  "population": 2732,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 14518600.07,
+    "total_expense": 14357251.71,
+    "own_revenue_percentage": 18.1,
+    "transfers_revenue_percentage": 81.9,
+    "personnel_expense_percentage_rcl": 52.4
+  },
+  "per_capita_breakdown": {
+    "health": 1105.5,
+    "education": 1621.2,
+    "urbanism": 538.7,
+    "administration": 464.9,
+    "legislative": 174.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4256.7,
+      "health_per_capita": 862.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4572.0,
+      "health_per_capita": 928.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4887.3,
+      "health_per_capita": 995.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5150.1,
+      "health_per_capita": 1061.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5255.2,
+      "health_per_capita": 1105.5
+    }
+  ]
+}

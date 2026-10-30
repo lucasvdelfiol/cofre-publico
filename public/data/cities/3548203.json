@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3548203",
+  "city_name": "Santo Antônio do Pinhal",
+  "uf": "SP",
+  "population": 7133,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 33026033.18,
+    "total_expense": 32993697.15,
+    "own_revenue_percentage": 14.2,
+    "transfers_revenue_percentage": 85.8,
+    "personnel_expense_percentage_rcl": 50.4
+  },
+  "per_capita_breakdown": {
+    "health": 1195.1,
+    "education": 1252.4,
+    "urbanism": 667.6,
+    "administration": 546.0,
+    "legislative": 94.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3746.7,
+      "health_per_capita": 932.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4024.2,
+      "health_per_capita": 1003.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4301.7,
+      "health_per_capita": 1075.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4533.0,
+      "health_per_capita": 1147.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4625.5,
+      "health_per_capita": 1195.1
+    }
+  ]
+}

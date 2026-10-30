@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3518206",
+  "city_name": "Guararapes",
+  "uf": "SP",
+  "population": 31043,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 134866794.69,
+    "total_expense": 130951168.94,
+    "own_revenue_percentage": 18.5,
+    "transfers_revenue_percentage": 81.5,
+    "personnel_expense_percentage_rcl": 52.2
+  },
+  "per_capita_breakdown": {
+    "health": 1107.4,
+    "education": 1162.9,
+    "urbanism": 337.5,
+    "administration": 349.8,
+    "legislative": 147.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3416.9,
+      "health_per_capita": 863.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3670.0,
+      "health_per_capita": 930.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3923.1,
+      "health_per_capita": 996.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4134.0,
+      "health_per_capita": 1063.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4218.4,
+      "health_per_capita": 1107.4
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3138625",
+  "city_name": "Limeira do Oeste",
+  "uf": "MG",
+  "population": 8687,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 43584143.04,
+    "total_expense": 43142549.47,
+    "own_revenue_percentage": 11.3,
+    "transfers_revenue_percentage": 88.7,
+    "personnel_expense_percentage_rcl": 50.6
+  },
+  "per_capita_breakdown": {
+    "health": 1156.7,
+    "education": 1466.3,
+    "urbanism": 435.3,
+    "administration": 306.3,
+    "legislative": 164.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4022.7,
+      "health_per_capita": 902.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4320.7,
+      "health_per_capita": 971.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4618.7,
+      "health_per_capita": 1041.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4867.0,
+      "health_per_capita": 1110.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4966.3,
+      "health_per_capita": 1156.7
+    }
+  ]
+}

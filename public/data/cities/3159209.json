@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3159209",
+  "city_name": "Santa Rita de Caldas",
+  "uf": "MG",
+  "population": 8460,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 39943746.32,
+    "total_expense": 38822444.62,
+    "own_revenue_percentage": 8.6,
+    "transfers_revenue_percentage": 91.4,
+    "personnel_expense_percentage_rcl": 52.5
+  },
+  "per_capita_breakdown": {
+    "health": 1110.0,
+    "education": 1372.1,
+    "urbanism": 705.3,
+    "administration": 395.2,
+    "legislative": 115.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3717.0,
+      "health_per_capita": 865.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3992.3,
+      "health_per_capita": 932.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4267.7,
+      "health_per_capita": 999.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4497.1,
+      "health_per_capita": 1065.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4588.9,
+      "health_per_capita": 1110.0
+    }
+  ]
+}

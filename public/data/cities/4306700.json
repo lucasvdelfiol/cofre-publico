@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4306700",
+  "city_name": "Dona Francisca",
+  "uf": "RS",
+  "population": 3079,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 16709780.37,
+    "total_expense": 16162601.95,
+    "own_revenue_percentage": 14.9,
+    "transfers_revenue_percentage": 85.1,
+    "personnel_expense_percentage_rcl": 46.3
+  },
+  "per_capita_breakdown": {
+    "health": 1356.4,
+    "education": 1291.6,
+    "urbanism": 764.9,
+    "administration": 404.5,
+    "legislative": 179.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4251.9,
+      "health_per_capita": 1058.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4566.9,
+      "health_per_capita": 1139.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4881.8,
+      "health_per_capita": 1220.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5144.3,
+      "health_per_capita": 1302.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5249.3,
+      "health_per_capita": 1356.4
+    }
+  ]
+}

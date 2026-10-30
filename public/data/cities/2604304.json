@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2604304",
+  "city_name": "Cedro",
+  "uf": "PE",
+  "population": 10518,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 50908080.92,
+    "total_expense": 50164068.57,
+    "own_revenue_percentage": 17.8,
+    "transfers_revenue_percentage": 82.2,
+    "personnel_expense_percentage_rcl": 47.0
+  },
+  "per_capita_breakdown": {
+    "health": 1270.5,
+    "education": 1494.3,
+    "urbanism": 497.0,
+    "administration": 443.6,
+    "legislative": 104.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3863.2,
+      "health_per_capita": 991.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4149.4,
+      "health_per_capita": 1067.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4435.5,
+      "health_per_capita": 1143.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4674.0,
+      "health_per_capita": 1219.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4769.4,
+      "health_per_capita": 1270.5
+    }
+  ]
+}

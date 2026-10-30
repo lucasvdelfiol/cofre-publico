@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2930774",
+  "city_name": "Sobradinho",
+  "uf": "BA",
+  "population": 25475,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 113049690.09,
+    "total_expense": 113374546.73,
+    "own_revenue_percentage": 19.7,
+    "transfers_revenue_percentage": 80.3,
+    "personnel_expense_percentage_rcl": 50.9
+  },
+  "per_capita_breakdown": {
+    "health": 920.2,
+    "education": 1275.6,
+    "urbanism": 610.3,
+    "administration": 303.4,
+    "legislative": 89.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3604.8,
+      "health_per_capita": 717.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3871.8,
+      "health_per_capita": 773.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4138.9,
+      "health_per_capita": 828.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4361.4,
+      "health_per_capita": 883.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4450.4,
+      "health_per_capita": 920.2
+    }
+  ]
+}

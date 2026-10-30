@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2602803",
+  "city_name": "Buíque",
+  "uf": "PE",
+  "population": 52097,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 261250303.29,
+    "total_expense": 257147271.86,
+    "own_revenue_percentage": 41.6,
+    "transfers_revenue_percentage": 58.4,
+    "personnel_expense_percentage_rcl": 50.5
+  },
+  "per_capita_breakdown": {
+    "health": 1219.3,
+    "education": 1485.0,
+    "urbanism": 656.3,
+    "administration": 579.3,
+    "legislative": 89.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3998.1,
+      "health_per_capita": 951.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4294.2,
+      "health_per_capita": 1024.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4590.4,
+      "health_per_capita": 1097.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4837.2,
+      "health_per_capita": 1170.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4935.9,
+      "health_per_capita": 1219.3
+    }
+  ]
+}

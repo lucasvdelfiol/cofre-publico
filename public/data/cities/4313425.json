@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4313425",
+  "city_name": "Novo Machado",
+  "uf": "RS",
+  "population": 3198,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 15162629.89,
+    "total_expense": 14948967.19,
+    "own_revenue_percentage": 17.5,
+    "transfers_revenue_percentage": 82.5,
+    "personnel_expense_percentage_rcl": 46.2
+  },
+  "per_capita_breakdown": {
+    "health": 967.1,
+    "education": 1166.4,
+    "urbanism": 477.5,
+    "administration": 532.3,
+    "legislative": 82.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3786.3,
+      "health_per_capita": 754.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4066.8,
+      "health_per_capita": 812.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4347.3,
+      "health_per_capita": 870.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4581.0,
+      "health_per_capita": 928.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4674.5,
+      "health_per_capita": 967.1
+    }
+  ]
+}

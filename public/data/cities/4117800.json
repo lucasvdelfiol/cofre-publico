@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4117800",
+  "city_name": "Palmital",
+  "uf": "PR",
+  "population": 13033,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 69062068.02,
+    "total_expense": 66890711.45,
+    "own_revenue_percentage": 8.5,
+    "transfers_revenue_percentage": 91.5,
+    "personnel_expense_percentage_rcl": 51.6
+  },
+  "per_capita_breakdown": {
+    "health": 1335.5,
+    "education": 1294.3,
+    "urbanism": 466.8,
+    "administration": 560.9,
+    "legislative": 174.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4157.2,
+      "health_per_capita": 1041.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4465.2,
+      "health_per_capita": 1121.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4773.1,
+      "health_per_capita": 1202.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5029.8,
+      "health_per_capita": 1282.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5132.4,
+      "health_per_capita": 1335.5
+    }
+  ]
+}

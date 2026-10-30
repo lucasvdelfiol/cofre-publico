@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2111250",
+  "city_name": "São José dos Basílios",
+  "uf": "MA",
+  "population": 6957,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 35718078.21,
+    "total_expense": 34469629.32,
+    "own_revenue_percentage": 21.4,
+    "transfers_revenue_percentage": 78.6,
+    "personnel_expense_percentage_rcl": 52.2
+  },
+  "per_capita_breakdown": {
+    "health": 1168.1,
+    "education": 1342.1,
+    "urbanism": 519.7,
+    "administration": 299.8,
+    "legislative": 139.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4013.3,
+      "health_per_capita": 911.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4310.6,
+      "health_per_capita": 981.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4607.9,
+      "health_per_capita": 1051.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4855.6,
+      "health_per_capita": 1121.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4954.7,
+      "health_per_capita": 1168.1
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4305157",
+  "city_name": "Cerro Grande",
+  "uf": "RS",
+  "population": 2379,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 13202655.15,
+    "total_expense": 13275580.87,
+    "own_revenue_percentage": 11.8,
+    "transfers_revenue_percentage": 88.2,
+    "personnel_expense_percentage_rcl": 51.6
+  },
+  "per_capita_breakdown": {
+    "health": 1278.6,
+    "education": 1484.1,
+    "urbanism": 833.1,
+    "administration": 549.3,
+    "legislative": 186.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4520.0,
+      "health_per_capita": 997.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4854.9,
+      "health_per_capita": 1074.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5189.7,
+      "health_per_capita": 1150.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5468.7,
+      "health_per_capita": 1227.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5580.3,
+      "health_per_capita": 1278.6
+    }
+  ]
+}

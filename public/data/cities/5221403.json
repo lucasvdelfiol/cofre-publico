@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5221403",
+  "city_name": "Trindade",
+  "uf": "GO",
+  "population": 142431,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 746707486.2,
+    "total_expense": 719819273.66,
+    "own_revenue_percentage": 41.5,
+    "transfers_revenue_percentage": 58.5,
+    "personnel_expense_percentage_rcl": 44.4
+  },
+  "per_capita_breakdown": {
+    "health": 1022.6,
+    "education": 1360.0,
+    "urbanism": 646.8,
+    "administration": 489.6,
+    "legislative": 136.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4093.6,
+      "health_per_capita": 797.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4396.8,
+      "health_per_capita": 859.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4700.0,
+      "health_per_capita": 920.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4952.7,
+      "health_per_capita": 981.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5053.8,
+      "health_per_capita": 1022.6
+    }
+  ]
+}

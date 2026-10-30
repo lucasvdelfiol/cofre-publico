@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4210803",
+  "city_name": "Meleiro",
+  "uf": "SC",
+  "population": 7006,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 38598693.47,
+    "total_expense": 37598504.59,
+    "own_revenue_percentage": 20.5,
+    "transfers_revenue_percentage": 79.5,
+    "personnel_expense_percentage_rcl": 51.0
+  },
+  "per_capita_breakdown": {
+    "health": 1318.0,
+    "education": 1406.4,
+    "urbanism": 774.0,
+    "administration": 437.4,
+    "legislative": 160.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4346.9,
+      "health_per_capita": 1028.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4668.9,
+      "health_per_capita": 1107.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4990.9,
+      "health_per_capita": 1186.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5259.3,
+      "health_per_capita": 1265.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5366.6,
+      "health_per_capita": 1318.0
+    }
+  ]
+}

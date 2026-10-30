@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4117206",
+  "city_name": "Nova Olímpia",
+  "uf": "PR",
+  "population": 5833,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 29123873.79,
+    "total_expense": 29029283.78,
+    "own_revenue_percentage": 11.8,
+    "transfers_revenue_percentage": 88.2,
+    "personnel_expense_percentage_rcl": 46.8
+  },
+  "per_capita_breakdown": {
+    "health": 1347.4,
+    "education": 1324.4,
+    "urbanism": 430.7,
+    "administration": 498.2,
+    "legislative": 93.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4031.1,
+      "health_per_capita": 1051.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4329.7,
+      "health_per_capita": 1131.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4628.3,
+      "health_per_capita": 1212.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4877.2,
+      "health_per_capita": 1293.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4976.7,
+      "health_per_capita": 1347.4
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2205409",
+  "city_name": "Joaquim Pires",
+  "uf": "PI",
+  "population": 13886,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 67006138.08,
+    "total_expense": 64989628.41,
+    "own_revenue_percentage": 14.5,
+    "transfers_revenue_percentage": 85.5,
+    "personnel_expense_percentage_rcl": 48.1
+  },
+  "per_capita_breakdown": {
+    "health": 1014.6,
+    "education": 1404.1,
+    "urbanism": 661.7,
+    "administration": 340.0,
+    "legislative": 152.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3791.0,
+      "health_per_capita": 791.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4071.8,
+      "health_per_capita": 852.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4352.6,
+      "health_per_capita": 913.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4586.6,
+      "health_per_capita": 974.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4680.2,
+      "health_per_capita": 1014.6
+    }
+  ]
+}

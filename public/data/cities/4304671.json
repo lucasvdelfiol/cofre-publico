@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4304671",
+  "city_name": "Capivari do Sul",
+  "uf": "RS",
+  "population": 3991,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 20504167.15,
+    "total_expense": 20077082.97,
+    "own_revenue_percentage": 18.3,
+    "transfers_revenue_percentage": 81.7,
+    "personnel_expense_percentage_rcl": 46.8
+  },
+  "per_capita_breakdown": {
+    "health": 1312.0,
+    "education": 1309.4,
+    "urbanism": 459.2,
+    "administration": 512.1,
+    "legislative": 141.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4074.8,
+      "health_per_capita": 1023.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4376.6,
+      "health_per_capita": 1102.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4678.5,
+      "health_per_capita": 1180.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4930.0,
+      "health_per_capita": 1259.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5030.6,
+      "health_per_capita": 1312.0
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2910206",
+  "city_name": "Dom Macedo Costa",
+  "uf": "BA",
+  "population": 4407,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 22748285.86,
+    "total_expense": 22055458.99,
+    "own_revenue_percentage": 16.6,
+    "transfers_revenue_percentage": 83.4,
+    "personnel_expense_percentage_rcl": 46.3
+  },
+  "per_capita_breakdown": {
+    "health": 1366.5,
+    "education": 1471.9,
+    "urbanism": 491.2,
+    "administration": 452.7,
+    "legislative": 130.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4053.7,
+      "health_per_capita": 1065.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4354.0,
+      "health_per_capita": 1147.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4654.3,
+      "health_per_capita": 1229.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4904.5,
+      "health_per_capita": 1311.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5004.6,
+      "health_per_capita": 1366.5
+    }
+  ]
+}

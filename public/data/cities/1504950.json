@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1504950",
+  "city_name": "Nova Esperança do Piriá",
+  "uf": "PA",
+  "population": 20478,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 87132683.47,
+    "total_expense": 87752489.9,
+    "own_revenue_percentage": 25.9,
+    "transfers_revenue_percentage": 74.1,
+    "personnel_expense_percentage_rcl": 48.5
+  },
+  "per_capita_breakdown": {
+    "health": 1199.6,
+    "education": 1049.6,
+    "urbanism": 495.4,
+    "administration": 470.9,
+    "legislative": 137.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3471.0,
+      "health_per_capita": 935.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3728.1,
+      "health_per_capita": 1007.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3985.2,
+      "health_per_capita": 1079.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4199.5,
+      "health_per_capita": 1151.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4285.2,
+      "health_per_capita": 1199.6
+    }
+  ]
+}

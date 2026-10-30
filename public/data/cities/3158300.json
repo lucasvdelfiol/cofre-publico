@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3158300",
+  "city_name": "Santana da Vargem",
+  "uf": "MG",
+  "population": 6691,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 29349909.21,
+    "total_expense": 28977304.78,
+    "own_revenue_percentage": 11.2,
+    "transfers_revenue_percentage": 88.8,
+    "personnel_expense_percentage_rcl": 48.3
+  },
+  "per_capita_breakdown": {
+    "health": 1047.1,
+    "education": 1220.5,
+    "urbanism": 453.8,
+    "administration": 470.4,
+    "legislative": 151.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3507.9,
+      "health_per_capita": 816.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3767.8,
+      "health_per_capita": 879.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4027.6,
+      "health_per_capita": 942.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4244.2,
+      "health_per_capita": 1005.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4330.8,
+      "health_per_capita": 1047.1
+    }
+  ]
+}

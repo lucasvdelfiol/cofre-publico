@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4300570",
+  "city_name": "Alto Feliz",
+  "uf": "RS",
+  "population": 3072,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 15608340.63,
+    "total_expense": 15518745.83,
+    "own_revenue_percentage": 8.2,
+    "transfers_revenue_percentage": 91.8,
+    "personnel_expense_percentage_rcl": 49.2
+  },
+  "per_capita_breakdown": {
+    "health": 1054.0,
+    "education": 1250.4,
+    "urbanism": 517.4,
+    "administration": 382.0,
+    "legislative": 113.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4091.9,
+      "health_per_capita": 822.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4395.0,
+      "health_per_capita": 885.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4698.1,
+      "health_per_capita": 948.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4950.7,
+      "health_per_capita": 1011.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5051.7,
+      "health_per_capita": 1054.0
+    }
+  ]
+}

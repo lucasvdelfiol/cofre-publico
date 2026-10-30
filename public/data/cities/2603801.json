@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2603801",
+  "city_name": "Capoeiras",
+  "uf": "PE",
+  "population": 18338,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 86991890.54,
+    "total_expense": 87236936.18,
+    "own_revenue_percentage": 19.7,
+    "transfers_revenue_percentage": 80.3,
+    "personnel_expense_percentage_rcl": 51.4
+  },
+  "per_capita_breakdown": {
+    "health": 1105.3,
+    "education": 1336.0,
+    "urbanism": 452.4,
+    "administration": 316.5,
+    "legislative": 110.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3853.3,
+      "health_per_capita": 862.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4138.8,
+      "health_per_capita": 928.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4424.2,
+      "health_per_capita": 994.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4662.1,
+      "health_per_capita": 1061.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4757.2,
+      "health_per_capita": 1105.3
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4114708",
+  "city_name": "Maria Helena",
+  "uf": "PR",
+  "population": 5865,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 32135571.94,
+    "total_expense": 31295368.54,
+    "own_revenue_percentage": 12.3,
+    "transfers_revenue_percentage": 87.7,
+    "personnel_expense_percentage_rcl": 50.8
+  },
+  "per_capita_breakdown": {
+    "health": 1408.5,
+    "education": 1335.2,
+    "urbanism": 852.1,
+    "administration": 524.1,
+    "legislative": 164.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4322.2,
+      "health_per_capita": 1098.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4642.3,
+      "health_per_capita": 1183.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4962.5,
+      "health_per_capita": 1267.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5229.3,
+      "health_per_capita": 1352.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5336.0,
+      "health_per_capita": 1408.5
+    }
+  ]
+}

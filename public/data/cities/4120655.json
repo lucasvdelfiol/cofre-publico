@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4120655",
+  "city_name": "Quarto Centenário",
+  "uf": "PR",
+  "population": 4201,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 22556724.16,
+    "total_expense": 22182493.33,
+    "own_revenue_percentage": 15.0,
+    "transfers_revenue_percentage": 85.0,
+    "personnel_expense_percentage_rcl": 48.2
+  },
+  "per_capita_breakdown": {
+    "health": 1132.7,
+    "education": 1671.8,
+    "urbanism": 793.9,
+    "administration": 555.9,
+    "legislative": 110.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4277.0,
+      "health_per_capita": 883.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4593.9,
+      "health_per_capita": 951.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4910.7,
+      "health_per_capita": 1019.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5174.7,
+      "health_per_capita": 1087.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5280.3,
+      "health_per_capita": 1132.7
+    }
+  ]
+}

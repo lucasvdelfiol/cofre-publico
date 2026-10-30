@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2614709",
+  "city_name": "Tacaimbó",
+  "uf": "PE",
+  "population": 13738,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 77220198.86,
+    "total_expense": 76084232.26,
+    "own_revenue_percentage": 10.2,
+    "transfers_revenue_percentage": 89.8,
+    "personnel_expense_percentage_rcl": 49.8
+  },
+  "per_capita_breakdown": {
+    "health": 1305.8,
+    "education": 1598.0,
+    "urbanism": 883.3,
+    "administration": 615.8,
+    "legislative": 192.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4485.9,
+      "health_per_capita": 1018.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4818.2,
+      "health_per_capita": 1096.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5150.5,
+      "health_per_capita": 1175.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5427.4,
+      "health_per_capita": 1253.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5538.2,
+      "health_per_capita": 1305.8
+    }
+  ]
+}

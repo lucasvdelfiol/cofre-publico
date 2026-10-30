@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2211407",
+  "city_name": "Várzea Grande",
+  "uf": "PI",
+  "population": 4417,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 22978316.46,
+    "total_expense": 22229235.82,
+    "own_revenue_percentage": 19.6,
+    "transfers_revenue_percentage": 80.4,
+    "personnel_expense_percentage_rcl": 46.0
+  },
+  "per_capita_breakdown": {
+    "health": 1314.1,
+    "education": 1227.6,
+    "urbanism": 506.8,
+    "administration": 479.7,
+    "legislative": 175.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4076.5,
+      "health_per_capita": 1025.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4378.4,
+      "health_per_capita": 1103.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4680.4,
+      "health_per_capita": 1182.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4932.0,
+      "health_per_capita": 1261.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5032.7,
+      "health_per_capita": 1314.1
+    }
+  ]
+}

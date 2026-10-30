@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1507458",
+  "city_name": "São Geraldo do Araguaia",
+  "uf": "PA",
+  "population": 24255,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 117396545.1,
+    "total_expense": 115396977.98,
+    "own_revenue_percentage": 19.0,
+    "transfers_revenue_percentage": 81.0,
+    "personnel_expense_percentage_rcl": 46.5
+  },
+  "per_capita_breakdown": {
+    "health": 1185.0,
+    "education": 1312.8,
+    "urbanism": 707.1,
+    "administration": 361.9,
+    "legislative": 164.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3853.7,
+      "health_per_capita": 924.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4139.2,
+      "health_per_capita": 995.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4424.7,
+      "health_per_capita": 1066.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4662.5,
+      "health_per_capita": 1137.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4757.7,
+      "health_per_capita": 1185.0
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4121406",
+  "city_name": "Realeza",
+  "uf": "PR",
+  "population": 19247,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 90035960.31,
+    "total_expense": 87832995.69,
+    "own_revenue_percentage": 14.8,
+    "transfers_revenue_percentage": 85.2,
+    "personnel_expense_percentage_rcl": 51.2
+  },
+  "per_capita_breakdown": {
+    "health": 999.1,
+    "education": 1404.1,
+    "urbanism": 724.9,
+    "administration": 537.1,
+    "legislative": 80.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3696.4,
+      "health_per_capita": 779.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3970.2,
+      "health_per_capita": 839.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4244.1,
+      "health_per_capita": 899.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4472.2,
+      "health_per_capita": 959.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4563.5,
+      "health_per_capita": 999.1
+    }
+  ]
+}

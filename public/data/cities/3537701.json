@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3537701",
+  "city_name": "Piacatu",
+  "uf": "SP",
+  "population": 5519,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 27559166.13,
+    "total_expense": 27269995.28,
+    "own_revenue_percentage": 21.1,
+    "transfers_revenue_percentage": 78.9,
+    "personnel_expense_percentage_rcl": 46.0
+  },
+  "per_capita_breakdown": {
+    "health": 1023.8,
+    "education": 1288.7,
+    "urbanism": 658.7,
+    "administration": 580.6,
+    "legislative": 101.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4002.3,
+      "health_per_capita": 798.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4298.8,
+      "health_per_capita": 860.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4595.2,
+      "health_per_capita": 921.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4842.3,
+      "health_per_capita": 982.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4941.1,
+      "health_per_capita": 1023.8
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5105200",
+  "city_name": "Juscimeira",
+  "uf": "MT",
+  "population": 11480,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 54173446.37,
+    "total_expense": 53722030.87,
+    "own_revenue_percentage": 8.9,
+    "transfers_revenue_percentage": 91.1,
+    "personnel_expense_percentage_rcl": 46.5
+  },
+  "per_capita_breakdown": {
+    "health": 1055.0,
+    "education": 1301.7,
+    "urbanism": 430.6,
+    "administration": 533.4,
+    "legislative": 147.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3790.5,
+      "health_per_capita": 822.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4071.3,
+      "health_per_capita": 886.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4352.0,
+      "health_per_capita": 949.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4586.0,
+      "health_per_capita": 1012.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4679.6,
+      "health_per_capita": 1055.0
+    }
+  ]
+}

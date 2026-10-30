@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1302801",
+  "city_name": "Maraã",
+  "uf": "AM",
+  "population": 15529,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 78700006.52,
+    "total_expense": 77798275.27,
+    "own_revenue_percentage": 18.9,
+    "transfers_revenue_percentage": 81.1,
+    "personnel_expense_percentage_rcl": 48.6
+  },
+  "per_capita_breakdown": {
+    "health": 1141.9,
+    "education": 1431.4,
+    "urbanism": 613.1,
+    "administration": 368.4,
+    "legislative": 154.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4058.0,
+      "health_per_capita": 890.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4358.6,
+      "health_per_capita": 959.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4659.2,
+      "health_per_capita": 1027.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4909.7,
+      "health_per_capita": 1096.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5009.9,
+      "health_per_capita": 1141.9
+    }
+  ]
+}

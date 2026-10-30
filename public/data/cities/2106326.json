@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2106326",
+  "city_name": "Maracaçumé",
+  "uf": "MA",
+  "population": 21149,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 91180393.7,
+    "total_expense": 88858583.12,
+    "own_revenue_percentage": 22.5,
+    "transfers_revenue_percentage": 77.5,
+    "personnel_expense_percentage_rcl": 50.3
+  },
+  "per_capita_breakdown": {
+    "health": 1127.6,
+    "education": 1134.8,
+    "urbanism": 392.2,
+    "administration": 501.3,
+    "legislative": 85.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3403.3,
+      "health_per_capita": 879.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3655.4,
+      "health_per_capita": 947.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3907.5,
+      "health_per_capita": 1014.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4117.6,
+      "health_per_capita": 1082.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4201.6,
+      "health_per_capita": 1127.6
+    }
+  ]
+}

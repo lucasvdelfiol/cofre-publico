@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4108700",
+  "city_name": "Grandes Rios",
+  "uf": "PR",
+  "population": 5641,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 30778367.88,
+    "total_expense": 30129585.59,
+    "own_revenue_percentage": 16.3,
+    "transfers_revenue_percentage": 83.7,
+    "personnel_expense_percentage_rcl": 47.1
+  },
+  "per_capita_breakdown": {
+    "health": 1115.5,
+    "education": 1531.3,
+    "urbanism": 670.8,
+    "administration": 462.0,
+    "legislative": 179.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4326.4,
+      "health_per_capita": 870.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4646.8,
+      "health_per_capita": 937.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4967.3,
+      "health_per_capita": 1004.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5234.4,
+      "health_per_capita": 1070.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5341.2,
+      "health_per_capita": 1115.5
+    }
+  ]
+}

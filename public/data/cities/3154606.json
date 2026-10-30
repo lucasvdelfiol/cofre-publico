@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3154606",
+  "city_name": "Ribeirão das Neves",
+  "uf": "MG",
+  "population": 329794,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 1620594906.96,
+    "total_expense": 1570329592.28,
+    "own_revenue_percentage": 39.5,
+    "transfers_revenue_percentage": 60.5,
+    "personnel_expense_percentage_rcl": 45.3
+  },
+  "per_capita_breakdown": {
+    "health": 1042.8,
+    "education": 1488.8,
+    "urbanism": 530.4,
+    "administration": 408.5,
+    "legislative": 103.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3856.8,
+      "health_per_capita": 813.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4142.5,
+      "health_per_capita": 876.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4428.2,
+      "health_per_capita": 938.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4666.3,
+      "health_per_capita": 1001.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4761.5,
+      "health_per_capita": 1042.8
+    }
+  ]
+}

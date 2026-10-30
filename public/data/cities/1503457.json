@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1503457",
+  "city_name": "Ipixuna do Pará",
+  "uf": "PA",
+  "population": 30329,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 149219001.85,
+    "total_expense": 144540344.87,
+    "own_revenue_percentage": 22.9,
+    "transfers_revenue_percentage": 77.1,
+    "personnel_expense_percentage_rcl": 49.8
+  },
+  "per_capita_breakdown": {
+    "health": 1078.5,
+    "education": 1493.0,
+    "urbanism": 413.4,
+    "administration": 372.0,
+    "legislative": 88.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3860.2,
+      "health_per_capita": 841.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4146.2,
+      "health_per_capita": 905.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4432.1,
+      "health_per_capita": 970.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4670.4,
+      "health_per_capita": 1035.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4765.7,
+      "health_per_capita": 1078.5
+    }
+  ]
+}

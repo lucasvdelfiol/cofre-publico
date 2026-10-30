@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4109906",
+  "city_name": "Icaraíma",
+  "uf": "PR",
+  "population": 8991,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 45051028.24,
+    "total_expense": 44696193.04,
+    "own_revenue_percentage": 17.8,
+    "transfers_revenue_percentage": 82.2,
+    "personnel_expense_percentage_rcl": 51.0
+  },
+  "per_capita_breakdown": {
+    "health": 1192.9,
+    "education": 1529.4,
+    "urbanism": 416.4,
+    "administration": 398.3,
+    "legislative": 121.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4026.7,
+      "health_per_capita": 930.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4324.9,
+      "health_per_capita": 1002.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4623.2,
+      "health_per_capita": 1073.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4871.8,
+      "health_per_capita": 1145.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4971.2,
+      "health_per_capita": 1192.9
+    }
+  ]
+}

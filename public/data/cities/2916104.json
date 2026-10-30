@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2916104",
+  "city_name": "Itaparica",
+  "uf": "BA",
+  "population": 19789,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 109167289.27,
+    "total_expense": 107544202.73,
+    "own_revenue_percentage": 15.1,
+    "transfers_revenue_percentage": 84.9,
+    "personnel_expense_percentage_rcl": 50.3
+  },
+  "per_capita_breakdown": {
+    "health": 1352.9,
+    "education": 1386.9,
+    "urbanism": 706.8,
+    "administration": 482.3,
+    "legislative": 144.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4401.9,
+      "health_per_capita": 1055.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4728.0,
+      "health_per_capita": 1136.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5054.1,
+      "health_per_capita": 1217.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5325.8,
+      "health_per_capita": 1298.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5434.5,
+      "health_per_capita": 1352.9
+    }
+  ]
+}

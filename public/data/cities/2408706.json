@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2408706",
+  "city_name": "Paraú",
+  "uf": "RN",
+  "population": 3579,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 16767972.63,
+    "total_expense": 16397635.33,
+    "own_revenue_percentage": 18.8,
+    "transfers_revenue_percentage": 81.2,
+    "personnel_expense_percentage_rcl": 51.6
+  },
+  "per_capita_breakdown": {
+    "health": 1258.0,
+    "education": 1386.4,
+    "urbanism": 500.4,
+    "administration": 370.5,
+    "legislative": 137.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3711.1,
+      "health_per_capita": 981.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3986.0,
+      "health_per_capita": 1056.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4260.9,
+      "health_per_capita": 1132.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4490.0,
+      "health_per_capita": 1207.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4581.6,
+      "health_per_capita": 1258.0
+    }
+  ]
+}

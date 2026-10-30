@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3536406",
+  "city_name": "Paulicéia",
+  "uf": "SP",
+  "population": 7955,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 42460943.9,
+    "total_expense": 42748921.56,
+    "own_revenue_percentage": 15.1,
+    "transfers_revenue_percentage": 84.9,
+    "personnel_expense_percentage_rcl": 50.0
+  },
+  "per_capita_breakdown": {
+    "health": 1345.2,
+    "education": 1645.5,
+    "urbanism": 757.6,
+    "administration": 576.7,
+    "legislative": 83.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4352.8,
+      "health_per_capita": 1049.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4675.2,
+      "health_per_capita": 1130.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4997.6,
+      "health_per_capita": 1210.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5266.3,
+      "health_per_capita": 1291.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5373.8,
+      "health_per_capita": 1345.2
+    }
+  ]
+}

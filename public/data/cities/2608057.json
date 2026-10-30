@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2608057",
+  "city_name": "Jatobá",
+  "uf": "PE",
+  "population": 14020,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 65054304.49,
+    "total_expense": 65225254.99,
+    "own_revenue_percentage": 14.4,
+    "transfers_revenue_percentage": 85.6,
+    "personnel_expense_percentage_rcl": 53.3
+  },
+  "per_capita_breakdown": {
+    "health": 975.3,
+    "education": 1292.4,
+    "urbanism": 724.5,
+    "administration": 459.0,
+    "legislative": 117.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3768.4,
+      "health_per_capita": 760.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4047.5,
+      "health_per_capita": 819.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4326.6,
+      "health_per_capita": 877.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4559.3,
+      "health_per_capita": 936.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4652.3,
+      "health_per_capita": 975.3
+    }
+  ]
+}

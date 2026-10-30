@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5204102",
+  "city_name": "Cachoeira Alta",
+  "uf": "GO",
+  "population": 11513,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 50513397.69,
+    "total_expense": 50902930.94,
+    "own_revenue_percentage": 9.1,
+    "transfers_revenue_percentage": 90.9,
+    "personnel_expense_percentage_rcl": 49.8
+  },
+  "per_capita_breakdown": {
+    "health": 1233.1,
+    "education": 1087.3,
+    "urbanism": 595.8,
+    "administration": 425.7,
+    "legislative": 100.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3581.3,
+      "health_per_capita": 961.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3846.5,
+      "health_per_capita": 1035.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4111.8,
+      "health_per_capita": 1109.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4332.9,
+      "health_per_capita": 1183.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4421.3,
+      "health_per_capita": 1233.1
+    }
+  ]
+}

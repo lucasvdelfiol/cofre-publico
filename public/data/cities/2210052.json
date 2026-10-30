@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2210052",
+  "city_name": "São José do Divino",
+  "uf": "PI",
+  "population": 4841,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 22376874.75,
+    "total_expense": 22323887.33,
+    "own_revenue_percentage": 10.9,
+    "transfers_revenue_percentage": 89.1,
+    "personnel_expense_percentage_rcl": 49.5
+  },
+  "per_capita_breakdown": {
+    "health": 1250.4,
+    "education": 1123.7,
+    "urbanism": 461.7,
+    "administration": 336.0,
+    "legislative": 93.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3735.2,
+      "health_per_capita": 975.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4011.9,
+      "health_per_capita": 1050.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4288.6,
+      "health_per_capita": 1125.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4519.2,
+      "health_per_capita": 1200.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4611.4,
+      "health_per_capita": 1250.4
+    }
+  ]
+}

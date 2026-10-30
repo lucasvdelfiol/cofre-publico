@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2903003",
+  "city_name": "Barra do Mendes",
+  "uf": "BA",
+  "population": 13836,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 73334711.93,
+    "total_expense": 72057772.14,
+    "own_revenue_percentage": 19.2,
+    "transfers_revenue_percentage": 80.8,
+    "personnel_expense_percentage_rcl": 48.4
+  },
+  "per_capita_breakdown": {
+    "health": 1367.1,
+    "education": 1331.4,
+    "urbanism": 539.4,
+    "administration": 609.0,
+    "legislative": 145.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4218.5,
+      "health_per_capita": 1066.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4531.0,
+      "health_per_capita": 1148.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4843.4,
+      "health_per_capita": 1230.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5103.8,
+      "health_per_capita": 1312.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5208.0,
+      "health_per_capita": 1367.1
+    }
+  ]
+}

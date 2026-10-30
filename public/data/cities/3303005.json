@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3303005",
+  "city_name": "Miracema",
+  "uf": "RJ",
+  "population": 26881,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 132899331.2,
+    "total_expense": 129105042.6,
+    "own_revenue_percentage": 21.1,
+    "transfers_revenue_percentage": 78.9,
+    "personnel_expense_percentage_rcl": 51.7
+  },
+  "per_capita_breakdown": {
+    "health": 1235.6,
+    "education": 1169.3,
+    "urbanism": 466.7,
+    "administration": 422.3,
+    "legislative": 104.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3890.3,
+      "health_per_capita": 963.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4178.4,
+      "health_per_capita": 1037.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4466.6,
+      "health_per_capita": 1112.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4706.7,
+      "health_per_capita": 1186.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4802.8,
+      "health_per_capita": 1235.6
+    }
+  ]
+}

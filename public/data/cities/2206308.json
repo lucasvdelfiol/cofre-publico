@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2206308",
+  "city_name": "Miguel Leão",
+  "uf": "PI",
+  "population": 1500,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 8003408.95,
+    "total_expense": 7763921.76,
+    "own_revenue_percentage": 21.0,
+    "transfers_revenue_percentage": 79.0,
+    "personnel_expense_percentage_rcl": 50.5
+  },
+  "per_capita_breakdown": {
+    "health": 1168.6,
+    "education": 1309.5,
+    "urbanism": 620.9,
+    "administration": 318.7,
+    "legislative": 165.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4192.5,
+      "health_per_capita": 911.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4503.0,
+      "health_per_capita": 981.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4813.6,
+      "health_per_capita": 1051.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5072.4,
+      "health_per_capita": 1121.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5175.9,
+      "health_per_capita": 1168.6
+    }
+  ]
+}

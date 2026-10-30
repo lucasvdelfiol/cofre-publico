@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4209706",
+  "city_name": "Lebon Régis",
+  "uf": "SC",
+  "population": 11472,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 61932852.26,
+    "total_expense": 60465784.94,
+    "own_revenue_percentage": 19.1,
+    "transfers_revenue_percentage": 80.9,
+    "personnel_expense_percentage_rcl": 48.6
+  },
+  "per_capita_breakdown": {
+    "health": 1344.2,
+    "education": 1642.9,
+    "urbanism": 446.8,
+    "administration": 557.4,
+    "legislative": 173.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4269.3,
+      "health_per_capita": 1048.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4585.5,
+      "health_per_capita": 1129.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4901.8,
+      "health_per_capita": 1209.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5165.3,
+      "health_per_capita": 1290.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5270.7,
+      "health_per_capita": 1344.2
+    }
+  ]
+}

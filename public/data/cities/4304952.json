@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4304952",
+  "city_name": "Caseiros",
+  "uf": "RS",
+  "population": 3000,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 14398449.31,
+    "total_expense": 13927331.23,
+    "own_revenue_percentage": 14.5,
+    "transfers_revenue_percentage": 85.5,
+    "personnel_expense_percentage_rcl": 49.1
+  },
+  "per_capita_breakdown": {
+    "health": 1195.1,
+    "education": 1165.4,
+    "urbanism": 539.1,
+    "administration": 370.8,
+    "legislative": 128.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3760.3,
+      "health_per_capita": 932.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4038.9,
+      "health_per_capita": 1003.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4317.4,
+      "health_per_capita": 1075.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4549.6,
+      "health_per_capita": 1147.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4642.4,
+      "health_per_capita": 1195.1
+    }
+  ]
+}

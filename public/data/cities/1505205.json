@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1505205",
+  "city_name": "Oeiras do Pará",
+  "uf": "PA",
+  "population": 33844,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 170123408.51,
+    "total_expense": 164866175.32,
+    "own_revenue_percentage": 18.5,
+    "transfers_revenue_percentage": 81.5,
+    "personnel_expense_percentage_rcl": 50.2
+  },
+  "per_capita_breakdown": {
+    "health": 1201.9,
+    "education": 1319.7,
+    "urbanism": 754.0,
+    "administration": 415.5,
+    "legislative": 157.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3945.8,
+      "health_per_capita": 937.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4238.1,
+      "health_per_capita": 1009.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4530.4,
+      "health_per_capita": 1081.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4774.0,
+      "health_per_capita": 1153.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4871.4,
+      "health_per_capita": 1201.9
+    }
+  ]
+}

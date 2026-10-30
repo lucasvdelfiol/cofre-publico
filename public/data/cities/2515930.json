@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2515930",
+  "city_name": "Sertãozinho",
+  "uf": "PB",
+  "population": 5054,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 27436293.27,
+    "total_expense": 27321113.15,
+    "own_revenue_percentage": 20.6,
+    "transfers_revenue_percentage": 79.4,
+    "personnel_expense_percentage_rcl": 47.3
+  },
+  "per_capita_breakdown": {
+    "health": 1128.9,
+    "education": 1440.8,
+    "urbanism": 588.6,
+    "administration": 556.3,
+    "legislative": 92.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4378.7,
+      "health_per_capita": 880.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4703.0,
+      "health_per_capita": 948.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5027.4,
+      "health_per_capita": 1016.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5297.7,
+      "health_per_capita": 1083.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5405.8,
+      "health_per_capita": 1128.9
+    }
+  ]
+}

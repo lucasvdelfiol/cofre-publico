@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1200708",
+  "city_name": "Xapuri",
+  "uf": "AC",
+  "population": 18243,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 83453447.62,
+    "total_expense": 81318595.88,
+    "own_revenue_percentage": 17.0,
+    "transfers_revenue_percentage": 83.0,
+    "personnel_expense_percentage_rcl": 49.4
+  },
+  "per_capita_breakdown": {
+    "health": 1242.7,
+    "education": 1263.4,
+    "urbanism": 437.9,
+    "administration": 480.9,
+    "legislative": 152.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3610.6,
+      "health_per_capita": 969.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3878.0,
+      "health_per_capita": 1043.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4145.5,
+      "health_per_capita": 1118.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4368.4,
+      "health_per_capita": 1193.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4457.5,
+      "health_per_capita": 1242.7
+    }
+  ]
+}

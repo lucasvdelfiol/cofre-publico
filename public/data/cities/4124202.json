@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4124202",
+  "city_name": "Santo Antônio do Caiuá",
+  "uf": "PR",
+  "population": 2493,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 13217038.75,
+    "total_expense": 12914961.96,
+    "own_revenue_percentage": 16.4,
+    "transfers_revenue_percentage": 83.6,
+    "personnel_expense_percentage_rcl": 49.5
+  },
+  "per_capita_breakdown": {
+    "health": 1039.5,
+    "education": 1267.8,
+    "urbanism": 759.1,
+    "administration": 457.9,
+    "legislative": 101.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4196.2,
+      "health_per_capita": 810.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4507.0,
+      "health_per_capita": 873.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4817.9,
+      "health_per_capita": 935.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5076.9,
+      "health_per_capita": 997.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5180.5,
+      "health_per_capita": 1039.5
+    }
+  ]
+}

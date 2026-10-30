@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2109601",
+  "city_name": "Rosário",
+  "uf": "MA",
+  "population": 38475,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 178307059.72,
+    "total_expense": 176160965.79,
+    "own_revenue_percentage": 21.6,
+    "transfers_revenue_percentage": 78.4,
+    "personnel_expense_percentage_rcl": 46.4
+  },
+  "per_capita_breakdown": {
+    "health": 1225.6,
+    "education": 1123.8,
+    "urbanism": 553.1,
+    "administration": 363.4,
+    "legislative": 107.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3708.7,
+      "health_per_capita": 956.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3983.4,
+      "health_per_capita": 1029.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4258.1,
+      "health_per_capita": 1103.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4487.0,
+      "health_per_capita": 1176.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4578.6,
+      "health_per_capita": 1225.6
+    }
+  ]
+}

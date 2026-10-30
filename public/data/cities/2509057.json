@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2509057",
+  "city_name": "Marcação",
+  "uf": "PB",
+  "population": 8999,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 51281572.54,
+    "total_expense": 50338729.01,
+    "own_revenue_percentage": 12.0,
+    "transfers_revenue_percentage": 88.0,
+    "personnel_expense_percentage_rcl": 51.5
+  },
+  "per_capita_breakdown": {
+    "health": 1205.9,
+    "education": 1725.3,
+    "urbanism": 463.7,
+    "administration": 620.4,
+    "legislative": 139.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4531.0,
+      "health_per_capita": 940.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4866.6,
+      "health_per_capita": 1013.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5202.2,
+      "health_per_capita": 1085.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5481.9,
+      "health_per_capita": 1157.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5593.8,
+      "health_per_capita": 1205.9
+    }
+  ]
+}

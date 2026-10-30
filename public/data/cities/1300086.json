@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1300086",
+  "city_name": "Anamã",
+  "uf": "AM",
+  "population": 9962,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 55726096.69,
+    "total_expense": 53921501.21,
+    "own_revenue_percentage": 11.9,
+    "transfers_revenue_percentage": 88.1,
+    "personnel_expense_percentage_rcl": 48.3
+  },
+  "per_capita_breakdown": {
+    "health": 1455.8,
+    "education": 1518.2,
+    "urbanism": 477.1,
+    "administration": 578.2,
+    "legislative": 173.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4384.3,
+      "health_per_capita": 1135.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4709.0,
+      "health_per_capita": 1222.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5033.8,
+      "health_per_capita": 1310.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5304.4,
+      "health_per_capita": 1397.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5412.7,
+      "health_per_capita": 1455.8
+    }
+  ]
+}

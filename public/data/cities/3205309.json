@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3205309",
+  "city_name": "Vitória",
+  "uf": "ES",
+  "population": 322869,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 1606024887.34,
+    "total_expense": 1544777011.78,
+    "own_revenue_percentage": 43.8,
+    "transfers_revenue_percentage": 56.2,
+    "personnel_expense_percentage_rcl": 47.9
+  },
+  "per_capita_breakdown": {
+    "health": 1085.5,
+    "education": 1179.0,
+    "urbanism": 715.3,
+    "administration": 430.2,
+    "legislative": 93.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3875.4,
+      "health_per_capita": 846.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4162.5,
+      "health_per_capita": 911.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4449.6,
+      "health_per_capita": 977.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4688.8,
+      "health_per_capita": 1042.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4784.5,
+      "health_per_capita": 1085.5
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3545001",
+  "city_name": "Salesópolis",
+  "uf": "SP",
+  "population": 15202,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 71820632.8,
+    "total_expense": 71429310.24,
+    "own_revenue_percentage": 22.0,
+    "transfers_revenue_percentage": 78.0,
+    "personnel_expense_percentage_rcl": 46.8
+  },
+  "per_capita_breakdown": {
+    "health": 1007.3,
+    "education": 1247.8,
+    "urbanism": 711.3,
+    "administration": 350.6,
+    "legislative": 93.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3805.9,
+      "health_per_capita": 785.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4087.9,
+      "health_per_capita": 846.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4369.8,
+      "health_per_capita": 906.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4604.7,
+      "health_per_capita": 967.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4698.7,
+      "health_per_capita": 1007.3
+    }
+  ]
+}

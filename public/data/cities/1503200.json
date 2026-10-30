@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1503200",
+  "city_name": "Igarapé-Açu",
+  "uf": "PA",
+  "population": 35797,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 167724382.79,
+    "total_expense": 164875384.24,
+    "own_revenue_percentage": 26.3,
+    "transfers_revenue_percentage": 73.7,
+    "personnel_expense_percentage_rcl": 49.7
+  },
+  "per_capita_breakdown": {
+    "health": 1278.9,
+    "education": 1427.7,
+    "urbanism": 545.9,
+    "administration": 440.0,
+    "legislative": 161.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3730.7,
+      "health_per_capita": 997.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4007.0,
+      "health_per_capita": 1074.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4283.4,
+      "health_per_capita": 1151.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4513.7,
+      "health_per_capita": 1227.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4605.8,
+      "health_per_capita": 1278.9
+    }
+  ]
+}

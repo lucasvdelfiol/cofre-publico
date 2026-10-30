@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3134806",
+  "city_name": "Jacuí",
+  "uf": "MG",
+  "population": 7495,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 40441834.52,
+    "total_expense": 39934357.02,
+    "own_revenue_percentage": 12.7,
+    "transfers_revenue_percentage": 87.3,
+    "personnel_expense_percentage_rcl": 50.3
+  },
+  "per_capita_breakdown": {
+    "health": 1122.9,
+    "education": 1322.9,
+    "urbanism": 458.3,
+    "administration": 625.8,
+    "legislative": 132.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4315.8,
+      "health_per_capita": 875.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4635.4,
+      "health_per_capita": 943.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4955.1,
+      "health_per_capita": 1010.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5221.5,
+      "health_per_capita": 1078.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5328.1,
+      "health_per_capita": 1122.9
+    }
+  ]
+}

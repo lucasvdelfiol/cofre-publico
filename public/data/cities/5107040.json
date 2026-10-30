@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5107040",
+  "city_name": "Primavera do Leste",
+  "uf": "MT",
+  "population": 85146,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 380805195.05,
+    "total_expense": 366385896.05,
+    "own_revenue_percentage": 39.1,
+    "transfers_revenue_percentage": 60.9,
+    "personnel_expense_percentage_rcl": 48.6
+  },
+  "per_capita_breakdown": {
+    "health": 996.1,
+    "education": 1240.3,
+    "urbanism": 362.0,
+    "administration": 422.4,
+    "legislative": 105.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3485.4,
+      "health_per_capita": 777.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3743.6,
+      "health_per_capita": 836.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4001.8,
+      "health_per_capita": 896.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4216.9,
+      "health_per_capita": 956.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4303.0,
+      "health_per_capita": 996.1
+    }
+  ]
+}

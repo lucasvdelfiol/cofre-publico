@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1501709",
+  "city_name": "Bragança",
+  "uf": "PA",
+  "population": 123082,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 630310923.28,
+    "total_expense": 611256298.18,
+    "own_revenue_percentage": 51.8,
+    "transfers_revenue_percentage": 48.2,
+    "personnel_expense_percentage_rcl": 44.8
+  },
+  "per_capita_breakdown": {
+    "health": 1019.1,
+    "education": 1554.6,
+    "urbanism": 760.0,
+    "administration": 545.3,
+    "legislative": 134.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4022.7,
+      "health_per_capita": 794.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4320.7,
+      "health_per_capita": 856.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4618.7,
+      "health_per_capita": 917.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4867.0,
+      "health_per_capita": 978.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4966.3,
+      "health_per_capita": 1019.1
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3140530",
+  "city_name": "Martins Soares",
+  "uf": "MG",
+  "population": 8396,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 45175618.48,
+    "total_expense": 43754238.26,
+    "own_revenue_percentage": 16.2,
+    "transfers_revenue_percentage": 83.8,
+    "personnel_expense_percentage_rcl": 47.9
+  },
+  "per_capita_breakdown": {
+    "health": 1319.3,
+    "education": 1651.7,
+    "urbanism": 633.6,
+    "administration": 447.3,
+    "legislative": 177.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4221.2,
+      "health_per_capita": 1029.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4533.8,
+      "health_per_capita": 1108.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4846.5,
+      "health_per_capita": 1187.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5107.1,
+      "health_per_capita": 1266.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5211.3,
+      "health_per_capita": 1319.3
+    }
+  ]
+}

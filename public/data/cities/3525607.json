@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3525607",
+  "city_name": "João Ramalho",
+  "uf": "SP",
+  "population": 4371,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 24771644.29,
+    "total_expense": 24143738.92,
+    "own_revenue_percentage": 14.1,
+    "transfers_revenue_percentage": 85.9,
+    "personnel_expense_percentage_rcl": 51.7
+  },
+  "per_capita_breakdown": {
+    "health": 1311.9,
+    "education": 1654.6,
+    "urbanism": 586.6,
+    "administration": 588.0,
+    "legislative": 160.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4474.1,
+      "health_per_capita": 1023.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4805.5,
+      "health_per_capita": 1102.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5136.9,
+      "health_per_capita": 1180.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5413.1,
+      "health_per_capita": 1259.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5523.6,
+      "health_per_capita": 1311.9
+    }
+  ]
+}

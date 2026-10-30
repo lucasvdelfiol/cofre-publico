@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5107008",
+  "city_name": "Poxoréu",
+  "uf": "MT",
+  "population": 23283,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 103522810.13,
+    "total_expense": 101604979.02,
+    "own_revenue_percentage": 26.5,
+    "transfers_revenue_percentage": 73.5,
+    "personnel_expense_percentage_rcl": 51.9
+  },
+  "per_capita_breakdown": {
+    "health": 931.0,
+    "education": 1390.2,
+    "urbanism": 527.4,
+    "administration": 322.3,
+    "legislative": 106.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3534.8,
+      "health_per_capita": 726.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3796.6,
+      "health_per_capita": 782.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4058.4,
+      "health_per_capita": 837.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4276.6,
+      "health_per_capita": 893.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4363.9,
+      "health_per_capita": 931.0
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1500107",
+  "city_name": "Abaetetuba",
+  "uf": "PA",
+  "population": 158188,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 816903131.93,
+    "total_expense": 785518120.01,
+    "own_revenue_percentage": 48.5,
+    "transfers_revenue_percentage": 51.5,
+    "personnel_expense_percentage_rcl": 50.9
+  },
+  "per_capita_breakdown": {
+    "health": 1143.9,
+    "education": 1227.2,
+    "urbanism": 747.1,
+    "administration": 500.4,
+    "legislative": 114.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4022.2,
+      "health_per_capita": 892.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4320.2,
+      "health_per_capita": 960.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4618.1,
+      "health_per_capita": 1029.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4866.4,
+      "health_per_capita": 1098.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4965.7,
+      "health_per_capita": 1143.9
+    }
+  ]
+}

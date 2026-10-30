@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3508009",
+  "city_name": "Buri",
+  "uf": "SP",
+  "population": 20250,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 83233650.58,
+    "total_expense": 83803244.61,
+    "own_revenue_percentage": 22.0,
+    "transfers_revenue_percentage": 78.0,
+    "personnel_expense_percentage_rcl": 51.3
+  },
+  "per_capita_breakdown": {
+    "health": 1129.0,
+    "education": 1175.4,
+    "urbanism": 369.1,
+    "administration": 257.3,
+    "legislative": 114.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3352.1,
+      "health_per_capita": 880.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3600.4,
+      "health_per_capita": 948.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3848.7,
+      "health_per_capita": 1016.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4055.6,
+      "health_per_capita": 1083.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4138.4,
+      "health_per_capita": 1129.0
+    }
+  ]
+}

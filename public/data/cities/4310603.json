@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4310603",
+  "city_name": "Itaqui",
+  "uf": "RS",
+  "population": 35768,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 155706885.55,
+    "total_expense": 153139169.36,
+    "own_revenue_percentage": 19.4,
+    "transfers_revenue_percentage": 80.6,
+    "personnel_expense_percentage_rcl": 53.5
+  },
+  "per_capita_breakdown": {
+    "health": 1090.6,
+    "education": 1117.0,
+    "urbanism": 537.9,
+    "administration": 509.0,
+    "legislative": 99.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3468.0,
+      "health_per_capita": 850.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3724.9,
+      "health_per_capita": 916.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3981.8,
+      "health_per_capita": 981.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4195.9,
+      "health_per_capita": 1047.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4281.5,
+      "health_per_capita": 1090.6
+    }
+  ]
+}

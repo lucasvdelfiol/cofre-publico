@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2108454",
+  "city_name": "Peritoró",
+  "uf": "MA",
+  "population": 20479,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 91184156.72,
+    "total_expense": 89550288.67,
+    "own_revenue_percentage": 26.1,
+    "transfers_revenue_percentage": 73.9,
+    "personnel_expense_percentage_rcl": 51.0
+  },
+  "per_capita_breakdown": {
+    "health": 1097.0,
+    "education": 1324.5,
+    "urbanism": 540.6,
+    "administration": 396.7,
+    "legislative": 109.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3542.0,
+      "health_per_capita": 855.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3804.3,
+      "health_per_capita": 921.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4066.7,
+      "health_per_capita": 987.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4285.3,
+      "health_per_capita": 1053.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4372.8,
+      "health_per_capita": 1097.0
+    }
+  ]
+}

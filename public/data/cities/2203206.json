@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2203206",
+  "city_name": "Curimatá",
+  "uf": "PI",
+  "population": 11270,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 53780599.72,
+    "total_expense": 54204342.12,
+    "own_revenue_percentage": 14.0,
+    "transfers_revenue_percentage": 86.0,
+    "personnel_expense_percentage_rcl": 48.4
+  },
+  "per_capita_breakdown": {
+    "health": 1179.5,
+    "education": 1427.1,
+    "urbanism": 430.0,
+    "administration": 426.6,
+    "legislative": 73.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3895.8,
+      "health_per_capita": 920.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4184.4,
+      "health_per_capita": 990.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4472.9,
+      "health_per_capita": 1061.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4713.4,
+      "health_per_capita": 1132.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4809.6,
+      "health_per_capita": 1179.5
+    }
+  ]
+}

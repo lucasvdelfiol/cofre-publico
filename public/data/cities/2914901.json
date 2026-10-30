@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2914901",
+  "city_name": "Itacaré",
+  "uf": "BA",
+  "population": 27704,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 123806669.06,
+    "total_expense": 121443219.9,
+    "own_revenue_percentage": 20.4,
+    "transfers_revenue_percentage": 79.6,
+    "personnel_expense_percentage_rcl": 50.2
+  },
+  "per_capita_breakdown": {
+    "health": 1144.3,
+    "education": 1105.0,
+    "urbanism": 668.2,
+    "administration": 302.4,
+    "legislative": 95.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3550.7,
+      "health_per_capita": 892.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3813.7,
+      "health_per_capita": 961.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4076.7,
+      "health_per_capita": 1029.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4295.9,
+      "health_per_capita": 1098.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4383.6,
+      "health_per_capita": 1144.3
+    }
+  ]
+}

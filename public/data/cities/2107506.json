@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2107506",
+  "city_name": "Paço do Lumiar",
+  "uf": "MA",
+  "population": 145643,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 712577110.51,
+    "total_expense": 685656920.0,
+    "own_revenue_percentage": 53.2,
+    "transfers_revenue_percentage": 46.8,
+    "personnel_expense_percentage_rcl": 49.8
+  },
+  "per_capita_breakdown": {
+    "health": 1296.4,
+    "education": 1322.0,
+    "urbanism": 638.2,
+    "administration": 539.8,
+    "legislative": 85.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3813.3,
+      "health_per_capita": 1011.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4095.8,
+      "health_per_capita": 1089.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4378.3,
+      "health_per_capita": 1166.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4613.6,
+      "health_per_capita": 1244.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4707.8,
+      "health_per_capita": 1296.4
+    }
+  ]
+}

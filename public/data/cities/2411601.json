@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2411601",
+  "city_name": "São Bento do Norte",
+  "uf": "RN",
+  "population": 3304,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 17178379.3,
+    "total_expense": 16643227.81,
+    "own_revenue_percentage": 20.2,
+    "transfers_revenue_percentage": 79.8,
+    "personnel_expense_percentage_rcl": 50.1
+  },
+  "per_capita_breakdown": {
+    "health": 1153.5,
+    "education": 1366.1,
+    "urbanism": 451.6,
+    "administration": 369.5,
+    "legislative": 140.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4080.2,
+      "health_per_capita": 899.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4382.5,
+      "health_per_capita": 968.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4684.7,
+      "health_per_capita": 1038.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4936.6,
+      "health_per_capita": 1107.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5037.3,
+      "health_per_capita": 1153.5
+    }
+  ]
+}

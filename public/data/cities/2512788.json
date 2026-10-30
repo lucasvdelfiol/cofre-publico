@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2512788",
+  "city_name": "Riacho de Santo Antônio",
+  "uf": "PB",
+  "population": 1955,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 10918415.71,
+    "total_expense": 10947852.9,
+    "own_revenue_percentage": 20.5,
+    "transfers_revenue_percentage": 79.5,
+    "personnel_expense_percentage_rcl": 52.2
+  },
+  "per_capita_breakdown": {
+    "health": 1426.7,
+    "education": 1380.7,
+    "urbanism": 771.6,
+    "administration": 465.7,
+    "legislative": 183.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4535.9,
+      "health_per_capita": 1112.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4871.9,
+      "health_per_capita": 1198.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5207.9,
+      "health_per_capita": 1284.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5487.9,
+      "health_per_capita": 1369.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5599.9,
+      "health_per_capita": 1426.7
+    }
+  ]
+}

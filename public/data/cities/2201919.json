@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2201919",
+  "city_name": "Bom Princípio do Piauí",
+  "uf": "PI",
+  "population": 5636,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 28884925.43,
+    "total_expense": 28970891.25,
+    "own_revenue_percentage": 16.0,
+    "transfers_revenue_percentage": 84.0,
+    "personnel_expense_percentage_rcl": 50.0
+  },
+  "per_capita_breakdown": {
+    "health": 1157.5,
+    "education": 1323.5,
+    "urbanism": 477.0,
+    "administration": 374.8,
+    "legislative": 150.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4163.6,
+      "health_per_capita": 902.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4472.1,
+      "health_per_capita": 972.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4780.5,
+      "health_per_capita": 1041.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5037.5,
+      "health_per_capita": 1111.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5140.3,
+      "health_per_capita": 1157.5
+    }
+  ]
+}

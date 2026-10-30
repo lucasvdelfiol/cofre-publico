@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4305207",
+  "city_name": "Cerro Largo",
+  "uf": "RS",
+  "population": 13705,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 66064130.49,
+    "total_expense": 65102971.48,
+    "own_revenue_percentage": 15.4,
+    "transfers_revenue_percentage": 84.6,
+    "personnel_expense_percentage_rcl": 50.3
+  },
+  "per_capita_breakdown": {
+    "health": 1284.0,
+    "education": 1211.2,
+    "urbanism": 625.0,
+    "administration": 536.0,
+    "legislative": 145.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3847.7,
+      "health_per_capita": 1001.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4132.8,
+      "health_per_capita": 1078.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4417.8,
+      "health_per_capita": 1155.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4655.3,
+      "health_per_capita": 1232.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4750.3,
+      "health_per_capita": 1284.0
+    }
+  ]
+}

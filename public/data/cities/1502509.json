@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1502509",
+  "city_name": "Chaves",
+  "uf": "PA",
+  "population": 20757,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 89680815.87,
+    "total_expense": 87048956.78,
+    "own_revenue_percentage": 24.5,
+    "transfers_revenue_percentage": 75.5,
+    "personnel_expense_percentage_rcl": 51.8
+  },
+  "per_capita_breakdown": {
+    "health": 1161.9,
+    "education": 1245.9,
+    "urbanism": 629.2,
+    "administration": 440.5,
+    "legislative": 85.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3396.9,
+      "health_per_capita": 906.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3648.5,
+      "health_per_capita": 976.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3900.1,
+      "health_per_capita": 1045.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4109.8,
+      "health_per_capita": 1115.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4193.7,
+      "health_per_capita": 1161.9
+    }
+  ]
+}

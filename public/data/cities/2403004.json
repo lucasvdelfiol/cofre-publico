@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2403004",
+  "city_name": "Cruzeta",
+  "uf": "RN",
+  "population": 8005,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 38461500.58,
+    "total_expense": 37991179.56,
+    "own_revenue_percentage": 14.5,
+    "transfers_revenue_percentage": 85.5,
+    "personnel_expense_percentage_rcl": 52.2
+  },
+  "per_capita_breakdown": {
+    "health": 1254.0,
+    "education": 1505.1,
+    "urbanism": 388.9,
+    "administration": 542.9,
+    "legislative": 115.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3844.2,
+      "health_per_capita": 978.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4128.9,
+      "health_per_capita": 1053.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4413.7,
+      "health_per_capita": 1128.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4651.0,
+      "health_per_capita": 1203.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4745.9,
+      "health_per_capita": 1254.0
+    }
+  ]
+}

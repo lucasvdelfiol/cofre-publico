@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5211602",
+  "city_name": "Ivolândia",
+  "uf": "GO",
+  "population": 2693,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 14181096.88,
+    "total_expense": 14056406.95,
+    "own_revenue_percentage": 18.0,
+    "transfers_revenue_percentage": 82.0,
+    "personnel_expense_percentage_rcl": 48.1
+  },
+  "per_capita_breakdown": {
+    "health": 1163.0,
+    "education": 1468.9,
+    "urbanism": 564.1,
+    "administration": 480.6,
+    "legislative": 83.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4227.9,
+      "health_per_capita": 907.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4541.1,
+      "health_per_capita": 976.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4854.2,
+      "health_per_capita": 1046.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5115.2,
+      "health_per_capita": 1116.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5219.6,
+      "health_per_capita": 1163.0
+    }
+  ]
+}

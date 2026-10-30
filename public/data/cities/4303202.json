@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4303202",
+  "city_name": "Cacique Doble",
+  "uf": "RS",
+  "population": 4603,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 22303142.75,
+    "total_expense": 21797275.42,
+    "own_revenue_percentage": 17.2,
+    "transfers_revenue_percentage": 82.8,
+    "personnel_expense_percentage_rcl": 48.0
+  },
+  "per_capita_breakdown": {
+    "health": 1089.8,
+    "education": 1508.4,
+    "urbanism": 436.7,
+    "administration": 327.8,
+    "legislative": 88.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3835.7,
+      "health_per_capita": 850.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4119.8,
+      "health_per_capita": 915.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4403.9,
+      "health_per_capita": 980.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4640.7,
+      "health_per_capita": 1046.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4735.4,
+      "health_per_capita": 1089.8
+    }
+  ]
+}

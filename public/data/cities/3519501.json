@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3519501",
+  "city_name": "Ibirarema",
+  "uf": "SP",
+  "population": 6385,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 29218938.05,
+    "total_expense": 28165070.36,
+    "own_revenue_percentage": 15.0,
+    "transfers_revenue_percentage": 85.0,
+    "personnel_expense_percentage_rcl": 46.1
+  },
+  "per_capita_breakdown": {
+    "health": 1150.4,
+    "education": 1105.5,
+    "urbanism": 622.5,
+    "administration": 404.8,
+    "legislative": 97.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3573.0,
+      "health_per_capita": 897.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3837.7,
+      "health_per_capita": 966.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4102.3,
+      "health_per_capita": 1035.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4322.9,
+      "health_per_capita": 1104.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4411.1,
+      "health_per_capita": 1150.4
+    }
+  ]
+}

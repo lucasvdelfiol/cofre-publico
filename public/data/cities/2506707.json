@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2506707",
+  "city_name": "Imaculada",
+  "uf": "PB",
+  "population": 10392,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 52951068.43,
+    "total_expense": 51466244.46,
+    "own_revenue_percentage": 11.9,
+    "transfers_revenue_percentage": 88.1,
+    "personnel_expense_percentage_rcl": 49.2
+  },
+  "per_capita_breakdown": {
+    "health": 1107.4,
+    "education": 1222.1,
+    "urbanism": 621.1,
+    "administration": 463.3,
+    "legislative": 88.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4011.5,
+      "health_per_capita": 863.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4308.7,
+      "health_per_capita": 930.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4605.8,
+      "health_per_capita": 996.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4853.4,
+      "health_per_capita": 1063.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4952.5,
+      "health_per_capita": 1107.4
+    }
+  ]
+}

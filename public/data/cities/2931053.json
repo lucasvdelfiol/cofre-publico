@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2931053",
+  "city_name": "Tanque Novo",
+  "uf": "BA",
+  "population": 17158,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 84830978.61,
+    "total_expense": 85450143.52,
+    "own_revenue_percentage": 18.8,
+    "transfers_revenue_percentage": 81.2,
+    "personnel_expense_percentage_rcl": 51.4
+  },
+  "per_capita_breakdown": {
+    "health": 1360.1,
+    "education": 1499.5,
+    "urbanism": 783.6,
+    "administration": 557.1,
+    "legislative": 96.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4034.0,
+      "health_per_capita": 1060.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4332.8,
+      "health_per_capita": 1142.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4631.6,
+      "health_per_capita": 1224.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4880.6,
+      "health_per_capita": 1305.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4980.2,
+      "health_per_capita": 1360.1
+    }
+  ]
+}

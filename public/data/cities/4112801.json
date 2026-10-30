@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4112801",
+  "city_name": "Joaquim Távora",
+  "uf": "PR",
+  "population": 11945,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 63566848.41,
+    "total_expense": 63430210.55,
+    "own_revenue_percentage": 11.8,
+    "transfers_revenue_percentage": 88.2,
+    "personnel_expense_percentage_rcl": 51.9
+  },
+  "per_capita_breakdown": {
+    "health": 1179.5,
+    "education": 1692.6,
+    "urbanism": 823.8,
+    "administration": 443.6,
+    "legislative": 160.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4301.3,
+      "health_per_capita": 920.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4619.9,
+      "health_per_capita": 990.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4938.5,
+      "health_per_capita": 1061.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5204.0,
+      "health_per_capita": 1132.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5310.2,
+      "health_per_capita": 1179.5
+    }
+  ]
+}

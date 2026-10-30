@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4309407",
+  "city_name": "Guaporé",
+  "uf": "RS",
+  "population": 25268,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 117889179.23,
+    "total_expense": 118600962.72,
+    "own_revenue_percentage": 22.3,
+    "transfers_revenue_percentage": 77.7,
+    "personnel_expense_percentage_rcl": 47.3
+  },
+  "per_capita_breakdown": {
+    "health": 1229.1,
+    "education": 1163.3,
+    "urbanism": 654.6,
+    "administration": 409.3,
+    "legislative": 107.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3801.9,
+      "health_per_capita": 958.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4083.5,
+      "health_per_capita": 1032.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4365.1,
+      "health_per_capita": 1106.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4599.8,
+      "health_per_capita": 1179.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4693.7,
+      "health_per_capita": 1229.1
+    }
+  ]
+}

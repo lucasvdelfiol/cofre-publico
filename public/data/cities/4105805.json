@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4105805",
+  "city_name": "Colombo",
+  "uf": "PR",
+  "population": 232212,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 1343203284.53,
+    "total_expense": 1335627935.5,
+    "own_revenue_percentage": 40.0,
+    "transfers_revenue_percentage": 60.0,
+    "personnel_expense_percentage_rcl": 50.6
+  },
+  "per_capita_breakdown": {
+    "health": 1162.0,
+    "education": 1429.4,
+    "urbanism": 474.9,
+    "administration": 448.2,
+    "legislative": 114.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4659.0,
+      "health_per_capita": 906.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 5004.1,
+      "health_per_capita": 976.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5349.2,
+      "health_per_capita": 1045.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5636.8,
+      "health_per_capita": 1115.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5751.8,
+      "health_per_capita": 1162.0
+    }
+  ]
+}

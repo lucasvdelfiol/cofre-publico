@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1302702",
+  "city_name": "Manicoré",
+  "uf": "AM",
+  "population": 53914,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 267276495.25,
+    "total_expense": 260437747.8,
+    "own_revenue_percentage": 33.8,
+    "transfers_revenue_percentage": 66.2,
+    "personnel_expense_percentage_rcl": 52.6
+  },
+  "per_capita_breakdown": {
+    "health": 1307.0,
+    "education": 1508.1,
+    "urbanism": 706.7,
+    "administration": 351.5,
+    "legislative": 117.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3912.8,
+      "health_per_capita": 1019.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4202.6,
+      "health_per_capita": 1097.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4492.5,
+      "health_per_capita": 1176.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4734.0,
+      "health_per_capita": 1254.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4830.6,
+      "health_per_capita": 1307.0
+    }
+  ]
+}

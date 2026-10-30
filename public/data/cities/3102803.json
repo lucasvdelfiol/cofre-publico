@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3102803",
+  "city_name": "Andrelândia",
+  "uf": "MG",
+  "population": 11927,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 55706445.9,
+    "total_expense": 54907175.05,
+    "own_revenue_percentage": 11.0,
+    "transfers_revenue_percentage": 89.0,
+    "personnel_expense_percentage_rcl": 49.2
+  },
+  "per_capita_breakdown": {
+    "health": 1005.1,
+    "education": 1113.3,
+    "urbanism": 381.6,
+    "administration": 505.3,
+    "legislative": 119.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3728.9,
+      "health_per_capita": 784.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4005.1,
+      "health_per_capita": 844.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4281.3,
+      "health_per_capita": 904.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4511.5,
+      "health_per_capita": 964.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4603.6,
+      "health_per_capita": 1005.1
+    }
+  ]
+}

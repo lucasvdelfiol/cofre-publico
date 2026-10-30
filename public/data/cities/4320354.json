@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4320354",
+  "city_name": "Sentinela do Sul",
+  "uf": "RS",
+  "population": 5306,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 29834564.87,
+    "total_expense": 29688242.46,
+    "own_revenue_percentage": 8.6,
+    "transfers_revenue_percentage": 91.4,
+    "personnel_expense_percentage_rcl": 53.7
+  },
+  "per_capita_breakdown": {
+    "health": 1355.8,
+    "education": 1644.8,
+    "urbanism": 612.9,
+    "administration": 633.4,
+    "legislative": 103.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4532.1,
+      "health_per_capita": 1057.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4867.8,
+      "health_per_capita": 1138.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5203.5,
+      "health_per_capita": 1220.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5483.3,
+      "health_per_capita": 1301.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5595.2,
+      "health_per_capita": 1355.8
+    }
+  ]
+}

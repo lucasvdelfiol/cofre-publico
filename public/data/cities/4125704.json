@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4125704",
+  "city_name": "São Miguel do Iguaçu",
+  "uf": "PR",
+  "population": 29122,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 128726815.75,
+    "total_expense": 129196617.71,
+    "own_revenue_percentage": 18.9,
+    "transfers_revenue_percentage": 81.1,
+    "personnel_expense_percentage_rcl": 52.6
+  },
+  "per_capita_breakdown": {
+    "health": 1047.7,
+    "education": 1320.2,
+    "urbanism": 693.9,
+    "administration": 340.9,
+    "legislative": 141.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3593.5,
+      "health_per_capita": 817.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3859.7,
+      "health_per_capita": 880.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4125.9,
+      "health_per_capita": 942.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4347.7,
+      "health_per_capita": 1005.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4436.4,
+      "health_per_capita": 1047.7
+    }
+  ]
+}

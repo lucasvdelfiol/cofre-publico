@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2205003",
+  "city_name": "Itainópolis",
+  "uf": "PI",
+  "population": 10790,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 50749714.68,
+    "total_expense": 51050119.66,
+    "own_revenue_percentage": 17.6,
+    "transfers_revenue_percentage": 82.4,
+    "personnel_expense_percentage_rcl": 50.5
+  },
+  "per_capita_breakdown": {
+    "health": 961.0,
+    "education": 1400.1,
+    "urbanism": 460.8,
+    "administration": 324.5,
+    "legislative": 151.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3832.3,
+      "health_per_capita": 749.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4116.1,
+      "health_per_capita": 807.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4400.0,
+      "health_per_capita": 864.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4636.6,
+      "health_per_capita": 922.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4731.2,
+      "health_per_capita": 961.0
+    }
+  ]
+}

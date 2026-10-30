@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3521002",
+  "city_name": "Iperó",
+  "uf": "SP",
+  "population": 36459,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 173992234.59,
+    "total_expense": 169395090.2,
+    "own_revenue_percentage": 25.5,
+    "transfers_revenue_percentage": 74.5,
+    "personnel_expense_percentage_rcl": 50.6
+  },
+  "per_capita_breakdown": {
+    "health": 1083.5,
+    "education": 1469.2,
+    "urbanism": 542.6,
+    "administration": 393.2,
+    "legislative": 126.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3763.4,
+      "health_per_capita": 845.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4042.2,
+      "health_per_capita": 910.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4321.0,
+      "health_per_capita": 975.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4553.3,
+      "health_per_capita": 1040.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4646.2,
+      "health_per_capita": 1083.5
+    }
+  ]
+}

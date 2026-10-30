@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3112000",
+  "city_name": "Candeias",
+  "uf": "MG",
+  "population": 14001,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 73948441.79,
+    "total_expense": 72271312.12,
+    "own_revenue_percentage": 18.2,
+    "transfers_revenue_percentage": 81.8,
+    "personnel_expense_percentage_rcl": 51.4
+  },
+  "per_capita_breakdown": {
+    "health": 1120.7,
+    "education": 1454.6,
+    "urbanism": 755.4,
+    "administration": 578.3,
+    "legislative": 148.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4181.1,
+      "health_per_capita": 874.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4490.9,
+      "health_per_capita": 941.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4800.6,
+      "health_per_capita": 1008.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5058.7,
+      "health_per_capita": 1075.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5161.9,
+      "health_per_capita": 1120.7
+    }
+  ]
+}

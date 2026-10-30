@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3170909",
+  "city_name": "Varzelândia",
+  "uf": "MG",
+  "population": 18840,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 104060401.59,
+    "total_expense": 100691199.57,
+    "own_revenue_percentage": 19.6,
+    "transfers_revenue_percentage": 80.4,
+    "personnel_expense_percentage_rcl": 51.8
+  },
+  "per_capita_breakdown": {
+    "health": 1314.2,
+    "education": 1482.0,
+    "urbanism": 681.6,
+    "administration": 508.2,
+    "legislative": 135.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4329.0,
+      "health_per_capita": 1025.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4649.7,
+      "health_per_capita": 1103.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4970.4,
+      "health_per_capita": 1182.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5237.6,
+      "health_per_capita": 1261.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5344.5,
+      "health_per_capita": 1314.2
+    }
+  ]
+}

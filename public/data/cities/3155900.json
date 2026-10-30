@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3155900",
+  "city_name": "Rio Preto",
+  "uf": "MG",
+  "population": 5141,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 26342429.6,
+    "total_expense": 26332175.7,
+    "own_revenue_percentage": 16.7,
+    "transfers_revenue_percentage": 83.3,
+    "personnel_expense_percentage_rcl": 48.3
+  },
+  "per_capita_breakdown": {
+    "health": 1290.5,
+    "education": 1380.2,
+    "urbanism": 427.0,
+    "administration": 382.3,
+    "legislative": 84.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4148.8,
+      "health_per_capita": 1006.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4456.1,
+      "health_per_capita": 1084.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4763.5,
+      "health_per_capita": 1161.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5019.6,
+      "health_per_capita": 1238.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5122.0,
+      "health_per_capita": 1290.5
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2202026",
+  "city_name": "Buriti dos Montes",
+  "uf": "PI",
+  "population": 7434,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 32535955.07,
+    "total_expense": 32033721.2,
+    "own_revenue_percentage": 8.4,
+    "transfers_revenue_percentage": 91.6,
+    "personnel_expense_percentage_rcl": 52.0
+  },
+  "per_capita_breakdown": {
+    "health": 1178.5,
+    "education": 1368.3,
+    "urbanism": 445.4,
+    "administration": 417.2,
+    "legislative": 98.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3490.4,
+      "health_per_capita": 919.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3748.9,
+      "health_per_capita": 989.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4007.5,
+      "health_per_capita": 1060.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4222.9,
+      "health_per_capita": 1131.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4309.1,
+      "health_per_capita": 1178.5
+    }
+  ]
+}

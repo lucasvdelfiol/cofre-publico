@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3529104",
+  "city_name": "Marinópolis",
+  "uf": "SP",
+  "population": 1860,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 10448135.72,
+    "total_expense": 10077344.22,
+    "own_revenue_percentage": 16.5,
+    "transfers_revenue_percentage": 83.5,
+    "personnel_expense_percentage_rcl": 51.8
+  },
+  "per_capita_breakdown": {
+    "health": 1424.9,
+    "education": 1632.7,
+    "urbanism": 685.6,
+    "administration": 488.6,
+    "legislative": 103.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4388.5,
+      "health_per_capita": 1111.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4713.6,
+      "health_per_capita": 1196.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5038.6,
+      "health_per_capita": 1282.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5309.5,
+      "health_per_capita": 1367.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5417.9,
+      "health_per_capita": 1424.9
+    }
+  ]
+}

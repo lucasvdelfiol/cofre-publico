@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2102754",
+  "city_name": "Capinzal do Norte",
+  "uf": "MA",
+  "population": 11374,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 58112724.73,
+    "total_expense": 57291275.18,
+    "own_revenue_percentage": 12.0,
+    "transfers_revenue_percentage": 88.0,
+    "personnel_expense_percentage_rcl": 46.2
+  },
+  "per_capita_breakdown": {
+    "health": 1325.7,
+    "education": 1440.4,
+    "urbanism": 618.4,
+    "administration": 359.0,
+    "legislative": 88.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4080.0,
+      "health_per_capita": 1034.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4382.2,
+      "health_per_capita": 1113.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4684.4,
+      "health_per_capita": 1193.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4936.3,
+      "health_per_capita": 1272.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5037.0,
+      "health_per_capita": 1325.7
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2301703",
+  "city_name": "Aurora",
+  "uf": "CE",
+  "population": 23714,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 96905903.62,
+    "total_expense": 97407289.64,
+    "own_revenue_percentage": 21.1,
+    "transfers_revenue_percentage": 78.9,
+    "personnel_expense_percentage_rcl": 49.5
+  },
+  "per_capita_breakdown": {
+    "health": 1000.3,
+    "education": 1127.0,
+    "urbanism": 402.5,
+    "administration": 454.2,
+    "legislative": 140.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3327.2,
+      "health_per_capita": 780.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3573.6,
+      "health_per_capita": 840.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3820.1,
+      "health_per_capita": 900.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4025.4,
+      "health_per_capita": 960.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4107.6,
+      "health_per_capita": 1000.3
+    }
+  ]
+}

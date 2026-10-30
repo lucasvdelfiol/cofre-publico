@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3300506",
+  "city_name": "Bom Jardim",
+  "uf": "RJ",
+  "population": 28102,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 131200918.35,
+    "total_expense": 131053931.06,
+    "own_revenue_percentage": 30.1,
+    "transfers_revenue_percentage": 69.9,
+    "personnel_expense_percentage_rcl": 49.4
+  },
+  "per_capita_breakdown": {
+    "health": 1120.1,
+    "education": 1291.4,
+    "urbanism": 546.4,
+    "administration": 378.5,
+    "legislative": 111.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3777.4,
+      "health_per_capita": 873.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4057.2,
+      "health_per_capita": 940.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4337.1,
+      "health_per_capita": 1008.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4570.2,
+      "health_per_capita": 1075.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4663.5,
+      "health_per_capita": 1120.1
+    }
+  ]
+}

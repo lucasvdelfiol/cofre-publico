@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3163300",
+  "city_name": "São José do Divino",
+  "uf": "MG",
+  "population": 3464,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 18647677.7,
+    "total_expense": 18501619.89,
+    "own_revenue_percentage": 21.6,
+    "transfers_revenue_percentage": 78.4,
+    "personnel_expense_percentage_rcl": 45.6
+  },
+  "per_capita_breakdown": {
+    "health": 1166.8,
+    "education": 1308.8,
+    "urbanism": 673.8,
+    "administration": 636.4,
+    "legislative": 86.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4326.3,
+      "health_per_capita": 910.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4646.8,
+      "health_per_capita": 980.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4967.2,
+      "health_per_capita": 1050.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5234.3,
+      "health_per_capita": 1120.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5341.1,
+      "health_per_capita": 1166.8
+    }
+  ]
+}

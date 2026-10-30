@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2805703",
+  "city_name": "Propriá",
+  "uf": "SE",
+  "population": 26618,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 113239895.52,
+    "total_expense": 111153088.76,
+    "own_revenue_percentage": 24.9,
+    "transfers_revenue_percentage": 75.1,
+    "personnel_expense_percentage_rcl": 52.4
+  },
+  "per_capita_breakdown": {
+    "health": 856.6,
+    "education": 1259.0,
+    "urbanism": 630.8,
+    "administration": 393.3,
+    "legislative": 102.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3382.5,
+      "health_per_capita": 668.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3633.0,
+      "health_per_capita": 719.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3883.6,
+      "health_per_capita": 770.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4092.4,
+      "health_per_capita": 822.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4175.9,
+      "health_per_capita": 856.6
+    }
+  ]
+}

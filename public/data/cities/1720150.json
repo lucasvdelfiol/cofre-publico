@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1720150",
+  "city_name": "São Félix do Tocantins",
+  "uf": "TO",
+  "population": 1783,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 8435043.01,
+    "total_expense": 8404660.59,
+    "own_revenue_percentage": 19.4,
+    "transfers_revenue_percentage": 80.6,
+    "personnel_expense_percentage_rcl": 46.3
+  },
+  "per_capita_breakdown": {
+    "health": 984.2,
+    "education": 1405.2,
+    "urbanism": 726.4,
+    "administration": 401.4,
+    "legislative": 109.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3818.2,
+      "health_per_capita": 767.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4101.0,
+      "health_per_capita": 826.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4383.8,
+      "health_per_capita": 885.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4619.5,
+      "health_per_capita": 944.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4713.8,
+      "health_per_capita": 984.2
+    }
+  ]
+}

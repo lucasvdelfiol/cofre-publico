@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3202207",
+  "city_name": "Fundão",
+  "uf": "ES",
+  "population": 18014,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 89106887.96,
+    "total_expense": 88343008.59,
+    "own_revenue_percentage": 12.4,
+    "transfers_revenue_percentage": 87.6,
+    "personnel_expense_percentage_rcl": 51.2
+  },
+  "per_capita_breakdown": {
+    "health": 1029.1,
+    "education": 1190.2,
+    "urbanism": 704.7,
+    "administration": 583.4,
+    "legislative": 115.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3972.3,
+      "health_per_capita": 802.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4266.6,
+      "health_per_capita": 864.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4560.8,
+      "health_per_capita": 926.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4806.0,
+      "health_per_capita": 987.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4904.1,
+      "health_per_capita": 1029.1
+    }
+  ]
+}

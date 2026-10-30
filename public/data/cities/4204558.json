@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4204558",
+  "city_name": "Correia Pinto",
+  "uf": "SC",
+  "population": 15727,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 71244060.85,
+    "total_expense": 71707589.77,
+    "own_revenue_percentage": 13.8,
+    "transfers_revenue_percentage": 86.2,
+    "personnel_expense_percentage_rcl": 53.1
+  },
+  "per_capita_breakdown": {
+    "health": 1170.6,
+    "education": 1395.3,
+    "urbanism": 574.8,
+    "administration": 394.6,
+    "legislative": 80.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3693.2,
+      "health_per_capita": 913.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3966.8,
+      "health_per_capita": 983.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4240.3,
+      "health_per_capita": 1053.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4468.3,
+      "health_per_capita": 1123.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4559.5,
+      "health_per_capita": 1170.6
+    }
+  ]
+}

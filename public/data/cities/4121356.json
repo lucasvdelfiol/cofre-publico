@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4121356",
+  "city_name": "Rancho Alegre D'Oeste",
+  "uf": "PR",
+  "population": 2618,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 14648765.37,
+    "total_expense": 14285789.34,
+    "own_revenue_percentage": 8.8,
+    "transfers_revenue_percentage": 91.2,
+    "personnel_expense_percentage_rcl": 53.0
+  },
+  "per_capita_breakdown": {
+    "health": 1254.0,
+    "education": 1729.3,
+    "urbanism": 826.5,
+    "administration": 386.2,
+    "legislative": 145.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4420.0,
+      "health_per_capita": 978.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4747.4,
+      "health_per_capita": 1053.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5074.8,
+      "health_per_capita": 1128.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5347.7,
+      "health_per_capita": 1203.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5456.8,
+      "health_per_capita": 1254.0
+    }
+  ]
+}

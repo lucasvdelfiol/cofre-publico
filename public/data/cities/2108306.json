@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2108306",
+  "city_name": "Penalva",
+  "uf": "MA",
+  "population": 32511,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 149973743.48,
+    "total_expense": 150480890.37,
+    "own_revenue_percentage": 29.9,
+    "transfers_revenue_percentage": 70.1,
+    "personnel_expense_percentage_rcl": 49.4
+  },
+  "per_capita_breakdown": {
+    "health": 1112.3,
+    "education": 1204.0,
+    "urbanism": 618.4,
+    "administration": 309.4,
+    "legislative": 74.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3749.2,
+      "health_per_capita": 867.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4026.9,
+      "health_per_capita": 934.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4304.6,
+      "health_per_capita": 1001.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4536.0,
+      "health_per_capita": 1067.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4628.6,
+      "health_per_capita": 1112.3
+    }
+  ]
+}

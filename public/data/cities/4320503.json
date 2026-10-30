@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4320503",
+  "city_name": "Sertão",
+  "uf": "RS",
+  "population": 5541,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 28005836.34,
+    "total_expense": 28037644.43,
+    "own_revenue_percentage": 15.3,
+    "transfers_revenue_percentage": 84.7,
+    "personnel_expense_percentage_rcl": 53.0
+  },
+  "per_capita_breakdown": {
+    "health": 1088.4,
+    "education": 1549.7,
+    "urbanism": 549.0,
+    "administration": 441.3,
+    "legislative": 164.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4098.6,
+      "health_per_capita": 849.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4402.2,
+      "health_per_capita": 914.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4705.8,
+      "health_per_capita": 979.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4958.8,
+      "health_per_capita": 1044.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5060.0,
+      "health_per_capita": 1088.4
+    }
+  ]
+}

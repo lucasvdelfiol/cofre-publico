@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1200252",
+  "city_name": "Epitaciolândia",
+  "uf": "AC",
+  "population": 18757,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 99195793.02,
+    "total_expense": 100030480.64,
+    "own_revenue_percentage": 12.0,
+    "transfers_revenue_percentage": 88.0,
+    "personnel_expense_percentage_rcl": 49.0
+  },
+  "per_capita_breakdown": {
+    "health": 1350.0,
+    "education": 1388.9,
+    "urbanism": 516.5,
+    "administration": 447.4,
+    "legislative": 185.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4319.7,
+      "health_per_capita": 1053.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4639.7,
+      "health_per_capita": 1134.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4959.7,
+      "health_per_capita": 1215.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5226.3,
+      "health_per_capita": 1296.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5333.0,
+      "health_per_capita": 1350.0
+    }
+  ]
+}

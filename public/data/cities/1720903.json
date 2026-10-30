@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1720903",
+  "city_name": "Taguatinga",
+  "uf": "TO",
+  "population": 14011,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 72869722.27,
+    "total_expense": 71027582.53,
+    "own_revenue_percentage": 15.8,
+    "transfers_revenue_percentage": 84.2,
+    "personnel_expense_percentage_rcl": 52.0
+  },
+  "per_capita_breakdown": {
+    "health": 1102.5,
+    "education": 1266.5,
+    "urbanism": 596.4,
+    "administration": 321.1,
+    "legislative": 120.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4106.2,
+      "health_per_capita": 860.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4410.4,
+      "health_per_capita": 926.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4714.5,
+      "health_per_capita": 992.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4968.0,
+      "health_per_capita": 1058.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5069.4,
+      "health_per_capita": 1102.5
+    }
+  ]
+}

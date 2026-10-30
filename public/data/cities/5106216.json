@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5106216",
+  "city_name": "Nova Canaã do Norte",
+  "uf": "MT",
+  "population": 11707,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 56484182.64,
+    "total_expense": 54358068.6,
+    "own_revenue_percentage": 14.4,
+    "transfers_revenue_percentage": 85.6,
+    "personnel_expense_percentage_rcl": 52.8
+  },
+  "per_capita_breakdown": {
+    "health": 1244.1,
+    "education": 1157.6,
+    "urbanism": 684.5,
+    "administration": 491.1,
+    "legislative": 80.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3761.0,
+      "health_per_capita": 970.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4039.6,
+      "health_per_capita": 1045.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4318.2,
+      "health_per_capita": 1119.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4550.3,
+      "health_per_capita": 1194.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4643.2,
+      "health_per_capita": 1244.1
+    }
+  ]
+}

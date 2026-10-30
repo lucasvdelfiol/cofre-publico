@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3549953",
+  "city_name": "São Lourenço da Serra",
+  "uf": "SP",
+  "population": 16067,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 71222010.88,
+    "total_expense": 69817380.28,
+    "own_revenue_percentage": 8.5,
+    "transfers_revenue_percentage": 91.5,
+    "personnel_expense_percentage_rcl": 52.6
+  },
+  "per_capita_breakdown": {
+    "health": 1159.7,
+    "education": 1384.7,
+    "urbanism": 505.3,
+    "administration": 336.1,
+    "legislative": 145.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3519.8,
+      "health_per_capita": 904.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3780.5,
+      "health_per_capita": 974.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4041.2,
+      "health_per_capita": 1043.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4258.5,
+      "health_per_capita": 1113.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4345.4,
+      "health_per_capita": 1159.7
+    }
+  ]
+}

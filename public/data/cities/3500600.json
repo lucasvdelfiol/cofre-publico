@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3500600",
+  "city_name": "Águas de São Pedro",
+  "uf": "SP",
+  "population": 2780,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 13575225.99,
+    "total_expense": 13190029.02,
+    "own_revenue_percentage": 12.2,
+    "transfers_revenue_percentage": 87.8,
+    "personnel_expense_percentage_rcl": 48.7
+  },
+  "per_capita_breakdown": {
+    "health": 1022.6,
+    "education": 1195.6,
+    "urbanism": 717.5,
+    "administration": 549.7,
+    "legislative": 79.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3843.1,
+      "health_per_capita": 797.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4127.8,
+      "health_per_capita": 859.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4412.5,
+      "health_per_capita": 920.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4649.7,
+      "health_per_capita": 981.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4744.6,
+      "health_per_capita": 1022.6
+    }
+  ]
+}

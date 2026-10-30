@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4112504",
+  "city_name": "Jardim Alegre",
+  "uf": "PR",
+  "population": 12004,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 53422103.83,
+    "total_expense": 52949792.33,
+    "own_revenue_percentage": 19.3,
+    "transfers_revenue_percentage": 80.7,
+    "personnel_expense_percentage_rcl": 49.7
+  },
+  "per_capita_breakdown": {
+    "health": 889.6,
+    "education": 1091.9,
+    "urbanism": 387.0,
+    "administration": 351.1,
+    "legislative": 135.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3572.9,
+      "health_per_capita": 693.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3837.6,
+      "health_per_capita": 747.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4102.2,
+      "health_per_capita": 800.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4322.8,
+      "health_per_capita": 854.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4411.0,
+      "health_per_capita": 889.6
+    }
+  ]
+}

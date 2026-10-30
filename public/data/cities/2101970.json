@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2101970",
+  "city_name": "Boa Vista do Gurupi",
+  "uf": "MA",
+  "population": 7574,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 34345428.82,
+    "total_expense": 33489408.73,
+    "own_revenue_percentage": 19.3,
+    "transfers_revenue_percentage": 80.7,
+    "personnel_expense_percentage_rcl": 48.5
+  },
+  "per_capita_breakdown": {
+    "health": 1154.1,
+    "education": 1294.5,
+    "urbanism": 556.5,
+    "administration": 504.7,
+    "legislative": 91.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3581.5,
+      "health_per_capita": 900.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3846.8,
+      "health_per_capita": 969.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4112.1,
+      "health_per_capita": 1038.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4333.2,
+      "health_per_capita": 1107.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4421.6,
+      "health_per_capita": 1154.1
+    }
+  ]
+}

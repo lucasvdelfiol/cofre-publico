@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2106102",
+  "city_name": "Loreto",
+  "uf": "MA",
+  "population": 11597,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 59052767.02,
+    "total_expense": 57922370.04,
+    "own_revenue_percentage": 15.0,
+    "transfers_revenue_percentage": 85.0,
+    "personnel_expense_percentage_rcl": 53.2
+  },
+  "per_capita_breakdown": {
+    "health": 1004.5,
+    "education": 1282.6,
+    "urbanism": 498.4,
+    "administration": 485.2,
+    "legislative": 168.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4045.6,
+      "health_per_capita": 783.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4345.3,
+      "health_per_capita": 843.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4645.0,
+      "health_per_capita": 904.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4894.7,
+      "health_per_capita": 964.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4994.6,
+      "health_per_capita": 1004.5
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4320107",
+  "city_name": "Sarandi",
+  "uf": "RS",
+  "population": 22851,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 113342862.35,
+    "total_expense": 109529314.9,
+    "own_revenue_percentage": 21.0,
+    "transfers_revenue_percentage": 79.0,
+    "personnel_expense_percentage_rcl": 47.7
+  },
+  "per_capita_breakdown": {
+    "health": 1266.3,
+    "education": 1494.6,
+    "urbanism": 424.6,
+    "administration": 455.8,
+    "legislative": 118.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3882.5,
+      "health_per_capita": 987.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4170.1,
+      "health_per_capita": 1063.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4457.7,
+      "health_per_capita": 1139.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4697.3,
+      "health_per_capita": 1215.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4793.2,
+      "health_per_capita": 1266.3
+    }
+  ]
+}

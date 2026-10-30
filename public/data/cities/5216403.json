@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5216403",
+  "city_name": "Paraúna",
+  "uf": "GO",
+  "population": 10659,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 49393611.13,
+    "total_expense": 49148852.95,
+    "own_revenue_percentage": 17.6,
+    "transfers_revenue_percentage": 82.4,
+    "personnel_expense_percentage_rcl": 52.3
+  },
+  "per_capita_breakdown": {
+    "health": 996.6,
+    "education": 1289.2,
+    "urbanism": 483.6,
+    "administration": 398.0,
+    "legislative": 89.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3734.9,
+      "health_per_capita": 777.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4011.6,
+      "health_per_capita": 837.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4288.2,
+      "health_per_capita": 896.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4518.8,
+      "health_per_capita": 956.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4611.0,
+      "health_per_capita": 996.6
+    }
+  ]
+}

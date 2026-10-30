@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3141702",
+  "city_name": "Mesquita",
+  "uf": "MG",
+  "population": 5040,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 26381162.95,
+    "total_expense": 26130572.58,
+    "own_revenue_percentage": 19.9,
+    "transfers_revenue_percentage": 80.1,
+    "personnel_expense_percentage_rcl": 48.9
+  },
+  "per_capita_breakdown": {
+    "health": 1232.9,
+    "education": 1573.3,
+    "urbanism": 797.1,
+    "administration": 406.0,
+    "legislative": 150.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4199.5,
+      "health_per_capita": 961.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4510.6,
+      "health_per_capita": 1035.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4821.7,
+      "health_per_capita": 1109.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5080.9,
+      "health_per_capita": 1183.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5184.6,
+      "health_per_capita": 1232.9
+    }
+  ]
+}

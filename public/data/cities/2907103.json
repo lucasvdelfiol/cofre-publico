@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2907103",
+  "city_name": "Carinhanha",
+  "uf": "BA",
+  "population": 28869,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 135852916.81,
+    "total_expense": 136986762.98,
+    "own_revenue_percentage": 23.5,
+    "transfers_revenue_percentage": 76.5,
+    "personnel_expense_percentage_rcl": 47.2
+  },
+  "per_capita_breakdown": {
+    "health": 1071.0,
+    "education": 1328.6,
+    "urbanism": 702.5,
+    "administration": 450.6,
+    "legislative": 138.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3843.5,
+      "health_per_capita": 835.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4128.2,
+      "health_per_capita": 899.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4412.9,
+      "health_per_capita": 963.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4650.2,
+      "health_per_capita": 1028.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4745.1,
+      "health_per_capita": 1071.0
+    }
+  ]
+}

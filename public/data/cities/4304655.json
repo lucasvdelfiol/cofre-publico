@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4304655",
+  "city_name": "Capão do Cipó",
+  "uf": "RS",
+  "population": 3119,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 15864729.0,
+    "total_expense": 15973612.8,
+    "own_revenue_percentage": 13.9,
+    "transfers_revenue_percentage": 86.1,
+    "personnel_expense_percentage_rcl": 52.8
+  },
+  "per_capita_breakdown": {
+    "health": 1224.4,
+    "education": 1626.5,
+    "urbanism": 573.6,
+    "administration": 387.8,
+    "legislative": 98.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4148.3,
+      "health_per_capita": 955.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4455.6,
+      "health_per_capita": 1028.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4762.9,
+      "health_per_capita": 1102.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5019.0,
+      "health_per_capita": 1175.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5121.4,
+      "health_per_capita": 1224.4
+    }
+  ]
+}

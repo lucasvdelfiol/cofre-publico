@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4122172",
+  "city_name": "Rio Branco do Ivaí",
+  "uf": "PR",
+  "population": 3808,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 18836774.09,
+    "total_expense": 18249830.43,
+    "own_revenue_percentage": 16.3,
+    "transfers_revenue_percentage": 83.7,
+    "personnel_expense_percentage_rcl": 53.4
+  },
+  "per_capita_breakdown": {
+    "health": 991.7,
+    "education": 1427.4,
+    "urbanism": 547.3,
+    "administration": 369.6,
+    "legislative": 159.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3881.9,
+      "health_per_capita": 773.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4169.5,
+      "health_per_capita": 833.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4457.0,
+      "health_per_capita": 892.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4696.6,
+      "health_per_capita": 952.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4792.5,
+      "health_per_capita": 991.7
+    }
+  ]
+}

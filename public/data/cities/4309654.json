@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4309654",
+  "city_name": "Hulha Negra",
+  "uf": "RS",
+  "population": 5976,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 27182200.65,
+    "total_expense": 26670060.49,
+    "own_revenue_percentage": 21.1,
+    "transfers_revenue_percentage": 78.9,
+    "personnel_expense_percentage_rcl": 50.6
+  },
+  "per_capita_breakdown": {
+    "health": 964.9,
+    "education": 1299.5,
+    "urbanism": 433.3,
+    "administration": 414.1,
+    "legislative": 76.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3614.9,
+      "health_per_capita": 752.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3882.7,
+      "health_per_capita": 810.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4150.5,
+      "health_per_capita": 868.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4373.6,
+      "health_per_capita": 926.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4462.9,
+      "health_per_capita": 964.9
+    }
+  ]
+}

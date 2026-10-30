@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4119509",
+  "city_name": "Piraquara",
+  "uf": "PR",
+  "population": 118730,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 623441608.14,
+    "total_expense": 626361439.37,
+    "own_revenue_percentage": 38.6,
+    "transfers_revenue_percentage": 61.4,
+    "personnel_expense_percentage_rcl": 46.2
+  },
+  "per_capita_breakdown": {
+    "health": 1289.9,
+    "education": 1349.9,
+    "urbanism": 778.1,
+    "administration": 322.8,
+    "legislative": 143.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4273.2,
+      "health_per_capita": 1006.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4589.7,
+      "health_per_capita": 1083.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4906.2,
+      "health_per_capita": 1160.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5170.0,
+      "health_per_capita": 1238.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5275.5,
+      "health_per_capita": 1289.9
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3301801",
+  "city_name": "Engenheiro Paulo de Frontin",
+  "uf": "RJ",
+  "population": 12242,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 67941779.7,
+    "total_expense": 65972880.08,
+    "own_revenue_percentage": 21.1,
+    "transfers_revenue_percentage": 78.9,
+    "personnel_expense_percentage_rcl": 46.6
+  },
+  "per_capita_breakdown": {
+    "health": 1389.0,
+    "education": 1301.8,
+    "urbanism": 708.1,
+    "administration": 472.6,
+    "legislative": 137.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4365.2,
+      "health_per_capita": 1083.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4688.5,
+      "health_per_capita": 1166.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5011.9,
+      "health_per_capita": 1250.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5281.3,
+      "health_per_capita": 1333.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5389.1,
+      "health_per_capita": 1389.0
+    }
+  ]
+}

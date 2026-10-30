@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3113602",
+  "city_name": "Careaçu",
+  "uf": "MG",
+  "population": 6816,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 36123143.33,
+    "total_expense": 35315243.32,
+    "own_revenue_percentage": 19.7,
+    "transfers_revenue_percentage": 80.3,
+    "personnel_expense_percentage_rcl": 45.8
+  },
+  "per_capita_breakdown": {
+    "health": 1394.4,
+    "education": 1537.7,
+    "urbanism": 536.6,
+    "administration": 315.1,
+    "legislative": 172.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4196.8,
+      "health_per_capita": 1087.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4507.6,
+      "health_per_capita": 1171.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4818.5,
+      "health_per_capita": 1255.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5077.6,
+      "health_per_capita": 1338.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5181.2,
+      "health_per_capita": 1394.4
+    }
+  ]
+}

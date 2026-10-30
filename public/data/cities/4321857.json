@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4321857",
+  "city_name": "Três Palmeiras",
+  "uf": "RS",
+  "population": 4716,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 22614836.12,
+    "total_expense": 22295852.3,
+    "own_revenue_percentage": 11.7,
+    "transfers_revenue_percentage": 88.3,
+    "personnel_expense_percentage_rcl": 47.9
+  },
+  "per_capita_breakdown": {
+    "health": 1128.5,
+    "education": 1458.0,
+    "urbanism": 419.2,
+    "administration": 515.4,
+    "legislative": 159.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3829.4,
+      "health_per_capita": 880.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4113.1,
+      "health_per_capita": 947.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4396.8,
+      "health_per_capita": 1015.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4633.1,
+      "health_per_capita": 1083.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4727.7,
+      "health_per_capita": 1128.5
+    }
+  ]
+}

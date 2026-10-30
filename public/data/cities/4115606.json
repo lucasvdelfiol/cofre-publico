@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4115606",
+  "city_name": "Matelândia",
+  "uf": "PR",
+  "population": 18450,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 96724943.29,
+    "total_expense": 96446217.35,
+    "own_revenue_percentage": 20.9,
+    "transfers_revenue_percentage": 79.1,
+    "personnel_expense_percentage_rcl": 49.5
+  },
+  "per_capita_breakdown": {
+    "health": 1229.1,
+    "education": 1487.5,
+    "urbanism": 604.5,
+    "administration": 562.2,
+    "legislative": 165.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4234.2,
+      "health_per_capita": 958.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4547.8,
+      "health_per_capita": 1032.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4861.5,
+      "health_per_capita": 1106.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5122.9,
+      "health_per_capita": 1179.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5227.4,
+      "health_per_capita": 1229.1
+    }
+  ]
+}

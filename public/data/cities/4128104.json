@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4128104",
+  "city_name": "Umuarama",
+  "uf": "PR",
+  "population": 117095,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 556054932.25,
+    "total_expense": 541451687.14,
+    "own_revenue_percentage": 47.2,
+    "transfers_revenue_percentage": 52.8,
+    "personnel_expense_percentage_rcl": 46.2
+  },
+  "per_capita_breakdown": {
+    "health": 1044.6,
+    "education": 1395.8,
+    "urbanism": 639.7,
+    "administration": 404.4,
+    "legislative": 102.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3745.4,
+      "health_per_capita": 814.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4022.9,
+      "health_per_capita": 877.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4300.3,
+      "health_per_capita": 940.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4531.5,
+      "health_per_capita": 1002.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4624.0,
+      "health_per_capita": 1044.6
+    }
+  ]
+}

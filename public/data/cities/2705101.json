@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2705101",
+  "city_name": "Matriz de Camaragibe",
+  "uf": "AL",
+  "population": 23857,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 119315217.37,
+    "total_expense": 114943243.26,
+    "own_revenue_percentage": 31.2,
+    "transfers_revenue_percentage": 68.8,
+    "personnel_expense_percentage_rcl": 49.3
+  },
+  "per_capita_breakdown": {
+    "health": 1110.6,
+    "education": 1485.6,
+    "urbanism": 571.1,
+    "administration": 456.2,
+    "legislative": 88.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3902.6,
+      "health_per_capita": 866.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4191.7,
+      "health_per_capita": 932.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4480.7,
+      "health_per_capita": 999.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4721.6,
+      "health_per_capita": 1066.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4818.0,
+      "health_per_capita": 1110.6
+    }
+  ]
+}

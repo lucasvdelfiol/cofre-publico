@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5101308",
+  "city_name": "Arenápolis",
+  "uf": "MT",
+  "population": 10576,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 54151210.67,
+    "total_expense": 52526129.05,
+    "own_revenue_percentage": 8.4,
+    "transfers_revenue_percentage": 91.6,
+    "personnel_expense_percentage_rcl": 51.8
+  },
+  "per_capita_breakdown": {
+    "health": 1260.2,
+    "education": 1297.5,
+    "urbanism": 623.4,
+    "administration": 522.7,
+    "legislative": 126.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4022.9,
+      "health_per_capita": 983.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4320.9,
+      "health_per_capita": 1058.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4618.8,
+      "health_per_capita": 1134.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4867.2,
+      "health_per_capita": 1209.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4966.5,
+      "health_per_capita": 1260.2
+    }
+  ]
+}

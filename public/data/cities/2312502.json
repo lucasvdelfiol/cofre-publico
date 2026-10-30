@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2312502",
+  "city_name": "São João do Jaguaribe",
+  "uf": "CE",
+  "population": 5855,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 28521248.45,
+    "total_expense": 28478636.37,
+    "own_revenue_percentage": 19.7,
+    "transfers_revenue_percentage": 80.3,
+    "personnel_expense_percentage_rcl": 47.4
+  },
+  "per_capita_breakdown": {
+    "health": 1060.7,
+    "education": 1550.3,
+    "urbanism": 722.7,
+    "administration": 326.5,
+    "legislative": 155.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3939.8,
+      "health_per_capita": 827.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4231.7,
+      "health_per_capita": 891.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4523.5,
+      "health_per_capita": 954.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4766.7,
+      "health_per_capita": 1018.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4864.0,
+      "health_per_capita": 1060.7
+    }
+  ]
+}

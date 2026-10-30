@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4126207",
+  "city_name": "Sapopema",
+  "uf": "PR",
+  "population": 6695,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 34526656.25,
+    "total_expense": 34250173.15,
+    "own_revenue_percentage": 21.3,
+    "transfers_revenue_percentage": 78.7,
+    "personnel_expense_percentage_rcl": 52.1
+  },
+  "per_capita_breakdown": {
+    "health": 1175.6,
+    "education": 1595.9,
+    "urbanism": 595.8,
+    "administration": 437.5,
+    "legislative": 136.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4143.8,
+      "health_per_capita": 917.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4450.7,
+      "health_per_capita": 987.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4757.7,
+      "health_per_capita": 1058.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5013.5,
+      "health_per_capita": 1128.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5115.8,
+      "health_per_capita": 1175.6
+    }
+  ]
+}

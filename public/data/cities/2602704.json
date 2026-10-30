@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2602704",
+  "city_name": "Buenos Aires",
+  "uf": "PE",
+  "population": 12808,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 67950802.27,
+    "total_expense": 65790989.32,
+    "own_revenue_percentage": 11.3,
+    "transfers_revenue_percentage": 88.7,
+    "personnel_expense_percentage_rcl": 51.6
+  },
+  "per_capita_breakdown": {
+    "health": 1420.8,
+    "education": 1575.7,
+    "urbanism": 770.3,
+    "administration": 369.9,
+    "legislative": 171.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4160.7,
+      "health_per_capita": 1108.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4468.9,
+      "health_per_capita": 1193.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4777.1,
+      "health_per_capita": 1278.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5034.0,
+      "health_per_capita": 1364.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5136.7,
+      "health_per_capita": 1420.8
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4217402",
+  "city_name": "Schroeder",
+  "uf": "SC",
+  "population": 20061,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 89055280.47,
+    "total_expense": 86268128.82,
+    "own_revenue_percentage": 19.5,
+    "transfers_revenue_percentage": 80.5,
+    "personnel_expense_percentage_rcl": 47.5
+  },
+  "per_capita_breakdown": {
+    "health": 977.1,
+    "education": 1370.6,
+    "urbanism": 394.2,
+    "administration": 296.0,
+    "legislative": 85.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3483.2,
+      "health_per_capita": 762.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3741.3,
+      "health_per_capita": 820.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3999.3,
+      "health_per_capita": 879.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4214.3,
+      "health_per_capita": 938.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4300.3,
+      "health_per_capita": 977.1
+    }
+  ]
+}

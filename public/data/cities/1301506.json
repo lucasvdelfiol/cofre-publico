@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1301506",
+  "city_name": "Envira",
+  "uf": "AM",
+  "population": 17186,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 80099160.87,
+    "total_expense": 77943456.39,
+    "own_revenue_percentage": 8.9,
+    "transfers_revenue_percentage": 91.1,
+    "personnel_expense_percentage_rcl": 49.4
+  },
+  "per_capita_breakdown": {
+    "health": 1178.4,
+    "education": 1386.4,
+    "urbanism": 661.3,
+    "administration": 467.8,
+    "legislative": 104.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3673.6,
+      "health_per_capita": 919.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3945.7,
+      "health_per_capita": 989.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4217.8,
+      "health_per_capita": 1060.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4444.6,
+      "health_per_capita": 1131.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4535.3,
+      "health_per_capita": 1178.4
+    }
+  ]
+}

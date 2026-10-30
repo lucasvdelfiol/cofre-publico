@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2930758",
+  "city_name": "Sítio do Mato",
+  "uf": "BA",
+  "population": 13408,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 68089135.94,
+    "total_expense": 67560040.82,
+    "own_revenue_percentage": 12.5,
+    "transfers_revenue_percentage": 87.5,
+    "personnel_expense_percentage_rcl": 53.6
+  },
+  "per_capita_breakdown": {
+    "health": 1094.1,
+    "education": 1576.8,
+    "urbanism": 803.8,
+    "administration": 399.7,
+    "legislative": 76.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4081.4,
+      "health_per_capita": 853.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4383.8,
+      "health_per_capita": 919.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4686.1,
+      "health_per_capita": 984.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4938.0,
+      "health_per_capita": 1050.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5038.8,
+      "health_per_capita": 1094.1
+    }
+  ]
+}

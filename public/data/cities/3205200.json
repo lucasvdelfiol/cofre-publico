@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3205200",
+  "city_name": "Vila Velha",
+  "uf": "ES",
+  "population": 467722,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 2584250528.4,
+    "total_expense": 2543447646.24,
+    "own_revenue_percentage": 42.7,
+    "transfers_revenue_percentage": 57.3,
+    "personnel_expense_percentage_rcl": 49.3
+  },
+  "per_capita_breakdown": {
+    "health": 1170.8,
+    "education": 1553.3,
+    "urbanism": 806.6,
+    "administration": 337.2,
+    "legislative": 151.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4404.7,
+      "health_per_capita": 913.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4731.0,
+      "health_per_capita": 983.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5057.2,
+      "health_per_capita": 1053.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5329.1,
+      "health_per_capita": 1124.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5437.9,
+      "health_per_capita": 1170.8
+    }
+  ]
+}

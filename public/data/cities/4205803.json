@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4205803",
+  "city_name": "Garuva",
+  "uf": "SC",
+  "population": 18545,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 91627919.45,
+    "total_expense": 88397887.39,
+    "own_revenue_percentage": 13.0,
+    "transfers_revenue_percentage": 87.0,
+    "personnel_expense_percentage_rcl": 49.6
+  },
+  "per_capita_breakdown": {
+    "health": 1055.9,
+    "education": 1192.9,
+    "urbanism": 405.6,
+    "administration": 567.2,
+    "legislative": 138.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3861.0,
+      "health_per_capita": 823.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4147.0,
+      "health_per_capita": 887.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4433.0,
+      "health_per_capita": 950.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4671.4,
+      "health_per_capita": 1013.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4766.7,
+      "health_per_capita": 1055.9
+    }
+  ]
+}

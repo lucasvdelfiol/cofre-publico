@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3126604",
+  "city_name": "Francisco Dumont",
+  "uf": "MG",
+  "population": 4503,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 23029813.49,
+    "total_expense": 23098859.82,
+    "own_revenue_percentage": 22.0,
+    "transfers_revenue_percentage": 78.0,
+    "personnel_expense_percentage_rcl": 46.6
+  },
+  "per_capita_breakdown": {
+    "health": 1186.8,
+    "education": 1585.1,
+    "urbanism": 715.4,
+    "administration": 378.2,
+    "legislative": 141.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4155.1,
+      "health_per_capita": 925.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4462.8,
+      "health_per_capita": 996.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4770.6,
+      "health_per_capita": 1068.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5027.1,
+      "health_per_capita": 1139.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5129.7,
+      "health_per_capita": 1186.8
+    }
+  ]
+}

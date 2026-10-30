@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3130101",
+  "city_name": "Igarapé",
+  "uf": "MG",
+  "population": 45847,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 215999036.77,
+    "total_expense": 215532621.99,
+    "own_revenue_percentage": 30.8,
+    "transfers_revenue_percentage": 69.2,
+    "personnel_expense_percentage_rcl": 52.8
+  },
+  "per_capita_breakdown": {
+    "health": 1186.9,
+    "education": 1160.6,
+    "urbanism": 497.3,
+    "administration": 458.0,
+    "legislative": 101.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3807.9,
+      "health_per_capita": 925.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4090.0,
+      "health_per_capita": 997.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4372.0,
+      "health_per_capita": 1068.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4607.1,
+      "health_per_capita": 1139.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4701.1,
+      "health_per_capita": 1186.9
+    }
+  ]
+}

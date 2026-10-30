@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1200336",
+  "city_name": "Mâncio Lima",
+  "uf": "AC",
+  "population": 19294,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 85186281.23,
+    "total_expense": 85141292.01,
+    "own_revenue_percentage": 9.4,
+    "transfers_revenue_percentage": 90.6,
+    "personnel_expense_percentage_rcl": 50.1
+  },
+  "per_capita_breakdown": {
+    "health": 923.7,
+    "education": 1195.6,
+    "urbanism": 510.8,
+    "administration": 294.2,
+    "legislative": 73.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3574.4,
+      "health_per_capita": 720.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3839.1,
+      "health_per_capita": 775.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4103.9,
+      "health_per_capita": 831.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4324.5,
+      "health_per_capita": 886.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4412.8,
+      "health_per_capita": 923.7
+    }
+  ]
+}

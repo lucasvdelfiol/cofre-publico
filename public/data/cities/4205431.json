@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4205431",
+  "city_name": "Formosa do Sul",
+  "uf": "SC",
+  "population": 2682,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 14229322.45,
+    "total_expense": 14102519.64,
+    "own_revenue_percentage": 15.4,
+    "transfers_revenue_percentage": 84.6,
+    "personnel_expense_percentage_rcl": 46.7
+  },
+  "per_capita_breakdown": {
+    "health": 1370.2,
+    "education": 1371.0,
+    "urbanism": 741.0,
+    "administration": 421.7,
+    "legislative": 149.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4259.1,
+      "health_per_capita": 1068.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4574.6,
+      "health_per_capita": 1151.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4890.1,
+      "health_per_capita": 1233.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5153.0,
+      "health_per_capita": 1315.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5258.2,
+      "health_per_capita": 1370.2
+    }
+  ]
+}

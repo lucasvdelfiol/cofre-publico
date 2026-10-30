@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3549706",
+  "city_name": "São José do Rio Pardo",
+  "uf": "SP",
+  "population": 52205,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 260690198.74,
+    "total_expense": 260010678.94,
+    "own_revenue_percentage": 31.2,
+    "transfers_revenue_percentage": 68.8,
+    "personnel_expense_percentage_rcl": 51.6
+  },
+  "per_capita_breakdown": {
+    "health": 1118.7,
+    "education": 1266.7,
+    "urbanism": 429.7,
+    "administration": 443.7,
+    "legislative": 141.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4034.3,
+      "health_per_capita": 872.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4333.1,
+      "health_per_capita": 939.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4632.0,
+      "health_per_capita": 1006.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4881.0,
+      "health_per_capita": 1074.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4980.6,
+      "health_per_capita": 1118.7
+    }
+  ]
+}

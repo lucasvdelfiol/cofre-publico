@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3529401",
+  "city_name": "Mauá",
+  "uf": "SP",
+  "population": 418261,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 2322140667.81,
+    "total_expense": 2281892115.5,
+    "own_revenue_percentage": 53.0,
+    "transfers_revenue_percentage": 47.0,
+    "personnel_expense_percentage_rcl": 45.0
+  },
+  "per_capita_breakdown": {
+    "health": 1390.6,
+    "education": 1320.3,
+    "urbanism": 734.0,
+    "administration": 396.8,
+    "legislative": 134.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4419.1,
+      "health_per_capita": 1084.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4746.5,
+      "health_per_capita": 1168.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5073.8,
+      "health_per_capita": 1251.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5346.6,
+      "health_per_capita": 1335.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5455.7,
+      "health_per_capita": 1390.6
+    }
+  ]
+}

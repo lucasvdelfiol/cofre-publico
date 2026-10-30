@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3118106",
+  "city_name": "Congonhas do Norte",
+  "uf": "MG",
+  "population": 4831,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 25585271.66,
+    "total_expense": 24919707.89,
+    "own_revenue_percentage": 10.2,
+    "transfers_revenue_percentage": 89.8,
+    "personnel_expense_percentage_rcl": 52.9
+  },
+  "per_capita_breakdown": {
+    "health": 1366.1,
+    "education": 1241.7,
+    "urbanism": 598.9,
+    "administration": 464.4,
+    "legislative": 178.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4178.2,
+      "health_per_capita": 1065.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4487.7,
+      "health_per_capita": 1147.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4797.2,
+      "health_per_capita": 1229.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5055.1,
+      "health_per_capita": 1311.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5158.3,
+      "health_per_capita": 1366.1
+    }
+  ]
+}

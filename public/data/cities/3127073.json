@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3127073",
+  "city_name": "Fruta de Leite",
+  "uf": "MG",
+  "population": 4647,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 21206864.23,
+    "total_expense": 20550417.41,
+    "own_revenue_percentage": 14.4,
+    "transfers_revenue_percentage": 85.6,
+    "personnel_expense_percentage_rcl": 52.3
+  },
+  "per_capita_breakdown": {
+    "health": 1034.2,
+    "education": 1396.8,
+    "urbanism": 410.3,
+    "administration": 377.0,
+    "legislative": 138.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3582.1,
+      "health_per_capita": 806.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3847.4,
+      "health_per_capita": 868.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4112.7,
+      "health_per_capita": 930.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4333.9,
+      "health_per_capita": 992.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4422.3,
+      "health_per_capita": 1034.2
+    }
+  ]
+}

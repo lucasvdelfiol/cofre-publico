@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4319901",
+  "city_name": "Sapiranga",
+  "uf": "RS",
+  "population": 75648,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 369027765.73,
+    "total_expense": 363757820.38,
+    "own_revenue_percentage": 31.4,
+    "transfers_revenue_percentage": 68.6,
+    "personnel_expense_percentage_rcl": 48.8
+  },
+  "per_capita_breakdown": {
+    "health": 1199.3,
+    "education": 1217.2,
+    "urbanism": 514.2,
+    "administration": 391.7,
+    "legislative": 159.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3895.0,
+      "health_per_capita": 935.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4183.5,
+      "health_per_capita": 1007.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4472.0,
+      "health_per_capita": 1079.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4712.4,
+      "health_per_capita": 1151.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4808.6,
+      "health_per_capita": 1199.3
+    }
+  ]
+}

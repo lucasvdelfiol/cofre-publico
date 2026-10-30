@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3501152",
+  "city_name": "Alumínio",
+  "uf": "SP",
+  "population": 17301,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 98412616.75,
+    "total_expense": 94748423.22,
+    "own_revenue_percentage": 12.6,
+    "transfers_revenue_percentage": 87.4,
+    "personnel_expense_percentage_rcl": 53.5
+  },
+  "per_capita_breakdown": {
+    "health": 1135.4,
+    "education": 1513.9,
+    "urbanism": 675.0,
+    "administration": 650.0,
+    "legislative": 100.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4436.0,
+      "health_per_capita": 885.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4764.6,
+      "health_per_capita": 953.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5093.1,
+      "health_per_capita": 1021.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5367.0,
+      "health_per_capita": 1090.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5476.5,
+      "health_per_capita": 1135.4
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3160900",
+  "city_name": "São Brás do Suaçuí",
+  "uf": "MG",
+  "population": 3989,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 18852226.64,
+    "total_expense": 18982544.9,
+    "own_revenue_percentage": 20.6,
+    "transfers_revenue_percentage": 79.4,
+    "personnel_expense_percentage_rcl": 52.3
+  },
+  "per_capita_breakdown": {
+    "health": 1037.1,
+    "education": 1465.1,
+    "urbanism": 531.6,
+    "administration": 534.3,
+    "legislative": 113.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3854.5,
+      "health_per_capita": 808.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4140.1,
+      "health_per_capita": 871.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4425.6,
+      "health_per_capita": 933.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4663.5,
+      "health_per_capita": 995.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4758.7,
+      "health_per_capita": 1037.1
+    }
+  ]
+}

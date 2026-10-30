@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4217204",
+  "city_name": "São Miguel do Oeste",
+  "uf": "SC",
+  "population": 44330,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 191922482.53,
+    "total_expense": 189741059.74,
+    "own_revenue_percentage": 18.4,
+    "transfers_revenue_percentage": 81.6,
+    "personnel_expense_percentage_rcl": 53.0
+  },
+  "per_capita_breakdown": {
+    "health": 941.7,
+    "education": 1357.1,
+    "urbanism": 551.4,
+    "administration": 327.2,
+    "legislative": 112.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3467.0,
+      "health_per_capita": 734.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3723.8,
+      "health_per_capita": 791.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3980.6,
+      "health_per_capita": 847.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4194.6,
+      "health_per_capita": 904.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4280.2,
+      "health_per_capita": 941.7
+    }
+  ]
+}

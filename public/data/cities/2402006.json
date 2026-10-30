@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2402006",
+  "city_name": "Caicó",
+  "uf": "RN",
+  "population": 61146,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 288744356.67,
+    "total_expense": 286992496.28,
+    "own_revenue_percentage": 36.5,
+    "transfers_revenue_percentage": 63.5,
+    "personnel_expense_percentage_rcl": 52.3
+  },
+  "per_capita_breakdown": {
+    "health": 1195.9,
+    "education": 1313.0,
+    "urbanism": 502.8,
+    "administration": 318.9,
+    "legislative": 100.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3801.8,
+      "health_per_capita": 932.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4083.4,
+      "health_per_capita": 1004.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4365.0,
+      "health_per_capita": 1076.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4599.7,
+      "health_per_capita": 1148.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4693.6,
+      "health_per_capita": 1195.9
+    }
+  ]
+}

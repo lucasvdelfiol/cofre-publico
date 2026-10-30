@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1304005",
+  "city_name": "Silves",
+  "uf": "AM",
+  "population": 11559,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 59777070.38,
+    "total_expense": 59272033.63,
+    "own_revenue_percentage": 8.3,
+    "transfers_revenue_percentage": 91.7,
+    "personnel_expense_percentage_rcl": 50.9
+  },
+  "per_capita_breakdown": {
+    "health": 1408.5,
+    "education": 1240.0,
+    "urbanism": 747.8,
+    "administration": 585.7,
+    "legislative": 140.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4153.5,
+      "health_per_capita": 1098.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4461.2,
+      "health_per_capita": 1183.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4768.9,
+      "health_per_capita": 1267.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5025.2,
+      "health_per_capita": 1352.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5127.8,
+      "health_per_capita": 1408.5
+    }
+  ]
+}

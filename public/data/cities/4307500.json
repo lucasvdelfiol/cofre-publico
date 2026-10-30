@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4307500",
+  "city_name": "Espumoso",
+  "uf": "RS",
+  "population": 15173,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 77444991.66,
+    "total_expense": 77166690.87,
+    "own_revenue_percentage": 18.9,
+    "transfers_revenue_percentage": 81.1,
+    "personnel_expense_percentage_rcl": 47.9
+  },
+  "per_capita_breakdown": {
+    "health": 1220.9,
+    "education": 1354.4,
+    "urbanism": 552.0,
+    "administration": 360.5,
+    "legislative": 143.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4119.5,
+      "health_per_capita": 952.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4424.6,
+      "health_per_capita": 1025.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4729.8,
+      "health_per_capita": 1098.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4984.1,
+      "health_per_capita": 1172.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5085.8,
+      "health_per_capita": 1220.9
+    }
+  ]
+}

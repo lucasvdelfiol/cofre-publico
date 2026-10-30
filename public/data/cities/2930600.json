@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2930600",
+  "city_name": "Serrolândia",
+  "uf": "BA",
+  "population": 13335,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 63674780.14,
+    "total_expense": 61572920.11,
+    "own_revenue_percentage": 9.6,
+    "transfers_revenue_percentage": 90.4,
+    "personnel_expense_percentage_rcl": 48.2
+  },
+  "per_capita_breakdown": {
+    "health": 1101.0,
+    "education": 1446.4,
+    "urbanism": 688.3,
+    "administration": 382.4,
+    "legislative": 79.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3740.1,
+      "health_per_capita": 858.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4017.1,
+      "health_per_capita": 924.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4294.2,
+      "health_per_capita": 990.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4525.1,
+      "health_per_capita": 1057.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4617.4,
+      "health_per_capita": 1101.0
+    }
+  ]
+}

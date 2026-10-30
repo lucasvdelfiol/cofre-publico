@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2514651",
+  "city_name": "São José do Brejo do Cruz",
+  "uf": "PB",
+  "population": 1699,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 8004299.85,
+    "total_expense": 7758272.58,
+    "own_revenue_percentage": 11.0,
+    "transfers_revenue_percentage": 89.0,
+    "personnel_expense_percentage_rcl": 52.9
+  },
+  "per_capita_breakdown": {
+    "health": 1072.0,
+    "education": 1318.5,
+    "urbanism": 634.6,
+    "administration": 522.9,
+    "legislative": 72.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3698.8,
+      "health_per_capita": 836.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3972.8,
+      "health_per_capita": 900.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4246.8,
+      "health_per_capita": 964.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4475.1,
+      "health_per_capita": 1029.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4566.4,
+      "health_per_capita": 1072.0
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2313708",
+  "city_name": "Umari",
+  "uf": "CE",
+  "population": 6871,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 37099446.85,
+    "total_expense": 37030216.35,
+    "own_revenue_percentage": 20.4,
+    "transfers_revenue_percentage": 79.6,
+    "personnel_expense_percentage_rcl": 47.7
+  },
+  "per_capita_breakdown": {
+    "health": 1140.5,
+    "education": 1643.5,
+    "urbanism": 692.5,
+    "administration": 341.1,
+    "legislative": 177.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4365.3,
+      "health_per_capita": 889.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4688.7,
+      "health_per_capita": 958.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5012.0,
+      "health_per_capita": 1026.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5281.5,
+      "health_per_capita": 1094.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5389.3,
+      "health_per_capita": 1140.5
+    }
+  ]
+}

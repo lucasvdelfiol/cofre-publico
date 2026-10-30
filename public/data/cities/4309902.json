@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4309902",
+  "city_name": "Ibiraiaras",
+  "uf": "RS",
+  "population": 6776,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 37197472.65,
+    "total_expense": 35853121.48,
+    "own_revenue_percentage": 8.4,
+    "transfers_revenue_percentage": 91.6,
+    "personnel_expense_percentage_rcl": 47.2
+  },
+  "per_capita_breakdown": {
+    "health": 1390.6,
+    "education": 1604.4,
+    "urbanism": 445.5,
+    "administration": 540.7,
+    "legislative": 169.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4285.9,
+      "health_per_capita": 1084.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4603.3,
+      "health_per_capita": 1168.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4920.8,
+      "health_per_capita": 1251.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5185.4,
+      "health_per_capita": 1335.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5291.2,
+      "health_per_capita": 1390.6
+    }
+  ]
+}

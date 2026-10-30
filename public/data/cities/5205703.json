@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5205703",
+  "city_name": "Córrego do Ouro",
+  "uf": "GO",
+  "population": 2454,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 13117856.55,
+    "total_expense": 12698138.27,
+    "own_revenue_percentage": 10.9,
+    "transfers_revenue_percentage": 89.1,
+    "personnel_expense_percentage_rcl": 51.3
+  },
+  "per_capita_breakdown": {
+    "health": 1045.3,
+    "education": 1341.0,
+    "urbanism": 609.3,
+    "administration": 577.7,
+    "legislative": 138.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4191.3,
+      "health_per_capita": 815.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4501.8,
+      "health_per_capita": 878.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4812.3,
+      "health_per_capita": 940.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5071.0,
+      "health_per_capita": 1003.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5174.5,
+      "health_per_capita": 1045.3
+    }
+  ]
+}

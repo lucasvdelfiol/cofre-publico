@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5107602",
+  "city_name": "Rondonópolis",
+  "uf": "MT",
+  "population": 244911,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 1244438507.75,
+    "total_expense": 1243435794.37,
+    "own_revenue_percentage": 39.0,
+    "transfers_revenue_percentage": 61.0,
+    "personnel_expense_percentage_rcl": 49.0
+  },
+  "per_capita_breakdown": {
+    "health": 1285.6,
+    "education": 1350.1,
+    "urbanism": 426.7,
+    "administration": 506.9,
+    "legislative": 173.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4112.5,
+      "health_per_capita": 1002.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4417.1,
+      "health_per_capita": 1079.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4721.7,
+      "health_per_capita": 1157.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4975.6,
+      "health_per_capita": 1234.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5077.1,
+      "health_per_capita": 1285.6
+    }
+  ]
+}

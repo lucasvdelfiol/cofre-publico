@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1720002",
+  "city_name": "Santa Terezinha do Tocantins",
+  "uf": "TO",
+  "population": 2406,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 13239393.04,
+    "total_expense": 12763838.44,
+    "own_revenue_percentage": 17.3,
+    "transfers_revenue_percentage": 82.7,
+    "personnel_expense_percentage_rcl": 51.2
+  },
+  "per_capita_breakdown": {
+    "health": 1260.6,
+    "education": 1500.6,
+    "urbanism": 754.9,
+    "administration": 540.7,
+    "legislative": 183.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4297.1,
+      "health_per_capita": 983.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4615.4,
+      "health_per_capita": 1058.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4933.7,
+      "health_per_capita": 1134.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5198.9,
+      "health_per_capita": 1210.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5305.0,
+      "health_per_capita": 1260.6
+    }
+  ]
+}

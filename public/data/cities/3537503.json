@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3537503",
+  "city_name": "Pereiras",
+  "uf": "SP",
+  "population": 8737,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 37337629.9,
+    "total_expense": 37585400.92,
+    "own_revenue_percentage": 11.0,
+    "transfers_revenue_percentage": 89.0,
+    "personnel_expense_percentage_rcl": 48.8
+  },
+  "per_capita_breakdown": {
+    "health": 1160.5,
+    "education": 1259.8,
+    "urbanism": 398.5,
+    "administration": 314.7,
+    "legislative": 118.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3484.5,
+      "health_per_capita": 905.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3742.7,
+      "health_per_capita": 974.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4000.8,
+      "health_per_capita": 1044.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4215.9,
+      "health_per_capita": 1114.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4301.9,
+      "health_per_capita": 1160.5
+    }
+  ]
+}

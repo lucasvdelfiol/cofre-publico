@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2300754",
+  "city_name": "Amontada",
+  "uf": "CE",
+  "population": 42156,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 190374475.61,
+    "total_expense": 184455629.8,
+    "own_revenue_percentage": 19.3,
+    "transfers_revenue_percentage": 80.7,
+    "personnel_expense_percentage_rcl": 52.1
+  },
+  "per_capita_breakdown": {
+    "health": 959.0,
+    "education": 1054.4,
+    "urbanism": 575.5,
+    "administration": 339.8,
+    "legislative": 97.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3544.2,
+      "health_per_capita": 748.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3806.7,
+      "health_per_capita": 805.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4069.2,
+      "health_per_capita": 863.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4288.0,
+      "health_per_capita": 920.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4375.5,
+      "health_per_capita": 959.0
+    }
+  ]
+}

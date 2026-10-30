@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2900603",
+  "city_name": "Aiquara",
+  "uf": "BA",
+  "population": 4447,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 22581409.19,
+    "total_expense": 21907856.97,
+    "own_revenue_percentage": 13.1,
+    "transfers_revenue_percentage": 86.9,
+    "personnel_expense_percentage_rcl": 51.5
+  },
+  "per_capita_breakdown": {
+    "health": 1212.8,
+    "education": 1307.0,
+    "urbanism": 653.0,
+    "administration": 394.2,
+    "legislative": 137.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3990.4,
+      "health_per_capita": 946.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4286.0,
+      "health_per_capita": 1018.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4581.6,
+      "health_per_capita": 1091.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4827.9,
+      "health_per_capita": 1164.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4926.4,
+      "health_per_capita": 1212.8
+    }
+  ]
+}

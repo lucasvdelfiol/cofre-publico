@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4318424",
+  "city_name": "São João da Urtiga",
+  "uf": "RS",
+  "population": 4461,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 21133669.42,
+    "total_expense": 20592037.81,
+    "own_revenue_percentage": 16.4,
+    "transfers_revenue_percentage": 83.6,
+    "personnel_expense_percentage_rcl": 51.9
+  },
+  "per_capita_breakdown": {
+    "health": 1061.0,
+    "education": 1175.2,
+    "urbanism": 465.1,
+    "administration": 528.2,
+    "legislative": 146.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3739.0,
+      "health_per_capita": 827.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4015.9,
+      "health_per_capita": 891.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4292.9,
+      "health_per_capita": 954.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4523.7,
+      "health_per_capita": 1018.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4616.0,
+      "health_per_capita": 1061.0
+    }
+  ]
+}

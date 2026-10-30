@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5006358",
+  "city_name": "Paranhos",
+  "uf": "MS",
+  "population": 12921,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 65934210.22,
+    "total_expense": 66412313.44,
+    "own_revenue_percentage": 15.1,
+    "transfers_revenue_percentage": 84.9,
+    "personnel_expense_percentage_rcl": 51.1
+  },
+  "per_capita_breakdown": {
+    "health": 1119.7,
+    "education": 1306.2,
+    "urbanism": 544.1,
+    "administration": 390.4,
+    "legislative": 99.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4163.3,
+      "health_per_capita": 873.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4471.7,
+      "health_per_capita": 940.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4780.1,
+      "health_per_capita": 1007.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5037.1,
+      "health_per_capita": 1074.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5139.9,
+      "health_per_capita": 1119.7
+    }
+  ]
+}

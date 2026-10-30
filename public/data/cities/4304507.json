@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4304507",
+  "city_name": "Canguçu",
+  "uf": "RS",
+  "population": 49680,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 228250918.35,
+    "total_expense": 228224302.62,
+    "own_revenue_percentage": 28.8,
+    "transfers_revenue_percentage": 71.2,
+    "personnel_expense_percentage_rcl": 46.6
+  },
+  "per_capita_breakdown": {
+    "health": 936.7,
+    "education": 1122.8,
+    "urbanism": 476.9,
+    "administration": 453.2,
+    "legislative": 98.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3721.1,
+      "health_per_capita": 730.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3996.7,
+      "health_per_capita": 786.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4272.3,
+      "health_per_capita": 843.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4502.0,
+      "health_per_capita": 899.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4593.9,
+      "health_per_capita": 936.7
+    }
+  ]
+}

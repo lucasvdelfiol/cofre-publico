@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3135506",
+  "city_name": "Jequeri",
+  "uf": "MG",
+  "population": 12419,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 63364543.08,
+    "total_expense": 61408331.1,
+    "own_revenue_percentage": 8.1,
+    "transfers_revenue_percentage": 91.9,
+    "personnel_expense_percentage_rcl": 50.6
+  },
+  "per_capita_breakdown": {
+    "health": 1125.3,
+    "education": 1394.0,
+    "urbanism": 610.3,
+    "administration": 555.3,
+    "legislative": 85.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4005.2,
+      "health_per_capita": 877.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4301.9,
+      "health_per_capita": 945.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4598.6,
+      "health_per_capita": 1012.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4845.8,
+      "health_per_capita": 1080.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4944.7,
+      "health_per_capita": 1125.3
+    }
+  ]
+}

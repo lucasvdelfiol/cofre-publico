@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3202454",
+  "city_name": "Ibatiba",
+  "uf": "ES",
+  "population": 25380,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 119440771.45,
+    "total_expense": 117855794.99,
+    "own_revenue_percentage": 19.8,
+    "transfers_revenue_percentage": 80.2,
+    "personnel_expense_percentage_rcl": 46.1
+  },
+  "per_capita_breakdown": {
+    "health": 1023.6,
+    "education": 1352.3,
+    "urbanism": 642.0,
+    "administration": 354.8,
+    "legislative": 129.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3761.3,
+      "health_per_capita": 798.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4039.9,
+      "health_per_capita": 859.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4318.5,
+      "health_per_capita": 921.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4550.7,
+      "health_per_capita": 982.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4643.6,
+      "health_per_capita": 1023.6
+    }
+  ]
+}

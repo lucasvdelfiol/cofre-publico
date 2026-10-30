@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1707306",
+  "city_name": "Dueré",
+  "uf": "TO",
+  "population": 4248,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 22462316.48,
+    "total_expense": 21889273.76,
+    "own_revenue_percentage": 21.4,
+    "transfers_revenue_percentage": 78.6,
+    "personnel_expense_percentage_rcl": 51.0
+  },
+  "per_capita_breakdown": {
+    "health": 1279.9,
+    "education": 1290.6,
+    "urbanism": 694.9,
+    "administration": 576.6,
+    "legislative": 113.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4173.8,
+      "health_per_capita": 998.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4482.9,
+      "health_per_capita": 1075.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4792.1,
+      "health_per_capita": 1151.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5049.7,
+      "health_per_capita": 1228.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5152.8,
+      "health_per_capita": 1279.9
+    }
+  ]
+}

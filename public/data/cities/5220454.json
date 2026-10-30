@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5220454",
+  "city_name": "Senador Canedo",
+  "uf": "GO",
+  "population": 155635,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 886080775.08,
+    "total_expense": 853560808.86,
+    "own_revenue_percentage": 44.8,
+    "transfers_revenue_percentage": 55.2,
+    "personnel_expense_percentage_rcl": 51.3
+  },
+  "per_capita_breakdown": {
+    "health": 1333.5,
+    "education": 1751.1,
+    "urbanism": 566.0,
+    "administration": 460.1,
+    "legislative": 96.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4442.4,
+      "health_per_capita": 1040.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4771.4,
+      "health_per_capita": 1120.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5100.5,
+      "health_per_capita": 1200.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5374.7,
+      "health_per_capita": 1280.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5484.4,
+      "health_per_capita": 1333.5
+    }
+  ]
+}

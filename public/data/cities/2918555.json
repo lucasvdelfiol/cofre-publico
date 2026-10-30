@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2918555",
+  "city_name": "Jussari",
+  "uf": "BA",
+  "population": 5888,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 27622357.21,
+    "total_expense": 26849675.3,
+    "own_revenue_percentage": 21.5,
+    "transfers_revenue_percentage": 78.5,
+    "personnel_expense_percentage_rcl": 50.5
+  },
+  "per_capita_breakdown": {
+    "health": 1268.0,
+    "education": 1131.9,
+    "urbanism": 468.9,
+    "administration": 394.4,
+    "legislative": 101.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3693.7,
+      "health_per_capita": 989.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3967.3,
+      "health_per_capita": 1065.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4240.9,
+      "health_per_capita": 1141.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4468.9,
+      "health_per_capita": 1217.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4560.1,
+      "health_per_capita": 1268.0
+    }
+  ]
+}

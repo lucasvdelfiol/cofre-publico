@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4108551",
+  "city_name": "Godoy Moreira",
+  "uf": "PR",
+  "population": 2977,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 14043317.59,
+    "total_expense": 13522142.43,
+    "own_revenue_percentage": 13.2,
+    "transfers_revenue_percentage": 86.8,
+    "personnel_expense_percentage_rcl": 48.3
+  },
+  "per_capita_breakdown": {
+    "health": 1056.1,
+    "education": 1442.3,
+    "urbanism": 692.7,
+    "administration": 411.2,
+    "legislative": 97.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3679.2,
+      "health_per_capita": 823.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3951.7,
+      "health_per_capita": 887.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4224.2,
+      "health_per_capita": 950.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4451.4,
+      "health_per_capita": 1013.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4542.2,
+      "health_per_capita": 1056.1
+    }
+  ]
+}

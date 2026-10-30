@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3555505",
+  "city_name": "Ubirajara",
+  "uf": "SP",
+  "population": 5132,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 22408255.07,
+    "total_expense": 22452962.18,
+    "own_revenue_percentage": 20.9,
+    "transfers_revenue_percentage": 79.1,
+    "personnel_expense_percentage_rcl": 50.0
+  },
+  "per_capita_breakdown": {
+    "health": 1007.6,
+    "education": 1149.0,
+    "urbanism": 397.5,
+    "administration": 425.4,
+    "legislative": 131.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3543.8,
+      "health_per_capita": 785.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3806.3,
+      "health_per_capita": 846.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4068.8,
+      "health_per_capita": 906.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4287.6,
+      "health_per_capita": 967.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4375.1,
+      "health_per_capita": 1007.6
+    }
+  ]
+}

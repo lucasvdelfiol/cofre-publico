@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3106655",
+  "city_name": "Berizal",
+  "uf": "MG",
+  "population": 4201,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 18952936.71,
+    "total_expense": 18413925.47,
+    "own_revenue_percentage": 19.4,
+    "transfers_revenue_percentage": 80.6,
+    "personnel_expense_percentage_rcl": 48.6
+  },
+  "per_capita_breakdown": {
+    "health": 885.7,
+    "education": 1284.0,
+    "urbanism": 402.1,
+    "administration": 266.8,
+    "legislative": 131.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3550.4,
+      "health_per_capita": 690.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3813.4,
+      "health_per_capita": 744.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4076.4,
+      "health_per_capita": 797.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4295.5,
+      "health_per_capita": 850.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4383.2,
+      "health_per_capita": 885.7
+    }
+  ]
+}

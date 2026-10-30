@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4308003",
+  "city_name": "Faxinal do Soturno",
+  "uf": "RS",
+  "population": 6702,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 35752003.97,
+    "total_expense": 35677602.19,
+    "own_revenue_percentage": 17.6,
+    "transfers_revenue_percentage": 82.4,
+    "personnel_expense_percentage_rcl": 45.9
+  },
+  "per_capita_breakdown": {
+    "health": 1329.5,
+    "education": 1464.6,
+    "urbanism": 604.0,
+    "administration": 367.1,
+    "legislative": 151.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4312.0,
+      "health_per_capita": 1037.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4631.4,
+      "health_per_capita": 1116.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4950.8,
+      "health_per_capita": 1196.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5216.9,
+      "health_per_capita": 1276.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5323.4,
+      "health_per_capita": 1329.5
+    }
+  ]
+}

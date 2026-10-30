@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2107902",
+  "city_name": "Passagem Franca",
+  "uf": "MA",
+  "population": 17220,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 79135105.13,
+    "total_expense": 78231635.71,
+    "own_revenue_percentage": 9.6,
+    "transfers_revenue_percentage": 90.4,
+    "personnel_expense_percentage_rcl": 52.5
+  },
+  "per_capita_breakdown": {
+    "health": 1167.0,
+    "education": 1222.5,
+    "urbanism": 581.8,
+    "administration": 392.7,
+    "legislative": 82.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3679.9,
+      "health_per_capita": 910.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3952.5,
+      "health_per_capita": 980.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4225.1,
+      "health_per_capita": 1050.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4452.2,
+      "health_per_capita": 1120.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4543.1,
+      "health_per_capita": 1167.0
+    }
+  ]
+}

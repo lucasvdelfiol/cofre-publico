@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3128402",
+  "city_name": "Guarani",
+  "uf": "MG",
+  "population": 7714,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 41876406.2,
+    "total_expense": 40928994.76,
+    "own_revenue_percentage": 16.0,
+    "transfers_revenue_percentage": 84.0,
+    "personnel_expense_percentage_rcl": 48.3
+  },
+  "per_capita_breakdown": {
+    "health": 1102.4,
+    "education": 1488.7,
+    "urbanism": 436.3,
+    "administration": 482.7,
+    "legislative": 132.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4297.7,
+      "health_per_capita": 859.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4616.0,
+      "health_per_capita": 926.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4934.4,
+      "health_per_capita": 992.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5199.7,
+      "health_per_capita": 1058.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5305.8,
+      "health_per_capita": 1102.4
+    }
+  ]
+}

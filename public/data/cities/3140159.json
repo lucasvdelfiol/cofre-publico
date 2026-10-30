@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3140159",
+  "city_name": "Mário Campos",
+  "uf": "MG",
+  "population": 15900,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 88865633.15,
+    "total_expense": 86780080.02,
+    "own_revenue_percentage": 20.9,
+    "transfers_revenue_percentage": 79.1,
+    "personnel_expense_percentage_rcl": 52.5
+  },
+  "per_capita_breakdown": {
+    "health": 1137.0,
+    "education": 1454.3,
+    "urbanism": 506.9,
+    "administration": 585.1,
+    "legislative": 171.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4420.9,
+      "health_per_capita": 886.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4748.4,
+      "health_per_capita": 955.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5075.8,
+      "health_per_capita": 1023.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5348.7,
+      "health_per_capita": 1091.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5457.9,
+      "health_per_capita": 1137.0
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2209971",
+  "city_name": "São João do Arraial",
+  "uf": "PI",
+  "population": 8186,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 35726627.76,
+    "total_expense": 36008170.43,
+    "own_revenue_percentage": 17.3,
+    "transfers_revenue_percentage": 82.7,
+    "personnel_expense_percentage_rcl": 45.5
+  },
+  "per_capita_breakdown": {
+    "health": 1156.9,
+    "education": 1142.6,
+    "urbanism": 447.4,
+    "administration": 373.7,
+    "legislative": 81.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3563.0,
+      "health_per_capita": 902.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3827.0,
+      "health_per_capita": 971.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4090.9,
+      "health_per_capita": 1041.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4310.8,
+      "health_per_capita": 1110.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4398.8,
+      "health_per_capita": 1156.9
+    }
+  ]
+}

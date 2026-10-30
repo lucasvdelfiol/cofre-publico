@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2104206",
+  "city_name": "Fortuna",
+  "uf": "MA",
+  "population": 16976,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 95290087.96,
+    "total_expense": 91888588.88,
+    "own_revenue_percentage": 12.2,
+    "transfers_revenue_percentage": 87.8,
+    "personnel_expense_percentage_rcl": 46.1
+  },
+  "per_capita_breakdown": {
+    "health": 1416.6,
+    "education": 1613.8,
+    "urbanism": 838.8,
+    "administration": 350.0,
+    "legislative": 173.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4384.4,
+      "health_per_capita": 1104.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4709.2,
+      "health_per_capita": 1189.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5034.0,
+      "health_per_capita": 1274.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5304.6,
+      "health_per_capita": 1359.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5412.9,
+      "health_per_capita": 1416.6
+    }
+  ]
+}

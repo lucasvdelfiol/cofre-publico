@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3158409",
+  "city_name": "Santana de Cataguases",
+  "uf": "MG",
+  "population": 3489,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 16109025.3,
+    "total_expense": 16067680.19,
+    "own_revenue_percentage": 13.1,
+    "transfers_revenue_percentage": 86.9,
+    "personnel_expense_percentage_rcl": 50.8
+  },
+  "per_capita_breakdown": {
+    "health": 1088.4,
+    "education": 1468.0,
+    "urbanism": 515.5,
+    "administration": 310.4,
+    "legislative": 155.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3730.2,
+      "health_per_capita": 849.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4006.5,
+      "health_per_capita": 914.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4282.8,
+      "health_per_capita": 979.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4513.1,
+      "health_per_capita": 1044.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4605.2,
+      "health_per_capita": 1088.4
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2900207",
+  "city_name": "Abaré",
+  "uf": "BA",
+  "population": 17639,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 80418592.88,
+    "total_expense": 80780527.32,
+    "own_revenue_percentage": 21.7,
+    "transfers_revenue_percentage": 78.3,
+    "personnel_expense_percentage_rcl": 50.6
+  },
+  "per_capita_breakdown": {
+    "health": 1279.1,
+    "education": 1338.9,
+    "urbanism": 408.4,
+    "administration": 503.0,
+    "legislative": 79.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3709.6,
+      "health_per_capita": 997.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3984.3,
+      "health_per_capita": 1074.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4259.1,
+      "health_per_capita": 1151.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4488.1,
+      "health_per_capita": 1227.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4579.7,
+      "health_per_capita": 1279.1
+    }
+  ]
+}

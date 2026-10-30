@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3125309",
+  "city_name": "Faria Lemos",
+  "uf": "MG",
+  "population": 3188,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 14334033.01,
+    "total_expense": 14129558.71,
+    "own_revenue_percentage": 10.9,
+    "transfers_revenue_percentage": 89.1,
+    "personnel_expense_percentage_rcl": 52.6
+  },
+  "per_capita_breakdown": {
+    "health": 1177.7,
+    "education": 1315.8,
+    "urbanism": 671.2,
+    "administration": 361.0,
+    "legislative": 144.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3590.0,
+      "health_per_capita": 918.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3855.9,
+      "health_per_capita": 989.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4121.9,
+      "health_per_capita": 1059.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4343.5,
+      "health_per_capita": 1130.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4432.1,
+      "health_per_capita": 1177.7
+    }
+  ]
+}

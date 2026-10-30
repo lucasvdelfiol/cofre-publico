@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2603926",
+  "city_name": "Carnaubeira da Penha",
+  "uf": "PE",
+  "population": 12239,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 63947376.14,
+    "total_expense": 62733483.9,
+    "own_revenue_percentage": 18.5,
+    "transfers_revenue_percentage": 81.5,
+    "personnel_expense_percentage_rcl": 48.7
+  },
+  "per_capita_breakdown": {
+    "health": 1265.2,
+    "education": 1527.7,
+    "urbanism": 744.9,
+    "administration": 313.1,
+    "legislative": 163.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4151.8,
+      "health_per_capita": 986.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4459.4,
+      "health_per_capita": 1062.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4766.9,
+      "health_per_capita": 1138.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5023.2,
+      "health_per_capita": 1214.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5125.7,
+      "health_per_capita": 1265.2
+    }
+  ]
+}

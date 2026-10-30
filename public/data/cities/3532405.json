@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3532405",
+  "city_name": "Nazaré Paulista",
+  "uf": "SP",
+  "population": 18217,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 86902415.42,
+    "total_expense": 84783156.68,
+    "own_revenue_percentage": 12.4,
+    "transfers_revenue_percentage": 87.6,
+    "personnel_expense_percentage_rcl": 49.1
+  },
+  "per_capita_breakdown": {
+    "health": 1144.4,
+    "education": 1372.6,
+    "urbanism": 714.2,
+    "administration": 549.4,
+    "legislative": 160.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3769.8,
+      "health_per_capita": 892.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4049.1,
+      "health_per_capita": 961.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4328.3,
+      "health_per_capita": 1030.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4561.0,
+      "health_per_capita": 1098.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4654.1,
+      "health_per_capita": 1144.4
+    }
+  ]
+}

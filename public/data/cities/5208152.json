@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5208152",
+  "city_name": "Gameleira de Goiás",
+  "uf": "GO",
+  "population": 3456,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 17354185.56,
+    "total_expense": 17451129.5,
+    "own_revenue_percentage": 18.7,
+    "transfers_revenue_percentage": 81.3,
+    "personnel_expense_percentage_rcl": 46.3
+  },
+  "per_capita_breakdown": {
+    "health": 1025.1,
+    "education": 1574.6,
+    "urbanism": 752.6,
+    "administration": 476.9,
+    "legislative": 85.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4090.1,
+      "health_per_capita": 799.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4393.1,
+      "health_per_capita": 861.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4696.0,
+      "health_per_capita": 922.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4948.5,
+      "health_per_capita": 984.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5049.5,
+      "health_per_capita": 1025.1
+    }
+  ]
+}

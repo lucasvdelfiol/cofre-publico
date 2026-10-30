@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3113206",
+  "city_name": "Carandaí",
+  "uf": "MG",
+  "population": 23812,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 103998531.04,
+    "total_expense": 102344637.93,
+    "own_revenue_percentage": 31.1,
+    "transfers_revenue_percentage": 68.9,
+    "personnel_expense_percentage_rcl": 51.6
+  },
+  "per_capita_breakdown": {
+    "health": 1079.9,
+    "education": 1278.8,
+    "urbanism": 484.5,
+    "administration": 333.7,
+    "legislative": 132.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3481.4,
+      "health_per_capita": 842.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3739.3,
+      "health_per_capita": 907.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3997.1,
+      "health_per_capita": 971.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4212.0,
+      "health_per_capita": 1036.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4298.0,
+      "health_per_capita": 1079.9
+    }
+  ]
+}

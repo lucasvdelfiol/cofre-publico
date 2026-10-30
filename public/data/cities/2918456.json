@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2918456",
+  "city_name": "Jucuruçu",
+  "uf": "BA",
+  "population": 9655,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 48878897.03,
+    "total_expense": 49232986.35,
+    "own_revenue_percentage": 14.6,
+    "transfers_revenue_percentage": 85.4,
+    "personnel_expense_percentage_rcl": 50.1
+  },
+  "per_capita_breakdown": {
+    "health": 1107.3,
+    "education": 1503.0,
+    "urbanism": 697.9,
+    "administration": 406.0,
+    "legislative": 155.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4130.4,
+      "health_per_capita": 863.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4436.3,
+      "health_per_capita": 930.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4742.3,
+      "health_per_capita": 996.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4997.2,
+      "health_per_capita": 1063.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5099.2,
+      "health_per_capita": 1107.3
+    }
+  ]
+}

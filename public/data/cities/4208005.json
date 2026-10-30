@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4208005",
+  "city_name": "Itá",
+  "uf": "SC",
+  "population": 7067,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 39269310.34,
+    "total_expense": 39463869.35,
+    "own_revenue_percentage": 11.9,
+    "transfers_revenue_percentage": 88.1,
+    "personnel_expense_percentage_rcl": 46.2
+  },
+  "per_capita_breakdown": {
+    "health": 1178.5,
+    "education": 1464.3,
+    "urbanism": 650.4,
+    "administration": 440.3,
+    "legislative": 118.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4523.2,
+      "health_per_capita": 919.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4858.3,
+      "health_per_capita": 989.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5193.3,
+      "health_per_capita": 1060.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5472.5,
+      "health_per_capita": 1131.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5584.2,
+      "health_per_capita": 1178.5
+    }
+  ]
+}

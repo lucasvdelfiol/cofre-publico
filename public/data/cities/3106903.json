@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3106903",
+  "city_name": "Bicas",
+  "uf": "MG",
+  "population": 13978,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 75260629.06,
+    "total_expense": 74013891.73,
+    "own_revenue_percentage": 14.5,
+    "transfers_revenue_percentage": 85.5,
+    "personnel_expense_percentage_rcl": 47.0
+  },
+  "per_capita_breakdown": {
+    "health": 1443.0,
+    "education": 1491.6,
+    "urbanism": 623.4,
+    "administration": 591.4,
+    "legislative": 172.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4289.0,
+      "health_per_capita": 1125.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4606.6,
+      "health_per_capita": 1212.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4924.4,
+      "health_per_capita": 1298.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5189.1,
+      "health_per_capita": 1385.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5295.0,
+      "health_per_capita": 1443.0
+    }
+  ]
+}

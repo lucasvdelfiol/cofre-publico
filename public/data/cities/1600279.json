@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1600279",
+  "city_name": "Laranjal do Jari",
+  "uf": "AP",
+  "population": 35114,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 165511357.29,
+    "total_expense": 160298547.27,
+    "own_revenue_percentage": 22.1,
+    "transfers_revenue_percentage": 77.9,
+    "personnel_expense_percentage_rcl": 51.8
+  },
+  "per_capita_breakdown": {
+    "health": 1264.9,
+    "education": 1425.6,
+    "urbanism": 485.0,
+    "administration": 413.3,
+    "legislative": 141.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3697.7,
+      "health_per_capita": 986.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3971.6,
+      "health_per_capita": 1062.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4245.5,
+      "health_per_capita": 1138.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4473.8,
+      "health_per_capita": 1214.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4565.1,
+      "health_per_capita": 1264.9
+    }
+  ]
+}

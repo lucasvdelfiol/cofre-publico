@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2928406",
+  "city_name": "Santa Rita de Cássia",
+  "uf": "BA",
+  "population": 27390,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 121628507.65,
+    "total_expense": 119525552.86,
+    "own_revenue_percentage": 26.5,
+    "transfers_revenue_percentage": 73.5,
+    "personnel_expense_percentage_rcl": 47.5
+  },
+  "per_capita_breakdown": {
+    "health": 969.3,
+    "education": 1384.7,
+    "urbanism": 439.1,
+    "administration": 482.7,
+    "legislative": 76.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3534.7,
+      "health_per_capita": 756.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3796.5,
+      "health_per_capita": 814.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4058.3,
+      "health_per_capita": 872.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4276.5,
+      "health_per_capita": 930.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4363.8,
+      "health_per_capita": 969.3
+    }
+  ]
+}

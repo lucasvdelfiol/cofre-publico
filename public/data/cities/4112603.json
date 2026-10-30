@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4112603",
+  "city_name": "Jardim Olinda",
+  "uf": "PR",
+  "population": 1500,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 7111379.39,
+    "total_expense": 7171484.96,
+    "own_revenue_percentage": 11.4,
+    "transfers_revenue_percentage": 88.6,
+    "personnel_expense_percentage_rcl": 48.6
+  },
+  "per_capita_breakdown": {
+    "health": 1104.8,
+    "education": 1325.8,
+    "urbanism": 718.0,
+    "administration": 321.7,
+    "legislative": 167.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3872.6,
+      "health_per_capita": 861.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4159.5,
+      "health_per_capita": 928.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4446.3,
+      "health_per_capita": 994.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4685.4,
+      "health_per_capita": 1060.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4781.0,
+      "health_per_capita": 1104.8
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4302659",
+  "city_name": "Brochier",
+  "uf": "RS",
+  "population": 4966,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 27500157.5,
+    "total_expense": 27084556.01,
+    "own_revenue_percentage": 9.9,
+    "transfers_revenue_percentage": 90.1,
+    "personnel_expense_percentage_rcl": 52.1
+  },
+  "per_capita_breakdown": {
+    "health": 1387.1,
+    "education": 1715.0,
+    "urbanism": 823.8,
+    "administration": 512.1,
+    "legislative": 164.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4417.7,
+      "health_per_capita": 1081.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4745.0,
+      "health_per_capita": 1165.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5072.2,
+      "health_per_capita": 1248.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5344.9,
+      "health_per_capita": 1331.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5454.0,
+      "health_per_capita": 1387.1
+    }
+  ]
+}

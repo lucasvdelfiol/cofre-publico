@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3107000",
+  "city_name": "Biquinhas",
+  "uf": "MG",
+  "population": 2383,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 11758522.08,
+    "total_expense": 11766356.64,
+    "own_revenue_percentage": 13.5,
+    "transfers_revenue_percentage": 86.5,
+    "personnel_expense_percentage_rcl": 47.6
+  },
+  "per_capita_breakdown": {
+    "health": 1112.6,
+    "education": 1206.0,
+    "urbanism": 410.5,
+    "administration": 462.3,
+    "legislative": 114.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3999.5,
+      "health_per_capita": 867.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4295.7,
+      "health_per_capita": 934.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4592.0,
+      "health_per_capita": 1001.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4838.8,
+      "health_per_capita": 1068.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4937.6,
+      "health_per_capita": 1112.6
+    }
+  ]
+}

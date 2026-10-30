@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3549409",
+  "city_name": "São Joaquim da Barra",
+  "uf": "SP",
+  "population": 48558,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 220308979.38,
+    "total_expense": 215206572.6,
+    "own_revenue_percentage": 28.1,
+    "transfers_revenue_percentage": 71.9,
+    "personnel_expense_percentage_rcl": 48.7
+  },
+  "per_capita_breakdown": {
+    "health": 1238.2,
+    "education": 1330.0,
+    "urbanism": 514.5,
+    "administration": 511.7,
+    "legislative": 115.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3589.8,
+      "health_per_capita": 965.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3855.8,
+      "health_per_capita": 1040.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4121.7,
+      "health_per_capita": 1114.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4343.3,
+      "health_per_capita": 1188.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4431.9,
+      "health_per_capita": 1238.2
+    }
+  ]
+}

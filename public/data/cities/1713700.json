@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1713700",
+  "city_name": "Monte Santo do Tocantins",
+  "uf": "TO",
+  "population": 2396,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 12880570.03,
+    "total_expense": 12512602.61,
+    "own_revenue_percentage": 16.1,
+    "transfers_revenue_percentage": 83.9,
+    "personnel_expense_percentage_rcl": 52.7
+  },
+  "per_capita_breakdown": {
+    "health": 1413.2,
+    "education": 1660.1,
+    "urbanism": 447.5,
+    "administration": 438.7,
+    "legislative": 85.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4230.1,
+      "health_per_capita": 1102.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4543.4,
+      "health_per_capita": 1187.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4856.7,
+      "health_per_capita": 1271.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5117.9,
+      "health_per_capita": 1356.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5222.3,
+      "health_per_capita": 1413.2
+    }
+  ]
+}

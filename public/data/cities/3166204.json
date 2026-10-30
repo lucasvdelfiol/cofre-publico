@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3166204",
+  "city_name": "Senhora dos Remédios",
+  "uf": "MG",
+  "population": 10384,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 49828092.8,
+    "total_expense": 48752139.07,
+    "own_revenue_percentage": 21.0,
+    "transfers_revenue_percentage": 79.0,
+    "personnel_expense_percentage_rcl": 51.8
+  },
+  "per_capita_breakdown": {
+    "health": 1294.1,
+    "education": 1269.9,
+    "urbanism": 540.5,
+    "administration": 434.4,
+    "legislative": 80.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3802.9,
+      "health_per_capita": 1009.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4084.6,
+      "health_per_capita": 1087.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4366.3,
+      "health_per_capita": 1164.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4601.0,
+      "health_per_capita": 1242.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4694.9,
+      "health_per_capita": 1294.1
+    }
+  ]
+}

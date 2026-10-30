@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3154150",
+  "city_name": "Reduto",
+  "uf": "MG",
+  "population": 7848,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 41337414.49,
+    "total_expense": 41100717.57,
+    "own_revenue_percentage": 9.4,
+    "transfers_revenue_percentage": 90.6,
+    "personnel_expense_percentage_rcl": 52.0
+  },
+  "per_capita_breakdown": {
+    "health": 1091.2,
+    "education": 1613.2,
+    "urbanism": 710.1,
+    "administration": 333.9,
+    "legislative": 126.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4242.1,
+      "health_per_capita": 851.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4556.3,
+      "health_per_capita": 916.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4870.5,
+      "health_per_capita": 982.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5132.4,
+      "health_per_capita": 1047.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5237.1,
+      "health_per_capita": 1091.2
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2209401",
+  "city_name": "Santo Antônio de Lisboa",
+  "uf": "PI",
+  "population": 5839,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 30807487.07,
+    "total_expense": 30367665.04,
+    "own_revenue_percentage": 11.0,
+    "transfers_revenue_percentage": 89.0,
+    "personnel_expense_percentage_rcl": 48.1
+  },
+  "per_capita_breakdown": {
+    "health": 1142.4,
+    "education": 1348.7,
+    "urbanism": 598.6,
+    "administration": 587.9,
+    "legislative": 124.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4212.6,
+      "health_per_capita": 891.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4524.7,
+      "health_per_capita": 959.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4836.7,
+      "health_per_capita": 1028.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5096.8,
+      "health_per_capita": 1096.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5200.8,
+      "health_per_capita": 1142.4
+    }
+  ]
+}

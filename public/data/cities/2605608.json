@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2605608",
+  "city_name": "Flores",
+  "uf": "PE",
+  "population": 20347,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 97323071.28,
+    "total_expense": 97588772.99,
+    "own_revenue_percentage": 25.2,
+    "transfers_revenue_percentage": 74.8,
+    "personnel_expense_percentage_rcl": 46.7
+  },
+  "per_capita_breakdown": {
+    "health": 1173.1,
+    "education": 1261.8,
+    "urbanism": 401.4,
+    "administration": 418.7,
+    "legislative": 102.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3884.9,
+      "health_per_capita": 915.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4172.7,
+      "health_per_capita": 985.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4460.5,
+      "health_per_capita": 1055.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4700.3,
+      "health_per_capita": 1126.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4796.2,
+      "health_per_capita": 1173.1
+    }
+  ]
+}

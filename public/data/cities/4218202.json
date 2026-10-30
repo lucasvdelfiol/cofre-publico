@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4218202",
+  "city_name": "Timbó",
+  "uf": "SC",
+  "population": 46099,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 198202826.72,
+    "total_expense": 194550592.83,
+    "own_revenue_percentage": 26.6,
+    "transfers_revenue_percentage": 73.4,
+    "personnel_expense_percentage_rcl": 47.2
+  },
+  "per_capita_breakdown": {
+    "health": 1152.1,
+    "education": 1251.9,
+    "urbanism": 566.7,
+    "administration": 473.4,
+    "legislative": 108.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3418.4,
+      "health_per_capita": 898.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3671.7,
+      "health_per_capita": 967.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3924.9,
+      "health_per_capita": 1036.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4135.9,
+      "health_per_capita": 1106.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4220.3,
+      "health_per_capita": 1152.1
+    }
+  ]
+}

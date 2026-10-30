@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5212204",
+  "city_name": "Jussara",
+  "uf": "GO",
+  "population": 19620,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 100681248.03,
+    "total_expense": 101571404.7,
+    "own_revenue_percentage": 11.3,
+    "transfers_revenue_percentage": 88.7,
+    "personnel_expense_percentage_rcl": 47.7
+  },
+  "per_capita_breakdown": {
+    "health": 1146.3,
+    "education": 1652.5,
+    "urbanism": 460.2,
+    "administration": 370.4,
+    "legislative": 131.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4193.3,
+      "health_per_capita": 894.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4503.9,
+      "health_per_capita": 962.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4814.5,
+      "health_per_capita": 1031.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5073.4,
+      "health_per_capita": 1100.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5176.9,
+      "health_per_capita": 1146.3
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2507903",
+  "city_name": "Juripiranga",
+  "uf": "PB",
+  "population": 10012,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 52085247.35,
+    "total_expense": 50168089.4,
+    "own_revenue_percentage": 13.6,
+    "transfers_revenue_percentage": 86.4,
+    "personnel_expense_percentage_rcl": 46.2
+  },
+  "per_capita_breakdown": {
+    "health": 1401.0,
+    "education": 1212.6,
+    "urbanism": 559.4,
+    "administration": 334.0,
+    "legislative": 138.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4058.7,
+      "health_per_capita": 1092.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4359.4,
+      "health_per_capita": 1176.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4660.0,
+      "health_per_capita": 1260.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4910.6,
+      "health_per_capita": 1345.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5010.8,
+      "health_per_capita": 1401.0
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1507979",
+  "city_name": "Terra Santa",
+  "uf": "PA",
+  "population": 18782,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 94344929.34,
+    "total_expense": 92525016.71,
+    "own_revenue_percentage": 21.8,
+    "transfers_revenue_percentage": 78.2,
+    "personnel_expense_percentage_rcl": 52.4
+  },
+  "per_capita_breakdown": {
+    "health": 1286.6,
+    "education": 1382.3,
+    "urbanism": 765.9,
+    "administration": 522.0,
+    "legislative": 121.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3990.3,
+      "health_per_capita": 1003.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4285.9,
+      "health_per_capita": 1080.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4581.5,
+      "health_per_capita": 1157.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4827.8,
+      "health_per_capita": 1235.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4926.3,
+      "health_per_capita": 1286.6
+    }
+  ]
+}

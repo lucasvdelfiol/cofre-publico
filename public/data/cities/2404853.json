@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2404853",
+  "city_name": "Itajá",
+  "uf": "RN",
+  "population": 7292,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 32817759.38,
+    "total_expense": 32787154.97,
+    "own_revenue_percentage": 13.5,
+    "transfers_revenue_percentage": 86.5,
+    "personnel_expense_percentage_rcl": 47.0
+  },
+  "per_capita_breakdown": {
+    "health": 1189.1,
+    "education": 1316.7,
+    "urbanism": 565.1,
+    "administration": 406.0,
+    "legislative": 148.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3642.0,
+      "health_per_capita": 927.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3911.8,
+      "health_per_capita": 998.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4181.6,
+      "health_per_capita": 1070.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4406.4,
+      "health_per_capita": 1141.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4496.3,
+      "health_per_capita": 1189.1
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4304804",
+  "city_name": "Carlos Barbosa",
+  "uf": "RS",
+  "population": 30420,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 149748233.72,
+    "total_expense": 144469636.58,
+    "own_revenue_percentage": 28.1,
+    "transfers_revenue_percentage": 71.9,
+    "personnel_expense_percentage_rcl": 49.2
+  },
+  "per_capita_breakdown": {
+    "health": 1135.9,
+    "education": 1186.2,
+    "urbanism": 709.2,
+    "administration": 467.7,
+    "legislative": 90.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3846.9,
+      "health_per_capita": 886.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4131.8,
+      "health_per_capita": 954.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4416.8,
+      "health_per_capita": 1022.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4654.2,
+      "health_per_capita": 1090.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4749.2,
+      "health_per_capita": 1135.9
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4214409",
+  "city_name": "Rio das Antas",
+  "uf": "SC",
+  "population": 6253,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 27419207.02,
+    "total_expense": 27297861.65,
+    "own_revenue_percentage": 19.4,
+    "transfers_revenue_percentage": 80.6,
+    "personnel_expense_percentage_rcl": 53.6
+  },
+  "per_capita_breakdown": {
+    "health": 946.5,
+    "education": 1220.6,
+    "urbanism": 675.4,
+    "administration": 482.5,
+    "legislative": 135.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3536.1,
+      "health_per_capita": 738.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3798.1,
+      "health_per_capita": 795.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4060.0,
+      "health_per_capita": 851.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4278.3,
+      "health_per_capita": 908.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4365.6,
+      "health_per_capita": 946.5
+    }
+  ]
+}

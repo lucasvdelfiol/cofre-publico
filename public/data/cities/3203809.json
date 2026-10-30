@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3203809",
+  "city_name": "Muqui",
+  "uf": "ES",
+  "population": 13745,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 66560028.89,
+    "total_expense": 64800032.12,
+    "own_revenue_percentage": 12.1,
+    "transfers_revenue_percentage": 87.9,
+    "personnel_expense_percentage_rcl": 50.1
+  },
+  "per_capita_breakdown": {
+    "health": 1067.1,
+    "education": 1397.8,
+    "urbanism": 557.1,
+    "administration": 372.1,
+    "legislative": 97.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3818.7,
+      "health_per_capita": 832.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4101.5,
+      "health_per_capita": 896.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4384.4,
+      "health_per_capita": 960.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4620.1,
+      "health_per_capita": 1024.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4714.4,
+      "health_per_capita": 1067.1
+    }
+  ]
+}

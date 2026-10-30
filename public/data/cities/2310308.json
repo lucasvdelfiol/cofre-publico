@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2310308",
+  "city_name": "Parambu",
+  "uf": "CE",
+  "population": 31445,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 143809600.84,
+    "total_expense": 140367183.81,
+    "own_revenue_percentage": 31.1,
+    "transfers_revenue_percentage": 68.9,
+    "personnel_expense_percentage_rcl": 49.4
+  },
+  "per_capita_breakdown": {
+    "health": 960.5,
+    "education": 1187.4,
+    "urbanism": 611.2,
+    "administration": 424.6,
+    "legislative": 115.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3615.8,
+      "health_per_capita": 749.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3883.6,
+      "health_per_capita": 806.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4151.4,
+      "health_per_capita": 864.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4374.6,
+      "health_per_capita": 922.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4463.9,
+      "health_per_capita": 960.5
+    }
+  ]
+}

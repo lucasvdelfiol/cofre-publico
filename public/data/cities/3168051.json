@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3168051",
+  "city_name": "Taparuba",
+  "uf": "MG",
+  "population": 3387,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 14719507.49,
+    "total_expense": 14702528.13,
+    "own_revenue_percentage": 11.8,
+    "transfers_revenue_percentage": 88.2,
+    "personnel_expense_percentage_rcl": 50.3
+  },
+  "per_capita_breakdown": {
+    "health": 1091.4,
+    "education": 1297.6,
+    "urbanism": 614.0,
+    "administration": 280.1,
+    "legislative": 136.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3516.1,
+      "health_per_capita": 851.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3776.6,
+      "health_per_capita": 916.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4037.0,
+      "health_per_capita": 982.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4254.1,
+      "health_per_capita": 1047.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4340.9,
+      "health_per_capita": 1091.4
+    }
+  ]
+}

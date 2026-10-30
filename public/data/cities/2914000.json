@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2914000",
+  "city_name": "Ipirá",
+  "uf": "BA",
+  "population": 56876,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 240026948.76,
+    "total_expense": 241589248.86,
+    "own_revenue_percentage": 30.7,
+    "transfers_revenue_percentage": 69.3,
+    "personnel_expense_percentage_rcl": 46.0
+  },
+  "per_capita_breakdown": {
+    "health": 854.1,
+    "education": 1067.3,
+    "urbanism": 556.2,
+    "administration": 349.4,
+    "legislative": 87.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3440.6,
+      "health_per_capita": 666.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3695.4,
+      "health_per_capita": 717.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3950.3,
+      "health_per_capita": 768.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4162.6,
+      "health_per_capita": 819.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4247.6,
+      "health_per_capita": 854.1
+    }
+  ]
+}

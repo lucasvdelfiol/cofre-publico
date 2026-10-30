@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3160306",
+  "city_name": "Santo Antônio do Jacinto",
+  "uf": "MG",
+  "population": 10327,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 58348890.8,
+    "total_expense": 57611401.95,
+    "own_revenue_percentage": 17.5,
+    "transfers_revenue_percentage": 82.5,
+    "personnel_expense_percentage_rcl": 47.9
+  },
+  "per_capita_breakdown": {
+    "health": 1543.5,
+    "education": 1372.2,
+    "urbanism": 671.7,
+    "administration": 342.0,
+    "legislative": 152.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4518.7,
+      "health_per_capita": 1203.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4853.5,
+      "health_per_capita": 1296.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5188.2,
+      "health_per_capita": 1389.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5467.1,
+      "health_per_capita": 1481.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5578.7,
+      "health_per_capita": 1543.5
+    }
+  ]
+}

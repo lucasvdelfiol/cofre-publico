@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4322509",
+  "city_name": "Vacaria",
+  "uf": "RS",
+  "population": 64197,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 327245798.09,
+    "total_expense": 316784048.27,
+    "own_revenue_percentage": 29.0,
+    "transfers_revenue_percentage": 71.0,
+    "personnel_expense_percentage_rcl": 48.7
+  },
+  "per_capita_breakdown": {
+    "health": 1315.4,
+    "education": 1352.6,
+    "urbanism": 499.2,
+    "administration": 415.4,
+    "legislative": 92.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3997.0,
+      "health_per_capita": 1026.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4293.1,
+      "health_per_capita": 1104.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4589.2,
+      "health_per_capita": 1183.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4835.9,
+      "health_per_capita": 1262.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4934.6,
+      "health_per_capita": 1315.4
+    }
+  ]
+}

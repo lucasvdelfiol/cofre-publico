@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2917102",
+  "city_name": "Itororó",
+  "uf": "BA",
+  "population": 16617,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 74559996.2,
+    "total_expense": 75244441.69,
+    "own_revenue_percentage": 13.6,
+    "transfers_revenue_percentage": 86.4,
+    "personnel_expense_percentage_rcl": 48.1
+  },
+  "per_capita_breakdown": {
+    "health": 937.3,
+    "education": 1146.4,
+    "urbanism": 575.7,
+    "administration": 360.2,
+    "legislative": 120.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3667.8,
+      "health_per_capita": 731.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3939.5,
+      "health_per_capita": 787.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4211.2,
+      "health_per_capita": 843.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4437.6,
+      "health_per_capita": 899.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4528.2,
+      "health_per_capita": 937.3
+    }
+  ]
+}

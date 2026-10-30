@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3534203",
+  "city_name": "Orindiúva",
+  "uf": "SP",
+  "population": 6024,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 33739326.72,
+    "total_expense": 33290151.13,
+    "own_revenue_percentage": 12.6,
+    "transfers_revenue_percentage": 87.4,
+    "personnel_expense_percentage_rcl": 51.4
+  },
+  "per_capita_breakdown": {
+    "health": 1400.8,
+    "education": 1454.0,
+    "urbanism": 447.3,
+    "administration": 414.5,
+    "legislative": 185.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4476.3,
+      "health_per_capita": 1092.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4807.9,
+      "health_per_capita": 1176.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5139.5,
+      "health_per_capita": 1260.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5415.8,
+      "health_per_capita": 1344.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5526.3,
+      "health_per_capita": 1400.8
+    }
+  ]
+}

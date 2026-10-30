@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5215256",
+  "city_name": "Novo Planalto",
+  "uf": "GO",
+  "population": 3716,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 17290745.44,
+    "total_expense": 17243599.14,
+    "own_revenue_percentage": 16.4,
+    "transfers_revenue_percentage": 83.6,
+    "personnel_expense_percentage_rcl": 51.1
+  },
+  "per_capita_breakdown": {
+    "health": 1193.1,
+    "education": 1221.5,
+    "urbanism": 667.8,
+    "administration": 397.0,
+    "legislative": 85.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3758.7,
+      "health_per_capita": 930.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4037.1,
+      "health_per_capita": 1002.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4315.6,
+      "health_per_capita": 1073.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4547.6,
+      "health_per_capita": 1145.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4640.4,
+      "health_per_capita": 1193.1
+    }
+  ]
+}

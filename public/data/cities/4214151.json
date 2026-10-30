@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4214151",
+  "city_name": "Princesa",
+  "uf": "SC",
+  "population": 2964,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 14376208.48,
+    "total_expense": 14234623.03,
+    "own_revenue_percentage": 19.0,
+    "transfers_revenue_percentage": 81.0,
+    "personnel_expense_percentage_rcl": 48.0
+  },
+  "per_capita_breakdown": {
+    "health": 1110.9,
+    "education": 1219.9,
+    "urbanism": 458.2,
+    "administration": 501.9,
+    "legislative": 115.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3890.0,
+      "health_per_capita": 866.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4178.2,
+      "health_per_capita": 933.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4466.3,
+      "health_per_capita": 999.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4706.4,
+      "health_per_capita": 1066.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4802.5,
+      "health_per_capita": 1110.9
+    }
+  ]
+}

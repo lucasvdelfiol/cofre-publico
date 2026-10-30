@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3534104",
+  "city_name": "Oriente",
+  "uf": "SP",
+  "population": 6085,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 34669872.54,
+    "total_expense": 34020823.44,
+    "own_revenue_percentage": 21.0,
+    "transfers_revenue_percentage": 79.0,
+    "personnel_expense_percentage_rcl": 49.3
+  },
+  "per_capita_breakdown": {
+    "health": 1133.4,
+    "education": 1550.0,
+    "urbanism": 620.2,
+    "administration": 592.4,
+    "legislative": 140.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4528.6,
+      "health_per_capita": 884.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4864.1,
+      "health_per_capita": 952.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5199.5,
+      "health_per_capita": 1020.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5479.1,
+      "health_per_capita": 1088.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5590.9,
+      "health_per_capita": 1133.4
+    }
+  ]
+}

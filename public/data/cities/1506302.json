@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1506302",
+  "city_name": "Salvaterra",
+  "uf": "PA",
+  "population": 24129,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 116609497.92,
+    "total_expense": 115032009.75,
+    "own_revenue_percentage": 19.3,
+    "transfers_revenue_percentage": 80.7,
+    "personnel_expense_percentage_rcl": 52.8
+  },
+  "per_capita_breakdown": {
+    "health": 1049.3,
+    "education": 1398.5,
+    "urbanism": 725.6,
+    "administration": 368.7,
+    "legislative": 83.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3861.6,
+      "health_per_capita": 818.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4147.6,
+      "health_per_capita": 881.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4433.7,
+      "health_per_capita": 944.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4672.1,
+      "health_per_capita": 1007.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4767.4,
+      "health_per_capita": 1049.3
+    }
+  ]
+}

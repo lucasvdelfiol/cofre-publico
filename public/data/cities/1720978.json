@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1720978",
+  "city_name": "Talismã",
+  "uf": "TO",
+  "population": 2456,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 12273939.28,
+    "total_expense": 11919307.29,
+    "own_revenue_percentage": 9.3,
+    "transfers_revenue_percentage": 90.7,
+    "personnel_expense_percentage_rcl": 46.9
+  },
+  "per_capita_breakdown": {
+    "health": 1267.0,
+    "education": 1419.1,
+    "urbanism": 577.7,
+    "administration": 550.7,
+    "legislative": 107.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3931.0,
+      "health_per_capita": 988.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4222.2,
+      "health_per_capita": 1064.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4513.4,
+      "health_per_capita": 1140.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4756.0,
+      "health_per_capita": 1216.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4853.1,
+      "health_per_capita": 1267.0
+    }
+  ]
+}

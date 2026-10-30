@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4121752",
+  "city_name": "Reserva do Iguaçu",
+  "uf": "PR",
+  "population": 6553,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 33471821.41,
+    "total_expense": 32417358.07,
+    "own_revenue_percentage": 10.7,
+    "transfers_revenue_percentage": 89.3,
+    "personnel_expense_percentage_rcl": 51.7
+  },
+  "per_capita_breakdown": {
+    "health": 1096.1,
+    "education": 1334.2,
+    "urbanism": 642.8,
+    "administration": 419.6,
+    "legislative": 138.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4007.0,
+      "health_per_capita": 855.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4303.8,
+      "health_per_capita": 920.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4600.6,
+      "health_per_capita": 986.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4848.0,
+      "health_per_capita": 1052.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4946.9,
+      "health_per_capita": 1096.1
+    }
+  ]
+}

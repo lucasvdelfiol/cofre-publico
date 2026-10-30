@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2307601",
+  "city_name": "Limoeiro do Norte",
+  "uf": "CE",
+  "population": 59560,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 291312126.3,
+    "total_expense": 286464790.57,
+    "own_revenue_percentage": 32.0,
+    "transfers_revenue_percentage": 68.0,
+    "personnel_expense_percentage_rcl": 49.6
+  },
+  "per_capita_breakdown": {
+    "health": 1277.3,
+    "education": 1243.1,
+    "urbanism": 752.7,
+    "administration": 489.2,
+    "legislative": 120.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3895.9,
+      "health_per_capita": 996.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4184.4,
+      "health_per_capita": 1072.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4473.0,
+      "health_per_capita": 1149.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4713.5,
+      "health_per_capita": 1226.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4809.7,
+      "health_per_capita": 1277.3
+    }
+  ]
+}

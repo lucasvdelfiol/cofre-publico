@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3520442",
+  "city_name": "Ilha Solteira",
+  "uf": "SP",
+  "population": 25549,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 124404233.8,
+    "total_expense": 121094043.57,
+    "own_revenue_percentage": 18.8,
+    "transfers_revenue_percentage": 81.2,
+    "personnel_expense_percentage_rcl": 49.1
+  },
+  "per_capita_breakdown": {
+    "health": 1015.3,
+    "education": 1481.2,
+    "urbanism": 510.7,
+    "administration": 443.6,
+    "legislative": 158.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3839.2,
+      "health_per_capita": 791.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4123.5,
+      "health_per_capita": 852.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4407.9,
+      "health_per_capita": 913.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4644.9,
+      "health_per_capita": 974.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4739.7,
+      "health_per_capita": 1015.3
+    }
+  ]
+}

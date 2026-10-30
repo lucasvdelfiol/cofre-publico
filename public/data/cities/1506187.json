@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1506187",
+  "city_name": "Rondon do Pará",
+  "uf": "PA",
+  "population": 53143,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 249949197.22,
+    "total_expense": 240688011.37,
+    "own_revenue_percentage": 29.9,
+    "transfers_revenue_percentage": 70.1,
+    "personnel_expense_percentage_rcl": 48.7
+  },
+  "per_capita_breakdown": {
+    "health": 996.7,
+    "education": 1157.6,
+    "urbanism": 700.6,
+    "administration": 328.2,
+    "legislative": 104.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3668.6,
+      "health_per_capita": 777.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3940.3,
+      "health_per_capita": 837.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4212.1,
+      "health_per_capita": 897.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4438.5,
+      "health_per_capita": 956.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4529.1,
+      "health_per_capita": 996.7
+    }
+  ]
+}

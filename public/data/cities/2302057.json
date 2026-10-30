@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2302057",
+  "city_name": "Barroquinha",
+  "uf": "CE",
+  "population": 14567,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 81305843.11,
+    "total_expense": 79199839.18,
+    "own_revenue_percentage": 15.6,
+    "transfers_revenue_percentage": 84.4,
+    "personnel_expense_percentage_rcl": 47.4
+  },
+  "per_capita_breakdown": {
+    "health": 1279.7,
+    "education": 1427.6,
+    "urbanism": 809.9,
+    "administration": 509.6,
+    "legislative": 121.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4403.9,
+      "health_per_capita": 998.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4730.1,
+      "health_per_capita": 1074.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5056.3,
+      "health_per_capita": 1151.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5328.2,
+      "health_per_capita": 1228.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5436.9,
+      "health_per_capita": 1279.7
+    }
+  ]
+}

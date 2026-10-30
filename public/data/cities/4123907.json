@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4123907",
+  "city_name": "Santa Mariana",
+  "uf": "PR",
+  "population": 11066,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 54951017.88,
+    "total_expense": 54915871.03,
+    "own_revenue_percentage": 12.0,
+    "transfers_revenue_percentage": 88.0,
+    "personnel_expense_percentage_rcl": 50.2
+  },
+  "per_capita_breakdown": {
+    "health": 1148.8,
+    "education": 1299.3,
+    "urbanism": 700.9,
+    "administration": 519.1,
+    "legislative": 145.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4019.7,
+      "health_per_capita": 896.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4317.5,
+      "health_per_capita": 965.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4615.2,
+      "health_per_capita": 1033.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4863.3,
+      "health_per_capita": 1102.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4962.6,
+      "health_per_capita": 1148.8
+    }
+  ]
+}

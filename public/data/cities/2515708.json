@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2515708",
+  "city_name": "Serra Grande",
+  "uf": "PB",
+  "population": 2942,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 14711419.84,
+    "total_expense": 14570742.45,
+    "own_revenue_percentage": 15.1,
+    "transfers_revenue_percentage": 84.9,
+    "personnel_expense_percentage_rcl": 48.3
+  },
+  "per_capita_breakdown": {
+    "health": 1222.0,
+    "education": 1298.2,
+    "urbanism": 662.7,
+    "administration": 485.0,
+    "legislative": 139.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4011.7,
+      "health_per_capita": 953.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4308.8,
+      "health_per_capita": 1026.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4606.0,
+      "health_per_capita": 1099.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4853.6,
+      "health_per_capita": 1173.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4952.7,
+      "health_per_capita": 1222.0
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2112803",
+  "city_name": "Viana",
+  "uf": "MA",
+  "population": 51442,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 220416030.37,
+    "total_expense": 221066948.21,
+    "own_revenue_percentage": 30.5,
+    "transfers_revenue_percentage": 69.5,
+    "personnel_expense_percentage_rcl": 46.8
+  },
+  "per_capita_breakdown": {
+    "health": 957.3,
+    "education": 1099.7,
+    "urbanism": 487.4,
+    "administration": 401.9,
+    "legislative": 103.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3480.9,
+      "health_per_capita": 746.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3738.7,
+      "health_per_capita": 804.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3996.6,
+      "health_per_capita": 861.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4211.5,
+      "health_per_capita": 919.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4297.4,
+      "health_per_capita": 957.3
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3523800",
+  "city_name": "Itobi",
+  "uf": "SP",
+  "population": 8046,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 38950553.42,
+    "total_expense": 38018586.62,
+    "own_revenue_percentage": 10.6,
+    "transfers_revenue_percentage": 89.4,
+    "personnel_expense_percentage_rcl": 51.3
+  },
+  "per_capita_breakdown": {
+    "health": 1251.4,
+    "education": 1173.0,
+    "urbanism": 677.9,
+    "administration": 325.7,
+    "legislative": 76.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3827.4,
+      "health_per_capita": 976.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4110.9,
+      "health_per_capita": 1051.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4394.4,
+      "health_per_capita": 1126.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4630.7,
+      "health_per_capita": 1201.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4725.2,
+      "health_per_capita": 1251.4
+    }
+  ]
+}

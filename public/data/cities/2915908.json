@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2915908",
+  "city_name": "Itanagra",
+  "uf": "BA",
+  "population": 5914,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 31323657.1,
+    "total_expense": 30849345.99,
+    "own_revenue_percentage": 21.0,
+    "transfers_revenue_percentage": 79.0,
+    "personnel_expense_percentage_rcl": 52.8
+  },
+  "per_capita_breakdown": {
+    "health": 1391.1,
+    "education": 1422.8,
+    "urbanism": 477.6,
+    "administration": 381.0,
+    "legislative": 159.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4225.2,
+      "health_per_capita": 1085.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4538.2,
+      "health_per_capita": 1168.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4851.2,
+      "health_per_capita": 1252.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5112.0,
+      "health_per_capita": 1335.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5216.3,
+      "health_per_capita": 1391.1
+    }
+  ]
+}

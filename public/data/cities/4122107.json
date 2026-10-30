@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4122107",
+  "city_name": "Rio Bom",
+  "uf": "PR",
+  "population": 3197,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 14472033.18,
+    "total_expense": 14535278.26,
+    "own_revenue_percentage": 8.0,
+    "transfers_revenue_percentage": 92.0,
+    "personnel_expense_percentage_rcl": 46.1
+  },
+  "per_capita_breakdown": {
+    "health": 1137.3,
+    "education": 1340.8,
+    "urbanism": 686.0,
+    "administration": 436.4,
+    "legislative": 114.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3682.7,
+      "health_per_capita": 887.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3955.5,
+      "health_per_capita": 955.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4228.2,
+      "health_per_capita": 1023.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4455.6,
+      "health_per_capita": 1091.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4546.5,
+      "health_per_capita": 1137.3
+    }
+  ]
+}

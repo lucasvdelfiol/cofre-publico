@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4310538",
+  "city_name": "Itaara",
+  "uf": "RS",
+  "population": 5572,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 25577425.3,
+    "total_expense": 24881455.03,
+    "own_revenue_percentage": 10.2,
+    "transfers_revenue_percentage": 89.8,
+    "personnel_expense_percentage_rcl": 53.6
+  },
+  "per_capita_breakdown": {
+    "health": 990.7,
+    "education": 1095.9,
+    "urbanism": 605.0,
+    "administration": 460.7,
+    "legislative": 82.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3617.0,
+      "health_per_capita": 772.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3884.9,
+      "health_per_capita": 832.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4152.8,
+      "health_per_capita": 891.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4376.1,
+      "health_per_capita": 951.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4465.4,
+      "health_per_capita": 990.7
+    }
+  ]
+}

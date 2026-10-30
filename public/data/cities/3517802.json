@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3517802",
+  "city_name": "Guaraçaí",
+  "uf": "SP",
+  "population": 7441,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 40476506.16,
+    "total_expense": 40625718.95,
+    "own_revenue_percentage": 21.8,
+    "transfers_revenue_percentage": 78.2,
+    "personnel_expense_percentage_rcl": 51.5
+  },
+  "per_capita_breakdown": {
+    "health": 1302.2,
+    "education": 1674.1,
+    "urbanism": 763.3,
+    "administration": 639.9,
+    "legislative": 134.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4422.4,
+      "health_per_capita": 1015.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4749.9,
+      "health_per_capita": 1093.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5077.5,
+      "health_per_capita": 1172.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5350.5,
+      "health_per_capita": 1250.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5459.7,
+      "health_per_capita": 1302.2
+    }
+  ]
+}

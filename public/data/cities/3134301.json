@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3134301",
+  "city_name": "Itumirim",
+  "uf": "MG",
+  "population": 6638,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 28727910.05,
+    "total_expense": 28564687.88,
+    "own_revenue_percentage": 18.7,
+    "transfers_revenue_percentage": 81.3,
+    "personnel_expense_percentage_rcl": 50.4
+  },
+  "per_capita_breakdown": {
+    "health": 1056.2,
+    "education": 1171.8,
+    "urbanism": 596.6,
+    "administration": 264.9,
+    "legislative": 93.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3485.6,
+      "health_per_capita": 823.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3743.8,
+      "health_per_capita": 887.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4002.0,
+      "health_per_capita": 950.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4217.1,
+      "health_per_capita": 1014.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4303.2,
+      "health_per_capita": 1056.2
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3554656",
+  "city_name": "Torre de Pedra",
+  "uf": "SP",
+  "population": 2046,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 9669963.37,
+    "total_expense": 9428299.67,
+    "own_revenue_percentage": 9.6,
+    "transfers_revenue_percentage": 90.4,
+    "personnel_expense_percentage_rcl": 52.6
+  },
+  "per_capita_breakdown": {
+    "health": 965.4,
+    "education": 1405.1,
+    "urbanism": 486.1,
+    "administration": 319.7,
+    "legislative": 91.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3732.6,
+      "health_per_capita": 753.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4009.1,
+      "health_per_capita": 810.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4285.6,
+      "health_per_capita": 868.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4516.0,
+      "health_per_capita": 926.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4608.2,
+      "health_per_capita": 965.4
+    }
+  ]
+}

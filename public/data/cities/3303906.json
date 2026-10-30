@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3303906",
+  "city_name": "Petrópolis",
+  "uf": "RJ",
+  "population": 278881,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 1535534240.87,
+    "total_expense": 1499537882.91,
+    "own_revenue_percentage": 50.0,
+    "transfers_revenue_percentage": 50.0,
+    "personnel_expense_percentage_rcl": 49.4
+  },
+  "per_capita_breakdown": {
+    "health": 1464.4,
+    "education": 1332.5,
+    "urbanism": 489.7,
+    "administration": 481.4,
+    "legislative": 82.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4355.4,
+      "health_per_capita": 1142.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4678.0,
+      "health_per_capita": 1230.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5000.6,
+      "health_per_capita": 1318.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5269.5,
+      "health_per_capita": 1405.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5377.0,
+      "health_per_capita": 1464.4
+    }
+  ]
+}

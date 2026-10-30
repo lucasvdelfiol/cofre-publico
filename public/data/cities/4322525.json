@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4322525",
+  "city_name": "Vale Verde",
+  "uf": "RS",
+  "population": 3150,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 15433479.91,
+    "total_expense": 15069115.26,
+    "own_revenue_percentage": 17.6,
+    "transfers_revenue_percentage": 82.4,
+    "personnel_expense_percentage_rcl": 45.5
+  },
+  "per_capita_breakdown": {
+    "health": 1082.0,
+    "education": 1332.5,
+    "urbanism": 709.5,
+    "administration": 335.0,
+    "legislative": 125.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3874.9,
+      "health_per_capita": 844.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4161.9,
+      "health_per_capita": 908.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4448.9,
+      "health_per_capita": 973.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4688.1,
+      "health_per_capita": 1038.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4783.8,
+      "health_per_capita": 1082.0
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2925907",
+  "city_name": "Quijingue",
+  "uf": "BA",
+  "population": 25272,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 109521984.19,
+    "total_expense": 109723537.05,
+    "own_revenue_percentage": 27.3,
+    "transfers_revenue_percentage": 72.7,
+    "personnel_expense_percentage_rcl": 49.5
+  },
+  "per_capita_breakdown": {
+    "health": 1000.1,
+    "education": 1277.7,
+    "urbanism": 495.3,
+    "administration": 367.5,
+    "legislative": 87.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3516.8,
+      "health_per_capita": 780.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3777.3,
+      "health_per_capita": 840.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4037.8,
+      "health_per_capita": 900.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4254.9,
+      "health_per_capita": 960.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4341.7,
+      "health_per_capita": 1000.1
+    }
+  ]
+}

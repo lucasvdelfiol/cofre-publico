@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3154903",
+  "city_name": "Rio Casca",
+  "uf": "MG",
+  "population": 12789,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 71125294.58,
+    "total_expense": 71039143.5,
+    "own_revenue_percentage": 15.4,
+    "transfers_revenue_percentage": 84.6,
+    "personnel_expense_percentage_rcl": 46.2
+  },
+  "per_capita_breakdown": {
+    "health": 1194.2,
+    "education": 1554.8,
+    "urbanism": 872.5,
+    "administration": 394.2,
+    "legislative": 146.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4499.3,
+      "health_per_capita": 931.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4832.6,
+      "health_per_capita": 1003.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5165.9,
+      "health_per_capita": 1074.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5443.6,
+      "health_per_capita": 1146.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5554.7,
+      "health_per_capita": 1194.2
+    }
+  ]
+}

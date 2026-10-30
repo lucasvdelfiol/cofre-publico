@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2400406",
+  "city_name": "Água Nova",
+  "uf": "RN",
+  "population": 2946,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 15548467.0,
+    "total_expense": 15551819.2,
+    "own_revenue_percentage": 16.4,
+    "transfers_revenue_percentage": 83.6,
+    "personnel_expense_percentage_rcl": 53.8
+  },
+  "per_capita_breakdown": {
+    "health": 1466.2,
+    "education": 1381.1,
+    "urbanism": 790.1,
+    "administration": 619.6,
+    "legislative": 132.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4276.0,
+      "health_per_capita": 1143.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4592.7,
+      "health_per_capita": 1231.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4909.5,
+      "health_per_capita": 1319.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5173.4,
+      "health_per_capita": 1407.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5279.0,
+      "health_per_capita": 1466.2
+    }
+  ]
+}

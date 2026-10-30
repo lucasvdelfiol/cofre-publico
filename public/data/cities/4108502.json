@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4108502",
+  "city_name": "General Carneiro",
+  "uf": "PR",
+  "population": 11062,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 51405056.94,
+    "total_expense": 50399629.31,
+    "own_revenue_percentage": 8.3,
+    "transfers_revenue_percentage": 91.7,
+    "personnel_expense_percentage_rcl": 48.5
+  },
+  "per_capita_breakdown": {
+    "health": 1259.3,
+    "education": 1310.1,
+    "urbanism": 552.0,
+    "administration": 459.4,
+    "legislative": 120.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3690.4,
+      "health_per_capita": 982.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3963.8,
+      "health_per_capita": 1057.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4237.2,
+      "health_per_capita": 1133.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4465.0,
+      "health_per_capita": 1208.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4556.1,
+      "health_per_capita": 1259.3
+    }
+  ]
+}

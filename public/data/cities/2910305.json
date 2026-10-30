@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2910305",
+  "city_name": "Elísio Medrado",
+  "uf": "BA",
+  "population": 7808,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 37619769.47,
+    "total_expense": 36980186.7,
+    "own_revenue_percentage": 16.1,
+    "transfers_revenue_percentage": 83.9,
+    "personnel_expense_percentage_rcl": 46.2
+  },
+  "per_capita_breakdown": {
+    "health": 1073.4,
+    "education": 1304.3,
+    "urbanism": 498.5,
+    "administration": 389.8,
+    "legislative": 71.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3836.3,
+      "health_per_capita": 837.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4120.5,
+      "health_per_capita": 901.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4404.7,
+      "health_per_capita": 966.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4641.5,
+      "health_per_capita": 1030.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4736.2,
+      "health_per_capita": 1073.4
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3506003",
+  "city_name": "Bauru",
+  "uf": "SP",
+  "population": 379146,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 2035685380.02,
+    "total_expense": 1965174749.82,
+    "own_revenue_percentage": 50.0,
+    "transfers_revenue_percentage": 50.0,
+    "personnel_expense_percentage_rcl": 49.0
+  },
+  "per_capita_breakdown": {
+    "health": 1234.2,
+    "education": 1341.8,
+    "urbanism": 625.1,
+    "administration": 397.1,
+    "legislative": 115.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4198.4,
+      "health_per_capita": 962.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4509.4,
+      "health_per_capita": 1036.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4820.4,
+      "health_per_capita": 1110.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5079.5,
+      "health_per_capita": 1184.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5183.2,
+      "health_per_capita": 1234.2
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2503001",
+  "city_name": "Caaporã",
+  "uf": "PB",
+  "population": 21193,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 94901218.82,
+    "total_expense": 93704940.81,
+    "own_revenue_percentage": 25.9,
+    "transfers_revenue_percentage": 74.1,
+    "personnel_expense_percentage_rcl": 46.6
+  },
+  "per_capita_breakdown": {
+    "health": 1056.5,
+    "education": 1106.1,
+    "urbanism": 544.4,
+    "administration": 350.0,
+    "legislative": 145.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3581.4,
+      "health_per_capita": 824.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3846.7,
+      "health_per_capita": 887.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4112.0,
+      "health_per_capita": 950.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4333.1,
+      "health_per_capita": 1014.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4421.5,
+      "health_per_capita": 1056.5
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2111201",
+  "city_name": "São José de Ribamar",
+  "uf": "MA",
+  "population": 244579,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 1393367748.98,
+    "total_expense": 1389081148.42,
+    "own_revenue_percentage": 38.4,
+    "transfers_revenue_percentage": 61.6,
+    "personnel_expense_percentage_rcl": 52.2
+  },
+  "per_capita_breakdown": {
+    "health": 1190.9,
+    "education": 1752.1,
+    "urbanism": 718.9,
+    "administration": 519.7,
+    "legislative": 130.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4600.4,
+      "health_per_capita": 928.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4941.2,
+      "health_per_capita": 1000.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5281.9,
+      "health_per_capita": 1071.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5565.9,
+      "health_per_capita": 1143.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5679.5,
+      "health_per_capita": 1190.9
+    }
+  ]
+}

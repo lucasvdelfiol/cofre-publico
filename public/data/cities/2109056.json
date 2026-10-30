@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2109056",
+  "city_name": "Porto Rico do Maranhão",
+  "uf": "MA",
+  "population": 5954,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 26172081.9,
+    "total_expense": 25720480.03,
+    "own_revenue_percentage": 12.0,
+    "transfers_revenue_percentage": 88.0,
+    "personnel_expense_percentage_rcl": 48.3
+  },
+  "per_capita_breakdown": {
+    "health": 936.5,
+    "education": 1111.2,
+    "urbanism": 456.3,
+    "administration": 364.5,
+    "legislative": 67.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3499.1,
+      "health_per_capita": 730.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3758.3,
+      "health_per_capita": 786.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4017.5,
+      "health_per_capita": 842.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4233.5,
+      "health_per_capita": 899.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4319.9,
+      "health_per_capita": 936.5
+    }
+  ]
+}

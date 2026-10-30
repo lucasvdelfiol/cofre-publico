@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4120853",
+  "city_name": "Quatro Pontes",
+  "uf": "PR",
+  "population": 4480,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 20632877.03,
+    "total_expense": 20519500.25,
+    "own_revenue_percentage": 11.5,
+    "transfers_revenue_percentage": 88.5,
+    "personnel_expense_percentage_rcl": 51.2
+  },
+  "per_capita_breakdown": {
+    "health": 1072.4,
+    "education": 1172.0,
+    "urbanism": 699.3,
+    "administration": 296.4,
+    "legislative": 151.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3710.0,
+      "health_per_capita": 836.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3984.8,
+      "health_per_capita": 900.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4259.6,
+      "health_per_capita": 965.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4488.6,
+      "health_per_capita": 1029.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4580.2,
+      "health_per_capita": 1072.4
+    }
+  ]
+}

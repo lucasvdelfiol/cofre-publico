@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4315909",
+  "city_name": "Rodeio Bonito",
+  "uf": "RS",
+  "population": 6654,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 33492760.24,
+    "total_expense": 33720479.18,
+    "own_revenue_percentage": 8.9,
+    "transfers_revenue_percentage": 91.1,
+    "personnel_expense_percentage_rcl": 52.3
+  },
+  "per_capita_breakdown": {
+    "health": 1402.8,
+    "education": 1470.9,
+    "urbanism": 673.7,
+    "administration": 454.4,
+    "legislative": 139.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4104.8,
+      "health_per_capita": 1094.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4408.9,
+      "health_per_capita": 1178.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4713.0,
+      "health_per_capita": 1262.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4966.3,
+      "health_per_capita": 1346.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5067.7,
+      "health_per_capita": 1402.8
+    }
+  ]
+}

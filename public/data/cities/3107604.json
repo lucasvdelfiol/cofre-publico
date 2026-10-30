@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3107604",
+  "city_name": "Bom Jesus da Penha",
+  "uf": "MG",
+  "population": 4474,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 20982640.18,
+    "total_expense": 21188521.33,
+    "own_revenue_percentage": 18.3,
+    "transfers_revenue_percentage": 81.7,
+    "personnel_expense_percentage_rcl": 52.1
+  },
+  "per_capita_breakdown": {
+    "health": 996.2,
+    "education": 1510.0,
+    "urbanism": 401.7,
+    "administration": 384.1,
+    "legislative": 119.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3836.1,
+      "health_per_capita": 777.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4120.2,
+      "health_per_capita": 836.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4404.4,
+      "health_per_capita": 896.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4641.2,
+      "health_per_capita": 956.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4735.9,
+      "health_per_capita": 996.2
+    }
+  ]
+}

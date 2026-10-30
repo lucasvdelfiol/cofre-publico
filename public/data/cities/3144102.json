@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3144102",
+  "city_name": "Muzambinho",
+  "uf": "MG",
+  "population": 21891,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 92439862.44,
+    "total_expense": 92183807.17,
+    "own_revenue_percentage": 30.1,
+    "transfers_revenue_percentage": 69.9,
+    "personnel_expense_percentage_rcl": 50.0
+  },
+  "per_capita_breakdown": {
+    "health": 1111.1,
+    "education": 1227.6,
+    "urbanism": 405.2,
+    "administration": 499.3,
+    "legislative": 96.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3410.9,
+      "health_per_capita": 866.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3663.6,
+      "health_per_capita": 933.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3916.2,
+      "health_per_capita": 1000.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4126.8,
+      "health_per_capita": 1066.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4211.0,
+      "health_per_capita": 1111.1
+    }
+  ]
+}

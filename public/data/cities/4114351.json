@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4114351",
+  "city_name": "Manfrinópolis",
+  "uf": "PR",
+  "population": 2770,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 13423299.75,
+    "total_expense": 13534812.08,
+    "own_revenue_percentage": 15.0,
+    "transfers_revenue_percentage": 85.0,
+    "personnel_expense_percentage_rcl": 46.9
+  },
+  "per_capita_breakdown": {
+    "health": 1271.5,
+    "education": 1234.2,
+    "urbanism": 518.6,
+    "administration": 355.6,
+    "legislative": 136.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3957.8,
+      "health_per_capita": 991.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4251.0,
+      "health_per_capita": 1068.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4544.2,
+      "health_per_capita": 1144.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4788.5,
+      "health_per_capita": 1220.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4886.2,
+      "health_per_capita": 1271.5
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3505906",
+  "city_name": "Batatais",
+  "uf": "SP",
+  "population": 58402,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 304588173.52,
+    "total_expense": 292965070.82,
+    "own_revenue_percentage": 41.6,
+    "transfers_revenue_percentage": 58.4,
+    "personnel_expense_percentage_rcl": 47.2
+  },
+  "per_capita_breakdown": {
+    "health": 1347.0,
+    "education": 1333.4,
+    "urbanism": 469.0,
+    "administration": 529.5,
+    "legislative": 86.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4063.3,
+      "health_per_capita": 1050.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4364.3,
+      "health_per_capita": 1131.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4665.3,
+      "health_per_capita": 1212.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4916.1,
+      "health_per_capita": 1293.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5016.4,
+      "health_per_capita": 1347.0
+    }
+  ]
+}

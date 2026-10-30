@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2919207",
+  "city_name": "Lauro de Freitas",
+  "uf": "BA",
+  "population": 203331,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 979103251.26,
+    "total_expense": 986006302.54,
+    "own_revenue_percentage": 49.8,
+    "transfers_revenue_percentage": 50.2,
+    "personnel_expense_percentage_rcl": 47.9
+  },
+  "per_capita_breakdown": {
+    "health": 1043.6,
+    "education": 1537.0,
+    "urbanism": 720.1,
+    "administration": 536.2,
+    "legislative": 107.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3927.9,
+      "health_per_capita": 814.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4218.9,
+      "health_per_capita": 876.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4509.8,
+      "health_per_capita": 939.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4752.3,
+      "health_per_capita": 1001.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4849.3,
+      "health_per_capita": 1043.6
+    }
+  ]
+}

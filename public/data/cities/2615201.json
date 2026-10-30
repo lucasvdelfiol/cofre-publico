@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2615201",
+  "city_name": "Terra Nova",
+  "uf": "PE",
+  "population": 8920,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 43061386.8,
+    "total_expense": 41440806.39,
+    "own_revenue_percentage": 15.6,
+    "transfers_revenue_percentage": 84.4,
+    "personnel_expense_percentage_rcl": 53.4
+  },
+  "per_capita_breakdown": {
+    "health": 943.5,
+    "education": 1163.7,
+    "urbanism": 627.4,
+    "administration": 281.5,
+    "legislative": 140.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3763.1,
+      "health_per_capita": 735.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4041.8,
+      "health_per_capita": 792.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4320.6,
+      "health_per_capita": 849.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4552.9,
+      "health_per_capita": 905.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4645.8,
+      "health_per_capita": 943.5
+    }
+  ]
+}

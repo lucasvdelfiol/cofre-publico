@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3519907",
+  "city_name": "Iepê",
+  "uf": "SP",
+  "population": 7619,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 42724966.08,
+    "total_expense": 41275336.92,
+    "own_revenue_percentage": 18.9,
+    "transfers_revenue_percentage": 81.1,
+    "personnel_expense_percentage_rcl": 51.1
+  },
+  "per_capita_breakdown": {
+    "health": 1374.9,
+    "education": 1647.0,
+    "urbanism": 835.2,
+    "administration": 434.4,
+    "legislative": 146.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4388.1,
+      "health_per_capita": 1072.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4713.1,
+      "health_per_capita": 1154.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5038.2,
+      "health_per_capita": 1237.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5309.1,
+      "health_per_capita": 1319.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5417.4,
+      "health_per_capita": 1374.9
+    }
+  ]
+}

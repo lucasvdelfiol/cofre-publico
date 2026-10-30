@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2203255",
+  "city_name": "Curralinhos",
+  "uf": "PI",
+  "population": 4413,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 24480795.7,
+    "total_expense": 24559688.91,
+    "own_revenue_percentage": 15.3,
+    "transfers_revenue_percentage": 84.7,
+    "personnel_expense_percentage_rcl": 46.8
+  },
+  "per_capita_breakdown": {
+    "health": 1496.3,
+    "education": 1770.5,
+    "urbanism": 544.5,
+    "administration": 390.9,
+    "legislative": 101.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4507.9,
+      "health_per_capita": 1167.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4841.8,
+      "health_per_capita": 1256.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5175.7,
+      "health_per_capita": 1346.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5454.0,
+      "health_per_capita": 1436.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5565.3,
+      "health_per_capita": 1496.3
+    }
+  ]
+}

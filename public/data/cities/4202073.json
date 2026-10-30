@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4202073",
+  "city_name": "Balneário Gaivota",
+  "uf": "SC",
+  "population": 15669,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 86481909.06,
+    "total_expense": 84564662.83,
+    "own_revenue_percentage": 10.3,
+    "transfers_revenue_percentage": 89.7,
+    "personnel_expense_percentage_rcl": 51.2
+  },
+  "per_capita_breakdown": {
+    "health": 1194.8,
+    "education": 1686.7,
+    "urbanism": 624.8,
+    "administration": 458.2,
+    "legislative": 126.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4371.5,
+      "health_per_capita": 931.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4695.3,
+      "health_per_capita": 1003.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5019.1,
+      "health_per_capita": 1075.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5289.0,
+      "health_per_capita": 1147.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5396.9,
+      "health_per_capita": 1194.8
+    }
+  ]
+}

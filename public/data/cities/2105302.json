@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2105302",
+  "city_name": "Imperatriz",
+  "uf": "MA",
+  "population": 273110,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 1434609958.66,
+    "total_expense": 1388495959.52,
+    "own_revenue_percentage": 53.0,
+    "transfers_revenue_percentage": 47.0,
+    "personnel_expense_percentage_rcl": 47.1
+  },
+  "per_capita_breakdown": {
+    "health": 1401.3,
+    "education": 1222.7,
+    "urbanism": 801.3,
+    "administration": 488.7,
+    "legislative": 140.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4118.0,
+      "health_per_capita": 1093.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4423.1,
+      "health_per_capita": 1177.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4728.1,
+      "health_per_capita": 1261.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4982.3,
+      "health_per_capita": 1345.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5084.0,
+      "health_per_capita": 1401.3
+    }
+  ]
+}

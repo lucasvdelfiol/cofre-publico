@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2106805",
+  "city_name": "Mirinzal",
+  "uf": "MA",
+  "population": 13978,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 66938685.31,
+    "total_expense": 66031209.29,
+    "own_revenue_percentage": 20.5,
+    "transfers_revenue_percentage": 79.5,
+    "personnel_expense_percentage_rcl": 50.2
+  },
+  "per_capita_breakdown": {
+    "health": 971.3,
+    "education": 1232.2,
+    "urbanism": 466.2,
+    "administration": 498.3,
+    "legislative": 103.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3826.4,
+      "health_per_capita": 757.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4109.8,
+      "health_per_capita": 815.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4393.2,
+      "health_per_capita": 874.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4629.4,
+      "health_per_capita": 932.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4723.9,
+      "health_per_capita": 971.3
+    }
+  ]
+}

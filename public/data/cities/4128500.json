@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4128500",
+  "city_name": "Wenceslau Braz",
+  "uf": "PR",
+  "population": 19188,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 94379035.07,
+    "total_expense": 94404159.43,
+    "own_revenue_percentage": 11.7,
+    "transfers_revenue_percentage": 88.3,
+    "personnel_expense_percentage_rcl": 50.8
+  },
+  "per_capita_breakdown": {
+    "health": 1168.3,
+    "education": 1191.3,
+    "urbanism": 465.6,
+    "administration": 343.6,
+    "legislative": 143.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3985.2,
+      "health_per_capita": 911.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4280.4,
+      "health_per_capita": 981.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4575.6,
+      "health_per_capita": 1051.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4821.6,
+      "health_per_capita": 1121.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4920.0,
+      "health_per_capita": 1168.3
+    }
+  ]
+}

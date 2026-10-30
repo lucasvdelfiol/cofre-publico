@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4314100",
+  "city_name": "Passo Fundo",
+  "uf": "RS",
+  "population": 206215,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 991585485.5,
+    "total_expense": 985780169.44,
+    "own_revenue_percentage": 51.6,
+    "transfers_revenue_percentage": 48.4,
+    "personnel_expense_percentage_rcl": 45.0
+  },
+  "per_capita_breakdown": {
+    "health": 1105.5,
+    "education": 1383.8,
+    "urbanism": 655.6,
+    "administration": 532.2,
+    "legislative": 138.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3872.1,
+      "health_per_capita": 862.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4158.9,
+      "health_per_capita": 928.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4445.8,
+      "health_per_capita": 995.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4684.8,
+      "health_per_capita": 1061.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4780.4,
+      "health_per_capita": 1105.5
+    }
+  ]
+}

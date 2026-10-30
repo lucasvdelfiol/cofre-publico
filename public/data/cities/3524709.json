@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3524709",
+  "city_name": "Jaguariúna",
+  "uf": "SP",
+  "population": 59347,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 302397662.0,
+    "total_expense": 291924826.8,
+    "own_revenue_percentage": 37.8,
+    "transfers_revenue_percentage": 62.2,
+    "personnel_expense_percentage_rcl": 45.3
+  },
+  "per_capita_breakdown": {
+    "health": 1267.3,
+    "education": 1556.2,
+    "urbanism": 457.8,
+    "administration": 535.9,
+    "legislative": 122.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3984.3,
+      "health_per_capita": 988.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4279.4,
+      "health_per_capita": 1064.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4574.6,
+      "health_per_capita": 1140.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4820.5,
+      "health_per_capita": 1216.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4918.9,
+      "health_per_capita": 1267.3
+    }
+  ]
+}

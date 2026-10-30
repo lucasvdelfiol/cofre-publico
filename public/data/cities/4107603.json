@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4107603",
+  "city_name": "Faxinal",
+  "uf": "PR",
+  "population": 16389,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 86469398.08,
+    "total_expense": 85684720.93,
+    "own_revenue_percentage": 15.7,
+    "transfers_revenue_percentage": 84.3,
+    "personnel_expense_percentage_rcl": 52.7
+  },
+  "per_capita_breakdown": {
+    "health": 1091.5,
+    "education": 1639.5,
+    "urbanism": 548.6,
+    "administration": 593.3,
+    "legislative": 128.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4234.8,
+      "health_per_capita": 851.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4548.5,
+      "health_per_capita": 916.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4862.2,
+      "health_per_capita": 982.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5123.6,
+      "health_per_capita": 1047.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5228.2,
+      "health_per_capita": 1091.5
+    }
+  ]
+}

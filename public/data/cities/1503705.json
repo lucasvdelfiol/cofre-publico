@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1503705",
+  "city_name": "Itupiranga",
+  "uf": "PA",
+  "population": 49754,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 213199691.02,
+    "total_expense": 208960877.33,
+    "own_revenue_percentage": 28.2,
+    "transfers_revenue_percentage": 71.8,
+    "personnel_expense_percentage_rcl": 53.5
+  },
+  "per_capita_breakdown": {
+    "health": 896.6,
+    "education": 1181.9,
+    "urbanism": 475.4,
+    "administration": 273.9,
+    "legislative": 79.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3401.9,
+      "health_per_capita": 699.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3653.9,
+      "health_per_capita": 753.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3905.9,
+      "health_per_capita": 806.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4115.9,
+      "health_per_capita": 860.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4199.9,
+      "health_per_capita": 896.6
+    }
+  ]
+}

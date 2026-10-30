@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1507466",
+  "city_name": "São João da Ponta",
+  "uf": "PA",
+  "population": 4430,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 23852446.71,
+    "total_expense": 23117741.22,
+    "own_revenue_percentage": 16.0,
+    "transfers_revenue_percentage": 84.0,
+    "personnel_expense_percentage_rcl": 52.2
+  },
+  "per_capita_breakdown": {
+    "health": 1355.0,
+    "education": 1587.7,
+    "urbanism": 729.5,
+    "administration": 535.0,
+    "legislative": 161.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4227.0,
+      "health_per_capita": 1056.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4540.1,
+      "health_per_capita": 1138.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4853.2,
+      "health_per_capita": 1219.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5114.1,
+      "health_per_capita": 1300.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5218.5,
+      "health_per_capita": 1355.0
+    }
+  ]
+}

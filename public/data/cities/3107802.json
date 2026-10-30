@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3107802",
+  "city_name": "Bom Jesus do Galho",
+  "uf": "MG",
+  "population": 14536,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 80995558.9,
+    "total_expense": 80824249.19,
+    "own_revenue_percentage": 11.8,
+    "transfers_revenue_percentage": 88.2,
+    "personnel_expense_percentage_rcl": 49.5
+  },
+  "per_capita_breakdown": {
+    "health": 1546.1,
+    "education": 1509.3,
+    "urbanism": 449.8,
+    "administration": 652.4,
+    "legislative": 134.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4503.8,
+      "health_per_capita": 1206.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4837.5,
+      "health_per_capita": 1298.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5171.1,
+      "health_per_capita": 1391.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5449.1,
+      "health_per_capita": 1484.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5560.3,
+      "health_per_capita": 1546.1
+    }
+  ]
+}

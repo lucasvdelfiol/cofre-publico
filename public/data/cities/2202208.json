@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2202208",
+  "city_name": "Campo Maior",
+  "uf": "PI",
+  "population": 45793,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 224085838.4,
+    "total_expense": 215914057.79,
+    "own_revenue_percentage": 29.6,
+    "transfers_revenue_percentage": 70.4,
+    "personnel_expense_percentage_rcl": 47.1
+  },
+  "per_capita_breakdown": {
+    "health": 973.9,
+    "education": 1395.4,
+    "urbanism": 619.4,
+    "administration": 407.4,
+    "legislative": 130.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3819.2,
+      "health_per_capita": 759.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4102.1,
+      "health_per_capita": 818.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4384.9,
+      "health_per_capita": 876.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4620.7,
+      "health_per_capita": 934.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4715.0,
+      "health_per_capita": 973.9
+    }
+  ]
+}

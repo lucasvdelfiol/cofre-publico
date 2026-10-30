@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3202603",
+  "city_name": "Iconha",
+  "uf": "ES",
+  "population": 12326,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 68201495.0,
+    "total_expense": 66160776.48,
+    "own_revenue_percentage": 16.9,
+    "transfers_revenue_percentage": 83.1,
+    "personnel_expense_percentage_rcl": 46.4
+  },
+  "per_capita_breakdown": {
+    "health": 1391.1,
+    "education": 1544.1,
+    "urbanism": 753.1,
+    "administration": 379.5,
+    "legislative": 82.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4347.8,
+      "health_per_capita": 1085.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4669.8,
+      "health_per_capita": 1168.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4991.9,
+      "health_per_capita": 1252.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5260.2,
+      "health_per_capita": 1335.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5367.6,
+      "health_per_capita": 1391.1
+    }
+  ]
+}

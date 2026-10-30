@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2405009",
+  "city_name": "Jaçanã",
+  "uf": "RN",
+  "population": 7834,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 40092923.4,
+    "total_expense": 38635674.98,
+    "own_revenue_percentage": 11.9,
+    "transfers_revenue_percentage": 88.1,
+    "personnel_expense_percentage_rcl": 48.9
+  },
+  "per_capita_breakdown": {
+    "health": 1348.9,
+    "education": 1474.1,
+    "urbanism": 679.3,
+    "administration": 313.0,
+    "legislative": 172.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3994.8,
+      "health_per_capita": 1052.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4290.7,
+      "health_per_capita": 1133.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4586.6,
+      "health_per_capita": 1214.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4833.2,
+      "health_per_capita": 1294.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4931.8,
+      "health_per_capita": 1348.9
+    }
+  ]
+}

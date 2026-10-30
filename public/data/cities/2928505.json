@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2928505",
+  "city_name": "Santa Terezinha",
+  "uf": "BA",
+  "population": 10441,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 51836491.05,
+    "total_expense": 51006361.71,
+    "own_revenue_percentage": 12.3,
+    "transfers_revenue_percentage": 87.7,
+    "personnel_expense_percentage_rcl": 46.0
+  },
+  "per_capita_breakdown": {
+    "health": 1008.9,
+    "education": 1519.3,
+    "urbanism": 761.1,
+    "administration": 389.9,
+    "legislative": 131.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3957.0,
+      "health_per_capita": 786.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4250.1,
+      "health_per_capita": 847.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4543.2,
+      "health_per_capita": 908.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4787.5,
+      "health_per_capita": 968.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4885.2,
+      "health_per_capita": 1008.9
+    }
+  ]
+}

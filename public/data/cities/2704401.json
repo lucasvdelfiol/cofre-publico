@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2704401",
+  "city_name": "Major Isidoro",
+  "uf": "AL",
+  "population": 17700,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 96154891.02,
+    "total_expense": 93884155.27,
+    "own_revenue_percentage": 18.1,
+    "transfers_revenue_percentage": 81.9,
+    "personnel_expense_percentage_rcl": 46.3
+  },
+  "per_capita_breakdown": {
+    "health": 1354.2,
+    "education": 1604.2,
+    "urbanism": 597.2,
+    "administration": 541.2,
+    "legislative": 183.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4296.4,
+      "health_per_capita": 1056.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4614.7,
+      "health_per_capita": 1137.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4932.9,
+      "health_per_capita": 1218.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5198.1,
+      "health_per_capita": 1300.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5304.2,
+      "health_per_capita": 1354.2
+    }
+  ]
+}

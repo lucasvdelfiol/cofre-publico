@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3126109",
+  "city_name": "Formiga",
+  "uf": "MG",
+  "population": 68248,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 312807215.98,
+    "total_expense": 302285310.1,
+    "own_revenue_percentage": 32.4,
+    "transfers_revenue_percentage": 67.6,
+    "personnel_expense_percentage_rcl": 47.1
+  },
+  "per_capita_breakdown": {
+    "health": 1180.0,
+    "education": 1249.6,
+    "urbanism": 674.9,
+    "administration": 344.2,
+    "legislative": 123.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3587.7,
+      "health_per_capita": 920.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3853.4,
+      "health_per_capita": 991.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4119.2,
+      "health_per_capita": 1062.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4340.6,
+      "health_per_capita": 1132.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4429.2,
+      "health_per_capita": 1180.0
+    }
+  ]
+}

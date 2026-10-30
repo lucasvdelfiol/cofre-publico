@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2303501",
+  "city_name": "Cascavel",
+  "uf": "CE",
+  "population": 72720,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 371712530.3,
+    "total_expense": 362379567.08,
+    "own_revenue_percentage": 35.8,
+    "transfers_revenue_percentage": 64.2,
+    "personnel_expense_percentage_rcl": 48.7
+  },
+  "per_capita_breakdown": {
+    "health": 1261.1,
+    "education": 1227.5,
+    "urbanism": 691.9,
+    "administration": 388.9,
+    "legislative": 93.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4036.4,
+      "health_per_capita": 983.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4335.4,
+      "health_per_capita": 1059.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4634.4,
+      "health_per_capita": 1135.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4883.5,
+      "health_per_capita": 1210.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4983.2,
+      "health_per_capita": 1261.1
+    }
+  ]
+}

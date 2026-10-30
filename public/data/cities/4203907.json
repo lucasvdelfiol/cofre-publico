@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4203907",
+  "city_name": "Capinzal",
+  "uf": "SC",
+  "population": 23314,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 100564295.29,
+    "total_expense": 99323134.91,
+    "own_revenue_percentage": 19.4,
+    "transfers_revenue_percentage": 80.6,
+    "personnel_expense_percentage_rcl": 53.3
+  },
+  "per_capita_breakdown": {
+    "health": 948.7,
+    "education": 1329.7,
+    "urbanism": 661.8,
+    "administration": 260.3,
+    "legislative": 137.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3450.8,
+      "health_per_capita": 740.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3706.4,
+      "health_per_capita": 796.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3962.0,
+      "health_per_capita": 853.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4175.0,
+      "health_per_capita": 910.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4260.2,
+      "health_per_capita": 948.7
+    }
+  ]
+}

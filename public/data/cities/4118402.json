@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4118402",
+  "city_name": "Paranavaí",
+  "uf": "PR",
+  "population": 92001,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 474318634.82,
+    "total_expense": 469889216.96,
+    "own_revenue_percentage": 29.0,
+    "transfers_revenue_percentage": 71.0,
+    "personnel_expense_percentage_rcl": 48.4
+  },
+  "per_capita_breakdown": {
+    "health": 1274.5,
+    "education": 1628.1,
+    "urbanism": 786.1,
+    "administration": 592.2,
+    "legislative": 90.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4137.0,
+      "health_per_capita": 994.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4443.4,
+      "health_per_capita": 1070.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4749.9,
+      "health_per_capita": 1147.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5005.3,
+      "health_per_capita": 1223.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5107.4,
+      "health_per_capita": 1274.5
+    }
+  ]
+}

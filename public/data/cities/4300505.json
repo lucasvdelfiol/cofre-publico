@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4300505",
+  "city_name": "Alpestre",
+  "uf": "RS",
+  "population": 7117,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 39232279.16,
+    "total_expense": 38050497.47,
+    "own_revenue_percentage": 15.1,
+    "transfers_revenue_percentage": 84.9,
+    "personnel_expense_percentage_rcl": 47.7
+  },
+  "per_capita_breakdown": {
+    "health": 1200.6,
+    "education": 1339.0,
+    "urbanism": 703.7,
+    "administration": 365.2,
+    "legislative": 173.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4330.6,
+      "health_per_capita": 936.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4651.4,
+      "health_per_capita": 1008.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4972.2,
+      "health_per_capita": 1080.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5239.5,
+      "health_per_capita": 1152.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5346.4,
+      "health_per_capita": 1200.6
+    }
+  ]
+}

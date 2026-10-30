@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2913804",
+  "city_name": "Ipecaetá",
+  "uf": "BA",
+  "population": 13709,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 61638792.17,
+    "total_expense": 60948767.87,
+    "own_revenue_percentage": 9.6,
+    "transfers_revenue_percentage": 90.4,
+    "personnel_expense_percentage_rcl": 50.5
+  },
+  "per_capita_breakdown": {
+    "health": 956.0,
+    "education": 1351.0,
+    "urbanism": 547.0,
+    "administration": 519.3,
+    "legislative": 146.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3601.2,
+      "health_per_capita": 745.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3867.9,
+      "health_per_capita": 803.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4134.7,
+      "health_per_capita": 860.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4357.0,
+      "health_per_capita": 917.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4445.9,
+      "health_per_capita": 956.0
+    }
+  ]
+}

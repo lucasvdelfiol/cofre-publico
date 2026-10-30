@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3168309",
+  "city_name": "Taquaraçu de Minas",
+  "uf": "MG",
+  "population": 4224,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 20610221.15,
+    "total_expense": 20433111.54,
+    "own_revenue_percentage": 11.6,
+    "transfers_revenue_percentage": 88.4,
+    "personnel_expense_percentage_rcl": 53.8
+  },
+  "per_capita_breakdown": {
+    "health": 1309.3,
+    "education": 1209.3,
+    "urbanism": 710.0,
+    "administration": 341.2,
+    "legislative": 95.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3918.3,
+      "health_per_capita": 1021.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4208.5,
+      "health_per_capita": 1099.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4498.8,
+      "health_per_capita": 1178.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4740.7,
+      "health_per_capita": 1256.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4837.4,
+      "health_per_capita": 1309.3
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3507704",
+  "city_name": "Braúna",
+  "uf": "SP",
+  "population": 5356,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 30076549.62,
+    "total_expense": 29660948.58,
+    "own_revenue_percentage": 12.1,
+    "transfers_revenue_percentage": 87.9,
+    "personnel_expense_percentage_rcl": 52.0
+  },
+  "per_capita_breakdown": {
+    "health": 1248.3,
+    "education": 1562.8,
+    "urbanism": 769.4,
+    "administration": 536.4,
+    "legislative": 165.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4485.7,
+      "health_per_capita": 973.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4818.0,
+      "health_per_capita": 1048.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5150.2,
+      "health_per_capita": 1123.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5427.1,
+      "health_per_capita": 1198.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5537.9,
+      "health_per_capita": 1248.3
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5101605",
+  "city_name": "Barão de Melgaço",
+  "uf": "MT",
+  "population": 7253,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 36426920.68,
+    "total_expense": 35719575.51,
+    "own_revenue_percentage": 18.4,
+    "transfers_revenue_percentage": 81.6,
+    "personnel_expense_percentage_rcl": 52.8
+  },
+  "per_capita_breakdown": {
+    "health": 1309.0,
+    "education": 1307.5,
+    "urbanism": 669.4,
+    "administration": 535.9,
+    "legislative": 81.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3989.1,
+      "health_per_capita": 1021.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4284.6,
+      "health_per_capita": 1099.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4580.1,
+      "health_per_capita": 1178.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4826.3,
+      "health_per_capita": 1256.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4924.8,
+      "health_per_capita": 1309.0
+    }
+  ]
+}

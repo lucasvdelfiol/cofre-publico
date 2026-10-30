@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2804300",
+  "city_name": "Muribeca",
+  "uf": "SE",
+  "population": 7822,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 42833970.34,
+    "total_expense": 43083540.56,
+    "own_revenue_percentage": 15.2,
+    "transfers_revenue_percentage": 84.8,
+    "personnel_expense_percentage_rcl": 50.6
+  },
+  "per_capita_breakdown": {
+    "health": 1413.5,
+    "education": 1471.7,
+    "urbanism": 597.8,
+    "administration": 495.9,
+    "legislative": 136.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4461.5,
+      "health_per_capita": 1102.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4792.0,
+      "health_per_capita": 1187.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5122.4,
+      "health_per_capita": 1272.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5397.8,
+      "health_per_capita": 1357.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5508.0,
+      "health_per_capita": 1413.5
+    }
+  ]
+}

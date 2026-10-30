@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3147006",
+  "city_name": "Paracatu",
+  "uf": "MG",
+  "population": 94023,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 456276150.23,
+    "total_expense": 444873882.18,
+    "own_revenue_percentage": 34.9,
+    "transfers_revenue_percentage": 65.1,
+    "personnel_expense_percentage_rcl": 49.1
+  },
+  "per_capita_breakdown": {
+    "health": 1151.6,
+    "education": 1224.0,
+    "urbanism": 548.4,
+    "administration": 333.4,
+    "legislative": 101.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3832.5,
+      "health_per_capita": 898.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4116.4,
+      "health_per_capita": 967.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4400.3,
+      "health_per_capita": 1036.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4636.9,
+      "health_per_capita": 1105.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4731.5,
+      "health_per_capita": 1151.6
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4311205",
+  "city_name": "Júlio de Castilhos",
+  "uf": "RS",
+  "population": 18226,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 85585278.1,
+    "total_expense": 84562887.81,
+    "own_revenue_percentage": 8.8,
+    "transfers_revenue_percentage": 91.2,
+    "personnel_expense_percentage_rcl": 51.4
+  },
+  "per_capita_breakdown": {
+    "health": 1217.9,
+    "education": 1347.7,
+    "urbanism": 462.5,
+    "administration": 296.2,
+    "legislative": 82.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3758.2,
+      "health_per_capita": 950.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4036.5,
+      "health_per_capita": 1023.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4314.9,
+      "health_per_capita": 1096.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4546.9,
+      "health_per_capita": 1169.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4639.7,
+      "health_per_capita": 1217.9
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3140704",
+  "city_name": "Mateus Leme",
+  "uf": "MG",
+  "population": 37841,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 172003820.52,
+    "total_expense": 165842754.48,
+    "own_revenue_percentage": 19.4,
+    "transfers_revenue_percentage": 80.6,
+    "personnel_expense_percentage_rcl": 50.9
+  },
+  "per_capita_breakdown": {
+    "health": 1036.1,
+    "education": 1112.7,
+    "urbanism": 690.5,
+    "administration": 514.8,
+    "legislative": 79.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3549.9,
+      "health_per_capita": 808.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3812.9,
+      "health_per_capita": 870.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4075.8,
+      "health_per_capita": 932.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4294.9,
+      "health_per_capita": 994.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4382.6,
+      "health_per_capita": 1036.1
+    }
+  ]
+}

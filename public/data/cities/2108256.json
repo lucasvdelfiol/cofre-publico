@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2108256",
+  "city_name": "Pedro do Rosário",
+  "uf": "MA",
+  "population": 24320,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 113640591.98,
+    "total_expense": 114606304.42,
+    "own_revenue_percentage": 28.8,
+    "transfers_revenue_percentage": 71.2,
+    "personnel_expense_percentage_rcl": 50.9
+  },
+  "per_capita_breakdown": {
+    "health": 1022.8,
+    "education": 1277.0,
+    "urbanism": 465.2,
+    "administration": 315.0,
+    "legislative": 145.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3817.0,
+      "health_per_capita": 797.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4099.8,
+      "health_per_capita": 859.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4382.5,
+      "health_per_capita": 920.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4618.2,
+      "health_per_capita": 981.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4712.4,
+      "health_per_capita": 1022.8
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2308609",
+  "city_name": "Monsenhor Tabosa",
+  "uf": "CE",
+  "population": 17149,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 83216438.56,
+    "total_expense": 80061507.05,
+    "own_revenue_percentage": 9.4,
+    "transfers_revenue_percentage": 90.6,
+    "personnel_expense_percentage_rcl": 50.4
+  },
+  "per_capita_breakdown": {
+    "health": 1072.5,
+    "education": 1413.4,
+    "urbanism": 484.1,
+    "administration": 406.1,
+    "legislative": 102.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3781.6,
+      "health_per_capita": 836.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4061.7,
+      "health_per_capita": 900.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4341.8,
+      "health_per_capita": 965.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4575.2,
+      "health_per_capita": 1029.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4668.6,
+      "health_per_capita": 1072.5
+    }
+  ]
+}

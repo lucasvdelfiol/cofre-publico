@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2404408",
+  "city_name": "Grossos",
+  "uf": "RN",
+  "population": 9924,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 51216252.32,
+    "total_expense": 50340082.84,
+    "own_revenue_percentage": 20.6,
+    "transfers_revenue_percentage": 79.4,
+    "personnel_expense_percentage_rcl": 50.4
+  },
+  "per_capita_breakdown": {
+    "health": 1414.5,
+    "education": 1224.7,
+    "urbanism": 608.4,
+    "administration": 387.2,
+    "legislative": 174.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4108.8,
+      "health_per_capita": 1103.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4413.2,
+      "health_per_capita": 1188.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4717.5,
+      "health_per_capita": 1273.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4971.1,
+      "health_per_capita": 1357.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5072.6,
+      "health_per_capita": 1414.5
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4102752",
+  "city_name": "Bela Vista da Caroba",
+  "uf": "PR",
+  "population": 4031,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 22853014.28,
+    "total_expense": 22303924.06,
+    "own_revenue_percentage": 21.2,
+    "transfers_revenue_percentage": 78.8,
+    "personnel_expense_percentage_rcl": 50.5
+  },
+  "per_capita_breakdown": {
+    "health": 1125.3,
+    "education": 1765.1,
+    "urbanism": 451.0,
+    "administration": 419.9,
+    "legislative": 130.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4481.8,
+      "health_per_capita": 877.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4813.8,
+      "health_per_capita": 945.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5145.8,
+      "health_per_capita": 1012.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5422.4,
+      "health_per_capita": 1080.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5533.1,
+      "health_per_capita": 1125.3
+    }
+  ]
+}

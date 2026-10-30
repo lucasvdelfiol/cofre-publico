@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3513850",
+  "city_name": "Dirce Reis",
+  "uf": "SP",
+  "population": 1620,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 7136769.17,
+    "total_expense": 7169207.25,
+    "own_revenue_percentage": 17.8,
+    "transfers_revenue_percentage": 82.2,
+    "personnel_expense_percentage_rcl": 53.6
+  },
+  "per_capita_breakdown": {
+    "health": 954.8,
+    "education": 1398.2,
+    "urbanism": 564.0,
+    "administration": 498.7,
+    "legislative": 122.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3584.6,
+      "health_per_capita": 744.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3850.1,
+      "health_per_capita": 802.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4115.6,
+      "health_per_capita": 859.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4336.9,
+      "health_per_capita": 916.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4425.4,
+      "health_per_capita": 954.8
+    }
+  ]
+}

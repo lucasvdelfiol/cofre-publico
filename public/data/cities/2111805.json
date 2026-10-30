@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2111805",
+  "city_name": "Sítio Novo",
+  "uf": "MA",
+  "population": 17074,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 76983282.92,
+    "total_expense": 75386144.17,
+    "own_revenue_percentage": 13.0,
+    "transfers_revenue_percentage": 87.0,
+    "personnel_expense_percentage_rcl": 47.0
+  },
+  "per_capita_breakdown": {
+    "health": 1089.9,
+    "education": 1099.7,
+    "urbanism": 437.4,
+    "administration": 448.6,
+    "legislative": 119.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3576.4,
+      "health_per_capita": 850.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3841.3,
+      "health_per_capita": 915.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4106.2,
+      "health_per_capita": 980.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4327.0,
+      "health_per_capita": 1046.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4415.3,
+      "health_per_capita": 1089.9
+    }
+  ]
+}

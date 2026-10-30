@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1503804",
+  "city_name": "Jacundá",
+  "uf": "PA",
+  "population": 37707,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 172700971.11,
+    "total_expense": 169392316.45,
+    "own_revenue_percentage": 23.2,
+    "transfers_revenue_percentage": 76.8,
+    "personnel_expense_percentage_rcl": 51.3
+  },
+  "per_capita_breakdown": {
+    "health": 1190.6,
+    "education": 1145.1,
+    "urbanism": 393.3,
+    "administration": 312.1,
+    "legislative": 79.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3638.8,
+      "health_per_capita": 928.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3908.3,
+      "health_per_capita": 1000.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4177.8,
+      "health_per_capita": 1071.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4402.5,
+      "health_per_capita": 1143.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4492.3,
+      "health_per_capita": 1190.6
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1700707",
+  "city_name": "Alvorada",
+  "uf": "TO",
+  "population": 8802,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 46871992.1,
+    "total_expense": 45571026.29,
+    "own_revenue_percentage": 21.1,
+    "transfers_revenue_percentage": 78.9,
+    "personnel_expense_percentage_rcl": 47.3
+  },
+  "per_capita_breakdown": {
+    "health": 1266.3,
+    "education": 1280.4,
+    "urbanism": 743.5,
+    "administration": 558.0,
+    "legislative": 169.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4193.6,
+      "health_per_capita": 987.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4504.3,
+      "health_per_capita": 1063.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4814.9,
+      "health_per_capita": 1139.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5073.8,
+      "health_per_capita": 1215.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5177.3,
+      "health_per_capita": 1266.3
+    }
+  ]
+}

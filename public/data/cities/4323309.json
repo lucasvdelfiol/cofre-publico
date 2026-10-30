@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4323309",
+  "city_name": "Vila Flores",
+  "uf": "RS",
+  "population": 3646,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 20187188.96,
+    "total_expense": 20138600.09,
+    "own_revenue_percentage": 14.4,
+    "transfers_revenue_percentage": 85.6,
+    "personnel_expense_percentage_rcl": 46.1
+  },
+  "per_capita_breakdown": {
+    "health": 1508.3,
+    "education": 1728.9,
+    "urbanism": 648.6,
+    "administration": 633.3,
+    "legislative": 102.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4474.0,
+      "health_per_capita": 1176.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4805.4,
+      "health_per_capita": 1267.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5136.9,
+      "health_per_capita": 1357.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5413.0,
+      "health_per_capita": 1448.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5523.5,
+      "health_per_capita": 1508.3
+    }
+  ]
+}

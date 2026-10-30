@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3114808",
+  "city_name": "Carvalhos",
+  "uf": "MG",
+  "population": 4422,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 23502761.62,
+    "total_expense": 23109236.1,
+    "own_revenue_percentage": 9.2,
+    "transfers_revenue_percentage": 90.8,
+    "personnel_expense_percentage_rcl": 50.1
+  },
+  "per_capita_breakdown": {
+    "health": 1274.6,
+    "education": 1580.7,
+    "urbanism": 671.5,
+    "administration": 326.6,
+    "legislative": 93.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4233.1,
+      "health_per_capita": 994.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4546.6,
+      "health_per_capita": 1070.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4860.2,
+      "health_per_capita": 1147.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5121.5,
+      "health_per_capita": 1223.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5226.0,
+      "health_per_capita": 1274.6
+    }
+  ]
+}

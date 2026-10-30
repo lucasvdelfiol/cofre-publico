@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4315701",
+  "city_name": "Rio Pardo",
+  "uf": "RS",
+  "population": 34654,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 155121677.76,
+    "total_expense": 155841991.57,
+    "own_revenue_percentage": 21.9,
+    "transfers_revenue_percentage": 78.1,
+    "personnel_expense_percentage_rcl": 51.6
+  },
+  "per_capita_breakdown": {
+    "health": 1045.2,
+    "education": 1415.6,
+    "urbanism": 587.3,
+    "administration": 401.5,
+    "legislative": 78.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3642.7,
+      "health_per_capita": 815.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3912.5,
+      "health_per_capita": 878.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4182.3,
+      "health_per_capita": 940.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4407.2,
+      "health_per_capita": 1003.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4497.1,
+      "health_per_capita": 1045.2
+    }
+  ]
+}

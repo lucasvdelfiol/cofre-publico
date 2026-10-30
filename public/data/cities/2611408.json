@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2611408",
+  "city_name": "Primavera",
+  "uf": "PE",
+  "population": 13838,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 66857959.04,
+    "total_expense": 64742118.44,
+    "own_revenue_percentage": 8.8,
+    "transfers_revenue_percentage": 91.2,
+    "personnel_expense_percentage_rcl": 53.3
+  },
+  "per_capita_breakdown": {
+    "health": 1199.3,
+    "education": 1355.4,
+    "urbanism": 462.5,
+    "administration": 517.7,
+    "legislative": 81.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3789.7,
+      "health_per_capita": 935.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4070.4,
+      "health_per_capita": 1007.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4351.1,
+      "health_per_capita": 1079.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4585.0,
+      "health_per_capita": 1151.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4678.6,
+      "health_per_capita": 1199.3
+    }
+  ]
+}

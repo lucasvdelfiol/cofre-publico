@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3505500",
+  "city_name": "Barretos",
+  "uf": "SP",
+  "population": 122485,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 573245964.84,
+    "total_expense": 573032521.83,
+    "own_revenue_percentage": 47.4,
+    "transfers_revenue_percentage": 52.6,
+    "personnel_expense_percentage_rcl": 45.8
+  },
+  "per_capita_breakdown": {
+    "health": 1206.8,
+    "education": 1301.9,
+    "urbanism": 473.7,
+    "administration": 390.3,
+    "legislative": 112.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3789.5,
+      "health_per_capita": 941.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4070.2,
+      "health_per_capita": 1013.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4350.9,
+      "health_per_capita": 1086.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4584.8,
+      "health_per_capita": 1158.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4678.4,
+      "health_per_capita": 1206.8
+    }
+  ]
+}

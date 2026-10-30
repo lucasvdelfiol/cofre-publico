@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3553906",
+  "city_name": "Tarabai",
+  "uf": "SP",
+  "population": 6536,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 35380980.0,
+    "total_expense": 35013448.93,
+    "own_revenue_percentage": 19.6,
+    "transfers_revenue_percentage": 80.4,
+    "personnel_expense_percentage_rcl": 52.3
+  },
+  "per_capita_breakdown": {
+    "health": 1453.9,
+    "education": 1346.4,
+    "urbanism": 753.4,
+    "administration": 604.5,
+    "legislative": 141.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4339.2,
+      "health_per_capita": 1134.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4660.6,
+      "health_per_capita": 1221.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4982.0,
+      "health_per_capita": 1308.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5249.9,
+      "health_per_capita": 1395.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5357.0,
+      "health_per_capita": 1453.9
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5222005",
+  "city_name": "Vianópolis",
+  "uf": "GO",
+  "population": 14956,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 72097184.3,
+    "total_expense": 70071237.26,
+    "own_revenue_percentage": 10.7,
+    "transfers_revenue_percentage": 89.3,
+    "personnel_expense_percentage_rcl": 52.1
+  },
+  "per_capita_breakdown": {
+    "health": 1143.6,
+    "education": 1478.3,
+    "urbanism": 499.8,
+    "administration": 409.9,
+    "legislative": 116.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3795.0,
+      "health_per_capita": 892.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4076.1,
+      "health_per_capita": 960.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4357.2,
+      "health_per_capita": 1029.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4591.5,
+      "health_per_capita": 1097.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4685.2,
+      "health_per_capita": 1143.6
+    }
+  ]
+}

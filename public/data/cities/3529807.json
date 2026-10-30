@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3529807",
+  "city_name": "Mineiros do Tietê",
+  "uf": "SP",
+  "population": 11230,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 51299066.33,
+    "total_expense": 50469004.73,
+    "own_revenue_percentage": 13.5,
+    "transfers_revenue_percentage": 86.5,
+    "personnel_expense_percentage_rcl": 45.7
+  },
+  "per_capita_breakdown": {
+    "health": 1065.3,
+    "education": 1079.0,
+    "urbanism": 478.8,
+    "administration": 303.4,
+    "legislative": 152.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3640.2,
+      "health_per_capita": 830.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3909.9,
+      "health_per_capita": 894.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4179.5,
+      "health_per_capita": 958.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4404.2,
+      "health_per_capita": 1022.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4494.1,
+      "health_per_capita": 1065.3
+    }
+  ]
+}

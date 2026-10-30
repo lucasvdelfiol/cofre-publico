@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2311108",
+  "city_name": "Porteiras",
+  "uf": "CE",
+  "population": 17050,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 83435287.27,
+    "total_expense": 82920973.53,
+    "own_revenue_percentage": 20.2,
+    "transfers_revenue_percentage": 79.8,
+    "personnel_expense_percentage_rcl": 50.6
+  },
+  "per_capita_breakdown": {
+    "health": 1252.6,
+    "education": 1370.7,
+    "urbanism": 471.9,
+    "administration": 560.4,
+    "legislative": 169.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3939.4,
+      "health_per_capita": 977.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4231.2,
+      "health_per_capita": 1052.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4523.0,
+      "health_per_capita": 1127.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4766.1,
+      "health_per_capita": 1202.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4863.4,
+      "health_per_capita": 1252.6
+    }
+  ]
+}

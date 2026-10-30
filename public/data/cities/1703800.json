@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1703800",
+  "city_name": "Buriti do Tocantins",
+  "uf": "TO",
+  "population": 10307,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 57058241.38,
+    "total_expense": 56754413.66,
+    "own_revenue_percentage": 11.4,
+    "transfers_revenue_percentage": 88.6,
+    "personnel_expense_percentage_rcl": 47.2
+  },
+  "per_capita_breakdown": {
+    "health": 1499.0,
+    "education": 1457.7,
+    "urbanism": 482.3,
+    "administration": 626.8,
+    "legislative": 125.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4460.2,
+      "health_per_capita": 1169.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4790.6,
+      "health_per_capita": 1259.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5121.0,
+      "health_per_capita": 1349.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5396.3,
+      "health_per_capita": 1439.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5506.4,
+      "health_per_capita": 1499.0
+    }
+  ]
+}

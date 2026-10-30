@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1507003",
+  "city_name": "Santo Antônio do Tauá",
+  "uf": "PA",
+  "population": 27461,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 116151418.67,
+    "total_expense": 114834332.85,
+    "own_revenue_percentage": 21.9,
+    "transfers_revenue_percentage": 78.1,
+    "personnel_expense_percentage_rcl": 50.2
+  },
+  "per_capita_breakdown": {
+    "health": 879.3,
+    "education": 1158.3,
+    "urbanism": 652.2,
+    "administration": 334.7,
+    "legislative": 145.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3387.2,
+      "health_per_capita": 685.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3638.1,
+      "health_per_capita": 738.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3889.0,
+      "health_per_capita": 791.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4098.1,
+      "health_per_capita": 844.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4181.7,
+      "health_per_capita": 879.3
+    }
+  ]
+}

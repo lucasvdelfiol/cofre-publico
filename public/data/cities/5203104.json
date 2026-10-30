@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5203104",
+  "city_name": "Baliza",
+  "uf": "GO",
+  "population": 3351,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 17874570.21,
+    "total_expense": 17612437.15,
+    "own_revenue_percentage": 19.2,
+    "transfers_revenue_percentage": 80.8,
+    "personnel_expense_percentage_rcl": 46.4
+  },
+  "per_capita_breakdown": {
+    "health": 1121.1,
+    "education": 1582.6,
+    "urbanism": 489.9,
+    "administration": 384.8,
+    "legislative": 87.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4257.3,
+      "health_per_capita": 874.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4572.6,
+      "health_per_capita": 941.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4888.0,
+      "health_per_capita": 1009.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5150.8,
+      "health_per_capita": 1076.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5255.9,
+      "health_per_capita": 1121.1
+    }
+  ]
+}

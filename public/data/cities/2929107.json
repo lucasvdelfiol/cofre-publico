@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2929107",
+  "city_name": "São Felipe",
+  "uf": "BA",
+  "population": 20283,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 84756383.88,
+    "total_expense": 84453818.77,
+    "own_revenue_percentage": 29.3,
+    "transfers_revenue_percentage": 70.7,
+    "personnel_expense_percentage_rcl": 51.5
+  },
+  "per_capita_breakdown": {
+    "health": 948.8,
+    "education": 1258.2,
+    "urbanism": 627.8,
+    "administration": 367.9,
+    "legislative": 83.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3372.7,
+      "health_per_capita": 740.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3622.5,
+      "health_per_capita": 797.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3872.3,
+      "health_per_capita": 853.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4080.5,
+      "health_per_capita": 910.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4163.8,
+      "health_per_capita": 948.8
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3165602",
+  "city_name": "Senador Cortes",
+  "uf": "MG",
+  "population": 2240,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 10071832.65,
+    "total_expense": 10015769.02,
+    "own_revenue_percentage": 18.3,
+    "transfers_revenue_percentage": 81.7,
+    "personnel_expense_percentage_rcl": 52.0
+  },
+  "per_capita_breakdown": {
+    "health": 898.3,
+    "education": 1116.0,
+    "urbanism": 543.0,
+    "administration": 327.8,
+    "legislative": 83.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3621.8,
+      "health_per_capita": 700.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3890.0,
+      "health_per_capita": 754.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4158.3,
+      "health_per_capita": 808.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4381.9,
+      "health_per_capita": 862.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4471.3,
+      "health_per_capita": 898.3
+    }
+  ]
+}

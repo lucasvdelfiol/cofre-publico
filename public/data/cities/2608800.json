@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2608800",
+  "city_name": "Lajedo",
+  "uf": "PE",
+  "population": 39582,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 172465515.85,
+    "total_expense": 174125488.78,
+    "own_revenue_percentage": 23.6,
+    "transfers_revenue_percentage": 76.4,
+    "personnel_expense_percentage_rcl": 46.5
+  },
+  "per_capita_breakdown": {
+    "health": 1175.3,
+    "education": 1278.9,
+    "urbanism": 559.3,
+    "administration": 480.2,
+    "legislative": 147.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3563.3,
+      "health_per_capita": 916.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3827.2,
+      "health_per_capita": 987.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4091.2,
+      "health_per_capita": 1057.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4311.1,
+      "health_per_capita": 1128.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4399.1,
+      "health_per_capita": 1175.3
+    }
+  ]
+}

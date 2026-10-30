@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3532108",
+  "city_name": "Murutinga do Sul",
+  "uf": "SP",
+  "population": 3737,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 16961356.31,
+    "total_expense": 16514331.9,
+    "own_revenue_percentage": 14.0,
+    "transfers_revenue_percentage": 86.0,
+    "personnel_expense_percentage_rcl": 48.7
+  },
+  "per_capita_breakdown": {
+    "health": 952.9,
+    "education": 1178.5,
+    "urbanism": 544.1,
+    "administration": 401.1,
+    "legislative": 104.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3579.5,
+      "health_per_capita": 743.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3844.6,
+      "health_per_capita": 800.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4109.8,
+      "health_per_capita": 857.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4330.7,
+      "health_per_capita": 914.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4419.1,
+      "health_per_capita": 952.9
+    }
+  ]
+}

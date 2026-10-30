@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3124005",
+  "city_name": "Ervália",
+  "uf": "MG",
+  "population": 20255,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 97425601.17,
+    "total_expense": 94987143.18,
+    "own_revenue_percentage": 21.1,
+    "transfers_revenue_percentage": 78.9,
+    "personnel_expense_percentage_rcl": 46.0
+  },
+  "per_capita_breakdown": {
+    "health": 1305.8,
+    "education": 1169.8,
+    "urbanism": 431.5,
+    "administration": 333.6,
+    "legislative": 93.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3798.6,
+      "health_per_capita": 1018.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4080.0,
+      "health_per_capita": 1096.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4361.3,
+      "health_per_capita": 1175.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4595.8,
+      "health_per_capita": 1253.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4689.6,
+      "health_per_capita": 1305.8
+    }
+  ]
+}

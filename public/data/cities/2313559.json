@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2313559",
+  "city_name": "Tururu",
+  "uf": "CE",
+  "population": 15412,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 81764282.91,
+    "total_expense": 81454820.98,
+    "own_revenue_percentage": 17.3,
+    "transfers_revenue_percentage": 82.7,
+    "personnel_expense_percentage_rcl": 49.8
+  },
+  "per_capita_breakdown": {
+    "health": 1398.0,
+    "education": 1551.4,
+    "urbanism": 643.9,
+    "administration": 482.3,
+    "legislative": 163.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4281.0,
+      "health_per_capita": 1090.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4598.1,
+      "health_per_capita": 1174.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4915.2,
+      "health_per_capita": 1258.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5179.5,
+      "health_per_capita": 1342.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5285.2,
+      "health_per_capita": 1398.0
+    }
+  ]
+}

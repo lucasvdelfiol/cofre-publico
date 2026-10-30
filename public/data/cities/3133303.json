@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3133303",
+  "city_name": "Itaobim",
+  "uf": "MG",
+  "population": 19151,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 90888311.58,
+    "total_expense": 91359419.27,
+    "own_revenue_percentage": 16.8,
+    "transfers_revenue_percentage": 83.2,
+    "personnel_expense_percentage_rcl": 53.3
+  },
+  "per_capita_breakdown": {
+    "health": 1146.7,
+    "education": 1394.2,
+    "urbanism": 671.2,
+    "administration": 448.9,
+    "legislative": 72.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3864.1,
+      "health_per_capita": 894.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4150.3,
+      "health_per_capita": 963.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4436.6,
+      "health_per_capita": 1032.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4675.1,
+      "health_per_capita": 1100.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4770.5,
+      "health_per_capita": 1146.7
+    }
+  ]
+}

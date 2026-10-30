@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2702207",
+  "city_name": "Coqueiro Seco",
+  "uf": "AL",
+  "population": 5581,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 30681332.32,
+    "total_expense": 30544342.1,
+    "own_revenue_percentage": 12.1,
+    "transfers_revenue_percentage": 87.9,
+    "personnel_expense_percentage_rcl": 49.6
+  },
+  "per_capita_breakdown": {
+    "health": 1202.5,
+    "education": 1624.4,
+    "urbanism": 842.2,
+    "administration": 569.9,
+    "legislative": 180.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4433.0,
+      "health_per_capita": 938.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4761.4,
+      "health_per_capita": 1010.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5089.8,
+      "health_per_capita": 1082.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5363.4,
+      "health_per_capita": 1154.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5472.9,
+      "health_per_capita": 1202.5
+    }
+  ]
+}

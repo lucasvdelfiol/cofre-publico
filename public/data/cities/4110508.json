@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4110508",
+  "city_name": "Ipiranga",
+  "uf": "PR",
+  "population": 14142,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 68424369.6,
+    "total_expense": 68814796.31,
+    "own_revenue_percentage": 17.2,
+    "transfers_revenue_percentage": 82.8,
+    "personnel_expense_percentage_rcl": 53.2
+  },
+  "per_capita_breakdown": {
+    "health": 1128.1,
+    "education": 1339.9,
+    "urbanism": 508.7,
+    "administration": 488.7,
+    "legislative": 122.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3941.5,
+      "health_per_capita": 879.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4233.4,
+      "health_per_capita": 947.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4525.4,
+      "health_per_capita": 1015.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4768.7,
+      "health_per_capita": 1083.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4866.0,
+      "health_per_capita": 1128.1
+    }
+  ]
+}

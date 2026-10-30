@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3136603",
+  "city_name": "Nova União",
+  "uf": "MG",
+  "population": 5909,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 27390653.31,
+    "total_expense": 27183336.53,
+    "own_revenue_percentage": 8.2,
+    "transfers_revenue_percentage": 91.8,
+    "personnel_expense_percentage_rcl": 51.6
+  },
+  "per_capita_breakdown": {
+    "health": 990.6,
+    "education": 1369.0,
+    "urbanism": 687.3,
+    "administration": 323.3,
+    "legislative": 128.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3726.2,
+      "health_per_capita": 772.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4002.3,
+      "health_per_capita": 832.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4278.3,
+      "health_per_capita": 891.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4508.3,
+      "health_per_capita": 951.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4600.3,
+      "health_per_capita": 990.6
+    }
+  ]
+}

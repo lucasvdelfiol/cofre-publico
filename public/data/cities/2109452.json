@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2109452",
+  "city_name": "Raposa",
+  "uf": "MA",
+  "population": 30839,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 127125742.71,
+    "total_expense": 127066550.34,
+    "own_revenue_percentage": 18.7,
+    "transfers_revenue_percentage": 81.3,
+    "personnel_expense_percentage_rcl": 49.6
+  },
+  "per_capita_breakdown": {
+    "health": 1048.0,
+    "education": 1209.1,
+    "urbanism": 426.9,
+    "administration": 286.7,
+    "legislative": 80.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3337.4,
+      "health_per_capita": 817.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3584.7,
+      "health_per_capita": 880.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3831.9,
+      "health_per_capita": 943.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4037.9,
+      "health_per_capita": 1006.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4120.3,
+      "health_per_capita": 1048.0
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5101209",
+  "city_name": "Araguainha",
+  "uf": "MT",
+  "population": 1500,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 8382608.75,
+    "total_expense": 8099314.36,
+    "own_revenue_percentage": 19.9,
+    "transfers_revenue_percentage": 80.1,
+    "personnel_expense_percentage_rcl": 52.1
+  },
+  "per_capita_breakdown": {
+    "health": 1328.4,
+    "education": 1700.9,
+    "urbanism": 751.3,
+    "administration": 451.0,
+    "legislative": 90.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4373.6,
+      "health_per_capita": 1036.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4697.6,
+      "health_per_capita": 1115.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5021.5,
+      "health_per_capita": 1195.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5291.5,
+      "health_per_capita": 1275.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5399.5,
+      "health_per_capita": 1328.4
+    }
+  ]
+}

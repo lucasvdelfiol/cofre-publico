@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3153004",
+  "city_name": "Pratinha",
+  "uf": "MG",
+  "population": 3559,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 17381770.18,
+    "total_expense": 17441840.53,
+    "own_revenue_percentage": 18.1,
+    "transfers_revenue_percentage": 81.9,
+    "personnel_expense_percentage_rcl": 51.5
+  },
+  "per_capita_breakdown": {
+    "health": 1253.6,
+    "education": 1360.2,
+    "urbanism": 679.8,
+    "administration": 317.9,
+    "legislative": 163.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3969.6,
+      "health_per_capita": 977.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4263.7,
+      "health_per_capita": 1053.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4557.7,
+      "health_per_capita": 1128.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4802.8,
+      "health_per_capita": 1203.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4900.8,
+      "health_per_capita": 1253.6
+    }
+  ]
+}

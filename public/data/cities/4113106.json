@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4113106",
+  "city_name": "Kaloré",
+  "uf": "PR",
+  "population": 4582,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 21244634.4,
+    "total_expense": 21107656.35,
+    "own_revenue_percentage": 16.8,
+    "transfers_revenue_percentage": 83.2,
+    "personnel_expense_percentage_rcl": 52.1
+  },
+  "per_capita_breakdown": {
+    "health": 1014.7,
+    "education": 1187.5,
+    "urbanism": 586.3,
+    "administration": 323.3,
+    "legislative": 114.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3731.3,
+      "health_per_capita": 791.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4007.7,
+      "health_per_capita": 852.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4284.1,
+      "health_per_capita": 913.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4514.5,
+      "health_per_capita": 974.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4606.6,
+      "health_per_capita": 1014.7
+    }
+  ]
+}

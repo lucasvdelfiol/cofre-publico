@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4311304",
+  "city_name": "Lagoa Vermelha",
+  "uf": "RS",
+  "population": 27659,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 125278791.19,
+    "total_expense": 123233096.45,
+    "own_revenue_percentage": 26.4,
+    "transfers_revenue_percentage": 73.6,
+    "personnel_expense_percentage_rcl": 48.3
+  },
+  "per_capita_breakdown": {
+    "health": 1025.9,
+    "education": 1163.1,
+    "urbanism": 648.0,
+    "administration": 502.1,
+    "legislative": 122.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3608.9,
+      "health_per_capita": 800.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3876.2,
+      "health_per_capita": 861.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4143.5,
+      "health_per_capita": 923.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4366.3,
+      "health_per_capita": 984.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4455.4,
+      "health_per_capita": 1025.9
+    }
+  ]
+}

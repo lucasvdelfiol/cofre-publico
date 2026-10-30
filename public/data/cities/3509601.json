@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3509601",
+  "city_name": "Campo Limpo Paulista",
+  "uf": "SP",
+  "population": 77632,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 332790759.42,
+    "total_expense": 328004766.13,
+    "own_revenue_percentage": 34.0,
+    "transfers_revenue_percentage": 66.0,
+    "personnel_expense_percentage_rcl": 46.6
+  },
+  "per_capita_breakdown": {
+    "health": 1157.8,
+    "education": 1203.1,
+    "urbanism": 549.1,
+    "administration": 325.5,
+    "legislative": 90.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3422.3,
+      "health_per_capita": 903.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3675.8,
+      "health_per_capita": 972.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3929.3,
+      "health_per_capita": 1042.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4140.6,
+      "health_per_capita": 1111.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4225.1,
+      "health_per_capita": 1157.8
+    }
+  ]
+}

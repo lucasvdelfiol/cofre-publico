@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3539509",
+  "city_name": "Pitangueiras",
+  "uf": "SP",
+  "population": 33674,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 156399672.94,
+    "total_expense": 150411401.41,
+    "own_revenue_percentage": 26.4,
+    "transfers_revenue_percentage": 73.6,
+    "personnel_expense_percentage_rcl": 47.2
+  },
+  "per_capita_breakdown": {
+    "health": 1168.0,
+    "education": 1426.0,
+    "urbanism": 714.1,
+    "administration": 310.1,
+    "legislative": 109.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3618.0,
+      "health_per_capita": 911.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3886.0,
+      "health_per_capita": 981.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4154.0,
+      "health_per_capita": 1051.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4377.4,
+      "health_per_capita": 1121.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4466.7,
+      "health_per_capita": 1168.0
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3102605",
+  "city_name": "Andradas",
+  "uf": "MG",
+  "population": 40553,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 189577258.24,
+    "total_expense": 189434679.29,
+    "own_revenue_percentage": 21.3,
+    "transfers_revenue_percentage": 78.7,
+    "personnel_expense_percentage_rcl": 46.6
+  },
+  "per_capita_breakdown": {
+    "health": 1046.0,
+    "education": 1330.7,
+    "urbanism": 426.9,
+    "administration": 350.5,
+    "legislative": 100.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3783.8,
+      "health_per_capita": 815.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4064.0,
+      "health_per_capita": 878.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4344.3,
+      "health_per_capita": 941.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4577.9,
+      "health_per_capita": 1004.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4671.3,
+      "health_per_capita": 1046.0
+    }
+  ]
+}

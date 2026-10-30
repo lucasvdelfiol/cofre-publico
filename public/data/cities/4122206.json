@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4122206",
+  "city_name": "Rio Branco do Sul",
+  "uf": "PR",
+  "population": 37558,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 172479252.8,
+    "total_expense": 171954751.1,
+    "own_revenue_percentage": 31.8,
+    "transfers_revenue_percentage": 68.2,
+    "personnel_expense_percentage_rcl": 53.3
+  },
+  "per_capita_breakdown": {
+    "health": 1043.5,
+    "education": 1222.8,
+    "urbanism": 493.6,
+    "administration": 471.7,
+    "legislative": 107.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3708.5,
+      "health_per_capita": 813.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3983.2,
+      "health_per_capita": 876.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4257.9,
+      "health_per_capita": 939.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4486.8,
+      "health_per_capita": 1001.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4578.4,
+      "health_per_capita": 1043.5
+    }
+  ]
+}

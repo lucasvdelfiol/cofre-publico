@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5201801",
+  "city_name": "Aragoiânia",
+  "uf": "GO",
+  "population": 11890,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 67378325.68,
+    "total_expense": 65798055.39,
+    "own_revenue_percentage": 15.1,
+    "transfers_revenue_percentage": 84.9,
+    "personnel_expense_percentage_rcl": 47.8
+  },
+  "per_capita_breakdown": {
+    "health": 1134.2,
+    "education": 1399.8,
+    "urbanism": 452.0,
+    "administration": 537.2,
+    "legislative": 101.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4482.5,
+      "health_per_capita": 884.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4814.5,
+      "health_per_capita": 952.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5146.5,
+      "health_per_capita": 1020.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5423.2,
+      "health_per_capita": 1088.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5533.9,
+      "health_per_capita": 1134.2
+    }
+  ]
+}

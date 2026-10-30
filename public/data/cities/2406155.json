@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2406155",
+  "city_name": "Jundiá",
+  "uf": "RN",
+  "population": 3739,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 18353623.3,
+    "total_expense": 17749799.89,
+    "own_revenue_percentage": 8.7,
+    "transfers_revenue_percentage": 91.3,
+    "personnel_expense_percentage_rcl": 51.1
+  },
+  "per_capita_breakdown": {
+    "health": 1033.8,
+    "education": 1516.6,
+    "urbanism": 690.3,
+    "administration": 545.8,
+    "legislative": 109.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3845.2,
+      "health_per_capita": 806.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4130.1,
+      "health_per_capita": 868.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4414.9,
+      "health_per_capita": 930.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4652.3,
+      "health_per_capita": 992.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4747.2,
+      "health_per_capita": 1033.8
+    }
+  ]
+}

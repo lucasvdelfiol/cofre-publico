@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4113007",
+  "city_name": "Jussara",
+  "uf": "PR",
+  "population": 6690,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 33373362.38,
+    "total_expense": 32909568.25,
+    "own_revenue_percentage": 20.2,
+    "transfers_revenue_percentage": 79.8,
+    "personnel_expense_percentage_rcl": 50.3
+  },
+  "per_capita_breakdown": {
+    "health": 1103.3,
+    "education": 1256.5,
+    "urbanism": 415.4,
+    "administration": 464.0,
+    "legislative": 125.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3984.6,
+      "health_per_capita": 860.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4279.7,
+      "health_per_capita": 926.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4574.9,
+      "health_per_capita": 993.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4820.8,
+      "health_per_capita": 1059.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4919.2,
+      "health_per_capita": 1103.3
+    }
+  ]
+}

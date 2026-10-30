@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5207600",
+  "city_name": "Fazenda Nova",
+  "uf": "GO",
+  "population": 5877,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 27977281.18,
+    "total_expense": 27598258.65,
+    "own_revenue_percentage": 17.7,
+    "transfers_revenue_percentage": 82.3,
+    "personnel_expense_percentage_rcl": 49.9
+  },
+  "per_capita_breakdown": {
+    "health": 1300.6,
+    "education": 1179.8,
+    "urbanism": 635.3,
+    "administration": 369.5,
+    "legislative": 96.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3803.8,
+      "health_per_capita": 1014.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4085.5,
+      "health_per_capita": 1092.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4367.3,
+      "health_per_capita": 1170.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4602.1,
+      "health_per_capita": 1248.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4696.0,
+      "health_per_capita": 1300.6
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2508208",
+  "city_name": "Lagoa de Dentro",
+  "uf": "PB",
+  "population": 7819,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 42130563.33,
+    "total_expense": 42438344.19,
+    "own_revenue_percentage": 12.9,
+    "transfers_revenue_percentage": 87.1,
+    "personnel_expense_percentage_rcl": 47.0
+  },
+  "per_capita_breakdown": {
+    "health": 1210.9,
+    "education": 1661.4,
+    "urbanism": 613.2,
+    "administration": 499.2,
+    "legislative": 86.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4396.4,
+      "health_per_capita": 944.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4722.0,
+      "health_per_capita": 1017.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5047.7,
+      "health_per_capita": 1089.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5319.0,
+      "health_per_capita": 1162.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5427.6,
+      "health_per_capita": 1210.9
+    }
+  ]
+}

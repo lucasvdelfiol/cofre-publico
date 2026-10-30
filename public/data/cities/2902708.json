@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2902708",
+  "city_name": "Barra",
+  "uf": "BA",
+  "population": 51092,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 239162398.52,
+    "total_expense": 234680328.88,
+    "own_revenue_percentage": 30.7,
+    "transfers_revenue_percentage": 69.3,
+    "personnel_expense_percentage_rcl": 45.1
+  },
+  "per_capita_breakdown": {
+    "health": 1144.5,
+    "education": 1353.4,
+    "urbanism": 403.0,
+    "administration": 494.6,
+    "legislative": 75.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3720.6,
+      "health_per_capita": 892.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3996.2,
+      "health_per_capita": 961.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4271.8,
+      "health_per_capita": 1030.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4501.4,
+      "health_per_capita": 1098.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4593.3,
+      "health_per_capita": 1144.5
+    }
+  ]
+}

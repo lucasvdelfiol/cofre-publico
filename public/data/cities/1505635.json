@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1505635",
+  "city_name": "Piçarra",
+  "uf": "PA",
+  "population": 12832,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 71048780.64,
+    "total_expense": 68479954.64,
+    "own_revenue_percentage": 10.1,
+    "transfers_revenue_percentage": 89.9,
+    "personnel_expense_percentage_rcl": 46.7
+  },
+  "per_capita_breakdown": {
+    "health": 1247.7,
+    "education": 1605.4,
+    "urbanism": 845.5,
+    "administration": 541.4,
+    "legislative": 162.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4322.7,
+      "health_per_capita": 973.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4642.9,
+      "health_per_capita": 1048.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4963.1,
+      "health_per_capita": 1122.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5230.0,
+      "health_per_capita": 1197.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5336.7,
+      "health_per_capita": 1247.7
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2107407",
+  "city_name": "Olho d'Água das Cunhãs",
+  "uf": "MA",
+  "population": 17919,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 101308741.88,
+    "total_expense": 100037343.82,
+    "own_revenue_percentage": 13.8,
+    "transfers_revenue_percentage": 86.2,
+    "personnel_expense_percentage_rcl": 52.4
+  },
+  "per_capita_breakdown": {
+    "health": 1505.2,
+    "education": 1547.3,
+    "urbanism": 467.2,
+    "administration": 339.6,
+    "legislative": 162.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4522.1,
+      "health_per_capita": 1174.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4857.0,
+      "health_per_capita": 1264.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5192.0,
+      "health_per_capita": 1354.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5471.1,
+      "health_per_capita": 1445.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5582.8,
+      "health_per_capita": 1505.2
+    }
+  ]
+}

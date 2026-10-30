@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4314308",
+  "city_name": "Pejuçara",
+  "uf": "RS",
+  "population": 3745,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 17462706.82,
+    "total_expense": 17500624.13,
+    "own_revenue_percentage": 18.8,
+    "transfers_revenue_percentage": 81.2,
+    "personnel_expense_percentage_rcl": 46.1
+  },
+  "per_capita_breakdown": {
+    "health": 1169.4,
+    "education": 1169.9,
+    "urbanism": 461.1,
+    "administration": 375.0,
+    "legislative": 144.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3785.2,
+      "health_per_capita": 912.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4065.6,
+      "health_per_capita": 982.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4346.0,
+      "health_per_capita": 1052.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4579.6,
+      "health_per_capita": 1122.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4673.1,
+      "health_per_capita": 1169.4
+    }
+  ]
+}

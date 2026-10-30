@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3163904",
+  "city_name": "São Pedro da União",
+  "uf": "MG",
+  "population": 4885,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 25797749.0,
+    "total_expense": 25292311.97,
+    "own_revenue_percentage": 17.1,
+    "transfers_revenue_percentage": 82.9,
+    "personnel_expense_percentage_rcl": 51.5
+  },
+  "per_capita_breakdown": {
+    "health": 1377.4,
+    "education": 1623.2,
+    "urbanism": 729.2,
+    "administration": 448.3,
+    "legislative": 133.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4193.8,
+      "health_per_capita": 1074.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4504.4,
+      "health_per_capita": 1157.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4815.1,
+      "health_per_capita": 1239.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5073.9,
+      "health_per_capita": 1322.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5177.5,
+      "health_per_capita": 1377.4
+    }
+  ]
+}

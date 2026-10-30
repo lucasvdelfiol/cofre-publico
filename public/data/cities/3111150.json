@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3111150",
+  "city_name": "Campo Azul",
+  "uf": "MG",
+  "population": 3714,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 18751363.2,
+    "total_expense": 18811287.74,
+    "own_revenue_percentage": 11.5,
+    "transfers_revenue_percentage": 88.5,
+    "personnel_expense_percentage_rcl": 48.6
+  },
+  "per_capita_breakdown": {
+    "health": 1220.8,
+    "education": 1526.0,
+    "urbanism": 542.1,
+    "administration": 340.4,
+    "legislative": 129.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4102.7,
+      "health_per_capita": 952.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4406.6,
+      "health_per_capita": 1025.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4710.4,
+      "health_per_capita": 1098.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4963.7,
+      "health_per_capita": 1172.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5065.0,
+      "health_per_capita": 1220.8
+    }
+  ]
+}

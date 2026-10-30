@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3529708",
+  "city_name": "Miguelópolis",
+  "uf": "SP",
+  "population": 19441,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 85995206.91,
+    "total_expense": 85427765.95,
+    "own_revenue_percentage": 13.3,
+    "transfers_revenue_percentage": 86.7,
+    "personnel_expense_percentage_rcl": 49.0
+  },
+  "per_capita_breakdown": {
+    "health": 1124.9,
+    "education": 1125.3,
+    "urbanism": 674.2,
+    "administration": 431.0,
+    "legislative": 117.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3559.3,
+      "health_per_capita": 877.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3823.0,
+      "health_per_capita": 944.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4086.6,
+      "health_per_capita": 1012.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4306.3,
+      "health_per_capita": 1079.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4394.2,
+      "health_per_capita": 1124.9
+    }
+  ]
+}

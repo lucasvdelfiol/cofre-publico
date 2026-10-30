@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4107546",
+  "city_name": "Espigão Alto do Iguaçu",
+  "uf": "PR",
+  "population": 4797,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 22161246.53,
+    "total_expense": 22259882.93,
+    "own_revenue_percentage": 18.2,
+    "transfers_revenue_percentage": 81.8,
+    "personnel_expense_percentage_rcl": 45.8
+  },
+  "per_capita_breakdown": {
+    "health": 1217.2,
+    "education": 1462.7,
+    "urbanism": 637.1,
+    "administration": 288.7,
+    "legislative": 70.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3758.7,
+      "health_per_capita": 949.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4037.1,
+      "health_per_capita": 1022.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4315.6,
+      "health_per_capita": 1095.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4547.6,
+      "health_per_capita": 1168.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4640.4,
+      "health_per_capita": 1217.2
+    }
+  ]
+}

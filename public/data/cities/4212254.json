@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4212254",
+  "city_name": "Passo de Torres",
+  "uf": "SC",
+  "population": 12897,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 56258529.25,
+    "total_expense": 56565996.49,
+    "own_revenue_percentage": 10.1,
+    "transfers_revenue_percentage": 89.9,
+    "personnel_expense_percentage_rcl": 50.7
+  },
+  "per_capita_breakdown": {
+    "health": 950.2,
+    "education": 1122.2,
+    "urbanism": 640.3,
+    "administration": 281.7,
+    "legislative": 87.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3552.7,
+      "health_per_capita": 741.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3815.8,
+      "health_per_capita": 798.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4079.0,
+      "health_per_capita": 855.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4298.3,
+      "health_per_capita": 912.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4386.0,
+      "health_per_capita": 950.2
+    }
+  ]
+}

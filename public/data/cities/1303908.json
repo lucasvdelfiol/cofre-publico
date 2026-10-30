@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1303908",
+  "city_name": "São Paulo de Olivença",
+  "uf": "AM",
+  "population": 32967,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 151602321.15,
+    "total_expense": 151601724.05,
+    "own_revenue_percentage": 22.5,
+    "transfers_revenue_percentage": 77.5,
+    "personnel_expense_percentage_rcl": 49.1
+  },
+  "per_capita_breakdown": {
+    "health": 1281.4,
+    "education": 1162.3,
+    "urbanism": 474.5,
+    "administration": 277.1,
+    "legislative": 151.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3724.9,
+      "health_per_capita": 999.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4000.8,
+      "health_per_capita": 1076.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4276.7,
+      "health_per_capita": 1153.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4506.6,
+      "health_per_capita": 1230.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4598.6,
+      "health_per_capita": 1281.4
+    }
+  ]
+}

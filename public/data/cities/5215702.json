@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5215702",
+  "city_name": "Palmeiras de Goiás",
+  "uf": "GO",
+  "population": 31858,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 152767573.16,
+    "total_expense": 152166170.92,
+    "own_revenue_percentage": 20.8,
+    "transfers_revenue_percentage": 79.2,
+    "personnel_expense_percentage_rcl": 52.7
+  },
+  "per_capita_breakdown": {
+    "health": 1173.9,
+    "education": 1395.3,
+    "urbanism": 479.2,
+    "administration": 444.4,
+    "legislative": 98.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3868.9,
+      "health_per_capita": 915.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4155.5,
+      "health_per_capita": 986.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4442.1,
+      "health_per_capita": 1056.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4680.9,
+      "health_per_capita": 1126.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4776.4,
+      "health_per_capita": 1173.9
+    }
+  ]
+}

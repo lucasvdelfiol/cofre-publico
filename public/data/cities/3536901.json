@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3536901",
+  "city_name": "Pedranópolis",
+  "uf": "SP",
+  "population": 2787,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 14247015.18,
+    "total_expense": 14047922.83,
+    "own_revenue_percentage": 16.3,
+    "transfers_revenue_percentage": 83.7,
+    "personnel_expense_percentage_rcl": 49.0
+  },
+  "per_capita_breakdown": {
+    "health": 1088.8,
+    "education": 1295.4,
+    "urbanism": 440.1,
+    "administration": 426.3,
+    "legislative": 145.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4082.8,
+      "health_per_capita": 849.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4385.2,
+      "health_per_capita": 914.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4687.7,
+      "health_per_capita": 979.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4939.7,
+      "health_per_capita": 1045.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5040.5,
+      "health_per_capita": 1088.8
+    }
+  ]
+}

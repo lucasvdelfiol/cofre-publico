@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2100105",
+  "city_name": "Afonso Cunha",
+  "uf": "MA",
+  "population": 6144,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 29673161.8,
+    "total_expense": 29927214.2,
+    "own_revenue_percentage": 11.0,
+    "transfers_revenue_percentage": 89.0,
+    "personnel_expense_percentage_rcl": 46.2
+  },
+  "per_capita_breakdown": {
+    "health": 1113.0,
+    "education": 1342.8,
+    "urbanism": 738.9,
+    "administration": 405.4,
+    "legislative": 111.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3945.5,
+      "health_per_capita": 868.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4237.8,
+      "health_per_capita": 934.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4530.0,
+      "health_per_capita": 1001.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4773.6,
+      "health_per_capita": 1068.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4871.0,
+      "health_per_capita": 1113.0
+    }
+  ]
+}

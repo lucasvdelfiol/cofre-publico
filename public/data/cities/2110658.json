@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2110658",
+  "city_name": "São Domingos do Azeitão",
+  "uf": "MA",
+  "population": 7992,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 41641106.55,
+    "total_expense": 40076961.72,
+    "own_revenue_percentage": 19.9,
+    "transfers_revenue_percentage": 80.1,
+    "personnel_expense_percentage_rcl": 50.1
+  },
+  "per_capita_breakdown": {
+    "health": 1045.7,
+    "education": 1229.0,
+    "urbanism": 710.7,
+    "administration": 479.5,
+    "legislative": 94.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4061.8,
+      "health_per_capita": 815.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4362.7,
+      "health_per_capita": 878.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4663.6,
+      "health_per_capita": 941.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4914.3,
+      "health_per_capita": 1003.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5014.6,
+      "health_per_capita": 1045.7
+    }
+  ]
+}

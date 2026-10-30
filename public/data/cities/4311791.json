@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4311791",
+  "city_name": "Maratá",
+  "uf": "RS",
+  "population": 2470,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 12784651.69,
+    "total_expense": 12550231.32,
+    "own_revenue_percentage": 13.9,
+    "transfers_revenue_percentage": 86.1,
+    "personnel_expense_percentage_rcl": 48.6
+  },
+  "per_capita_breakdown": {
+    "health": 1176.0,
+    "education": 1597.7,
+    "urbanism": 450.6,
+    "administration": 435.4,
+    "legislative": 95.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4115.7,
+      "health_per_capita": 917.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4420.6,
+      "health_per_capita": 987.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4725.4,
+      "health_per_capita": 1058.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4979.5,
+      "health_per_capita": 1129.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5081.1,
+      "health_per_capita": 1176.0
+    }
+  ]
+}

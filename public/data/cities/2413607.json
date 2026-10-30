@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2413607",
+  "city_name": "Severiano Melo",
+  "uf": "RN",
+  "population": 5487,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 26815754.98,
+    "total_expense": 26891333.86,
+    "own_revenue_percentage": 17.5,
+    "transfers_revenue_percentage": 82.5,
+    "personnel_expense_percentage_rcl": 47.1
+  },
+  "per_capita_breakdown": {
+    "health": 1268.4,
+    "education": 1365.5,
+    "urbanism": 547.4,
+    "administration": 442.4,
+    "legislative": 164.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3969.7,
+      "health_per_capita": 989.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4263.8,
+      "health_per_capita": 1065.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4557.8,
+      "health_per_capita": 1141.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4802.9,
+      "health_per_capita": 1217.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4900.9,
+      "health_per_capita": 1268.4
+    }
+  ]
+}

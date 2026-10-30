@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4128708",
+  "city_name": "Vitorino",
+  "uf": "PR",
+  "population": 9706,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 50403079.55,
+    "total_expense": 49395780.37,
+    "own_revenue_percentage": 14.9,
+    "transfers_revenue_percentage": 85.1,
+    "personnel_expense_percentage_rcl": 49.6
+  },
+  "per_capita_breakdown": {
+    "health": 1318.2,
+    "education": 1264.2,
+    "urbanism": 456.5,
+    "administration": 474.2,
+    "legislative": 82.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4122.3,
+      "health_per_capita": 1028.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4427.6,
+      "health_per_capita": 1107.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4733.0,
+      "health_per_capita": 1186.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4987.4,
+      "health_per_capita": 1265.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5089.2,
+      "health_per_capita": 1318.2
+    }
+  ]
+}

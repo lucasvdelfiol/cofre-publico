@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3526308",
+  "city_name": "Lagoinha",
+  "uf": "SP",
+  "population": 5083,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 25563321.63,
+    "total_expense": 24756034.17,
+    "own_revenue_percentage": 15.2,
+    "transfers_revenue_percentage": 84.8,
+    "personnel_expense_percentage_rcl": 51.5
+  },
+  "per_capita_breakdown": {
+    "health": 1332.3,
+    "education": 1432.1,
+    "urbanism": 584.8,
+    "administration": 467.3,
+    "legislative": 99.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3945.0,
+      "health_per_capita": 1039.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4237.2,
+      "health_per_capita": 1119.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4529.5,
+      "health_per_capita": 1199.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4773.0,
+      "health_per_capita": 1279.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4870.4,
+      "health_per_capita": 1332.3
+    }
+  ]
+}

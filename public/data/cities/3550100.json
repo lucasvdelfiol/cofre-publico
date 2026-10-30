@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3550100",
+  "city_name": "São Manuel",
+  "uf": "SP",
+  "population": 37289,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 179485871.0,
+    "total_expense": 175297894.38,
+    "own_revenue_percentage": 29.2,
+    "transfers_revenue_percentage": 70.8,
+    "personnel_expense_percentage_rcl": 49.2
+  },
+  "per_capita_breakdown": {
+    "health": 975.8,
+    "education": 1490.4,
+    "urbanism": 392.0,
+    "administration": 459.6,
+    "legislative": 104.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3807.9,
+      "health_per_capita": 761.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4090.0,
+      "health_per_capita": 819.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4372.0,
+      "health_per_capita": 878.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4607.1,
+      "health_per_capita": 936.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4701.1,
+      "health_per_capita": 975.8
+    }
+  ]
+}

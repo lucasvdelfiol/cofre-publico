@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4123709",
+  "city_name": "Santa Isabel do Ivaí",
+  "uf": "PR",
+  "population": 8912,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 49552682.11,
+    "total_expense": 48402630.02,
+    "own_revenue_percentage": 8.4,
+    "transfers_revenue_percentage": 91.6,
+    "personnel_expense_percentage_rcl": 52.3
+  },
+  "per_capita_breakdown": {
+    "health": 1264.9,
+    "education": 1331.9,
+    "urbanism": 864.8,
+    "administration": 465.0,
+    "legislative": 149.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4399.3,
+      "health_per_capita": 986.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4725.1,
+      "health_per_capita": 1062.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5051.0,
+      "health_per_capita": 1138.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5322.6,
+      "health_per_capita": 1214.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5431.2,
+      "health_per_capita": 1264.9
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2607109",
+  "city_name": "Ingazeira",
+  "uf": "PE",
+  "population": 4765,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 22246198.98,
+    "total_expense": 21969293.08,
+    "own_revenue_percentage": 8.4,
+    "transfers_revenue_percentage": 91.6,
+    "personnel_expense_percentage_rcl": 52.6
+  },
+  "per_capita_breakdown": {
+    "health": 1210.2,
+    "education": 1321.0,
+    "urbanism": 604.5,
+    "administration": 432.2,
+    "legislative": 69.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3734.6,
+      "health_per_capita": 944.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4011.2,
+      "health_per_capita": 1016.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4287.9,
+      "health_per_capita": 1089.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4518.4,
+      "health_per_capita": 1161.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4610.6,
+      "health_per_capita": 1210.2
+    }
+  ]
+}

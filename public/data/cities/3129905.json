@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3129905",
+  "city_name": "Ibitiúra de Minas",
+  "uf": "MG",
+  "population": 3365,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 15474545.87,
+    "total_expense": 15309585.24,
+    "own_revenue_percentage": 12.5,
+    "transfers_revenue_percentage": 87.5,
+    "personnel_expense_percentage_rcl": 50.2
+  },
+  "per_capita_breakdown": {
+    "health": 1252.3,
+    "education": 1222.1,
+    "urbanism": 480.0,
+    "administration": 468.2,
+    "legislative": 76.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3685.3,
+      "health_per_capita": 976.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3958.2,
+      "health_per_capita": 1051.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4231.2,
+      "health_per_capita": 1127.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4458.7,
+      "health_per_capita": 1202.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4549.7,
+      "health_per_capita": 1252.3
+    }
+  ]
+}

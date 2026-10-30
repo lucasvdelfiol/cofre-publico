@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2921450",
+  "city_name": "Mirante",
+  "uf": "BA",
+  "population": 10187,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 49031317.18,
+    "total_expense": 49096571.1,
+    "own_revenue_percentage": 21.3,
+    "transfers_revenue_percentage": 78.7,
+    "personnel_expense_percentage_rcl": 47.1
+  },
+  "per_capita_breakdown": {
+    "health": 1308.5,
+    "education": 1172.7,
+    "urbanism": 633.2,
+    "administration": 539.1,
+    "legislative": 151.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3903.8,
+      "health_per_capita": 1020.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4193.0,
+      "health_per_capita": 1099.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4482.1,
+      "health_per_capita": 1177.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4723.1,
+      "health_per_capita": 1256.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4819.5,
+      "health_per_capita": 1308.5
+    }
+  ]
+}

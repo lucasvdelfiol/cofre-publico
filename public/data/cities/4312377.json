@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4312377",
+  "city_name": "Monte Alegre dos Campos",
+  "uf": "RS",
+  "population": 3180,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 18352310.85,
+    "total_expense": 17736339.98,
+    "own_revenue_percentage": 21.7,
+    "transfers_revenue_percentage": 78.3,
+    "personnel_expense_percentage_rcl": 50.1
+  },
+  "per_capita_breakdown": {
+    "health": 1196.8,
+    "education": 1524.9,
+    "urbanism": 569.6,
+    "administration": 621.2,
+    "legislative": 110.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4517.8,
+      "health_per_capita": 933.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4852.4,
+      "health_per_capita": 1005.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5187.1,
+      "health_per_capita": 1077.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5465.9,
+      "health_per_capita": 1148.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5577.5,
+      "health_per_capita": 1196.8
+    }
+  ]
+}

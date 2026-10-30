@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3157252",
+  "city_name": "Santa Bárbara do Leste",
+  "uf": "MG",
+  "population": 8458,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 42668342.96,
+    "total_expense": 42633007.45,
+    "own_revenue_percentage": 21.2,
+    "transfers_revenue_percentage": 78.8,
+    "personnel_expense_percentage_rcl": 47.5
+  },
+  "per_capita_breakdown": {
+    "health": 1147.0,
+    "education": 1293.1,
+    "urbanism": 491.9,
+    "administration": 323.9,
+    "legislative": 169.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4082.9,
+      "health_per_capita": 894.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4385.3,
+      "health_per_capita": 963.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4687.8,
+      "health_per_capita": 1032.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4939.8,
+      "health_per_capita": 1101.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5040.6,
+      "health_per_capita": 1147.0
+    }
+  ]
+}

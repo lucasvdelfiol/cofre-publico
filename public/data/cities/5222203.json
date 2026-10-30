@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5222203",
+  "city_name": "Vila Boa",
+  "uf": "GO",
+  "population": 4215,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 20920295.93,
+    "total_expense": 20288092.29,
+    "own_revenue_percentage": 10.7,
+    "transfers_revenue_percentage": 89.3,
+    "personnel_expense_percentage_rcl": 50.0
+  },
+  "per_capita_breakdown": {
+    "health": 1304.8,
+    "education": 1452.5,
+    "urbanism": 481.5,
+    "administration": 300.6,
+    "legislative": 147.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3898.8,
+      "health_per_capita": 1017.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4187.6,
+      "health_per_capita": 1096.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4476.4,
+      "health_per_capita": 1174.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4717.0,
+      "health_per_capita": 1252.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4813.3,
+      "health_per_capita": 1304.8
+    }
+  ]
+}

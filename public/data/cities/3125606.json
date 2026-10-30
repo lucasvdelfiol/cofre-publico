@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3125606",
+  "city_name": "Felisburgo",
+  "uf": "MG",
+  "population": 6489,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 36452937.63,
+    "total_expense": 35390474.45,
+    "own_revenue_percentage": 11.4,
+    "transfers_revenue_percentage": 88.6,
+    "personnel_expense_percentage_rcl": 48.0
+  },
+  "per_capita_breakdown": {
+    "health": 1467.2,
+    "education": 1323.9,
+    "urbanism": 636.3,
+    "administration": 629.3,
+    "legislative": 115.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4417.7,
+      "health_per_capita": 1144.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4744.9,
+      "health_per_capita": 1232.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5072.1,
+      "health_per_capita": 1320.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5344.8,
+      "health_per_capita": 1408.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5453.9,
+      "health_per_capita": 1467.2
+    }
+  ]
+}

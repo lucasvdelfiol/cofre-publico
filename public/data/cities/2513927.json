@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2513927",
+  "city_name": "São Bentinho",
+  "uf": "PB",
+  "population": 4327,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 20338630.63,
+    "total_expense": 20408180.91,
+    "own_revenue_percentage": 15.1,
+    "transfers_revenue_percentage": 84.9,
+    "personnel_expense_percentage_rcl": 46.2
+  },
+  "per_capita_breakdown": {
+    "health": 1056.2,
+    "education": 1149.7,
+    "urbanism": 582.7,
+    "administration": 528.7,
+    "legislative": 138.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3820.4,
+      "health_per_capita": 823.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4103.4,
+      "health_per_capita": 887.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4386.3,
+      "health_per_capita": 950.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4622.2,
+      "health_per_capita": 1014.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4716.5,
+      "health_per_capita": 1056.2
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3169000",
+  "city_name": "Tocantins",
+  "uf": "MG",
+  "population": 16185,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 83605151.64,
+    "total_expense": 83494019.06,
+    "own_revenue_percentage": 19.5,
+    "transfers_revenue_percentage": 80.5,
+    "personnel_expense_percentage_rcl": 47.7
+  },
+  "per_capita_breakdown": {
+    "health": 1149.3,
+    "education": 1255.2,
+    "urbanism": 485.4,
+    "administration": 451.5,
+    "legislative": 83.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4178.5,
+      "health_per_capita": 896.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4488.1,
+      "health_per_capita": 965.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4797.6,
+      "health_per_capita": 1034.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5055.5,
+      "health_per_capita": 1103.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5158.7,
+      "health_per_capita": 1149.3
+    }
+  ]
+}

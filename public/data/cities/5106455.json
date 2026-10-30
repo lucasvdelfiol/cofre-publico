@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5106455",
+  "city_name": "Planalto da Serra",
+  "uf": "MT",
+  "population": 3166,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 16799174.67,
+    "total_expense": 16540839.83,
+    "own_revenue_percentage": 20.9,
+    "transfers_revenue_percentage": 79.1,
+    "personnel_expense_percentage_rcl": 53.5
+  },
+  "per_capita_breakdown": {
+    "health": 1080.2,
+    "education": 1546.3,
+    "urbanism": 680.4,
+    "administration": 315.2,
+    "legislative": 143.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4231.8,
+      "health_per_capita": 842.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4545.3,
+      "health_per_capita": 907.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4858.8,
+      "health_per_capita": 972.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5120.0,
+      "health_per_capita": 1037.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5224.5,
+      "health_per_capita": 1080.2
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4318457",
+  "city_name": "São José das Missões",
+  "uf": "RS",
+  "population": 2362,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 10200250.89,
+    "total_expense": 10241155.41,
+    "own_revenue_percentage": 14.0,
+    "transfers_revenue_percentage": 86.0,
+    "personnel_expense_percentage_rcl": 51.1
+  },
+  "per_capita_breakdown": {
+    "health": 1115.3,
+    "education": 1061.6,
+    "urbanism": 444.5,
+    "administration": 305.2,
+    "legislative": 138.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3512.0,
+      "health_per_capita": 869.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3772.1,
+      "health_per_capita": 936.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4032.3,
+      "health_per_capita": 1003.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4249.1,
+      "health_per_capita": 1070.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4335.8,
+      "health_per_capita": 1115.3
+    }
+  ]
+}

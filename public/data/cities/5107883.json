@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5107883",
+  "city_name": "Serra Nova Dourada",
+  "uf": "MT",
+  "population": 1800,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 9539474.95,
+    "total_expense": 9319620.48,
+    "own_revenue_percentage": 8.3,
+    "transfers_revenue_percentage": 91.7,
+    "personnel_expense_percentage_rcl": 48.4
+  },
+  "per_capita_breakdown": {
+    "health": 1343.4,
+    "education": 1280.6,
+    "urbanism": 776.3,
+    "administration": 455.0,
+    "legislative": 79.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4193.9,
+      "health_per_capita": 1047.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4504.5,
+      "health_per_capita": 1128.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4815.2,
+      "health_per_capita": 1209.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5074.0,
+      "health_per_capita": 1289.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5177.6,
+      "health_per_capita": 1343.4
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4201406",
+  "city_name": "Araranguá",
+  "uf": "SC",
+  "population": 71922,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 350593919.69,
+    "total_expense": 343516197.13,
+    "own_revenue_percentage": 36.4,
+    "transfers_revenue_percentage": 63.6,
+    "personnel_expense_percentage_rcl": 46.6
+  },
+  "per_capita_breakdown": {
+    "health": 1296.9,
+    "education": 1465.0,
+    "urbanism": 469.7,
+    "administration": 287.6,
+    "legislative": 155.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3868.7,
+      "health_per_capita": 1011.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4155.3,
+      "health_per_capita": 1089.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4441.9,
+      "health_per_capita": 1167.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4680.7,
+      "health_per_capita": 1245.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4776.2,
+      "health_per_capita": 1296.9
+    }
+  ]
+}

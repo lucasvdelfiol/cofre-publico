@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2604007",
+  "city_name": "Carpina",
+  "uf": "PE",
+  "population": 79293,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 344287706.79,
+    "total_expense": 344910713.58,
+    "own_revenue_percentage": 40.7,
+    "transfers_revenue_percentage": 59.3,
+    "personnel_expense_percentage_rcl": 45.3
+  },
+  "per_capita_breakdown": {
+    "health": 1044.1,
+    "education": 1126.3,
+    "urbanism": 504.2,
+    "administration": 448.3,
+    "legislative": 94.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3523.3,
+      "health_per_capita": 814.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3784.3,
+      "health_per_capita": 877.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4045.3,
+      "health_per_capita": 939.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4262.8,
+      "health_per_capita": 1002.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4349.8,
+      "health_per_capita": 1044.1
+    }
+  ]
+}

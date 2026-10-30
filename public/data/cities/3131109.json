@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3131109",
+  "city_name": "Inimutaba",
+  "uf": "MG",
+  "population": 7371,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 34113860.51,
+    "total_expense": 34235628.21,
+    "own_revenue_percentage": 9.1,
+    "transfers_revenue_percentage": 90.9,
+    "personnel_expense_percentage_rcl": 50.6
+  },
+  "per_capita_breakdown": {
+    "health": 1223.0,
+    "education": 1447.7,
+    "urbanism": 483.0,
+    "administration": 314.3,
+    "legislative": 128.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3762.1,
+      "health_per_capita": 953.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4040.8,
+      "health_per_capita": 1027.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4319.5,
+      "health_per_capita": 1100.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4551.7,
+      "health_per_capita": 1174.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4644.6,
+      "health_per_capita": 1223.0
+    }
+  ]
+}

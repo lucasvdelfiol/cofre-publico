@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2111953",
+  "city_name": "Sucupira do Riachão",
+  "uf": "MA",
+  "population": 4985,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 26680060.8,
+    "total_expense": 26679025.19,
+    "own_revenue_percentage": 14.7,
+    "transfers_revenue_percentage": 85.3,
+    "personnel_expense_percentage_rcl": 46.5
+  },
+  "per_capita_breakdown": {
+    "health": 1340.1,
+    "education": 1557.1,
+    "urbanism": 808.8,
+    "administration": 583.4,
+    "legislative": 117.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4335.0,
+      "health_per_capita": 1045.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4656.2,
+      "health_per_capita": 1125.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4977.3,
+      "health_per_capita": 1206.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5244.9,
+      "health_per_capita": 1286.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5351.9,
+      "health_per_capita": 1340.1
+    }
+  ]
+}

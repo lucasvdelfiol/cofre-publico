@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3116209",
+  "city_name": "Chiador",
+  "uf": "MG",
+  "population": 2800,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 16218097.95,
+    "total_expense": 15641373.45,
+    "own_revenue_percentage": 19.4,
+    "transfers_revenue_percentage": 80.6,
+    "personnel_expense_percentage_rcl": 53.4
+  },
+  "per_capita_breakdown": {
+    "health": 1184.2,
+    "education": 1664.7,
+    "urbanism": 598.4,
+    "administration": 571.1,
+    "legislative": 124.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4524.8,
+      "health_per_capita": 923.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4860.0,
+      "health_per_capita": 994.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5195.2,
+      "health_per_capita": 1065.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5474.5,
+      "health_per_capita": 1136.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5586.2,
+      "health_per_capita": 1184.2
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3137700",
+  "city_name": "Lajinha",
+  "uf": "MG",
+  "population": 20835,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 101725094.51,
+    "total_expense": 99205617.11,
+    "own_revenue_percentage": 24.0,
+    "transfers_revenue_percentage": 76.0,
+    "personnel_expense_percentage_rcl": 46.5
+  },
+  "per_capita_breakdown": {
+    "health": 1221.2,
+    "education": 1427.7,
+    "urbanism": 430.8,
+    "administration": 368.3,
+    "legislative": 92.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3856.8,
+      "health_per_capita": 952.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4142.5,
+      "health_per_capita": 1025.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4428.2,
+      "health_per_capita": 1099.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4666.3,
+      "health_per_capita": 1172.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4761.5,
+      "health_per_capita": 1221.2
+    }
+  ]
+}

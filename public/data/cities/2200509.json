@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2200509",
+  "city_name": "Amarante",
+  "uf": "PI",
+  "population": 17234,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 88699446.9,
+    "total_expense": 89376333.81,
+    "own_revenue_percentage": 12.3,
+    "transfers_revenue_percentage": 87.7,
+    "personnel_expense_percentage_rcl": 51.9
+  },
+  "per_capita_breakdown": {
+    "health": 1417.0,
+    "education": 1471.3,
+    "urbanism": 487.1,
+    "administration": 411.9,
+    "legislative": 101.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4200.7,
+      "health_per_capita": 1105.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4511.8,
+      "health_per_capita": 1190.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4823.0,
+      "health_per_capita": 1275.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5082.3,
+      "health_per_capita": 1360.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5186.0,
+      "health_per_capita": 1417.0
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4127502",
+  "city_name": "Tibagi",
+  "uf": "PR",
+  "population": 19961,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 104116095.41,
+    "total_expense": 103045454.46,
+    "own_revenue_percentage": 9.3,
+    "transfers_revenue_percentage": 90.7,
+    "personnel_expense_percentage_rcl": 48.9
+  },
+  "per_capita_breakdown": {
+    "health": 1267.1,
+    "education": 1286.4,
+    "urbanism": 734.4,
+    "administration": 558.5,
+    "legislative": 173.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4181.5,
+      "health_per_capita": 988.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4491.2,
+      "health_per_capita": 1064.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4800.9,
+      "health_per_capita": 1140.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5059.1,
+      "health_per_capita": 1216.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5162.3,
+      "health_per_capita": 1267.1
+    }
+  ]
+}

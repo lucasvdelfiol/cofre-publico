@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4215505",
+  "city_name": "Santa Cecília",
+  "uf": "SC",
+  "population": 15546,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 77454313.99,
+    "total_expense": 75767549.3,
+    "own_revenue_percentage": 10.4,
+    "transfers_revenue_percentage": 89.6,
+    "personnel_expense_percentage_rcl": 52.3
+  },
+  "per_capita_breakdown": {
+    "health": 1209.5,
+    "education": 1219.0,
+    "urbanism": 622.8,
+    "administration": 428.0,
+    "legislative": 134.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3947.8,
+      "health_per_capita": 943.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4240.2,
+      "health_per_capita": 1016.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4532.6,
+      "health_per_capita": 1088.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4776.3,
+      "health_per_capita": 1161.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4873.8,
+      "health_per_capita": 1209.5
+    }
+  ]
+}

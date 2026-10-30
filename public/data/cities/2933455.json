@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2933455",
+  "city_name": "Wanderley",
+  "uf": "BA",
+  "population": 12968,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 68592535.95,
+    "total_expense": 67794733.18,
+    "own_revenue_percentage": 16.9,
+    "transfers_revenue_percentage": 83.1,
+    "personnel_expense_percentage_rcl": 50.7
+  },
+  "per_capita_breakdown": {
+    "health": 1155.4,
+    "education": 1353.4,
+    "urbanism": 544.8,
+    "administration": 610.4,
+    "legislative": 84.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4234.5,
+      "health_per_capita": 901.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4548.2,
+      "health_per_capita": 970.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4861.9,
+      "health_per_capita": 1039.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5123.2,
+      "health_per_capita": 1109.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5227.8,
+      "health_per_capita": 1155.4
+    }
+  ]
+}

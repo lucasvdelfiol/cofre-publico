@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3538808",
+  "city_name": "Piraju",
+  "uf": "SP",
+  "population": 29436,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 125888431.06,
+    "total_expense": 124547862.64,
+    "own_revenue_percentage": 28.2,
+    "transfers_revenue_percentage": 71.8,
+    "personnel_expense_percentage_rcl": 49.4
+  },
+  "per_capita_breakdown": {
+    "health": 948.6,
+    "education": 1190.6,
+    "urbanism": 502.1,
+    "administration": 256.1,
+    "legislative": 73.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3427.2,
+      "health_per_capita": 739.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3681.1,
+      "health_per_capita": 796.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3934.9,
+      "health_per_capita": 853.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4146.5,
+      "health_per_capita": 910.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4231.1,
+      "health_per_capita": 948.6
+    }
+  ]
+}

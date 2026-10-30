@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2704203",
+  "city_name": "Limoeiro de Anadia",
+  "uf": "AL",
+  "population": 24740,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 119523952.25,
+    "total_expense": 118120424.89,
+    "own_revenue_percentage": 25.4,
+    "transfers_revenue_percentage": 74.6,
+    "personnel_expense_percentage_rcl": 46.7
+  },
+  "per_capita_breakdown": {
+    "health": 1281.8,
+    "education": 1495.8,
+    "urbanism": 704.3,
+    "administration": 515.3,
+    "legislative": 129.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3867.3,
+      "health_per_capita": 999.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4153.8,
+      "health_per_capita": 1076.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4440.3,
+      "health_per_capita": 1153.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4679.0,
+      "health_per_capita": 1230.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4774.5,
+      "health_per_capita": 1281.8
+    }
+  ]
+}

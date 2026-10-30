@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3504909",
+  "city_name": "Bananal",
+  "uf": "SP",
+  "population": 9969,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 43732985.07,
+    "total_expense": 42977348.64,
+    "own_revenue_percentage": 10.0,
+    "transfers_revenue_percentage": 90.0,
+    "personnel_expense_percentage_rcl": 48.1
+  },
+  "per_capita_breakdown": {
+    "health": 949.5,
+    "education": 1215.8,
+    "urbanism": 635.5,
+    "administration": 465.0,
+    "legislative": 116.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3492.0,
+      "health_per_capita": 740.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3750.7,
+      "health_per_capita": 797.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4009.3,
+      "health_per_capita": 854.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4224.9,
+      "health_per_capita": 911.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4311.1,
+      "health_per_capita": 949.5
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3136108",
+  "city_name": "Joanésia",
+  "uf": "MG",
+  "population": 4329,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 20384374.67,
+    "total_expense": 20500109.24,
+    "own_revenue_percentage": 8.5,
+    "transfers_revenue_percentage": 91.5,
+    "personnel_expense_percentage_rcl": 51.9
+  },
+  "per_capita_breakdown": {
+    "health": 1322.6,
+    "education": 1292.5,
+    "urbanism": 558.4,
+    "administration": 526.0,
+    "legislative": 134.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3835.8,
+      "health_per_capita": 1031.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4119.9,
+      "health_per_capita": 1111.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4404.0,
+      "health_per_capita": 1190.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4640.8,
+      "health_per_capita": 1269.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4735.5,
+      "health_per_capita": 1322.6
+    }
+  ]
+}

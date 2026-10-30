@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4310207",
+  "city_name": "Ijuí",
+  "uf": "RS",
+  "population": 84780,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 399463494.42,
+    "total_expense": 389547096.81,
+    "own_revenue_percentage": 28.4,
+    "transfers_revenue_percentage": 71.6,
+    "personnel_expense_percentage_rcl": 49.0
+  },
+  "per_capita_breakdown": {
+    "health": 1243.2,
+    "education": 1143.2,
+    "urbanism": 506.3,
+    "administration": 358.2,
+    "legislative": 143.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3721.8,
+      "health_per_capita": 969.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3997.5,
+      "health_per_capita": 1044.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4273.2,
+      "health_per_capita": 1118.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4502.9,
+      "health_per_capita": 1193.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4594.8,
+      "health_per_capita": 1243.2
+    }
+  ]
+}

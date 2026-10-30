@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2109759",
+  "city_name": "Santa Filomena do Maranhão",
+  "uf": "MA",
+  "population": 6697,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 30137023.71,
+    "total_expense": 29149799.77,
+    "own_revenue_percentage": 19.6,
+    "transfers_revenue_percentage": 80.4,
+    "personnel_expense_percentage_rcl": 47.5
+  },
+  "per_capita_breakdown": {
+    "health": 1211.1,
+    "education": 1114.9,
+    "urbanism": 523.3,
+    "administration": 412.6,
+    "legislative": 100.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3525.7,
+      "health_per_capita": 944.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3786.8,
+      "health_per_capita": 1017.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4048.0,
+      "health_per_capita": 1090.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4265.6,
+      "health_per_capita": 1162.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4352.7,
+      "health_per_capita": 1211.1
+    }
+  ]
+}

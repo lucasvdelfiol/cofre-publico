@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3140506",
+  "city_name": "Martinho Campos",
+  "uf": "MG",
+  "population": 14003,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 63751931.05,
+    "total_expense": 61873617.78,
+    "own_revenue_percentage": 15.3,
+    "transfers_revenue_percentage": 84.7,
+    "personnel_expense_percentage_rcl": 50.7
+  },
+  "per_capita_breakdown": {
+    "health": 925.0,
+    "education": 1319.6,
+    "urbanism": 658.9,
+    "administration": 356.1,
+    "legislative": 72.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3579.1,
+      "health_per_capita": 721.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3844.2,
+      "health_per_capita": 777.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4109.3,
+      "health_per_capita": 832.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4330.2,
+      "health_per_capita": 888.0
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4418.6,
+      "health_per_capita": 925.0
+    }
+  ]
+}

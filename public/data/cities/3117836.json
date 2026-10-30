@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3117836",
+  "city_name": "Cônego Marinho",
+  "uf": "MG",
+  "population": 7237,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 38128243.24,
+    "total_expense": 37191446.56,
+    "own_revenue_percentage": 12.7,
+    "transfers_revenue_percentage": 87.3,
+    "personnel_expense_percentage_rcl": 50.8
+  },
+  "per_capita_breakdown": {
+    "health": 1141.2,
+    "education": 1270.8,
+    "urbanism": 486.2,
+    "administration": 534.2,
+    "legislative": 148.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4162.7,
+      "health_per_capita": 890.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4471.0,
+      "health_per_capita": 958.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4779.4,
+      "health_per_capita": 1027.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5036.3,
+      "health_per_capita": 1095.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5139.1,
+      "health_per_capita": 1141.2
+    }
+  ]
+}

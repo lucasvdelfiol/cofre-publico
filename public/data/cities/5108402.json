@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5108402",
+  "city_name": "Várzea Grande",
+  "uf": "MT",
+  "population": 300078,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 1505025665.45,
+    "total_expense": 1501106080.3,
+    "own_revenue_percentage": 43.0,
+    "transfers_revenue_percentage": 57.0,
+    "personnel_expense_percentage_rcl": 45.5
+  },
+  "per_capita_breakdown": {
+    "health": 1388.2,
+    "education": 1356.5,
+    "urbanism": 458.8,
+    "administration": 537.8,
+    "legislative": 78.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4051.9,
+      "health_per_capita": 1082.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4352.1,
+      "health_per_capita": 1166.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4652.2,
+      "health_per_capita": 1249.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4902.4,
+      "health_per_capita": 1332.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5002.4,
+      "health_per_capita": 1388.2
+    }
+  ]
+}

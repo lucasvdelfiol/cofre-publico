@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2906873",
+  "city_name": "Capim Grosso",
+  "uf": "BA",
+  "population": 33235,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 142484152.38,
+    "total_expense": 142503746.69,
+    "own_revenue_percentage": 30.6,
+    "transfers_revenue_percentage": 69.4,
+    "personnel_expense_percentage_rcl": 50.0
+  },
+  "per_capita_breakdown": {
+    "health": 1027.8,
+    "education": 1059.6,
+    "urbanism": 600.1,
+    "administration": 333.1,
+    "legislative": 105.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3473.1,
+      "health_per_capita": 801.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3730.4,
+      "health_per_capita": 863.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 3987.7,
+      "health_per_capita": 925.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4202.0,
+      "health_per_capita": 986.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4287.8,
+      "health_per_capita": 1027.8
+    }
+  ]
+}

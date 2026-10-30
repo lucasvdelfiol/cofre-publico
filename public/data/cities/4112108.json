@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4112108",
+  "city_name": "Jandaia do Sul",
+  "uf": "PR",
+  "population": 21408,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 94594894.17,
+    "total_expense": 94898702.82,
+    "own_revenue_percentage": 28.1,
+    "transfers_revenue_percentage": 71.9,
+    "personnel_expense_percentage_rcl": 49.7
+  },
+  "per_capita_breakdown": {
+    "health": 1159.7,
+    "education": 1257.9,
+    "urbanism": 602.9,
+    "administration": 493.3,
+    "legislative": 99.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3590.6,
+      "health_per_capita": 904.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3856.6,
+      "health_per_capita": 974.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4122.6,
+      "health_per_capita": 1043.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4344.2,
+      "health_per_capita": 1113.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4432.9,
+      "health_per_capita": 1159.7
+    }
+  ]
+}

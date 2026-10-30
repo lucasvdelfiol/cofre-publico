@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2509909",
+  "city_name": "Natuba",
+  "uf": "PB",
+  "population": 8945,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 45588218.64,
+    "total_expense": 44804626.37,
+    "own_revenue_percentage": 16.2,
+    "transfers_revenue_percentage": 83.8,
+    "personnel_expense_percentage_rcl": 50.3
+  },
+  "per_capita_breakdown": {
+    "health": 1368.1,
+    "education": 1358.4,
+    "urbanism": 433.4,
+    "administration": 452.1,
+    "legislative": 172.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4057.2,
+      "health_per_capita": 1067.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4357.7,
+      "health_per_capita": 1149.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4658.3,
+      "health_per_capita": 1231.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4908.7,
+      "health_per_capita": 1313.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5008.9,
+      "health_per_capita": 1368.1
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2902203",
+  "city_name": "Aramari",
+  "uf": "BA",
+  "population": 9833,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 54004185.94,
+    "total_expense": 54078393.24,
+    "own_revenue_percentage": 17.9,
+    "transfers_revenue_percentage": 82.1,
+    "personnel_expense_percentage_rcl": 47.9
+  },
+  "per_capita_breakdown": {
+    "health": 1420.2,
+    "education": 1323.3,
+    "urbanism": 597.0,
+    "administration": 483.1,
+    "legislative": 165.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4454.8,
+      "health_per_capita": 1107.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4784.7,
+      "health_per_capita": 1193.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5114.7,
+      "health_per_capita": 1278.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5389.7,
+      "health_per_capita": 1363.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5499.7,
+      "health_per_capita": 1420.2
+    }
+  ]
+}

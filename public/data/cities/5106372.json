@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5106372",
+  "city_name": "Pedra Preta",
+  "uf": "MT",
+  "population": 18066,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 87607434.88,
+    "total_expense": 86136190.52,
+    "own_revenue_percentage": 19.8,
+    "transfers_revenue_percentage": 80.2,
+    "personnel_expense_percentage_rcl": 50.8
+  },
+  "per_capita_breakdown": {
+    "health": 1321.5,
+    "education": 1275.9,
+    "urbanism": 455.1,
+    "administration": 397.8,
+    "legislative": 97.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3862.0,
+      "health_per_capita": 1030.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4148.1,
+      "health_per_capita": 1110.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4434.1,
+      "health_per_capita": 1189.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4672.5,
+      "health_per_capita": 1268.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4767.9,
+      "health_per_capita": 1321.5
+    }
+  ]
+}

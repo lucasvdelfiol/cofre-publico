@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4322202",
+  "city_name": "Tupanciretã",
+  "uf": "RS",
+  "population": 20005,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 96087126.51,
+    "total_expense": 93574890.63,
+    "own_revenue_percentage": 29.7,
+    "transfers_revenue_percentage": 70.3,
+    "personnel_expense_percentage_rcl": 50.7
+  },
+  "per_capita_breakdown": {
+    "health": 957.9,
+    "education": 1132.3,
+    "urbanism": 653.2,
+    "administration": 424.8,
+    "legislative": 105.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3788.9,
+      "health_per_capita": 747.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4069.5,
+      "health_per_capita": 804.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4350.2,
+      "health_per_capita": 862.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4584.0,
+      "health_per_capita": 919.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4677.6,
+      "health_per_capita": 957.9
+    }
+  ]
+}

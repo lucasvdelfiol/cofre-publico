@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3201803",
+  "city_name": "Divino de São Lourenço",
+  "uf": "ES",
+  "population": 5083,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 28138974.47,
+    "total_expense": 27688843.72,
+    "own_revenue_percentage": 18.1,
+    "transfers_revenue_percentage": 81.9,
+    "personnel_expense_percentage_rcl": 47.8
+  },
+  "per_capita_breakdown": {
+    "health": 1516.8,
+    "education": 1415.1,
+    "urbanism": 782.9,
+    "administration": 601.0,
+    "legislative": 171.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4412.3,
+      "health_per_capita": 1183.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4739.2,
+      "health_per_capita": 1274.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5066.0,
+      "health_per_capita": 1365.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5338.4,
+      "health_per_capita": 1456.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5447.3,
+      "health_per_capita": 1516.8
+    }
+  ]
+}

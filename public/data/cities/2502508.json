@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2502508",
+  "city_name": "Boqueirão",
+  "uf": "PB",
+  "population": 17598,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 90030322.76,
+    "total_expense": 86852082.13,
+    "own_revenue_percentage": 9.9,
+    "transfers_revenue_percentage": 90.1,
+    "personnel_expense_percentage_rcl": 48.6
+  },
+  "per_capita_breakdown": {
+    "health": 996.5,
+    "education": 1361.7,
+    "urbanism": 625.2,
+    "administration": 307.5,
+    "legislative": 147.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3997.6,
+      "health_per_capita": 777.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4293.7,
+      "health_per_capita": 837.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4589.8,
+      "health_per_capita": 896.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4836.6,
+      "health_per_capita": 956.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4935.3,
+      "health_per_capita": 996.5
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4118006",
+  "city_name": "Paraíso do Norte",
+  "uf": "PR",
+  "population": 13245,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 69172247.3,
+    "total_expense": 69544083.88,
+    "own_revenue_percentage": 15.7,
+    "transfers_revenue_percentage": 84.3,
+    "personnel_expense_percentage_rcl": 52.8
+  },
+  "per_capita_breakdown": {
+    "health": 1208.6,
+    "education": 1576.6,
+    "urbanism": 786.0,
+    "administration": 518.0,
+    "legislative": 118.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4253.0,
+      "health_per_capita": 942.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4568.0,
+      "health_per_capita": 1015.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4883.1,
+      "health_per_capita": 1087.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5145.6,
+      "health_per_capita": 1160.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5250.6,
+      "health_per_capita": 1208.6
+    }
+  ]
+}

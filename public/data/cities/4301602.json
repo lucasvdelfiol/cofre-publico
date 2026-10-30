@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4301602",
+  "city_name": "Bagé",
+  "uf": "RS",
+  "population": 117938,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 625278072.49,
+    "total_expense": 613999786.84,
+    "own_revenue_percentage": 39.4,
+    "transfers_revenue_percentage": 60.6,
+    "personnel_expense_percentage_rcl": 48.7
+  },
+  "per_capita_breakdown": {
+    "health": 1408.6,
+    "education": 1331.3,
+    "urbanism": 526.6,
+    "administration": 425.4,
+    "legislative": 181.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4216.9,
+      "health_per_capita": 1098.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4529.3,
+      "health_per_capita": 1183.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4841.7,
+      "health_per_capita": 1267.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5102.0,
+      "health_per_capita": 1352.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5206.1,
+      "health_per_capita": 1408.6
+    }
+  ]
+}

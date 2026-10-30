@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4309126",
+  "city_name": "Gramado dos Loureiros",
+  "uf": "RS",
+  "population": 2014,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 9621548.62,
+    "total_expense": 9387424.3,
+    "own_revenue_percentage": 9.1,
+    "transfers_revenue_percentage": 90.9,
+    "personnel_expense_percentage_rcl": 49.9
+  },
+  "per_capita_breakdown": {
+    "health": 1235.0,
+    "education": 1351.9,
+    "urbanism": 432.9,
+    "administration": 410.3,
+    "legislative": 139.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3775.5,
+      "health_per_capita": 963.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4055.2,
+      "health_per_capita": 1037.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4334.8,
+      "health_per_capita": 1111.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4567.9,
+      "health_per_capita": 1185.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4661.1,
+      "health_per_capita": 1235.0
+    }
+  ]
+}

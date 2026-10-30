@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3116605",
+  "city_name": "Cláudio",
+  "uf": "MG",
+  "population": 30159,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 134545218.72,
+    "total_expense": 131730355.9,
+    "own_revenue_percentage": 19.0,
+    "transfers_revenue_percentage": 81.0,
+    "personnel_expense_percentage_rcl": 46.3
+  },
+  "per_capita_breakdown": {
+    "health": 1134.0,
+    "education": 1329.0,
+    "urbanism": 697.7,
+    "administration": 266.2,
+    "legislative": 76.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3538.0,
+      "health_per_capita": 884.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3800.1,
+      "health_per_capita": 952.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4062.1,
+      "health_per_capita": 1020.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4280.5,
+      "health_per_capita": 1088.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4367.9,
+      "health_per_capita": 1134.0
+    }
+  ]
+}

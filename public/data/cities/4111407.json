@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4111407",
+  "city_name": "Ivaí",
+  "uf": "PR",
+  "population": 13229,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 74457234.19,
+    "total_expense": 72862611.18,
+    "own_revenue_percentage": 13.9,
+    "transfers_revenue_percentage": 86.1,
+    "personnel_expense_percentage_rcl": 51.7
+  },
+  "per_capita_breakdown": {
+    "health": 1537.7,
+    "education": 1336.7,
+    "urbanism": 695.1,
+    "administration": 420.4,
+    "legislative": 97.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4461.3,
+      "health_per_capita": 1199.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4791.8,
+      "health_per_capita": 1291.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5122.3,
+      "health_per_capita": 1383.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5397.6,
+      "health_per_capita": 1476.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5507.8,
+      "health_per_capita": 1537.7
+    }
+  ]
+}

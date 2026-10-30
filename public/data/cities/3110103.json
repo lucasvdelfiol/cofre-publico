@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3110103",
+  "city_name": "Caiana",
+  "uf": "MG",
+  "population": 5304,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 25913341.55,
+    "total_expense": 25698565.03,
+    "own_revenue_percentage": 9.4,
+    "transfers_revenue_percentage": 90.6,
+    "personnel_expense_percentage_rcl": 52.8
+  },
+  "per_capita_breakdown": {
+    "health": 987.2,
+    "education": 1488.0,
+    "urbanism": 682.8,
+    "administration": 501.0,
+    "legislative": 127.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3924.5,
+      "health_per_capita": 770.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4215.2,
+      "health_per_capita": 829.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4505.9,
+      "health_per_capita": 888.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4748.2,
+      "health_per_capita": 947.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4845.1,
+      "health_per_capita": 987.2
+    }
+  ]
+}

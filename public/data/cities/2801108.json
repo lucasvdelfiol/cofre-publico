@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2801108",
+  "city_name": "Canhoba",
+  "uf": "SE",
+  "population": 3791,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 16902100.07,
+    "total_expense": 16380764.32,
+    "own_revenue_percentage": 18.1,
+    "transfers_revenue_percentage": 81.9,
+    "personnel_expense_percentage_rcl": 51.8
+  },
+  "per_capita_breakdown": {
+    "health": 1183.4,
+    "education": 1044.9,
+    "urbanism": 518.2,
+    "administration": 353.3,
+    "legislative": 80.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3500.0,
+      "health_per_capita": 923.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3759.3,
+      "health_per_capita": 994.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4018.5,
+      "health_per_capita": 1065.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4234.6,
+      "health_per_capita": 1136.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4321.0,
+      "health_per_capita": 1183.4
+    }
+  ]
+}

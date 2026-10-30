@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2109403",
+  "city_name": "Primeira Cruz",
+  "uf": "MA",
+  "population": 13614,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 74019579.63,
+    "total_expense": 71456478.63,
+    "own_revenue_percentage": 11.9,
+    "transfers_revenue_percentage": 88.1,
+    "personnel_expense_percentage_rcl": 45.8
+  },
+  "per_capita_breakdown": {
+    "health": 1108.8,
+    "education": 1623.8,
+    "urbanism": 422.4,
+    "administration": 343.6,
+    "legislative": 84.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4251.4,
+      "health_per_capita": 864.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4566.4,
+      "health_per_capita": 931.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4881.3,
+      "health_per_capita": 997.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5143.7,
+      "health_per_capita": 1064.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5248.7,
+      "health_per_capita": 1108.8
+    }
+  ]
+}

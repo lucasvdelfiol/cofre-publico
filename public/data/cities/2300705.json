@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2300705",
+  "city_name": "Alto Santo",
+  "uf": "CE",
+  "population": 14155,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 77633237.87,
+    "total_expense": 77403042.51,
+    "own_revenue_percentage": 19.8,
+    "transfers_revenue_percentage": 80.2,
+    "personnel_expense_percentage_rcl": 47.4
+  },
+  "per_capita_breakdown": {
+    "health": 1395.2,
+    "education": 1485.5,
+    "urbanism": 718.1,
+    "administration": 650.4,
+    "legislative": 99.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4429.2,
+      "health_per_capita": 1088.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4757.3,
+      "health_per_capita": 1172.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5085.4,
+      "health_per_capita": 1255.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5358.8,
+      "health_per_capita": 1339.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5468.2,
+      "health_per_capita": 1395.2
+    }
+  ]
+}

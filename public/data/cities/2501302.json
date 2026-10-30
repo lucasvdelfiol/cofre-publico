@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2501302",
+  "city_name": "Aroeiras",
+  "uf": "PB",
+  "population": 18705,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 84335591.67,
+    "total_expense": 82953644.48,
+    "own_revenue_percentage": 11.8,
+    "transfers_revenue_percentage": 88.2,
+    "personnel_expense_percentage_rcl": 51.4
+  },
+  "per_capita_breakdown": {
+    "health": 954.4,
+    "education": 1113.0,
+    "urbanism": 631.6,
+    "administration": 276.1,
+    "legislative": 138.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3592.2,
+      "health_per_capita": 744.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3858.3,
+      "health_per_capita": 801.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4124.4,
+      "health_per_capita": 859.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4346.1,
+      "health_per_capita": 916.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4434.8,
+      "health_per_capita": 954.4
+    }
+  ]
+}

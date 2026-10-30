@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4214706",
+  "city_name": "Rio dos Cedros",
+  "uf": "SC",
+  "population": 10865,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 57707306.82,
+    "total_expense": 55551604.08,
+    "own_revenue_percentage": 17.6,
+    "transfers_revenue_percentage": 82.4,
+    "personnel_expense_percentage_rcl": 49.4
+  },
+  "per_capita_breakdown": {
+    "health": 1415.1,
+    "education": 1273.5,
+    "urbanism": 558.8,
+    "administration": 396.7,
+    "legislative": 127.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4141.4,
+      "health_per_capita": 1103.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4448.2,
+      "health_per_capita": 1188.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4755.0,
+      "health_per_capita": 1273.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5010.6,
+      "health_per_capita": 1358.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5112.9,
+      "health_per_capita": 1415.1
+    }
+  ]
+}

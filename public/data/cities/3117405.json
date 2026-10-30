@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3117405",
+  "city_name": "Conceição de Ipanema",
+  "uf": "MG",
+  "population": 4409,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 25200174.61,
+    "total_expense": 24336052.8,
+    "own_revenue_percentage": 15.8,
+    "transfers_revenue_percentage": 84.2,
+    "personnel_expense_percentage_rcl": 47.0
+  },
+  "per_capita_breakdown": {
+    "health": 1254.4,
+    "education": 1720.8,
+    "urbanism": 870.1,
+    "administration": 352.6,
+    "legislative": 142.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4470.9,
+      "health_per_capita": 978.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4802.1,
+      "health_per_capita": 1053.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5133.2,
+      "health_per_capita": 1129.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5409.2,
+      "health_per_capita": 1204.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5519.6,
+      "health_per_capita": 1254.4
+    }
+  ]
+}

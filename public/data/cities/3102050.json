@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3102050",
+  "city_name": "Alto Caparaó",
+  "uf": "MG",
+  "population": 5795,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 25893342.88,
+    "total_expense": 25883559.78,
+    "own_revenue_percentage": 19.7,
+    "transfers_revenue_percentage": 80.3,
+    "personnel_expense_percentage_rcl": 45.7
+  },
+  "per_capita_breakdown": {
+    "health": 957.9,
+    "education": 1249.4,
+    "urbanism": 478.8,
+    "administration": 418.3,
+    "legislative": 130.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3617.9,
+      "health_per_capita": 747.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3885.9,
+      "health_per_capita": 804.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4153.8,
+      "health_per_capita": 862.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4377.2,
+      "health_per_capita": 919.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4466.5,
+      "health_per_capita": 957.9
+    }
+  ]
+}

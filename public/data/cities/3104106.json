@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3104106",
+  "city_name": "Arceburgo",
+  "uf": "MG",
+  "population": 9177,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 46858422.4,
+    "total_expense": 46360651.22,
+    "own_revenue_percentage": 15.8,
+    "transfers_revenue_percentage": 84.2,
+    "personnel_expense_percentage_rcl": 52.8
+  },
+  "per_capita_breakdown": {
+    "health": 1368.0,
+    "education": 1375.6,
+    "urbanism": 632.2,
+    "administration": 543.5,
+    "legislative": 88.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4092.0,
+      "health_per_capita": 1067.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4395.1,
+      "health_per_capita": 1149.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4698.2,
+      "health_per_capita": 1231.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4950.8,
+      "health_per_capita": 1313.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5051.8,
+      "health_per_capita": 1368.0
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2512408",
+  "city_name": "Puxinanã",
+  "uf": "PB",
+  "population": 14277,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 62795290.69,
+    "total_expense": 62894073.67,
+    "own_revenue_percentage": 15.5,
+    "transfers_revenue_percentage": 84.5,
+    "personnel_expense_percentage_rcl": 50.0
+  },
+  "per_capita_breakdown": {
+    "health": 1158.6,
+    "education": 1396.8,
+    "urbanism": 417.4,
+    "administration": 396.0,
+    "legislative": 96.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3568.3,
+      "health_per_capita": 903.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3832.6,
+      "health_per_capita": 973.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4096.9,
+      "health_per_capita": 1042.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4317.2,
+      "health_per_capita": 1112.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4405.3,
+      "health_per_capita": 1158.6
+    }
+  ]
+}

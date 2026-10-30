@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4309753",
+  "city_name": "Ibarama",
+  "uf": "RS",
+  "population": 3732,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 16573912.4,
+    "total_expense": 16517749.07,
+    "own_revenue_percentage": 14.8,
+    "transfers_revenue_percentage": 85.2,
+    "personnel_expense_percentage_rcl": 49.9
+  },
+  "per_capita_breakdown": {
+    "health": 983.5,
+    "education": 1124.2,
+    "urbanism": 641.2,
+    "administration": 284.6,
+    "legislative": 109.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3585.1,
+      "health_per_capita": 767.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3850.6,
+      "health_per_capita": 826.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4116.2,
+      "health_per_capita": 885.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4337.5,
+      "health_per_capita": 944.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4426.0,
+      "health_per_capita": 983.5
+    }
+  ]
+}

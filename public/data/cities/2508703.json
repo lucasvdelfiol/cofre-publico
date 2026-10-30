@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2508703",
+  "city_name": "Mãe d'Água",
+  "uf": "PB",
+  "population": 3583,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 18487049.34,
+    "total_expense": 18437305.29,
+    "own_revenue_percentage": 10.9,
+    "transfers_revenue_percentage": 89.1,
+    "personnel_expense_percentage_rcl": 51.2
+  },
+  "per_capita_breakdown": {
+    "health": 1304.7,
+    "education": 1369.7,
+    "urbanism": 626.2,
+    "administration": 320.5,
+    "legislative": 175.1
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4168.1,
+      "health_per_capita": 1017.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4476.8,
+      "health_per_capita": 1095.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4785.6,
+      "health_per_capita": 1174.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5042.9,
+      "health_per_capita": 1252.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5145.8,
+      "health_per_capita": 1304.7
+    }
+  ]
+}

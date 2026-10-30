@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2104552",
+  "city_name": "Governador Edison Lobão",
+  "uf": "MA",
+  "population": 18411,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 90783294.23,
+    "total_expense": 87564036.06,
+    "own_revenue_percentage": 20.9,
+    "transfers_revenue_percentage": 79.1,
+    "personnel_expense_percentage_rcl": 50.4
+  },
+  "per_capita_breakdown": {
+    "health": 1060.3,
+    "education": 1469.7,
+    "urbanism": 630.8,
+    "administration": 483.6,
+    "legislative": 80.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3852.4,
+      "health_per_capita": 827.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4137.8,
+      "health_per_capita": 890.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4423.2,
+      "health_per_capita": 954.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4661.0,
+      "health_per_capita": 1017.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4756.1,
+      "health_per_capita": 1060.3
+    }
+  ]
+}

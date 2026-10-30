@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5007950",
+  "city_name": "Tacuru",
+  "uf": "MS",
+  "population": 10808,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 56692190.74,
+    "total_expense": 55395505.49,
+    "own_revenue_percentage": 21.4,
+    "transfers_revenue_percentage": 78.6,
+    "personnel_expense_percentage_rcl": 45.7
+  },
+  "per_capita_breakdown": {
+    "health": 1231.0,
+    "education": 1469.6,
+    "urbanism": 544.2,
+    "administration": 472.9,
+    "legislative": 173.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4151.6,
+      "health_per_capita": 960.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4459.1,
+      "health_per_capita": 1034.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4766.6,
+      "health_per_capita": 1107.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5022.9,
+      "health_per_capita": 1181.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5125.4,
+      "health_per_capita": 1231.0
+    }
+  ]
+}

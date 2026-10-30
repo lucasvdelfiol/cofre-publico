@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3518701",
+  "city_name": "Guarujá",
+  "uf": "SP",
+  "population": 287634,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 1665719254.62,
+    "total_expense": 1644302371.71,
+    "own_revenue_percentage": 47.9,
+    "transfers_revenue_percentage": 52.1,
+    "personnel_expense_percentage_rcl": 51.1
+  },
+  "per_capita_breakdown": {
+    "health": 1416.2,
+    "education": 1389.3,
+    "urbanism": 683.8,
+    "administration": 594.7,
+    "legislative": 107.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4630.4,
+      "health_per_capita": 1104.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4973.4,
+      "health_per_capita": 1189.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5316.4,
+      "health_per_capita": 1274.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5602.3,
+      "health_per_capita": 1359.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5716.6,
+      "health_per_capita": 1416.2
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5213087",
+  "city_name": "Minaçu",
+  "uf": "GO",
+  "population": 27075,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 125810607.27,
+    "total_expense": 122913277.15,
+    "own_revenue_percentage": 31.3,
+    "transfers_revenue_percentage": 68.7,
+    "personnel_expense_percentage_rcl": 46.4
+  },
+  "per_capita_breakdown": {
+    "health": 1180.8,
+    "education": 1227.8,
+    "urbanism": 648.9,
+    "administration": 502.3,
+    "legislative": 114.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3677.2,
+      "health_per_capita": 921.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3949.5,
+      "health_per_capita": 991.9
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4221.9,
+      "health_per_capita": 1062.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4448.9,
+      "health_per_capita": 1133.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4539.7,
+      "health_per_capita": 1180.8
+    }
+  ]
+}

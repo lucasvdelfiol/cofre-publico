@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2804904",
+  "city_name": "Pacatuba",
+  "uf": "SE",
+  "population": 12502,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 67125807.42,
+    "total_expense": 67129411.94,
+    "own_revenue_percentage": 10.6,
+    "transfers_revenue_percentage": 89.4,
+    "personnel_expense_percentage_rcl": 46.7
+  },
+  "per_capita_breakdown": {
+    "health": 1075.3,
+    "education": 1394.4,
+    "urbanism": 527.3,
+    "administration": 467.8,
+    "legislative": 92.7
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4349.3,
+      "health_per_capita": 838.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4671.5,
+      "health_per_capita": 903.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4993.6,
+      "health_per_capita": 967.8
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5262.1,
+      "health_per_capita": 1032.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5369.5,
+      "health_per_capita": 1075.3
+    }
+  ]
+}

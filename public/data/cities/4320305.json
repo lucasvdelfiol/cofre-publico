@@ -1,0 +1,48 @@
+{
+  "ibge_code": "4320305",
+  "city_name": "Selbach",
+  "uf": "RS",
+  "population": 5107,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 27073940.66,
+    "total_expense": 26190025.28,
+    "own_revenue_percentage": 14.3,
+    "transfers_revenue_percentage": 85.7,
+    "personnel_expense_percentage_rcl": 52.4
+  },
+  "per_capita_breakdown": {
+    "health": 1195.6,
+    "education": 1311.2,
+    "urbanism": 488.8,
+    "administration": 393.2,
+    "legislative": 176.6
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4153.9,
+      "health_per_capita": 932.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4461.6,
+      "health_per_capita": 1004.3
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4769.3,
+      "health_per_capita": 1076.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5025.7,
+      "health_per_capita": 1147.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5128.3,
+      "health_per_capita": 1195.6
+    }
+  ]
+}

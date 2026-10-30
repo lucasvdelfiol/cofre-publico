@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2931905",
+  "city_name": "Tucano",
+  "uf": "BA",
+  "population": 48736,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 211200437.71,
+    "total_expense": 212430561.32,
+    "own_revenue_percentage": 30.6,
+    "transfers_revenue_percentage": 69.4,
+    "personnel_expense_percentage_rcl": 50.9
+  },
+  "per_capita_breakdown": {
+    "health": 879.1,
+    "education": 1144.4,
+    "urbanism": 370.2,
+    "administration": 350.0,
+    "legislative": 103.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3530.6,
+      "health_per_capita": 685.7
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3792.2,
+      "health_per_capita": 738.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4053.7,
+      "health_per_capita": 791.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4271.6,
+      "health_per_capita": 843.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4358.8,
+      "health_per_capita": 879.1
+    }
+  ]
+}

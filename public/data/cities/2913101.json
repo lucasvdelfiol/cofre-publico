@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2913101",
+  "city_name": "Ibititá",
+  "uf": "BA",
+  "population": 16969,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 88453152.68,
+    "total_expense": 87488421.18,
+    "own_revenue_percentage": 10.7,
+    "transfers_revenue_percentage": 89.3,
+    "personnel_expense_percentage_rcl": 49.8
+  },
+  "per_capita_breakdown": {
+    "health": 1439.1,
+    "education": 1292.4,
+    "urbanism": 653.5,
+    "administration": 385.8,
+    "legislative": 179.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4176.2,
+      "health_per_capita": 1122.5
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4485.5,
+      "health_per_capita": 1208.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4794.9,
+      "health_per_capita": 1295.2
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5052.7,
+      "health_per_capita": 1381.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5155.8,
+      "health_per_capita": 1439.1
+    }
+  ]
+}

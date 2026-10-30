@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5201405",
+  "city_name": "Aparecida de Goiânia",
+  "uf": "GO",
+  "population": 527796,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 2498618272.19,
+    "total_expense": 2456984259.43,
+    "own_revenue_percentage": 52.4,
+    "transfers_revenue_percentage": 47.6,
+    "personnel_expense_percentage_rcl": 52.5
+  },
+  "per_capita_breakdown": {
+    "health": 1020.7,
+    "education": 1267.6,
+    "urbanism": 688.5,
+    "administration": 323.3,
+    "legislative": 113.4
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3770.7,
+      "health_per_capita": 796.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4050.0,
+      "health_per_capita": 857.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4329.3,
+      "health_per_capita": 918.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4562.1,
+      "health_per_capita": 979.9
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4655.2,
+      "health_per_capita": 1020.7
+    }
+  ]
+}

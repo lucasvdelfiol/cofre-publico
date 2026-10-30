@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2932408",
+  "city_name": "Uibaí",
+  "uf": "BA",
+  "population": 13432,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 73341862.83,
+    "total_expense": 72370941.02,
+    "own_revenue_percentage": 19.2,
+    "transfers_revenue_percentage": 80.8,
+    "personnel_expense_percentage_rcl": 51.7
+  },
+  "per_capita_breakdown": {
+    "health": 1391.8,
+    "education": 1650.8,
+    "urbanism": 615.7,
+    "administration": 533.9,
+    "legislative": 163.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4364.2,
+      "health_per_capita": 1085.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4687.5,
+      "health_per_capita": 1169.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5010.7,
+      "health_per_capita": 1252.6
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5280.1,
+      "health_per_capita": 1336.1
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5387.9,
+      "health_per_capita": 1391.8
+    }
+  ]
+}

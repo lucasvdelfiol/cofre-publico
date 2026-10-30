@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2402105",
+  "city_name": "Campo Redondo",
+  "uf": "RN",
+  "population": 10215,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 49780189.3,
+    "total_expense": 48399118.12,
+    "own_revenue_percentage": 8.2,
+    "transfers_revenue_percentage": 91.8,
+    "personnel_expense_percentage_rcl": 50.5
+  },
+  "per_capita_breakdown": {
+    "health": 1004.9,
+    "education": 1237.2,
+    "urbanism": 633.6,
+    "administration": 318.9,
+    "legislative": 122.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3837.8,
+      "health_per_capita": 783.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4122.1,
+      "health_per_capita": 844.1
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4406.3,
+      "health_per_capita": 904.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4643.2,
+      "health_per_capita": 964.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4738.0,
+      "health_per_capita": 1004.9
+    }
+  ]
+}

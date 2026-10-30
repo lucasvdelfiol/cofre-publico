@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2509206",
+  "city_name": "Massaranduba",
+  "uf": "PB",
+  "population": 14139,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 71658872.05,
+    "total_expense": 69876070.65,
+    "own_revenue_percentage": 19.9,
+    "transfers_revenue_percentage": 80.1,
+    "personnel_expense_percentage_rcl": 47.1
+  },
+  "per_capita_breakdown": {
+    "health": 1081.0,
+    "education": 1243.2,
+    "urbanism": 406.0,
+    "administration": 353.4,
+    "legislative": 89.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4003.1,
+      "health_per_capita": 843.2
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4299.6,
+      "health_per_capita": 908.0
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4596.2,
+      "health_per_capita": 972.9
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4843.3,
+      "health_per_capita": 1037.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4942.1,
+      "health_per_capita": 1081.0
+    }
+  ]
+}

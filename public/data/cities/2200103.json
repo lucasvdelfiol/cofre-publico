@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2200103",
+  "city_name": "Agricolândia",
+  "uf": "PI",
+  "population": 4940,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 25787343.42,
+    "total_expense": 25343394.03,
+    "own_revenue_percentage": 15.7,
+    "transfers_revenue_percentage": 84.3,
+    "personnel_expense_percentage_rcl": 51.8
+  },
+  "per_capita_breakdown": {
+    "health": 1384.8,
+    "education": 1296.7,
+    "urbanism": 771.0,
+    "administration": 414.9,
+    "legislative": 99.9
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4155.5,
+      "health_per_capita": 1080.1
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4463.3,
+      "health_per_capita": 1163.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4771.1,
+      "health_per_capita": 1246.3
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5027.6,
+      "health_per_capita": 1329.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5130.2,
+      "health_per_capita": 1384.8
+    }
+  ]
+}

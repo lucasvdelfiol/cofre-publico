@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3152204",
+  "city_name": "Porteirinha",
+  "uf": "MG",
+  "population": 37438,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 165343092.1,
+    "total_expense": 164800528.05,
+    "own_revenue_percentage": 31.1,
+    "transfers_revenue_percentage": 68.9,
+    "personnel_expense_percentage_rcl": 47.3
+  },
+  "per_capita_breakdown": {
+    "health": 976.8,
+    "education": 1288.7,
+    "urbanism": 464.1,
+    "administration": 452.3,
+    "legislative": 143.8
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3565.6,
+      "health_per_capita": 761.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3829.7,
+      "health_per_capita": 820.5
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4093.9,
+      "health_per_capita": 879.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4314.0,
+      "health_per_capita": 937.7
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4402.0,
+      "health_per_capita": 976.8
+    }
+  ]
+}

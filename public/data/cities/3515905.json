@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3515905",
+  "city_name": "Floreal",
+  "uf": "SP",
+  "population": 2733,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 14985530.89,
+    "total_expense": 14467047.77,
+    "own_revenue_percentage": 16.3,
+    "transfers_revenue_percentage": 83.7,
+    "personnel_expense_percentage_rcl": 50.1
+  },
+  "per_capita_breakdown": {
+    "health": 1109.0,
+    "education": 1532.5,
+    "urbanism": 782.8,
+    "administration": 325.6,
+    "legislative": 178.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4287.7,
+      "health_per_capita": 865.0
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4605.3,
+      "health_per_capita": 931.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4923.0,
+      "health_per_capita": 998.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5187.6,
+      "health_per_capita": 1064.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5293.5,
+      "health_per_capita": 1109.0
+    }
+  ]
+}

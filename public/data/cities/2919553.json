@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2919553",
+  "city_name": "Luís Eduardo Magalhães",
+  "uf": "BA",
+  "population": 107909,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 623325168.81,
+    "total_expense": 622315653.04,
+    "own_revenue_percentage": 53.6,
+    "transfers_revenue_percentage": 46.4,
+    "personnel_expense_percentage_rcl": 45.0
+  },
+  "per_capita_breakdown": {
+    "health": 1515.2,
+    "education": 1648.6,
+    "urbanism": 597.4,
+    "administration": 501.7,
+    "legislative": 149.2
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4671.3,
+      "health_per_capita": 1181.9
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 5017.3,
+      "health_per_capita": 1272.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5363.3,
+      "health_per_capita": 1363.7
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5651.7,
+      "health_per_capita": 1454.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5767.0,
+      "health_per_capita": 1515.2
+    }
+  ]
+}

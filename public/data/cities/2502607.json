@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2502607",
+  "city_name": "Igaracy",
+  "uf": "PB",
+  "population": 5648,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 32281451.48,
+    "total_expense": 31628190.66,
+    "own_revenue_percentage": 8.3,
+    "transfers_revenue_percentage": 91.7,
+    "personnel_expense_percentage_rcl": 47.1
+  },
+  "per_capita_breakdown": {
+    "health": 1483.8,
+    "education": 1411.0,
+    "urbanism": 761.7,
+    "administration": 555.1,
+    "legislative": 128.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4535.9,
+      "health_per_capita": 1157.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4871.9,
+      "health_per_capita": 1246.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5207.9,
+      "health_per_capita": 1335.4
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5487.9,
+      "health_per_capita": 1424.4
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5599.9,
+      "health_per_capita": 1483.8
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2511905",
+  "city_name": "Pitimbu",
+  "uf": "PB",
+  "population": 16751,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 81208119.63,
+    "total_expense": 80018557.23,
+    "own_revenue_percentage": 21.6,
+    "transfers_revenue_percentage": 78.4,
+    "personnel_expense_percentage_rcl": 50.6
+  },
+  "per_capita_breakdown": {
+    "health": 1106.8,
+    "education": 1389.8,
+    "urbanism": 735.5,
+    "administration": 368.8,
+    "legislative": 124.3
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3869.3,
+      "health_per_capita": 863.3
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4155.9,
+      "health_per_capita": 929.7
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4442.5,
+      "health_per_capita": 996.1
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4681.4,
+      "health_per_capita": 1062.5
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4776.9,
+      "health_per_capita": 1106.8
+    }
+  ]
+}
