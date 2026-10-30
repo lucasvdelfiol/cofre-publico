@@ -1,0 +1,48 @@
+{
+  "ibge_code": "5208707",
+  "city_name": "Goiânia",
+  "uf": "GO",
+  "population": 1437237,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 8300000000.0,
+    "total_expense": 8150000000.0,
+    "own_revenue_percentage": 51.0,
+    "transfers_revenue_percentage": 49.0,
+    "personnel_expense_percentage_rcl": 50.1
+  },
+  "per_capita_breakdown": {
+    "health": 1220.0,
+    "education": 1150.0,
+    "urbanism": 620.0,
+    "administration": 410.0,
+    "legislative": 80.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4593.2,
+      "health_per_capita": 951.6
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4933.4,
+      "health_per_capita": 1024.8
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5273.7,
+      "health_per_capita": 1098.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5557.2,
+      "health_per_capita": 1171.2
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5670.6,
+      "health_per_capita": 1220.0
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2312908",
+  "city_name": "Sobral",
+  "uf": "CE",
+  "population": 203062,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 1150000000.0,
+    "total_expense": 1110000000.0,
+    "own_revenue_percentage": 31.4,
+    "transfers_revenue_percentage": 68.6,
+    "personnel_expense_percentage_rcl": 48.9
+  },
+  "per_capita_breakdown": {
+    "health": 1180.0,
+    "education": 1520.0,
+    "urbanism": 390.0,
+    "administration": 280.0,
+    "legislative": 55.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 4427.7,
+      "health_per_capita": 920.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4755.7,
+      "health_per_capita": 991.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 5083.7,
+      "health_per_capita": 1062.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 5357.0,
+      "health_per_capita": 1132.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 5466.3,
+      "health_per_capita": 1180.0
+    }
+  ]
+}

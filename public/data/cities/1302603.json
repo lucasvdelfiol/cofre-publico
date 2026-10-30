@@ -1,0 +1,48 @@
+{
+  "ibge_code": "1302603",
+  "city_name": "Manaus",
+  "uf": "AM",
+  "population": 2063547,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 9400000000.0,
+    "total_expense": 9100000000.0,
+    "own_revenue_percentage": 38.5,
+    "transfers_revenue_percentage": 61.5,
+    "personnel_expense_percentage_rcl": 47.9
+  },
+  "per_capita_breakdown": {
+    "health": 910.0,
+    "education": 880.0,
+    "urbanism": 510.0,
+    "administration": 340.0,
+    "legislative": 75.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3572.0,
+      "health_per_capita": 709.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 3836.6,
+      "health_per_capita": 764.4
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4101.2,
+      "health_per_capita": 819.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4321.7,
+      "health_per_capita": 873.6
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4409.9,
+      "health_per_capita": 910.0
+    }
+  ]
+}

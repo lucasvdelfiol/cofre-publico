@@ -1,0 +1,102 @@
+[
+  {
+    "ibge_code": "3518800",
+    "city_name": "Guarulhos",
+    "uf": "SP",
+    "region": "Sudeste",
+    "tier": "Grande Porte",
+    "population": 1291771,
+    "total_expense": 5980000000.0,
+    "personnel_expense_percentage_rcl": 48.2
+  },
+  {
+    "ibge_code": "3550308",
+    "city_name": "São Paulo",
+    "uf": "SP",
+    "region": "Sudeste",
+    "tier": "Metrópole",
+    "population": 11451245,
+    "total_expense": 98500000000.0,
+    "personnel_expense_percentage_rcl": 39.4
+  },
+  {
+    "ibge_code": "3304557",
+    "city_name": "Rio de Janeiro",
+    "uf": "RJ",
+    "region": "Sudeste",
+    "tier": "Metrópole",
+    "population": 6211423,
+    "total_expense": 42100000000.0,
+    "personnel_expense_percentage_rcl": 52.8
+  },
+  {
+    "ibge_code": "2927408",
+    "city_name": "Salvador",
+    "uf": "BA",
+    "region": "Nordeste",
+    "tier": "Capital",
+    "population": 2418005,
+    "total_expense": 11500000000.0,
+    "personnel_expense_percentage_rcl": 46.5
+  },
+  {
+    "ibge_code": "4106902",
+    "city_name": "Curitiba",
+    "uf": "PR",
+    "region": "Sul",
+    "tier": "Capital",
+    "population": 1773733,
+    "total_expense": 12200000000.0,
+    "personnel_expense_percentage_rcl": 44.8
+  },
+  {
+    "ibge_code": "1302603",
+    "city_name": "Manaus",
+    "uf": "AM",
+    "region": "Norte",
+    "tier": "Capital",
+    "population": 2063547,
+    "total_expense": 9100000000.0,
+    "personnel_expense_percentage_rcl": 47.9
+  },
+  {
+    "ibge_code": "5208707",
+    "city_name": "Goiânia",
+    "uf": "GO",
+    "region": "Centro-Oeste",
+    "tier": "Capital",
+    "population": 1437237,
+    "total_expense": 8150000000.0,
+    "personnel_expense_percentage_rcl": 50.1
+  },
+  {
+    "ibge_code": "2312908",
+    "city_name": "Sobral",
+    "uf": "CE",
+    "region": "Nordeste",
+    "tier": "Médio Porte",
+    "population": 203062,
+    "total_expense": 1110000000.0,
+    "personnel_expense_percentage_rcl": 48.9
+  },
+  {
+    "ibge_code": "3509502",
+    "city_name": "Campinas",
+    "uf": "SP",
+    "region": "Sudeste",
+    "tier": "Grande Porte",
+    "population": 1138309,
+    "total_expense": 8950000000.0,
+    "personnel_expense_percentage_rcl": 45.1
+  },
+  {
+    "ibge_code": "3302700",
+    "city_name": "Maricá",
+    "uf": "RJ",
+    "region": "Sudeste",
+    "tier": "Médio Porte (Royalties)",
+    "population": 197300,
+    "total_expense": 4100000000.0,
+    "personnel_expense_percentage_rcl": 36.2
+  }
+]

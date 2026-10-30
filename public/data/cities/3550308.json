@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3550308",
+  "city_name": "São Paulo",
+  "uf": "SP",
+  "population": 11451245,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 105800000000.0,
+    "total_expense": 98500000000.0,
+    "own_revenue_percentage": 62.8,
+    "transfers_revenue_percentage": 37.2,
+    "personnel_expense_percentage_rcl": 39.4
+  },
+  "per_capita_breakdown": {
+    "health": 1780.0,
+    "education": 1690.4,
+    "urbanism": 1150.8,
+    "administration": 620.0,
+    "legislative": 92.5
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 6967.4,
+      "health_per_capita": 1388.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 7483.5,
+      "health_per_capita": 1495.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 7999.6,
+      "health_per_capita": 1602.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 8429.7,
+      "health_per_capita": 1708.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 8601.7,
+      "health_per_capita": 1780.0
+    }
+  ]
+}

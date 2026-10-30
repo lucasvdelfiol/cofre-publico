@@ -1,0 +1,48 @@
+{
+  "ibge_code": "3302700",
+  "city_name": "Maricá",
+  "uf": "RJ",
+  "population": 197300,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 4800000000.0,
+    "total_expense": 4100000000.0,
+    "own_revenue_percentage": 76.5,
+    "transfers_revenue_percentage": 23.5,
+    "personnel_expense_percentage_rcl": 36.2
+  },
+  "per_capita_breakdown": {
+    "health": 2980.0,
+    "education": 2450.0,
+    "urbanism": 1950.0,
+    "administration": 780.0,
+    "legislative": 140.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 16832.2,
+      "health_per_capita": 2324.4
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 18079.0,
+      "health_per_capita": 2503.2
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 19325.9,
+      "health_per_capita": 2682.0
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 20364.9,
+      "health_per_capita": 2860.8
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 20780.5,
+      "health_per_capita": 2980.0
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ibge_code": "2927408",
+  "city_name": "Salvador",
+  "uf": "BA",
+  "population": 2418005,
+  "fiscal_year": 2025,
+  "summary": {
+    "total_revenue": 11900000000.0,
+    "total_expense": 11500000000.0,
+    "own_revenue_percentage": 44.1,
+    "transfers_revenue_percentage": 55.9,
+    "personnel_expense_percentage_rcl": 46.5
+  },
+  "per_capita_breakdown": {
+    "health": 980.5,
+    "education": 890.0,
+    "urbanism": 540.0,
+    "administration": 360.0,
+    "legislative": 88.0
+  },
+  "historical_trend": [
+    {
+      "year": 2021,
+      "total_spent_per_capita": 3852.4,
+      "health_per_capita": 764.8
+    },
+    {
+      "year": 2022,
+      "total_spent_per_capita": 4137.7,
+      "health_per_capita": 823.6
+    },
+    {
+      "year": 2023,
+      "total_spent_per_capita": 4423.1,
+      "health_per_capita": 882.5
+    },
+    {
+      "year": 2024,
+      "total_spent_per_capita": 4660.9,
+      "health_per_capita": 941.3
+    },
+    {
+      "year": 2025,
+      "total_spent_per_capita": 4756.0,
+      "health_per_capita": 980.5
+    }
+  ]
+}
