@@ -5,6 +5,7 @@ import Link from "next/link";
 import { useSearchParams } from "next/navigation";
 import { CityData, CityIndexItem } from "@/lib/types";
 import { formatBRL, formatPct, formatNumber, getLRFStatus } from "@/lib/civicDictionary";
+import { publicDataPath } from "@/lib/paths";
 import { Plus, Trash2 } from "lucide-react";
 
 interface Props {
@@ -31,7 +32,7 @@ export default function CityComparator({
   const [addingCode, setAddingCode] = useState<string>("");
 
   useEffect(() => {
-    fetch("/data/cities_index.json")
+    fetch(publicDataPath("cities_index.json"))
       .then((res) => res.json())
       .then((data: CityIndexItem[]) => setAllCities(data))
       .catch((err) => console.error("Error loading cities index:", err));
@@ -42,7 +43,7 @@ export default function CityComparator({
       setLoading(true);
       try {
         const promises = selectedCodes.map(async (code) => {
-          const res = await fetch(`/data/cities/${code}.json`);
+          const res = await fetch(publicDataPath(`cities/${code}.json`));
           if (res.ok) return (await res.json()) as CityData;
           return null;
         });

@@ -26,6 +26,7 @@ export interface CityData {
   uf: string;
   population: number;
   fiscal_year: number;
+  data_source?: string;
   summary: CitySummary;
   per_capita_breakdown: PerCapitaBreakdown;
   historical_trend: HistoricalTrendItem[];

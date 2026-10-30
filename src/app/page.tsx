@@ -61,7 +61,7 @@ export default function HomePage() {
             <span>Dados Oficiais Tesouro Nacional (SICONFI) • Exercício Fiscal 2025</span>
           </div>
           <div className="text-slate-500 text-[11px]">
-            {allCities.length} municípios monitorados na amostra inicial • Atualização mensal automática
+            {allCities.length} municípios monitorados • Atualização mensal
           </div>
         </div>
       </div>
@@ -254,7 +254,7 @@ export default function HomePage() {
           </p>
         </div>
 
-        <NationalDataExplorer cities={allCities} />
+        <NationalDataExplorer />
       </section>
 
       {/* Side-by-Side Compare CTA Banner */}
@@ -289,7 +289,7 @@ export default function HomePage() {
           <div className="bg-white rounded-xl p-6 border border-[#e5e0d8] shadow-xs space-y-3">
             <div className="flex items-center gap-2">
               <span className="font-serif font-bold text-base text-civic-ink">
-                Dicionário do Orçamento Cidadão
+                Dicionário Cidadão
               </span>
             </div>
             <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
@@ -315,12 +315,12 @@ export default function HomePage() {
               </span>
             </div>
             <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
-              O Orçamento Cidadão é 100% estático e open-source. Os dados são pré-computados
-              mensalmente via GitHub Actions e servidos via Cloudflare Pages / Vercel com custo zero de infraestrutura e tráfego ilimitado.
+              O Cofre Público é 100% estático e open-source. Os dados são pré-computados
+              mensalmente por um pipeline Python e servidos via Cloudflare Pages / Vercel com custo zero de infraestrutura e tráfego ilimitado.
             </p>
             <div className="pt-2">
               <span className="text-[11px] font-mono text-slate-500">
-                DuckDB-Wasm + Parquet + Next.js SSG
+                JSON por município + Parquet consolidado + Next.js SSG
               </span>
             </div>
           </div>

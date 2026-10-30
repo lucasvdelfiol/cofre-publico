@@ -16,6 +16,7 @@ export default function HistoricalTrendChart({ trend, cityName }: Props) {
 
   const maxTotal = Math.max(...trend.map((t) => t.total_spent_per_capita)) * 1.15;
   const minTotal = Math.min(...trend.map((t) => t.health_per_capita)) * 0.7;
+  const range = maxTotal - minTotal || 1;
 
   const width = 600;
   const height = 220;
@@ -24,9 +25,12 @@ export default function HistoricalTrendChart({ trend, cityName }: Props) {
   const chartW = width - padding.left - padding.right;
   const chartH = height - padding.top - padding.bottom;
 
-  const getX = (idx: number) => padding.left + (idx / (trend.length - 1)) * chartW;
+  const getX = (idx: number) =>
+    trend.length === 1
+      ? padding.left + chartW / 2
+      : padding.left + (idx / (trend.length - 1)) * chartW;
   const getY = (val: number) =>
-    padding.top + chartH - ((val - minTotal) / (maxTotal - minTotal)) * chartH;
+    padding.top + chartH - ((val - minTotal) / range) * chartH;
 
   const totalPoints = trend.map((t, i) => `${getX(i)},${getY(t.total_spent_per_capita)}`).join(" ");
   const healthPoints = trend.map((t, i) => `${getX(i)},${getY(t.health_per_capita)}`).join(" ");
@@ -34,9 +38,11 @@ export default function HistoricalTrendChart({ trend, cityName }: Props) {
   const firstYear = trend[0];
   const lastYear = trend[trend.length - 1];
   const growthPct = (
-    ((lastYear.total_spent_per_capita - firstYear.total_spent_per_capita) /
-      firstYear.total_spent_per_capita) *
-    100
+    firstYear.total_spent_per_capita > 0
+      ? ((lastYear.total_spent_per_capita - firstYear.total_spent_per_capita) /
+          firstYear.total_spent_per_capita) *
+        100
+      : 0
   ).toFixed(1);
 
   return (

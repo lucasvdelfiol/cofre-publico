@@ -4,7 +4,7 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
-  title: "Orçamento Cidadão | Raio-X dos Gastos Públicos Municipais",
+  title: "Cofre Público | Raio-X dos Gastos Públicos Municipais",
   description:
     "Explore, compare e entenda as contas públicas de todos os municípios brasileiros em linguagem simples, sem termos contábeis difíceis e 100% grátis.",
   keywords: [

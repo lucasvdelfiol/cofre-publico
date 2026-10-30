@@ -26,7 +26,7 @@ export default function Header() {
             <div>
               <div className="flex items-baseline gap-2">
                 <span className="font-serif font-bold text-lg sm:text-xl tracking-tight text-civic-ink">
-                  Orçamento Cidadão
+                  Cofre Público
                 </span>
                 <span className="text-[11px] font-sans font-medium text-slate-500 hidden sm:inline">
                   Brasil

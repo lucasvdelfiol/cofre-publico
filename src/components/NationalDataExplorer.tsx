@@ -1,8 +1,9 @@
 "use client";
 
-import { useState, useMemo } from "react";
+import { useState, useMemo, useEffect } from "react";
 import Link from "next/link";
 import { BrazilSummaryItem } from "@/lib/types";
+import { publicDataPath } from "@/lib/paths";
 import { formatBRL, formatPct, formatNumber, getLRFStatus } from "@/lib/civicDictionary";
 import {
   Search,
@@ -17,8 +18,15 @@ import {
 } from "lucide-react";
 
 interface Props {
-  cities: BrazilSummaryItem[];
+  /**
+   * Optional server-provided rows. When omitted the explorer downloads the
+   * national summary on demand so the homepage HTML stays small.
+   */
+  initialCities?: BrazilSummaryItem[];
 }
+
+const CARD_PAGE_SIZE = 12;
+const TABLE_PAGE_SIZE = 50;
 
 type SortField =
   | "population"
@@ -28,12 +36,38 @@ type SortField =
   | "personnel_expense_percentage_rcl"
   | "own_revenue_percentage";
 
-export default function NationalDataExplorer({ cities }: Props) {
+export default function NationalDataExplorer({ initialCities = [] }: Props) {
+  const [cities, setCities] = useState<BrazilSummaryItem[]>(initialCities);
+  const [loading, setLoading] = useState(initialCities.length === 0);
   const [selectedRegion, setSelectedRegion] = useState<string>("Todas");
   const [sortField, setSortField] = useState<SortField>("total_expense");
   const [sortAsc, setSortAsc] = useState<boolean>(false);
   const [viewMode, setViewMode] = useState<"cards" | "table">("cards");
   const [filterQuery, setFilterQuery] = useState<string>("");
+  const [visibleCount, setVisibleCount] = useState<number>(CARD_PAGE_SIZE);
+
+  const pageSize = viewMode === "cards" ? CARD_PAGE_SIZE : TABLE_PAGE_SIZE;
+
+  useEffect(() => {
+    if (cities.length > 0) return;
+    let active = true;
+    fetch(publicDataPath("brazil_summary.json"))
+      .then((res) => res.json())
+      .then((data: BrazilSummaryItem[]) => {
+        if (active) setCities(data);
+      })
+      .catch((err) => console.error("Error loading national summary:", err))
+      .finally(() => {
+        if (active) setLoading(false);
+      });
+    return () => {
+      active = false;
+    };
+  }, [cities.length]);
+
+  useEffect(() => {
+    setVisibleCount(pageSize);
+  }, [pageSize, selectedRegion, filterQuery, sortField, sortAsc]);
 
   const regions = ["Todas", "Sudeste", "Nordeste", "Sul", "Norte", "Centro-Oeste"];
 
@@ -56,6 +90,9 @@ export default function NationalDataExplorer({ cities }: Props) {
         return (a[sortField] - b[sortField]) * factor;
       });
   }, [cities, selectedRegion, filterQuery, sortField, sortAsc]);
+
+  const visibleCities = filteredCities.slice(0, visibleCount);
+  const remaining = filteredCities.length - visibleCities.length;
 
   const handleSort = (field: SortField) => {
     if (sortField === field) {
@@ -188,17 +225,41 @@ export default function NationalDataExplorer({ cities }: Props) {
       {/* Results Count Banner */}
       <div className="flex items-center justify-between text-xs text-slate-500 px-1 font-mono">
         <span>
-          Mostrando {filteredCities.length} de {cities.length} municípios monitorados
+          {loading
+            ? "Carregando municípios..."
+            : `Mostrando ${visibleCities.length} de ${filteredCities.length} municípios${
+                filteredCities.length !== cities.length ? ` (filtro de ${cities.length})` : ""
+              }`}
         </span>
         {filterQuery && (
           <span>Filtro ativo: &quot;{filterQuery}&quot;</span>
         )}
       </div>
 
-      {/* CARDS VIEW */}
-      {viewMode === "cards" && (
+      {/* LOADING SKELETON */}
+      {loading && (
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
-          {filteredCities.map((city, idx) => {
+          {Array.from({ length: 6 }).map((_, i) => (
+            <div
+              key={i}
+              className="bg-white rounded-xl p-5 border border-[#e5e0d8] animate-pulse space-y-4"
+            >
+              <div className="h-4 w-2/3 bg-[#f0ede6] rounded" />
+              <div className="h-3 w-1/2 bg-[#f6f3ee] rounded" />
+              <div className="grid grid-cols-2 gap-3">
+                <div className="h-12 bg-[#f6f3ee] rounded-lg" />
+                <div className="h-12 bg-[#f6f3ee] rounded-lg" />
+              </div>
+              <div className="h-8 bg-[#f6f3ee] rounded" />
+            </div>
+          ))}
+        </div>
+      )}
+
+      {/* CARDS VIEW */}
+      {viewMode === "cards" && !loading && (
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
+          {visibleCities.map((city, idx) => {
             const lrf = getLRFStatus(city.personnel_expense_percentage_rcl);
             const totalPerCapita = Math.round(city.total_expense / city.population);
 
@@ -328,7 +389,7 @@ export default function NationalDataExplorer({ cities }: Props) {
       )}
 
       {/* TABLE VIEW */}
-      {viewMode === "table" && (
+      {viewMode === "table" && !loading && (
         <div className="bg-white rounded-xl border border-[#e5e0d8] shadow-xs overflow-hidden">
           <div className="overflow-x-auto">
             <table className="w-full text-left text-xs sm:text-sm">
@@ -357,7 +418,7 @@ export default function NationalDataExplorer({ cities }: Props) {
                 </tr>
               </thead>
               <tbody className="divide-y divide-[#f0ede6]">
-                {filteredCities.map((city) => {
+                {visibleCities.map((city) => {
                   const lrf = getLRFStatus(city.personnel_expense_percentage_rcl);
 
                   return (
@@ -414,6 +475,22 @@ export default function NationalDataExplorer({ cities }: Props) {
               </tbody>
             </table>
           </div>
+        </div>
+      )}
+
+      {/* LOAD MORE */}
+      {!loading && remaining > 0 && (
+        <div className="flex flex-col items-center gap-1 pt-1">
+          <button
+            type="button"
+            onClick={() => setVisibleCount((count) => count + pageSize)}
+            className="px-4 py-2 rounded-lg border border-[#d8d2c6] bg-white text-xs font-semibold text-civic-ink hover:bg-[#f6f3ee] transition-colors"
+          >
+            Carregar mais municípios
+          </button>
+          <span className="text-[11px] text-slate-400 font-mono">
+            {remaining} restantes
+          </span>
         </div>
       )}
     </div>

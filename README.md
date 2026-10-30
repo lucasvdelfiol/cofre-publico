@@ -1,6 +1,8 @@
-# Orçamento Cidadão 🇧🇷
+# Cofre Público 🇧🇷
 
 > **Plataforma cívica open-source e 100% gratuita** para exploração, normalização e visualização dos gastos públicos municipais de todas as cidades brasileiras, inspirada no design e usabilidade de plataformas como *Politicômetro*.
+>
+> O orçamento das cidades brasileiras em linguagem simples.
 
 ---
 
@@ -8,7 +10,7 @@
 
 A contabilidade pública brasileira é riquíssima em dados abertos (via **SICONFI / Tesouro Nacional** e **IBGE**), mas é inacessível para a maioria dos cidadãos devido a jargões técnicos herméticos (*"Dotação Atualizada"*, *"Despesa Empenhada"*, *"Restos a Pagar"*, *"RCL"*).
 
-O **Orçamento Cidadão** resolve esse desafio através de:
+O **Cofre Público** resolve esse desafio através de:
 1. **Linguagem Cidadã:** Tradução automática e contextual de termos contábeis para o vocabulário cotidiano.
 2. **Métricas Per Capita:** Comparações justas entre cidades de diferentes portes populacionais.
 3. **Termômetro da LRF:** Visualização intuitiva da folha de pagamento em relação aos limites legais da Lei de Responsabilidade Fiscal.
@@ -21,11 +23,12 @@ O **Orçamento Cidadão** resolve esse desafio através de:
 ```text
 [APIs Públicas: SICONFI / IBGE / STN]
                  │
-                 ▼  (Executado mensalmente no dia 5 via GitHub Actions: Python ETL)
+                 ▼  (Execução mensal local: Python ETL, commitada no Git)
    [Consolidação e Compressão de Dados]
-         ├── public/data/cities/{ibge_code}.json   (5.570 arquivos estáticos ~5 KB)
+         ├── public/data/cities/{ibge_code}.json   (5.571 arquivos estáticos ~5 KB)
          ├── public/data/cities_index.json          (Índice rápido para busca instantânea)
-         └── public/data/brazil_summary.parquet     (~3 MB - Tabela nacional compactada)
+         ├── public/data/brazil_summary.parquet     (~300 KB - Tabela nacional compactada)
+         └── public/data/extraction_metadata.json   (Contagens, fontes e ano de referência)
                  │
                  ▼  (Commit automatizado no Git & Deploy Estático)
       [Cloudflare Pages / Vercel]
@@ -34,11 +37,29 @@ O **Orçamento Cidadão** resolve esse desafio através de:
             [Aplicação Web Next.js (SSG)]
 ```
 
+### Fontes de Dados
+
+| Indicador | Fonte oficial | Relatório |
+| --- | --- | --- |
+| Lista de municípios e população | IBGE | Localidades + Censo 2022 (Agregado 4714) |
+| Receita total, despesa total, repasses e autonomia | SICONFI / Tesouro Nacional | RREO Anexo 01 (Balanço Orçamentário) |
+| Gastos por função (saúde, educação, urbanismo, administração, legislativo) | SICONFI / Tesouro Nacional | RREO Anexo 02 (Despesa por Função) |
+| Despesa com pessoal / RCL | SICONFI / Tesouro Nacional | RGF Anexo 01 (Despesa com Pessoal) |
+| Série histórica de 5 anos | SICONFI / Tesouro Nacional | DCA Anexo I-E (Despesa por Função) |
+
+Municípios que não publicaram os relatórios obrigatórios no SICONFI recebem um
+registro **sintético** determinístico, explicitamente identificado pelo campo
+`data_source: "synthetic"`. Nenhum registro real é misturado com valores
+simulados: o perfil da cidade mostra a origem dos dados no cabeçalho.
+
 ### Decisões de Engenharia
-* **Orquestração:** Pipeline Python rodando dentro dos 2.000 minutos mensais gratuitos do **GitHub Actions**.
+* **Orquestração:** Pipeline Python com cache em disco e retomada automática.
+* **Resiliência:** cache por resposta (`pipeline/cache/`), retries com backoff e
+  uma segunda passada para recuperar falhas transitórias de rede/throttling.
 * **Armazenamento Estático:**
   * Arquivos JSON individuais por município (`public/data/cities/{ibge_code}.json`) para carregamento instantâneo sob demanda (<10 KB).
-  * Arquivo Apache Parquet consolidado (`public/data/brazil_summary.parquet`) para permitir consultas SQL e rankings no cliente via **DuckDB-Wasm** sem onerar servidores.
+  * Arquivo Apache Parquet consolidado (`public/data/brazil_summary.parquet`) para análises SQL/notebooks e rankings offline; o navegador consome a versão JSON (`brazil_summary.json`) baixada sob demanda pelo explorador.
+* **Orçamento de payload:** a home não embute a base nacional no HTML — ela renderiza KPIs agregados no build e o explorador baixa `brazil_summary.json` (~380 KB gzip) apenas no cliente, paginando 12 cartões por vez. O índice de busca (~150 KB gzip) só é baixado quando o usuário foca o campo de busca.
 * **Hospedagem:** Cloudflare Pages ou Vercel (tráfego ilimitado, cache edge global, custo R$ 0,00).
 * **Frontend:** Next.js (Static Site Generation / Export Estático) + Tailwind CSS + Lucide Icons.
 
@@ -55,6 +76,7 @@ Cada município possui um arquivo JSON estático conforme a especificação:
   "uf": "SP",
   "population": 1291771,
   "fiscal_year": 2025,
+  "data_source": "siconfi",
   "summary": {
     "total_revenue": 6200000000.0,
     "total_expense": 5980000000.0,
@@ -136,12 +158,35 @@ source venv/bin/activate
 # Instalar dependências de dados
 pip install -r pipeline/requirements.txt
 
-# Executar extração SICONFI
-python pipeline/extract_siconfi.py
+# Extração nacional completa (5.571 municípios, RREO + RGF + DCA)
+python pipeline/extract_siconfi.py --target-year 2025 --history-start 2021 --rate 4 --workers 8
 
-# Ou gerar dados rápidos de semente offline:
+# Apenas alguns municípios (smoke test)
+python pipeline/extract_siconfi.py --only 3550308,3304557,5300108
+
+# Reaproveitar respostas já baixadas (pipeline/cache/), sem nova coleta
 python pipeline/extract_siconfi.py --skip-network
+
+# Ignorar o cache e forçar nova coleta
+python pipeline/extract_siconfi.py --refresh
 ```
+
+**Tempo de execução:** uma execução completa a frio leva cerca de **2h30–3h**
+(≈0,6 município/s), porque o Tesouro Nacional limita a taxa de requisições.
+Com o cache preenchido (execuções mensais), o pipeline termina em poucos
+minutos e só busca os relatórios que ainda faltam.
+
+**Resiliência:** cada resposta bruta é gravada em `pipeline/cache/` (ignorado
+pelo Git). Em caso de falha de rede ou *throttling*, o pipeline faz retries com
+*backoff* e uma segunda passada automática nos municípios que caíram para o
+registro sintético.
+
+**Saídas geradas:**
+* `public/data/cities/{ibge_code}.json` — um arquivo por município
+* `public/data/cities_index.json` — índice de busca
+* `public/data/brazil_summary.parquet` e `.json` — consolidado nacional
+* `public/data/extraction_metadata.json` — contagens `siconfi`,
+  `siconfi_partial` e `synthetic`, taxa de sucesso e ano de referência
 
 ### 3. Gerar a Build Estática (SSG / Jamstack)
 ```bash
@@ -149,24 +194,71 @@ npm run build
 ```
 O build estático pronto para deploy será gerado no diretório `out/`.
 
----
+Para simular o subcaminho do GitHub Pages localmente:
 
-## 🤖 Automação Mensal (GitHub Actions)
-
-O arquivo `.github/workflows/sync_data.yml` agenda a execução do pipeline todo dia 5 às 04:00 UTC:
-1. Consulta dados fechados do SICONFI/Tesouro Nacional.
-2. Atualiza os arquivos em `public/data/cities/` e o Parquet nacional.
-3. Faz o commit das alterações automaticamente via bot caso haja novos dados.
-4. Dispara o rebuild estático automático no Cloudflare Pages ou Vercel.
+```bash
+NEXT_PUBLIC_BASE_PATH=/cofre-publico npm run build
+npx serve out   # abra http://localhost:3000/cofre-publico/
+```
 
 ---
 
-## 🗺️ Roadmap de Escala (5.570 Cidades)
+## 🚀 Deploy (GitHub Pages)
 
-Para expandir da amostra atual (10 cidades-chave) para todas as 5.570 cidades:
-* A lista de códigos IBGE é baixada da API do IBGE (`/api/v1/localidades/municipios`).
-* O pipeline executa requisições em lotes assíncronos (`httpx.AsyncClient` com rate limiter de ~10 req/s para respeitar as diretrizes do Tesouro Nacional).
-* As execuções mensais demoram cerca de 20 minutos no GitHub Actions, mantendo o custo estritamente zerado.
+O site é publicado automaticamente pelo workflow `.github/workflows/deploy-pages.yml`
+a cada push em `main`:
+
+1. `npm ci` + `npm run build` com `NEXT_PUBLIC_BASE_PATH=/cofre-publico`
+2. upload do `out/` como artefato do Pages
+3. publicação em `https://lucasvdelfiol.github.io/cofre-publico/`
+
+Configuração necessária (uma vez): **Settings → Pages → Source: GitHub Actions**.
+
+Como o site fica em um *project page* (subcaminho `/cofre-publico/`), todo
+`fetch` de arquivo em `public/` usa o helper `src/lib/paths.ts`, que prefixa o
+`basePath`. Se um dia o repositório virar `lucasvdelfiol.github.io`, basta
+remover a env `NEXT_PUBLIC_BASE_PATH` do workflow.
+
+---
+
+## 🔄 Atualização de Dados (execução local)
+
+A atualização mensal é feita **localmente** e commitada no repositório:
+
+```bash
+source venv/bin/activate
+
+# 1. Coleta (aproveita pipeline/cache/, só busca o que mudou)
+python pipeline/extract_siconfi.py --target-year 2026 --rate 4 --workers 8
+
+# 2. Conferir
+cat public/data/extraction_metadata.json
+
+# 3. Commit
+git add public/data/ && git commit -m "chore(data): siconfi sync $(date +%Y-%m)" && git push
+```
+
+Por que não no GitHub Actions: um job em runner hospedado é limitado a **6h**,
+o cache de respostas do Actions é apagado após **7 dias sem uso** (portanto
+nunca sobrevive de um mês para o outro) e o cache só é salvo quando o job
+termina com sucesso — ou seja, um timeout no fim desperdiça a execução inteira.
+O workflow `.github/workflows/sync_data.yml` continua disponível apenas via
+`workflow_dispatch`, como alternativa manual.
+
+---
+
+## 🗺️ Escala Nacional (5.571 Municípios)
+
+* A lista de códigos IBGE e a população são baixadas das APIs do IBGE
+  (`/api/v1/localidades/municipios` e Agregado 4714 do Censo 2022).
+* O pipeline usa `httpx` com pool de conexões e um rate limiter global
+  (`--rate`, padrão 4 req/s) — acima disso o SICONFI começa a responder com
+  *timeout*/429.
+* Cada município consome até 6 requisições: RREO Anexos 01 e 02 (ano corrente,
+  uma resposta só), RGF Anexo 01 e DCA Anexo I-E de 2021–2024, com fallback
+  para as versões "Simplificado" usadas por municípios pequenos.
+* A primeira execução (cache vazio) leva ~3h; as seguintes rodam em minutos,
+  porque só os relatórios novos ou faltantes são baixados.
 
 ---
 

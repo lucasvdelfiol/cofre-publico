@@ -3,7 +3,7 @@ import CityComparator from "@/components/CityComparator";
 import { GitCompare } from "lucide-react";
 
 export const metadata = {
-  title: "Comparador de Municípios | Orçamento Cidadão",
+  title: "Comparador de Municípios | Cofre Público",
   description:
     "Compare gastos em saúde, educação, dependência de repasses e gasto de pessoal entre municípios brasileiros.",
 };

@@ -1,7 +1,7 @@
 import { CIVIC_DICTIONARY } from "@/lib/civicDictionary";
 
 export const metadata = {
-  title: "Dicionário do Orçamento Cidadão | Tradução Contábil",
+  title: "Dicionário Cidadão | Cofre Público",
   description:
     "Aprenda o significado prático de termos contábeis do poder público sem jargões complicados.",
 };
@@ -16,7 +16,7 @@ export default function DicionarioPage() {
           Transparência &amp; Educação Fiscal
         </div>
         <h1 className="font-serif text-3xl sm:text-4xl font-bold text-civic-ink tracking-tight">
-          Dicionário do Orçamento Cidadão
+          Dicionário Cidadão
         </h1>
         <p className="text-sm sm:text-base text-slate-600 leading-relaxed font-sans max-w-2xl">
           A contabilidade pública foi historicamente escrita para técnicos. Este guia traduz o jargão

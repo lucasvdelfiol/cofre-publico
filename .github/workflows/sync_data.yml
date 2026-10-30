@@ -1,17 +1,23 @@
 name: Sync Civic Budget Data (SICONFI)
 
+# The monthly refresh is run locally (see README) because a cold national
+# extraction takes ~3h and GitHub-hosted runners cap a job at 6h while their
+# response cache is evicted after 7 days without use. This workflow is kept as
+# a manual fallback only.
 on:
-  schedule:
-    # Runs at 04:00 UTC on the 5th day of every month
-    - cron: '0 4 5 * *'
   workflow_dispatch:
     inputs:
       year:
-        description: 'SICONFI Fiscal Year to query'
+        description: 'SICONFI fiscal year to query'
         required: false
-        default: '2023'
+        default: '2025'
+      history:
+        description: 'Also refresh the 5-year historical series (slower)'
+        required: false
+        type: boolean
+        default: true
       skip_network:
-        description: 'Skip network and regenerate static seed assets'
+        description: 'Rebuild outputs from the local cache only'
         required: false
         type: boolean
         default: false
@@ -22,7 +28,9 @@ permissions:
 jobs:
   sync-siconfi:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    # Cold runs are ~3h locally but can exceed this limit on a 2 vCPU runner.
+    # Prefer running the pipeline locally; see "Atualização de Dados" in README.
+    timeout-minutes: 360
 
     steps:
       - name: Checkout repository
@@ -33,6 +41,14 @@ jobs:
         with:
           python-version: '3.11'
           cache: 'pip'
+
+      - name: Restore SICONFI response cache
+        uses: actions/cache@v4
+        with:
+          path: pipeline/cache
+          key: siconfi-cache-${{ github.run_id }}
+          restore-keys: |
+            siconfi-cache-
 
       - name: Install dependencies
         run: |
@@ -45,8 +61,15 @@ jobs:
           if [ "${{ github.event.inputs.skip_network }}" = "true" ]; then
             EXTRA_ARGS="--skip-network"
           fi
-          YEAR="${{ github.event.inputs.year || '2023' }}"
-          python pipeline/extract_siconfi.py --year "$YEAR" $EXTRA_ARGS
+          if [ "${{ github.event.inputs.history }}" = "false" ]; then
+            EXTRA_ARGS="$EXTRA_ARGS --no-history"
+          fi
+          YEAR="${{ github.event.inputs.year || '2025' }}"
+          python pipeline/extract_siconfi.py \
+            --target-year "$YEAR" \
+            --rate 4 \
+            --workers 6 \
+            $EXTRA_ARGS
 
       - name: Check for data changes
         id: git-check
@@ -64,5 +87,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add public/data/
-          git commit -m "chore(data): monthly siconfi sync - $(date +'%Y-%m') [skip ci]"
+          git commit -m "chore(data): siconfi sync - $(date +'%Y-%m') [skip ci]"
           git push

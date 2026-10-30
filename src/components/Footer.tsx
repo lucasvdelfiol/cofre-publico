@@ -12,7 +12,7 @@ export default function Footer() {
                 <Landmark className="w-3.5 h-3.5 text-[#ede7dd]" />
               </div>
               <span className="font-serif font-bold text-base text-civic-ink">
-                Orçamento Cidadão
+                Cofre Público
               </span>
             </div>
             <p className="text-xs sm:text-sm text-slate-600 leading-relaxed max-w-md">

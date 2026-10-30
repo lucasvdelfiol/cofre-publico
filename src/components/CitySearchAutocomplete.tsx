@@ -5,6 +5,7 @@ import { useRouter } from "next/navigation";
 import { Search } from "lucide-react";
 import { CityIndexItem } from "@/lib/types";
 import { formatNumber, formatBRL } from "@/lib/civicDictionary";
+import { publicDataPath } from "@/lib/paths";
 
 interface Props {
   initialCities?: CityIndexItem[];
@@ -22,16 +23,32 @@ export default function CitySearchAutocomplete({
   const [cities, setCities] = useState<CityIndexItem[]>(initialCities);
   const [isOpen, setIsOpen] = useState(false);
   const [highlightIdx, setHighlightIdx] = useState(0);
+  const [indexLoading, setIndexLoading] = useState(false);
   const containerRef = useRef<HTMLDivElement>(null);
+  const indexRequested = useRef(initialCities.length > 0);
+
+  // The index is ~1 MB, so it is only downloaded once the user actually
+  // interacts with the search box instead of on every page view.
+  const loadIndex = () => {
+    if (indexRequested.current) return;
+    indexRequested.current = true;
+    setIndexLoading(true);
+    fetch(publicDataPath("cities_index.json"))
+      .then((res) => res.json())
+      .then((data: CityIndexItem[]) => setCities(data))
+      .catch((err) => {
+        indexRequested.current = false;
+        console.error("Error loading cities index:", err);
+      })
+      .finally(() => setIndexLoading(false));
+  };
 
   useEffect(() => {
-    if (cities.length === 0) {
-      fetch("/data/cities_index.json")
-        .then((res) => res.json())
-        .then((data: CityIndexItem[]) => setCities(data))
-        .catch((err) => console.error("Error loading cities index:", err));
+    // Keeps the initial list in sync when a parent passes cities later.
+    if (initialCities.length > 0 && cities.length === 0) {
+      setCities(initialCities);
     }
-  }, [cities.length]);
+  }, [initialCities, cities.length]);
 
   useEffect(() => {
     function handleClickOutside(e: MouseEvent) {
@@ -103,8 +120,12 @@ export default function CitySearchAutocomplete({
             setQuery(e.target.value);
             setIsOpen(true);
             setHighlightIdx(0);
+            loadIndex();
           }}
-          onFocus={() => setIsOpen(true)}
+          onFocus={() => {
+            setIsOpen(true);
+            loadIndex();
+          }}
           onKeyDown={handleKeyDown}
           autoFocus={autoFocus}
           placeholder={placeholder}
@@ -124,7 +145,11 @@ export default function CitySearchAutocomplete({
       {/* Autocomplete Dropdown */}
       {isOpen && (
         <div className="absolute top-full mt-1.5 w-full bg-white rounded-lg shadow-lg border border-[#d8d2c6] overflow-hidden z-50 max-h-96 overflow-y-auto">
-          {displayList.length === 0 ? (
+          {cities.length === 0 ? (
+            <div className="p-5 text-center text-slate-500 text-sm">
+              {indexLoading ? "Carregando municípios..." : "Digite para buscar um município."}
+            </div>
+          ) : displayList.length === 0 ? (
             <div className="p-5 text-center text-slate-500 text-sm">
               Nenhum município encontrado para &quot;{query}&quot;.
               <span className="block text-xs text-slate-400 mt-1">

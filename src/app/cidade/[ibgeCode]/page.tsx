@@ -71,6 +71,23 @@ export default function CityProfilePage({ params }: Props) {
                 <span>Código IBGE: {city.ibge_code}</span>
                 <span>•</span>
                 <span>Exercício Fiscal: {city.fiscal_year}</span>
+                <span>•</span>
+                <span
+                  className={
+                    city.data_source?.startsWith("siconfi")
+                      ? "text-[#1c5a38] font-semibold"
+                      : "text-amber-700 font-semibold"
+                  }
+                  title={
+                    city.data_source?.startsWith("siconfi")
+                      ? "Dados oficiais extraídos do SICONFI (Tesouro Nacional)"
+                      : "Sem relatório SICONFI publicado; valores sintéticos"
+                  }
+                >
+                  {city.data_source?.startsWith("siconfi")
+                    ? "Fonte: SICONFI/Tesouro Nacional"
+                    : "Dados sintéticos"}
+                </span>
               </div>
               <h1 className="font-serif text-3xl sm:text-4xl font-bold text-civic-ink tracking-tight">
                 {city.city_name}
@@ -149,8 +166,8 @@ export default function CityProfilePage({ params }: Props) {
               />
             </div>
             <div className="flex justify-between text-[10px] text-slate-500 font-mono mt-1">
-              <span>IPTU/ISS: {formatPct(summary.own_revenue_percentage)}</span>
-              <span>FPM/ICMS: {formatPct(summary.transfers_revenue_percentage)}</span>
+              <span>Receita própria: {formatPct(summary.own_revenue_percentage)}</span>
+              <span>Repasses: {formatPct(summary.transfers_revenue_percentage)}</span>
             </div>
           </KpiCard>
 

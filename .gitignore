@@ -17,6 +17,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 .pytest_cache/
+pipeline/cache/
 
 # misc
 .DS_Store
@@ -30,3 +31,6 @@ yarn-error.log*
 # local env files
 .env*.local
 .env
+
+# local logs
+logs/

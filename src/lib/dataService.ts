@@ -1,6 +1,7 @@
 import fs from "fs";
 import path from "path";
 import { CityData, CityIndexItem, BrazilSummaryItem } from "./types";
+import { publicDataPath } from "./paths";
 
 export function getLocalCitiesIndex(): CityIndexItem[] {
   try {
@@ -49,7 +50,7 @@ export function getLocalCityData(ibgeCode: string): CityData | null {
 
 export async function fetchClientCityData(ibgeCode: string): Promise<CityData | null> {
   try {
-    const res = await fetch(`/data/cities/${ibgeCode}.json`);
+    const res = await fetch(publicDataPath(`cities/${ibgeCode}.json`));
     if (res.ok) {
       return (await res.json()) as CityData;
     }
@@ -61,7 +62,7 @@ export async function fetchClientCityData(ibgeCode: string): Promise<CityData | 
 
 export async function fetchClientCitiesIndex(): Promise<CityIndexItem[]> {
   try {
-    const res = await fetch(`/data/cities_index.json`);
+    const res = await fetch(publicDataPath("cities_index.json"));
     if (res.ok) {
       return (await res.json()) as CityIndexItem[];
     }
