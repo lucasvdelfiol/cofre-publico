@@ -1,12 +1,17 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import "./globals.css";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import { SITE_DESCRIPTION, SITE_NAME, SITE_URL } from "@/lib/site";
 
 export const metadata: Metadata = {
-  title: "Cofre Público | Raio-X dos Gastos Públicos Municipais",
-  description:
-    "Explore, compare e entenda as contas públicas de todos os municípios brasileiros em linguagem simples, sem termos contábeis difíceis e 100% grátis.",
+  metadataBase: new URL(SITE_URL),
+  title: {
+    default: `${SITE_NAME} | Raio-X dos Gastos Públicos Municipais`,
+    template: `%s | ${SITE_NAME}`,
+  },
+  description: SITE_DESCRIPTION,
+  applicationName: SITE_NAME,
   keywords: [
     "orçamento público",
     "SICONFI",
@@ -15,7 +20,28 @@ export const metadata: Metadata = {
     "LRF",
     "saúde por habitante",
     "educação por habitante",
+    "contas públicas",
   ],
+  authors: [{ name: "Cofre Público", url: "https://github.com/lucasvdelfiol/cofre-publico" }],
+  robots: { index: true, follow: true },
+  alternates: { canonical: "/" },
+  openGraph: {
+    type: "website",
+    locale: "pt_BR",
+    siteName: SITE_NAME,
+    title: `${SITE_NAME} | Raio-X dos Gastos Públicos Municipais`,
+    description: SITE_DESCRIPTION,
+    url: `${SITE_URL}/`,
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: `${SITE_NAME} | Raio-X dos Gastos Públicos Municipais`,
+    description: SITE_DESCRIPTION,
+  },
+};
+
+export const viewport: Viewport = {
+  themeColor: "#132238",
 };
 
 export default function RootLayout({
@@ -26,8 +52,16 @@ export default function RootLayout({
   return (
     <html lang="pt-BR">
       <body className="flex flex-col min-h-screen text-slate-900 bg-slate-50 antialiased selection:bg-brand-500 selection:text-white">
+        <a
+          href="#conteudo"
+          className="sr-only focus:not-sr-only focus:absolute focus:top-2 focus:left-2 focus:z-[60] focus:rounded focus:bg-civic-ink focus:px-3 focus:py-2 focus:text-xs focus:font-semibold focus:text-white"
+        >
+          Pular para o conteúdo
+        </a>
         <Header />
-        <main className="flex-1">{children}</main>
+        <main id="conteudo" className="flex-1">
+          {children}
+        </main>
         <Footer />
       </body>
     </html>

@@ -27,6 +27,17 @@ export interface CityData {
   population: number;
   fiscal_year: number;
   data_source?: string;
+  extraction?: {
+    source: string;
+    requested_year?: number;
+    data_year?: number;
+    rreo_type?: string | null;
+    rreo_period?: number | null;
+    rreo_complete?: boolean;
+    personnel_source?: string;
+    rgf_period?: number | null;
+    generated_at?: string;
+  };
   summary: CitySummary;
   per_capita_breakdown: PerCapitaBreakdown;
   historical_trend: HistoricalTrendItem[];
@@ -51,6 +62,7 @@ export interface BrazilSummaryItem {
   tier: string;
   population: number;
   fiscal_year: number;
+  data_source?: string;
   total_revenue: number;
   total_expense: number;
   own_revenue_percentage: number;

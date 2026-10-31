@@ -464,6 +464,67 @@ def _cache_path(cache_dir: Path, year: int, ibge_code: str, name: str) -> Path:
     return cache_dir / str(year) / ibge_code / f"{name}.json"
 
 
+# Candidate reports, ordered from the most complete to the least complete.
+# The closing report of the year is the only one with twelve months of
+# revenue/expense; the others exist for municipalities that published late or
+# only partially. Cache slugs stay stable so previous runs remain reusable.
+RREO_COMPLETE = (
+    ("RREO", 6, "rreo"),
+    ("RREO Simplificado", 2, "rreo_simplificado"),
+)
+RREO_PARTIAL = (
+    ("RREO", 5, "rreo_p5"),
+    ("RREO", 4, "rreo_p4"),
+    ("RREO", 3, "rreo_p3"),
+    ("RREO", 2, "rreo_p2"),
+    ("RREO", 1, "rreo_p1"),
+    ("RREO Simplificado", 1, "rreo_simplificado_p1"),
+)
+
+RGF_CANDIDATES = (
+    ("RGF", "Q", 3, "rgf"),
+    ("RGF Simplificado", "S", 2, "rgf_simplificado"),
+    ("RGF", "Q", 2, "rgf_q2"),
+    ("RGF", "Q", 1, "rgf_q1"),
+    ("RGF Simplificado", "S", 1, "rgf_simplificado_p1"),
+)
+
+
+def _read_cached(cache_dir: Path, year: int, ibge_code: str, name: str) -> Optional[Dict[str, Any]]:
+    path = _cache_path(cache_dir, year, ibge_code, name)
+    if not path.exists():
+        return None
+    try:
+        with open(path, "r", encoding="utf-8") as fh:
+            data = json.load(fh)
+    except Exception:
+        return None
+    return data if data.get("count", 0) > 0 else None
+
+
+def cached_rreo(
+    cache_dir: Path,
+    ibge_code: str,
+    year: int,
+    candidates=RREO_COMPLETE + RREO_PARTIAL,
+) -> Tuple[Optional[Dict[str, Any]], Optional[Dict[str, Any]]]:
+    for tipo, period, slug in candidates:
+        data = _read_cached(cache_dir, year, ibge_code, slug)
+        if data:
+            return data, {"type": tipo, "period": period}
+    return None, None
+
+
+def cached_rgf(
+    cache_dir: Path, ibge_code: str, year: int
+) -> Tuple[Optional[Dict[str, Any]], Optional[Dict[str, Any]]]:
+    for tipo, periodicidade, period, slug in RGF_CANDIDATES:
+        data = _read_cached(cache_dir, year, ibge_code, slug)
+        if data:
+            return data, {"type": tipo, "periodicity": periodicidade, "period": period}
+    return None, None
+
+
 def fetch_rreo(
     client: httpx.Client,
     ibge_code: str,
@@ -473,11 +534,12 @@ def fetch_rreo(
     limiter: RateLimiter,
     cache_dir: Path,
     refresh: bool,
-) -> Optional[Dict[str, Any]]:
-    for tipo, slug in (("RREO", "rreo"), ("RREO Simplificado", "rreo_simplificado")):
+    candidates=RREO_COMPLETE + RREO_PARTIAL,
+) -> Tuple[Optional[Dict[str, Any]], Optional[Dict[str, Any]]]:
+    for tipo, period, slug in candidates:
         params: Dict[str, Any] = {
             "an_exercicio": year,
-            "nr_periodo": 6,
+            "nr_periodo": period,
             "co_tipo_demonstrativo": tipo,
             "id_ente": ente_id,
         }
@@ -491,9 +553,13 @@ def fetch_rreo(
             limiter,
             refresh,
         )
-        if data and data.get("count", 0) > 0:
-            return data
-    return None
+        if data is None:
+            # Transient failure: stop searching (an older year would silently
+            # replace the right one) and let the retry pass try again.
+            return None, {"error": "request_failed", "year": year, "period": period}
+        if data.get("count", 0) > 0:
+            return data, {"type": tipo, "period": period}
+    return None, None
 
 
 def fetch_rgf(
@@ -505,17 +571,12 @@ def fetch_rgf(
     limiter: RateLimiter,
     cache_dir: Path,
     refresh: bool,
-) -> Optional[Dict[str, Any]]:
-    variants = (
-        ("RGF", "Q", 3, "rgf"),
-        ("RGF Simplificado", "S", 2, "rgf_simplificado"),
-        ("RGF Simplificado", "S", 1, "rgf_simplificado_p1"),
-    )
-    for tipo, periodicidade, periodo, slug in variants:
+) -> Tuple[Optional[Dict[str, Any]], Optional[Dict[str, Any]]]:
+    for tipo, periodicidade, period, slug in RGF_CANDIDATES:
         params: Dict[str, Any] = {
             "an_exercicio": year,
             "in_periodicidade": periodicidade,
-            "nr_periodo": periodo,
+            "nr_periodo": period,
             "co_tipo_demonstrativo": tipo,
             "co_poder": "E",
             "id_ente": ente_id,
@@ -531,8 +592,8 @@ def fetch_rgf(
             refresh,
         )
         if data and data.get("count", 0) > 0:
-            return data
-    return None
+            return data, {"type": tipo, "periodicity": periodicidade, "period": period}
+    return None, None
 
 
 def fetch_dca_functions(
@@ -686,33 +747,71 @@ def extract_city(
     ente_id = DF_SICONFI_ID if is_df else int(ibge_code)
     esfera = "E" if is_df else "M"
 
-    if skip_network:
-        rreo_data = None
-        rgf_data = None
-        history_data: Dict[int, Optional[Dict[str, Any]]] = {}
-        for name in ("rreo", "rreo_simplificado"):
-            path = _cache_path(cache_dir, target_year, ibge_code, name)
-            if path.exists():
-                with open(path, "r", encoding="utf-8") as fh:
-                    candidate = json.load(fh)
-                if candidate.get("count", 0) > 0:
-                    rreo_data = candidate
-                    break
-        for name in ("rgf", "rgf_simplificado", "rgf_simplificado_p1"):
-            path = _cache_path(cache_dir, target_year, ibge_code, name)
-            if path.exists():
-                with open(path, "r", encoding="utf-8") as fh:
-                    candidate = json.load(fh)
-                if candidate.get("count", 0) > 0:
-                    rgf_data = candidate
-                    break
-    else:
-        rreo_data = fetch_rreo(
-            client, ibge_code, ente_id, esfera, target_year, limiter, cache_dir, refresh
-        )
-        rgf_data = fetch_rgf(
-            client, ibge_code, ente_id, esfera, target_year, limiter, cache_dir, refresh
-        )
+    # Latest official report wins: the closing report of the target year, then
+    # the closing report of the two previous years, and only then a partial
+    # report of the target year (e.g. an entity that published up to the 5th
+    # bimester). Synthetic values remain the absolute last resort.
+    year_candidates = [target_year, target_year - 1, target_year - 2]
+    rreo_data = None
+    rreo_info: Optional[Dict[str, Any]] = None
+    data_year = target_year
+    request_failed = False
+
+    for candidate_year in year_candidates:
+        if skip_network:
+            candidate, info = cached_rreo(
+                cache_dir, ibge_code, candidate_year, RREO_COMPLETE
+            )
+        else:
+            candidate, info = fetch_rreo(
+                client,
+                ibge_code,
+                ente_id,
+                esfera,
+                candidate_year,
+                limiter,
+                cache_dir,
+                refresh,
+                RREO_COMPLETE,
+            )
+        if info and info.get("error"):
+            request_failed = True
+            break
+        if candidate:
+            rreo_data, rreo_info, data_year = candidate, info, candidate_year
+            break
+
+    if not rreo_data and not request_failed:
+        if skip_network:
+            rreo_data, rreo_info = cached_rreo(
+                cache_dir, ibge_code, target_year, RREO_PARTIAL
+            )
+        else:
+            rreo_data, rreo_info = fetch_rreo(
+                client,
+                ibge_code,
+                ente_id,
+                esfera,
+                target_year,
+                limiter,
+                cache_dir,
+                refresh,
+                RREO_PARTIAL,
+            )
+        if rreo_info and rreo_info.get("error"):
+            request_failed = True
+            rreo_data, rreo_info = None, None
+        data_year = target_year
+
+    rgf_data: Optional[Dict[str, Any]] = None
+    rgf_info: Optional[Dict[str, Any]] = None
+    if rreo_data:
+        if skip_network:
+            rgf_data, rgf_info = cached_rgf(cache_dir, ibge_code, data_year)
+        else:
+            rgf_data, rgf_info = fetch_rgf(
+                client, ibge_code, ente_id, esfera, data_year, limiter, cache_dir, refresh
+            )
 
     parsed = parse_rreo(rreo_data) if rreo_data else None
     personnel_pct = parse_rgf(rgf_data)
@@ -728,7 +827,14 @@ def extract_city(
         )
         record["extraction"] = {
             "source": "synthetic",
-            "reason": "RREO not published for this entity/year",
+            "reason": (
+                "SICONFI request failed after retries"
+                if request_failed
+                else (
+                    f"No RREO published for {target_year}, {target_year - 1} "
+                    f"or {target_year - 2}"
+                )
+            ),
             "target_year": target_year,
             "generated_at": datetime.now(timezone.utc).isoformat(),
         }
@@ -754,8 +860,17 @@ def extract_city(
 
     historical_trend: List[Dict[str, Any]] = []
 
+    # Whether the main figures cover twelve months or only the bimester
+    # accumulated so far (RREO publishes "Até o Bimestre" columns).
+    rreo_info = rreo_info or {}
+    is_complete = (
+        rreo_info.get("type") == "RREO" and rreo_info.get("period") == 6
+    ) or (
+        rreo_info.get("type") == "RREO Simplificado" and rreo_info.get("period") == 2
+    )
+
     # Real history from DCA Anexo I-E for the previous years.
-    for year in range(history_start, target_year):
+    for year in range(history_start, data_year):
         if skip_network:
             path = _cache_path(cache_dir, year, ibge_code, "dca_funcoes")
             if not path.exists():
@@ -779,7 +894,7 @@ def extract_city(
 
     historical_trend.append(
         {
-            "year": target_year,
+            "year": data_year,
             "total_spent_per_capita": round(parsed["total_expense"] / population, 2),
             "health_per_capita": per_capita["health"],
         }
@@ -791,9 +906,11 @@ def extract_city(
         "city_name": city_name,
         "uf": uf,
         "population": population,
-        "fiscal_year": target_year,
+        "fiscal_year": data_year,
         "data_source": (
-            "siconfi" if personnel_source == "rgf_anexo_01" else "siconfi_partial"
+            "siconfi"
+            if (is_complete and personnel_source == "rgf_anexo_01")
+            else "siconfi_partial"
         ),
         "summary": {
             "total_revenue": round(parsed["total_revenue"], 2),
@@ -806,8 +923,13 @@ def extract_city(
         "historical_trend": historical_trend,
         "extraction": {
             "source": "siconfi",
-            "target_year": target_year,
+            "requested_year": target_year,
+            "data_year": data_year,
+            "rreo_type": rreo_info.get("type"),
+            "rreo_period": rreo_info.get("period"),
+            "rreo_complete": is_complete,
             "personnel_source": personnel_source,
+            "rgf_period": (rgf_info or {}).get("period"),
             "generated_at": datetime.now(timezone.utc).isoformat(),
         },
     }
@@ -1117,9 +1239,21 @@ def main() -> None:
     dataframe.to_json(json_summary_path, orient="records", indent=2, force_ascii=False)
 
     source_counts = {"siconfi": 0, "siconfi_partial": 0, "synthetic": 0}
+    year_counts: Dict[str, int] = {}
+    synthetic_cities: List[Dict[str, str]] = []
     for record in ordered_records:
         source = record.get("data_source", "synthetic")
         source_counts[source] = source_counts.get(source, 0) + 1
+        year_key = str(record.get("fiscal_year"))
+        year_counts[year_key] = year_counts.get(year_key, 0) + 1
+        if source == "synthetic":
+            synthetic_cities.append(
+                {
+                    "ibge_code": record["ibge_code"],
+                    "city_name": record["city_name"],
+                    "uf": record["uf"],
+                }
+            )
 
     metadata = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
@@ -1129,6 +1263,10 @@ def main() -> None:
         "real_records": counters["real"],
         "synthetic_records": counters["synthetic"],
         "source_counts": source_counts,
+        "records_by_data_year": dict(sorted(year_counts.items())),
+        "synthetic_cities": sorted(
+            synthetic_cities, key=lambda item: (item["uf"], item["city_name"])
+        ),
         "sources": {
             "municipalities": IBGE_MUNICIPIOS_URL,
             "population": "IBGE Census 2022 (Agregado 4714)",

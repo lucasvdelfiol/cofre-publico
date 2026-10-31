@@ -1,7 +1,7 @@
 import { CIVIC_DICTIONARY } from "@/lib/civicDictionary";
 
 export const metadata = {
-  title: "Dicionário Cidadão | Cofre Público",
+  title: "Dicionário Cidadão",
   description:
     "Aprenda o significado prático de termos contábeis do poder público sem jargões complicados.",
 };

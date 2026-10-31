@@ -1,24 +1,24 @@
 import Link from "next/link";
-import { getLocalBrazilSummary } from "@/lib/dataService";
+import { getLocalBrazilSummary, getLocalExtractionMetadata } from "@/lib/dataService";
 import { formatBRL, formatNumber, formatPct } from "@/lib/civicDictionary";
 import NationalDataExplorer from "@/components/NationalDataExplorer";
-import {
-  Wallet,
-  Users,
-  HeartPulse,
-  GraduationCap,
-  Building,
-  ShieldCheck,
-  TrendingUp,
-  Sparkles,
-  ArrowRight,
-  HelpCircle,
-  Database,
-  Layers,
-} from "lucide-react";
+import { Wallet, Users, HeartPulse, GraduationCap, ArrowRight } from "lucide-react";
 
 export default function HomePage() {
   const allCities = getLocalBrazilSummary();
+  const metadata = getLocalExtractionMetadata();
+  const officialCities =
+    metadata != null
+      ? metadata.real_records
+      : allCities.filter((city) => city.data_source?.startsWith("siconfi")).length;
+  const updatedAt = metadata?.completed_at || metadata?.generated_at;
+  const updatedLabel = updatedAt
+    ? new Date(updatedAt).toLocaleDateString("pt-BR", {
+        day: "2-digit",
+        month: "2-digit",
+        year: "numeric",
+      })
+    : null;
 
   // Aggregate stats across the current monitored dataset
   const totalExpense = allCities.reduce((acc, c) => acc + c.total_expense, 0);
@@ -29,11 +29,6 @@ export default function HomePage() {
 
   const avgHealthPerCapita = Math.round(totalHealth / totalPopulation);
   const avgEducationPerCapita = Math.round(totalEducation / totalPopulation);
-  const overallPersonnelPct = (
-    allCities.reduce((acc, c) => acc + c.personnel_expense_percentage_rcl, 0) /
-    allCities.length
-  ).toFixed(1);
-
   // Benchmarks / Curiosities for quick discovery
   const highestHealthCity = [...allCities].sort(
     (a, b) => b.health_per_capita - a.health_per_capita
@@ -47,9 +42,26 @@ export default function HomePage() {
     (a, b) => b.total_expense - a.total_expense
   )[0];
 
-  const lowestPersonnelCity = [...allCities].sort(
-    (a, b) => a.personnel_expense_percentage_rcl - b.personnel_expense_percentage_rcl
-  )[0];
+  // Entities without an RGF report 0, which is unknown rather than "lean".
+  const lowestPersonnelCity = [...allCities]
+    .filter((city) => city.personnel_expense_percentage_rcl > 0)
+    .sort(
+      (a, b) => a.personnel_expense_percentage_rcl - b.personnel_expense_percentage_rcl
+    )[0];
+
+  // Context for the spotlight cards: how far each record is from the national
+  // picture, so the copy states facts instead of guesses.
+  const healthVsAverage = avgHealthPerCapita
+    ? highestHealthCity.health_per_capita / avgHealthPerCapita
+    : 0;
+  const eduVsAverage = avgEducationPerCapita
+    ? highestEduCity.education_per_capita / avgEducationPerCapita
+    : 0;
+  const budgetShare = totalExpense
+    ? (highestBudgetCity.total_expense / totalExpense) * 100
+    : 0;
+  const personnelGap =
+    48.6 - (lowestPersonnelCity?.personnel_expense_percentage_rcl ?? 0);
 
   return (
     <div className="space-y-12 pb-20">
@@ -58,10 +70,12 @@ export default function HomePage() {
         <div className="max-w-6xl mx-auto px-4 sm:px-6 flex flex-col sm:flex-row sm:items-center justify-between text-xs text-slate-600 gap-1 font-mono">
           <div className="flex items-center gap-2">
             <span className="w-2 h-2 rounded-full bg-[#1c5a38] animate-pulse" />
-            <span>Dados Oficiais Tesouro Nacional (SICONFI) • Exercício Fiscal 2025</span>
+            <span>Dados oficiais Tesouro Nacional (SICONFI) • Exercício de referência 2025</span>
           </div>
           <div className="text-slate-500 text-[11px]">
-            {allCities.length} municípios monitorados • Atualização mensal
+            {officialCities.toLocaleString("pt-BR")} de{" "}
+            {allCities.length.toLocaleString("pt-BR")} municípios com dados oficiais
+            {updatedLabel ? ` • Atualizado em ${updatedLabel}` : ""}
           </div>
         </div>
       </div>
@@ -80,17 +94,22 @@ export default function HomePage() {
             Sem barreiras ou termos contábeis complicados, você já vê os números agregados de saúde,
             educação e folha de pagamento por habitante.
           </p>
+          <p className="text-xs text-slate-500 font-sans">
+            <Link href="/sobre/" className="underline hover:no-underline">
+              De onde vêm os números, como cada indicador é calculado e o que ainda falta
+            </Link>
+          </p>
         </div>
 
         {/* Aggregated Numbers Grid */}
-        <div className="grid grid-cols-2 md:grid-cols-4 gap-4 pt-2">
+        <div className="grid grid-cols-2 lg:grid-cols-4 gap-4 pt-2">
           {/* Card 1: Total Budget */}
           <div className="bg-white rounded-xl p-5 border border-[#e5e0d8] shadow-xs space-y-1">
             <div className="text-slate-400 text-xs flex items-center gap-1 font-medium">
               <Wallet className="w-3.5 h-3.5 text-slate-500" />
               <span>Orçamento Executado</span>
             </div>
-            <div className="text-2xl sm:text-3xl font-serif font-bold text-civic-ink font-mono">
+            <div className="font-bold text-civic-ink font-mono leading-tight whitespace-nowrap" style={{ fontSize: "clamp(1.05rem, 2.4vw, 1.5rem)" }}>
               {formatBRL(totalExpense, true)}
             </div>
             <p className="text-[11px] text-slate-500 font-sans">
@@ -104,7 +123,7 @@ export default function HomePage() {
               <Users className="w-3.5 h-3.5 text-slate-500" />
               <span>Cidadãos Atendidos</span>
             </div>
-            <div className="text-2xl sm:text-3xl font-serif font-bold text-civic-ink font-mono">
+            <div className="font-bold text-civic-ink font-mono leading-tight whitespace-nowrap" style={{ fontSize: "clamp(1.05rem, 2.4vw, 1.5rem)" }}>
               {formatNumber(totalPopulation)}
             </div>
             <p className="text-[11px] text-slate-500 font-sans">
@@ -118,7 +137,7 @@ export default function HomePage() {
               <HeartPulse className="w-3.5 h-3.5 text-[#1c5a38]" />
               <span>Média em Saúde</span>
             </div>
-            <div className="text-2xl sm:text-3xl font-serif font-bold text-[#1c5a38] font-mono">
+            <div className="font-bold text-[#1c5a38] font-mono leading-tight whitespace-nowrap" style={{ fontSize: "clamp(1.05rem, 2.4vw, 1.5rem)" }}>
               {formatBRL(avgHealthPerCapita)}
             </div>
             <p className="text-[11px] text-slate-500 font-sans">
@@ -132,7 +151,7 @@ export default function HomePage() {
               <GraduationCap className="w-3.5 h-3.5 text-[#1e3a5f]" />
               <span>Média em Educação</span>
             </div>
-            <div className="text-2xl sm:text-3xl font-serif font-bold text-[#1e3a5f] font-mono">
+            <div className="font-bold text-[#1e3a5f] font-mono leading-tight whitespace-nowrap" style={{ fontSize: "clamp(1.05rem, 2.4vw, 1.5rem)" }}>
               {formatBRL(avgEducationPerCapita)}
             </div>
             <p className="text-[11px] text-slate-500 font-sans">
@@ -176,7 +195,10 @@ export default function HomePage() {
                 {formatBRL(highestHealthCity.health_per_capita)} <span className="text-xs text-slate-500 font-normal font-sans">/ano</span>
               </div>
               <p className="text-[11px] text-slate-500 leading-snug">
-                Receita impulsionada por royalties do petróleo permite investimento diferenciado no SUS.
+                {healthVsAverage.toLocaleString("pt-BR", {
+                  maximumFractionDigits: 1,
+                })}
+                × a média nacional por habitante (R$ {avgHealthPerCapita.toLocaleString("pt-BR")}).
               </p>
             </Link>
 
@@ -196,7 +218,10 @@ export default function HomePage() {
                 {formatBRL(highestEduCity.education_per_capita)} <span className="text-xs text-slate-500 font-normal font-sans">/ano</span>
               </div>
               <p className="text-[11px] text-slate-500 leading-snug">
-                Referência nacional no IDEB: forte foco em creches e alfabetização infantil.
+                {eduVsAverage.toLocaleString("pt-BR", {
+                  maximumFractionDigits: 1,
+                })}
+                × a média nacional por habitante (R$ {avgEducationPerCapita.toLocaleString("pt-BR")}).
               </p>
             </Link>
 
@@ -216,7 +241,8 @@ export default function HomePage() {
                 {formatBRL(highestBudgetCity.total_expense, true)}
               </div>
               <p className="text-[11px] text-slate-500 leading-snug">
-                Orçamento anual da metrópole supera o de estados inteiros do Brasil.
+                Concentra {budgetShare.toLocaleString("pt-BR", { maximumFractionDigits: 1 })}%
+                de todo o gasto municipal do país.
               </p>
             </Link>
 
@@ -236,7 +262,8 @@ export default function HomePage() {
                 {formatPct(lowestPersonnelCity.personnel_expense_percentage_rcl)}
               </div>
               <p className="text-[11px] text-slate-500 leading-snug">
-                Folha de pagamento bem distante do teto de alerta (48,6%) e máximo (54%).
+                {personnelGap.toLocaleString("pt-BR", { maximumFractionDigits: 1 })} pontos
+                percentuais abaixo do teto de alerta da LRF (48,6%).
               </p>
             </Link>
           </div>
@@ -254,7 +281,7 @@ export default function HomePage() {
           </p>
         </div>
 
-        <NationalDataExplorer />
+        <NationalDataExplorer referenceYear={metadata?.target_year ?? 2025} />
       </section>
 
       {/* Side-by-Side Compare CTA Banner */}
@@ -316,7 +343,8 @@ export default function HomePage() {
             </div>
             <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
               O Cofre Público é 100% estático e open-source. Os dados são pré-computados
-              mensalmente por um pipeline Python e servidos via Cloudflare Pages / Vercel com custo zero de infraestrutura e tráfego ilimitado.
+              mensalmente por um pipeline Python e publicados no GitHub Pages, sem banco de
+              dados, servidor de aplicação ou custo de infraestrutura.
             </p>
             <div className="pt-2">
               <span className="text-[11px] font-mono text-slate-500">

@@ -29,6 +29,32 @@ export function getLocalBrazilSummary(): BrazilSummaryItem[] {
   return [];
 }
 
+export interface ExtractionMetadata {
+  target_year: number;
+  history_start: number;
+  municipalities: number;
+  real_records: number;
+  synthetic_records: number;
+  completed_at?: string;
+  generated_at?: string;
+  source_counts?: Record<string, number>;
+  records_by_data_year?: Record<string, number>;
+  synthetic_cities?: Array<{ ibge_code: string; city_name: string; uf: string }>;
+}
+
+/** Human-readable extraction summary shown on the home page and footer. */
+export function getLocalExtractionMetadata(): ExtractionMetadata | null {
+  try {
+    const filePath = path.join(process.cwd(), "public", "data", "extraction_metadata.json");
+    if (fs.existsSync(filePath)) {
+      return JSON.parse(fs.readFileSync(filePath, "utf-8")) as ExtractionMetadata;
+    }
+  } catch (err) {
+    console.error("Error reading extraction metadata:", err);
+  }
+  return null;
+}
+
 export function getLocalCityData(ibgeCode: string): CityData | null {
   try {
     const filePath = path.join(

@@ -34,3 +34,6 @@ yarn-error.log*
 
 # local logs
 logs/
+
+# typescript incremental build info
+tsconfig.tsbuildinfo

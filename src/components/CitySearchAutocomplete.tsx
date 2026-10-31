@@ -115,6 +115,16 @@ export default function CitySearchAutocomplete({
         </div>
         <input
           type="text"
+          role="combobox"
+          aria-expanded={isOpen}
+          aria-controls="city-search-results"
+          aria-autocomplete="list"
+          aria-activedescendant={
+            isOpen && displayList[highlightIdx]
+              ? `city-option-${displayList[highlightIdx].ibge_code}`
+              : undefined
+          }
+          aria-label="Buscar município por nome, sigla do estado ou código IBGE"
           value={query}
           onChange={(e) => {
             setQuery(e.target.value);
@@ -135,6 +145,7 @@ export default function CitySearchAutocomplete({
           <button
             type="button"
             onClick={() => setQuery("")}
+            aria-label="Limpar busca"
             className="absolute right-4 text-xs text-slate-500 hover:text-civic-ink"
           >
             Limpar
@@ -144,7 +155,12 @@ export default function CitySearchAutocomplete({
 
       {/* Autocomplete Dropdown */}
       {isOpen && (
-        <div className="absolute top-full mt-1.5 w-full bg-white rounded-lg shadow-lg border border-[#d8d2c6] overflow-hidden z-50 max-h-96 overflow-y-auto">
+        <div
+          id="city-search-results"
+          role="listbox"
+          aria-label="Municípios encontrados"
+          className="absolute top-full mt-1.5 w-full bg-white rounded-lg shadow-lg border border-[#d8d2c6] overflow-hidden z-50 max-h-96 overflow-y-auto"
+        >
           {cities.length === 0 ? (
             <div className="p-5 text-center text-slate-500 text-sm">
               {indexLoading ? "Carregando municípios..." : "Digite para buscar um município."}
@@ -164,6 +180,9 @@ export default function CitySearchAutocomplete({
                   <button
                     key={c.ibge_code}
                     type="button"
+                    role="option"
+                    id={`city-option-${c.ibge_code}`}
+                    aria-selected={isSelected}
                     onClick={() => handleSelectCity(c.ibge_code)}
                     onMouseEnter={() => setHighlightIdx(idx)}
                     className={`w-full px-4 py-3 flex items-center justify-between text-left transition-colors ${

@@ -152,3 +152,11 @@ export function formatNumber(val: number): string {
 export function formatPct(val: number): string {
   return `${val.toLocaleString("pt-BR", { minimumFractionDigits: 1, maximumFractionDigits: 1 })}%`;
 }
+
+/**
+ * Some entities do not publish the RGF, so the personnel ratio is unknown.
+ * The extractor stores 0 in that case; never render it as "0,0%".
+ */
+export function formatPersonnelPct(val: number): string {
+  return val > 0 ? formatPct(val) : "n/d";
+}

@@ -45,7 +45,7 @@ export default function KpiCard({
         </div>
 
         <div className="mt-3">
-          <div className="text-2xl sm:text-3xl font-serif font-bold text-civic-ink tracking-tight font-mono">
+          <div className="text-xl sm:text-2xl font-bold text-civic-ink tracking-tight font-mono leading-tight whitespace-nowrap">
             {value}
           </div>
           {secondaryValue && (

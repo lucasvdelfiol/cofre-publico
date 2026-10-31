@@ -1,7 +1,9 @@
+import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import { getLocalCitiesIndex, getLocalCityData } from "@/lib/dataService";
 import { formatBRL, formatPct, formatNumber, getLRFStatus } from "@/lib/civicDictionary";
+import { absoluteUrl, SITE_NAME } from "@/lib/site";
 import FiscalHealthGauge from "@/components/FiscalHealthGauge";
 import SectorSpendingChart from "@/components/SectorSpendingChart";
 import HistoricalTrendChart from "@/components/HistoricalTrendChart";
@@ -22,6 +24,54 @@ interface Props {
   };
 }
 
+/**
+ * Each of the 5.571 city pages gets its own title/description so search
+ * engines and link previews show real numbers instead of the generic root
+ * metadata.
+ */
+export function generateMetadata({ params }: Props): Metadata {
+  const city = getLocalCityData(params.ibgeCode);
+  if (!city) {
+    return { title: "Município não encontrado" };
+  }
+
+  const { summary } = city;
+  const lrf = getLRFStatus(summary.personnel_expense_percentage_rcl);
+  const perCapita = Math.round(summary.total_expense / city.population);
+  const title = `${city.city_name} (${city.uf}) — Gastos Públicos ${city.fiscal_year}`;
+  const description =
+    `Em ${city.fiscal_year}, ${city.city_name} (${city.uf}) executou ` +
+    `${formatBRL(summary.total_expense, true)} em despesas, o equivalente a ` +
+    `${formatBRL(perCapita)} por habitante. Gasto com pessoal: ` +
+    `${formatPct(summary.personnel_expense_percentage_rcl)} da arrecadação ` +
+    `líquida (RCL), na faixa ${lrf.label} da Lei de Responsabilidade Fiscal.`;
+
+  return {
+    title,
+    description,
+    alternates: { canonical: `/cidade/${city.ibge_code}/` },
+    openGraph: {
+      type: "article",
+      locale: "pt_BR",
+      siteName: SITE_NAME,
+      title,
+      description,
+      url: absoluteUrl(`/cidade/${city.ibge_code}/`),
+    },
+    twitter: {
+      card: "summary_large_image",
+      title,
+      description,
+    },
+  };
+}
+
+function periodLabel(type?: string | null, period?: number | null): string {
+  if (!period) return "período publicado";
+  return type === "RREO Simplificado" ? `${period}º semestre` : `${period}º bimestre`;
+}
+
+
 export default function CityProfilePage({ params }: Props) {
   const city = getLocalCityData(params.ibgeCode);
 
@@ -32,6 +82,27 @@ export default function CityProfilePage({ params }: Props) {
   const { summary, per_capita_breakdown, historical_trend } = city;
   const lrf = getLRFStatus(summary.personnel_expense_percentage_rcl);
 
+  const extraction = city.extraction;
+  const isOlderYear =
+    extraction?.data_year != null &&
+    extraction?.requested_year != null &&
+    extraction.data_year < extraction.requested_year;
+  const isPartialPeriod = extraction?.rreo_complete === false;
+  const personnelDerived = extraction?.personnel_source === "derived_from_rreo";
+  // A few entities report no RGF at all and the RREO does not expose the RCL,
+  // so the percentage is simply unknown. Showing "0,0%" would be a lie.
+  const personnelKnown = summary.personnel_expense_percentage_rcl > 0;
+  const isSynthetic = city.data_source === "synthetic";
+  const sourceLabel = isSynthetic
+    ? "Sem dados oficiais — valores estimados"
+    : extraction?.personnel_source === "unavailable"
+      ? "Fonte: SICONFI/Tesouro (sem RGF)"
+      : extraction?.rreo_complete === false
+        ? "Fonte: SICONFI/Tesouro (relatório parcial)"
+        : "Fonte: SICONFI/Tesouro Nacional";
+  // Estimated records must not be presented as if they respected the LRF.
+  const showGauge = personnelKnown && !isSynthetic;
+
   const budgetBalance = summary.total_revenue - summary.total_expense;
   const isSuperavit = budgetBalance >= 0;
   const totalPerCapita = Math.round((summary.total_expense / city.population) * 10) / 10;
@@ -39,6 +110,29 @@ export default function CityProfilePage({ params }: Props) {
 
   return (
     <div className="space-y-10 pb-20">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            itemListElement: [
+              {
+                "@type": "ListItem",
+                position: 1,
+                name: "Início",
+                item: absoluteUrl("/"),
+              },
+              {
+                "@type": "ListItem",
+                position: 2,
+                name: `Raio-X de ${city.city_name} (${city.uf})`,
+                item: absoluteUrl(`/cidade/${city.ibge_code}/`),
+              },
+            ],
+          }),
+        }}
+      />
       {/* Sub-header Navigation */}
       <div className="bg-[#f6f3ee] border-b border-[#e7e2d9] py-3.5">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 flex flex-col md:flex-row md:items-center justify-between gap-3 text-xs">
@@ -65,7 +159,7 @@ export default function CityProfilePage({ params }: Props) {
         <section className="bg-white rounded-xl p-6 sm:p-8 border border-[#e5e0d8] shadow-xs space-y-4">
           <div className="flex flex-col md:flex-row md:items-start justify-between gap-4 pb-4 border-b border-[#f0ede6]">
             <div>
-              <div className="flex items-center gap-2 text-xs font-mono text-slate-500 mb-1">
+              <div className="flex flex-wrap items-center gap-x-2 gap-y-0.5 text-xs font-mono text-slate-500 mb-1">
                 <span className="font-bold text-civic-ink uppercase">{city.uf}</span>
                 <span>•</span>
                 <span>Código IBGE: {city.ibge_code}</span>
@@ -84,9 +178,7 @@ export default function CityProfilePage({ params }: Props) {
                       : "Sem relatório SICONFI publicado; valores sintéticos"
                   }
                 >
-                  {city.data_source?.startsWith("siconfi")
-                    ? "Fonte: SICONFI/Tesouro Nacional"
-                    : "Dados sintéticos"}
+                  {sourceLabel}
                 </span>
               </div>
               <h1 className="font-serif text-3xl sm:text-4xl font-bold text-civic-ink tracking-tight">
@@ -109,10 +201,85 @@ export default function CityProfilePage({ params }: Props) {
             Em {city.fiscal_year}, o município de <strong>{city.city_name} ({city.uf})</strong> executou um orçamento total de{" "}
             <strong>{formatBRL(summary.total_expense, true)}</strong> para atender a sua população de{" "}
             <strong>{formatNumber(city.population)} habitantes</strong>, correspondendo a um investimento anual de{" "}
-            <strong>{formatBRL(totalPerCapita)} por morador</strong>. A folha salarial representou{" "}
-            <strong>{formatPct(summary.personnel_expense_percentage_rcl)}</strong> da Arrecadação Livre (RCL), classificada na faixa{" "}
-            <strong style={{ color: lrf.color }}>{lrf.label}</strong> da Lei de Responsabilidade Fiscal.
+            <strong>{formatBRL(totalPerCapita)} por morador</strong>.{" "}
+            {isSynthetic ? (
+              <>
+                Os números desta página são <strong>estimativas</strong> de um município que
+                não publicou relatórios no SICONFI — não há como avaliar a folha de pagamento
+                nem a conformidade com a Lei de Responsabilidade Fiscal.
+              </>
+            ) : personnelKnown ? (
+              <>
+                A folha salarial representou{" "}
+                <strong>{formatPct(summary.personnel_expense_percentage_rcl)}</strong> da
+                Arrecadação Livre (RCL), classificada na faixa{" "}
+                <strong style={{ color: lrf.color }}>{lrf.label}</strong> da Lei de
+                Responsabilidade Fiscal.
+              </>
+            ) : (
+              <>
+                O município não enviou o RGF com o gasto de pessoal, então esse indicador não
+                está disponível.
+              </>
+            )}
           </p>
+
+          {city.data_source === "synthetic" && (
+            <div className="rounded-lg border border-amber-200 bg-amber-50 p-4 text-xs leading-relaxed text-amber-900">
+              <strong className="block mb-1">
+                Este município ainda não publicou os relatórios de 2025 no SICONFI
+              </strong>
+              Os valores desta página são <strong>estimativas</strong> calculadas a partir da
+              população e de médias de municípios de porte semelhante. Eles servem para manter a
+              navegação completa, mas <strong>não devem ser citados como dado oficial</strong>.
+              Consulte o portal da prefeitura ou o{" "}
+              <a
+                href="https://siconfi.tesouro.gov.br/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="font-semibold underline"
+              >
+                SICONFI
+              </a>{" "}
+              para os números definitivos.
+            </div>
+          )}
+
+          {isOlderYear && (
+            <div className="rounded-lg border border-[#d8d2c6] bg-[#fbfaf8] p-4 text-xs leading-relaxed text-slate-600">
+              <strong className="block mb-1 text-civic-ink">
+                Último exercício completo disponível: {city.fiscal_year}
+              </strong>
+              {city.city_name} ainda não publicou o relatório de fechamento de{" "}
+              {extraction?.requested_year} no SICONFI. Para não exibir números inventados,
+              mostramos os dados oficiais de {city.fiscal_year}, o exercício mais recente com
+              relatório completo.
+            </div>
+          )}
+
+          {isPartialPeriod && (
+            <div className="rounded-lg border border-[#d8d2c6] bg-[#fbfaf8] p-4 text-xs leading-relaxed text-slate-600">
+              <strong className="block mb-1 text-civic-ink">
+                Relatório parcial: dados acumulados até o{" "}
+                {periodLabel(extraction?.rreo_type, extraction?.rreo_period)} de{" "}
+                {city.fiscal_year}
+              </strong>
+              O município ainda não enviou o relatório de fechamento do ano ao SICONFI. Os
+              totais abaixo cobrem apenas o período publicado, então não devem ser comparados
+              diretamente com o ano cheio de outras cidades.
+            </div>
+          )}
+
+          {personnelDerived && (
+            <div className="rounded-lg border border-[#d8d2c6] bg-[#fbfaf8] p-4 text-xs leading-relaxed text-slate-600">
+              <strong className="block mb-1 text-civic-ink">
+                Gasto com pessoal calculado de forma complementar
+              </strong>
+              O RGF deste município não estava disponível no SICONFI no momento da coleta. O
+              percentual de pessoal foi calculado a partir das receitas declaradas no próprio
+              RREO (Anexo 03), e não do RGF Anexo 01. Os demais valores são oficiais.
+            </div>
+          )}
         </section>
 
         {/* Top-Level KPI Cards Grid */}
@@ -187,20 +354,43 @@ export default function CityProfilePage({ params }: Props) {
             title="Folha de Pagamento"
             citizenTitle="Gasto com Pessoal (% RCL)"
             technicalTermKey="receita_corrente_liquida"
-            value={formatPct(summary.personnel_expense_percentage_rcl)}
+            value={
+              personnelKnown
+                ? formatPct(summary.personnel_expense_percentage_rcl)
+                : "n/d"
+            }
             secondaryValue="54,0%"
             secondaryLabel="Teto Máximo Legal"
             badge={
-              <span
-                className="text-[11px] font-sans font-semibold px-2 py-0.5 rounded"
-                style={{ color: lrf.color, backgroundColor: lrf.bgLight ? undefined : "#f3f4f6" }}
-              >
-                {lrf.label}
-              </span>
+              isSynthetic ? (
+                <span className="text-[11px] font-sans font-semibold px-2 py-0.5 rounded bg-amber-50 text-amber-800 border border-amber-200">
+                  estimativa
+                </span>
+              ) : personnelKnown ? (
+                <span
+                  className="text-[11px] font-sans font-semibold px-2 py-0.5 rounded"
+                  style={{ color: lrf.color, backgroundColor: lrf.bgLight ? undefined : "#f3f4f6" }}
+                >
+                  {lrf.label}
+                </span>
+              ) : (
+                <span className="text-[11px] font-sans font-semibold px-2 py-0.5 rounded bg-slate-100 text-slate-600">
+                  sem RGF
+                </span>
+              )
             }
           >
             <div className="text-[11px] text-slate-500 font-sans">
-              Status fiscal: <strong style={{ color: lrf.color }}>{lrf.status}</strong>
+              {isSynthetic ? (
+                "Valor estimado — sem RGF oficial."
+              ) : personnelKnown ? (
+                <>
+                  Status fiscal:{" "}
+                  <strong style={{ color: lrf.color }}>{lrf.status}</strong>
+                </>
+              ) : (
+                "RGF não publicado no SICONFI."
+              )}
             </div>
           </KpiCard>
         </section>
@@ -208,9 +398,22 @@ export default function CityProfilePage({ params }: Props) {
         {/* LRF Gauge & Sector Spending */}
         <section className="grid grid-cols-1 lg:grid-cols-12 gap-8 items-start">
           <div className="lg:col-span-5 space-y-6">
-            <FiscalHealthGauge
-              percentage={summary.personnel_expense_percentage_rcl}
-            />
+            {showGauge ? (
+              <FiscalHealthGauge
+                percentage={summary.personnel_expense_percentage_rcl}
+              />
+            ) : (
+              <div className="bg-white rounded-xl p-6 border border-[#e5e0d8] shadow-xs space-y-2">
+                <h2 className="font-serif font-bold text-civic-ink">
+                  Termômetro da LRF indisponível
+                </h2>
+                <p className="text-xs text-slate-600 leading-relaxed">
+                  {isSynthetic
+                    ? "Sem relatório oficial no SICONFI, não é possível calcular o percentual de pessoal sobre a RCL nem avaliar os limites da Lei de Responsabilidade Fiscal."
+                    : "O município não enviou o Relatório de Gestão Fiscal (RGF) ao SICONFI, e o RREO não permite recalcular o percentual de pessoal sobre a RCL. Por isso não atribuímos nota fiscal a esta cidade."}
+                </p>
+              </div>
+            )}
 
             {/* Plain-Language Civic Context Box */}
             <div className="bg-[#f6f3ee] rounded-xl p-5 border border-[#e5e0d8] space-y-2 text-xs text-slate-700 leading-relaxed">

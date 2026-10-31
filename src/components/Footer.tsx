@@ -1,7 +1,18 @@
 import Link from "next/link";
 import { Landmark } from "lucide-react";
+import { getLocalExtractionMetadata } from "@/lib/dataService";
 
 export default function Footer() {
+  const metadata = getLocalExtractionMetadata();
+  const updatedAt = metadata?.completed_at || metadata?.generated_at;
+  const updatedLabel = updatedAt
+    ? new Date(updatedAt).toLocaleDateString("pt-BR", {
+        day: "2-digit",
+        month: "2-digit",
+        year: "numeric",
+      })
+    : null;
+
   return (
     <footer className="mt-24 border-t border-[#e7e2d9] bg-[#f6f3ee] text-slate-700">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 py-12">
@@ -22,6 +33,10 @@ export default function Footer() {
             </p>
             <p className="text-xs text-slate-500 pt-1">
               Arquitetura Jamstack estática, sem servidores de banco de dados ativos e custo zero de infraestrutura.
+              {metadata
+                ? ` ${metadata.real_records.toLocaleString("pt-BR")} municípios têm dados oficiais; ` +
+                  `${metadata.synthetic_records.toLocaleString("pt-BR")} sem relatório publicado aparecem identificados como estimativa.`
+                : ""}
             </p>
           </div>
 
@@ -43,6 +58,11 @@ export default function Footer() {
               <li>
                 <Link href="/dicionario/" className="hover:text-civic-ink hover:underline">
                   Dicionário Orçamentário Cidadão
+                </Link>
+              </li>
+              <li>
+                <Link href="/sobre/" className="hover:text-civic-ink hover:underline">
+                  Metodologia e Fontes dos Dados
                 </Link>
               </li>
               <li>
@@ -93,8 +113,19 @@ export default function Footer() {
                   Lei Complementar nº 101/2000 (LRF)
                 </a>
               </li>
-              <li className="pt-2 text-[11px] text-slate-500 font-mono">
-                Pipeline ETL atualizado todo dia 5 via GitHub Actions
+              <li>
+                <a
+                  href="https://github.com/lucasvdelfiol/cofre-publico"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="hover:text-civic-ink hover:underline"
+                >
+                  Código-fonte e pipeline (GitHub)
+                </a>
+              </li>
+              <li className="pt-2 text-[11px] text-slate-500 font-mono leading-relaxed">
+                Extração mensal do SICONFI
+                {updatedLabel ? ` • última coleta em ${updatedLabel}` : ""}
               </li>
             </ul>
           </div>
@@ -103,7 +134,7 @@ export default function Footer() {
         <div className="mt-10 pt-6 border-t border-[#e2ddd3] flex flex-col sm:flex-row items-center justify-between text-xs text-slate-500 gap-3">
           <p>Projeto de código aberto (Licença MIT). Dados públicos de livre reprodução.</p>
           <p className="font-mono text-[11px] text-slate-500">
-            Next.js SSG + DuckDB-Wasm + Parquet
+            Next.js SSG + JSON por município + Parquet
           </p>
         </div>
       </div>

@@ -4,7 +4,13 @@ import { useState, useEffect } from "react";
 import Link from "next/link";
 import { useSearchParams } from "next/navigation";
 import { CityData, CityIndexItem } from "@/lib/types";
-import { formatBRL, formatPct, formatNumber, getLRFStatus } from "@/lib/civicDictionary";
+import {
+  formatBRL,
+  formatPct,
+  formatNumber,
+  formatPersonnelPct,
+  getLRFStatus,
+} from "@/lib/civicDictionary";
 import { publicDataPath } from "@/lib/paths";
 import { Plus, Trash2 } from "lucide-react";
 
@@ -30,6 +36,7 @@ export default function CityComparator({
   const [allCities, setAllCities] = useState<CityIndexItem[]>([]);
   const [loading, setLoading] = useState(true);
   const [addingCode, setAddingCode] = useState<string>("");
+  const [notice, setNotice] = useState<string>("");
 
   useEffect(() => {
     fetch(publicDataPath("cities_index.json"))
@@ -61,22 +68,32 @@ export default function CityComparator({
   const handleAddCity = (code: string) => {
     if (!code || selectedCodes.includes(code)) return;
     if (selectedCodes.length >= 3) {
-      alert("Você pode comparar até 3 municípios simultaneamente.");
+      setNotice("Você pode comparar até 3 municípios simultaneamente.");
       return;
     }
+    setNotice("");
     setSelectedCodes([...selectedCodes, code]);
     setAddingCode("");
   };
 
   const handleRemoveCity = (code: string) => {
     if (selectedCodes.length <= 1) {
-      alert("Mantenha ao menos um município no comparador.");
+      setNotice("Mantenha ao menos um município no comparador.");
       return;
     }
+    setNotice("");
     setSelectedCodes(selectedCodes.filter((c) => c !== code));
   };
 
   const cityBarColors = ["bg-[#0c1829]", "bg-[#1c5a38]", "bg-[#1e3a5f]"];
+
+  // Tailwind only generates classes it can see literally, so the column count
+  // must come from a lookup instead of an interpolated class name.
+  const gridCols: Record<number, string> = {
+    1: "md:grid-cols-1",
+    2: "md:grid-cols-2",
+    3: "md:grid-cols-3",
+  };
 
   const comparisonMetrics = [
     {
@@ -104,8 +121,11 @@ export default function CityComparator({
       label: "Gasto com Pessoal (% RCL)",
       sublabel: "Folha de pagamento sobre Arrecadação Livre (teto legal: 54%)",
       getValue: (c: CityData) => c.summary.personnel_expense_percentage_rcl,
-      format: (v: number) => formatPct(v),
-      max: 60,
+      format: (v: number) => formatPersonnelPct(v),
+      max: Math.max(
+        ...cityDataList.map((c) => c.summary.personnel_expense_percentage_rcl),
+        54
+      ),
     },
   ];
 
@@ -125,6 +145,7 @@ export default function CityComparator({
         {selectedCodes.length < 3 && (
           <div className="flex items-center gap-2">
             <select
+              aria-label="Escolher município para adicionar à comparação"
               value={addingCode}
               onChange={(e) => setAddingCode(e.target.value)}
               className="text-xs sm:text-sm bg-[#fbfaf8] border border-[#d8d2c6] rounded px-3 py-2 text-slate-700 focus:outline-none focus:border-civic-ink"
@@ -151,6 +172,15 @@ export default function CityComparator({
         )}
       </div>
 
+      {notice && (
+        <p
+          role="status"
+          className="text-xs text-amber-900 bg-amber-50 border border-amber-200 rounded-lg px-3 py-2"
+        >
+          {notice}
+        </p>
+      )}
+
       {loading ? (
         <div className="p-12 text-center text-slate-500 bg-white rounded-xl border border-[#e5e0d8] text-sm">
           Carregando dados comparativos...
@@ -158,7 +188,9 @@ export default function CityComparator({
       ) : (
         <>
           {/* Municipality Cards */}
-          <div className={`grid grid-cols-1 md:grid-cols-${cityDataList.length} gap-5`}>
+          <div
+            className={`grid grid-cols-1 ${gridCols[cityDataList.length] ?? "md:grid-cols-3"} gap-5`}
+          >
             {cityDataList.map((city, idx) => {
               const lrf = getLRFStatus(city.summary.personnel_expense_percentage_rcl);
 
@@ -177,7 +209,7 @@ export default function CityComparator({
                           {city.city_name}
                         </h3>
                         <p className="text-xs text-slate-500 font-mono">
-                          {city.uf} • IBGE {city.ibge_code}
+                          {city.uf} • IBGE {city.ibge_code} • Exercício {city.fiscal_year}
                         </p>
                       </div>
 
@@ -186,7 +218,8 @@ export default function CityComparator({
                           type="button"
                           onClick={() => handleRemoveCity(city.ibge_code)}
                           className="p-1 text-slate-400 hover:text-red-700"
-                          title="Remover"
+                          title="Remover município"
+                          aria-label={`Remover ${city.city_name} da comparação`}
                         >
                           <Trash2 className="w-4 h-4" />
                         </button>
@@ -212,7 +245,9 @@ export default function CityComparator({
                           className="font-mono font-semibold"
                           style={{ color: lrf.color }}
                         >
-                          {formatPct(city.summary.personnel_expense_percentage_rcl)} ({lrf.label})
+                          {city.summary.personnel_expense_percentage_rcl > 0
+                            ? `${formatPct(city.summary.personnel_expense_percentage_rcl)} (${lrf.label})`
+                            : "n/d (sem RGF)"}
                         </span>
                       </div>
                     </div>

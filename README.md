@@ -181,12 +181,27 @@ pelo Git). Em caso de falha de rede ou *throttling*, o pipeline faz retries com
 *backoff* e uma segunda passada automática nos municípios que caíram para o
 registro sintético.
 
+**Fallback de período e de exercício:** quando o relatório de fechamento do ano
+(RREO Anexo 01, 6º bimestre) ainda não foi publicado, o pipeline tenta, nesta
+ordem:
+
+1. RREO Simplificado anual (municípios de pequeno porte, 2º semestre);
+2. o fechamento do ano anterior (e do ano retrasado);
+3. um relatório parcial do ano corrente (5º ao 1º bimestre).
+
+O exercício efetivamente usado fica registrado em `extraction.data_year` e o
+período em `extraction.rreo_period`. Municípios com dados parciais ou de ano
+anterior são marcados como `siconfi_partial` e a interface avisa o leitor. Só
+quem não tem nenhum relatório nos três últimos anos gera `synthetic`.
+
 **Saídas geradas:**
 * `public/data/cities/{ibge_code}.json` — um arquivo por município
 * `public/data/cities_index.json` — índice de busca
 * `public/data/brazil_summary.parquet` e `.json` — consolidado nacional
 * `public/data/extraction_metadata.json` — contagens `siconfi`,
-  `siconfi_partial` e `synthetic`, taxa de sucesso e ano de referência
+  `siconfi_partial` e `synthetic`, distribuição por exercício
+  (`records_by_data_year`), lista dos municípios estimados (`synthetic_cities`)
+  e ano de referência
 
 ### 3. Gerar a Build Estática (SSG / Jamstack)
 ```bash

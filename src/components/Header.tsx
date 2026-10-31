@@ -7,11 +7,14 @@ import { Landmark } from "lucide-react";
 export default function Header() {
   const pathname = usePathname();
 
+  // `compact` links are hidden on small screens so the masthead never
+  // overflows; they remain reachable from the footer and the page content.
   const navLinks = [
-    { href: "/", label: "Início" },
-    { href: "/cidade/3518800/", label: "Raio-X (Exemplo: Guarulhos)" },
-    { href: "/comparar/", label: "Comparador" },
-    { href: "/dicionario/", label: "Dicionário Cidadão" },
+    { href: "/", label: "Início", compact: true },
+    { href: "/cidade/3518800/", label: "Raio-X", compact: false },
+    { href: "/comparar/", label: "Comparador", compact: false },
+    { href: "/dicionario/", label: "Dicionário", compact: false },
+    { href: "/sobre/", label: "Fontes", compact: true },
   ];
 
   return (
@@ -32,14 +35,14 @@ export default function Header() {
                   Brasil
                 </span>
               </div>
-              <p className="text-[11px] text-slate-500 hidden md:block">
+              <p className="text-[11px] text-slate-500 hidden lg:block whitespace-nowrap">
                 Contas municipais em linguagem simples e métricas por habitante
               </p>
             </div>
           </Link>
 
           {/* Navigation */}
-          <nav className="flex items-center gap-1 sm:gap-2">
+          <nav aria-label="Navegação principal" className="flex items-center gap-1 sm:gap-2">
             {navLinks.map((item) => {
               const isActive =
                 item.href === "/"
@@ -50,7 +53,7 @@ export default function Header() {
                 <Link
                   key={item.href}
                   href={item.href}
-                  className={`px-3 py-1.5 rounded text-xs sm:text-sm transition-colors ${
+                  className={`${item.compact ? "hidden sm:inline-block" : ""} whitespace-nowrap px-2.5 sm:px-3 py-1.5 rounded text-xs sm:text-sm transition-colors ${
                     isActive
                       ? "bg-[#ede7dd] text-civic-ink font-semibold"
                       : "text-slate-600 hover:text-civic-ink hover:bg-[#f3ede3]"

@@ -4,7 +4,13 @@ import { useState, useMemo, useEffect } from "react";
 import Link from "next/link";
 import { BrazilSummaryItem } from "@/lib/types";
 import { publicDataPath } from "@/lib/paths";
-import { formatBRL, formatPct, formatNumber, getLRFStatus } from "@/lib/civicDictionary";
+import {
+  formatBRL,
+  formatPct,
+  formatNumber,
+  formatPersonnelPct,
+  getLRFStatus,
+} from "@/lib/civicDictionary";
 import {
   Search,
   ArrowUpDown,
@@ -23,6 +29,8 @@ interface Props {
    * national summary on demand so the homepage HTML stays small.
    */
   initialCities?: BrazilSummaryItem[];
+  /** Reference fiscal year, used to flag rows that show an older exercise. */
+  referenceYear?: number;
 }
 
 const CARD_PAGE_SIZE = 12;
@@ -36,7 +44,10 @@ type SortField =
   | "personnel_expense_percentage_rcl"
   | "own_revenue_percentage";
 
-export default function NationalDataExplorer({ initialCities = [] }: Props) {
+export default function NationalDataExplorer({
+  initialCities = [],
+  referenceYear = 2025,
+}: Props) {
   const [cities, setCities] = useState<BrazilSummaryItem[]>(initialCities);
   const [loading, setLoading] = useState(initialCities.length === 0);
   const [selectedRegion, setSelectedRegion] = useState<string>("Todas");
@@ -102,6 +113,27 @@ export default function NationalDataExplorer({ initialCities = [] }: Props) {
       setSortAsc(false);
     }
   };
+
+  const renderSortHeader = (field: SortField, label: string) => (
+    <th
+      scope="col"
+      aria-sort={
+        sortField === field ? (sortAsc ? "ascending" : "descending") : "none"
+      }
+      className="py-3 px-4 font-sans"
+    >
+      <button
+        type="button"
+        onClick={() => handleSort(field)}
+        className="inline-flex items-center gap-1 hover:text-civic-ink focus:outline-none focus-visible:underline"
+      >
+        {label}
+        <span aria-hidden="true">
+          {sortField === field ? (sortAsc ? "▲" : "▼") : ""}
+        </span>
+      </button>
+    </th>
+  );
 
   return (
     <div className="space-y-6">
@@ -282,6 +314,22 @@ export default function NationalDataExplorer({ initialCities = [] }: Props) {
                         <span className="text-[10px] px-1.5 py-0.5 rounded bg-[#f6f3ee] text-slate-600 font-medium font-sans">
                           {city.region}
                         </span>
+                        {city.fiscal_year !== referenceYear && (
+                          <span
+                            className="text-[10px] px-1.5 py-0.5 rounded bg-[#f6f3ee] text-slate-600 border border-[#e5e0d8] font-medium font-sans"
+                            title="Exercício mais recente com relatório de fechamento publicado"
+                          >
+                            {city.fiscal_year}
+                          </span>
+                        )}
+                        {city.data_source === "synthetic" && (
+                          <span
+                            className="text-[10px] px-1.5 py-0.5 rounded bg-amber-50 text-amber-800 border border-amber-200 font-medium font-sans"
+                            title="Município sem relatório publicado no SICONFI; números estimados"
+                          >
+                            estimativa
+                          </span>
+                        )}
                       </div>
                       <div className="text-xs text-slate-500 mt-0.5 flex items-center gap-1 font-mono">
                         <Users className="w-3 h-3 text-slate-400" />
@@ -291,15 +339,21 @@ export default function NationalDataExplorer({ initialCities = [] }: Props) {
                       </div>
                     </div>
 
-                    <span
-                      className="text-[11px] font-sans font-semibold px-2 py-0.5 rounded text-right whitespace-nowrap"
-                      style={{
-                        color: lrf.color,
-                        backgroundColor: lrf.bgLight ? undefined : "#f3f4f6",
-                      }}
-                    >
-                      {lrf.label}
-                    </span>
+                    {city.personnel_expense_percentage_rcl > 0 ? (
+                      <span
+                        className="text-[11px] font-sans font-semibold px-2 py-0.5 rounded text-right whitespace-nowrap"
+                        style={{
+                          color: lrf.color,
+                          backgroundColor: lrf.bgLight ? undefined : "#f3f4f6",
+                        }}
+                      >
+                        {lrf.label}
+                      </span>
+                    ) : (
+                      <span className="text-[11px] font-sans font-semibold px-2 py-0.5 rounded text-right whitespace-nowrap bg-slate-100 text-slate-600">
+                        sem RGF
+                      </span>
+                    )}
                   </div>
 
                   {/* Core Numbers */}
@@ -346,8 +400,16 @@ export default function NationalDataExplorer({ initialCities = [] }: Props) {
                         <ShieldCheck className="w-3.5 h-3.5 text-slate-400" />
                         Gasto com Pessoal (LRF):
                       </span>
-                      <span className="font-mono font-semibold" style={{ color: lrf.color }}>
-                        {formatPct(city.personnel_expense_percentage_rcl)}
+                      <span
+                        className="font-mono font-semibold"
+                        style={{
+                          color:
+                            city.personnel_expense_percentage_rcl > 0
+                              ? lrf.color
+                              : "#64748b",
+                        }}
+                      >
+                        {formatPersonnelPct(city.personnel_expense_percentage_rcl)}
                       </span>
                     </div>
 
@@ -395,26 +457,14 @@ export default function NationalDataExplorer({ initialCities = [] }: Props) {
             <table className="w-full text-left text-xs sm:text-sm">
               <thead className="bg-[#f6f3ee] text-slate-700 font-semibold border-b border-[#e5e0d8]">
                 <tr>
-                  <th className="py-3 px-4 font-sans">Município</th>
-                  <th className="py-3 px-4 font-sans cursor-pointer hover:text-civic-ink" onClick={() => handleSort("population")}>
-                    População {sortField === "population" && (sortAsc ? "▲" : "▼")}
-                  </th>
-                  <th className="py-3 px-4 font-sans cursor-pointer hover:text-civic-ink" onClick={() => handleSort("total_expense")}>
-                    Orçamento Anual {sortField === "total_expense" && (sortAsc ? "▲" : "▼")}
-                  </th>
-                  <th className="py-3 px-4 font-sans cursor-pointer hover:text-civic-ink" onClick={() => handleSort("health_per_capita")}>
-                    Saúde / hab {sortField === "health_per_capita" && (sortAsc ? "▲" : "▼")}
-                  </th>
-                  <th className="py-3 px-4 font-sans cursor-pointer hover:text-civic-ink" onClick={() => handleSort("education_per_capita")}>
-                    Educação / hab {sortField === "education_per_capita" && (sortAsc ? "▲" : "▼")}
-                  </th>
-                  <th className="py-3 px-4 font-sans cursor-pointer hover:text-civic-ink" onClick={() => handleSort("own_revenue_percentage")}>
-                    Autonomia {sortField === "own_revenue_percentage" && (sortAsc ? "▲" : "▼")}
-                  </th>
-                  <th className="py-3 px-4 font-sans cursor-pointer hover:text-civic-ink" onClick={() => handleSort("personnel_expense_percentage_rcl")}>
-                    Folha (LRF) {sortField === "personnel_expense_percentage_rcl" && (sortAsc ? "▲" : "▼")}
-                  </th>
-                  <th className="py-3 px-4 font-sans text-right">Ação</th>
+                  <th scope="col" className="py-3 px-4 font-sans">Município</th>
+                  {renderSortHeader("population", "População")}
+                  {renderSortHeader("total_expense", "Orçamento Anual")}
+                  {renderSortHeader("health_per_capita", "Saúde / hab")}
+                  {renderSortHeader("education_per_capita", "Educação / hab")}
+                  {renderSortHeader("own_revenue_percentage", "Autonomia")}
+                  {renderSortHeader("personnel_expense_percentage_rcl", "Folha (LRF)")}
+                  <th scope="col" className="py-3 px-4 font-sans text-right">Ação</th>
                 </tr>
               </thead>
               <tbody className="divide-y divide-[#f0ede6]">
@@ -429,6 +479,10 @@ export default function NationalDataExplorer({ initialCities = [] }: Props) {
                         </Link>
                         <span className="text-[11px] text-slate-400 font-mono">
                           {city.region} • IBGE: {city.ibge_code}
+                          {city.fiscal_year !== referenceYear
+                            ? ` • dados de ${city.fiscal_year}`
+                            : ""}
+                          {city.data_source === "synthetic" ? " • estimativa" : ""}
                         </span>
                       </td>
 
@@ -453,11 +507,21 @@ export default function NationalDataExplorer({ initialCities = [] }: Props) {
                       </td>
 
                       <td className="py-3 px-4">
-                        <span className="font-mono font-semibold block" style={{ color: lrf.color }}>
-                          {formatPct(city.personnel_expense_percentage_rcl)}
+                        <span
+                          className="font-mono font-semibold block"
+                          style={{
+                            color:
+                              city.personnel_expense_percentage_rcl > 0
+                                ? lrf.color
+                                : "#64748b",
+                          }}
+                        >
+                          {formatPersonnelPct(city.personnel_expense_percentage_rcl)}
                         </span>
                         <span className="text-[10px] text-slate-400 block font-sans">
-                          {lrf.label}
+                          {city.personnel_expense_percentage_rcl > 0
+                            ? lrf.label
+                            : "sem RGF"}
                         </span>
                       </td>
 
