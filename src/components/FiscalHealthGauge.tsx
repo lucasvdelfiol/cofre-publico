@@ -126,6 +126,16 @@ export default function FiscalHealthGauge({ percentage }: Props) {
         </strong>
         {lrf.description}
       </div>
+
+      {percentage > 100 && (
+        <div className="mt-3 p-3.5 bg-amber-50 border border-amber-200 rounded-lg text-xs leading-relaxed text-amber-900">
+          <strong className="block mb-0.5">Atenção: valor acima de 100% da RCL</strong>
+          O percentual de {formatPct(percentage)} foi declarado pelo próprio município no
+          RGF enviado ao SICONFI. Valores acima de 100% indicam, quase sempre, erro no
+          preenchimento do relatório (RCL subdeclarada), e não gasto real de mais de uma
+          arrecadação inteira com pessoal. Trate este indicador com cautela.
+        </div>
+      )}
     </div>
   );
 }
