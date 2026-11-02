@@ -1,11 +1,12 @@
 "use client";
 
-import { useState, useEffect, useRef } from "react";
+import { useState, useEffect, useMemo, useRef } from "react";
 import { useRouter } from "next/navigation";
 import { Search } from "lucide-react";
 import { CityIndexItem } from "@/lib/types";
 import { formatNumber, formatBRL } from "@/lib/civicDictionary";
 import { publicDataPath } from "@/lib/paths";
+import { searchCities } from "@/lib/search";
 
 interface Props {
   initialCities?: CityIndexItem[];
@@ -50,6 +51,14 @@ export default function CitySearchAutocomplete({
     }
   }, [initialCities, cities.length]);
 
+  // Baixa o índice em segundo plano logo que a página carrega: a primeira
+  // letra digitada já encontra resultados em vez de esperar 1 MB de JSON.
+  useEffect(() => {
+    const timer = setTimeout(loadIndex, 1200);
+    return () => clearTimeout(timer);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
+
   useEffect(() => {
     function handleClickOutside(e: MouseEvent) {
       if (containerRef.current && !containerRef.current.contains(e.target as Node)) {
@@ -60,16 +69,13 @@ export default function CitySearchAutocomplete({
     return () => document.removeEventListener("mousedown", handleClickOutside);
   }, []);
 
-  const cleanQuery = query.trim().toLowerCase();
-  const filtered = cities.filter((c) => {
-    if (!cleanQuery) return true;
-    const nameMatch = c.city_name.toLowerCase().includes(cleanQuery);
-    const ufMatch = c.uf.toLowerCase() === cleanQuery;
-    const codeMatch = c.ibge_code.includes(cleanQuery);
-    return nameMatch || ufMatch || codeMatch;
-  });
-
-  const displayList = filtered.slice(0, 8);
+  // Busca tolerante: ignora acentos, aceita palavras fora de ordem e pequenos
+  // erros de digitação ("marica" → Maricá, "guaruljos" → Guarulhos).
+  const displayList = useMemo(
+    () => searchCities(cities, query, 8),
+    [cities, query]
+  );
+  const hasQuery = query.trim().length > 0;
 
   const handleSelectCity = (ibgeCode: string) => {
     setIsOpen(false);
@@ -169,11 +175,17 @@ export default function CitySearchAutocomplete({
             <div className="p-5 text-center text-slate-500 text-sm">
               Nenhum município encontrado para &quot;{query}&quot;.
               <span className="block text-xs text-slate-400 mt-1">
-                Tente digitar o nome da cidade ou a sigla do estado.
+                A busca ignora acentos e tolera erros de digitação. Tente só parte do nome
+                (ex: &quot;guarul&quot;) ou a sigla do estado (ex: &quot;SP&quot;).
               </span>
             </div>
           ) : (
             <div className="py-1 divide-y divide-[#f0ede6]">
+              {!hasQuery && (
+                <div className="px-4 py-2 text-[11px] font-mono uppercase tracking-wider text-slate-400 bg-[#fbfaf8]">
+                  Maiores municípios
+                </div>
+              )}
               {displayList.map((c, idx) => {
                 const isSelected = idx === highlightIdx;
                 return (

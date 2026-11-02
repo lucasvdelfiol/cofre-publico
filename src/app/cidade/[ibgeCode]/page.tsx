@@ -79,7 +79,7 @@ export default function CityProfilePage({ params }: Props) {
     notFound();
   }
 
-  const { summary, per_capita_breakdown, historical_trend } = city;
+  const { summary, per_capita_breakdown, historical_trend, education } = city;
   const lrf = getLRFStatus(summary.personnel_expense_percentage_rcl);
 
   const extraction = city.extraction;
@@ -394,6 +394,77 @@ export default function CityProfilePage({ params }: Props) {
             </div>
           </KpiCard>
         </section>
+
+        {/* Education indicators: enrollment (INEP) + personnel share (SICONFI) */}
+        {(education?.students || education?.personnel) && (
+          <section className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+            {education?.students && (
+              <KpiCard
+                title="Alunos na Rede Pública"
+                citizenTitle="Matrículas no ensino público municipal, estadual e federal"
+                value={formatNumber(education.students.public_total)}
+                secondaryValue={`Censo Escolar ${education.students.year}`}
+                secondaryLabel="Fonte INEP"
+              >
+                <div className="space-y-1.5 text-[11px] font-mono text-slate-600">
+                  <div className="flex justify-between">
+                    <span>Rede municipal</span>
+                    <span className="font-semibold text-civic-ink">
+                      {formatNumber(education.students.municipal)}
+                    </span>
+                  </div>
+                  <div className="flex justify-between">
+                    <span>Rede estadual</span>
+                    <span className="font-semibold text-civic-ink">
+                      {formatNumber(education.students.estadual)}
+                    </span>
+                  </div>
+                  <div className="flex justify-between">
+                    <span>Rede federal</span>
+                    <span className="font-semibold text-civic-ink">
+                      {formatNumber(education.students.federal)}
+                    </span>
+                  </div>
+                  <div className="flex justify-between border-t border-[#f0ede6] pt-1.5 text-slate-500">
+                    <span>Rede privada (referência)</span>
+                    <span className="font-semibold">
+                      {formatNumber(education.students.private)}
+                    </span>
+                  </div>
+                </div>
+              </KpiCard>
+            )}
+
+            {education?.personnel && (
+              <KpiCard
+                title="Pessoal na Educação"
+                citizenTitle="Parcela da despesa de Educação gasta com salários e encargos"
+                value={formatPct(education.personnel.percentage)}
+                secondaryValue={formatBRL(education.personnel.personnel_expense, true)}
+                secondaryLabel="Pessoal e encargos"
+                badge={
+                  <span className="text-[11px] font-sans font-semibold px-2 py-0.5 rounded bg-[#f6f3ee] text-slate-600 border border-[#e5e0d8]">
+                    {education.personnel.year}
+                  </span>
+                }
+              >
+                <div className="space-y-1.5 text-[11px] text-slate-600">
+                  <div className="flex justify-between font-mono">
+                    <span>Despesa empenhada em Educação</span>
+                    <span className="font-semibold text-civic-ink">
+                      {formatBRL(education.personnel.education_expense, true)}
+                    </span>
+                  </div>
+                  <p className="leading-relaxed text-slate-500">
+                    Inclui professores e demais servidores da área. O recorte só
+                    do magistério não é publicado na API do SICONFI (o RREO
+                    Anexo 08 não está disponível).
+                  </p>
+                </div>
+              </KpiCard>
+            )}
+          </section>
+        )}
 
         {/* LRF Gauge & Sector Spending */}
         <section className="grid grid-cols-1 lg:grid-cols-12 gap-8 items-start">

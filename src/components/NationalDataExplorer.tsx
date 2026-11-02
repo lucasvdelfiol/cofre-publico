@@ -4,6 +4,7 @@ import { useState, useMemo, useEffect } from "react";
 import Link from "next/link";
 import { BrazilSummaryItem } from "@/lib/types";
 import { publicDataPath } from "@/lib/paths";
+import { normalize } from "@/lib/search";
 import {
   formatBRL,
   formatPct,
@@ -36,13 +37,23 @@ interface Props {
 const CARD_PAGE_SIZE = 12;
 const TABLE_PAGE_SIZE = 50;
 
+function numericValue(
+  city: BrazilSummaryItem,
+  field: SortField
+): number | null {
+  const raw = city[field];
+  return typeof raw === "number" && Number.isFinite(raw) ? raw : null;
+}
+
 type SortField =
   | "population"
   | "total_expense"
   | "health_per_capita"
   | "education_per_capita"
   | "personnel_expense_percentage_rcl"
-  | "own_revenue_percentage";
+  | "own_revenue_percentage"
+  | "students_public_total"
+  | "education_personnel_percentage";
 
 export default function NationalDataExplorer({
   initialCities = [],
@@ -82,23 +93,29 @@ export default function NationalDataExplorer({
 
   const regions = ["Todas", "Sudeste", "Nordeste", "Sul", "Norte", "Centro-Oeste"];
 
-  // Filter and sort cities
+  // Filter and sort cities. The query is normalized (accents stripped) and
+  // split into tokens so "sao paulo" and "sao paulo sp" both work.
   const filteredCities = useMemo(() => {
+    const tokens = normalize(filterQuery).split(" ").filter(Boolean);
     return cities
       .filter((c) => {
         const matchesRegion =
           selectedRegion === "Todas" || c.region === selectedRegion;
-        const q = filterQuery.toLowerCase().trim();
+        const haystack = `${normalize(c.city_name)} ${c.uf.toLowerCase()} ${c.ibge_code}`;
         const matchesQuery =
-          !q ||
-          c.city_name.toLowerCase().includes(q) ||
-          c.uf.toLowerCase().includes(q) ||
-          c.ibge_code.includes(q);
+          tokens.length === 0 || tokens.every((token) => haystack.includes(token));
         return matchesRegion && matchesQuery;
       })
       .sort((a, b) => {
         const factor = sortAsc ? 1 : -1;
-        return (a[sortField] - b[sortField]) * factor;
+        // Metrics added later are absent for some cities (e.g. no MSCE).
+        // Missing values always sink to the bottom instead of sorting as 0.
+        const av = numericValue(a, sortField);
+        const bv = numericValue(b, sortField);
+        if (av === null && bv === null) return 0;
+        if (av === null) return 1;
+        if (bv === null) return -1;
+        return (av - bv) * factor;
       });
   }, [cities, selectedRegion, filterQuery, sortField, sortAsc]);
 
@@ -210,6 +227,7 @@ export default function NationalDataExplorer({
               type="text"
               value={filterQuery}
               onChange={(e) => setFilterQuery(e.target.value)}
+              aria-label="Filtrar municípios na tabela"
               placeholder="Filtrar por nome ou estado (ex: Curitiba, SP, CE)..."
               className="w-full pl-9 pr-8 py-2 bg-[#fbfaf8] text-xs sm:text-sm rounded-lg border border-[#d8d2c6] text-civic-ink placeholder-slate-400 focus:outline-none focus:border-civic-ink focus:ring-1 focus:ring-civic-ink"
             />
@@ -239,6 +257,10 @@ export default function NationalDataExplorer({
               <option value="population">Maior População</option>
               <option value="health_per_capita">Mais Investe em Saúde / hab</option>
               <option value="education_per_capita">Mais Investe em Educação / hab</option>
+              <option value="students_public_total">Mais Alunos na Rede Pública</option>
+              <option value="education_personnel_percentage">
+                Maior Peso do Pessoal na Educação
+              </option>
               <option value="own_revenue_percentage">Maior Autonomia (menos repasses)</option>
               <option value="personnel_expense_percentage_rcl">Folha Salarial (% RCL)</option>
             </select>
@@ -432,6 +454,30 @@ export default function NationalDataExplorer({
                         />
                       </div>
                     </div>
+
+                    {/* Education indicators */}
+                    <div className="grid grid-cols-2 gap-2 pt-1">
+                      <div className="p-2 bg-[#fbfaf8] rounded-lg border border-[#f0ede6]">
+                        <span className="text-slate-400 block text-[10px] leading-tight">
+                          Alunos (rede pública)
+                        </span>
+                        <span className="font-mono font-bold text-civic-ink text-xs">
+                          {typeof city.students_public_total === "number"
+                            ? formatNumber(city.students_public_total)
+                            : "n/d"}
+                        </span>
+                      </div>
+                      <div className="p-2 bg-[#fbfaf8] rounded-lg border border-[#f0ede6]">
+                        <span className="text-slate-400 block text-[10px] leading-tight">
+                          Pessoal na Educação
+                        </span>
+                        <span className="font-mono font-bold text-civic-ink text-xs">
+                          {typeof city.education_personnel_percentage === "number"
+                            ? formatPct(city.education_personnel_percentage)
+                            : "n/d"}
+                        </span>
+                      </div>
+                    </div>
                   </div>
                 </div>
 
@@ -462,6 +508,8 @@ export default function NationalDataExplorer({
                   {renderSortHeader("total_expense", "Orçamento Anual")}
                   {renderSortHeader("health_per_capita", "Saúde / hab")}
                   {renderSortHeader("education_per_capita", "Educação / hab")}
+                  {renderSortHeader("students_public_total", "Alunos (público)")}
+                  {renderSortHeader("education_personnel_percentage", "Pessoal na Educação")}
                   {renderSortHeader("own_revenue_percentage", "Autonomia")}
                   {renderSortHeader("personnel_expense_percentage_rcl", "Folha (LRF)")}
                   <th scope="col" className="py-3 px-4 font-sans text-right">Ação</th>
@@ -500,6 +548,18 @@ export default function NationalDataExplorer({
 
                       <td className="py-3 px-4 font-mono text-[#1e3a5f] font-semibold">
                         {formatBRL(city.education_per_capita)}
+                      </td>
+
+                      <td className="py-3 px-4 font-mono">
+                        {typeof city.students_public_total === "number"
+                          ? formatNumber(city.students_public_total)
+                          : "n/d"}
+                      </td>
+
+                      <td className="py-3 px-4 font-mono">
+                        {typeof city.education_personnel_percentage === "number"
+                          ? formatPct(city.education_personnel_percentage)
+                          : "n/d"}
                       </td>
 
                       <td className="py-3 px-4 font-mono">

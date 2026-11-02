@@ -2,6 +2,7 @@ import Link from "next/link";
 import { getLocalBrazilSummary, getLocalExtractionMetadata } from "@/lib/dataService";
 import { formatBRL, formatNumber, formatPct } from "@/lib/civicDictionary";
 import NationalDataExplorer from "@/components/NationalDataExplorer";
+import CitySearchAutocomplete from "@/components/CitySearchAutocomplete";
 import { Wallet, Users, HeartPulse, GraduationCap, ArrowRight } from "lucide-react";
 
 export default function HomePage() {
@@ -29,6 +30,25 @@ export default function HomePage() {
 
   const avgHealthPerCapita = Math.round(totalHealth / totalPopulation);
   const avgEducationPerCapita = Math.round(totalEducation / totalPopulation);
+
+  // Education indicators: enrollment counts add up across municipalities;
+  // the personnel share is weighted by each city's education spending so a
+  // tiny city does not weigh as much as a capital.
+  const totalStudents = allCities.reduce(
+    (acc, c) => acc + (c.students_public_total ?? 0),
+    0
+  );
+  const educationExpense = allCities.reduce(
+    (acc, c) => acc + (c.education_expense ?? 0),
+    0
+  );
+  const educationPersonnel = allCities.reduce(
+    (acc, c) => acc + (c.education_personnel_expense ?? 0),
+    0
+  );
+  const educationPersonnelShare =
+    educationExpense > 0 ? (educationPersonnel / educationExpense) * 100 : null;
+  const studentsYear = metadata?.education?.students_year ?? null;
   // Benchmarks / Curiosities for quick discovery
   const highestHealthCity = [...allCities].sort(
     (a, b) => b.health_per_capita - a.health_per_capita
@@ -101,6 +121,11 @@ export default function HomePage() {
           </p>
         </div>
 
+        {/* Busca principal: aceita nome sem acento, UF, código IBGE e erros de digitação */}
+        <div className="pt-1">
+          <CitySearchAutocomplete />
+        </div>
+
         {/* Aggregated Numbers Grid */}
         <div className="grid grid-cols-2 lg:grid-cols-4 gap-4 pt-2">
           {/* Card 1: Total Budget */}
@@ -159,6 +184,46 @@ export default function HomePage() {
             </p>
           </div>
         </div>
+
+        {/* Education indicators (INEP enrollment + SICONFI personnel share) */}
+        {(totalStudents > 0 || educationPersonnelShare !== null) && (
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+            <div className="bg-white rounded-xl p-5 border border-[#e5e0d8] shadow-xs space-y-1">
+              <div className="text-slate-400 text-xs flex items-center gap-1 font-medium">
+                <GraduationCap className="w-3.5 h-3.5 text-[#1e3a5f]" />
+                <span>Alunos na Rede Pública</span>
+              </div>
+              <div
+                className="font-bold text-[#1e3a5f] font-mono leading-tight whitespace-nowrap"
+                style={{ fontSize: "clamp(1.05rem, 2.4vw, 1.5rem)" }}
+              >
+                {formatNumber(totalStudents)}
+              </div>
+              <p className="text-[11px] text-slate-500 font-sans">
+                Matrículas municipais, estaduais e federais
+                {studentsYear ? ` • Censo Escolar ${studentsYear}` : ""}
+              </p>
+            </div>
+
+            {educationPersonnelShare !== null && (
+              <div className="bg-white rounded-xl p-5 border border-[#e5e0d8] shadow-xs space-y-1">
+                <div className="text-slate-400 text-xs flex items-center gap-1 font-medium">
+                  <Wallet className="w-3.5 h-3.5 text-slate-500" />
+                  <span>Pessoal na Educação</span>
+                </div>
+                <div
+                  className="font-bold text-civic-ink font-mono leading-tight whitespace-nowrap"
+                  style={{ fontSize: "clamp(1.05rem, 2.4vw, 1.5rem)" }}
+                >
+                  {formatPct(educationPersonnelShare)}
+                </div>
+                <p className="text-[11px] text-slate-500 font-sans">
+                  Da despesa municipal de Educação com salários e encargos
+                </p>
+              </div>
+            )}
+          </div>
+        )}
       </section>
 
       {/* Discoveries & Spotlights Section (Politicômetro Curiosity Cards) */}

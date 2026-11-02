@@ -40,6 +40,12 @@ from typing import Any, Dict, List, Optional, Tuple
 import httpx
 import pandas as pd
 
+try:  # sibling module: INEP students + SICONFI MSC education personnel
+    from education_data import build_education_block, load_students
+except ImportError:  # pragma: no cover - keeps the extractor usable standalone
+    build_education_block = None  # type: ignore[assignment]
+    load_students = None  # type: ignore[assignment]
+
 logging.basicConfig(
     level=logging.INFO,
     format="[%(asctime)s] %(levelname)s: %(message)s",
@@ -397,6 +403,15 @@ def parse_rgf(data: Optional[Dict[str, Any]]) -> Optional[float]:
     if dtp is not None and rcl and rcl > 0:
         return round(dtp / rcl * 100.0, 2)
     return None
+
+
+def _education_value(
+    record: Dict[str, Any], block: str, key: str, default: Any = None
+) -> Any:
+    """Read a nested education indicator without raising on missing data."""
+    education = record.get("education") or {}
+    value = (education.get(block) or {}).get(key)
+    return default if value is None else value
 
 
 def parse_dca_functions(data: Optional[Dict[str, Any]]) -> Optional[Dict[str, Any]]:
@@ -1171,6 +1186,43 @@ def main() -> None:
 
     ordered_records = [results[index] for index in range(len(municipalities))]
 
+    # Education indicators: enrollment counts come from the INEP microdata
+    # (aggregated locally), personnel share from the SICONFI MSC cache. Both
+    # are best effort: missing data simply omits the block.
+    students_map: Dict[str, Dict[str, int]] = {}
+    students_year: Optional[int] = None
+    if load_students and build_education_block:
+        try:
+            students_map, students_year = load_students(cache_dir)
+        except Exception as exc:
+            logger.warning("Could not load INEP enrollment table: %s", exc)
+        education_hits = 0
+        personnel_hits = 0
+        for record in ordered_records:
+            try:
+                block = build_education_block(
+                    record, students_map, students_year, cache_dir
+                )
+            except Exception as exc:
+                logger.warning(
+                    "Education enrichment failed for %s: %s",
+                    record.get("ibge_code"),
+                    exc,
+                )
+                block = None
+            if block:
+                record["education"] = block
+                if block.get("students"):
+                    education_hits += 1
+                if block.get("personnel"):
+                    personnel_hits += 1
+        logger.info(
+            "Education indicators: %d enrollment records (%s), %d personnel shares",
+            education_hits,
+            students_year or "no year",
+            personnel_hits,
+        )
+
     logger.info("Writing %d individual city JSON files...", len(ordered_records))
     for record in ordered_records:
         city_file = output_dir / f"{record['ibge_code']}.json"
@@ -1225,6 +1277,21 @@ def main() -> None:
                     "administration"
                 ],
                 "legislative_per_capita": record["per_capita_breakdown"]["legislative"],
+                "students_public_total": _education_value(
+                    record, "students", "public_total"
+                ),
+                "education_personnel_percentage": _education_value(
+                    record, "personnel", "percentage"
+                ),
+                "education_personnel_year": _education_value(
+                    record, "personnel", "year", default=0
+                ),
+                "education_expense": _education_value(
+                    record, "personnel", "education_expense"
+                ),
+                "education_personnel_expense": _education_value(
+                    record, "personnel", "personnel_expense"
+                ),
             }
         )
 
@@ -1267,12 +1334,29 @@ def main() -> None:
         "synthetic_cities": sorted(
             synthetic_cities, key=lambda item: (item["uf"], item["city_name"])
         ),
+        "education": {
+            "students_year": students_year,
+            "students_municipalities": sum(
+                1
+                for record in ordered_records
+                if (record.get("education") or {}).get("students")
+            ),
+            "personnel_municipalities": sum(
+                1
+                for record in ordered_records
+                if (record.get("education") or {}).get("personnel")
+            ),
+        },
         "sources": {
             "municipalities": IBGE_MUNICIPIOS_URL,
             "population": "IBGE Census 2022 (Agregado 4714)",
             "budget": "SICONFI RREO Anexo 01 + Anexo 02",
             "personnel": "SICONFI RGF Anexo 01",
             "history": "SICONFI DCA Anexo I-E",
+            "enrollment": "INEP Censo Escolar (microdados da Educação Básica)",
+            "education_personnel": (
+                "SICONFI MSC Orçamentária (MSCE), função 12, natureza 3.1"
+            ),
         },
     }
     _write_json_atomic(Path(args.parquet_path).parent / "extraction_metadata.json", metadata)

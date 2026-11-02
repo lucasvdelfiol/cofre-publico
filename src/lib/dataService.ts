@@ -40,6 +40,11 @@ export interface ExtractionMetadata {
   source_counts?: Record<string, number>;
   records_by_data_year?: Record<string, number>;
   synthetic_cities?: Array<{ ibge_code: string; city_name: string; uf: string }>;
+  education?: {
+    students_year: number | null;
+    students_municipalities: number;
+    personnel_municipalities: number;
+  };
 }
 
 /** Human-readable extraction summary shown on the home page and footer. */

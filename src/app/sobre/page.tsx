@@ -32,6 +32,16 @@ const SOURCES = [
     org: "IBGE (Agregado 4714)",
     what: "População residente usada em todos os indicadores por habitante.",
   },
+  {
+    name: "Censo Escolar — microdados",
+    org: "INEP / MEC",
+    what: "Matrículas da Educação Básica por município e dependência administrativa (federal, estadual, municipal e privada).",
+  },
+  {
+    name: "MSC Orçamentária (MSCE e MSCC)",
+    org: "SICONFI / Tesouro Nacional",
+    what: "Execução orçamentária detalhada por função, subfunção e natureza da despesa, usada para medir o peso do pessoal na Educação. A matriz mensal (MSCC) cobre os entes que não detalham a execução na matriz de encerramento.",
+  },
 ];
 
 const METHOD = [
@@ -58,6 +68,16 @@ const METHOD = [
     metric: "Saúde e educação por habitante",
     formula:
       "Despesa empenhada nas funções 10 (Saúde) e 12 (Educação) do RREO Anexo 02, dividida pela população.",
+  },
+  {
+    metric: "Alunos na rede pública",
+    formula:
+      "Soma das matrículas (QT_MAT_BAS) das escolas em atividade nas redes federal, estadual e municipal do Censo Escolar. A rede privada aparece apenas como referência.",
+  },
+  {
+    metric: "Pessoal na Educação",
+    formula:
+      "Despesa empenhada na função 12 com natureza 3.1 (pessoal e encargos) dividida pelo total empenhado na função, sem as transferências intra-orçamentárias de pessoal. Inclui professores e demais servidores da educação.",
   },
 ];
 
@@ -112,8 +132,9 @@ export default function SobrePage() {
         </div>
         <p className="text-xs text-slate-500 leading-relaxed">
           Os dados brutos são baixados da API pública do SICONFI
-          (<span className="font-mono">apidatalake.tesouro.gov.br/ords/siconfi</span>) e do
-          portal de dados do IBGE. Nenhum valor é ajustado, suavizado ou interpolado.
+          (<span className="font-mono">apidatalake.tesouro.gov.br/ords/siconfi</span>), do
+          portal de dados do IBGE e dos microdados do Censo Escolar do INEP. Nenhum valor é
+          ajustado, suavizado ou interpolado.
         </p>
       </section>
 
@@ -156,6 +177,16 @@ export default function SobrePage() {
         </h2>
 
         <div className="space-y-3 text-xs sm:text-sm text-slate-600 leading-relaxed">
+          <div className="p-4 bg-white rounded-xl border border-[#e5e0d8] shadow-xs">
+            <strong className="block text-civic-ink mb-1">
+              Pessoal da Educação não é só magistério
+            </strong>
+            A API do SICONFI não publica o recorte exclusivo de professores: o RREO
+            Anexo 08 (Manutenção e Desenvolvimento do Ensino) não está disponível e o SIOPE
+            exige autenticação. Por isso o indicador mostra todo o pessoal e encargos da
+            função Educação, não apenas o magistério.
+          </div>
+
           <div className="p-4 bg-white rounded-xl border border-[#e5e0d8] shadow-xs">
             <strong className="block text-civic-ink mb-1">
               Empenhado não é pago

@@ -46,6 +46,8 @@ O **Cofre Público** resolve esse desafio através de:
 | Gastos por função (saúde, educação, urbanismo, administração, legislativo) | SICONFI / Tesouro Nacional | RREO Anexo 02 (Despesa por Função) |
 | Despesa com pessoal / RCL | SICONFI / Tesouro Nacional | RGF Anexo 01 (Despesa com Pessoal) |
 | Série histórica de 5 anos | SICONFI / Tesouro Nacional | DCA Anexo I-E (Despesa por Função) |
+| Total de alunos na rede pública | INEP / MEC | Censo Escolar (microdados da Educação Básica) |
+| % da despesa de Educação com pessoal | SICONFI / Tesouro Nacional | MSC Orçamentária — MSCE (função 12, natureza 3.1); MSCC quando a MSCE não detalha a execução |
 
 Municípios que não publicaram os relatórios obrigatórios no SICONFI recebem um
 registro **sintético** determinístico, explicitamente identificado pelo campo
@@ -97,9 +99,37 @@ Cada município possui um arquivo JSON estático conforme a especificação:
     { "year": 2023, "total_spent_per_capita": 4305.2, "health_per_capita": 1116.5 },
     { "year": 2024, "total_spent_per_capita": 4536.7, "health_per_capita": 1190.9 },
     { "year": 2025, "total_spent_per_capita": 4629.3, "health_per_capita": 1240.5 }
-  ]
+  ],
+  "education": {
+    "students": {
+      "year": 2024,
+      "public_total": 214530,
+      "federal": 1204,
+      "estadual": 121870,
+      "municipal": 91456,
+      "private": 87432
+    },
+    "personnel": {
+      "year": 2025,
+      "percentage": 58.4,
+      "personnel_expense": 1240000000.0,
+      "education_expense": 2123000000.0
+    }
+  }
 }
 ```
+
+* `education.students` vem do Censo Escolar (INEP): matrículas das escolas em
+  atividade nas redes federal, estadual e municipal; `private` serve apenas de
+  referência.
+* `education.personnel` vem da MSC Orçamentária (MSCE, com a MSCC mensal como
+  alternativa quando a matriz de encerramento não detalha a execução) do SICONFI:
+  despesa empenhada na função 12 com natureza 3.1 dividida pelo total da função,
+  sem as transferências intra-orçamentárias de pessoal. Quando a MSC reporta
+  menos da metade do total oficial do RREO Anexo 02 (matriz incompleta), o
+  indicador é omitido em vez de exibir um percentual distorcido. O recorte é
+  **pessoal e encargos de toda a Educação**, não apenas magistério — o RREO
+  Anexo 08 (MDE) não é exposto pela API do SICONFI.
 
 ---
 
@@ -161,6 +191,11 @@ pip install -r pipeline/requirements.txt
 # Extração nacional completa (5.571 municípios, RREO + RGF + DCA)
 python pipeline/extract_siconfi.py --target-year 2025 --history-start 2021 --rate 4 --workers 8
 
+# Métricas de educação (opcional, mas necessário para os dois novos indicadores):
+# 1) baixa/agrega o Censo Escolar do INEP e 2) pré-baixa a MSCE por município
+python pipeline/education_data.py --workers 8 --rate 4
+python pipeline/extract_siconfi.py --skip-network
+
 # Apenas alguns municípios (smoke test)
 python pipeline/extract_siconfi.py --only 3550308,3304557,5300108
 
@@ -200,8 +235,15 @@ quem não tem nenhum relatório nos três últimos anos gera `synthetic`.
 * `public/data/brazil_summary.parquet` e `.json` — consolidado nacional
 * `public/data/extraction_metadata.json` — contagens `siconfi`,
   `siconfi_partial` e `synthetic`, distribuição por exercício
-  (`records_by_data_year`), lista dos municípios estimados (`synthetic_cities`)
-  e ano de referência
+  (`records_by_data_year`), lista dos municípios estimados (`synthetic_cities`),
+  ano de referência e cobertura das métricas de educação (`education`)
+
+**Métricas de educação:** `pipeline/education_data.py` baixa o ZIP nacional do
+Censo Escolar uma única vez (≈32 MB), grava o agregado por município em
+`pipeline/cache/inep/students_by_city_<ano>.csv` e consulta a MSCE de cada
+município, guardando apenas o resumo (≈200 bytes) em `pipeline/cache/msc/`.
+Essa etapa leva cerca de 20–30 minutos a frio e é retomável: quem já tem cache
+não é consultado de novo.
 
 ### 3. Gerar a Build Estática (SSG / Jamstack)
 ```bash
