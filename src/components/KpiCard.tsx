@@ -23,12 +23,13 @@ export default function KpiCard({
   children,
 }: Props) {
   return (
-    <div className="bg-white rounded-xl p-5 border border-[#e5e0d8] shadow-xs flex flex-col justify-between">
+    <div className="group relative flex flex-col justify-between border border-ink-600 bg-ink-850 p-5 transition-colors hover:border-ink-500">
+      <span className="absolute left-0 top-0 h-[2px] w-10 bg-acid" />
       <div>
-        <div className="flex items-start justify-between gap-2 pb-2 border-b border-[#f0ede6]">
+        <div className="flex items-start justify-between gap-2 border-b border-ink-600 pb-2.5">
           <div>
             <div className="flex items-center gap-1.5">
-              <h3 className="font-sans font-medium text-slate-700 text-xs sm:text-sm">
+              <h3 className="font-mono text-[10px] uppercase tracking-label text-bone-500">
                 {title}
               </h3>
               {technicalTermKey && (
@@ -36,7 +37,7 @@ export default function KpiCard({
               )}
             </div>
             {citizenTitle && (
-              <span className="text-[11px] font-sans text-slate-500 block">
+              <span className="mt-1 block text-[11px] leading-snug text-bone-400">
                 {citizenTitle}
               </span>
             )}
@@ -44,14 +45,14 @@ export default function KpiCard({
           {badge}
         </div>
 
-        <div className="mt-3">
-          <div className="text-xl sm:text-2xl font-bold text-civic-ink tracking-tight font-mono leading-tight whitespace-nowrap">
+        <div className="mt-4">
+          <div className="font-mono text-xl font-semibold leading-none tracking-tight text-bone-50 sm:text-2xl">
             {value}
           </div>
           {secondaryValue && (
-            <div className="text-xs text-slate-500 mt-1 flex items-baseline gap-1">
+            <div className="mt-2 flex items-baseline gap-1 text-[11px] text-bone-500">
               {secondaryLabel && <span>{secondaryLabel}:</span>}
-              <span className="font-semibold text-slate-700 font-mono">
+              <span className="font-mono font-semibold text-bone-300">
                 {secondaryValue}
               </span>
             </div>
@@ -59,7 +60,7 @@ export default function KpiCard({
         </div>
       </div>
 
-      {children && <div className="mt-3 pt-3 border-t border-[#f0ede6]">{children}</div>}
+      {children && <div className="mt-4 border-t border-ink-600 pt-3">{children}</div>}
     </div>
   );
 }

@@ -134,43 +134,43 @@ export default function CityProfilePage({ params }: Props) {
         }}
       />
       {/* Sub-header Navigation */}
-      <div className="bg-[#f6f3ee] border-b border-[#e7e2d9] py-3.5">
+      <div className="border-b border-ink-600 bg-ink-950/70 py-3">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 flex flex-col md:flex-row md:items-center justify-between gap-3 text-xs">
-          <div className="flex items-center gap-2 text-slate-500 font-sans">
-            <Link href="/" className="hover:text-civic-ink hover:underline">
+          <div className="flex items-center gap-2 text-bone-500 font-mono text-[10px] uppercase tracking-label">
+            <Link href="/" className="hover:text-acid hover:underline">
               Início
             </Link>
             <span>/</span>
             <span>Raio-X Municipal</span>
             <span>/</span>
-            <span className="font-semibold text-civic-ink">
+            <span className="font-semibold text-acid">
               {city.city_name} ({city.uf})
             </span>
           </div>
 
-          <div className="w-full md:w-72">
-            <CitySearchAutocomplete placeholder="Mudar de cidade..." />
+          <div className="w-full md:w-80">
+            <CitySearchAutocomplete placeholder="Mudar de cidade..." showExamples={false} />
           </div>
         </div>
       </div>
 
       <div className="max-w-6xl mx-auto px-4 sm:px-6 space-y-10">
         {/* City Masthead & Executive Summary */}
-        <section className="bg-white rounded-xl p-6 sm:p-8 border border-[#e5e0d8] shadow-xs space-y-4">
-          <div className="flex flex-col md:flex-row md:items-start justify-between gap-4 pb-4 border-b border-[#f0ede6]">
+        <section className="relative overflow-hidden bg-ink-850 p-6 sm:p-8 border border-ink-600 border-l-2 border-l-acid shadow-xs space-y-4">
+          <div className="flex flex-col md:flex-row md:items-start justify-between gap-4 pb-4 border-b border-[#252b23]">
             <div>
-              <div className="flex flex-wrap items-center gap-x-2 gap-y-0.5 text-xs font-mono text-slate-500 mb-1">
-                <span className="font-bold text-civic-ink uppercase">{city.uf}</span>
-                <span>•</span>
-                <span>Código IBGE: {city.ibge_code}</span>
-                <span>•</span>
-                <span>Exercício Fiscal: {city.fiscal_year}</span>
-                <span>•</span>
+              <div className="flex flex-wrap items-center gap-x-2 gap-y-0.5 text-[10px] font-mono uppercase tracking-label text-bone-500 mb-2">
+                <span className="font-bold text-acid">{city.uf}</span>
+                <span>·</span>
+                <span>IBGE {city.ibge_code}</span>
+                <span>·</span>
+                <span>Exercício {city.fiscal_year}</span>
+                <span>·</span>
                 <span
                   className={
                     city.data_source?.startsWith("siconfi")
-                      ? "text-[#1c5a38] font-semibold"
-                      : "text-amber-700 font-semibold"
+                      ? "text-mint font-semibold"
+                      : "text-gold font-semibold"
                   }
                   title={
                     city.data_source?.startsWith("siconfi")
@@ -181,7 +181,7 @@ export default function CityProfilePage({ params }: Props) {
                   {sourceLabel}
                 </span>
               </div>
-              <h1 className="font-serif text-3xl sm:text-4xl font-bold text-civic-ink tracking-tight">
+              <h1 className="font-serif text-4xl sm:text-5xl font-bold leading-none text-bone-50 tracking-tight">
                 {city.city_name}
               </h1>
             </div>
@@ -189,15 +189,15 @@ export default function CityProfilePage({ params }: Props) {
             <div className="flex items-center gap-3">
               <Link
                 href={`/comparar/?cidades=${city.ibge_code}`}
-                className="px-4 py-2 rounded bg-[#ede7dd] hover:bg-[#e2dacf] text-civic-ink font-sans font-semibold text-xs transition-colors"
+                className="px-4 py-2 border border-ink-500 text-bone-200 hover:border-acid hover:text-acid font-mono text-[10px] uppercase tracking-label transition-colors"
               >
-                Comparar {city.city_name} com outras cidades
+                Comparar com outras cidades
               </Link>
             </div>
           </div>
 
           {/* Plain-Language Executive Summary Lead Paragraph */}
-          <p className="text-sm sm:text-base text-slate-700 leading-relaxed font-sans max-w-4xl">
+          <p className="text-sm sm:text-base text-bone-200 leading-relaxed font-sans max-w-4xl">
             Em {city.fiscal_year}, o município de <strong>{city.city_name} ({city.uf})</strong> executou um orçamento total de{" "}
             <strong>{formatBRL(summary.total_expense, true)}</strong> para atender a sua população de{" "}
             <strong>{formatNumber(city.population)} habitantes</strong>, correspondendo a um investimento anual de{" "}
@@ -225,7 +225,7 @@ export default function CityProfilePage({ params }: Props) {
           </p>
 
           {city.data_source === "synthetic" && (
-            <div className="rounded-lg border border-amber-200 bg-amber-50 p-4 text-xs leading-relaxed text-amber-900">
+            <div className="rounded-lg border border-gold/30 bg-gold/10 p-4 text-xs leading-relaxed text-bone-100">
               <strong className="block mb-1">
                 Este município ainda não publicou os relatórios de 2025 no SICONFI
               </strong>
@@ -246,8 +246,8 @@ export default function CityProfilePage({ params }: Props) {
           )}
 
           {isOlderYear && (
-            <div className="rounded-lg border border-[#d8d2c6] bg-[#fbfaf8] p-4 text-xs leading-relaxed text-slate-600">
-              <strong className="block mb-1 text-civic-ink">
+            <div className="rounded-lg border border-[#333a2e] bg-[#0f120f] p-4 text-xs leading-relaxed text-bone-300">
+              <strong className="block mb-1 text-bone-100">
                 Último exercício completo disponível: {city.fiscal_year}
               </strong>
               {city.city_name} ainda não publicou o relatório de fechamento de{" "}
@@ -258,8 +258,8 @@ export default function CityProfilePage({ params }: Props) {
           )}
 
           {isPartialPeriod && (
-            <div className="rounded-lg border border-[#d8d2c6] bg-[#fbfaf8] p-4 text-xs leading-relaxed text-slate-600">
-              <strong className="block mb-1 text-civic-ink">
+            <div className="rounded-lg border border-[#333a2e] bg-[#0f120f] p-4 text-xs leading-relaxed text-bone-300">
+              <strong className="block mb-1 text-bone-100">
                 Relatório parcial: dados acumulados até o{" "}
                 {periodLabel(extraction?.rreo_type, extraction?.rreo_period)} de{" "}
                 {city.fiscal_year}
@@ -271,8 +271,8 @@ export default function CityProfilePage({ params }: Props) {
           )}
 
           {personnelDerived && (
-            <div className="rounded-lg border border-[#d8d2c6] bg-[#fbfaf8] p-4 text-xs leading-relaxed text-slate-600">
-              <strong className="block mb-1 text-civic-ink">
+            <div className="rounded-lg border border-[#333a2e] bg-[#0f120f] p-4 text-xs leading-relaxed text-bone-300">
+              <strong className="block mb-1 text-bone-100">
                 Gasto com pessoal calculado de forma complementar
               </strong>
               O RGF deste município não estava disponível no SICONFI no momento da coleta. O
@@ -295,17 +295,17 @@ export default function CityProfilePage({ params }: Props) {
               <span
                 className="text-[11px] font-mono font-semibold px-2 py-0.5 rounded"
                 style={{
-                  backgroundColor: isSuperavit ? "#e9f5ee" : "#fee2e2",
-                  color: isSuperavit ? "#1c5a38" : "#991b1b",
+                  backgroundColor: isSuperavit ? "#16281a" : "#2c1512",
+                  color: isSuperavit ? "#8ce99a" : "#ff8f78",
                 }}
               >
                 {isSuperavit ? "Superávit" : "Déficit"}
               </span>
             }
           >
-            <div className="text-[11px] text-slate-500 flex justify-between font-mono">
+            <div className="text-[11px] text-bone-400 flex justify-between font-mono">
               <span>Balanço final:</span>
-              <span className={isSuperavit ? "text-[#1c5a38] font-bold" : "text-[#991b1b] font-bold"}>
+              <span className={isSuperavit ? "text-[#8ce99a] font-bold" : "text-[#ff8f78] font-bold"}>
                 {isSuperavit ? "+" : ""}
                 {formatBRL(budgetBalance, true)}
               </span>
@@ -320,19 +320,19 @@ export default function CityProfilePage({ params }: Props) {
             secondaryValue={formatPct(summary.transfers_revenue_percentage)}
             secondaryLabel="Dependência Repasses"
           >
-            <div className="w-full bg-[#f0ede6] h-2 rounded-full overflow-hidden flex mt-1">
+            <div className="mt-1 flex h-2 w-full overflow-hidden bg-[#252b23]">
               <div
-                className="bg-[#1e3a5f] h-full"
+                className="h-full bg-acid"
                 style={{ width: `${summary.own_revenue_percentage}%` }}
                 title={`Arrecadação Própria: ${summary.own_revenue_percentage}%`}
               />
               <div
-                className="bg-[#ded4c3] h-full"
+                className="h-full bg-[#333a2e]"
                 style={{ width: `${summary.transfers_revenue_percentage}%` }}
                 title={`Repasses Externos: ${summary.transfers_revenue_percentage}%`}
               />
             </div>
-            <div className="flex justify-between text-[10px] text-slate-500 font-mono mt-1">
+            <div className="mt-1 flex justify-between font-mono text-[10px] text-bone-400">
               <span>Receita própria: {formatPct(summary.own_revenue_percentage)}</span>
               <span>Repasses: {formatPct(summary.transfers_revenue_percentage)}</span>
             </div>
@@ -345,7 +345,7 @@ export default function CityProfilePage({ params }: Props) {
             secondaryValue={formatBRL(healthAndEduPerCapita)}
             secondaryLabel="Saúde + Educação"
           >
-            <div className="text-[11px] text-slate-500 font-mono">
+            <div className="text-[11px] text-bone-400 font-mono">
               Equivale a {formatBRL(totalPerCapita / 12)} / mês por cidadão.
             </div>
           </KpiCard>
@@ -363,24 +363,24 @@ export default function CityProfilePage({ params }: Props) {
             secondaryLabel="Teto Máximo Legal"
             badge={
               isSynthetic ? (
-                <span className="text-[11px] font-sans font-semibold px-2 py-0.5 rounded bg-amber-50 text-amber-800 border border-amber-200">
+                <span className="text-[11px] font-sans font-semibold px-2 py-0.5 rounded bg-gold/10 text-gold border border-gold/30">
                   estimativa
                 </span>
               ) : personnelKnown ? (
                 <span
                   className="text-[11px] font-sans font-semibold px-2 py-0.5 rounded"
-                  style={{ color: lrf.color, backgroundColor: lrf.bgLight ? undefined : "#f3f4f6" }}
+                  style={{ color: lrf.color, backgroundColor: lrf.bgLight ? undefined : "#252b23" }}
                 >
                   {lrf.label}
                 </span>
               ) : (
-                <span className="text-[11px] font-sans font-semibold px-2 py-0.5 rounded bg-slate-100 text-slate-600">
+                <span className="text-[11px] font-sans font-semibold px-2 py-0.5 rounded bg-ink-700 text-bone-300">
                   sem RGF
                 </span>
               )
             }
           >
-            <div className="text-[11px] text-slate-500 font-sans">
+            <div className="text-[11px] text-bone-400 font-sans">
               {isSynthetic ? (
                 "Valor estimado — sem RGF oficial."
               ) : personnelKnown ? (
@@ -406,26 +406,26 @@ export default function CityProfilePage({ params }: Props) {
                 secondaryValue={`Censo Escolar ${education.students.year}`}
                 secondaryLabel="Fonte INEP"
               >
-                <div className="space-y-1.5 text-[11px] font-mono text-slate-600">
+                <div className="space-y-1.5 text-[11px] font-mono text-bone-300">
                   <div className="flex justify-between">
                     <span>Rede municipal</span>
-                    <span className="font-semibold text-civic-ink">
+                    <span className="font-semibold text-bone-100">
                       {formatNumber(education.students.municipal)}
                     </span>
                   </div>
                   <div className="flex justify-between">
                     <span>Rede estadual</span>
-                    <span className="font-semibold text-civic-ink">
+                    <span className="font-semibold text-bone-100">
                       {formatNumber(education.students.estadual)}
                     </span>
                   </div>
                   <div className="flex justify-between">
                     <span>Rede federal</span>
-                    <span className="font-semibold text-civic-ink">
+                    <span className="font-semibold text-bone-100">
                       {formatNumber(education.students.federal)}
                     </span>
                   </div>
-                  <div className="flex justify-between border-t border-[#f0ede6] pt-1.5 text-slate-500">
+                  <div className="flex justify-between border-t border-[#252b23] pt-1.5 text-bone-400">
                     <span>Rede privada (referência)</span>
                     <span className="font-semibold">
                       {formatNumber(education.students.private)}
@@ -443,19 +443,19 @@ export default function CityProfilePage({ params }: Props) {
                 secondaryValue={formatBRL(education.personnel.personnel_expense, true)}
                 secondaryLabel="Pessoal e encargos"
                 badge={
-                  <span className="text-[11px] font-sans font-semibold px-2 py-0.5 rounded bg-[#f6f3ee] text-slate-600 border border-[#e5e0d8]">
+                  <span className="text-[11px] font-sans font-semibold px-2 py-0.5 rounded bg-[#151a15] text-bone-300 border border-[#252b23]">
                     {education.personnel.year}
                   </span>
                 }
               >
-                <div className="space-y-1.5 text-[11px] text-slate-600">
+                <div className="space-y-1.5 text-[11px] text-bone-300">
                   <div className="flex justify-between font-mono">
                     <span>Despesa empenhada em Educação</span>
-                    <span className="font-semibold text-civic-ink">
+                    <span className="font-semibold text-bone-100">
                       {formatBRL(education.personnel.education_expense, true)}
                     </span>
                   </div>
-                  <p className="leading-relaxed text-slate-500">
+                  <p className="leading-relaxed text-bone-400">
                     Inclui professores e demais servidores da área. O recorte só
                     do magistério não é publicado na API do SICONFI (o RREO
                     Anexo 08 não está disponível).
@@ -474,11 +474,11 @@ export default function CityProfilePage({ params }: Props) {
                 percentage={summary.personnel_expense_percentage_rcl}
               />
             ) : (
-              <div className="bg-white rounded-xl p-6 border border-[#e5e0d8] shadow-xs space-y-2">
-                <h2 className="font-serif font-bold text-civic-ink">
+              <div className="bg-ink-850 rounded-xl p-6 border border-[#252b23] shadow-xs space-y-2">
+                <h2 className="font-serif font-bold text-bone-100">
                   Termômetro da LRF indisponível
                 </h2>
-                <p className="text-xs text-slate-600 leading-relaxed">
+                <p className="text-xs text-bone-300 leading-relaxed">
                   {isSynthetic
                     ? "Sem relatório oficial no SICONFI, não é possível calcular o percentual de pessoal sobre a RCL nem avaliar os limites da Lei de Responsabilidade Fiscal."
                     : "O município não enviou o Relatório de Gestão Fiscal (RGF) ao SICONFI, e o RREO não permite recalcular o percentual de pessoal sobre a RCL. Por isso não atribuímos nota fiscal a esta cidade."}
@@ -487,8 +487,8 @@ export default function CityProfilePage({ params }: Props) {
             )}
 
             {/* Plain-Language Civic Context Box */}
-            <div className="bg-[#f6f3ee] rounded-xl p-5 border border-[#e5e0d8] space-y-2 text-xs text-slate-700 leading-relaxed">
-              <span className="font-serif font-bold text-civic-ink text-sm block">
+            <div className="bg-[#151a15] rounded-xl p-5 border border-[#252b23] space-y-2 text-xs text-bone-200 leading-relaxed">
+              <span className="font-serif font-bold text-bone-100 text-sm block">
                 Por que a LRF limita o gasto com pessoal?
               </span>
               <p>

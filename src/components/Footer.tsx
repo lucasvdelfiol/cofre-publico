@@ -14,24 +14,24 @@ export default function Footer() {
     : null;
 
   return (
-    <footer className="mt-24 border-t border-[#e7e2d9] bg-[#f6f3ee] text-slate-700">
-      <div className="max-w-6xl mx-auto px-4 sm:px-6 py-12">
-        <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
-          <div className="md:col-span-2 space-y-3">
-            <div className="flex items-center gap-2.5">
-              <div className="w-7 h-7 rounded bg-civic-ink text-white flex items-center justify-center">
-                <Landmark className="w-3.5 h-3.5 text-[#ede7dd]" />
-              </div>
-              <span className="font-serif font-bold text-base text-civic-ink">
+    <footer className="mt-24 border-t-2 border-acid bg-ink-950 text-bone-300">
+      <div className="mx-auto max-w-6xl px-4 py-14 sm:px-6">
+        <div className="grid grid-cols-1 gap-10 md:grid-cols-4">
+          <div className="space-y-4 md:col-span-2">
+            <Link href="/" className="flex items-center gap-2.5">
+              <span className="flex h-8 w-8 items-center justify-center border border-acid/70 text-acid">
+                <Landmark className="h-3.5 w-3.5" />
+              </span>
+              <span className="font-serif text-lg font-bold tracking-tight text-bone-50">
                 Cofre Público
               </span>
-            </div>
-            <p className="text-xs sm:text-sm text-slate-600 leading-relaxed max-w-md">
+            </Link>
+            <p className="max-w-md text-xs leading-relaxed text-bone-400 sm:text-sm">
               Iniciativa de controle social e transparência cívica sem fins lucrativos.
               Os dados são extraídos dos relatórios oficiais RREO e RGF enviados pelos municípios
               ao Sistema de Informações Contábeis e Fiscais do Setor Público Brasileiro (SICONFI/STN).
             </p>
-            <p className="text-xs text-slate-500 pt-1">
+            <p className="max-w-md border-l border-ink-500 pl-3 font-mono text-[11px] leading-relaxed text-bone-500">
               Arquitetura Jamstack estática, sem servidores de banco de dados ativos e custo zero de infraestrutura.
               {metadata
                 ? ` ${metadata.real_records.toLocaleString("pt-BR")} municípios têm dados oficiais; ` +
@@ -41,37 +41,37 @@ export default function Footer() {
           </div>
 
           <div>
-            <h3 className="font-sans font-semibold text-civic-ink text-xs uppercase tracking-wider mb-3">
+            <h3 className="mb-4 border-b border-ink-600 pb-2 font-mono text-[10px] uppercase tracking-label text-bone-500">
               Navegação
             </h3>
-            <ul className="space-y-2 text-xs sm:text-sm text-slate-600">
+            <ul className="space-y-2.5 text-xs text-bone-300 sm:text-sm">
               <li>
-                <Link href="/" className="hover:text-civic-ink hover:underline">
+                <Link href="/" className="transition-colors hover:text-acid">
                   Buscar Municípios
                 </Link>
               </li>
               <li>
-                <Link href="/comparar/" className="hover:text-civic-ink hover:underline">
+                <Link href="/comparar/" className="transition-colors hover:text-acid">
                   Comparador Lado a Lado
                 </Link>
               </li>
               <li>
-                <Link href="/dicionario/" className="hover:text-civic-ink hover:underline">
+                <Link href="/dicionario/" className="transition-colors hover:text-acid">
                   Dicionário Orçamentário Cidadão
                 </Link>
               </li>
               <li>
-                <Link href="/sobre/" className="hover:text-civic-ink hover:underline">
+                <Link href="/sobre/" className="transition-colors hover:text-acid">
                   Metodologia e Fontes dos Dados
                 </Link>
               </li>
               <li>
-                <Link href="/cidade/3518800/" className="hover:text-civic-ink hover:underline">
+                <Link href="/cidade/3518800/" className="transition-colors hover:text-acid">
                   Raio-X: Guarulhos (SP)
                 </Link>
               </li>
               <li>
-                <Link href="/cidade/3550308/" className="hover:text-civic-ink hover:underline">
+                <Link href="/cidade/3550308/" className="transition-colors hover:text-acid">
                   Raio-X: São Paulo (SP)
                 </Link>
               </li>
@@ -79,16 +79,16 @@ export default function Footer() {
           </div>
 
           <div>
-            <h3 className="font-sans font-semibold text-civic-ink text-xs uppercase tracking-wider mb-3">
+            <h3 className="mb-4 border-b border-ink-600 pb-2 font-mono text-[10px] uppercase tracking-label text-bone-500">
               Fontes Oficiais
             </h3>
-            <ul className="space-y-2 text-xs sm:text-sm text-slate-600">
+            <ul className="space-y-2.5 text-xs text-bone-300 sm:text-sm">
               <li>
                 <a
                   href="https://siconfi.tesouro.gov.br/"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="hover:text-civic-ink hover:underline"
+                  className="transition-colors hover:text-acid"
                 >
                   SICONFI / Tesouro Nacional
                 </a>
@@ -98,7 +98,7 @@ export default function Footer() {
                   href="https://www.ibge.gov.br/"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="hover:text-civic-ink hover:underline"
+                  className="transition-colors hover:text-acid"
                 >
                   IBGE (Censo Demográfico)
                 </a>
@@ -108,7 +108,7 @@ export default function Footer() {
                   href="https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="hover:text-civic-ink hover:underline"
+                  className="transition-colors hover:text-acid"
                 >
                   Lei Complementar nº 101/2000 (LRF)
                 </a>
@@ -118,12 +118,12 @@ export default function Footer() {
                   href="https://github.com/lucasvdelfiol/cofre-publico"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="hover:text-civic-ink hover:underline"
+                  className="transition-colors hover:text-acid"
                 >
                   Código-fonte e pipeline (GitHub)
                 </a>
               </li>
-              <li className="pt-2 text-[11px] text-slate-500 font-mono leading-relaxed">
+              <li className="pt-2 font-mono text-[11px] leading-relaxed text-bone-500">
                 Extração mensal do SICONFI
                 {updatedLabel ? ` • última coleta em ${updatedLabel}` : ""}
               </li>
@@ -131,11 +131,9 @@ export default function Footer() {
           </div>
         </div>
 
-        <div className="mt-10 pt-6 border-t border-[#e2ddd3] flex flex-col sm:flex-row items-center justify-between text-xs text-slate-500 gap-3">
+        <div className="mt-12 flex flex-col items-center justify-between gap-3 border-t border-ink-600 pt-6 font-mono text-[10px] uppercase tracking-label text-bone-500 sm:flex-row">
           <p>Projeto de código aberto (Licença MIT). Dados públicos de livre reprodução.</p>
-          <p className="font-mono text-[11px] text-slate-500">
-            Next.js SSG + JSON por município + Parquet
-          </p>
+          <p>Next.js SSG + JSON por município + Parquet</p>
         </div>
       </div>
     </footer>

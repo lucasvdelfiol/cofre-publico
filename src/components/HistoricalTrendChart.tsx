@@ -46,25 +46,25 @@ export default function HistoricalTrendChart({ trend, cityName }: Props) {
   ).toFixed(1);
 
   return (
-    <div className="bg-white rounded-xl p-6 border border-[#e5e0d8] shadow-xs">
-      <div className="flex flex-col sm:flex-row sm:items-baseline justify-between pb-4 border-b border-[#f0ede6] gap-2">
+    <div className="bg-ink-850 rounded-xl p-6 border border-[#252b23] shadow-xs">
+      <div className="flex flex-col sm:flex-row sm:items-baseline justify-between pb-4 border-b border-[#252b23] gap-2">
         <div>
-          <h3 className="font-serif font-bold text-civic-ink text-base sm:text-lg">
+          <h3 className="font-serif font-bold text-bone-100 text-base sm:text-lg">
             Série Histórica por Habitante ({firstYear.year}–{lastYear.year})
           </h3>
-          <p className="text-xs text-slate-500 mt-0.5">
+          <p className="text-xs text-bone-400 mt-0.5">
             Crescimento nominal acumulado de {growthPct}% no período para {cityName}
           </p>
         </div>
 
         <div className="flex items-center gap-4 text-xs font-sans">
           <div className="flex items-center gap-1.5">
-            <span className="w-2.5 h-2.5 rounded-full bg-civic-ink inline-block" />
-            <span className="text-slate-700">Gasto Total</span>
+            <span className="w-2.5 h-2.5 rounded-full bg-acid inline-block" />
+            <span className="text-bone-200">Gasto Total</span>
           </div>
           <div className="flex items-center gap-1.5">
-            <span className="w-2.5 h-2.5 rounded-full bg-[#1c5a38] inline-block" />
-            <span className="text-slate-700">Saúde Pública</span>
+            <span className="w-2.5 h-2.5 rounded-full bg-[#8ce99a] inline-block" />
+            <span className="text-bone-200">Saúde Pública</span>
           </div>
         </div>
       </div>
@@ -82,14 +82,14 @@ export default function HistoricalTrendChart({ trend, cityName }: Props) {
                   y1={y}
                   x2={width - padding.right}
                   y2={y}
-                  stroke="#f0ede6"
+                  stroke="#252b23"
                   strokeWidth="1"
                 />
                 <text
                   x={padding.left - 8}
                   y={y + 3.5}
                   textAnchor="end"
-                  className="text-[10px] fill-slate-400 font-mono"
+                  className="text-[10px] fill-bone-500 font-mono"
                 >
                   {formatBRL(val, true)}
                 </text>
@@ -101,7 +101,7 @@ export default function HistoricalTrendChart({ trend, cityName }: Props) {
           <polyline
             points={totalPoints}
             fill="none"
-            stroke="#0c1829"
+            stroke="#d8f45c"
             strokeWidth="2.5"
             strokeLinecap="round"
             strokeLinejoin="round"
@@ -111,7 +111,7 @@ export default function HistoricalTrendChart({ trend, cityName }: Props) {
           <polyline
             points={healthPoints}
             fill="none"
-            stroke="#1c5a38"
+            stroke="#8ce99a"
             strokeWidth="2"
             strokeDasharray="4 3"
             strokeLinecap="round"
@@ -137,7 +137,7 @@ export default function HistoricalTrendChart({ trend, cityName }: Props) {
                   y={padding.top + chartH + 18}
                   textAnchor="middle"
                   className={`text-xs font-mono ${
-                    isHovered ? "fill-civic-ink font-bold" : "fill-slate-500"
+                    isHovered ? "fill-acid font-bold" : "fill-bone-400"
                   }`}
                 >
                   {item.year}
@@ -147,8 +147,8 @@ export default function HistoricalTrendChart({ trend, cityName }: Props) {
                   cx={x}
                   cy={yTotal}
                   r={isHovered ? 5 : 3.5}
-                  fill="#ffffff"
-                  stroke="#0c1829"
+                  fill="#0b0d0b"
+                  stroke="#d8f45c"
                   strokeWidth="2"
                 />
 
@@ -156,8 +156,8 @@ export default function HistoricalTrendChart({ trend, cityName }: Props) {
                   cx={x}
                   cy={yHealth}
                   r={isHovered ? 4.5 : 3}
-                  fill="#ffffff"
-                  stroke="#1c5a38"
+                  fill="#0b0d0b"
+                  stroke="#8ce99a"
                   strokeWidth="2"
                 />
               </g>
@@ -166,13 +166,13 @@ export default function HistoricalTrendChart({ trend, cityName }: Props) {
         </svg>
 
         {activeIdx !== null && (
-          <div className="mt-3 p-3 bg-[#f6f3ee] rounded border border-[#e5e0d8] text-xs flex items-center justify-between font-mono">
-            <span className="font-bold text-civic-ink">
+          <div className="mt-3 p-3 bg-[#151a15] rounded border border-[#252b23] text-xs flex items-center justify-between font-mono">
+            <span className="font-bold text-bone-100">
               Ano {trend[activeIdx].year}:
             </span>
             <div className="flex gap-4">
               <span>Gasto Total: {formatBRL(trend[activeIdx].total_spent_per_capita)}/hab</span>
-              <span className="text-[#1c5a38]">Saúde: {formatBRL(trend[activeIdx].health_per_capita)}/hab</span>
+              <span className="text-[#8ce99a]">Saúde: {formatBRL(trend[activeIdx].health_per_capita)}/hab</span>
             </div>
           </div>
         )}

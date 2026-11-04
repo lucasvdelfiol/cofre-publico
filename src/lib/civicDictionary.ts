@@ -87,40 +87,40 @@ export function getLRFStatus(percentage: number): LRFInfo {
       status: "normal",
       label: "Normal",
       description: "Folha de pagamento sob controle, bem abaixo do teto da Lei de Responsabilidade Fiscal.",
-      color: "#22c55e",
-      bgLight: "bg-emerald-500/10",
-      border: "border-emerald-500/30",
-      textColor: "text-emerald-500",
+      color: "#8ce99a",
+      bgLight: "bg-mint/10",
+      border: "border-mint/30",
+      textColor: "text-mint",
     };
   } else if (percentage <= 51.3) {
     return {
       status: "alerta",
       label: "Alerta LRF (48,6% a 51,3%)",
       description: "Tribunal de Contas notifica a prefeitura. Indicador exige contenção de novas contratações.",
-      color: "#eab308",
-      bgLight: "bg-amber-500/10",
-      border: "border-amber-500/30",
-      textColor: "text-amber-500",
+      color: "#f5c451",
+      bgLight: "bg-gold/10",
+      border: "border-gold/30",
+      textColor: "text-gold",
     };
   } else if (percentage <= 54.0) {
     return {
       status: "prudencial",
       label: "Limite Prudencial (51,3% a 54,0%)",
       description: "Prefeitura proibida por lei de conceder reajustes, criar cargos, fazer horas extras ou novas nomeações.",
-      color: "#f97316",
-      bgLight: "bg-orange-500/10",
-      border: "border-orange-500/30",
-      textColor: "text-orange-500",
+      color: "#ff9a62",
+      bgLight: "bg-ember/10",
+      border: "border-ember/30",
+      textColor: "text-ember",
     };
   } else {
     return {
       status: "critico",
       label: "Crítico / Ilegal (> 54,0%)",
       description: "Infração à LRF. Risco de rejeição de contas, perda de transferências voluntárias e improbidade.",
-      color: "#ef4444",
-      bgLight: "bg-red-500/10",
-      border: "border-red-500/30",
-      textColor: "text-red-500",
+      color: "#ff5c5c",
+      bgLight: "bg-[#ff5c5c]/10",
+      border: "border-[#ff5c5c]/30",
+      textColor: "text-[#ff5c5c]",
     };
   }
 }

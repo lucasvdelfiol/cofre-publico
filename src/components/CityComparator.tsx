@@ -85,7 +85,7 @@ export default function CityComparator({
     setSelectedCodes(selectedCodes.filter((c) => c !== code));
   };
 
-  const cityBarColors = ["bg-[#0c1829]", "bg-[#1c5a38]", "bg-[#1e3a5f]"];
+  const cityBarColors = ["bg-[#d8f45c]", "bg-[#8ce99a]", "bg-[#f5c451]"];
 
   // Tailwind only generates classes it can see literally, so the column count
   // must come from a lookup instead of an interpolated class name.
@@ -132,12 +132,12 @@ export default function CityComparator({
   return (
     <div className="space-y-8">
       {/* Selector Toolbar */}
-      <div className="bg-white rounded-xl p-5 border border-[#e5e0d8] shadow-xs flex flex-col md:flex-row md:items-center justify-between gap-4">
+      <div className="bg-ink-850 rounded-xl p-5 border border-[#252b23] shadow-xs flex flex-col md:flex-row md:items-center justify-between gap-4">
         <div>
-          <h2 className="font-serif font-bold text-lg text-civic-ink">
+          <h2 className="font-serif font-bold text-lg text-bone-100">
             Comparação Lado a Lado
           </h2>
-          <p className="text-xs text-slate-500 mt-0.5">
+          <p className="text-xs text-bone-400 mt-0.5">
             Analise disparidades fiscais e prioridades setoriais entre municípios
           </p>
         </div>
@@ -148,7 +148,7 @@ export default function CityComparator({
               aria-label="Escolher município para adicionar à comparação"
               value={addingCode}
               onChange={(e) => setAddingCode(e.target.value)}
-              className="text-xs sm:text-sm bg-[#fbfaf8] border border-[#d8d2c6] rounded px-3 py-2 text-slate-700 focus:outline-none focus:border-civic-ink"
+              className="text-xs sm:text-sm bg-[#0f120f] border border-[#333a2e] px-3 py-2 text-bone-200 focus:outline-none focus:border-acid"
             >
               <option value="">Adicionar município...</option>
               {allCities
@@ -163,7 +163,7 @@ export default function CityComparator({
               type="button"
               onClick={() => handleAddCity(addingCode)}
               disabled={!addingCode}
-              className="inline-flex items-center gap-1 px-3 py-2 rounded bg-civic-ink text-white font-sans text-xs font-semibold hover:bg-slate-800 transition-colors disabled:opacity-40"
+              className="inline-flex items-center gap-1 px-3 py-2 bg-acid text-ink-950 font-mono text-[10px] uppercase tracking-label font-semibold hover:bg-acid-soft transition-colors disabled:opacity-40"
             >
               <Plus className="w-3.5 h-3.5" />
               Adicionar
@@ -175,14 +175,14 @@ export default function CityComparator({
       {notice && (
         <p
           role="status"
-          className="text-xs text-amber-900 bg-amber-50 border border-amber-200 rounded-lg px-3 py-2"
+          className="text-xs text-bone-100 bg-gold/10 border border-gold/30 rounded-lg px-3 py-2"
         >
           {notice}
         </p>
       )}
 
       {loading ? (
-        <div className="p-12 text-center text-slate-500 bg-white rounded-xl border border-[#e5e0d8] text-sm">
+        <div className="p-12 text-center text-bone-400 bg-ink-850 rounded-xl border border-[#252b23] text-sm">
           Carregando dados comparativos...
         </div>
       ) : (
@@ -197,18 +197,18 @@ export default function CityComparator({
               return (
                 <div
                   key={city.ibge_code}
-                  className="bg-white rounded-xl p-5 border border-[#e5e0d8] shadow-xs flex flex-col justify-between"
+                  className="bg-ink-850 rounded-xl p-5 border border-[#252b23] shadow-xs flex flex-col justify-between"
                 >
                   <div>
-                    <div className="flex items-start justify-between pb-3 border-b border-[#f0ede6]">
+                    <div className="flex items-start justify-between pb-3 border-b border-[#252b23]">
                       <div>
-                        <span className="text-[11px] font-mono text-slate-400">
+                        <span className="text-[11px] font-mono text-bone-500">
                           Município {idx + 1}
                         </span>
-                        <h3 className="font-serif text-2xl font-bold text-civic-ink mt-0.5">
+                        <h3 className="font-serif text-2xl font-bold text-bone-100 mt-0.5">
                           {city.city_name}
                         </h3>
-                        <p className="text-xs text-slate-500 font-mono">
+                        <p className="text-xs text-bone-400 font-mono">
                           {city.uf} • IBGE {city.ibge_code} • Exercício {city.fiscal_year}
                         </p>
                       </div>
@@ -217,7 +217,7 @@ export default function CityComparator({
                         <button
                           type="button"
                           onClick={() => handleRemoveCity(city.ibge_code)}
-                          className="p-1 text-slate-400 hover:text-red-700"
+                          className="p-1 text-bone-500 hover:text-[#ff8f78]"
                           title="Remover município"
                           aria-label={`Remover ${city.city_name} da comparação`}
                         >
@@ -228,19 +228,19 @@ export default function CityComparator({
 
                     <div className="mt-4 space-y-2.5 text-xs">
                       <div className="flex justify-between">
-                        <span className="text-slate-500">População:</span>
-                        <span className="font-mono font-semibold text-slate-800">
+                        <span className="text-bone-400">População:</span>
+                        <span className="font-mono font-semibold text-bone-100">
                           {formatNumber(city.population)} hab.
                         </span>
                       </div>
                       <div className="flex justify-between">
-                        <span className="text-slate-500">Orçamento Anual:</span>
-                        <span className="font-mono font-semibold text-slate-800">
+                        <span className="text-bone-400">Orçamento Anual:</span>
+                        <span className="font-mono font-semibold text-bone-100">
                           {formatBRL(city.summary.total_expense, true)}
                         </span>
                       </div>
                       <div className="flex justify-between">
-                        <span className="text-slate-500">Gasto Pessoal (LRF):</span>
+                        <span className="text-bone-400">Gasto Pessoal (LRF):</span>
                         <span
                           className="font-mono font-semibold"
                           style={{ color: lrf.color }}
@@ -253,10 +253,10 @@ export default function CityComparator({
                     </div>
                   </div>
 
-                  <div className="mt-5 pt-3 border-t border-[#f0ede6]">
+                  <div className="mt-5 pt-3 border-t border-[#252b23]">
                     <Link
                       href={`/cidade/${city.ibge_code}/`}
-                      className="block text-center text-xs font-semibold py-2 rounded bg-[#f6f3ee] hover:bg-[#ede7dd] text-civic-ink transition-colors"
+                      className="block text-center text-xs font-semibold py-2 border border-ink-600 text-bone-200 transition-colors hover:border-acid hover:text-acid"
                     >
                       Abrir Raio-X de {city.city_name}
                     </Link>
@@ -267,24 +267,24 @@ export default function CityComparator({
           </div>
 
           {/* Grouped Comparative Metrics */}
-          <div className="bg-white rounded-xl p-6 border border-[#e5e0d8] shadow-xs space-y-6">
-            <div className="border-b border-[#f0ede6] pb-3">
-              <h3 className="font-serif font-bold text-civic-ink text-base">
+          <div className="bg-ink-850 rounded-xl p-6 border border-[#252b23] shadow-xs space-y-6">
+            <div className="border-b border-[#252b23] pb-3">
+              <h3 className="font-serif font-bold text-bone-100 text-base">
                 Métricas Per Capita Lado a Lado
               </h3>
-              <p className="text-xs text-slate-500 mt-0.5">
+              <p className="text-xs text-bone-400 mt-0.5">
                 Barras proporcionais calculadas em relação ao maior valor do grupo
               </p>
             </div>
 
             <div className="space-y-6">
               {comparisonMetrics.map((metric) => (
-                <div key={metric.label} className="space-y-2 p-3.5 bg-[#fbfaf8] rounded border border-[#f0ede6]">
+                <div key={metric.label} className="space-y-2 p-3.5 bg-[#0f120f] rounded border border-[#252b23]">
                   <div>
-                    <span className="font-semibold text-civic-ink text-xs sm:text-sm">
+                    <span className="font-semibold text-bone-100 text-xs sm:text-sm">
                       {metric.label}
                     </span>
-                    <span className="text-[11px] text-slate-500 block">
+                    <span className="text-[11px] text-bone-400 block">
                       {metric.sublabel}
                     </span>
                   </div>
@@ -298,16 +298,16 @@ export default function CityComparator({
                       return (
                         <div key={city.ibge_code} className="space-y-0.5">
                           <div className="flex justify-between text-xs">
-                            <span className="font-medium text-slate-700">
+                            <span className="font-medium text-bone-200">
                               {city.city_name} ({city.uf})
                             </span>
-                            <span className="font-mono font-bold text-civic-ink">
+                            <span className="font-mono font-bold text-bone-100">
                               {metric.format(val)}
                             </span>
                           </div>
-                          <div className="w-full bg-[#ede7dd] h-2 rounded-full overflow-hidden">
+                          <div className="w-full bg-ink-700 h-1.5 overflow-hidden">
                             <div
-                              className={`h-full rounded-full ${barBg}`}
+                              className={`h-full ${barBg}`}
                               style={{ width: `${Math.max(pct, 4)}%` }}
                             />
                           </div>

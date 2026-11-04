@@ -11,58 +11,64 @@ export default function DicionarioPage() {
 
   return (
     <div className="max-w-4xl mx-auto px-4 sm:px-6 py-12 space-y-10">
-      <div className="space-y-3 pb-6 border-b border-[#e7e2d9]">
-        <div className="text-xs font-mono text-slate-500 uppercase tracking-wider">
+      <div className="space-y-3 pb-6 border-b border-[#252b23]">
+        <div className="flex items-center gap-2 font-mono text-[10px] uppercase tracking-label text-bone-500">
+          <span className="h-1.5 w-1.5 bg-acid" />
           Transparência &amp; Educação Fiscal
         </div>
-        <h1 className="font-serif text-3xl sm:text-4xl font-bold text-civic-ink tracking-tight">
+        <h1 className="font-serif text-3xl sm:text-4xl font-bold text-bone-50 tracking-tight">
           Dicionário Cidadão
         </h1>
-        <p className="text-sm sm:text-base text-slate-600 leading-relaxed font-sans max-w-2xl">
+        <p className="text-sm sm:text-base text-bone-300 leading-relaxed font-sans max-w-2xl">
           A contabilidade pública foi historicamente escrita para técnicos. Este guia traduz o jargão
           oficial para o vocabulário da sua casa, permitindo que qualquer cidadão fiscalize as contas da sua cidade.
         </p>
       </div>
 
       {/* Quick Reference Table */}
-      <div className="bg-white rounded-xl p-6 border border-[#e5e0d8] shadow-xs space-y-4">
-        <h2 className="font-serif text-lg font-bold text-civic-ink">
-          Tabela Rápida de Equivalência
-        </h2>
+      <div className="border border-[#252b23] bg-ink-850 p-6 shadow-xs">
+        <div className="mb-4 flex items-baseline justify-between gap-4">
+          <h2 className="font-serif text-lg font-bold text-bone-100">
+            Tabela Rápida de Equivalência
+          </h2>
+          <span className="font-mono text-[10px] uppercase tracking-label text-bone-500">
+            01 / Glossário
+          </span>
+        </div>
         <div className="overflow-x-auto">
-          <table className="w-full text-left text-xs sm:text-sm">
-            <thead className="bg-[#f6f3ee] text-slate-700 font-semibold border-b border-[#e7e2d9]">
+          <table className="w-full min-w-[620px] text-left text-xs sm:text-sm">
+            <thead className="border-b border-ink-500 bg-ink-800 font-semibold text-bone-400">
               <tr>
-                <th className="py-2.5 px-3 font-mono">Termo Oficial Técnico</th>
-                <th className="py-2.5 px-3 font-semibold text-civic-ink">Tradução em Linguagem Simples</th>
-                <th className="py-2.5 px-3">Conceito Prático</th>
+                <th className="px-3 py-3 font-mono text-[10px] uppercase tracking-label">Termo Oficial Técnico</th>
+                <th className="px-3 py-3 font-mono text-[10px] uppercase tracking-label">Tradução em Linguagem Simples</th>
+                <th className="px-3 py-3 font-mono text-[10px] uppercase tracking-label">Conceito Prático</th>
               </tr>
             </thead>
-            <tbody className="divide-y divide-[#f0ede6]">
+            <tbody className="divide-y divide-[#252b23]">
               <tr>
-                <td className="py-2.5 px-3 font-mono text-slate-700">Dotação Atualizada</td>
-                <td className="py-2.5 px-3 font-semibold text-civic-ink">Orçamento Planejado</td>
-                <td className="py-2.5 px-3 text-slate-600">Limite máximo autorizado em lei para gastar no ano.</td>
+                <td className="py-2.5 px-3 font-mono text-bone-200">Dotação Atualizada</td>
+                <td className="py-2.5 px-3 font-semibold text-bone-100">Orçamento Planejado</td>
+                <td className="py-2.5 px-3 text-bone-300">Limite máximo autorizado em lei para gastar no ano.</td>
               </tr>
               <tr>
-                <td className="py-2.5 px-3 font-mono text-slate-700">Despesa Empenhada</td>
-                <td className="py-2.5 px-3 font-semibold text-civic-ink">Gasto Reservado / Contratado</td>
-                <td className="py-2.5 px-3 text-slate-600">Dinheiro separado para honrar um contrato assinado.</td>
+                <td className="py-2.5 px-3 font-mono text-bone-200">Despesa Empenhada</td>
+                <td className="py-2.5 px-3 font-semibold text-bone-100">Gasto Reservado / Contratado</td>
+                <td className="py-2.5 px-3 text-bone-300">Dinheiro separado para honrar um contrato assinado.</td>
               </tr>
               <tr>
-                <td className="py-2.5 px-3 font-mono text-slate-700">Despesa Liquidada / Paga</td>
-                <td className="py-2.5 px-3 font-semibold text-civic-ink">Gasto Efetivamente Pago</td>
-                <td className="py-2.5 px-3 text-slate-600">Serviço vistoriado, nota fiscal atestada e dinheiro transferido.</td>
+                <td className="py-2.5 px-3 font-mono text-bone-200">Despesa Liquidada / Paga</td>
+                <td className="py-2.5 px-3 font-semibold text-bone-100">Gasto Efetivamente Pago</td>
+                <td className="py-2.5 px-3 text-bone-300">Serviço vistoriado, nota fiscal atestada e dinheiro transferido.</td>
               </tr>
               <tr>
-                <td className="py-2.5 px-3 font-mono text-slate-700">Restos a Pagar</td>
-                <td className="py-2.5 px-3 font-semibold text-civic-ink">Contas de Anos Anteriores</td>
-                <td className="py-2.5 px-3 text-slate-600">Contas do ano anterior que rolaram para este exercício.</td>
+                <td className="py-2.5 px-3 font-mono text-bone-200">Restos a Pagar</td>
+                <td className="py-2.5 px-3 font-semibold text-bone-100">Contas de Anos Anteriores</td>
+                <td className="py-2.5 px-3 text-bone-300">Contas do ano anterior que rolaram para este exercício.</td>
               </tr>
               <tr>
-                <td className="py-2.5 px-3 font-mono text-slate-700">Receita Corrente Líquida (RCL)</td>
-                <td className="py-2.5 px-3 font-semibold text-civic-ink">Arrecadação Livre Disponível</td>
-                <td className="py-2.5 px-3 text-slate-600">A régua oficial usada para medir o teto legal de salários.</td>
+                <td className="py-2.5 px-3 font-mono text-bone-200">Receita Corrente Líquida (RCL)</td>
+                <td className="py-2.5 px-3 font-semibold text-bone-100">Arrecadação Livre Disponível</td>
+                <td className="py-2.5 px-3 text-bone-300">A régua oficial usada para medir o teto legal de salários.</td>
               </tr>
             </tbody>
           </table>
@@ -71,32 +77,39 @@ export default function DicionarioPage() {
 
       {/* Detailed Lexicon Cards */}
       <div className="space-y-6">
-        <h2 className="font-serif text-xl font-bold text-civic-ink">
-          Explicações Aprofundadas
-        </h2>
+        <div className="flex items-baseline justify-between gap-4">
+          <h2 className="font-serif text-xl font-bold text-bone-100">
+            Explicações Aprofundadas
+          </h2>
+          <span className="font-mono text-[10px] uppercase tracking-label text-bone-500">
+            02 / Verbete a verbete
+          </span>
+        </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
+        <div className="grid grid-cols-1 gap-5 md:grid-cols-2">
           {termsList.map(([key, term]) => (
             <div
               key={key}
-              className="bg-white rounded-xl p-5 border border-[#e5e0d8] shadow-xs space-y-3"
+              className="space-y-3 border border-[#252b23] bg-ink-850 p-5 shadow-xs transition-colors hover:border-ink-500"
             >
-              <div className="border-b border-[#f0ede6] pb-2">
-                <span className="text-[11px] font-mono text-slate-400 block">
-                  Termo Oficial: {term.technical}
+              <div className="border-b border-[#252b23] pb-2">
+                <span className="block font-mono text-[10px] uppercase tracking-label text-bone-500">
+                  Termo oficial: {term.technical}
                 </span>
-                <h3 className="font-serif text-lg font-bold text-civic-ink mt-0.5">
+                <h3 className="mt-1 font-serif text-lg font-bold text-bone-100">
                   {term.citizen}
                 </h3>
               </div>
 
-              <p className="text-xs sm:text-sm text-slate-600 leading-relaxed font-sans">
+              <p className="text-xs leading-relaxed text-bone-300 sm:text-sm">
                 {term.fullExplanation}
               </p>
 
               {term.practicalExample && (
-                <div className="p-3 bg-[#f6f3ee] border border-[#e7e2d9] rounded text-xs text-slate-700">
-                  <span className="font-semibold block mb-0.5 text-civic-ink">Exemplo prático:</span>
+                <div className="border border-ink-600 bg-ink-900 p-3 text-xs text-bone-200">
+                  <span className="mb-0.5 block font-mono text-[10px] uppercase tracking-label text-acid">
+                    Exemplo prático
+                  </span>
                   {term.practicalExample}
                 </div>
               )}

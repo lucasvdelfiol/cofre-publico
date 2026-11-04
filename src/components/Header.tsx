@@ -13,36 +13,38 @@ export default function Header() {
     { href: "/", label: "Início", compact: true },
     { href: "/cidade/3518800/", label: "Raio-X", compact: false },
     { href: "/comparar/", label: "Comparador", compact: false },
-    { href: "/dicionario/", label: "Dicionário", compact: false },
+    { href: "/dicionario/", label: "Dicionário", compact: true },
     { href: "/sobre/", label: "Fontes", compact: true },
   ];
 
   return (
-    <header className="sticky top-0 z-50 bg-[#fbfaf8]/95 backdrop-blur-sm border-b border-[#e7e2d9] transition-all">
-      <div className="max-w-6xl mx-auto px-4 sm:px-6">
-        <div className="flex items-center justify-between h-16 sm:h-18">
-          {/* Logo / Masthead */}
-          <Link href="/" className="flex items-center gap-3 group">
-            <div className="w-9 h-9 rounded-md bg-civic-ink text-white flex items-center justify-center shadow-xs">
-              <Landmark className="w-4 h-4 text-[#ede7dd]" />
-            </div>
-            <div>
-              <div className="flex items-baseline gap-2">
-                <span className="font-serif font-bold text-lg sm:text-xl tracking-tight text-civic-ink">
+    <header className="sticky top-0 z-50 border-b border-ink-600 bg-ink-950/95 backdrop-blur-md">
+      <div className="h-[2px] w-full bg-acid" />
+      <div className="mx-auto max-w-6xl px-4 sm:px-6">
+        <div className="flex h-16 items-center justify-between gap-4 sm:h-[4.5rem]">
+          {/* Masthead */}
+          <Link href="/" className="group flex items-center gap-3">
+            <span className="relative flex h-9 w-9 shrink-0 items-center justify-center border border-acid/70 text-acid transition-colors group-hover:bg-acid group-hover:text-ink-950">
+              <Landmark className="h-4 w-4" />
+              <span className="absolute -bottom-px -right-px h-1.5 w-1.5 bg-acid transition-colors group-hover:bg-ink-950" />
+            </span>
+            <span className="leading-none">
+              <span className="flex items-baseline gap-2">
+                <span className="font-serif text-lg font-bold tracking-tight text-bone-50 sm:text-xl">
                   Cofre Público
                 </span>
-                <span className="text-[11px] font-sans font-medium text-slate-500 hidden sm:inline">
-                  Brasil
+                <span className="hidden font-mono text-[9px] uppercase tracking-masthead text-bone-500 sm:inline">
+                  BR
                 </span>
-              </div>
-              <p className="text-[11px] text-slate-500 hidden lg:block whitespace-nowrap">
-                Contas municipais em linguagem simples e métricas por habitante
-              </p>
-            </div>
+              </span>
+              <span className="mt-1 block font-mono text-[9px] uppercase tracking-label text-bone-500">
+                Arquivo fiscal · Brasil
+              </span>
+            </span>
           </Link>
 
           {/* Navigation */}
-          <nav aria-label="Navegação principal" className="flex items-center gap-1 sm:gap-2">
+          <nav aria-label="Navegação principal" className="flex items-center gap-0.5 sm:gap-1">
             {navLinks.map((item) => {
               const isActive =
                 item.href === "/"
@@ -53,10 +55,10 @@ export default function Header() {
                 <Link
                   key={item.href}
                   href={item.href}
-                  className={`${item.compact ? "hidden sm:inline-block" : ""} whitespace-nowrap px-2.5 sm:px-3 py-1.5 rounded text-xs sm:text-sm transition-colors ${
+                  className={`${item.compact ? "hidden sm:inline-block" : ""} whitespace-nowrap px-2.5 py-2 font-mono text-[10px] uppercase tracking-label transition-colors sm:px-3 sm:text-[11px] ${
                     isActive
-                      ? "bg-[#ede7dd] text-civic-ink font-semibold"
-                      : "text-slate-600 hover:text-civic-ink hover:bg-[#f3ede3]"
+                      ? "bg-ink-800 text-acid"
+                      : "text-bone-400 hover:bg-ink-800 hover:text-bone-50"
                   }`}
                 >
                   {item.label}

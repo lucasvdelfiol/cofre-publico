@@ -94,14 +94,15 @@ export default function SobrePage() {
 
   return (
     <div className="max-w-4xl mx-auto px-4 sm:px-6 py-12 space-y-10">
-      <div className="space-y-3 pb-6 border-b border-[#e7e2d9]">
-        <div className="text-xs font-mono text-slate-500 uppercase tracking-wider">
+      <div className="space-y-3 pb-6 border-b border-[#252b23]">
+        <div className="flex items-center gap-2 font-mono text-[10px] uppercase tracking-label text-bone-500">
+          <span className="h-1.5 w-1.5 bg-acid" />
           Transparência &amp; Método
         </div>
-        <h1 className="font-serif text-3xl sm:text-4xl font-bold text-civic-ink tracking-tight">
+        <h1 className="font-serif text-3xl sm:text-4xl font-bold text-bone-50 tracking-tight">
           De onde vêm os números
         </h1>
-        <p className="text-sm sm:text-base text-slate-600 leading-relaxed font-sans max-w-2xl">
+        <p className="text-sm sm:text-base text-bone-300 leading-relaxed font-sans max-w-2xl">
           O Cofre Público não estima nem opina: ele reorganiza relatórios que as prefeituras
           são obrigadas a enviar ao Tesouro Nacional. Esta página explica cada fonte, cada
           cálculo e o que ainda falta.
@@ -110,27 +111,27 @@ export default function SobrePage() {
 
       {/* Sources */}
       <section className="space-y-4">
-        <h2 className="font-serif text-xl font-bold text-civic-ink flex items-center gap-2">
-          <Database className="w-4 h-4 text-slate-500" />
+        <h2 className="font-serif text-xl font-bold text-bone-100 flex items-center gap-2">
+          <Database className="w-4 h-4 text-bone-400" />
           Fontes oficiais
         </h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
           {SOURCES.map((source) => (
             <div
               key={source.name}
-              className="bg-white rounded-xl p-5 border border-[#e5e0d8] shadow-xs space-y-1.5"
+              className="bg-ink-850 rounded-xl p-5 border border-[#252b23] shadow-xs space-y-1.5"
             >
-              <span className="text-[11px] font-mono text-slate-400 block">
+              <span className="text-[11px] font-mono text-bone-500 block">
                 {source.org}
               </span>
-              <h3 className="font-serif font-bold text-civic-ink text-sm">
+              <h3 className="font-serif font-bold text-bone-100 text-sm">
                 {source.name}
               </h3>
-              <p className="text-xs text-slate-600 leading-relaxed">{source.what}</p>
+              <p className="text-xs text-bone-300 leading-relaxed">{source.what}</p>
             </div>
           ))}
         </div>
-        <p className="text-xs text-slate-500 leading-relaxed">
+        <p className="text-xs text-bone-400 leading-relaxed">
           Os dados brutos são baixados da API pública do SICONFI
           (<span className="font-mono">apidatalake.tesouro.gov.br/ords/siconfi</span>), do
           portal de dados do IBGE e dos microdados do Censo Escolar do INEP. Nenhum valor é
@@ -140,25 +141,25 @@ export default function SobrePage() {
 
       {/* Method table */}
       <section className="space-y-4">
-        <h2 className="font-serif text-xl font-bold text-civic-ink">
+        <h2 className="font-serif text-xl font-bold text-bone-100">
           Como cada indicador é calculado
         </h2>
-        <div className="bg-white rounded-xl border border-[#e5e0d8] shadow-xs overflow-hidden">
+        <div className="bg-ink-850 rounded-xl border border-[#252b23] shadow-xs overflow-hidden">
           <div className="overflow-x-auto">
             <table className="w-full text-left text-xs sm:text-sm">
-              <thead className="bg-[#f6f3ee] text-slate-700 font-semibold border-b border-[#e7e2d9]">
+              <thead className="bg-[#151a15] text-bone-200 font-semibold border-b border-[#252b23]">
                 <tr>
                   <th className="py-2.5 px-3 font-sans whitespace-nowrap">Indicador</th>
                   <th className="py-2.5 px-3 font-sans">Cálculo</th>
                 </tr>
               </thead>
-              <tbody className="divide-y divide-[#f0ede6]">
+              <tbody className="divide-y divide-[#252b23]">
                 {METHOD.map((row) => (
                   <tr key={row.metric}>
-                    <td className="py-2.5 px-3 font-semibold text-civic-ink align-top">
+                    <td className="py-2.5 px-3 font-semibold text-bone-100 align-top">
                       {row.metric}
                     </td>
-                    <td className="py-2.5 px-3 text-slate-600 leading-relaxed">
+                    <td className="py-2.5 px-3 text-bone-300 leading-relaxed">
                       {row.formula}
                     </td>
                   </tr>
@@ -171,14 +172,14 @@ export default function SobrePage() {
 
       {/* Limitations */}
       <section className="space-y-4">
-        <h2 className="font-serif text-xl font-bold text-civic-ink flex items-center gap-2">
-          <TriangleAlert className="w-4 h-4 text-amber-600" />
+        <h2 className="font-serif text-xl font-bold text-bone-100 flex items-center gap-2">
+          <TriangleAlert className="w-4 h-4 text-gold" />
           O que os dados não dizem
         </h2>
 
-        <div className="space-y-3 text-xs sm:text-sm text-slate-600 leading-relaxed">
-          <div className="p-4 bg-white rounded-xl border border-[#e5e0d8] shadow-xs">
-            <strong className="block text-civic-ink mb-1">
+        <div className="space-y-3 text-xs sm:text-sm text-bone-300 leading-relaxed">
+          <div className="p-4 bg-ink-850 rounded-xl border border-[#252b23] shadow-xs">
+            <strong className="block text-bone-100 mb-1">
               Pessoal da Educação não é só magistério
             </strong>
             A API do SICONFI não publica o recorte exclusivo de professores: o RREO
@@ -187,15 +188,15 @@ export default function SobrePage() {
             função Educação, não apenas o magistério.
           </div>
 
-          <div className="p-4 bg-white rounded-xl border border-[#e5e0d8] shadow-xs">
-            <strong className="block text-civic-ink mb-1">
+          <div className="p-4 bg-ink-850 rounded-xl border border-[#252b23] shadow-xs">
+            <strong className="block text-bone-100 mb-1">
               Empenhado não é pago
             </strong>
             O RREO mostra despesas <em>empenhadas</em>: o valor foi reservado para um contrato
             ou compra. Parte pode ser paga só no ano seguinte, como restos a pagar.
           </div>
 
-          <div className="p-4 bg-amber-50 rounded-xl border border-amber-200 text-amber-900">
+          <div className="p-4 bg-gold/10 rounded-xl border border-gold/30 text-bone-100">
             <strong className="block mb-1">
               Municípios sem relatório publicado
             </strong>
@@ -228,8 +229,8 @@ export default function SobrePage() {
             )}
           </div>
 
-          <div className="p-4 bg-white rounded-xl border border-[#e5e0d8] shadow-xs">
-            <strong className="block text-civic-ink mb-1">
+          <div className="p-4 bg-ink-850 rounded-xl border border-[#252b23] shadow-xs">
+            <strong className="block text-bone-100 mb-1">
               Relatórios parciais e de anos anteriores
             </strong>
             Quando o relatório de fechamento ainda não foi enviado, a página mostra o
@@ -238,8 +239,8 @@ export default function SobrePage() {
             aplica.
           </div>
 
-          <div className="p-4 bg-white rounded-xl border border-[#e5e0d8] shadow-xs">
-            <strong className="block text-civic-ink mb-1">
+          <div className="p-4 bg-ink-850 rounded-xl border border-[#252b23] shadow-xs">
+            <strong className="block text-bone-100 mb-1">
               Percentuais de pessoal acima de 100% da RCL
             </strong>
             Alguns municípios declaram no RGF um gasto com pessoal maior que toda a receita
@@ -251,59 +252,59 @@ export default function SobrePage() {
 
       {/* Update cadence + downloads */}
       <section className="grid grid-cols-1 md:grid-cols-2 gap-5">
-        <div className="bg-[#f6f3ee] rounded-xl p-6 border border-[#e5e0d8] space-y-2">
-          <h2 className="font-serif font-bold text-civic-ink flex items-center gap-2">
-            <RefreshCw className="w-4 h-4 text-slate-500" />
+        <div className="bg-[#151a15] rounded-xl p-6 border border-[#252b23] space-y-2">
+          <h2 className="font-serif font-bold text-bone-100 flex items-center gap-2">
+            <RefreshCw className="w-4 h-4 text-bone-400" />
             Atualização
           </h2>
-          <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
+          <p className="text-xs sm:text-sm text-bone-300 leading-relaxed">
             A coleta roda mensalmente a partir da API do SICONFI e os arquivos do site são
             regerados por completo. O site em si é estático e publicado no GitHub Pages.
           </p>
-          <p className="text-[11px] font-mono text-slate-500">
+          <p className="text-[11px] font-mono text-bone-400">
             {updatedLabel ? `Última coleta: ${updatedLabel}` : "Última coleta: não informada"}
             {metadata ? ` • exercício de referência ${metadata.target_year}` : ""}
           </p>
         </div>
 
-        <div className="bg-white rounded-xl p-6 border border-[#e5e0d8] shadow-xs space-y-2">
-          <h2 className="font-serif font-bold text-civic-ink flex items-center gap-2">
-            <ShieldCheck className="w-4 h-4 text-[#1c5a38]" />
+        <div className="bg-ink-850 rounded-xl p-6 border border-[#252b23] shadow-xs space-y-2">
+          <h2 className="font-serif font-bold text-bone-100 flex items-center gap-2">
+            <ShieldCheck className="w-4 h-4 text-[#8ce99a]" />
             Baixe e reutilize
           </h2>
-          <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
+          <p className="text-xs sm:text-sm text-bone-300 leading-relaxed">
             Todos os dados do site estão disponíveis em formato aberto, sem cadastro:
           </p>
           <ul className="text-xs space-y-1.5 font-mono">
             <li>
               <a
-                className="text-civic-ink underline hover:no-underline"
+                className="text-bone-100 underline hover:no-underline"
                 href={publicDataPath("brazil_summary.parquet")}
               >
                 brazil_summary.parquet
               </a>{" "}
-              <span className="text-slate-400 font-sans">(dataset analítico)</span>
+              <span className="text-bone-500 font-sans">(dataset analítico)</span>
             </li>
             <li>
               <a
-                className="text-civic-ink underline hover:no-underline"
+                className="text-bone-100 underline hover:no-underline"
                 href={publicDataPath("brazil_summary.json")}
               >
                 brazil_summary.json
               </a>{" "}
-              <span className="text-slate-400 font-sans">(mesmos dados em JSON)</span>
+              <span className="text-bone-500 font-sans">(mesmos dados em JSON)</span>
             </li>
             <li>
               <a
-                className="text-civic-ink underline hover:no-underline"
+                className="text-bone-100 underline hover:no-underline"
                 href={publicDataPath("cities_index.json")}
               >
                 cities_index.json
               </a>{" "}
-              <span className="text-slate-400 font-sans">(índice de busca)</span>
+              <span className="text-bone-500 font-sans">(índice de busca)</span>
             </li>
           </ul>
-          <p className="text-[11px] text-slate-500 pt-1">
+          <p className="text-[11px] text-bone-400 pt-1">
             O pipeline e o código do site estão no{" "}
             <a
               className="underline hover:no-underline"
@@ -318,7 +319,7 @@ export default function SobrePage() {
         </div>
       </section>
 
-      <p className="text-xs text-slate-500 leading-relaxed">
+      <p className="text-xs text-bone-400 leading-relaxed">
         Encontrou um número estranho? Compare com o relatório original no{" "}
         <a
           className="underline hover:no-underline"
@@ -335,7 +336,7 @@ export default function SobrePage() {
       <div className="pt-2">
         <Link
           href="/"
-          className="text-xs font-semibold text-civic-ink hover:underline"
+          className="text-xs font-semibold text-bone-100 hover:underline"
         >
           ← Voltar para a busca de municípios
         </Link>

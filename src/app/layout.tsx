@@ -41,7 +41,7 @@ export const metadata: Metadata = {
 };
 
 export const viewport: Viewport = {
-  themeColor: "#132238",
+  themeColor: "#0b0d0b",
 };
 
 export default function RootLayout({
@@ -51,10 +51,10 @@ export default function RootLayout({
 }) {
   return (
     <html lang="pt-BR">
-      <body className="flex flex-col min-h-screen text-slate-900 bg-slate-50 antialiased selection:bg-brand-500 selection:text-white">
+      <body className="flex flex-col min-h-screen bg-ink-900 text-bone-100 antialiased selection:bg-acid selection:text-ink-950">
         <a
           href="#conteudo"
-          className="sr-only focus:not-sr-only focus:absolute focus:top-2 focus:left-2 focus:z-[60] focus:rounded focus:bg-civic-ink focus:px-3 focus:py-2 focus:text-xs focus:font-semibold focus:text-white"
+          className="sr-only focus:not-sr-only focus:absolute focus:top-2 focus:left-2 focus:z-[60] focus:rounded focus:bg-acid focus:px-3 focus:py-2 focus:text-xs focus:font-semibold focus:text-ink-950"
         >
           Pular para o conteúdo
         </a>
